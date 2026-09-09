@@ -144,8 +144,10 @@ cd site
 - **Renamed** production folder `site-rebuild/site-rebuild` → `demystify/` (workspace root) to remove the confusing "site-rebuild" misnomer. Git + Vercel linkage intact, live site unaffected.
 - **Initialized git** in `stockpulse/` (the marketfilter source): committed 52 files on `main`, clean `.gitignore` (excludes node_modules, .next, .vercel, .env). Commit author `Tooled-app <tooled.app@gmail.com>`.
 - **GitHub account email:** `tooled.app@gmail.com` (NOT signinguptononsense@gmail.com). Username `Tooled-app`.
+- **Created GitHub repo** `Tooled-app/marketfilter` (public) via fine-grained PAT (in `iCloudDrive/github access token.rtf`). Pushed `main`.
+- **Linked Vercel:** marketfilter project connected to `Tooled-app/marketfilter`, root directory `site/`, production branch `main`. Auto-deploy verified (git push → deployment READY).
 - **Vercel:** marketfilter live at `marketfilter.vercel.app` (200). Custom domain `marketfilter.biz` returns 404 — DNS not connected yet.
-- **Blockers:** (1) GitHub PAT in `iCloudDrive/github access token.rtf` — fine-grained token, needs repo-create permission (Administration R/W) and may have rotated after permission edit; old value in file returns 401. (2) Vercel token in `details.txt` is deploy-only (403 on account API).
+- **Note:** Vercel token in `details.txt` is deploy-only (403 on account API). GitHub fine-grained PAT works with `Authorization: Bearer` header (not the `***` literal).
 - **Network note:** this PC is on a Three mobile hotspot (`Three_3455`, Public profile). Mac/iPhone on same LAN (192.168.1.x) can ping the PC but not reach port 4174 — likely hotspot client isolation. Site confirmed working locally (200).
 
 ### 2026-09-06 — Initial build
@@ -182,5 +184,5 @@ cd site
 - **2026-09-06:** Skill must be vanilla (any topic), not StockPulse-specific. — status: ✅ fixed (renamed to news-site-autopilot)
 - **2026-09-06:** SEO must be baked into both skill and site. — status: ✅ fixed (site live, skill updated)
 - **2026-09-06:** Site must not plagiarise and must attribute sources. — status: ✅ fixed (Via links, disclosure, /method, /sources, hardened story prompt)
-- **2026-09-09:** Wants proper version control for marketfilter (avoid demystify-style disaster where no repo meant rebuild from scratch). — status: 🔄 in progress (local git done; GitHub push + Vercel link pending PAT permission)
+- **2026-09-09:** Wants proper version control for marketfilter (avoid demystify-style disaster where no repo meant rebuild from scratch). — status: ✅ done (git init + GitHub repo `Tooled-app/marketfilter` + Vercel linked, auto-deploy verified)
 - **2026-09-09:** Confusing folder naming — wants a dev folder and a production folder, straightforward. — status: 🔄 in progress (production renamed to `demystify/`; dev copy not yet created)
