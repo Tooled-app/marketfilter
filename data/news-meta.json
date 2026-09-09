@@ -1,0 +1,63 @@
+{
+  "lastRun": "2026-09-09T17:01:31.547Z",
+  "fetched": 9,
+  "failed": 0,
+  "newItems": 72,
+  "total": 200,
+  "sources": [
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "items": 30,
+      "added": 5
+    },
+    {
+      "id": "bbc",
+      "name": "BBC Business",
+      "items": 53,
+      "added": 24
+    },
+    {
+      "id": "investing",
+      "name": "Investing.com",
+      "items": 10,
+      "added": 10
+    },
+    {
+      "id": "marketwatch",
+      "name": "MarketWatch",
+      "items": 10,
+      "added": 6
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "items": 20,
+      "added": 2
+    },
+    {
+      "id": "ft",
+      "name": "Financial Times",
+      "items": 11,
+      "added": 3
+    },
+    {
+      "id": "seekingalpha",
+      "name": "Seeking Alpha",
+      "items": 7,
+      "added": 6
+    },
+    {
+      "id": "benzinga",
+      "name": "Benzinga",
+      "items": 10,
+      "added": 0
+    },
+    {
+      "id": "yahoo",
+      "name": "Yahoo Finance",
+      "items": 20,
+      "added": 16
+    }
+  ]
+}

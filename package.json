@@ -1,0 +1,19 @@
+{
+  "name": "marketfilter",
+  "version": "0.1.0",
+  "description": "Stocks & markets news engine - mines SEC/LSE/press for story ideas",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "ingest:sec": "node src/ingest/sec.js",
+    "ingest:all": "node src/ingest/run-all.js",
+    "engine": "node src/engine/story-engine.js",
+    "test": "node src/test/smoke.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  },
+  "allowScripts": {
+    "better-sqlite3@11.10.0": true
+  }
+}

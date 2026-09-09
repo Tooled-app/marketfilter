@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Filter â€” Paper &amp; Ink</title>
+<style>
+  :root{
+    --paper:#f2ede3; --card:#faf6ec; --ink:#2b2620; --dim:#7a7266; --line:#ddd4c3;
+    --accent:#c14b2e; --accent2:#2f5d50; --ink2:#4a3f33;
+    --serif:"Lora",Georgia,serif;
+    --sans:"Karla","Helvetica Neue",Arial,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6}
+  body::before{content:"";position:fixed;inset:0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E");pointer-events:none;z-index:0}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 28px;position:relative;z-index:1}
+
+  header{padding:26px 0 0}
+  .hdr{display:flex;align-items:center;justify-content:space-between}
+  .logo{font-family:var(--serif);font-size:26px;font-weight:700;letter-spacing:-.5px}
+  .logo .pulse{color:var(--accent);font-style:italic}
+  .logo .sub{display:block;font-family:var(--sans);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--dim);font-weight:400;margin-top:2px}
+  nav{display:flex;gap:26px}
+  nav a{color:var(--ink2);text-decoration:none;font-size:13px;letter-spacing:.5px;transition:color .15s}
+  nav a:hover{color:var(--accent)}
+  nav a.active{color:var(--accent);font-weight:600}
+  .hdr-right{display:flex;gap:10px}
+  .btn{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 16px;font-family:var(--sans);font-size:13px;border-radius:6px;cursor:pointer;transition:all .15s}
+  .btn:hover{border-color:var(--accent);color:var(--accent)}
+  .btn.solid{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+  .btn.solid:hover{background:#a83e24}
+
+  .rule{height:1px;background:var(--line);margin:22px 0 0}
+
+  /* hero */
+  .hero{padding:52px 0 40px;display:grid;grid-template-columns:1.3fr 1fr;gap:48px;align-items:center}
+  .hero .kicker{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:16px}
+  .hero h1{font-family:var(--serif);font-size:clamp(30px,4.5vw,46px);line-height:1.12;font-weight:700;letter-spacing:-.5px}
+  .hero h1 em{color:var(--accent);font-style:italic}
+  .hero p{color:var(--dim);margin-top:18px;font-size:16px;max-width:520px}
+  .hero .cta{display:flex;gap:14px;margin-top:28px}
+  .hero .note{font-size:12px;color:var(--dim);margin-top:16px;font-style:italic}
+  .hero .panel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:24px;box-shadow:0 10px 30px rgba(43,38,32,.06)}
+  .panel .row{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px dashed var(--line)}
+  .panel .row:last-child{border-bottom:none}
+  .panel .row .lbl{color:var(--dim);font-size:13px}
+  .panel .row .val{font-family:var(--serif);font-weight:700;font-size:16px}
+  .panel .row .val.up{color:var(--accent2)} .panel .row .val.down{color:var(--accent)}
+
+  /* section */
+  .sec{display:flex;align-items:center;gap:16px;margin:44px 0 20px}
+  .sec h2{font-family:var(--serif);font-size:24px;font-weight:700}
+  .sec .line{flex:1;height:1px;background:var(--line)}
+  .sec a{font-size:12px;letter-spacing:1px;text-transform:uppercase;color:var(--accent);text-decoration:none}
+
+  /* story list */
+  .stories{border-top:2px solid var(--ink)}
+  .story{display:grid;grid-template-columns:56px 1fr auto;gap:20px;padding:20px 4px;border-bottom:1px solid var(--line);transition:background .15s;cursor:pointer}
+  .story:hover{background:rgba(193,75,46,.04)}
+  .story .time{font-family:var(--serif);color:var(--dim);font-size:13px;padding-top:2px}
+  .story .title{font-family:var(--serif);font-size:18px;font-weight:600;line-height:1.35}
+  .story .title .tag{display:inline-block;font-family:var(--sans);font-size:10px;letter-spacing:1px;text-transform:uppercase;padding:2px 7px;border:1px solid;border-radius:3px;margin-right:10px;vertical-align:2px}
+  .tag.insider{color:var(--accent);border-color:var(--accent)}
+  .tag.reg{color:var(--accent2);border-color:var(--accent2)}
+  .tag.earn{color:#8a6d1f;border-color:#8a6d1f}
+  .story .src{font-size:12px;color:var(--dim);margin-top:6px}
+  .story .score{text-align:right;font-size:12px;color:var(--dim)}
+  .story .score b{display:block;font-family:var(--serif);font-size:20px;color:var(--accent)}
+
+  footer{border-top:2px solid var(--ink);margin-top:56px;padding:28px 0 40px;color:var(--dim);font-size:12px}
+  footer .row{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+  footer a{color:var(--ink2);text-decoration:none}
+  footer a:hover{color:var(--accent)}
+
+  @media(max-width:760px){
+    .hero{grid-template-columns:1fr;gap:28px}
+    nav{display:none}
+    .story{grid-template-columns:1fr;gap:8px}
+    .story .score{text-align:left}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap hdr">
+    <div class="logo">Stock<span class="pulse">Pulse</span><span class="sub">The filing desk</span></div>
+    <nav>
+      <a href="#" class="active">Markets</a>
+      <a href="#">Filings</a>
+      <a href="#">Insider</a>
+      <a href="#">Earnings</a>
+      <a href="#">IPO</a>
+    </nav>
+    <div class="hdr-right">
+      <button class="btn">Search</button>
+      <button class="btn solid">Live</button>
+    </div>
+  </div>
+  <div class="rule"></div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div>
+      <div class="kicker">The filing desk</div>
+      <h1>We read the paperwork so <em>you</em> don't have to.</h1>
+      <p>Every day, Market Filter pores over SEC, LSE and Nasdaq filings â€” the 8-Ks, the Form 4s, the quiet amendments â€” and turns them into stories worth your time.</p>
+      <div class="cta">
+        <button class="btn solid">Read today's signals</button>
+        <button class="btn">How it works</button>
+      </div>
+      <div class="note">Not investment advice. Just the facts, sourced and verifiable.</div>
+    </div>
+    <div class="panel">
+      <div class="row"><span class="lbl">NVIDIA Corp</span><span class="val up">$128.40 <small>+1.2%</small></span></div>
+      <div class="row"><span class="lbl">Apple Inc</span><span class="val down">$232.10 <small>âˆ’0.4%</small></span></div>
+      <div class="row"><span class="lbl">Microsoft</span><span class="val up">$415.30 <small>+0.8%</small></span></div>
+      <div class="row"><span class="lbl">Tesla Inc</span><span class="val down">$244.80 <small>âˆ’2.1%</small></span></div>
+      <div class="row"><span class="lbl">Filings reviewed</span><span class="val">26 today</span></div>
+    </div>
+  </section>
+
+  <div class="sec"><h2>Today's Signals</h2><div class="line"></div><a href="#">View all â†’</a></div>
+  <section class="stories">
+    <div class="story">
+      <div class="time">00:41</div>
+      <div><div class="title"><span class="tag insider">Insider</span>Nvidia's CEO sells $2.1M â€” the first insider sale in 14 months</div><div class="src">SEC Form 4 Â· 2026-09-04</div></div>
+      <div class="score">score<b>9</b></div>
+    </div>
+    <div class="story">
+      <div class="time">00:38</div>
+      <div><div class="title"><span class="tag reg">Regulatory</span>Microsoft files a surprise 8-K â€” what changed behind the scenes</div><div class="src">SEC 8-K Â· 2026-09-02</div></div>
+      <div class="score">score<b>8</b></div>
+    </div>
+    <div class="story">
+      <div class="time">00:35</div>
+      <div><div class="title"><span class="tag earn">Earnings</span>Apple's margin compression runs deeper than the headline</div><div class="src">SEC 10-Q Â· 2026-09-01</div></div>
+      <div class="score">score<b>7</b></div>
+    </div>
+    <div class="story">
+      <div class="time">00:30</div>
+      <div><div class="title"><span class="tag insider">Insider</span>Alphabet insiders moved $4.3M in 72 hours</div><div class="src">SEC Form 4 Â· 2026-09-03</div></div>
+      <div class="score">score<b>7</b></div>
+    </div>
+    <div class="story">
+      <div class="time">00:22</div>
+      <div><div class="title"><span class="tag reg">Regulatory</span>Bank of America files 8-K â€” capital position update</div><div class="src">SEC 8-K Â· 2026-09-04</div></div>
+      <div class="score">score<b>6</b></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap row">
+    <span>Â© 2026 Market Filter. Not investment advice. For informational purposes only.</span>
+    <span><a href="#">About</a> Â· <a href="#">Method</a> Â· <a href="#">Sources</a> Â· <a href="#">Contact</a></span>
+  </div>
+</footer>
+
+</body>
+</html>

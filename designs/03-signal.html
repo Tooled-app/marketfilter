@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Filter â€” Signal</title>
+<style>
+  :root{
+    --bg:#0b0e14; --surface:#12161f; --surface2:#181d29; --line:#232a38;
+    --ink:#eef1f6; --dim:#8b94a5; --faint:#4a5263;
+    --accent:#7c5cff; --accent2:#00d4ff; --green:#2ee6a8; --red:#ff5d73;
+    --display:"Space Grotesk","Sohne",sans-serif;
+    --body:"Sohne","Helvetica Neue",Arial,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.55;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+  /* ambient glow */
+  .glow{position:fixed;top:-200px;right:-200px;width:600px;height:600px;background:radial-gradient(circle,rgba(124,92,255,.14),transparent 60%);pointer-events:none;z-index:0}
+  .glow2{position:fixed;bottom:-200px;left:-200px;width:500px;height:500px;background:radial-gradient(circle,rgba(0,212,255,.08),transparent 60%);pointer-events:none;z-index:0}
+
+  header{position:sticky;top:0;background:rgba(11,14,20,.85);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);z-index:20}
+  .hdr{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .logo{font-family:var(--display);font-size:20px;font-weight:700;letter-spacing:-.5px}
+  .logo .dot{color:var(--accent2)}
+  .logo .pulse{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
+  nav{display:flex;gap:6px}
+  nav a{color:var(--dim);text-decoration:none;font-size:14px;padding:8px 14px;border-radius:8px;transition:all .15s}
+  nav a:hover{color:var(--ink);background:var(--surface)}
+  nav a.active{color:var(--ink);background:var(--surface2)}
+  .hdr-right{display:flex;gap:10px}
+  .pill{border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:8px 16px;border-radius:999px;font-size:13px;cursor:pointer;transition:all .15s}
+  .pill:hover{border-color:var(--accent)}
+  .pill.solid{background:linear-gradient(90deg,var(--accent),var(--accent2));border:none;font-weight:600;color:#0b0e14}
+  .pill.solid:hover{filter:brightness(1.1)}
+
+  /* hero */
+  .hero{padding:64px 0 40px;position:relative;z-index:1}
+  .hero .kicker{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent2);margin-bottom:18px}
+  .hero .kicker .live{width:8px;height:8px;border-radius:50%;background:var(--green);box-shadow:0 0 12px var(--green);animation:pulse 2s infinite}
+  @keyframes pulse{50%{opacity:.4}}
+  .hero h1{font-family:var(--display);font-size:clamp(32px,5vw,54px);line-height:1.05;font-weight:700;letter-spacing:-1.5px;max-width:720px}
+  .hero h1 .grad{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero p{color:var(--dim);max-width:560px;margin-top:18px;font-size:16px}
+  .hero .stats{display:flex;gap:40px;margin-top:32px}
+  .stat .num{font-family:var(--display);font-size:28px;font-weight:700}
+  .stat .lbl{font-size:12px;color:var(--dim);letter-spacing:.5px;margin-top:2px}
+
+  /* market cards */
+  .markets{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:36px 0;position:relative;z-index:1}
+  .mkt{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;transition:all .2s}
+  .mkt:hover{transform:translateY(-3px);border-color:var(--accent)}
+  .mkt .top{display:flex;justify-content:space-between;align-items:center}
+  .mkt .sym{font-family:var(--display);font-weight:700;font-size:14px}
+  .mkt .chg{font-size:12px;font-weight:600;padding:3px 8px;border-radius:6px}
+  .mkt .chg.up{color:var(--green);background:rgba(46,230,168,.1)}
+  .mkt .chg.down{color:var(--red);background:rgba(255,93,115,.1)}
+  .mkt .price{font-family:var(--display);font-size:22px;font-weight:700;margin-top:10px}
+  .mkt .spark{display:block;margin-top:12px;width:100%;height:30px}
+
+  /* section */
+  .sec{display:flex;align-items:center;justify-content:space-between;margin:44px 0 18px;position:relative;z-index:1}
+  .sec h2{font-family:var(--display);font-size:20px;font-weight:700;letter-spacing:-.3px}
+  .sec a{color:var(--accent2);font-size:13px;text-decoration:none}
+  .sec a:hover{text-decoration:underline}
+
+  /* story cards */
+  .stories{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px;position:relative;z-index:1}
+  .story{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px;transition:all .2s;cursor:pointer}
+  .story:hover{transform:translateY(-3px);border-color:var(--accent2)}
+  .story .tag{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.5px;text-transform:uppercase;padding:3px 9px;border-radius:6px;margin-bottom:12px}
+  .tag.insider{color:var(--accent2);background:rgba(0,212,255,.1)}
+  .tag.reg{color:var(--accent);background:rgba(124,92,255,.12)}
+  .tag.earn{color:var(--green);background:rgba(46,230,168,.1)}
+  .story h3{font-family:var(--display);font-size:17px;font-weight:600;line-height:1.35;letter-spacing:-.2px}
+  .story .meta{display:flex;justify-content:space-between;align-items:center;margin-top:14px;font-size:12px;color:var(--dim)}
+  .story .score{font-family:var(--display);font-weight:700;color:var(--accent2)}
+
+  footer{border-top:1px solid var(--line);margin-top:60px;padding:30px 0 40px;color:var(--faint);font-size:13px;position:relative;z-index:1}
+  footer .row{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+  footer a{color:var(--dim);text-decoration:none}
+  footer a:hover{color:var(--accent2)}
+
+  @media(max-width:720px){
+    nav{display:none}
+    .hero .stats{flex-wrap:wrap;gap:20px}
+  }
+</style>
+</head>
+<body>
+<div class="glow"></div><div class="glow2"></div>
+
+<header>
+  <div class="wrap hdr">
+    <div class="logo">stock<span class="pulse">pulse</span><span class="dot">.</span></div>
+    <nav>
+      <a href="#" class="active">Markets</a>
+      <a href="#">Filings</a>
+      <a href="#">Insider</a>
+      <a href="#">Earnings</a>
+      <a href="#">IPO</a>
+    </nav>
+    <div class="hdr-right">
+      <button class="pill">Search</button>
+      <button class="pill solid">Live</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="kicker"><span class="live"></span> Live Â· Market Intelligence</div>
+    <h1>Find the signal in the <span class="grad">filings</span>.</h1>
+    <p>Market Filter scans SEC, LSE and Nasdaq in real time, cross-references the paperwork, and surfaces the stories the press hasn't caught yet.</p>
+    <div class="stats">
+      <div class="stat"><div class="num">26</div><div class="lbl">Filings today</div></div>
+      <div class="stat"><div class="num">7</div><div class="lbl">Stories queued</div></div>
+      <div class="stat"><div class="num">3</div><div class="lbl">Sources</div></div>
+      <div class="stat"><div class="num">62%</div><div class="lbl">Flag rate</div></div>
+    </div>
+  </section>
+
+  <section class="markets" id="markets"></section>
+
+  <div class="sec"><h2>Today's Signals</h2><a href="#">View all â†’</a></div>
+  <section class="stories" id="stories"></section>
+</main>
+
+<footer>
+  <div class="wrap row">
+    <span>Â© 2026 Market Filter. Not investment advice. For informational purposes only.</span>
+    <span><a href="#">About</a> Â· <a href="#">Method</a> Â· <a href="#">Sources</a></span>
+  </div>
+</footer>
+
+<script>
+const tickers=[['NVDA',128.4,1.2],['AAPL',232.1,-0.4],['MSFT',415.3,0.8],['GOOGL',178.9,0.2],['AMZN',201.5,-0.9],['META',512.7,1.6],['TSLA',244.8,-2.1],['JPM',214.3,0.5]];
+document.getElementById('markets').innerHTML=tickers.map(([s,p,c])=>`
+  <div class="mkt">
+    <div class="top"><span class="sym">${s}</span><span class="chg ${c>=0?'up':'down'}">${c>=0?'+':''}${c.toFixed(2)}%</span></div>
+    <div class="price">$${p.toFixed(2)}</div>
+    <svg class="spark" viewBox="0 0 100 30" preserveAspectRatio="none"><polyline points="${spark(c)}" fill="none" stroke="${c>=0?'#2ee6a8':'#ff5d73'}" stroke-width="2" stroke-linecap="round"/></svg>
+  </div>`).join('');
+function spark(c){let v=15,pts=[];for(let i=0;i<=10;i++){v+=(Math.random()-.5)*(c>=0?6:9);pts.push(`${i*10},${Math.max(2,Math.min(28,v))}`);}return pts.join(' ');}
+
+const data=[
+  ['insider','NVDA','CEO sells $2.1M â€” first insider sale in 14 months','SEC Form 4 Â· 00:41',9],
+  ['reg','MSFT','Surprise 8-K filed under items 7.01/9.01','SEC 8-K Â· 00:38',8],
+  ['earn','AAPL','Margin compression deeper than the headline','SEC 10-Q Â· 00:35',7],
+  ['insider','GOOGL','Alphabet insiders moved $4.3M in 72 hours','SEC Form 4 Â· 00:30',7],
+  ['reg','BAC','Bank of America files 8-K â€” capital update','SEC 8-K Â· 00:22',6],
+  ['earn','AMZN','Amazon 10-Q reveals AWS margin shift','SEC 10-Q Â· 00:15',6]
+];
+document.getElementById('stories').innerHTML=data.map(([tag,sym,title,src,score])=>`
+  <div class="story">
+    <span class="tag ${tag}">${tag}</span>
+    <h3>${title}</h3>
+    <div class="meta"><span>${src}</span><span class="score">${score}</span></div>
+  </div>`).join('');
+</script>
+</body>
+</html>
