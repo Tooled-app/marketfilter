@@ -149,6 +149,8 @@ cd site
 - **Vercel:** marketfilter live at `marketfilter.vercel.app` (200). Custom domain `marketfilter.biz` returns 404 — DNS not connected yet.
 - **Note:** Vercel token in `details.txt` is deploy-only (403 on account API). GitHub fine-grained PAT works with `Authorization: Bearer` header (not the `***` literal).
 - **Network note:** this PC is on a Three mobile hotspot (`Three_3455`, Public profile). Mac/iPhone on same LAN (192.168.1.x) can ping the PC but not reach port 4174 — likely hotspot client isolation. Site confirmed working locally (200).
+- **Vercel framework fix (2026-09-11):** after git-link was created, Vercel had Framework Preset = `Other`, so its first git build produced a default "Vite + React + TS" placeholder that polluted `marketfilter.vercel.app`. Fixed by setting framework = `nextjs` (root dir `site`) via API. New git deployment (`dezaqqua6`) built the real app (routes /, /about, /filings, /method, /news, /sources, /stories, /stories/[id] confirmed). **`marketfilter.biz` now serves the correct app** (title "Market Intelligence Feed", HTTP 200). Legacy vanity URL `marketfilter.vercel.app` still shows stale "Vite + React + TS" — not the real domain, ignore.
+- **Live URL:** `https://marketfilter.biz` (correct app). `marketfilter.vercel.app` = stale placeholder (unused).
 
 ### 2026-09-06 — Initial build
 - SEC EDGAR ingestion (`src/ingest/sec.js`) — ticker map + filings
@@ -184,5 +186,5 @@ cd site
 - **2026-09-06:** Skill must be vanilla (any topic), not StockPulse-specific. — status: ✅ fixed (renamed to news-site-autopilot)
 - **2026-09-06:** SEO must be baked into both skill and site. — status: ✅ fixed (site live, skill updated)
 - **2026-09-06:** Site must not plagiarise and must attribute sources. — status: ✅ fixed (Via links, disclosure, /method, /sources, hardened story prompt)
-- **2026-09-09:** Wants proper version control for marketfilter (avoid demystify-style disaster where no repo meant rebuild from scratch). — status: ✅ done (git init + GitHub repo `Tooled-app/marketfilter` + Vercel linked, auto-deploy verified)
+- **2026-09-09:** Wants proper version control for marketfilter (avoid demystify-style disaster where no repo meant rebuild from scratch). — status: ✅ done (git init + GitHub repo `Tooled-app/marketfilter` + Vercel linked to branch main, root dir `site`, auto-deploy verified; framework preset corrected to Next.js 2026-09-11)
 - **2026-09-09:** Confusing folder naming — wants a dev folder and a production folder, straightforward. — status: 🔄 in progress (production renamed to `demystify/`; dev copy not yet created)
