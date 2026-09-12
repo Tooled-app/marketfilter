@@ -140,6 +140,14 @@ cd site
 
 ## Changelog
 
+### 2026-09-12 — Fixed live site showing no data + autonomous refresh + AdSense
+- **ROOT CAUSE of broken live site:** site read data from `site/../data`, but Vercel project root = `site`, so the `data/` folder never shipped. Live site showed "Sources: 0, News items: 0, No news." Localhost (4174) worked because files were on disk.
+- **Fix:** moved/created data at `site/data/` (ships with deployment); updated `site/lib/data.ts` to `cwd/data`, `src/ingest/news.js` + `sec.js` + `dev-server.js` to write to `site/data`. Deleted old `stockpulse/data/`.
+- **Autonomous refresh:** added `src/run-news.js` (hourly) and `src/run-sec.js` (daily) that ingest + `git add site/data site/app site/public site/components src` + commit + `git push origin main`. Vercel git integration auto-deploys each push. Updated both crons to call the wrapper scripts. Verified end-to-end: ingest → commit → push → Vercel deploy → live site updated (News items=200, Last scan recent).
+- **Gotchas found:** PowerShell does not support `&&` chains — cron messages must use `;` or a single node script (hence the wrapper scripts). Backslashes in cron exec paths get stripped — use forward slashes.
+- **AdSense:** added to marketfilter.biz (same pub id ca-pub-1023878090475896): meta tag + adsbygoogle script in `site/app/layout.tsx`, `site/public/ads.txt`. Live verified.
+- Commits: `6eb7ab6` (data ship fix), `5e9c4d7` (hourly refresh), `74d2d24` (AdSense + wrappers).
+
 ### 2026-09-09 — Version control + repo hygiene
 - **Renamed** production folder `site-rebuild/site-rebuild` → `demystify/` (workspace root) to remove the confusing "site-rebuild" misnomer. Git + Vercel linkage intact, live site unaffected.
 - **Initialized git** in `stockpulse/` (the marketfilter source): committed 52 files on `main`, clean `.gitignore` (excludes node_modules, .next, .vercel, .env). Commit author `Tooled-app <tooled.app@gmail.com>`.
