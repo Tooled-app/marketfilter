@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-09-12T21:01:28.994Z",
+  "lastRun": "2026-09-12T22:01:31.275Z",
   "fetched": 9,
   "failed": 0,
-  "newItems": 13,
+  "newItems": 14,
   "total": 200,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 1
+      "added": 6
     },
     {
       "id": "bbc",
@@ -21,19 +21,19 @@
       "id": "investing",
       "name": "Investing.com",
       "items": 10,
-      "added": 2
+      "added": 4
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
       "items": 10,
-      "added": 2
+      "added": 1
     },
     {
       "id": "guardian",
       "name": "The Guardian",
       "items": 20,
-      "added": 6
+      "added": 0
     },
     {
       "id": "ft",
@@ -45,7 +45,7 @@
       "id": "seekingalpha",
       "name": "Seeking Alpha",
       "items": 7,
-      "added": 1
+      "added": 2
     },
     {
       "id": "benzinga",
