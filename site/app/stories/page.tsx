@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getStories } from "@/lib/data";
+import { getStories, formatFilingDate } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -50,7 +50,7 @@ export default function StoriesPage() {
       <section className="stories">
         {stories.map((s) => (
           <article key={s.id} className="story">
-            <div className="time">{s.published}</div>
+            <div className="time">{formatFilingDate(s.published)}</div>
             <div>
               <div className="title">
                 <span className={`tag ${s.signal === "merger" ? "reg" : "news"}`}>

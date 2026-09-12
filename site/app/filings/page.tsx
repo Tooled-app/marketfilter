@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getFilings } from "@/lib/data";
+import { getFilings, formatFilingDate } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -46,16 +46,16 @@ export default function FilingsPage() {
         {filings.map((c) =>
           c.filings.map((f, i) => (
             <div key={`${c.ticker}-${i}`} className="story">
-              <div className="time">{f.filed}</div>
+              <div className="time">{formatFilingDate(f.filed)}</div>
               <div>
                 <div className="title">
                   <span className={`tag ${FORM_TAG[f.form] ?? "reg"}`}>{f.form}</span>
                   {c.ticker} — {c.title}
                 </div>
                 <div className="src">
-                  SEC {f.form} · filed {f.filed}
+                  SEC {f.form} · filed {formatFilingDate(f.filed)}
                   {f.items ? ` · items ${f.items}` : ""}
-                  {f.reportDate ? ` · report ${f.reportDate}` : ""}
+                  {f.reportDate ? ` · report ${formatFilingDate(f.reportDate)}` : ""}
                 </div>
               </div>
               <div className="score">CIK<b>{c.cik.slice(-4)}</b></div>

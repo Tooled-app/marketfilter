@@ -90,6 +90,23 @@ export function getTickerCount(): number {
   return map ? Object.keys(map).length : 0;
 }
 
+// Format an ISO date (yyyy-mm-dd) as a human-friendly British date, e.g. "2026-09-11" -> "11 September 2026"
+// Parsed manually from components to avoid UTC->local timezone off-by-one (new Date("2026-09-11") is UTC midnight).
+export function formatFilingDate(iso: string): string {
+  if (!iso) return "";
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso);
+  if (!m) {
+    // fall back: try Date parse
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return iso;
+    return d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+  }
+  const [, y, mo, da] = m;
+  const d = new Date(Number(y), Number(mo) - 1, Number(da)); // local midnight, no tz shift
+  if (isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+}
+
 // Source display names
 export const SOURCE_NAMES: Record<string, string> = {
   cnbc: "CNBC",

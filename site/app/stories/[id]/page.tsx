@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getStories } from "@/lib/data";
+import { getStories, formatFilingDate } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -37,7 +37,7 @@ export default async function StoryPage({ params }: { params: Promise<{ id: stri
       </Link>
 
       <div className="kicker text-[var(--green)] text-[12px] tracking-[2px] uppercase mt-6">
-        {story.kicker} · {story.published}
+        {story.kicker} · {formatFilingDate(story.published)}
       </div>
       <h1 className="text-[clamp(24px,4vw,36px)] leading-[1.15] font-bold mt-3">
         {story.headline}

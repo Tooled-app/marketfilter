@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getNews, getNewsMeta, getFilings, getTickerCount, getStories, SOURCE_NAMES } from "@/lib/data";
+import { getNews, getNewsMeta, getFilings, getTickerCount, getStories, SOURCE_NAMES, formatFilingDate } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Market Intelligence Feed",
@@ -217,7 +217,7 @@ export default function Home() {
         {filings.slice(0, 6).map((c) =>
           c.filings.slice(0, 2).map((f, i) => (
             <div key={`${c.ticker}-${i}`} className="story">
-              <div className="time">{f.filed}</div>
+              <div className="time">{formatFilingDate(f.filed)}</div>
               <div>
                 <div className="title">
                   <span className={`tag ${f.form === "8-K" ? "reg" : f.form === "4" ? "insider" : "earn"}`}>
@@ -226,7 +226,7 @@ export default function Home() {
                   {c.ticker} — {c.title}
                 </div>
                 <div className="src">
-                  SEC {f.form} · {f.filed}
+                  SEC {f.form} · {formatFilingDate(f.filed)}
                   {f.items ? ` · items ${f.items}` : ""}
                 </div>
               </div>
