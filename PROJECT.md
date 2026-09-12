@@ -140,6 +140,12 @@ cd site
 
 ## Changelog
 
+### 2026-09-12 — British date format on filings/stories + AdSense confirmed
+- Added `formatFilingDate()` to `site/lib/data.ts` (parses yyyy-mm-dd components manually to avoid UTC→local off-by-one; `new Date('2026-09-11')` is UTC midnight and renders 10 Sep in BST).
+- Applied on homepage (`app/page.tsx`), `/filings`, `/stories`, and `/stories/[id]` — raw `yyyy-mm-dd` now renders as e.g. "11 September 2026". Verified no raw ISO dates in visible content anywhere.
+- AdSense confirmed live on marketfilter.biz (meta + script + ads.txt, ca-pub-1023878090475896).
+- Commit `2d351d9`.
+
 ### 2026-09-12 — Fixed live site showing no data + autonomous refresh + AdSense
 - **ROOT CAUSE of broken live site:** site read data from `site/../data`, but Vercel project root = `site`, so the `data/` folder never shipped. Live site showed "Sources: 0, News items: 0, No news." Localhost (4174) worked because files were on disk.
 - **Fix:** moved/created data at `site/data/` (ships with deployment); updated `site/lib/data.ts` to `cwd/data`, `src/ingest/news.js` + `sec.js` + `dev-server.js` to write to `site/data`. Deleted old `stockpulse/data/`.
