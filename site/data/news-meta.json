@@ -1,22 +1,21 @@
 {
-  "lastRun": "2026-09-12T15:43:06.998Z",
-  "fetched": 6,
-  "failed": 3,
-  "newItems": 9,
+  "lastRun": "2026-09-12T16:01:28.663Z",
+  "fetched": 9,
+  "failed": 0,
+  "newItems": 10,
   "total": 200,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 5
+      "added": 0
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 55,
+      "added": 6
     },
     {
       "id": "investing",
@@ -28,7 +27,7 @@
       "id": "marketwatch",
       "name": "MarketWatch",
       "items": 10,
-      "added": 2
+      "added": 0
     },
     {
       "id": "guardian",
@@ -39,8 +38,8 @@
     {
       "id": "ft",
       "name": "Financial Times",
-      "items": 11,
-      "added": 2
+      "items": 10,
+      "added": 0
     },
     {
       "id": "seekingalpha",
@@ -51,16 +50,14 @@
     {
       "id": "benzinga",
       "name": "Benzinga",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 0
     },
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 4
     }
   ]
 }
