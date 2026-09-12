@@ -5,8 +5,8 @@ import path from 'node:path';
 import fs from 'node:fs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// project root data dir (marketfilter/data)
-const DATA_DIR = path.join(__dirname, '..', '..', 'data');
+// site data dir (deployed to Vercel with the site) - marketfilter/site/data
+const DATA_DIR = path.join(__dirname, '..', '..', 'site', 'data');
 const NEWS_FILE = path.join(DATA_DIR, 'news.json');
 const META_FILE = path.join(DATA_DIR, 'news-meta.json');
 

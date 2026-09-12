@@ -6,7 +6,7 @@ import path from 'node:path';
 import fs from 'node:fs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, '..', 'data');
+const DATA_DIR = path.join(__dirname, '..', 'site', 'data');
 const DESIGNS_DIR = path.join(__dirname, '..', 'designs');
 const PORT = process.env.PORT || 4173;
 const HOST = '0.0.0.0';

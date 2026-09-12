@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
 
-// Path to the market filter engine data directory (shared with the ingestion engine)
-const DATA_DIR = path.join(process.cwd(), "..", "data");
+// Path to the market filter data directory (deployed with the site on Vercel)
+const DATA_DIR = path.join(process.cwd(), "data");
 
 export interface NewsItem {
   source: string;

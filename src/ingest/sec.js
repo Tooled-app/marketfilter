@@ -8,7 +8,8 @@ import path from 'node:path';
 import fs from 'node:fs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, '..', '..', 'data');
+// site data dir (deployed to Vercel with the site) - marketfilter/site/data
+const DATA_DIR = path.join(__dirname, '..', '..', 'site', 'data');
 const CACHE_FILE = path.join(DATA_DIR, 'sec-tickers.json');
 const FILINGS_FILE = path.join(DATA_DIR, 'filings.json');
 
