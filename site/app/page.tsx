@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getNews, getNewsMeta, getFilings, getTickerCount, getStories, SOURCE_NAMES, formatFilingDate } from "@/lib/data";
+import { getNews, getNewsMeta, getFilings, getTickerCount, getStories, SOURCE_NAMES, formatFilingDate, formatNewsDate } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Market Intelligence Feed",
@@ -183,7 +183,9 @@ export default function Home() {
       <section className="stories">
         {topNews.map((n, i) => (
           <article key={i} className="news-item">
-            <div className="src">{SOURCE_NAMES[n.source] ?? n.source}</div>
+            <div className="src">{SOURCE_NAMES[n.source] ?? n.source}
+              <div className="text-[var(--faint)] mt-1">{n.pubDate ? formatNewsDate(n.pubDate) : ""}</div>
+            </div>
             <div>
               <h3 className="title">
                 <a href={n.link} target="_blank" rel="noopener noreferrer">

@@ -107,6 +107,20 @@ export function formatFilingDate(iso: string): string {
   return d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
 }
 
+// Format a news pubDate (RSS/ISO) as an absolute British date+time, e.g. "Fri, 11 Sep 2026 13:35:29 GMT" -> "11 Sep 2026, 14:35" (BST)
+export function formatNewsDate(iso: string): string {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (isNaN(d.getTime())) return iso; // fall back to raw if unparseable
+  return d.toLocaleString("en-GB", {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
 // Source display names
 export const SOURCE_NAMES: Record<string, string> = {
   cnbc: "CNBC",

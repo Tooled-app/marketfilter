@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getNews, getNewsMeta, SOURCE_NAMES } from "@/lib/data";
+import { getNews, getNewsMeta, SOURCE_NAMES, formatNewsDate } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -52,7 +52,7 @@ export default function NewsPage() {
             <div className="src">
               {SOURCE_NAMES[n.source] ?? n.source}
               <div className="text-[var(--faint)] mt-1">
-                {n.pubDate ? timeAgo(n.pubDate) : ""}
+                {n.pubDate ? timeAgo(n.pubDate) + " · " + formatNewsDate(n.pubDate) : ""}
               </div>
             </div>
             <div>
