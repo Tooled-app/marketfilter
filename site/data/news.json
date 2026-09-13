@@ -1,6 +1,414 @@
 [
   {
     "source": "cnbc",
+    "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+    "desc": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
+    "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+    "pubDate": "Sun, 13 Sep 2026 11:17:12 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Primark finally set to launch home deliveries",
+    "desc": "The retailer launches the service four years after making its first foray into internet shopping.",
+    "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 10 Sep 2026 10:02:26 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+    "desc": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 10 Sep 2026 09:32:34 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Tax banks to cut energy bills, unions tell Burnham",
+    "desc": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 10 Sep 2026 00:06:33 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+    "desc": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 12:20:40 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+    "desc": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 15:34:09 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "More flight cancellations as fallout from air traffic control glitch continues",
+    "desc": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 13:59:42 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "bbc",
+    "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+    "desc": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 10:20:40 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Carney pushes idea of making Canada ’associate member’ of EU, WSJ reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/carney-pushes-idea-of-making-canada-associate-member-of-eu-wsj-reports-4898729",
+    "pubDate": "2026-09-13 11:30:27",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "InvestingPro’s Fair Value spotted 65% gain in Inspire Medical stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-65-gain-in-inspire-medical-stock-93CH-4898728",
+    "pubDate": "2026-09-13 11:09:05",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "InvestingPro Fair Value predicted 57% drop in Rackspace Technology",
+    "desc": "",
+    "link": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-predicted-57-drop-in-rackspace-technology-93CH-4898727",
+    "pubDate": "2026-09-13 11:01:46",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Rescuers search for 130 people after Indonesia passenger ship flipped; six dead, government says",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/rescuers-searching-for-140-people-after-indonesia-passenger-ship-sinks-agency-says-4898714",
+    "pubDate": "2026-09-13 10:12:27",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Russia hits truck near Polish border in latest strike near NATO",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/russia-hits-truck-near-polish-border-in-latest-strike-near-nato-4898726",
+    "pubDate": "2026-09-13 10:06:06",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Street calls of the week: Sept. 7–11, 2026",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-sept-711-2026-93CH-4898686",
+    "pubDate": "2026-09-13 10:00:03",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Xi pushes China’s open-source AI vision at BRICS summit",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/xi-pushes-chinas-opensource-ai-vision-at-brics-summit-4898725",
+    "pubDate": "2026-09-13 09:57:11",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "French AI boom exposes Europe’s funding gap as startups turn to U.S.",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/french-ai-boom-exposes-europes-funding-gap-as-startups-turn-to-us-4898724",
+    "pubDate": "2026-09-13 09:50:55",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
+    "desc": "",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+    "pubDate": "2026-09-13 09:26:43",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "investing",
+    "title": "Russia hits Ukrainian-Polish border area, Kyiv says",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/russia-hits-ukrainianpolish-border-area-kyiv-says-4898723",
+    "pubDate": "2026-09-13 09:12:38",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The Fed could raise interest rates three times. Here&#x2019;s where the market could face the stiffest test.",
+    "desc": "Economists note that the Fed historically has not been content to raise rates only once.",
+    "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+    "pubDate": "Fri, 11 Sep 2026 23:54:00 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "ft",
+    "title": "Why teenagers are doing worse at school",
+    "desc": "Falling global test scores underscore the importance of core knowledge, attention and mindset",
+    "link": "https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1",
+    "pubDate": "Sun, 13 Sep 2026 11:00:05 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "ft",
+    "title": "‘Trumpism’ spawns rare unity at Brics summit",
+    "desc": "Historically unruly bloc finds easy consensus amid worries over Gulf war, tariffs and US sanctions",
+    "link": "https://www.ft.com/content/d17cda71-1c35-4abd-b4d5-773550b109cc?syn-25a6b1a6=1",
+    "pubDate": "Sun, 13 Sep 2026 10:50:58 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "ft",
+    "title": "How Russia’s new drones are changing the air war",
+    "desc": "Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation",
+    "link": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
+    "pubDate": "Sun, 13 Sep 2026 04:00:12 GMT",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Four Corners Property Trust declares $0.1265 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642279-four-corners-property-trust-declares-0_1265-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:41:43 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Imperial Petroleum Inc. 8.75% CUM PFD A declares $0.5469 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642278-imperial-petroleum-inc-8_75-percent-cum-pfd-a-declares-0_5469-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:40:08 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Frontline declares $0.80 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642277-frontline-declares-0_80-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:39:07 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Ralph Lauren declares $1.00 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642276-ralph-lauren-declares-1_00-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:37:43 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Bentley Systems declares $0.07 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642275-bentley-systems-declares-0_07-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:36:59 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Village Super Market declares $0.25 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642274-village-super-market-declares-0_25-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:36:29 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Malaga Financial declares $0.25 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642273-malaga-financial-declares-0_25-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Sun, 13 Sep 2026 04:36:17 -0400",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Oil Stocks Right Now",
+    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-oil-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Solar Stocks",
+    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-solar-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks Under $10",
+    "desc": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#8230; Continued The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/stocks-under-10",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Tech Stocks Right Now",
+    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-tech-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Gold Stocks Right Now",
+    "desc": "The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you plan to diversify your portfolio in light of recent events, investing in gold stocks could be a good choice. Gold stocks not only track the movements of gold prices that tend to rise in uncertain times, but they also generally gain value in a rising stock market.&#160; Gold stocks could serve as a &#8230; Continued The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-gold-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Financial Stocks for the Week",
+    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Semiconductor Stocks",
+    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks Under $5",
+    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/top-stocks-under-5",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Energy Stocks",
+    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-energy-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Biotech Stocks Right Now",
+    "desc": "The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Biotech stocks are in the eye of the storm as the world recovers from the global pandemic. Government institutions and professional traders are banking on biotech stocks to continually develop a vaccine and boosters that can eradicate COVID-19.&#160; Tilt your stock portfolio toward biotech companies now and you could stand to make substantial profits in &#8230; Continued The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-biotech-stocks",
+    "pubDate": "Sun, 13 Sep 2026 11:12:41 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "‘Sounds Like a 14 Year Old’: Dave Ramsey Rips Husband Sinking 80% of Pay Into Pokemon Cards",
+    "desc": "A 35-year-old man routes most of his paycheck into a stack of cardboard he calls a portfolio, and his wife has resorted to keeping separate bank accounts just to cover groceries. Dave Ramsey had thoughts, and the math backing him up is brutal.",
+    "link": "https://247wallst.com/personal-finance/2026/09/13/sounds-like-a-14-year-old-dave-ramsey-rips-husband-sinking-80-of-pay-into-pokemon-cards/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 10:17:17 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's How Many Shares of Home Depot You'd Need for $10,000 in Yearly Dividends",
+    "desc": "The industry-leading company's share price has fallen 7% during the past five years.",
+    "link": "https://www.fool.com/investing/2026/09/13/how-many-shares-home-depot-10000-yearly-dividends/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 09:50:00 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September",
+    "desc": "September has often been the worst month of the year for stocks.",
+    "link": "https://www.fool.com/investing/2026/09/13/3-stocks-to-buy-and-hold-even-if-theres-a-stock-ma/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 09:25:00 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Investors Just Got a Reality Check From Fed Chair Kevin Warsh. History Says This 1 Move Is Crucial Right Now.",
+    "desc": "Inflation is still happening, and that makes some investments a lot less desirable over time.",
+    "link": "https://www.fool.com/investing/2026/09/13/investors-just-got-a-reality-check-from-fed-chair/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 09:10:00 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Unstoppable Dow Stocks Worth Buying Right Now",
+    "desc": "These stocks are demonstrating incredible performance and have a long growth runway.",
+    "link": "https://www.fool.com/investing/2026/09/13/3-unstoppable-dow-stocks-worth-buying-right-now/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 08:22:00 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Better Artificial Intelligence ETF: Roundhill's CHAT vs. State Street's XLK",
+    "desc": "Roundhill's AI-focused fund delivered 55.2% returns but carries higher volatility and fees. State Street's broader tech ETF offers lower costs and steadier performance for long-term investors.",
+    "link": "https://www.fool.com/coverage/etfs/2026/09/13/better-artificial-intelligence-etf-roundhill-s-chat-vs-state-street-s-xlk/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 06:37:28 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "You Can’t Spell SPY Without AI: How the Stock Market Became a 1-Way Bet on the Future",
+    "desc": "If you think you're investing in the S&P 500 for a broadly diversified portfolio, think again.",
+    "link": "https://www.barchart.com/story/news/4576680/you-cant-spell-spy-without-ai-how-the-stock-market-became-a-1-way-bet-on-the-future?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 01:00:02 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Wall Street's Biggest Bubble May Be Bursting Before Our Eyes, and the Consequences for the Stock Market Are Nothing Short of Disastrous",
+    "desc": "History has an uncanny ability to forecast the future, especially regarding investors’ willingness to take risks.",
+    "link": "https://www.fool.com/investing/2026/09/13/wall-street-biggest-bubble-bursting-consequences-for-stock-market-are-disastrous/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 10:56:01 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
+    "desc": "All eyes will be on the Federal Reserve's rates decision this week.",
+    "link": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 10:00:00 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "If a Market Crash Is Coming, Here’s a Piece of Warren Buffett Wisdom That You Should Follow",
+    "desc": "It’s never too early to prepare for tougher market times.",
+    "link": "https://www.fool.com/investing/2026/09/13/if-a-market-crash-is-coming-here-s-a-piece-of-warren-buffett-wisdom-that-you-should-follow/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 08:23:01 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Want to Thrive No Matter What the Market Does? Here's the One Move History Says You Must Make.",
+    "desc": "The market has a long history of ups and downs, but a market downturn doesn't mean it's time to cut and run.",
+    "link": "https://www.fool.com/investing/2026/09/13/want-to-thrive-no-matter-what-the-market-does-here/?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 06:05:00 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Compass CEO Warns Housing Market Is Splitting Apart as 42% of Homes See Price Cuts, Highest in Nearly a Decade: 'There's Not One Market'",
+    "desc": "Compass, Inc. CEO Robert Reffkin said 42% of U.S. homes on the market saw a price cut in September, the highest share in nearly a decade. Reffkin made the comments in an interview on CNBC’s “Squawk on the Street” on...",
+    "link": "https://finance.yahoo.com/real-estate/articles/compass-ceo-warns-housing-market-104604640.html?.tsrc=rss",
+    "pubDate": "Sun, 13 Sep 2026 10:46:04 +0000",
+    "fetchedAt": "2026-09-13T12:01:28.450Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India&apos;s Modi urges dialogue and peace",
     "desc": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
     "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
@@ -1190,413 +1598,5 @@
     "link": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
     "pubDate": "Wed, 09 Sep 2026 11:30:49 GMT",
     "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-    "desc": "<p>AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts</p><p>The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.</p><p>An analysis by the AFL-CIO Tech Institute of the label manufacturers’ own marketing materials found the universal adoption of electronic shelf labels, which are marketed to retailers as a cost-cutting measure, could cost workers between $1.6bn and $6.9bn in lost wages annually and affect between 44,223 and 191,633 jobs.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-    "pubDate": "Wed, 09 Sep 2026 11:00:07 GMT",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Ministers to put white working-class people in UK at heart of new equalities unit",
-    "desc": "<p>Bridget Phillipson to announce creation of unit which will make class a key part of its equalities agenda</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>The government is putting class at the heart of its equalities agenda by creating a new unit that will make tackling white working-class inequality a priority.</p><p>The unit, which the minister for women and equalities, Bridget Phillipson, will announce on Wednesday, will sit within the Office for Equality and Opportunity and examine disparities linked to class and socioeconomic background across all ethnic groups.</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/09/ministers-to-put-white-working-class-people-in-uk-at-heart-of-new-equalities-unit\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/inequality/2026/sep/09/ministers-to-put-white-working-class-people-in-uk-at-heart-of-new-equalities-unit",
-    "pubDate": "Wed, 09 Sep 2026 10:45:07 GMT",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "guardian",
-    "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-    "desc": "<p>Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad</p><p>The US is banning dairy products, most alcoholic beverages and motorcycles from <a href=\"https://www.theguardian.com/world/canada\">Canada</a>, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.</p><p>The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20bn in US imports earlier on Tuesday.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-    "pubDate": "Tue, 08 Sep 2026 23:59:37 GMT",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "guardian",
-    "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
-    "desc": "<p>National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Air traffic control issue causes flight delays and disruption across UK</a></p></li></ul><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-    "pubDate": "Tue, 08 Sep 2026 18:08:11 GMT",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK government pays highest interest rate on 30-year bond since 1998",
-    "desc": "<p>High yields threaten to wipe out at least half of the £24bn headroom John Healey was expecting to have for his budget</p><p>The UK government was forced to pay the highest interest rate for a 30-year bond since 1998 on Tuesday, underlining the fiscal challenges facing the chancellor, John Healey.</p><p>Echoing the global bond market sell-off that has driven up yields, or interest rates, on government borrowing across the main markets, the Treasury paid 5.82% to borrow £4bn.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998",
-    "pubDate": "Tue, 08 Sep 2026 17:47:30 GMT",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Key deals this week: META, ADI, BSP, AAPL, and more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642267-key-deals-this-week-meta-adi-bsp-aapl-and-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Sat, 12 Sep 2026 15:15:50 -0400",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
-    "desc": "The top 10 components recently made up a whopping 38% of the fund's value -- and the top three made up about 20%.",
-    "link": "https://www.fool.com/investing/2026/09/12/investing-in-the-vanguard-sp-500-etf-voo-beware-of/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 19:20:00 +0000",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dear Bloom Energy Stock Fans, Mark Your Calendars for September 21",
-    "desc": "Bloom Energy stock has multiple positive catalysts amid the AI data-center boom.",
-    "link": "https://www.barchart.com/story/news/4572910/dear-bloom-energy-stock-fans-mark-your-calendars-for-september-21?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 13:00:02 +0000",
-    "fetchedAt": "2026-09-12T20:01:28.960Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-    "desc": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-    "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 12 Sep 2026 18:31:23 GMT",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "investing",
-    "title": "Larry Ellison cancels plan to sell Oracle stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/larry-ellison-cancels-plan-to-sell-oracle-stock-4898680",
-    "pubDate": "2026-09-12 18:42:25",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oracle’s Ellison cancels plan to sell up to 50 mln shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/oracles-ellison-cancels-plan-to-sell-up-to-50-mln-shares-4898679",
-    "pubDate": "2026-09-12 18:03:28",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "ft",
-    "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
-    "desc": "Warring tech bosses unite behind warnings that humans could lose control of the technology",
-    "link": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
-    "pubDate": "Sat, 12 Sep 2026 18:14:06 GMT",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Grab Stock Sank This Week",
-    "desc": "Grab's share price saw a double-digit pullback this week.",
-    "link": "https://www.fool.com/investing/2026/09/12/why-grab-stock-sank-this-week/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 11:35:00 +0000",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Braze Stock Plummeted This Week",
-    "desc": "Despite a big valuation pullback this week, Braze's latest quarterly report looked pretty strong.",
-    "link": "https://www.fool.com/investing/2026/09/12/why-braze-stock-plummeted-this-week/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 11:20:00 +0000",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "IGLB vs LQD: Which Corporate Bond ETF Fits Your Portfolio?",
-    "desc": "IGLB targets long-duration bonds with a 5.5% yield and lower costs, while LQD spans all maturities with broader diversification and less volatility.",
-    "link": "https://www.fool.com/coverage/etfs/2026/09/12/iglb-vs-lqd-which-corporate-bond-etf-fits-your-portfolio/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 11:32:01 +0000",
-    "fetchedAt": "2026-09-12T19:01:35.083Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-    "desc": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
-    "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-    "pubDate": "Sat, 12 Sep 2026 17:14:56 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-    "desc": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
-    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-    "pubDate": "Sat, 12 Sep 2026 12:49:15 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Conversations that AIs are having in the office that may influence your performance review and pay",
-    "desc": "AI tools can help find the right tone and language for difficult workplace conversations about performance and pay, and managers are already using them.",
-    "link": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
-    "pubDate": "Sat, 12 Sep 2026 17:39:10 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "AI boom helps drive surprise UK growth in July",
-    "desc": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 10:17:28 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The one thing you need to do to succeed - according to top bosses",
-    "desc": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 09 Sep 2026 23:02:20 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-    "desc": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Air traffic failure was avoidable, says transport secretary",
-    "desc": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 09 Sep 2026 18:21:16 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Learner drivers still forced to wait months for tests",
-    "desc": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 09 Sep 2026 11:57:34 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "I'm 27 and I've already written my will - here's why",
-    "desc": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:04:17 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Singaporean man pleads guilty in US to massive crypto heist",
-    "desc": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-    "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 09 Sep 2026 05:49:30 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-    "desc": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-    "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 08 Sep 2026 20:57:09 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Can you really juggle a job and study for a degree?",
-    "desc": "Students in Glasgow say the cost of living is making part-time work increasingly important.",
-    "link": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 14:04:57 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "investing",
-    "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/russian-air-strikes-injure-two-cause-fire-in-9storey-apartment-building-in-kyiv-officials-say-4897164",
-    "pubDate": "2026-09-12 17:30:25",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "investing",
-    "title": "Trump says he would ’love’ to see a united Ireland",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/trump-to-visit-irelands-leaders-before-attending-golf-tournament-4898626",
-    "pubDate": "2026-09-12 17:18:29",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "investing",
-    "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/ukraine-braces-for-harsh-winter-as-russian-attacks-hit-economy-4898677",
-    "pubDate": "2026-09-12 17:06:27",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "investing",
-    "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-    "pubDate": "2026-09-12 17:04:09",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Elon Musk backs Anthropic&#x2019;s call to slow down AI progress before rogue bots take over the entire internet",
-    "desc": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
-    "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
-    "pubDate": "Sat, 12 Sep 2026 17:20:00 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "ft",
-    "title": "Larry Ellison cancels $7.5bn Oracle share sale",
-    "desc": "About-face comes a day after a filing revealed plans to sell up to 50mn shares by the end of October",
-    "link": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
-    "pubDate": "Sat, 12 Sep 2026 17:18:43 GMT",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Boring Stock That Delivered 127% Returns While Proving Slow and Steady Loses the Race",
-    "desc": "Duke Energy has raised its dividend every year for two decades, mailed checks like clockwork, and still managed to leave patient investors wondering if boring was ever really worth it.",
-    "link": "https://247wallst.com/investing/2026/09/12/the-boring-stock-that-delivered-127-returns-while-proving-slow-and-steady-loses-the-race/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 17:25:40 +0000",
-    "fetchedAt": "2026-09-12T18:01:28.641Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Anthropic&apos;s Amodei proposes plan to &apos;slow the pace&apos; of advancing AI capabilities",
-    "desc": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-    "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-    "pubDate": "Sat, 12 Sep 2026 17:00:10 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Cramer: This market has eerie parallels with 2018. Here&apos;s what investors should do",
-    "desc": "CNBC's Jim Cramer sees parallels between today’s market and the fall of 2018, when rising rates and geopolitical tensions preceded a 20% S&P 500 sell-off.",
-    "link": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html",
-    "pubDate": "Fri, 11 Sep 2026 23:09:35 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Why it might be time to use AI to rehearse pay, performance chats before meeting with your manager",
-    "desc": "AI tools can help find the right tone and language for difficult workplace conversations about performance and pay, and managers are already using them.",
-    "link": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
-    "pubDate": "Sat, 12 Sep 2026 16:17:13 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "investing",
-    "title": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/russian-attacks-kill-six-injure-dozens-in-ukraine-moscow-says-it-hits-ships-plants-4898674",
-    "pubDate": "2026-09-12 16:42:24",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "investing",
-    "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/canadian-boycott-of-us-products-pushes-grocers-to-adapt-explore-new-supply-sources-4898644",
-    "pubDate": "2026-09-12 16:06:23",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
-    "desc": "<p>US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a little</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\"><strong>UK economy unexpectedly grows 0.4% in July boosted by AI</strong></a></p></li></ul><p><br></p><p><strong>Digging into today’s GDP report a little, we can see that the UK services sector had a decent July, with growth in 11 of its 14 subsectors.</strong></p><p>According to the ONS, the fastest growth was recorded in:</p><p><strong>professional</strong>, <strong>scientific</strong> <strong>and</strong> <strong>technical</strong> <strong>activities</strong> (up 2.1%), driven by growths in scientific research and development (up 7.0%), legal activities (up 3.1%), and advertising and market research (up 3.4%)</p><p><strong>information</strong> <strong>and</strong> <strong>communication</strong> (up 2.5%), which was mainly driven by a growth of 4.4% in computer programming, consultancy and related activities</p><p><strong>administrative and support service activities</strong> (up 1.3%), driven by growths of 6.1% in rental and leasing activities, and of 2.8% in services to buildings and landscape activities</p><p>The 0.4% rise in U.K. GDP in the second quarter was slightly stronger than we expected and suggests the economy has remained resilient to the surge in energy prices.</p><p>Adding to the positive news, growth was driven by solid gains in household consumption and business investment, and included a healthy 0.3% monthly rise in output in June, suggesting momentum was sustained as the quarter progressed.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
-    "pubDate": "Fri, 11 Sep 2026 15:58:06 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
-    "desc": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others say it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
-    "pubDate": "Fri, 11 Sep 2026 05:50:18 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "guardian",
-    "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
-    "desc": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
-    "pubDate": "Thu, 10 Sep 2026 18:27:10 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-    "desc": "<p>Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing</p><p>Nervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p>The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us\">advances by Houthi rebels</a> along the Red Sea coast in Yemen could choke off Saudi crude exports.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-    "pubDate": "Thu, 10 Sep 2026 18:05:15 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "ft",
-    "title": "India’s central bank tells Tata Sons to take conglomerate public",
-    "desc": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
-    "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
-    "pubDate": "Sat, 12 Sep 2026 16:20:04 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "ft",
-    "title": "Canada seeks $1tn from investors looking for a haven from Trump",
-    "desc": "Prime Minister Mark Carney hosts a summit to put money behind his plan to decouple from an increasingly hostile US",
-    "link": "https://www.ft.com/content/4dc6710b-7911-44c6-b57a-2fb47b6b04ed?syn-25a6b1a6=1",
-    "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CBRE, BXP among real estate losers; Host Hotels & Resorts, Fermi in gainers",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642197-cbre-bxp-among-real-estate-losers-host-hotels-resorts-fermi-in-gainers?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Sat, 12 Sep 2026 12:00:14 -0400",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Forgotten AI Stocks That Should Rebound From Their Corrections",
-    "desc": "Some of the best AI stocks have been dumped in recent weeks. That trend should change soon.",
-    "link": "https://www.fool.com/investing/2026/09/12/3-forgotten-ai-stocks-that-should-rebound-from-the/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 16:05:00 +0000",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "5 Dividend Powerhouses Yielding Above 5% That Wall Street Still Backs",
-    "desc": "With S&P 500 dividend yields at historic lows, finding a payout above 5% that Wall Street still trusts feels nearly impossible. Five stocks cleared every hurdle, and the one sitting at number one combines a near double-digit yield with a 17-year dividend streak.",
-    "link": "https://247wallst.com/investing/2026/09/12/5-dividend-powerhouses-yielding-above-5-that-wall-street-still-backs/?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 16:02:16 +0000",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Barclays Raises 2026 S&P 500 Target to 7,950 After Second-Quarter Earnings",
-    "desc": "Barclays raised its year-end 2026 S&P 500 price target to 7,950 from 7,800 following second-quarter corporate earnings, while maintaining its 2027 target at 8,800. The bank also increased its fiscal 2026 earnings-per-share estimate to $365 from $337 and its fiscal 2027 forecast to $414 from $389.",
-    "link": "https://investorshub.advfn.com/market-news/article/36139/barclays-raises-2026-sp-500-target-to-7950-after-second-quarter-earnings?.tsrc=rss",
-    "pubDate": "Sat, 12 Sep 2026 15:34:00 +0000",
-    "fetchedAt": "2026-09-12T17:01:31.673Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Interest rates could rise again across the world – here's why",
-    "desc": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-    "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 13:35:29 GMT",
-    "fetchedAt": "2026-09-12T16:01:28.663Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-    "desc": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-    "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 13:34:17 GMT",
-    "fetchedAt": "2026-09-12T16:01:28.663Z"
   }
 ]
