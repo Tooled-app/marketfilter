@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
 const NAV = [
@@ -20,7 +20,9 @@ const TICKERS: [string, number, number][] = [
 
 export default function Header() {
   const pathname = usePathname();
+  const router = useRouter();
   const [clock, setClock] = useState("--:--:--");
+  const [q, setQ] = useState("");
 
   useEffect(() => {
     const t = setInterval(() => {
@@ -28,6 +30,12 @@ export default function Header() {
     }, 1000);
     return () => clearInterval(t);
   }, []);
+
+  const submitSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    const term = q.trim();
+    if (term) router.push(`/search?q=${encodeURIComponent(term)}`);
+  };
 
   const tape = [...TICKERS, ...TICKERS]
     .map(
@@ -58,10 +66,19 @@ export default function Header() {
               </Link>
             ))}
           </nav>
-          <div className="flex items-center gap-4">
-            <span className="text-[12px] text-[var(--dim)]">{clock}</span>
-            <button className="btn">Search</button>
+          <div className="flex items-center gap-3">
+            <form onSubmit={submitSearch} className="flex items-center gap-2">
+              <input
+                type="text"
+                value={q}
+                onChange={(e) => setQ(e.target.value)}
+                placeholder="Search…"
+                className="hidden md:block w-[140px] px-3 py-1.5 text-[12px] bg-[var(--panel)] border border-[var(--line)] text-[var(--ink)] rounded focus:outline-none focus:border-[var(--green)]"
+              />
+              <button type="submit" className="btn">Search</button>
+            </form>
             <button className="btn solid">Live</button>
+            <span className="hidden lg:block text-[12px] text-[var(--dim)]">{clock}</span>
           </div>
         </div>
       </header>

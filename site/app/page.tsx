@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { redirect } from "next/navigation";
 import { getNews, getNewsMeta, getFilings, getTickerCount, getStories, SOURCE_NAMES, formatFilingDate, formatNewsDate } from "@/lib/data";
 
 export const metadata: Metadata = {
@@ -51,7 +52,17 @@ function formatPubDate(iso: string): string {
 
 export const dynamic = "force-dynamic";
 
-export default function Home() {
+interface HomeProps {
+  searchParams: Promise<{ q?: string }>;
+}
+
+export default async function Home({ searchParams }: HomeProps) {
+  const { q } = await searchParams;
+  // Support the JSON-LD SearchAction target (/?q=...) by forwarding to the search page.
+  if (q && q.trim()) {
+    redirect(`/search?q=${encodeURIComponent(q.trim())}`);
+  }
+
   const news = getNews() ?? [];
   const meta = getNewsMeta();
   const filings = getFilings() ?? [];

@@ -115,7 +115,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         <div className="kicker">// Search</div>
         <h1 className="text-[clamp(24px,3.5vw,36px)] leading-[1.1] font-bold mt-3">
           {hasQuery ? (
-            <>Results for <span className="accent">“{q.trim()}”</span></>
+            <>Results for <span className="accent">“{(q ?? "").trim()}”</span></>
           ) : (
             <>Search Market Filter</>
           )}
@@ -154,7 +154,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         )}
         {hasQuery && results.length === 0 && (
           <div className="story">
-            <div className="title">No matches for “{q.trim()}”.</div>
+            <div className="title">No matches for “{(q ?? "").trim()}”.</div>
             <div className="src mt-1">Try a ticker (e.g. NVDA), a company name, or a topic keyword.</div>
           </div>
         )}
@@ -167,17 +167,14 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
             </div>
             <div>
               <div className="title">
-                {r.type === "story" && (
-                  <span className={`tag ${r.signal === "merger" ? "reg" : "news"}`}>
-                    {r.meta.split("·")[0].trim()}
-                  </span>
-                )}
                 {r.type === "story" ? (
                   <Link href={r.href} className="hover:text-[var(--green)]">{r.title}</Link>
-                ) : (
-                  <a href={r.href} target={r.type === "news" ? "_blank" : undefined} rel={r.type === "news" ? "noopener noreferrer" : undefined} className={r.type === "filing" ? "" : "hover:text-[var(--green)]"}>
+                ) : r.type === "news" ? (
+                  <a href={r.href} target="_blank" rel="noopener noreferrer" className="hover:text-[var(--green)]">
                     {r.title}
                   </a>
+                ) : (
+                  <a href={r.href} className="hover:text-[var(--green)]">{r.title}</a>
                 )}
               </div>
               {r.snippet && <p className="desc text-[var(--dim)] text-[13px] mt-3 leading-relaxed">{r.snippet}</p>}
