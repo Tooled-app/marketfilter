@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-09-13T04:01:35.107Z",
-  "fetched": 1,
-  "failed": 8,
-  "newItems": 0,
+  "lastRun": "2026-09-13T05:01:33.834Z",
+  "fetched": 3,
+  "failed": 6,
+  "newItems": 10,
   "total": 200,
   "sources": [
     {
@@ -56,16 +56,14 @@
     {
       "id": "benzinga",
       "name": "Benzinga",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 10
     },
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 0
     }
   ]
 }
