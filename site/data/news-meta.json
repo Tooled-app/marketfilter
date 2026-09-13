@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-09-13T08:01:47.868Z",
-  "fetched": 1,
-  "failed": 8,
-  "newItems": 3,
+  "lastRun": "2026-09-13T09:01:34.041Z",
+  "fetched": 2,
+  "failed": 7,
+  "newItems": 2,
   "total": 200,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 3
+      "added": 0
     },
     {
       "id": "bbc",
@@ -28,9 +28,8 @@
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 2
     },
     {
       "id": "guardian",
