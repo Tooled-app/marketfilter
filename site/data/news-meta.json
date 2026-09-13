@@ -1,16 +1,15 @@
 {
-  "lastRun": "2026-09-13T07:22:46.992Z",
-  "fetched": 0,
-  "failed": 9,
-  "newItems": 0,
+  "lastRun": "2026-09-13T08:01:47.868Z",
+  "fetched": 1,
+  "failed": 8,
+  "newItems": 3,
   "total": 200,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 30,
+      "added": 3
     },
     {
       "id": "bbc",
