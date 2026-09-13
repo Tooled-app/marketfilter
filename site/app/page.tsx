@@ -70,7 +70,7 @@ export default async function Home({ searchParams }: HomeProps) {
   const stories = getStories() ?? [];
   const topStory = stories[0];
 
-  const topNews = news.slice(0, 8);
+  const topNews = news.slice(0, 16);
   const filingCount = filings.reduce((n, c) => n + c.filings.length, 0);
 
   return (

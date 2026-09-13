@@ -21,6 +21,12 @@ const SOURCES = [
   { id: 'seekingalpha',name: 'Seeking Alpha',   url: 'https://seekingalpha.com/market_currents.xml' },
   { id: 'benzinga',    name: 'Benzinga',        url: 'https://www.benzinga.com/feed' },
   { id: 'yahoo',       name: 'Yahoo Finance',   url: 'https://feeds.finance.yahoo.com/rss/2.0/headline?s=^GSPC,^IXIC,^DJI&region=US&lang=en-US' },
+  // Added 2026-09-13 to widen the pool (all verified reachable)
+  { id: 'zerohedge',   name: 'ZeroHedge',       url: 'https://feeds.feedburner.com/zerohedge/feed' },
+  { id: 'wsj',         name: 'WSJ Markets',      url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml' },
+  { id: 'nasdaq',      name: 'Nasdaq',          url: 'https://www.nasdaq.com/feed/rssoutbound?category=Markets' },
+  { id: 'fortune',     name: 'Fortune',         url: 'https://fortune.com/feed/' },
+  { id: 'investingeuro',name: 'Investing Europe', url: 'https://www.investing.com/rss/news_25.rss' },
 ];
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) MarketFilter/0.1';
@@ -108,14 +114,15 @@ export async function ingestNews() {
     await new Promise((r) => setTimeout(r, 500));
   }
 
-  // Merge: fresh first, then existing (dedupe by title), cap at 200
+  // Merge: fresh first, then existing (dedupe by title), cap at 800
+  // Higher cap => the feed holds more history/breadth so the site doesn't feel thin.
   const merged = [...fresh, ...existing];
   const byTitle = new Map();
   for (const it of merged) {
     const key = normalizeTitle(it.title);
     if (!byTitle.has(key)) byTitle.set(key, it);
   }
-  const final = [...byTitle.values()].slice(0, 200);
+  const final = [...byTitle.values()].slice(0, 800);
   results.total = final.length;
 
   fs.mkdirSync(DATA_DIR, { recursive: true });

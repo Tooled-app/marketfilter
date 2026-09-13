@@ -132,4 +132,9 @@ export const SOURCE_NAMES: Record<string, string> = {
   seekingalpha: "Seeking Alpha",
   benzinga: "Benzinga",
   yahoo: "Yahoo Finance",
+  zerohedge: "ZeroHedge",
+  wsj: "WSJ Markets",
+  nasdaq: "Nasdaq",
+  fortune: "Fortune",
+  investingeuro: "Investing Europe",
 };
