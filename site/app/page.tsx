@@ -69,6 +69,8 @@ export default async function Home({ searchParams }: HomeProps) {
   const tickerCount = getTickerCount();
   const stories = getStories() ?? [];
   const topStory = stories[0];
+  const latestStories = stories.slice(0, 3);
+  const latestStoryCount = stories.length;
 
   const topNews = news.slice(0, 16);
   const filingCount = filings.reduce((n, c) => n + c.filings.length, 0);
@@ -135,32 +137,38 @@ export default async function Home({ searchParams }: HomeProps) {
         </div>
       </section>
 
-      {/* latest investigation */}
-      {topStory && (
+      {/* latest investigation(s) */}
+      {latestStories.length > 0 && (
         <section className="mt-8 border border-[var(--line)] bg-[var(--panel)] p-6">
           <div className="flex items-baseline justify-between">
             <div className="kicker text-[var(--green)] text-[12px] tracking-[2px] uppercase">
-              // Original Investigation
+              // Original Investigations · {latestStoryCount}
             </div>
             <Link href="/stories" className="text-[12px] text-[var(--dim)] hover:text-[var(--green)]">
               all stories →
             </Link>
           </div>
-          <h2 className="text-[clamp(18px,2.5vw,24px)] leading-[1.2] font-bold mt-3">
-            <Link href={`/stories/${topStory.id}`} className="hover:text-[var(--green)]">
-              {topStory.headline}
-            </Link>
-          </h2>
-          <p className="text-[var(--dim)] text-[13px] mt-3 leading-relaxed max-w-[720px]">
-            {topStory.finding}
-          </p>
-          <div className="mt-4 flex gap-4 text-[12px] text-[var(--faint)]">
-            <span>Tickers <b className="text-[var(--ink)]">{topStory.tickers.join(", ")}</b></span>
-            <span>Novelty <b className="text-[var(--ink)]">{topStory.novelty}/10</b></span>
-            <span>Impact <b className="text-[var(--ink)]">{topStory.impact}/10</b></span>
-            <Link href={`/stories/${topStory.id}`} className="text-[var(--blue)] underline">
-              read the investigation →
-            </Link>
+          <div className="mt-4 space-y-6">
+            {latestStories.map((s) => (
+              <div key={s.id} className="border-t border-[var(--line)] pt-4 first:border-t-0 first:pt-0">
+                <h3 className="text-[clamp(16px,2vw,20px)] leading-[1.25] font-bold">
+                  <Link href={`/stories/${s.id}`} className="hover:text-[var(--green)]">
+                    {s.headline}
+                  </Link>
+                </h3>
+                <p className="text-[var(--dim)] text-[13px] mt-2 leading-relaxed max-w-[760px]">
+                  {s.finding}
+                </p>
+                <div className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-[12px] text-[var(--faint)]">
+                  <span>Tickers <b className="text-[var(--ink)]">{s.tickers.join(", ")}</b></span>
+                  <span>Novelty <b className="text-[var(--ink)]">{s.novelty}/10</b></span>
+                  <span>Impact <b className="text-[var(--ink)]">{s.impact}/10</b></span>
+                  <Link href={`/stories/${s.id}`} className="text-[var(--blue)] underline">
+                    read the investigation →
+                  </Link>
+                </div>
+              </div>
+            ))}
           </div>
         </section>
       )}

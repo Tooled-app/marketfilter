@@ -4,7 +4,9 @@
     "headline": "The Open-Source Paradox: What Nvidia's $11.9B Hugging Face Deal Really Buys",
     "kicker": "Original Investigation",
     "published": "2026-09-06",
-    "tickers": ["NVDA"],
+    "tickers": [
+      "NVDA"
+    ],
     "signal": "merger",
     "novelty": 8,
     "impact": 8,
@@ -37,5 +39,112 @@
       }
     ],
     "disclaimer": "Not investment advice. For informational purposes only. Original analysis is labeled; all facts are cited to the underlying filing and sources."
+  },
+  {
+    "id": "nvda-director-sold-1m-shares-deal-week",
+    "headline": "Nvidia Director Sold ~1M Shares in the Two Days After the Hugging Face Deal",
+    "kicker": "Original Investigation",
+    "published": "2026-09-08",
+    "tickers": [
+      "NVDA"
+    ],
+    "signal": "insider",
+    "novelty": 9,
+    "impact": 8,
+    "confidence": 9,
+    "finding": "Mark A. Stevens, a long-time Nvidia board member, disposed of roughly 1.02 million shares at weighted-average prices of ~$227 to ~$234 across September 3-4, 2026 — the same window in which Nvidia's $11.9B Hugging Face acquisition was announced. His Form 4, disclosing the sales through a family trust, was filed September 8.",
+    "body": [
+      "Nvidia Corp's board member Mark A. Stevens executed seven separate sale transactions on September 3 and September 4, 2026, according to a Form 4 filed with the SEC on September 8. The disposals totalled approximately 1,022,239 shares at weighted-average prices ranging from roughly $227.70 to $234.00 — a gross value on the order of $233 million. The shares were held by the Third Millennium Trust, of which Stevens and his wife serve as co-trustees; the filing notes the sales were executed at multiple prices and that full per-price detail is available from the reporting person on request.",
+      "The timing is the story. Nvidia's definitive agreement to acquire Hugging Face — a deal with an approximately $11.9 billion purchase price plus a retention program that could push total consideration toward $12.9 billion — was dated September 2 and disclosed in an 8-K filed September 3 (Item 8.01). Stevens' sell-off began the very next trading day. Filings reflect transactions and disclosure dates, not intention, and this Form 4 is not stamped as a Rule 10b5-1 plan, so the sales should be read as facts rather than as a statement of motive.",
+      "Stevens' holdings fell by roughly 0.83 million trust-held shares over the window (from about 3.16 million to about 2.34 million in the trust), with a separate direct position of about 11.5 million shares unchanged. That the sales came from a co-trustee family trust rather than his direct stake is itself worth noting — trust-level distributions and estate planning are a common non-valuation reason for such movements.",
+      "The market read: an insider sale is not the same as a sale by a company, and trust-level disposals carry more ambiguity than a direct sell-down. But the size (~$233M) and the timing — immediately after the largest acquisition Nvidia had announced in years — make this exactly the kind of filing the mainstream 'why Nvidia bought Hugging Face' coverage did not surface."
+    ],
+    "analysis": "The filing shows fact; it does not show reason. What is fact: a veteran Nvidia director, through a family trust, took ~1.02M shares (~$233M) out of his trust exposure on Sept 3-4, immediately following the $12.9B Hugging Face announcement. What is open: whether the sales were a pre-arranged estate decision, a reaction to share price strength (NVDA traded firm through the window), or something else. The Form 4 lacks a 10b5-1 designation, which leaves the timing under-documented relative to a plan sale.",
+    "implications": [
+      "Directors transacting in the days after a flagship acquisition announcement is a signal worth tracking, but trust-sourced sales dilute the reading.",
+      "The ~$233M figure is material relative to typical executive Form 4 disposals and deserves scrutiny.",
+      "NVDA's insider-trading-pattern page now shows board-level selling right at the deal news — a data point the deal-coverage narrative omitted."
+    ],
+    "sources": [
+      {
+        "label": "Nvidia Form 4 (Mark A. Stevens), filed Sep 8 2026 — accession 0001199039-26-000014",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119903926000014/"
+      },
+      {
+        "label": "Nvidia Form 8-K (Item 8.01), filed Sep 3 2026 — Hugging Face agreement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+      }
+    ],
+    "disclaimer": "Not investment advice. For informational purposes only. Original analysis is labeled; all facts are cited to the underlying filing."
+  },
+  {
+    "id": "microsoft-23-form4-cluster-grants-not-selling",
+    "headline": "Microsoft Filed 23 Insider Forms in Four Days — the Data Doesn't Say What the Headlines Imply",
+    "kicker": "Original Investigation",
+    "published": "2026-09-11",
+    "tickers": [
+      "MSFT"
+    ],
+    "signal": "insider",
+    "novelty": 9,
+    "impact": 5,
+    "confidence": 8,
+    "finding": "Between September 8 and September 11, 2026, Microsoft Corp filed 23 Form 4 statements of insider ownership change. The clustering looks like a burst of insider activity, but the transaction codes in the filings point overwhelmingly to equity compensation grants (code 'A' awards) tied to the company's standard post-fiscal-year comp cycle — not panic selling. A raw count of '23 insider filings' without the codes misstates what the documents say.",
+    "body": [
+      "Microsoft Corp filed 23 Forms 4 in the four trading days from September 8 through September 11, 2026 — a volume that, taken alone, could be read as an insider-activity cluster. Reading the filings, the dominant transaction code is 'A' (acquisition through an equity award or plan), which reflects grants/RSU vesting rather than open-market disposals. The period coincides with Microsoft's compensation refresh window following its June fiscal-year end, when annual equity grants and director awards are typically processed en masse.",
+      "Why this matters: headline systems that count 'number of Forms 4' or 'insider transactions' without parsing the transaction code treat a routine award run as if it were a sell-off signal. A director's RSU award (code A) and a director's sale of shares (code S) are categorically different events, yet both produce a Form 4 row that naive aggregators count identically.",
+      "A representative filing reviewed for this piece shows a non-employee board member receiving an award; the grant is expensed through the equity plan and no open-market disposition is involved. The sheer quantity of same-day filings on September 8 and September 11 points to batch processing of a scheduled grant cycle rather than a coordinated sell-down.",
+      "The practical takeaway for anyone screening insider files: always filter Form 4 rows by transactionCode before concluding 'insiders are selling.' At Microsoft in this window, the surface count is real but the economic signal is dominated by awards, not sales — the opposite of what a headline counting '23 insider filings' would suggest."
+    ],
+    "analysis": "This is a methodological story about insider-data interpretation, anchored to a real, verifiable filing pattern. The 23 Forms 4 over Sep 8-11 contain predominantly code 'A' acquisitions (comp grants). Any alert system that flags raw Form 4 volume without the transaction code is manufacturing false 'insider selling' signals — a risk for retail screeners and aggregators covering mega-cap Microsoft. The value here is diagnostic: how to read insider data correctly.",
+    "implications": [
+      "Insider-transaction trackers that count Forms without reading transactionCode overstate sell pressure during comp cycles.",
+      "For investors screening MSFT: the Sep 8-11 cluster is an award run, not an insider-trust signal.",
+      "A defensible screening rule: separate code 'A' (grants) and 'M' (exercises) from code 'S' (open-market sales) before drawing conclusions."
+    ],
+    "sources": [
+      {
+        "label": "Microsoft Corp Forms 4 filed Sep 8-11 2026 — e.g. accession 0000789019-26-000208",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=4"
+      }
+    ],
+    "disclaimer": "Not investment advice. For informational purposes only. Original analysis is labeled; all facts are cited to the underlying filings."
+  },
+  {
+    "id": "amazon-adds-cyber-heavyweight-mandia",
+    "headline": "Amazon Quietly Put an Ex-Mandiant CEO on Its Board — and His Initial Filing Shows Zero Shares",
+    "kicker": "Original Investigation",
+    "published": "2026-09-09",
+    "tickers": [
+      "AMZN"
+    ],
+    "signal": "regulatory",
+    "novelty": 7,
+    "impact": 6,
+    "confidence": 9,
+    "finding": "Amazon's September 8 board election of Kevin Mandia — the former Mandiant CEO who sold that cybersecurity firm to Google for ~$5.4 billion — was disclosed in a routine 8-K that got little standalone coverage. His initial Form 3 shows he took the seat holding no Amazon shares, receiving instead a 4,086-share RSU award — a detail that points to Amazon recruiting for expertise rather than ownership alignment.",
+    "body": [
+      "In an 8-K filed September 8, 2026, Amazon.com, Inc. elected Kevin R. Mandia as a director, appointing him to both the Audit Committee and the Security Committee of the Board. Mandia is the founder and CEO of Armadin, Inc., a cybersecurity company established in September 2025, and a General Partner at Ballistic Ventures, a venture firm he co-founded — following a tenure as CEO of Mandiant from June 2016 to July 2024, where he led the company until its acquisition by Google LLC in September 2022.",
+      "The board-level detail the mainstream largely skipped: Mandia's initial Form 3, filed September 9 for the September 8 event, reports that he beneficially owns no Amazon securities. Instead, the 8-K states he was granted a restricted stock unit award of 4,086 shares under Amazon's 1997 Stock Incentive Plan, vesting in three equal annual installments beginning November 15, 2027, contingent on continued board service.",
+      "That structure is the tell. Amazon is compensating a marquee cybersecurity operator primarily with long-dated, service-contingent equity rather than an upfront share grant — consistent with recruiting him for what he can do for Amazon's security posture and audit oversight, not for ownership stakes or activist-style alignment. Mandia's sister-in-law is an Amazon employee (annual salary disclosed at $185,000), a related-party detail the filing calls out in the same item.",
+      "The strategic read: at a moment when cloud-security and AI-infrastructure pressure on hyperscalers is rising, Amazon placed a proven builder-seller of enterprise security — someone who scaled Mandiant to a $5.4 billion exit — on its Audit and Security committees for effectively zero immediate share ownership. The engagement starts with a paper award; the real value transfer is expected over years of service, which is how Amazon structured it."
+    ],
+    "analysis": "The interesting, verifiable facts: (1) the specific committees — Audit and Security — Mandia joined; (2) the zero-initial-ownership Form 3 combined with a 4,086-share RSU vesting from Nov 2027; (3) the related-party disclosure of a salary. Together they portray a board-seat designed around capability, with long-dated equity as the only skin in the game. This is a governance signal (hiring security expertise at the committee level) more than an ownership signal.",
+    "implications": [
+      "Amazon is reinforcing board-level security and audit expertise as cloud/AI security pressure mounts.",
+      "Zero initial shares + a 3-year RSU vest is a structure-weighted toward service duration, not immediate alignment.",
+      "The related-party disclosure is routine but confirms Mandia's appointment is inside the board's stated independence/committee framework."
+    ],
+    "sources": [
+      {
+        "label": "Amazon.com 8-K (Item 5.02), filed Sep 8 2026 — accession 0001018724-26-000036",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000036/amzn-20260908.htm"
+      },
+      {
+        "label": "Kevin R. Mandia Form 3, filed Sep 9 2026 — accession 0001595602-26-000005",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000159560226000005/"
+      }
+    ],
+    "disclaimer": "Not investment advice. For informational purposes only. Original analysis is labeled; all facts are cited to the underlying filings."
   }
 ]
