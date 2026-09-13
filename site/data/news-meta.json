@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-09-13T03:01:36.077Z",
-  "fetched": 3,
-  "failed": 6,
-  "newItems": 6,
+  "lastRun": "2026-09-13T04:01:35.107Z",
+  "fetched": 1,
+  "failed": 8,
+  "newItems": 0,
   "total": 200,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 1
+      "added": 0
     },
     {
       "id": "bbc",
@@ -21,8 +21,9 @@
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
@@ -62,8 +63,9 @@
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 20,
-      "added": 3
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     }
   ]
 }
