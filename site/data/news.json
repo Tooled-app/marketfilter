@@ -1,6 +1,646 @@
 [
   {
     "source": "cnbc",
+    "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+    "desc": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+    "link": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+    "pubDate": "Mon, 14 Sep 2026 18:50:32 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+    "desc": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
+    "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+    "pubDate": "Mon, 14 Sep 2026 13:18:23 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+    "desc": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+    "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+    "pubDate": "Mon, 14 Sep 2026 18:39:08 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
+    "desc": "Volatility measured by the Cboe VIX Index jumped to 18 Monday.",
+    "link": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
+    "pubDate": "Mon, 14 Sep 2026 18:01:37 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast",
+    "desc": "Anthropic's safety warning is crushing data center stocks, but demand for compute still outstrips supply.",
+    "link": "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html",
+    "pubDate": "Mon, 14 Sep 2026 18:43:44 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'Culture shift' needed in how UK does business, PM urges",
+    "desc": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+    "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 14 Sep 2026 14:22:55 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+    "desc": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Zoetis at Morgan Stanley conference: pipeline offsets near-term pressure",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/zoetis-at-morgan-stanley-conference-pipeline-offsets-nearterm-pressure-93CH-4900224",
+    "pubDate": "2026-09-14 18:48:28",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "CytomX at Morgan Stanley conference: late-line crc push gains focus",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/cytomx-at-morgan-stanley-conference-lateline-crc-push-gains-focus-93CH-4900223",
+    "pubDate": "2026-09-14 18:47:51",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "U.S. stocks pare most of their losses as pullback in oil offsets technology slide",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
+    "pubDate": "2026-09-14 18:47:01",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Axsome Therapeutics at Morgan Stanley conference: growth, pipeline and cash",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/axsome-therapeutics-at-morgan-stanley-conference-growth-pipeline-and-cash-93CH-4900221",
+    "pubDate": "2026-09-14 18:46:48",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Avalyn at Morgan Stanley healthcare conference: inhaled PF push",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/avalyn-at-morgan-stanley-healthcare-conference-inhaled-pf-push-93CH-4900222",
+    "pubDate": "2026-09-14 18:46:48",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Eli Lilly at Morgan Stanley conference: broad obesity push gains steam",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/eli-lilly-at-morgan-stanley-conference-broad-obesity-push-gains-steam-93CH-4900220",
+    "pubDate": "2026-09-14 18:46:33",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "US targets Russia’s VTB Bank with Iran-related sanctions",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-targets-russias-vtb-bank-with-iranrelated-sanctions-93CH-4900219",
+    "pubDate": "2026-09-14 18:43:34",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Bayer’s Monsanto unit urges Missouri judge to approve $7.25 billion Roundup settlement",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/bayers-monsanto-unit-urges-missouri-judge-to-approve-725-billion-roundup-settlement-4900218",
+    "pubDate": "2026-09-14 18:42:27",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Estee Lauder options activity points to layered bullish bets on 18-month horizon",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/estee-lauder-options-activity-points-to-layered-bullish-bets-on-18month-horizon-93CH-4900217",
+    "pubDate": "2026-09-14 18:41:59",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "OpenAI acquires smartphone camera startup Glass Imaging - WSJ",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/openai-acquires-smartphone-camera-startup-glass-imaging--wsj-93CH-4900215",
+    "pubDate": "2026-09-14 18:37:16",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "30-year mortgage rate jumps to 7.17% &#x2014; a nearly 2-year high &#x2014; in the latest blow to the housing market",
+    "desc": "The 10-year Treasury yield crossed a key 5% threshold on Monday, nudging the average 30-year mortgage rate upward.",
+    "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:42:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+    "desc": "Some economists are calling on the central bank to wait before raising interest rates, out of concern the economy may be vulnerable beneath the surface.",
+    "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:37:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a &#x2018;sick conspiracy&#x2019;",
+    "desc": "Michael Burry, Donald Trump and others are criticizing Anthropic&#x2019;s CEO, who recently said AI companies need to adopt better safety measures.",
+    "link": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:32:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The next Social Security &#x2018;COLA&#x2019; could be the biggest in five years. It&#x2019;s no cause for celebration.",
+    "desc": "Benefits will be largely stable in real &#x2014; that is, inflation-adjusted &#x2014; terms.",
+    "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:27:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+    "desc": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+    "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:20:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
+    "desc": "The benchmark 10-year Treasury yield briefly touched the crucial 5% threshold on Monday, but it then pulled back.",
+    "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:14:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "As AI companies call for a slowdown, here&#x2019;s how Washington could pump the brakes",
+    "desc": "Washington is likely to move slowly, but there are catalysts that could make it act faster than expected",
+    "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 18:08:00 GMT",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Antofagasta raised to Buy at Berneberg following copper selloff",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642628-antofagasta-raised-to-buy-at-berneberg-following-copper-selloff?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:57:40 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "OpenAI buys startup working on smartphone camera: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642627-openai-buys-startup-working-on-smartphone-camera-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:48:47 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "August rally cools, but the ETF industry still posts a fresh AUM high",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642625-august-rally-cools-but-the-etf-industry-still-posts-a-fresh-aum-high?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:42:15 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Trump doubles down on $5K dividend as midterm odds favor Democrats",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642624-trump-doubles-down-on-5k-dividend-as-midterm-odds-favor-democrats?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:38:45 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "GE Vernova sinks 9% as GLJ Research starts with Sell rating, Street-low $470 PT",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642621-ge-vernova-sinks-9-as-glj-research-starts-with-sell-rating-street-high-470-pt?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:35:02 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "AutoZone facing DIY headwinds in FQ4",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642620-autozone-facing-diy-headwinds-in-fq4?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:28:13 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Costco hikes motor oil prices and limits purchases",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642623-costco-hikes-motor-oil-prices-and-limits-purchases?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 14 Sep 2026 14:25:32 -0400",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
+    "desc": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looking for alternative avenues for growth. Meme tokens &#8230; Continued The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
+    "pubDate": "Mon, 14 Sep 2026 14:13:18 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Dow Falls, Trump Hits Out At AI Fears; These Cyber Stocks Near Entries (Live Coverage)",
+    "desc": "The Dow Jones index fell on the stock market today as oil prices surge. President Trump hits out at AI slowdown calls. Cyber plays shine.",
+    "link": "https://finance.yahoo.com/m/e8c0a567-addf-325b-8e69-657d5975fcc3/stock-market-today%3A-dow.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:58:13 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+    "desc": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-impressive-185130142.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:51:30 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "This Stock Market Bull Is Getting More Worried",
+    "desc": "Ed Yardeni of Yardeni Research still thinks the S&P 500 will reach 8400 by the end of the year, but the eponymous economist argues risks to that estimate are growing. In a note over the weekend, Yardeni raised odds of a more bearish outcome to 30% from 20%.",
+    "link": "https://finance.yahoo.com/m/089509f6-15c6-3ffb-a377-adaaddaa524c/this-stock-market-bull-is.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:30:17 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Corning Stock Is Today’s Worst in the S&P 500. It’s Not Just the AI Selloff.",
+    "desc": "Corning stock is the worst-performing S&P 500 stocks in the trading session and it isn’t just because of the AI-trade selloff.",
+    "link": "https://finance.yahoo.com/m/393632fc-9d5e-3dd7-9f37-6609efbe9f87/corning-stock-is-today%E2%80%99s.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:16:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "1 Consumer Stock to Research Further and 2 We Question",
+    "desc": "Retailers are evolving to meet the expectations of modern, tech-savvy shoppers. Still, secular trends are working against them as e-commerce continues to take share from brick-and-mortar stores. This puts retail stocks in a tough spot, and over the past six months, the industry’s 3.5% gain has trailed the S&P 500 by 9.8 percentage points.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-consumer-stock-research-further-181130095.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:11:30 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The S&P 500 Could Dip to 7500 This Month, Charts Show. Will That Be the Bottom?",
+    "desc": "This month has consistently been one of the weakest months for equities, with the S&P 500 averaging roughly a 1.1% decline over the long run, and I think that seasonal headwind could weigh on the market again this year. While strong corporate earnings and continued enthusiasm around AI provide fundamental support, I expect the market to remain vulnerable to bouts of volatility as investors reassess interest-rate expectations, inflation, and the broader macroeconomic outlook.",
+    "link": "https://finance.yahoo.com/m/c81a73bb-99f0-3d04-8334-80e7ae0471db/the-s%26p-500-could-dip-to-7500.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:02:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why ASML Stock Is Falling Today",
+    "desc": "ASML shares dropped 6.2% Monday morning after Anthropic CEO Dario Amodei and other AI leaders called for slowing frontier-model development.",
+    "link": "https://www.fool.com/investing/2026/09/14/why-asml-stock-is-falling-today/?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:50:44 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Consumer Stocks We Approach with Caution",
+    "desc": "The performance of consumer discretionary businesses is closely linked to economic cycles. Unfortunately, the industry’s recent performance suggests demand may be slowing as discretionary stocks’ 3.8% return over the past six months has trailed the S&P 500 by 9.4 percentage points.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-approach-caution-175530201.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 17:55:30 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Is Astera Labs Stock Down Today?",
+    "desc": "Astera Labs shares sank 10.1% Monday morning after Anthropic's Dario Amodei and a chorus of AI leaders called for the industry to slow down.",
+    "link": "https://www.fool.com/investing/2026/09/14/why-is-astera-labs-stock-down-today/?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:45:05 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
+    "desc": "The 10-year Treasury yield touched 5% Monday for the first time since October 2023. Will the stock market continue to fall if the Fed raises interest rates?",
+    "link": "https://finance.yahoo.com/m/0f560f5f-70a7-353b-9eba-992168aa54b7/benchmark-yield-hits-5%25.-how.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:05:56 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Decline Monday Afternoon",
+    "desc": "Energy stocks were lower Monday afternoon, with the NYSE Energy Sector Index decreasing 0.5% and the",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-180228525.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:02:28 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Pricey Stocks Need Earnings Growth to Keep the Rally Going",
+    "desc": "High valuations leave the stock market with little room for error as rising yields, a potential IPO wave, and slowing earnings growth threaten the rally.",
+    "link": "https://finance.yahoo.com/m/8f73b414-9b8d-3e2a-b56e-ea5be4391416/pricey-stocks-need-earnings.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 18:01:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Comex Gold, Silver Settle Lower",
+    "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Financial Services Roundup: Market Talk",
+    "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+    "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+    "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+    "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+    "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Natural Gas Falls on Shifting Weather Forecasts",
+    "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+    "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+    "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+    "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+    "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "What's New This Tax Season That Can Save You Money",
+    "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+    "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Chinese Investors With Few Options Turn to Dividends",
+    "desc": "Companies with good payouts are now the hottest bet in China markets.",
+    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Heard on the Street's Stock-Picking Series",
+    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
+    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
+    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
+    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "wsj",
+    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+    "desc": "The story of home affordability in the U.S. told from a single front porch.",
+    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "CoinShares (CSHR) Q2 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/coinshares-cshr-q2-2026-earnings-call-transcript",
+    "pubDate": "Mon, 14 Sep 2026 18:30:26 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Kyndryl Completes Acquisition Of Healthcare IT Leaders For Over $350 Mln",
+    "desc": "(RTTNews) - On Monday, Kyndryl Holdings, Inc. (KD), an IT company, announced that it has completed acquisition of Healthcare IT Leaders, LLC, an enterprise IT services provider serving hospitals and health systems across the United States, for up to $350 million, including a cont",
+    "link": "https://www.nasdaq.com/articles/kyndryl-completes-acquisition-healthcare-it-leaders-over-350-mln",
+    "pubDate": "Mon, 14 Sep 2026 18:29:56 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Moderna's COVID Vaccine Was a Historic Success. Could Its Cancer Vaccine Be Even Bigger?",
+    "desc": "Key PointsModerna's recent success in a phase 3 clinical trial for its personalized cancer vaccine was a breakthrough.",
+    "link": "https://www.nasdaq.com/articles/modernas-covid-vaccine-was-historic-success-could-its-cancer-vaccine-be-even-bigger",
+    "pubDate": "Mon, 14 Sep 2026 18:20:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Swiss Market Ends On Firm Note",
+    "desc": "(RTTNews) - The Switzerland market ended on a strong note on Monday after holding firm right through the day's session thanks to sustained buying at several counters.",
+    "link": "https://www.nasdaq.com/articles/swiss-market-ends-firm-note",
+    "pubDate": "Mon, 14 Sep 2026 18:19:31 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The 10-Year Treasury Yield Just Passed 5%. Here’s How That Impacts Dividend-Paying Consumer Stocks.",
+    "desc": "Key PointsHigher bond yields make dividend-paying consumer stocks less attractive.",
+    "link": "https://www.nasdaq.com/articles/10-year-treasury-yield-just-passed-5-heres-how-impacts-dividend-paying-consumer-stocks",
+    "pubDate": "Mon, 14 Sep 2026 18:10:01 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is Broadcom Stock in Trouble?",
+    "desc": "Key PointsA couple of underwhelming earnings reports have weighed on Broadcom's stock of late.",
+    "link": "https://www.nasdaq.com/articles/broadcom-stock-trouble",
+    "pubDate": "Mon, 14 Sep 2026 18:05:01 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Not Oklo. Not NuScale. This Nuclear Stock Is Going to Be the Biggest Winner of the AI Power Boom.",
+    "desc": "Key PointsOklo and Nuscale are both speculative bets on small nuclear reactors.",
+    "link": "https://www.nasdaq.com/articles/not-oklo-not-nuscale-nuclear-stock-going-be-biggest-winner-ai-power-boom",
+    "pubDate": "Mon, 14 Sep 2026 18:05:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Lululemon Stock Falls to $100: Has It Become a Bargain Buy?",
+    "desc": "Key PointsLululemon's sales have been declining, and they may be down as much as 11% in the current quarter.",
+    "link": "https://www.nasdaq.com/articles/lululemon-stock-falls-100-has-it-become-bargain-buy",
+    "pubDate": "Mon, 14 Sep 2026 18:04:39 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Stocks Close Weak; UK Market Bucks Trend",
+    "desc": "(RTTNews) - European stocks closed weak on Monday amid concerns about rising oil prices and AI-related worries even as the UK market climbed higher, riding on gains in pharmaceuticals, energy and consumer sectors.",
+    "link": "https://www.nasdaq.com/articles/european-stocks-close-weak-uk-market-bucks-trend",
+    "pubDate": "Mon, 14 Sep 2026 18:04:02 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Palo Alto Networks Stock Popped Today",
+    "desc": "Key PointsAI CEOs Elon Musk, Dario Amodei, and Sam Altman highlighted AI risks over the weekend.",
+    "link": "https://www.nasdaq.com/articles/why-palo-alto-networks-stock-popped-today",
+    "pubDate": "Mon, 14 Sep 2026 17:57:54 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Chances of a Federal Reserve Rate Hike Are Surging. Here's What It Means for the Stock Market.",
+    "desc": "Key PointsFor far too long, inflation has lingered above levels the Federal Reserve considers palatable.",
+    "link": "https://www.nasdaq.com/articles/chances-federal-reserve-rate-hike-are-surging-heres-what-it-means-stock-market",
+    "pubDate": "Mon, 14 Sep 2026 17:56:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Should You Buy CVS Stock on the Dip?",
+    "desc": "Key PointsCVS Health recently posted a revenue jump of 7% year over year.",
+    "link": "https://www.nasdaq.com/articles/should-you-buy-cvs-stock-dip",
+    "pubDate": "Mon, 14 Sep 2026 17:50:00 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Immersion Swings To Profit In Q1",
+    "desc": "(RTTNews) - U.S. haptics technology company Immersion Corp. (IMMR) said on Monday it posted a profit in its first quarter, compared with a loss a year earlier, as revenues edged higher and operating loss narrowed.",
+    "link": "https://www.nasdaq.com/articles/immersion-swings-profit-q1",
+    "pubDate": "Mon, 14 Sep 2026 17:40:24 +0000",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "State Street options flow signals bearish pressure ahead of Sept 18 expiry",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/state-street-options-flow-signals-bearish-pressure-ahead-of-sept-18-expiry-93CH-4900210",
+    "pubDate": "2026-09-14 18:33:12",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "EU is set to propose ban on social media and AI chatbots for under-15s",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/eu-is-set-to-propose-ban-on-social-media-and-ai-chatbots-for-under15s-4900202",
+    "pubDate": "2026-09-14 18:31:10",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Constellation Energy options flow: near-term bearish bets meet longer-dated recovery plays",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/constellation-energy-options-flow-nearterm-bearish-bets-meet-longerdated-recovery-plays-93CH-4900203",
+    "pubDate": "2026-09-14 18:27:47",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "CVC-backed Bamboo Insurance targets $3.24 billion valuation in US IPO",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/cvcbacked-bamboo-insurance-targets-313-billion-valuation-in-us-ipo-4899358",
+    "pubDate": "2026-09-14 18:06:27",
+    "fetchedAt": "2026-09-14T19:01:29.437Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
     "desc": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
     "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
@@ -5758,645 +6398,5 @@
     "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-decline-amid-ai-concerns-rising-oil-prices-ahead-of-fed-rate-week-rum-orcl-smmt-uso-stocks-in-focus/cZtlo67RBRd?.tsrc=rss",
     "pubDate": "Mon, 14 Sep 2026 03:31:48 +0000",
     "fetchedAt": "2026-09-14T04:01:32.742Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Market Trims Early Slight Losses In Mid-market",
-    "desc": "(RTTNews) - The Australian stock market is trimming its early slight losses in mid-market trading on Monday, snapping a four-session losing streak, despite the broadly positive cues from Wall Street on Friday. The benchmark S&P/ASX 200 index is moving up to near the 8,750.00 leve",
-    "link": "https://www.nasdaq.com/articles/australian-market-trims-early-slight-losses-mid-market",
-    "pubDate": "Mon, 14 Sep 2026 03:30:35 +0000",
-    "fetchedAt": "2026-09-14T04:01:32.742Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Markets Trade Mostly Lower",
-    "desc": "(RTTNews) - Asian stock markets are mostly lower on Monday, despite the positive cues from Wall Street on Friday, amid surging crude oil prices after the critical East-West pipeline was shut by Saudi Arabia following drone attacks and talks between Iran and the GCC about a possib",
-    "link": "https://www.nasdaq.com/articles/asian-markets-trade-mostly-lower-5",
-    "pubDate": "Mon, 14 Sep 2026 03:18:53 +0000",
-    "fetchedAt": "2026-09-14T04:01:32.742Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Capgemini To Sell Capgemini Government Solutions",
-    "desc": "(RTTNews) - Capgemini (CGEMY, CAP.PA), a French technology company, announced that it has entered into an agreement with ITC Federal, a U.S. IT solutions and enterprise services provider to federal law enforcement, homeland security, and defense agencies, for the sale of Capgemin",
-    "link": "https://www.nasdaq.com/articles/capgemini-sell-capgemini-government-solutions",
-    "pubDate": "Mon, 14 Sep 2026 03:02:51 +0000",
-    "fetchedAt": "2026-09-14T04:01:32.742Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Faced with less compute and fewer tokens, Chinese AI labs are tightening the gap with the U.S. by just being more efficient",
-    "desc": "Federal agencies accused six Chinese AI companies of training on American models to do this, but analysts say it’s not the only explanation",
-    "link": "https://fortune.com/2026/09/13/china-us-ai-models-efficient/",
-    "pubDate": "Sun, 13 Sep 2026 10:00:00 +0000",
-    "fetchedAt": "2026-09-14T04:01:32.742Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Asia tech, chip stocks tumble as AI trade doubts deepen before Fed, BOJ decisions",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-tech-stocks-tumble-as-ai-trade-doubts-deepen-before-fed-boj-decisions-4898797",
-    "pubDate": "2026-09-14 02:35:24",
-    "fetchedAt": "2026-09-14T04:01:32.742Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-    "desc": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-    "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-    "pubDate": "Sat, 12 Sep 2026 13:15:04 GMT",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "Samsung, SK Hynix reject KEPCO’s $19 billion power prepayment proposal, document shows",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-reject-kepcos-19-billionpower-prepayment-proposal-document-shows-4898798",
-    "pubDate": "2026-09-14 02:48:30",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asia tech stocks tumble as AI trade doubts deepen before Fed, BOJ decisions",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-tech-stocks-tumble-as-ai-trade-doubts-deepen-before-fed-boj-decisions-4898797",
-    "pubDate": "2026-09-14 02:35:24",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Telix Pharmaceuticals stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-surging-today-93CH-4898796",
-    "pubDate": "2026-09-14 02:33:21",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Z.AI stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4898795",
-    "pubDate": "2026-09-14 02:33:17",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "Telix Pharma wins FDA approval for brain cancer treatment, shares surge",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/telix-pharma-wins-fda-approval-for-brain-cancer-treatment-shares-surge-4898794",
-    "pubDate": "2026-09-14 02:28:54",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "Dell’s DFO Management leads planned $7.7 billion take-private deal for Baldwin Insurance, FT reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/michael-dells-dfo-management-nears-takeprivate-deal-for-baldwin-insurance-group-ft-reports-4898767",
-    "pubDate": "2026-09-14 02:24:30",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investing",
-    "title": "At least 129 missing after Indonesian passenger ship capsizes",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/rescuers-searching-for-140-people-after-indonesia-passenger-ship-sinks-agency-says-4898714",
-    "pubDate": "2026-09-14 02:19:59",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Oil Is $100, The 10-Year Is Near 5%. Why Doesn’t The Stock Market Care?",
-    "desc": "The market is ignoring $100 oil and near-5% Treasury yields because earnings are still holding up, but that confidence could disappear quickly if those pressures start hitting profits.",
-    "link": "https://www.barchart.com/story/news/4580757/oil-is-100-the-10-year-is-near-5-why-doesnt-the-stock-market-care?.tsrc=rss",
-    "pubDate": "Sun, 13 Sep 2026 20:33:26 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Amodei's AI Slowdown Warning Rattles Futures: Will Stocks Open Lower?",
-    "desc": "Anthropic's AI slowdown call and OpenAI's shelved IPO plans pull stock futures lower ahead of Monday's open.",
-    "link": "https://beincrypto.com/ai-slowdown-stock-futures-monday/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 02:04:34 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Cramer Draws 2018 Parallel to Today's Market: Any Danger of History Repeating Itself?",
-    "desc": "Jim Cramer sees eerie parallels between 2018 and 2026 markets but says investors should trim winners, not panic sell.",
-    "link": "https://beincrypto.com/cramer-2018-market-parallel-warsh/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 01:56:15 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Federal Investigation Of Gavin Newsom Expands",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Federal Investigation Of Gavin Newsom Expands</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>According to a new report, the Justice Department has expanded its federal criminal investigation into California Gov. Gavin Newsom to include his international travel and personal expenses</strong> related to a nonprofit that funds his trips through private donations rather than taxpayer money.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/gavin%20blewsome%20guy.jpg?itok=0f9Zp9i9\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/gavin%20blewsome%20guy.jpg?itok=0f9Zp9i9\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"77897f38-c473-4536-95f8-f2193d5021f4\" data-responsive-image-style=\"inline_images\" height=\"281\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/gavin%20blewsome%20guy.jpg?itok=0f9Zp9i9\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Earlier this month, the US Attorney's Office served subpoenas asking for <strong>about six years' worth of communications relating to the California State Protocol Foundation</strong>, according to the <a href=\"https://sfstandard.com/2026/09/12/newsom-travel-subpoenas-federal-criminal-probe/\"><em>San Francisco Standard</em></a>. They sought records concerning the foundation's donors and fundraising, Newsom's overseas travel and events, and any money that had been used for his personal and living expenses.</p> <p>The Protocol Foundation exists, on paper, to spare California taxpayers the cost of Newsom's travel expenses, but it has instead raised other ethical and legal issues.</p> <p><strong>Since 2019, he has steered</strong> <strong>more than $7.5 million in outside donations to the nonprofit</strong>, with about $5.1 million coming from funds left over from his 2019 and 2023 gubernatorial inaugurations. However, the <a href=\"https://nypost.com/2026/09/12/us-news/feds-zero-in-on-gavin-newsoms-travel-personal-spending-in-doj-probe/\">remaining donor roll</a> includes corporations and foundations that have business before the California state government, creating the appearance of a pay-to-play arrangement in which companies like CVS, Zoox, and a Blue Shield-linked foundation gain access to, or favor with, a governor whose regulatory decisions directly affect their bottom lines.</p> <p>Newsom also sought money from the left-leaning dark-money outfit New Venture Fund and crypto billionaire Chris Larsen. Foundations tied to philanthropists Susie Tompkins Buell and Lisa Stone Pritzker round out the list, and both have separately bankrolled Newsom's political operation and his wife Jennifer Siebel Newsom's nonprofits. Federal investigators are looking at her taxes too, in a separate probe.</p> <p>Investigators also sought records from several Newsom aides, including Becca Prowda, his chief protocol officer and the aide who manages his overseas trips. <strong>Prowda is married to San Francisco Mayor Daniel Lurie</strong>, a detail that adds another layer to California's small and increasingly tangled political class.</p> <p>Newsom, naturally is playing the victim card, framing the subpoenas as retribution from a president he has spent years attacking. \"Governor Newsom went after the king, and as he warned in June, the tyrant is now coming after everyone around him,\" Tara Gallegos, a spokesperson for his office, said in a statement. \"This is what Donald Trump does to his enemies: investigate first, hunt for a crime that doesn't exist second.\"</p> <p>The problem is that <strong>this nonprofit, which is supposedly meant to keep Newsom's travel off the public books, runs almost entirely on Newsom's own bench of former staffers</strong>. Steve Kawa chairs the shady foundation and previously served as Newsom's chief of staff during his San Francisco mayoral years. Newsom appointed him to the High-Speed Rail Authority board in May, and Kawa subsequently became its chairman. Jason Elliott, another longtime Newsom advisor, sits on the foundation's board and also landed an appointment to the Rail Authority. Jim DeBoo, a former Newsom chief of staff, serves as the foundation's secretary according to its latest IRS filings. Board members were also subpoenaed as part of the investigation.</p> <p>Meanwhile, the foundation also covered the cost of Newsom's State of the State speech during the pandemic at an empty Dodger Stadium, and reportedly paid for the burner phones the governor sent to top tech CEOs the previous year. According to IRS records, by the end of 2024 the nonprofit had spent almost $600,000 more than it had received in the two previous years and had a net balance of just $7,790.</p> <p>A spokesperson for the nonprofit defended the arrangement, saying it \"has proudly supported both Republican and Democratic administrations in fulfilling their duties representing all of California through public events and international engagements.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-14T02:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/13/2026 - 22:00</span>",
-    "link": "https://www.zerohedge.com/political/federal-investigation-gavin-newsom-expands",
-    "pubDate": "Mon, 14 Sep 2026 02:00:00 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "BRICS Steps Off The Dollar, With Iran Pressing Hardest",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">BRICS Steps Off The Dollar, With Iran Pressing Hardest</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://sonar21.com/day-one-in-new-delhi-brics-steps-off-the-dollar-with-iran-pressing-hardest/\"><em>Authored by former CIA officer Larry Johnson</em></a></p> <p>The 18th BRICS summit opened on Saturday with the bloc<strong> taking its most concrete step yet toward loosening the grip of the US dollar</strong>, adopting a 45-page New Delhi Declaration on the first day and endorsing a payments architecture built to route cross-border trade around the Western financial system. For most members the move was incremental. For Iran — under sweeping US sanctions, a naval blockade, and roughly six months into a war with the United States and Israel — it was <strong>closer to a lifeline</strong>.</p> <h2>The declaration and the payment rails</h2> <p>Leaders gathered at the Bharat Mandapam convention center adopted the New Delhi Declaration 2026 unanimously on the opening day, with Prime Minister Narendra Modi emerging from a closed session to report that no member had objected to the text. The economic centerpiece was a commitment to expand trade and investment settled in members’ own national currencies, and to link their domestic payment and messaging systems so that transactions can move without passing through the dollar-denominated SWIFT network. According to the declaration, the bloc’s payment task force had studied cross-border interoperability of those channels and <strong>examined using local currencies for trade settlement and investment</strong>.</p> <p>The mechanism drawing the most attention was <strong>BRICS Pay, a decentralized payment-messaging framework that stitches together India’s UPI, China’s CIPS, and Russia’s SPFS into a shared interoperability layer </strong>— a way to clear payments among members outside SWIFT. The declaration also referenced a pilot for a gold-backed “Unit” token.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/bricssm.jpg?itok=RMtUmUep\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/bricssm.jpg?itok=RMtUmUep\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6af7f8be-d284-4af0-a79f-67d8893bc430\" data-responsive-image-style=\"inline_images\" height=\"333\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/bricssm.jpg?itok=RMtUmUep\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>During 18th BRICS Summit in New Delhi on September 13, 2026, Indian Press Information Bureau via AFP</em></figcaption></figure></picture></a> <p>Just as telling was what the bloc again declined to do. There was no endorsement of a single common BRICS currency; India in particular has resisted that leap, favoring interoperable national-currency settlement over the political and monetary complexity of a shared unit. The result, as several observers characterized it, is incremental financial de-dollarization rather than a monetary union — plumbing, not a new reserve currency.</p> <h2>Washington's answer</h2> <p>The response from Washington was immediate. <strong>President Trump threatened tariffs of up to 100% on the bloc, extending a pressure campaign he has waged all year against what he calls BRICS’s “anti-American” trajectory</strong>. The threat carries genuine weight for export-dependent members that rely on the US market — but its deterrent power erodes with each transaction the bloc succeeds in routing through non-dollar channels.</p> <p>That is the paradox Washington now faces: the tariffs are meant to punish de-dollarization, yet de-dollarization is precisely what blunts the tariffs.</p> <h2>Iran at the front of the line</h2> <p>No member arrived with more at stake than Iran. President Masoud Pezeshkian pressed the case for national-currency trade, telling reporters that expanding the use of members’ own currencies in intra-bloc commerce was among the most important steps the group could take. Tehran has pushed throughout the summit for mechanisms to insulate members from Western financial pressure — a priority sharpened by the sanctions and blockade it now faces.</p> <p>Crucially, the summit institutionalizes at the multilateral level what Iran has already been building bilaterally. On January 29, 2026, Tehran signed a trilateral strategic pact with China and Russia, an agreement whose economic core is the construction of alternative financial mechanisms that sidestep SWIFT and reduce exposure to the dollar-centered system. That pact rests on foundations already in place: an Iran–Russia monetary agreement, operational since early 2025, that settles trade directly in rials and rubles and links Russia’s Mir card network to Iran’s Shetab system; a 25-year Iran–China cooperation framework; and the plain fact that China now buys the overwhelming majority of Iran’s oil, much of it settled in yuan.</p> <p><strong>The implication cuts against the common assumption that Iran is scrambling for a dollar workaround. It already has one</strong>. For Tehran, BRICS Pay is not a novel escape hatch but a larger, sanctions-resistant network onto which it can graft trade it is already conducting outside Western channels — and a multilateral blessing for the parallel financial architecture it has spent two years assembling with Moscow and Beijing.</p> <h2>Where BRICS drew the line - and where it didn’t</h2> <p>The declaration’s language on the region’s wars was the most fought-over in the text, and the outcome was uneven: sharp in places, deliberately vague in others. Reaching consensus reportedly required negotiations that ran until 4 a.m., driven mainly by a rift between Iran and the United Arab Emirates.</p> <p>On the US–Israeli war against Iran, the bloc expressed deep concern and called for maximum restraint, dialogue and diplomacy — <strong>but it named neither the United States nor Israel, and condemned no country outright</strong>. That hedge was the <strong>price of unanimity</strong>. Iranian Foreign Minister Abbas Araghchi had pressed BRICS to condemn what he called unlawful US and Israeli aggression; the UAE pushed back hard, accusing Tehran of using the summit to justify its own missile and drone barrages against Gulf states. India, in the chair, acknowledged “differing views among some members” and steered the text toward common ground. The language was firmer in tone than a bland appeal for peace, but well short of the unequivocal condemnation of the strikes on Iran that Tehran had won from the Rio summit a year earlier — a notable step <em>back</em> on that specific question, not forward.</p> <p><strong>Yet Iran signed the text anyway, and that was the summit’s quieter diplomatic story</strong>. Tehran — which has spent the war firing missiles and drones at the UAE, most recently at the Al Minhad Air Base in late August — put its name to language its Gulf adversary could also accept, while Pezeshkian met the Abu Dhabi crown prince on the sidelines in the two sides’ highest-level contact since the fighting began. Iran’s willingness to sit inside the consensus rather than force a rupture signaled that it read the declaration’s direction — deep concern over the escalation and a call to protect civilians — as acceptable enough, even without the naming it had sought. But the same words served Abu Dhabi: the call to respect the sovereignty and territorial integrity of states pointed as much at Iran’s strikes on the Gulf as at the US–Israeli assault on Iran. The consensus held because the text could be read both ways.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">‘Trumpism’ spawns rare unity at Brics summit <a href=\"https://t.co/c7aGUWgJaT\">https://t.co/c7aGUWgJaT</a></p> — Financial Times (@FT) <a href=\"https://x.com/FT/status/2099092419258019920?ref_src=twsrc%5Etfw\">September 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>On Lebanon, the bloc was sharper, and it named Israel directly. The leaders condemned the continued violations of Lebanon’s sovereignty and territorial integrity, called on Israel to withdraw its occupying forces from all Lebanese territory, demanded full implementation of UN Security Council Resolution 1701, and condemned all attacks against the UNIFIL peacekeeping force — extending condolences for peacekeepers killed in the south, among them four Indonesians, and demanding accountability. It amounts to some of the most direct criticism of Israel in any BRICS declaration to date, even though Israel is named only three times in the entire 45-page document. The declaration separately took note of the International Court of Justice proceedings brought by South Africa against Israel over Gaza, and rejected any unilateral moves to alter the status of occupied Jerusalem.</p> <p>For India, the shift is best measured against where Modi stood barely six months earlier. On February 25–26 he made a landmark visit to Israel — the first Indian premier to address the Knesset, honored with its Speaker’s Medal as the first foreign leader to receive it, presiding over the elevation of ties to a “special strategic partnership” and a defense co-production track. When the US and Israel opened their war on Iran forty-eight hours after he left, killing Iran’s supreme leader in an airstrike, New Delhi stayed conspicuously silent — no condemnation of the strikes, no condolence for the killing — and let its own Iran links, from Chabahar port funding to bilateral trade, wither under US pressure. That silence held for months.</p> <p>It broke at Bishkek. On September 1, at the Shanghai Cooperation Organization summit, Modi signed a declaration condemning the military strikes on Iranian territory as violations of international law, offering condolences for the slain Iranian leader, and backing Iran’s sovereignty and its rights under the Non-Proliferation Treaty — the first time India had endorsed language condemning the US–Israeli assault. From the leader who had embraced Netanyahu in February, that was a genuine reversal, not a calibration. The New Delhi Declaration eleven days later was actually <em>softer</em> on Iran than Bishkek, and the reason is instructive: the SCO has no Gulf Arab members, but BRICS has the UAE, which pushed back hard and forced the unnamed “deep concern” formula — <strong>even as the bloc kept firm, named criticism of Israel over Lebanon</strong>. India’s arc across 2026, from the Knesset medal to the Bishkek condemnation, is the real measure of the move; the hedged Iran passage in the New Delhi text reflects the BRICS bargaining table, not a retreat from it.</p> <h2>What is real, and what is symbolic</h2> <p>Sober assessment is warranted. <strong>BRICS Pay is a messaging and interoperability layer, not a replacement for the dollar as the world’s reserve asset, and nothing in the New Delhi Declaration displaces the dollar’s dominance in global reserves, commodity pricing, or third-country trade</strong>. The bloc’s unity also has limits the declaration papered over rather than resolved: the consensus on the Middle East held only because the text avoided naming the aggressors Iran wanted named, and the Iran–UAE rift that nearly sank the negotiations has not gone away. Grand pronouncements about a post-dollar order have a long history of outrunning the mechanics.</p> <p><strong>But the asymmetry inside the bloc is the point</strong>. What reads as incremental to India or Brazil — countries with full access to Western markets and finance — is closer to existential for Iran and Russia. For a state locked out of SWIFT and dollar clearing, a payment rail that functions precisely because it does not touch the dollar is worth far more than any debate over reserve-currency theory. The New Delhi Declaration will not dethrone the dollar. What it does is hand the bloc’s sanctioned members a collective, expanding, and now formally endorsed alternative to the system Washington has used to isolate them.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Respect for BRICS is GROWING — Putin<br /><br /> 'Many in the world are attracted by our basic values and ideals'<br /><br /> 'BRICS has always stood for including ALL countries without exception' <a href=\"https://t.co/61To8Bn5ZV\">pic.twitter.com/61To8Bn5ZV</a></p> — RT (@RT_com) <a href=\"https://x.com/RT_com/status/2099038385176256712?ref_src=twsrc%5Etfw\">September 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><h2>The backdrop</h2> <p>All of this unfolds under the shadow of simultaneous wars — in Ukraine and across the Middle East — and an Iran conflict, triggered by US–Israeli strikes in late February, that has pushed oil above $100 a barrel, disrupted the Strait of Hormuz, and now bleeds into the escalation between Saudi Arabia and Yemen’s Houthis. It is an environment that gives the de-dollarization agenda its urgency: <strong>the more Washington wields financial and military pressure, the greater the incentive for the targeted states to build channels beyond its reach</strong>. Day two of the summit turns to supply chains, energy security, and the bloc’s Economic Strategy 2030.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-14T01:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/13/2026 - 21:30</span>",
-    "link": "https://www.zerohedge.com/geopolitical/brics-steps-dollar-iran-pressing-hardest",
-    "pubDate": "Mon, 14 Sep 2026 01:30:00 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nvidia's Latest Signal Points to Serious Downside Risk for Micron Before 2029 Is Over",
-    "desc": "Key PointsIf Nvidia finds ways to use less expensive memory in future chips, Micron&rsquo;s premium HBM opportunity could shrink.",
-    "link": "https://www.nasdaq.com/articles/nvidias-latest-signal-points-serious-downside-risk-micron-2029-over",
-    "pubDate": "Mon, 14 Sep 2026 02:35:00 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Thai Stock Market: Support Expected At 1,600 Points",
-    "desc": "(RTTNews) - The Thai stock market has moved lower in three straight sessions, sinking more than 15 points or 0.9 percent along the way. The Stock Exchange of Thailand now sits just above the 1,600-point plateau although it may halt its slide on Monday.",
-    "link": "https://www.nasdaq.com/articles/thai-stock-market-support-expected-1600-points",
-    "pubDate": "Mon, 14 Sep 2026 02:03:44 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cerebras Systems vs. QuantumScape: Here Is the Better Hardware Technology Stock to Buy in 2026",
-    "desc": "Key PointsCerebras Systems designs massive AI processors and reported over $500 million in revenue for fiscal 2025.",
-    "link": "https://www.nasdaq.com/articles/cerebras-systems-vs-quantumscape-here-better-hardware-technology-stock-buy-2026",
-    "pubDate": "Mon, 14 Sep 2026 01:50:38 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Japanese Market Sharply Lower",
-    "desc": "(RTTNews) - The Japanese stock market is sharply lower on Monday, extending the losses in the previous session, following the broadly positive cues from Wall Street on Friday. The Nikkei 225 is falling below the 63,050 level, with weakness in index heavyweights and technology sto",
-    "link": "https://www.nasdaq.com/articles/japanese-market-sharply-lower-10",
-    "pubDate": "Mon, 14 Sep 2026 01:39:45 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "NuScale Has One Overlooked Quality Worth Buying Into",
-    "desc": "Key PointsNuScale Power is attempting to build a business around small modular nuclear reactors.",
-    "link": "https://www.nasdaq.com/articles/nuscale-has-one-overlooked-quality-worth-buying",
-    "pubDate": "Mon, 14 Sep 2026 01:35:00 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Indonesia Stock Market Poised To Open To The Upside On Monday",
-    "desc": "(RTTNews) - The Indonesia stock market has finished lower in three straight sessions, surrendering almost 150 points or 2.4 percent in that span. The Jakarta Composite Index now rests just above the 6,540-point plateau although it's expected to open higher on Monday.",
-    "link": "https://www.nasdaq.com/articles/indonesia-stock-market-poised-open-upside-monday",
-    "pubDate": "Mon, 14 Sep 2026 01:33:44 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Franco-Nevada Expands Bullabulling Support With A$200 Mln Royalty And Equity Investment",
-    "desc": "(RTTNews) - Franco-Nevada Corp. (FNV, FNV.TO) announced that, through its wholly-owned Australian subsidiary, it has entered into an agreement to acquire a A$170 million or approximately US$122 million gross royalty from Minerals 260 Limited. The transaction is designed to furthe",
-    "link": "https://www.nasdaq.com/articles/franco-nevada-expands-bullabulling-support-200-mln-royalty-and-equity-investment",
-    "pubDate": "Mon, 14 Sep 2026 01:26:57 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Hong Kong Stock Market May Stop The Bleeding On Monday",
-    "desc": "(RTTNews) - The Hong Kong stock market has moved lower in four straight sessions, sliding more than 800 points or 3.2 percent along the way. The Hang Seg Index now sits just above the 24,800-point plateau although it's expected to open in the green on Monday.",
-    "link": "https://www.nasdaq.com/articles/hong-kong-stock-market-may-stop-bleeding-monday",
-    "pubDate": "Mon, 14 Sep 2026 01:18:44 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "BigBear.ai vs. Cerebras Systems: What Quarterly Revenue Trends for These Artificial Intelligence Companies Tell Investors",
-    "desc": "Key PointsCerebras Systems currently looks stronger on revenue, as its reported financial totals remained consistently higher across all eight observed quarters when compared to results from BigBear.ai.",
-    "link": "https://www.nasdaq.com/articles/bigbearai-vs-cerebras-systems-what-quarterly-revenue-trends-these-artificial-intelligence",
-    "pubDate": "Mon, 14 Sep 2026 01:01:54 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Dell Stock Climbed to a New All-Time High This Week",
-    "desc": "Key PointsAgentic AI is boosting sales of Dell's computer servers.",
-    "link": "https://www.nasdaq.com/articles/why-dell-stock-climbed-new-all-time-high-week",
-    "pubDate": "Mon, 14 Sep 2026 00:57:29 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Amazon and 2 Other AI Stocks to Buy With $5,000",
-    "desc": "Key PointsAmazon Web Services revenue rose 37% year over year in the second quarter, the segment's fastest growth in 18 quarters.",
-    "link": "https://www.nasdaq.com/articles/amazon-and-2-other-ai-stocks-buy-5000",
-    "pubDate": "Mon, 14 Sep 2026 00:46:01 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Black Lake founder Yuxiang Zhou pitted an AI agent against his top sales coach. His most experienced salespeople chose the AI",
-    "desc": "But he’s still waiting for the “Google moment” in AI.",
-    "link": "https://fortune.com/2026/09/13/black-lake-ai-sales-coach-ideo-wipro/",
-    "pubDate": "Sun, 13 Sep 2026 09:30:00 +0000",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Iran-UAE talks put Hormuz in focus as AI strategy’s refining bet climbs 40%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/iranuae-talks-put-hormuz-in-focus-as-ai-strategys-refining-bet-climbs-40-4898793",
-    "pubDate": "2026-09-14 02:04:37",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Hang Seng plunges below key MAs, RSI near oversold: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/hang-seng-plunges-below-key-mas-rsi-near-oversold-live-levels-93CH-4898792",
-    "pubDate": "2026-09-14 02:02:19",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Amazon pauses 21 Air operations after Miami crash, WSJ reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/amazon-pauses-21-air-operations-after-miami-crash-wsj-reports-4898787",
-    "pubDate": "2026-09-14 01:12:48",
-    "fetchedAt": "2026-09-14T03:01:30.719Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "The 10-year Treasury is closing in on 5%. How it gets there matters more",
-    "desc": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
-    "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-    "pubDate": "Mon, 14 Sep 2026 01:39:13 GMT",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Prediction markets are becoming more professionalized, but also harder to beat",
-    "desc": "The institutionalization of prediction markets threatens to erode the edge of skilled traders who earn off mispricing and market inefficiencies, experts say.",
-    "link": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
-    "pubDate": "Mon, 14 Sep 2026 01:37:44 GMT",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "North Korea says missile launches were part of live-fire drills",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/north-korea-held-livefire-drills-involving-artillery-and-missiles-kcna-says-4898757",
-    "pubDate": "2026-09-14 01:54:08",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "Carney says Canada seeks \"unique alliance\" but not membership with the European Union",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/carney-pushes-idea-of-making-canada-associate-member-of-eu-wsj-reports-4898729",
-    "pubDate": "2026-09-14 01:48:43",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "Enhertu shows progression-free survival benefit in lung cancer trial",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/enhertu-shows-progressionfree-survival-benefit-in-lung-cancer-trial-93CH-4898791",
-    "pubDate": "2026-09-14 01:48:43",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-4898730",
-    "pubDate": "2026-09-14 01:42:27",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "Gold slips as hotter US inflation lifts Fed hike bets, oil stokes price pressures",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/gold-slips-as-hotter-us-inflation-lifts-fed-hike-bets-oil-stokes-price-pressures-4898789",
-    "pubDate": "2026-09-14 01:38:00",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "Sweden’s centre-left bloc leads close election against right-wing government",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/swedish-election-in-dead-heat-as-voters-question-liberal-traditions-4898777",
-    "pubDate": "2026-09-14 01:36:32",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "OpenAI’s Altman won’t do IPO this year, calls AI extinction risk ’unacceptable’",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable-4898788",
-    "pubDate": "2026-09-14 01:24:42",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "ft",
-    "title": "Michael Dell’s family office leads $7.7bn deal to take insurance broker private",
-    "desc": "DFO Management and Sequence near acquisition of Baldwin Group as industry undergoes wave of consolidation",
-    "link": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 00:45:21 GMT",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-    "desc": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
-    "link": "https://finance.yahoo.com/m/75964091-0d57-3879-b55e-2c11b3225642/dow-jones-futures%3A-techs.html?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 01:56:04 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Trump's Grid Battery Ban Leaves Developers Guessing",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump's Grid Battery Ban Leaves Developers Guessing</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://oilprice.com/Energy/Energy-General/Trumps-Grid-Battery-Ban-Leaves-Developers-Guessing.html\">Authored by Haley Zaremba via OilPrice.com</a>,</em></p> <p><strong>The United States is trying to build up its energy storage capacities at a rapid scale.</strong> At the same time, it is trying to wean itself off of Chinese battery tech. In many ways, these two goals are in direct opposition to each other.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-11_eleposocn4_80.jpg?itok=7cdxNfag\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-11_eleposocn4_80.jpg?itok=7cdxNfag\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"aaa24141-4e8f-4cd3-9c3a-c7d5e60c3a5f\" data-responsive-image-style=\"inline_images\" height=\"209\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-11_eleposocn4_80.jpg?itok=7cdxNfag\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>China dominates global supply chains for clean energy tech in general, but especially when it comes to lithium-ion batteries, which power everything from your phone to your car. <strong>Approximately 80 percent of all battery cells</strong> in the world are made in China according to <a href=\"https://www.iea.org/commentaries/the-rise-of-lithium-ion-batteries\">figures</a> from the International Energy Agency. What is more, Beijing controls the production of EV battery cathode active material (85 percent of global production) and anode active material (more than 90 percent), and refines the vast majority of the critical minerals involved in their manufacturing.</p> <p><strong>The Trump administration is eager to challenge Beijing's outsized presence</strong> in the global energy sector as part of its stated goal to establish \"energy dominance.\" Toward the end of August, the Trump administration <a href=\"https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/\">declared a national emergency</a> that effectively bars the use of Chinese-made batteries in grid-scale energy storage systems, pointing to cybersecurity concerns as the rationale. In the same month, the federal government awarded <strong>$500 million in funding</strong> to seven companies working on battery minerals, manufacturing, and recycling with the express purpose of building up the domestic sector in order to reduce reliance on Chinese supply chains.</p> <p>However, these measures are falling short. Way short. \"It takes decades and tens, if not hundreds of billions of dollars\" to build the kind of supply chains that would be capable of competing with China <a href=\"https://qz.com/us-battery-supply-chain-china-doe-funding-090826\">according</a> to Tu Le, founder and managing director of Sino Auto Insights. \"We don't have decades. We have five, six, seven years to try to become competitive,\" he was recently quoted by Quartz.</p> <p>\"We have a ton of innovation coming out of the United States,\" Le went on to say. \"These small fledgling companies are super innovative, but getting and building prototypes of what they're trying to sell is one thing. Being able to mass produce them at a high quality level, repeatably in the millions of units is another thing entirely.\"</p> <p>Moreover, critics have pointed out that the August 26 executive order is <a href=\"https://www.canarymedia.com/articles/batteries/trump-emergency-order-grid-battery-growth\">vaguely worded</a>, calling for the ban of \"any foreign-produced bulk-power system electric equipment\", and may only serve to slow down the growth of the domestic energy storage sector. <a href=\"https://www.utilitydive.com/news/trump-grid-order-likely-to-cause-energy-storage-delays-cancellations-bloo/829306/\">Analysis</a> from BloombergNEF notes that, as a result of the state of emergency and the uncertainty around its terms, battery projects \"face near-term delays or cancellations as developers await guidance, reconsider existing contracts, or shift suppliers.\"</p> <p>The effort may also be too little, too late to make up for the damage that the Trump administration has already done to the domestic battery manufacturing sector by rolling back critical Biden-era supportive legislation. Repealing laws supporting domestic manufacturers and the EV sector as a whole (which is far and away the largest market for these batteries on a global scale) has cost U.S. battery manufacturers time and money when both are in short supply.</p> <p>And then there is another critical dilemma: is the real problem that the Trump administration's efforts are insufficient, or that they are misguided entirely? \"All this tension raises a broader question for me,\" Casey Crownhart wrote in an <a href=\"https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/\">article</a> for the MIT Technology Review this week: \"How much should countries take advantage of cheap, available tech, versus cutting off major sources to force development of their own factories even if that comes at a higher cost?\"</p> <p>Of course, allowing for the near-total monopolization of global critical infrastructure in the hands of just one country, and an authoritarian one at that, is also a bad option. <strong>It's a sticky situation</strong> that no executive order can solve overnight.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-14T00:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/13/2026 - 20:30</span>",
-    "link": "https://www.zerohedge.com/political/trumps-grid-battery-ban-leaves-developers-guessing",
-    "pubDate": "Mon, 14 Sep 2026 00:30:00 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Bill Maher Delivers A Brutal 9/11 Reality Check To The Left",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Bill Maher Delivers A Brutal 9/11 Reality Check To The Left</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Bill Maher used the 25th anniversary of the September 11 attacks to say something that once required no courage at all: terrorists are terrorists.</strong> That the observation now counts as provocative says something about how far we've come since 2001.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/maher.png?itok=6sXj3DTE\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/maher.png?itok=6sXj3DTE\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"5b681056-b85a-42b8-9af1-be3874061fab\" data-responsive-image-style=\"inline_images\" height=\"282\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/maher.png?itok=6sXj3DTE\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>On <em>Real Time with Bill Maher</em>, in a segment titled \"Clash of Civilizations,\" Maher walked through what has happened in the 25 years since 9/11.</p> <p>\"Since it's the 25th anniversary of 9/11, and since, for 25 years, we've been kept relatively safe from anything close to another 9/11, how about a hand for the Americans who made that happen? Because it didn't just happen; there was a war on terror, and we won,\" he said. \"And yet so much has changed since 9/11; for example, <strong>back then we were against the terrorists.</strong>\"</p> <p>The audience laughed, but he was being serious.</p> <p>Around the 20th anniversary, for example, <strong>four American journalism associations</strong> issued guidance insisting that \"terrorism should only be used in quotes because it's emotionally and politically loaded.\" Canadian state broadcasters instructed staff, \"Do not refer to the September 11th attacks as terrorist attacks.\" The BBC told its reporters that using the word \"terrorist\" can be a \"barrier rather than an aid to understanding.\"</p> <p><strong>The pattern shows that the media establishment many years ago concluded moral clarity amounted to a kind of bigotry</strong> and that to name an ideology responsible for mass murder was the same as harboring hatred towards all those who happen to share that ideology.</p> <p>Maher made that distinction himself by dividing radical Islamism from Islam in general and also separating both of them from the issue that liberals consistently avoid, which is why so many of them came to sympathize with the side that attacked the West rather than with the side that was attacked.</p> <p>Maher revisited his own history on this point, playing a clip of himself from shortly after the attacks on his ABC show <em>Politically Incorrect with Bill Maher</em> in which he argued that political correctness \"is something we can no longer afford\" because \"feelings are going to get hurt so that actual people won't.\"</p> <p><a data-image-external-href=\"https://store.zerohedge.com/collections/pantry-snacks\" data-image-href=\"https://store.zerohedge.com/collections/pantry-snacks\" data-link-option=\"2\" href=\"https://store.zerohedge.com/collections/pantry-snacks\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"32d6bb2a-ddf2-42a7-8c56-fcc2028258a7\" data-responsive-image-style=\"inline_images\" height=\"300\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Screenshot%202026-09-13%20115708.png?itok=okf46HTE\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Maher lamented that the idea of \"ditching political correctness and actually being honest\" never \"even got off the ground.\"</p> <p>He then pointed out that after 9/11, there was a big debate over whether it was a \"clash of civilizations.\" According to Maher, \"<strong>it was, and it still is</strong>.\" But that clash isn't between Muslims and Christians, but rather radical Islamism and Western liberalism.</p> <p>Maher then referred to a poll that showed that <strong>one in five young Americans</strong> now holds a positive view of Osama bin Laden (which would have been unthinkable 25 years ago) and compared it to how Luigi Mangione came to be seen as a folk hero; he assassinated Brian Thompson, the CEO of UnitedHealthcare. In both cases, a killer becomes a symbol of grievance, and the actual victims become a footnote to a woke narrative about systemic injustice.</p> <p>\"You hear it in a lot of places now that the worst thing about 9/11 was innocent Muslims came under suspicion,\" Maher continued. \"Yeah, where that did happen, it's wrong, but the worst thing about 9/11 was 3,000 people got roasted at the office. But the prevailing view of so many young people is that 'Well, come on, we're the worst country ever, so if someone attacks us, they can't be all bad.' That certainly wasn't the attitude 25 years ago. In fact, I know a guy whose show got canceled just for saying that terrorists weren't cowards, and that guy was right; they weren't cowards. But I'll tell you who is: Democratic Party politicians. And I'll tell you why, because nowhere has this moral confusion become more obvious than in a place called Gaza.\"</p> <p>Maher argued that activists have recast the conflict as genocide at the hands of Israel to serve broader attacks on capitalism, borders, and Western institutions. \"And the fact that so many prominent Democrats go along with it is, to me, the party's worst moment since they undid Reconstruction after the Civil War.\"</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">The prevailing view of so much of the young left in America is that we’re the worst country ever, so if someone attacks us, they can’t be all bad. <a href=\"https://t.co/u01HsCRnv3\">pic.twitter.com/u01HsCRnv3</a></p> — Bill Maher (@billmaher) <a href=\"https://x.com/billmaher/status/2098609787739226115?ref_src=twsrc%5Etfw\">September 12, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>Maher's monologue traces a straight line from post-9/11 unity against Islamic terrorism to a political culture on the left that now treats the side committing violence as more sympathetic than the side that was attacked.</strong> Younger generations have learned to locate the villain in American power rather than in the perpetrators of an attack. Maher describes the slow erosion of the basic instinct to know who the villain is when violence occurs. That instinct used to be reflexive, requiring no debate and no hedging. Its disappearance from mainstream left-wing politics isn't a matter of nuance or sophistication - it's actually a failure of judgment in the name of tolerance.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-13T23:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/13/2026 - 19:15</span>",
-    "link": "https://www.zerohedge.com/political/bill-maher-delivers-brutal-911-reality-check-left",
-    "pubDate": "Sun, 13 Sep 2026 23:15:00 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FleetPartners Shares Gain After Element Fleet Walks Away From Takeover Bid",
-    "desc": "(RTTNews) - Element Fleet Management Corp. (EFN.TO), pure-play automotive fleet manager, announced that it has decided not to submit a revised proposal to acquire FleetPartners Group Limited (FPR.AX), fleet management company in Australia and New Zealand. As a result, Element has",
-    "link": "https://www.nasdaq.com/articles/fleetpartners-shares-gain-after-element-fleet-walks-away-takeover-bid",
-    "pubDate": "Mon, 14 Sep 2026 01:11:57 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Markets Slightly Higher",
-    "desc": "(RTTNews) - The Australian stock market is slightly higher in choppy trading on Monday, snapping a four-session losing streak, despite the broadly positive cues from Wall Street on Friday. The benchmark S&P/ASX 200 index is moving above the 8,750.00 level, with gains in energy, f",
-    "link": "https://www.nasdaq.com/articles/australian-markets-slightly-higher",
-    "pubDate": "Mon, 14 Sep 2026 01:10:06 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "China Stock Market May Reclaim 3,900-Point Level",
-    "desc": "(RTTNews) - The China stock market has finished lower in back-to-back sessions, contracting more than 60 points or 1.5 percent in that span. The Shanghai Composite Index now sits just beneath the 3,890-point plateau although it's likely to open to the upside on Monday.",
-    "link": "https://www.nasdaq.com/articles/china-stock-market-may-reclaim-3900-point-level-0",
-    "pubDate": "Mon, 14 Sep 2026 01:03:44 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "This 1 Move Could Make or Break Your Investing Strategy, According to Warren Buffett",
-    "desc": "Key PointsWarren Buffett has for decades advocated for a long-term, buy-and-hold approach to investing.",
-    "link": "https://www.nasdaq.com/articles/1-move-could-make-or-break-your-investing-strategy-according-warren-buffett",
-    "pubDate": "Mon, 14 Sep 2026 00:25:00 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Coinbase CEO Brian Armstrong Says $400,000 Is Within Reach for Bitcoin. Here's Why He's Right.",
-    "desc": "Key PointsOver the past decade, Bitcoin delivered a compound annual growth rate (CAGR) of 33%.",
-    "link": "https://www.nasdaq.com/articles/coinbase-ceo-brian-armstrong-says-400000-within-reach-bitcoin-heres-why-hes-right",
-    "pubDate": "Mon, 14 Sep 2026 00:20:00 +0000",
-    "fetchedAt": "2026-09-14T02:01:29.963Z"
-  },
-  {
-    "source": "investing",
-    "title": "Trump dismisses report China entities helped Iran before attack that killed US troops",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/trump-dismisses-report-china-entities-helped-iran-before-attack-that-killed-us-troops-4898783",
-    "pubDate": "2026-09-14 00:55:06",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kennedy Center on brink of bankruptcy, could close as early as Tuesday, Washington Post reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/kennedy-center-on-brink-of-bankruptcy-could-close-as-early-as-tuesday-washington-post-reports-4898776",
-    "pubDate": "2026-09-14 00:54:50",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Shares skid in Asia as oil rises, rate hikes loom",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
-    "pubDate": "2026-09-14 00:48:52",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "’Musk’ director wants viewers to reclaim power from ’tech oligarchs’",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/musk-director-wants-viewers-to-reclaim-power-from-tech-oligarchs-4898782",
-    "pubDate": "2026-09-14 00:48:32",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Amazon to pause operations with 21Air after deadly crash",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/amazon-to-pause-operations-with-21air-after-deadly-crash-4898781",
-    "pubDate": "2026-09-14 00:42:39",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/dollar-steady-yen-near-7month-high-ahead-of-fed-boj-meetings-4898780",
-    "pubDate": "2026-09-14 00:30:24",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "U.S. stock futures slide on calls to slow AI development, M.East escalation",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
-    "pubDate": "2026-09-14 00:26:04",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Anthropic tells investors it will post second straight quarterly profit - FT",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/anthropic-tells-investors-it-will-post-second-straight-quarterly-profit--ft-4898778",
-    "pubDate": "2026-09-14 00:26:02",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Swedish election in dead heat as voters question liberal traditions",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/swedish-election-in-dead-heat-as-voters-question-liberal-traditions-4898777",
-    "pubDate": "2026-09-14 00:18:26",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "investing",
-    "title": "Chinese defence forum set to open amid roiling regional tensions",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/chinese-defence-forum-set-to-open-amid-roiling-regional-tensions-4898775",
-    "pubDate": "2026-09-14 00:06:30",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "FDA approves Telix brain cancer imaging drug Pixclara",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642313-fda-approves-telix-brain-cancer-imaging-drug-pixclara?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Sun, 13 Sep 2026 20:34:11 -0400",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Arab Spring 2.0? Fuel Riots Erupt In Syria As Instability Spreads Across Mideast",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Arab Spring 2.0? Fuel Riots Erupt In Syria As Instability Spreads Across Mideast</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>New footage posted on X shows what appear to be protests, with Israeli news organizations saying the anger is erupting because of skyrocketing fuel costs, reminiscent of the Arab Spring food riots 15 years ago.</p> <p><a href=\"https://www.i24news.tv/en/news/middle-east/levant-turkey/artc-fuel-price-protests-escalate-across-eastern-syria\">i24NEWS</a> reports that demonstrations have popped up in parts of Raqqa, Hasakah and Deir ez-Zor provinces, with protesters blocking roads and stopping oil tankers as rising energy costs intensify affordability pressures.</p> <p>Videos on X, including one from Middle East Observer, show the chaos unfolding.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Protests in Syria following the rise in fuel prices <a href=\"https://t.co/PjOsnIw95s\">pic.twitter.com/PjOsnIw95s</a></p> — Middle East Observer (@ME_Observer_) <a href=\"https://x.com/ME_Observer_/status/2099216084779864295?ref_src=twsrc%5Etfw\">September 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Other footage:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🇸🇾 Protests Escalate in Syria<br /><br /> Large crowds have taken to the streets in Maarrat al-Numan, with protesters blocking the Aleppo–Damascus highway as demonstrations over the Al-Sharaa government’s latest fuel-price increases grow increasingly confrontational.<br /><br /> Diesel prices jumped… <a href=\"https://t.co/9lkTD7Yfh3\">https://t.co/9lkTD7Yfh3</a> <a href=\"https://t.co/5YzAhxCVBx\">pic.twitter.com/5YzAhxCVBx</a></p> — DD Geopolitics (@DD_Geopolitics) <a href=\"https://x.com/DD_Geopolitics/status/2099203033871638673?ref_src=twsrc%5Etfw\">September 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🇸🇾 Fuel protests spread to Hama<br /><br /> Protests have erupted again in Hama, where demonstrators are blocking roads around Orontes Square (Sahat al-Asi) and burning tires in response to soaring fuel prices. <a href=\"https://t.co/7ouwK1h91J\">pic.twitter.com/7ouwK1h91J</a></p> — DD Geopolitics (@DD_Geopolitics) <a href=\"https://x.com/DD_Geopolitics/status/2099243506569015635?ref_src=twsrc%5Etfw\">September 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>The unrest underscores just how quickly higher fuel costs can ignite public anger and fuel social unrest.</strong></p> <p>i24NEWS added more color to the situation:</p> <blockquote> <p><em>According to the Syrian Observatory for Human Rights, security forces affiliated with the Ministry of Interior fired live ammunition while attempting to disperse the demonstrators. Tensions remained high as security personnel sought to reopen the roads and remove protesters from the area.</em></p> </blockquote> <p>A separate report from <a href=\"https://www.timesofisrael.com/liveblog_entry/protests-erupt-in-syria-over-fuel-price-increases/\">Times of Israel</a> states:</p> <blockquote> <p><em>Protests have broken out in different parts of Syria over increased fuel prices, with demonstrators blocking a main highway in Idlib province for several hours.</em></p> <p><em>The government announced what it said were temporary price increases for gasoline, diesel and other petroleum products earlier today, citing rising global fuel prices as a result of the US-Iran war. The price of gasoline increased by about 30% and diesel by 40%.</em></p> <p><em>Syrian Energy Minister Mohammed al-Bashir said yesterday that Syria is producing about 102,000 barrels of oil per day, while it needs about 325,000 barrels per day for domestic consumption and is relying on imports to make up the difference.</em></p> </blockquote> <p>Renewed instability in Syria could widen the fallout from the US-Iran conflict, creating new openings for armed groups, straining regional security, and placing pressure on President Ahmad al-Sharaa's US-aligned government.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-14T00:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/13/2026 - 20:00</span>",
-    "link": "https://www.zerohedge.com/geopolitical/arab-spring-20-fuel-riots-erupt-syria-instability-spreads-across-mideast",
-    "pubDate": "Mon, 14 Sep 2026 00:00:00 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Truckers Hauled Hundreds Of Kilos Of Cartel Cocaine On US-Canada Freight Lanes",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Truckers Hauled Hundreds Of Kilos Of Cartel Cocaine On US-Canada Freight Lanes</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>By Phil Brink of FreightWaves.com,</em></p> <p>Federal prosecutors charged a California restaurant operator after agents seized more than 40 pounds of methamphetamine. Investigators found the drugs inside his residence and Hyundai Sonata, according to a federal affidavit. Searches also uncovered three firearms, a digital scale and $11,800 in cash. The operation grew from a wider organized crime investigation involving long-haul truck drivers.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/freight%20cocaine.png?itok=BmYX0lpy\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/freight%20cocaine.png?itok=BmYX0lpy\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"0bf178a0-de6e-44f7-9d1c-35c977587b2c\" data-responsive-image-style=\"inline_images\" height=\"281\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/freight%20cocaine.png?itok=BmYX0lpy\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>A <a href=\"https://www.justice.gov/usao-edca/pr/illegal-alien-india-charged-wholesale-drug-distribution-round-table-pizza-restaurant\">federal grand jury indicted Kawal Preet Singh</a>, 50, on Sept. 3. The indictment contains five counts, including two methamphetamine distribution charges from May 12 and July 13. Two additional counts accuse Singh of possession with intent to distribute on Aug. 18. Each drug count involves at least 500 grams of methamphetamine. A fifth count alleges he possessed an Accu-Tek handgun to further a trafficking offense. Singh operated a Round Table Pizza restaurant in Dinuba, California. Authorities claim he distributed wholesale quantities from that business while armed with illegal firearms.</p> <h3 id=\"h-trucking-network-moved-cocaine-across-borders\">Trucking network moved cocaine across borders</h3> <p>The FBI’s Fresno Resident Agency opened its organized crime investigation during February 2025. Intelligence connected suspected participants with drug trafficking, extortion, human trafficking and cargo theft. Agents received information about a Fresno-area narcotics trafficker called “Camy” during May 2026. An informant described Camy as a Sikh Indian man involved in long-haul trucking.</p> <p>The source claimed Camy worked with other Sikh Indian drivers who transported narcotics. Investigators later developed evidence concerning hundreds of kilograms of cocaine entering from Mexico. The affidavit attributes those shipments to an unspecified Mexican cartel. Some loads reportedly continued through the United States before reaching Canada.</p> <p>Court records identify Singh as a subject within that broader inquiry. However, the affidavit never explicitly identifies Singh as Camy. It also does not accuse him of personally hauling cocaine aboard commercial vehicles. Authorities disclosed no carriers, drivers, USDOT numbers, routes or border crossings.</p> <h3 id=\"h-searches-uncover-methamphetamine-and-firearms\">Searches uncover methamphetamine and firearms</h3> <p>A federal magistrate authorized searches involving Singh, his home and restaurant on Aug. 13. Agents watched him drive from his residence to the Dinuba business five days later. They approached after he unlocked the entrance and entered alone. Investigators then executed warrants at both locations around 11 a.m.</p> <p>Agents seized Singh’s iPhone before interviewing him inside the restaurant. The affidavit states he acknowledged storing methamphetamine for a friend “because of friendship.” He also claimed he had not sold that drug for approximately two months. Investigators later found a photograph showing a white crystalline substance on his device.</p> <p>The residence contained approximately 13.8 kilograms of suspected methamphetamine, court records show. His Hyundai held another 4.9 kilograms that produced a positive presumptive result. Combined weight reached approximately 18.7 kilograms, or more than 41 pounds. Agents found similarly packaged substances across the searched locations.</p> <p>Investigators recovered two concealed handguns from the restaurant, including one unserialized weapon. The residence contained an Accu-Tek semiautomatic pistol, digital scale and $11,800 in assorted denominations. Authorities found cash plus that firearm hidden inside clothing within a closet near three methamphetamine bags. An HSI agent called those circumstances consistent with bulk narcotics distribution. Prosecutors also seek forfeiture of proceeds, facilitating property, firearms and ammunition following any conviction.</p> <h3 id=\"h-major-questions-remain-unanswered\">Major questions remain unanswered</h3> <p>The government has not identified Camy or explained Singh’s possible connection with that person. Officials also withheld the suspected cartel’s name, participating carrier details and shipment routes. Court filings do not disclose whether agents searched or seized any commercial trucks. Records provide no identified cargo theft victims, trafficking survivors or related charges.</p> <p>Singh faces at least 10 years and potentially life imprisonment following any drug conviction. The firearm count carries another consecutive term between five years and life. A judge released him under home <a href=\"https://getfreightdata.com/wiki/terms/detention?utm_source=fw_article&utm_medium=tooltip&utm_content=detention\">detention</a>, location monitoring and other conditions on Aug. 24. Federal law presumes Singh innocent unless prosecutors prove every charge beyond a reasonable doubt. Following a FreightWaves inquiry, the U.S. Attorney’s Office provided the complaint and indictment. Those records did not answer questions about Camy, participating carriers or Singh’s connection to the trucking network. Singh’s attorney had not responded before publication. This story will be updated if additional responses arrive.</p> <h3 id=\"h-why-it-matters\">Why it matters</h3> <p>Criminal organizations can exploit legitimate trucking activity to move drugs, stolen cargo and trafficking victims across borders. Freight professionals need accurate information about how authorities identify networks operating within commercial transportation.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-13T23:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/13/2026 - 19:30</span>",
-    "link": "https://www.zerohedge.com/markets/truckers-hauled-hundreds-kilos-cartel-cocaine-us-canada-freight-lanes",
-    "pubDate": "Sun, 13 Sep 2026 23:30:00 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Taiwan Stock Market May Halt Its Slide On Monday",
-    "desc": "(RTTNews) - The Taiwan stock market has finished lower in two consecutive trading days, shedding almost 1,000 points or 2.2 percent along the way. The Taiwan Stock Exchange now sits just above the 46,180-point plateau although it's due for support on Monday.",
-    "link": "https://www.nasdaq.com/articles/taiwan-stock-market-may-halt-its-slide-monday",
-    "pubDate": "Mon, 14 Sep 2026 00:33:44 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Singapore Stock Market May Extend Friday's Gains",
-    "desc": "(RTTNews) - The Singapore stock market on Friday ended the four-day losing streak in which it had retreated almost 110 points or 3.4 percent. The Straits Times Index now sits just beneath the 5,700-point plateau and it may add to its winnings on Monday.",
-    "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-extend-fridays-gains-0",
-    "pubDate": "Mon, 14 Sep 2026 00:03:44 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: ServiceNow's AI Business Triples Before 2029",
-    "desc": "Key PointsServiceNow said its AI products crossed $1 billion in annual contract value in the second quarter of 2026.",
-    "link": "https://www.nasdaq.com/articles/prediction-servicenows-ai-business-triples-2029",
-    "pubDate": "Sun, 13 Sep 2026 23:41:01 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Malaysia Stock Market Due For Support On Monday",
-    "desc": "(RTTNews) - The Malaysia stock market has finished lower in four sessions, slipping almost 30 points or 2 percent in that span. The Kuala Lumpur Composite Index now sits just above the 1,685-point plateau although it may find traction on Monday.",
-    "link": "https://www.nasdaq.com/articles/malaysia-stock-market-due-support-monday",
-    "pubDate": "Sun, 13 Sep 2026 23:33:44 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Rebound Anticipated For Japan Stock Market",
-    "desc": "(RTTNews) - The Japan stock market headed south again on Friday, one day after ending the two-day slide in which it had stumbled more than 1,250 points or 1.9 percent. The Nikkei 225 now sits just above the 64,000-point plateau although it may bounce higher again on Monday.",
-    "link": "https://www.nasdaq.com/articles/rebound-anticipated-japan-stock-market-1",
-    "pubDate": "Sun, 13 Sep 2026 23:18:44 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "South Korea Shares May Find Traction On Monday",
-    "desc": "(RTTNews) - The South Korea stock market has finished lower in two straight sessions, slumping almost 150 points or 2.1 percent in that span. The KOSPI now sits just above the 6,900-point plateau although it may stop the bleeding on Monday.",
-    "link": "https://www.nasdaq.com/articles/south-korea-shares-may-find-traction-monday",
-    "pubDate": "Sun, 13 Sep 2026 23:03:44 +0000",
-    "fetchedAt": "2026-09-14T01:01:30.672Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
-    "desc": "While I have grown tired of his endless proclamations, Dario Amodei does raise points that will impact many stocks if the spending curb proceeds.",
-    "link": "https://www.cnbc.com/2026/09/13/cramer-questions-anthropic-ceos-slowdown-manifesto-puts-forth-an-action-plan.html",
-    "pubDate": "Sun, 13 Sep 2026 23:47:14 GMT",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Gloomy forecast for tenants as rent rises set to speed up",
-    "desc": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 13 Sep 2026 23:05:45 GMT",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How to protect your laptop, phone and bike from thieves at uni",
-    "desc": "What should new students consider to keep your belongings safe and covered by insurance?",
-    "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 13 Sep 2026 23:39:32 GMT",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-    "desc": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oil prices jump over 3% on more M.East action, Hormuz meeting delay",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-prices-jump-over-3-on-more-meast-action-hormuz-meeting-delay-4898772",
-    "pubDate": "2026-09-13 23:48:44",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "investing",
-    "title": "Michael Dell’s DFO Management nears take-private deal for Baldwin Insurance Group, FT reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/michael-dells-dfo-management-nears-takeprivate-deal-for-baldwin-insurance-group-ft-reports-4898767",
-    "pubDate": "2026-09-13 23:30:49",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "investing",
-    "title": "Okinawa election win may give Tokyo freer hand on military build-up",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/okinawa-election-win-may-give-tokyo-freer-hand-on-military-buildup-4898766",
-    "pubDate": "2026-09-13 23:30:29",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tennis-Zverev banishes US Open demons with victory over Shelton",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/tenniszverev-beats-shelton-to-win-us-open-title-4898760",
-    "pubDate": "2026-09-13 23:24:42",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "investing",
-    "title": "Zipalertinib plus chemo shows survival benefit in lung cancer trial",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/zipalertinib-plus-chemo-shows-survival-benefit-in-lung-cancer-trial-93CH-4898765",
-    "pubDate": "2026-09-13 23:20:40",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
-  },
-  {
-    "source": "investing",
-    "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal-4898762",
-    "pubDate": "2026-09-13 23:12:48",
-    "fetchedAt": "2026-09-14T00:01:35.433Z"
   }
 ]
