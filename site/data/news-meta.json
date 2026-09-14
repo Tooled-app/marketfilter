@@ -1,56 +1,51 @@
 {
-  "lastRun": "2026-09-14T07:44:48.443Z",
-  "fetched": 9,
-  "failed": 5,
-  "newItems": 36,
-  "total": 467,
+  "lastRun": "2026-09-14T08:01:44.231Z",
+  "fetched": 13,
+  "failed": 1,
+  "newItems": 25,
+  "total": 492,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 5
+      "added": 0
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 57,
+      "added": 4
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 7
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 0
     },
     {
       "id": "guardian",
       "name": "The Guardian",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 1
     },
     {
       "id": "ft",
       "name": "Financial Times",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 11,
+      "added": 8
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
       "items": 7,
-      "added": 7
+      "added": 4
     },
     {
       "id": "benzinga",
@@ -62,13 +57,13 @@
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 5
+      "added": 0
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 5
+      "added": 0
     },
     {
       "id": "wsj",
@@ -85,14 +80,15 @@
     {
       "id": "fortune",
       "name": "Fortune",
-      "items": 10,
-      "added": 3
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
       "items": 10,
-      "added": 10
+      "added": 0
     }
   ]
 }
