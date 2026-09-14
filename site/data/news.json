@@ -1,6 +1,486 @@
 [
   {
     "source": "cnbc",
+    "title": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
+    "desc": "President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.",
+    "link": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
+    "pubDate": "Mon, 14 Sep 2026 20:45:52 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
+    "desc": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+    "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+    "pubDate": "Mon, 14 Sep 2026 20:55:12 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
+    "desc": "Sen. Elizabeth Warren will call the latest Clarity Act ethics proposal blessed by Trump a \"weak fig leaf.\"",
+    "link": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
+    "pubDate": "Mon, 14 Sep 2026 20:48:26 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "AI stocks sink while cybersecurity shares rally on slowdown fears",
+    "desc": "Anthropic CEO Dario Amodei said the industry \"must slow the pace at which we improve the capabilities of AI models,\" amid growing concerns over risks from AI.",
+    "link": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+    "pubDate": "Mon, 14 Sep 2026 20:54:23 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "LA Clippers owner Steve Ballmer apologizes over team sanctions",
+    "desc": "Ballmer said that the team is complying with the penalties, has paid the fines, and is \"moving forward.\"",
+    "link": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
+    "pubDate": "Mon, 14 Sep 2026 11:34:58 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
+    "desc": "Mondelez is expanding its chocolate manufacturing operations in Malaysia, with the company also seeing further room for growth across Southeast Asia.",
+    "link": "https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html",
+    "pubDate": "Mon, 14 Sep 2026 09:02:13 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+    "desc": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+    "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+    "pubDate": "Sun, 13 Sep 2026 22:21:33 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "TransMedics at Morgan Stanley conference: growth plan turns on logistics",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/transmedics-at-morgan-stanley-conference-growth-plan-turns-on-logistics-93CH-4900497",
+    "pubDate": "2026-09-14 20:53:19",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "BMO Capital upgrades Enbridge stock rating on quality, growth",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/bmo-capital-upgrades-enbridge-stock-rating-on-quality-growth-93CH-4900496",
+    "pubDate": "2026-09-14 20:52:47",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "Moody’s upgrades Embraer rating to Baa2 on strong metrics",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/moodys-upgrades-embraer-rating-to-baa2-on-strong-metrics-93CH-4900493",
+    "pubDate": "2026-09-14 20:50:35",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "Newmont outlook revised to positive by S&P on debt cuts",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/newmont-outlook-revised-to-positive-by-sp-on-debt-cuts-93CH-4900492",
+    "pubDate": "2026-09-14 20:50:21",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "CleanSpark at H.C. Wainwright conference: miners pivot to ai buildout",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/cleanspark-at-hc-wainwright-conference-miners-pivot-to-ai-buildout-93CH-4900491",
+    "pubDate": "2026-09-14 20:50:08",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "BlackSky Technology elects directors and ratifies auditor at annual meeting",
+    "desc": "",
+    "link": "https://www.investing.com/news/sec-filings/blacksky-technology-elects-directors-and-ratifies-auditor-at-annual-meeting-93CH-4900490",
+    "pubDate": "2026-09-14 20:49:42",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil settles higher after Saudi strikes stoke supply worries",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-prices-climb-over-2-after-strikes-on-saudi-pipeline-and-ships-in-middle-east-4900107",
+    "pubDate": "2026-09-14 20:49:05",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+    "pubDate": "2026-09-14 20:48:51",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "US oil export ban unlikely to lower energy prices, Interior secretary says",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/us-oil-export-ban-unlikely-to-lower-energy-prices-interior-secretary-says-4900489",
+    "pubDate": "2026-09-14 20:48:35",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investing",
+    "title": "Acadia Healthcare at jefferies conference: focus on ramp and margins",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/acadia-healthcare-at-jefferies-conference-focus-on-ramp-and-margins-93CH-4900488",
+    "pubDate": "2026-09-14 20:48:01",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+    "desc": "The key &#x201c;affordability&#x201d; rate briefly touched its highest level since 2007 on Monday.",
+    "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 20:47:00 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The 10 most overvalued housing markets in America",
+    "desc": "As home prices remain near record highs, about 81% of housing markets in America are overvalued, a new ratings-agency report says, with the Northeast leading the pack.",
+    "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 20:35:00 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Saudi Arabia may be just days away from not being able to export much oil",
+    "desc": "The oil exporting kingdom is now dealing with the shutdown of its East-West pipeline. Energy prices &#x2018;are only going to rise on the back of this.&#x2019;",
+    "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 20:05:00 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The future of retirement? Work until you die.",
+    "desc": "Social Security, once seen as &#x201c;old-age insurance,&#x201d; will eventually disappear, this author predicts.",
+    "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 19:59:00 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "ft",
+    "title": "Carney urges EU to cement trade deal as Ottawa seeks pivot from US",
+    "desc": "Canada’s prime minister tells FT deeper ties with Europe will make both sides ‘more resilient’ amid Trump turmoil",
+    "link": "https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1",
+    "pubDate": "Mon, 14 Sep 2026 20:19:24 GMT",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+    "desc": "Dow Jones Futures: Nvidia stock, Micron and Sandisk dived on an AI warning ahead of a widely expected rate hike at this week's Fed meeting.",
+    "link": "https://finance.yahoo.com/m/2084aecc-79ec-32d8-a4ee-0894a4e6a808/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:56:08 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Wall Street Dips as AI Warnings Weigh on Tech Sector",
+    "desc": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street's equit",
+    "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:41:12 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The S&P 500 at 7400 or 8000? Why the Future of Stocks Is So Murky.",
+    "desc": "As the bond market continues its long summer slump, Wall Street is adjusting its year-end market calls.",
+    "link": "https://finance.yahoo.com/m/5970f85c-5bbb-3dc9-aad3-1a40461875e0/the-s%26p-500-at-7400-or-8000%3F.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:14:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AI Stocks Tumble, Software Soars as Doomsday Warnings Ripple Through Market",
+    "desc": "A wave of worry among top executives about the speed of artificial intelligence development had Wall Street selling shares of chip firms and buying software stocks. The Nasdaq Composite fell 0.6%. The selling was mostly limited to stocks tied to the AI trade, after Anthropic’s Dario Amodei pushed for top AI upstarts to work together on setting guardrails on development.",
+    "link": "https://finance.yahoo.com/m/45682787-0707-3d9e-8efe-9a7353f0f5c9/ai-stocks-tumble%2C-software.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:02:02 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "TPAY Yields 10% With Full S&P 500 Exposure. Here’s Exactly What You Give Up to Get It",
+    "desc": "TPAY promises a 10% annual distribution while keeping you fully invested in the S&P 500, and it skips the covered-call playbook entirely to do it. But that unconventional approach comes with a hidden cost most investors overlook before buying in.",
+    "link": "https://247wallst.com/investing/etf/2026/09/14/tpay-yields-10-with-full-sp-500-exposure-heres-exactly-what-you-give-up-to-get-it/?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:43:39 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Better Clean Energy ETF: Broad Exposure Through iShares' ICLN vs. Invesco's Solar-Focused TAN",
+    "desc": "One fund concentrates on solar alone, while the other diversifies across wind and other renewables. Which strategy aligns with your risk tolerance?",
+    "link": "https://www.fool.com/coverage/etfs/2026/09/14/better-clean-energy-etf-broad-exposure-through-ishares-icln-vs-invesco-s-solar-focused-tan/?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:31:02 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is META Stock’s $130B AI Buildout Your Ticket to an 8.7% Yield?",
+    "desc": "Meta Platforms (META) trades about 17% below its 52-week high, and has lost ground over the past year while the S&P 500 climbed. You can be paid now for agreeing to buy the shares well below today's price, whether or not you ever own them. The catch is the reason they have lagged: Meta is spending on data centers almost as fast as the business turns cash.",
+    "link": "https://www.trefis.com/articles/615208/is-meta-stocks-130b-ai-buildout-your-ticket-to-an-8-7-yield/2026-09-14?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:21:33 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "This Strategic Metals Stock Surges on $450 Million Pentagon Deal",
+    "desc": "Elmet Group shares soared after the Defense Department announced a $450 million investment aimed at expanding U.S. tungsten production and reducing reliance on China.",
+    "link": "https://finance.yahoo.com/m/bb98f8e0-2c68-37ba-81d2-b26ad7415121/this-strategic-metals-stock.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:31:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Fall Monday",
+    "desc": "Energy stocks fell Monday with the NYSE Energy Sector Index dropping 1% and the State Street Energy",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-monday-201333930.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:13:33 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Boy, We Were Wrong About SpaceX",
+    "desc": "Shortly before SpaceX’s record-setting IPO, we called SpaceX stock worth $90 a share. Before that, we said that SpaceX was the big loser in its February merger with xAI. Now, it looks as if SpaceX shareholders were the winners in the xAI deal and that while SpaceX is still hard to value, it’s worth far more than $90 a share.",
+    "link": "https://finance.yahoo.com/m/c3e34846-bac4-3591-b85b-85ab4339fdcc/boy%2C-we-were-wrong-about.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:09:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "GE Vernova Stock Can Fall 50%, According to New Sell Rating",
+    "desc": "GLJ Research analyst Gordon Johnson launched coverage of GE Vernova stock with a Sell rating and $470 price target.",
+    "link": "https://finance.yahoo.com/m/1560a25f-fe2a-398d-b14a-cbe5e5530ad5/ge-vernova-stock-can-fall.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 20:05:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Novo Nordisk Is Dropping Some Weight. Can a Rebrand Save the Stock?",
+    "desc": "The Danish drugmaker is shortening its name to Novo, but it will take more than a lean rebrand to win back Wall Street.",
+    "link": "https://finance.yahoo.com/m/fe03f5bd-f99a-3e51-ba6c-b5d1463424c5/novo-nordisk-is-dropping-some.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 19:56:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "A Big S&P 500 Pullback Isn’t Far-Fetched. What the Market Is Telling Us.",
+    "desc": "The index sits about 3% below its all-time high, and could slip more before rallying, says our technical analyst.",
+    "link": "https://finance.yahoo.com/m/c81a73bb-99f0-3d04-8334-80e7ae0471db/a-big-s%26p-500-pullback-isn%E2%80%99t.html?.tsrc=rss",
+    "pubDate": "Mon, 14 Sep 2026 19:40:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Berkshire Hathaway Stock Has Gone Almost Nowhere in a Year. Should You Buy It Right Now?",
+    "desc": "Key PointsSecond-quarter operating earnings rose 16% year over year even as Berkshire's insurance results softened.",
+    "link": "https://www.nasdaq.com/articles/berkshire-hathaway-stock-has-gone-almost-nowhere-year-should-you-buy-it-right-now",
+    "pubDate": "Mon, 14 Sep 2026 20:43:01 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Oversold Conditions For Cousins Properties (CUZ)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/oversold-conditions-cousins-properties-cuz",
+    "pubDate": "Mon, 14 Sep 2026 20:38:20 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DuPont Becomes Oversold (DD)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/dupont-becomes-oversold-dd",
+    "pubDate": "Mon, 14 Sep 2026 20:38:03 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Blackrock Moves Up In Market Cap Rank, Passing Pfizer",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Blackrock Inc (Symbol: BLK) has taken over the #77 spot from Pfizer Inc (Symbol: PFE), according to The Online Investor. Market capitalization is an important data po",
+    "link": "https://www.nasdaq.com/articles/blackrock-moves-market-cap-rank-passing-pfizer",
+    "pubDate": "Mon, 14 Sep 2026 20:38:00 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Relative Strength Alert For Dick's Sporting Goods",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/relative-strength-alert-dicks-sporting-goods",
+    "pubDate": "Mon, 14 Sep 2026 20:37:52 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Azul is Now Oversold",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/azul-now-oversold",
+    "pubDate": "Mon, 14 Sep 2026 20:37:47 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "RSI Alert: Deckers Outdoor (DECK) Now Oversold",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/rsi-alert-deckers-outdoor-deck-now-oversold",
+    "pubDate": "Mon, 14 Sep 2026 20:37:41 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "General Dynamics Moves Up In Market Cap Rank, Passing Duke Energy",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, General Dynamics Corp (Symbol: GD) has taken over the #127 spot from Duke Energy Corp (Symbol: DUK), according to The Online Investor. Market capitalization is an imp",
+    "link": "https://www.nasdaq.com/articles/general-dynamics-moves-market-cap-rank-passing-duke-energy",
+    "pubDate": "Mon, 14 Sep 2026 20:37:37 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Veracyte Acquires Convergent Genomics For $150 Mln In Cash",
+    "desc": "(RTTNews) - On Monday, Veracyte Inc. (VCYT), a diagnostics company, announced that it has acquired Convergent Genomics, including Convergent Genomics' UroAmp platform and its proprietary urinary tumor DNA technology to Veracyte's portfolio.",
+    "link": "https://www.nasdaq.com/articles/veracyte-acquires-convergent-genomics-150-mln-cash",
+    "pubDate": "Mon, 14 Sep 2026 20:37:19 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Canadian Stocks End Roughly Flat Amid CPI Data, Increasing Oil Supply Concerns",
+    "desc": "(RTTNews) - Canadian stocks ended nearly flat on Monday after today's inflation data lowered concerns of a near-term rate hike by the Bank of Canada while traders assessed fresh crude oil supply concerns after Saudi Arabia announced the closure of its East-West pipeline on Friday",
+    "link": "https://www.nasdaq.com/articles/canadian-stocks-end-roughly-flat-amid-cpi-data-increasing-oil-supply-concerns",
+    "pubDate": "Mon, 14 Sep 2026 20:26:26 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DFEN Crosses Critical Technical Indicator",
+    "desc": "In trading on Monday, shares of the Direxion Daily Aerospace &amp; Defense Bull 3X ETF (Symbol: DFEN) entered into oversold territory, changing hands as low as $53.25 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysi",
+    "link": "https://www.nasdaq.com/articles/dfen-crosses-critical-technical-indicator",
+    "pubDate": "Mon, 14 Sep 2026 20:19:44 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Shares of FSIG Now Oversold",
+    "desc": "In trading on Monday, shares of the First Trust Limited Duration Investment Grade Corporate ETF (Symbol: FSIG) entered into oversold territory, changing hands as low as $18.59 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technica",
+    "link": "https://www.nasdaq.com/articles/shares-fsig-now-oversold",
+    "pubDate": "Mon, 14 Sep 2026 20:19:40 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Kingsbarn Dividend Opportunity (DVDN) Enters Oversold Territory",
+    "desc": "In trading on Monday, shares of the Kingsbarn Dividend Opportunity ETF (Symbol: DVDN) entered into oversold territory, changing hands as low as $14.76 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used",
+    "link": "https://www.nasdaq.com/articles/kingsbarn-dividend-opportunity-dvdn-enters-oversold-territory",
+    "pubDate": "Mon, 14 Sep 2026 20:19:37 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "U.S. Stocks Pare Early Losses But Still Close Mostly Lower",
+    "desc": "(RTTNews) - After moving sharply lower early in the session on Monday, stocks showed a significant recovery attempt over the course of the trading day. The major averages climbed well off their worst levels of the day but still closed in negative territory.",
+    "link": "https://www.nasdaq.com/articles/us-stocks-pare-early-losses-still-close-mostly-lower",
+    "pubDate": "Mon, 14 Sep 2026 20:19:07 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Trump tells Americans not to ‘kill the golden goose’ rejecting voters’ turn against AI and data centers",
+    "desc": "Bernie Sanders and Steve Bannon are uniting against AI just as Trump, the other main character from the 2016 era in politics, stands for acceleration.",
+    "link": "https://fortune.com/2026/09/14/trump-ai-data-centers-golden-goose-iq/",
+    "pubDate": "Mon, 14 Sep 2026 20:20:51 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "fortune",
+    "title": "This Las Vegas casino just gave almost 10,000 workers more than $70 million in company stock to celebrate its 50th birthday",
+    "desc": "Every eligible employee gets $1,000 in Red Rock Resorts stock for each year on the job. One worker who started in 1977 got $49,000.",
+    "link": "https://fortune.com/2026/09/14/las-vegas-casino-10000-workers-70-million-company-stock-red-rock-resort-spa-fertitta/",
+    "pubDate": "Mon, 14 Sep 2026 20:20:47 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "fortune",
+    "title": "You’re going to pay more for health insurance in 2027 as employers see costs jumping for the fifth straight year",
+    "desc": "Health insurance costs are rising so fast they could eat into workers’ paychecks next year, according to a survey of 1,800 U.S. employers",
+    "link": "https://fortune.com/2026/09/14/health-insurance-costs-employers-paychecks/",
+    "pubDate": "Mon, 14 Sep 2026 20:05:54 +0000",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Children’s Place stock down over 8% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-childrens-place-stock-down-over-8-today-93CH-4900486",
+    "pubDate": "2026-09-14 20:46:36",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Enova International stock tumbling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-enova-international-stock-tumbling-today-93CH-4900484",
+    "pubDate": "2026-09-14 20:45:54",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/lilly-says-foundayo-has-captured-over-30-of-new-uspatients-on-oral-weightloss-drugs-4900476",
+    "pubDate": "2026-09-14 20:42:25",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Revolut data breach affected nearly 700 clients, FT reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/revolut-data-breach-affected-nearly-700-clients-ft-reports-4900447",
+    "pubDate": "2026-09-14 20:34:59",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Radiant Logistics stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-radiant-logistics-stock-surging-today-93CH-4900444",
+    "pubDate": "2026-09-14 20:32:43",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.29%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-029-4900431",
+    "pubDate": "2026-09-14 20:31:03",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.01%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-001-4900428",
+    "pubDate": "2026-09-14 20:30:33",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Stocks fall as oil and bond yields rise",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+    "pubDate": "2026-09-14 20:30:24",
+    "fetchedAt": "2026-09-14T21:01:36.357Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
     "desc": "Following Apple's iPhone launch event last week, the company is releasing a redesigned Siri AI, though users may have to sign up for a waitlist.",
     "link": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
@@ -5918,485 +6398,5 @@
     "link": "https://www.investing.com/news/analyst-ratings/evercore-isi-downgrades-hp-enterprise-stock-rating-on-valuation-93CH-4898951",
     "pubDate": "2026-09-14 08:42:55",
     "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investing",
-    "title": "B.Riley upgrades Capricor Therapeutics stock rating ahead of FDA date",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/briley-upgrades-capricor-therapeutics-stock-rating-ahead-of-fda-date-93CH-4898950",
-    "pubDate": "2026-09-14 08:42:49",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-    "desc": "<p>Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\"><strong>Business news – live updates</strong></a></p></li></ul><p>Oil prices have climbed above $107 a barrel after a <a href=\"https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq\">series of drone attacks</a> forced Saudi Arabia to close its east-west crude pipeline.</p><p>Brent crude, the international benchmark for oil prices, surged to as much as $108 a barrel at one point on Monday, later easing back to $107.7 – a 3% increase on the day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-    "pubDate": "Mon, 14 Sep 2026 08:03:40 GMT",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "ft",
-    "title": "Tech stocks fall after big AI groups call for slowdown",
-    "desc": "South Korea’s tech-heavy Kospi slides as Wall Street is set to open lower",
-    "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 08:34:47 GMT",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "ft",
-    "title": "Warsh and Trump on collision course",
-    "desc": "Central bank chair under pressure to back warnings on inflation with action despite risking president’s ire",
-    "link": "https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 04:00:22 GMT",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AI, chip stocks fall as tech CEOs urge caution on development pace",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642334-ai-chip-stocks-fall-as-tech-ceos-urge-caution-on-development-pace?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 04:51:11 -0400",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "These industrials stocks stand out for attractive valuations",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642338-these-industrials-stocks-stand-out-for-attractive-valuations?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 04:45:53 -0400",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Michael Burry calls AI leaders&#x2019; slowdown push &#x2018;self-serving&#x2019;",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642336-michael-burry-calls-ai-leaders-slowdown-push-self-serving?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 04:26:36 -0400",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AM Need to Know: OpenAI rules out 2026 IPO, tanker rates hit records & more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642337-am-need-to-know-openai-rules-out-2026-ipo-tanker-rates-hit-records-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 04:13:19 -0400",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Stock futures retreat as investors digest growing AI concerns, higher oil prices",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642335-stock-futures-retreat-as-investors-digest-openai-ipo-comments-higher-oil-prices?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 03:56:01 -0400",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Semiconductor Stock with Exciting Potential and 2 Facing Headwinds",
-    "desc": "Semiconductors are the core infrastructure powering the Information Age. The amount of data we ingest is also increasing exponentially, leading to elevated demand for chips with more processing power. This secular trend bodes well for the industry, which has posted a six-month gain of 51.8% and beaten the S&P 500 by 38.5 percentage points.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-exciting-potential-085508944.html?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 08:55:08 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
-    "desc": "Retail sentiment on SPY and QQQ has dipped to ‘extremely bearish’ territory amid the debate over AI ‘pacing’.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-tumbling-premarket-mu-amd-nvda-orcl-rum-tsla-spcx-stocks-in-focus/cZtlxaARBRW?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 08:43:30 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "If You Invest When the Market Reaches Its Peak, How Will Your Investment Turn Out? History Offers an Answer That Might Surprise You.",
-    "desc": "The S&P 500 is trading close to a record high.",
-    "link": "https://www.fool.com/investing/2026/09/14/if-you-invest-when-the-market-reaches-its-peak-how-will-your-investment-turn-out-history-offers-an-answer-that-might-surprise-you/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 08:23:02 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-    "desc": "The CEOs of Anthropic and OpenAI spooked markets, while investors monitored rising oil prices and an upcoming Fed rate decision.",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 08:05:59 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Stock Market Is Repeating a Pattern Last Seen Decades Ago -- Here's What History Says Happens Next",
-    "desc": "Here's how to position your portfolio if history repeats itself.",
-    "link": "https://www.fool.com/investing/2026/09/14/stock-market-repeating-pattern-history-bear-bull/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 08:50:00 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "If You Think Inflation and Bond Yields Are High Now, a Potential $5,000 \"Trump Dividend\" Could Send Both Into the Stratosphere",
-    "desc": "If history serves as a guide, a sizable “Trump Dividend” would be disastrous.",
-    "link": "https://www.fool.com/investing/2026/09/14/if-you-think-inflation-bond-yields-high-now-potential-5000-trump-dividend-send-both-into-stratosphere/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 08:26:02 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: Micron's Sept. 30 Earnings Will Confirm the Memory Shortage Isn't Over",
-    "desc": "Key PointsDRAM and NAND prices continued to hit record prices in August.",
-    "link": "https://www.nasdaq.com/articles/prediction-microns-sept-30-earnings-will-confirm-memory-shortage-isnt-over",
-    "pubDate": "Mon, 14 Sep 2026 08:35:00 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Warren Buffett Is Sending a Stark Warning to Investors. History Says He's Right.",
-    "desc": "Key PointsDespite recent record-breaking gains, the market is facing new challenges at every turn.",
-    "link": "https://www.nasdaq.com/articles/warren-buffett-sending-stark-warning-investors-history-says-hes-right",
-    "pubDate": "Mon, 14 Sep 2026 08:20:00 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If I Could Only Hold 1 ETF for the Next 20 Years, Here's What I'd Buy",
-    "desc": "Key PointsTech, growth, and AI stocks could continue to outperform over the next two decades.",
-    "link": "https://www.nasdaq.com/articles/if-i-could-only-hold-1-etf-next-20-years-heres-what-id-buy",
-    "pubDate": "Mon, 14 Sep 2026 08:15:00 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why It May Finally Be Time to Buy Adobe Stock",
-    "desc": "Key PointsAdobe exited its fiscal third quarter with $27.50 billion of total annualized recurring revenue.",
-    "link": "https://www.nasdaq.com/articles/why-it-may-finally-be-time-buy-adobe-stock",
-    "pubDate": "Mon, 14 Sep 2026 08:01:01 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Novo Nordisk Unveils 'Novo' Name And 'The Novo Way' Culture",
-    "desc": "(RTTNews) - Novo Nordisk A/S (NVO, NOVO-B.CO), a healthcare company, on Monday announced a rebrand centred on \"Lasting Health Starts Now\" and the use of \"Novo\" as its day-to-day name.",
-    "link": "https://www.nasdaq.com/articles/novo-nordisk-unveils-novo-name-and-novo-way-culture",
-    "pubDate": "Mon, 14 Sep 2026 07:50:51 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The Stealth Social Security Move That Could Help You Beat Inflation in Retirement",
-    "desc": "Key PointsDelaying Social Security past full retirement age results in boosted monthly checks.",
-    "link": "https://www.nasdaq.com/articles/stealth-social-security-move-could-help-you-beat-inflation-retirement",
-    "pubDate": "Mon, 14 Sep 2026 07:38:00 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Markets Seen Ushering In New Week On A Weak Note",
-    "desc": "(RTTNews) - A weak sentiment is expected to prevail in stock markets across Europe at the onset of the new week which would witness interest rate decisions by the Federal Reserve, Bank of England as well as Bank of Japan. Market mood is expected to be impacted by the rate hike ex",
-    "link": "https://www.nasdaq.com/articles/european-markets-seen-ushering-new-week-weak-note",
-    "pubDate": "Mon, 14 Sep 2026 06:41:41 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AstraZeneca: SERENA-4 Trial Of Etcamah Palbociclib Combination Fails To Meet Primary Objective",
-    "desc": "(RTTNews) - AstraZeneca (AZN, AZN.L, ZEG.DE, AZN.ST) said the SERENA-4 Phase III trial of Etcamah or camizestrant in combination with palbociclib did not meet the primary endpoint of progression-free survival in upfront 1st-line advanced ER-positive breast cancer. However a numer",
-    "link": "https://www.nasdaq.com/articles/astrazeneca-serena-4-trial-etcamah-palbociclib-combination-fails-meet-primary-objective",
-    "pubDate": "Mon, 14 Sep 2026 06:34:03 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Space42, Viasat Agree To Co-found Equatys With $1 Bln Commitment",
-    "desc": "(RTTNews) - Space42 (SPACE42), the UAE-based AI-powered Space tech company, and Viasat, Inc. (VSAT), a satellite and secure communications company, Monday announced that they have agreed to formally establish Equatys, a shared space and ground infrastructure platform.",
-    "link": "https://www.nasdaq.com/articles/space42-viasat-agree-co-found-equatys-1-bln-commitment",
-    "pubDate": "Mon, 14 Sep 2026 06:29:37 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "NRW Holdings Wins Mining, Infrastructure Contracts For A$313 Mln",
-    "desc": "(RTTNews) - NRW Holdings Ltd. (NWH.AX), a mining and infrastructure services company, on Monday announced two contract awards with a combined value of about A$313 million.",
-    "link": "https://www.nasdaq.com/articles/nrw-holdings-wins-mining-infrastructure-contracts-313-mln",
-    "pubDate": "Mon, 14 Sep 2026 06:19:30 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Humanoids will have their ‘GPT-3.5’ moment within 5 years, says AGIBOT co-founder Yao Maoqing",
-    "desc": "Robot dance shows grab headlines, but China's humanoid makers are racing to find real uses in hotels and factories.",
-    "link": "https://fortune.com/2026/09/14/humanoids-gpt-3-5-moment-agibot/",
-    "pubDate": "Mon, 14 Sep 2026 08:15:03 +0000",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "GSK shares rise 2.5% on positive lung cancer drug trial data",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/gsk-shares-rise-25-on-positive-lung-cancer-drug-trial-data-93CH-4898960",
-    "pubDate": "2026-09-14 08:51:28",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "UBS upgrades Allegiant Travel to Buy, sees 35% upside after sell-off",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ubs-upgrades-allegiant-travel-to-buy-sees-35-upside-after-selloff-4898949",
-    "pubDate": "2026-09-14 08:39:55",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.57%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-057-4898943",
-    "pubDate": "2026-09-14 08:35:02",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Straumann stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-straumann-stock-rallying-today-93CH-4898937",
-    "pubDate": "2026-09-14 08:30:58",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why Rum shares are surging today",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-rum-shares-are-surging-today-93CH-4898932",
-    "pubDate": "2026-09-14 08:27:07",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "DAX stuck below 25,685 resistance with bearish bias: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/dax-stuck-below-25685-resistance-with-bearish-bias-live-levels-93CH-4898923",
-    "pubDate": "2026-09-14 08:06:55",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Our AI knew it: This AI-picked medtech stock just surged 20% on insider buying",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/our-ai-knew-it-this-aipicked-medtech-stock-just-surged-20-on-insider-buying-4898921",
-    "pubDate": "2026-09-14 08:03:54",
-    "fetchedAt": "2026-09-14T09:01:58.293Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Rent rises set to speed up in gloomy forecast for tenants",
-    "desc": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 13 Sep 2026 23:05:45 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Amazon pauses work with cargo firm after fatal crash",
-    "desc": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 14 Sep 2026 02:40:06 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "bbc",
-    "title": "MPs and Lords call for new law to address AI threat to human rights",
-    "desc": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 14 Sep 2026 05:49:32 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Food redistribution warehouse opens in east London",
-    "desc": "The Big Heart Food Hub in Barking aims to deliver 10 tonnes of food to charities each week.",
-    "link": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 14 Sep 2026 04:56:54 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Goldman raises Gilt yield forecast as energy prices curb rate-cut hopes",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/goldman-raises-gilt-yield-forecast-as-energy-prices-curb-ratecut-hopes-4898887",
-    "pubDate": "2026-09-14 07:42:48",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is ASM International stock in the red today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-asm-international-stock-in-the-red-today-93CH-4898886",
-    "pubDate": "2026-09-14 07:42:30",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is ASML stock dipping today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-asml-stock-dipping-today-93CH-4898885",
-    "pubDate": "2026-09-14 07:40:17",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is BE Semiconductor Industries stock tumbling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-be-semiconductor-industries-stock-tumbling-today-93CH-4898884",
-    "pubDate": "2026-09-14 07:39:58",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is STMicroelectronics stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-stmicroelectronics-stock-sliding-today-93CH-4898883",
-    "pubDate": "2026-09-14 07:39:32",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-    "pubDate": "2026-09-14 07:38:08",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asian currencies under pressure as dollar gains, yen stays elevated",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-    "pubDate": "2026-09-14 07:33:24",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "guardian",
-    "title": "AI-linked stocks fall after call for development slowdown worries investors – business live",
-    "desc": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-    "pubDate": "Mon, 14 Sep 2026 07:47:11 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "Global AI stocks under pressure as safety fears erupt",
-    "desc": "South Korea’s tech-heavy Kospi slides as Wall Street is set to open lower",
-    "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 07:39:13 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "Can AI’s leaders really put aside rivalry for the common good?",
-    "desc": "The deep schism between OpenAI and Anthropic has led to a race-like dynamic towards ever more powerful models",
-    "link": "https://www.ft.com/content/b3d01493-f0f5-491b-bcf8-2d414539fbe7?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 06:12:58 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "Warsh and Trump on collision course as investors expect Fed to raise rates",
-    "desc": "Central bank chair under pressure to back warnings on inflation with action despite risking president’s ire",
-    "link": "https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 04:00:22 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "Automation is coming for the gig economy",
-    "desc": "A safety net for people who have fallen out of the formal labour market is being dismantled",
-    "link": "https://www.ft.com/content/a2c33eed-7aef-4e68-9252-3a1dddf61b5a?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 04:00:22 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "A ‘lucky’ chancellor must also be a resolute one",
-    "desc": "It is crucial to convince the lenders on whom the UK depends that it is being managed by grown-ups",
-    "link": "https://www.ft.com/content/0008bdb5-ac6c-4d72-b71f-e53a94a10f77?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 04:00:13 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "Oil hits $108 as Gulf states postpone talks with Iran over Hormuz",
-    "desc": "Deferred meeting on vital waterway comes on top of Saudi pipeline closure following drone attack last week",
-    "link": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 07:31:04 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "China’s spy agency warns of AI risk to national security",
-    "desc": "Beijing signals growing concern over how rapid advances in technology could be used against the country",
-    "link": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 05:15:49 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "ft",
-    "title": "European capitals barter over Christine Lagarde’s successor at ECB",
-    "desc": "Eurozone governments are negotiating a ‘grand package’ over three of the central bank’s most senior roles",
-    "link": "https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1",
-    "pubDate": "Mon, 14 Sep 2026 04:00:12 GMT",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Stock futures retreat as investors digest OpenAI IPO comments, higher oil prices",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642335-stock-futures-retreat-as-investors-digest-openai-ipo-comments-higher-oil-prices?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 03:56:01 -0400",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Trump to lift 10% tariff on Irish whiskey",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642330-trump-to-lift-10-tariff-on-irish-whiskey?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 03:51:14 -0400",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "European stocks mixed after Saudi Arabia shuts key oil pipeline",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642332-european-stocks-mixed-after-saudi-arabia-shuts-key-oil-pipeline?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 03:49:40 -0400",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Novo Nordisk rebrands as &#x2018;Novo&#x2019; in push to win back obesity market",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642333-novo-nordisk-rebrands-as-novo-in-push-to-win-back-obesity-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 14 Sep 2026 03:45:30 -0400",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "$10,000 in Archer Aviation at Last Year's High Is About $3,840 Now. Here's What Gets It Back.",
-    "desc": "Key PointsThe stock trades about 62% below the $14.62 high it set last October.",
-    "link": "https://www.nasdaq.com/articles/10000-archer-aviation-last-years-high-about-3840-now-heres-what-gets-it-back",
-    "pubDate": "Mon, 14 Sep 2026 07:27:01 +0000",
-    "fetchedAt": "2026-09-14T08:01:44.231Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
-    "desc": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation.",
-    "link": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-    "pubDate": "Mon, 14 Sep 2026 07:24:21 GMT",
-    "fetchedAt": "2026-09-14T07:44:48.443Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
-    "desc": "U.S. diesel prices have surpassed $6 a gallon for the first time ever as the Ukraine and Iran wars drive broader energy supply concerns.",
-    "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
-    "pubDate": "Mon, 14 Sep 2026 07:22:01 GMT",
-    "fetchedAt": "2026-09-14T07:44:48.443Z"
   }
 ]
