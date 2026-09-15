@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-09-15T15:02:07.877Z",
+  "lastRun": "2026-09-15T16:01:47.118Z",
   "fetched": 2,
   "failed": 12,
-  "newItems": 22,
+  "newItems": 24,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 7
+      "added": 4
     },
     {
       "id": "bbc",
@@ -63,9 +63,8 @@
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 20
     },
     {
       "id": "zerohedge",
@@ -84,8 +83,9 @@
     {
       "id": "nasdaq",
       "name": "Nasdaq",
-      "items": 15,
-      "added": 15
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "fortune",
