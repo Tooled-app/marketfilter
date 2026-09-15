@@ -31,10 +31,24 @@ const SOURCES = [
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) MarketFilter/0.1';
 
+const MAX_RETRIES = 3;
+
 async function fetchFeed(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(15000) });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return await res.text();
+  // Retry with backoff: transient network bursts (observed on this PC) abort a
+  // single fetch with 'fetch failed' even though the host is reachable seconds
+  // later. A short retry makes the hourly run far more resilient to that flakiness.
+  let lastErr;
+  for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(15000) });
+      if (!res.ok && res.status !== 200) throw new Error(`HTTP ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      lastErr = e;
+      if (attempt < MAX_RETRIES - 1) await new Promise((r) => setTimeout(r, 700 * (attempt + 1)));
+    }
+  }
+  throw lastErr;
 }
 
 // Parse RSS/Atom XML into items (lightweight, no deps)
