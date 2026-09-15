@@ -1,6 +1,358 @@
 [
   {
     "source": "cnbc",
+    "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+    "desc": "Microsoft wants to be seen as a responsible AI entity as it ramps up model development alongside partners Anthropic and OpenAI.",
+    "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+    "pubDate": "Mon, 14 Sep 2026 16:31:00 GMT",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil prices rise as Houthis attack Saudi Arabia, Hormuz talks delayed",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-houthis-attack-saudi-arabia-hormuz-talks-delayed-4900704",
+    "pubDate": "2026-09-15 08:34:36",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Proteome Sciences secures third GCLP chemoproteomics contract",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/proteome-sciences-secures-third-gclp-chemoproteomics-contract-93CH-4900975",
+    "pubDate": "2026-09-15 08:33:28",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Cewe Color stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-cewe-color-stock-rallying-today-93CH-4900966",
+    "pubDate": "2026-09-15 08:30:26",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Patria Private Equity Trust declares 4.6p third interim dividend",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/patria-private-equity-trust-declares-46p-third-interim-dividend-93CH-4900965",
+    "pubDate": "2026-09-15 08:30:09",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "German wholesale prices post fastest rise in over 3 years on energy costs",
+    "desc": "",
+    "link": "https://www.investing.com/news/economic-indicators/german-wholesale-prices-rise-68-in-august-4900825",
+    "pubDate": "2026-09-15 08:30:08",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.93%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-093-4900964",
+    "pubDate": "2026-09-15 08:30:04",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Citizens upgrades Radiant Logistics stock rating on growth outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/citizens-upgrades-radiant-logistics-stock-rating-on-growth-outlook-93CH-4900963",
+    "pubDate": "2026-09-15 08:28:54",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wickes shares jump 6% as retailer flags trading pickup, backs profit outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wickes-sees-improved-q3-trading-after-firsthalf-revenue-growth-4900865",
+    "pubDate": "2026-09-15 08:28:28",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Peabody reports £1.09bn turnover, maintains A3 credit rating",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/peabody-reports-109bn-turnover-maintains-a3-credit-rating-93CH-4900950",
+    "pubDate": "2026-09-15 08:26:40",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investing",
+    "title": "Japanese land prices rise for a fifth year",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/japanese-land-prices-rise-for-a-fifth-year-4900941",
+    "pubDate": "2026-09-15 08:24:35",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here&#x2019;s what to know.",
+    "desc": "Analysts don&#x2019;t expect the push for more responsible AI development to derail data-center spending.",
+    "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 20:56:00 GMT",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "ft",
+    "title": "War ‘on all fronts’ tests Saudi Arabia’s crown prince",
+    "desc": "Two-pronged assault by Houthi rebels and Iraqi militants has spawned what may be biggest test for Prince Mohammed since backlash against Jamal Khashoggi’s murder",
+    "link": "https://www.ft.com/content/a143e08d-e979-410a-8e81-160fd4eba367?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 04:00:28 GMT",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "ft",
+    "title": "Ten-year Treasury yield hits highest since global financial crisis",
+    "desc": "Benchmark 10-year hits 5.04% as investors continue to sell government debt in expectations of Fed rate increase",
+    "link": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 07:12:50 GMT",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "PHX Energy Services declares CAD 0.20 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642755-phx-energy-services-declares-cad-0_20-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:56:37 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Twenty Mile Metals plans C$2M private placement to fund exploration",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642756-twenty-mile-metals-plans-c2m-private-placement-to-fund-exploration?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:56:09 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "U.S. has weapons in space, Air Force secretary confirms",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642737-us-has-weapons-in-space-air-force-secretary-confirms?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:41:56 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Canterbury Park declares $0.07 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642754-canterbury-park-declares-0_07-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:35:50 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "BrightSpire Capital declares $0.16 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642753-brightspire-capital-declares-0_16-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:34:00 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "European stocks slide as oil tops $107, bond yields climb",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642741-european-stocks-slide-as-oil-tops-107-bond-yields-climb?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:24:58 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "J&J reports phase 2b data on less-frequent lung cancer treatment",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642752-jj-reports-phase-2b-data-on-less-frequent-lung-cancer-treatment?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 04:21:04 -0400",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "If I Were in My 20s, I'd Buy This Unstoppable Vanguard ETF and Hold It Forever",
+    "desc": "This exchange-traded fund exclusively invests in America's largest growth companies.",
+    "link": "https://www.fool.com/investing/2026/09/15/if-in-my-20s-buy-vanguard-etf-voog-hold-forever/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:46:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AI, Fed And 5% Treasury Yield: Three Risks Putting Nasdaq, Dow Futures On Edge Ahead Of Wednesday’s Rate Decision",
+    "desc": "Retail sentiment on SPY and QQQ remained ‘extremely bearish’ ahead of the Fed’s rate decision this week.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/ai-fed-5-treasury-yield-three-risks-putting-nasdaq-dow-futures-on-edge-ahead-of-wednesday-rate-decision/cZtnPK2RBTu?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:44:11 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice",
+    "desc": "Although rate hikes have historically been positive for the stock market, the artificial intelligence (AI) revolution changes everything.",
+    "link": "https://www.fool.com/investing/2026/09/15/federal-reserve-rate-hikes-would-likely-put-the-trump-bull-market-on-thin-ice/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:26:01 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Stock Market Today: S&P 500 Futures Fall As Inflation And Rate Worries Build",
+    "desc": "The Morning Bull - US Market Morning Update Tuesday, Sep, 15 2026 US stock futures point lower this morning, with E-mini S&P 500 contracts down about 0.7% and Nasdaq-100 futures off roughly 1.8%, as investors weigh stubborn inflation against rising borrowing costs. August consumer prices rose 0.4% for the month, driven by gasoline and housing, while the yearly rate eased to 2.4%, the lowest since early 2021. Core inflation, which strips out food and energy, came in at 0.3% for the month. At...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081256854.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:12:56 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+    "desc": "Investors braced for the Federal Reserve's interest rate decision on Wednesday and monitored the fallout from Anthropic CEO Dario Amodei's essay on AI safety fears.",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:13:07 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "RTW Biotech Opportunities Ltd (LSE:RTW) (H1 2026) Earnings Call Highlights: 16. ...",
+    "desc": "RTW Biotech Opportunities Ltd (LSE:RTW) beat the NASDAQ Biotech Index with a 16.5% first-half NAV return, but lagged the Russell 2000 Biotech on commercial-stage and medtech positioning.",
+    "link": "https://finance.yahoo.com/healthcare/articles/rtw-biotech-opportunities-ltd-lse-090022388.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 09:00:22 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 Internet Stocks for Long-Term Investors and 1 We Question",
+    "desc": "Whether it be online shopping or social media, secular forces are propelling consumer internet businesses forward. These themes have enabled solid growth for the industry, which has posted a 14% gain over the past six months. This return was on par with the S&P 500.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/2-internet-stocks-long-term-080430864.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:04:30 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "1 Restaurant Stock to Keep an Eye On and 2 Facing Challenges",
+    "desc": "From fast food to fine dining, restaurants play a vital societal role. But it’s not all sunshine and rainbows as they’re notoriously hard to run thanks to perishable ingredients, labor shortages, or volatile consumer spending. These factors have weighed on the industry over the past six months as its 5% return has fallen short of the S&P 500’s 14.2% gain.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-restaurant-stock-keep-eye-075630361.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 07:56:30 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here’s Why It’s a No-Brainer Buy.",
+    "desc": "This stock has climbed nearly 60%.",
+    "link": "https://www.fool.com/investing/2026/09/15/this-unassuming-stock-is-trouncing-nvidia-in-2026-here-s-why-it-s-a-no-brainer-buy/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:32:01 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "These Are The European Countries With The Newest Cars",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">These Are The European Countries With The Newest Cars</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Europe’s roads reveal a striking divide between countries where drivers regularly replace their vehicles and those where aging, secondhand cars remain the norm, according to a <a href=\"https://ecarstrade.com/\">new report from ecarstrade.com</a>. </p> <p>New research from B2B automotive company eCarsTrade compared vehicle fleets across more than 30 European countries and found Luxembourg sitting comfortably at the top of the rankings for the continent’s newest cars.</p> <p>Nearly 43% of Luxembourg’s registered vehicles are less than five years old, the highest proportion in the study. At the other end of the age spectrum, only about 6% of its cars have been on the road for 20 years or longer. The country also replaces vehicles unusually quickly, with its annual fleet renewal rate topping 10%. Roughly 7% of Luxembourg’s cars are now fully electric.</p> <p>Belgium ranked second. More than one-third of its cars are less than five years old, while the country added roughly 456,000 new vehicles in 2024. Its fleet renewal rate is about 7.5%, among the strongest in Europe. Electrification is also becoming more prominent: roughly 5% of Belgium’s total fleet is electric, while EVs account for around 28% of new registrations.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Screenshot%202026-09-14%20at%2008.29.04.jpg?itok=rPgN9W4k\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Screenshot%202026-09-14%20at%2008.29.04.jpg?itok=rPgN9W4k\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"973c7042-96c3-4850-9ce9-aeee51d4339c\" data-responsive-image-style=\"inline_images\" height=\"145\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Screenshot%202026-09-14%20at%2008.29.04.jpg?itok=rPgN9W4k\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Denmark placed third, with approximately 28% of its cars less than five years old and only around 6% at least 20 years old. But Denmark stands out even more when it comes to the transition toward electric vehicles. More than half of new vehicles sold there are fully electric, and battery-powered cars already account for roughly 12% of the country's entire fleet.</p> <p>The United Kingdom came in fourth. Britain has an especially small population of very old cars, with fewer than 5% of vehicles aged 20 years or more, the lowest share measured in the study. Nearly 2 million new cars were registered in 2024, helping keep the country's annual fleet renewal rate near 6%. EVs represented about 19% of new registrations, although they still make up a relatively small share of all vehicles currently on British roads.</p> <p>Norway rounded out the top five and remains Europe's standout when it comes to electrification. More than 27% of all Norwegian cars are fully electric, by far the highest share among the countries examined. Even more striking, roughly 88% of new vehicles purchased in Norway are electric. That means the country's existing fleet is rapidly being transformed as older gasoline and diesel vehicles are gradually replaced.</p> <p>Behind the top five were Liechtenstein, Austria, Germany, Switzerland and the Netherlands. Germany, for example, has roughly 30% of its fleet under five years old, while Switzerland is closer to 25%. The Netherlands has a somewhat older fleet overall, despite having a relatively healthy market for newer vehicles and EVs.</p> <p>The <a href=\"https://ecarstrade.com/\">report says</a> that the opposite extreme can be found in Albania. According to the research, roughly nine out of every 10 vehicles there are at least a decade old, giving Albania the oldest fleet among the countries examined. The disparity highlights a broader economic divide in European car ownership: wealthier Western and Northern European countries generally replace vehicles more frequently, while parts of Eastern and Southeastern Europe rely much more heavily on older vehicles and secondhand imports.</p> <p>That distinction can also make registration statistics somewhat misleading. A vehicle being registered in a country for the first time does not necessarily mean it is a new car. Used cars exported from countries such as Germany and France frequently enter fleets elsewhere in Europe as newly registered vehicles despite already having years of driving behind them.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Screenshot%202026-09-14%20at%2008.30.19.jpg?itok=JfCPE-Bt\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Screenshot%202026-09-14%20at%2008.30.19.jpg?itok=JfCPE-Bt\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"18b67efa-0378-41eb-8c8b-1f2b613c1aa4\" data-responsive-image-style=\"inline_images\" height=\"313\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Screenshot%202026-09-14%20at%2008.30.19.jpg?itok=JfCPE-Bt\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>“There’s a very clear split across Europe when it comes to car ages,” an eCarsTrade auto industry expert said. “Western countries keep replacing their fleets regularly, partly because incomes are high enough to realistically afford new vehicles.”</p> <p>The researchers pointed specifically to Romania, Poland and Albania as markets where imported secondhand vehicles play a much larger role. As a result, the underlying age of some national fleets may be even greater than headline registration figures initially suggest.</p> <p>The study, conducted in August 2026, compared more than 30 European countries using three primary measures: the percentage of cars at least 20 years old, the percentage at least 10 years old, and the percentage less than five years old. Those variables were combined into a Fleet Age Score ranging up to 100, with lower scores indicating newer national fleets.</p> <p>Luxembourg recorded a score of just 1.6, well ahead of Belgium at 13.1 and Denmark at 17.1. The UK scored 18.8 and Norway 18.9, followed by Liechtenstein at 19.6, Austria at 20.8, Germany at 20.9, Switzerland at 23.7 and the Netherlands at 24.1.</p> <p>Taken together, the numbers show that Europe is not moving toward a newer or more electric vehicle fleet at anything close to a uniform pace. In Luxembourg, frequent vehicle replacement keeps the average car relatively young. In Norway and Denmark, electrification is rapidly reshaping what people drive. Meanwhile, countries that depend heavily on imported used vehicles continue to operate fleets that can be dramatically older than those found just a few hundred miles away.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-15T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/15/2026 - 04:15</span>",
+    "link": "https://www.zerohedge.com/markets/these-are-european-countries-newest-cars",
+    "pubDate": "Tue, 15 Sep 2026 08:15:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "US Bombs Somalia For 81st Time This Year",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">US Bombs Somalia For 81st Time This Year</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://news.antiwar.com/2026/09/13/us-bombs-somalia-for-81st-time-this-year/\">Authored by Dave DeCamp via Antiwar.com</a>,</em></p> <p><strong>US Africa Command <a href=\"https://news.antiwar.com/2026/09/08/us-says-it-launched-two-more-airstrikes-in-somalia/\">announced</a> on Friday that its forces launched another airstrike in Somalia</strong> as the Trump administration continues a record-breaking bombing campaign in the country, which receives virtually no coverage in US media.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/us-bombs.jpg?itok=nywZAc4E\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/us-bombs.jpg?itok=nywZAc4E\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"d7888209-9632-498d-9e8c-2da53d81a3d8\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/us-bombs.jpg?itok=nywZAc4E\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>AFRICOM said the strike was launched on September 8 and <strong>targeted al-Shabaab in the vicinity of Quumbi,</strong> a village about 50 miles northeast of the southern port city of Kismayo,</p> <p>As usual, AFRICOM offered no other details about the strike, and there were no statements from US-backed forces about military operations in the area that day.</p> <p><em>\"Specific details about units and assets will not be released to ensure continued operations security,\" AFRICOM said.</em></p> <p>According to AFRICOM's numbers, the attack brings the total number of US airstrikes in Somalia this year to <a href=\"https://news.antiwar.com/2026/09/08/us-says-it-launched-two-more-airstrikes-in-somalia/\"><strong>81</strong></a>, higher than any other year prior to 2025, when President Trump oversaw <strong>124 AFRICOM airstrikes</strong>, breaking the previous annual record of 63 that he set in 2019.</p> <p>The US has also been conducting an air war against an ISIS affiliate in Somalia's northeastern Puntland region, and <em>Drop Site News</em> recently <a href=\"https://www.dropsitenews.com/p/new-us-base-somalia-airstrikes-isis-al-shabaab-cia\">reported</a> that a US strike was carried out in the region on September 3, though it has not been claimed by AFRICOM, suggesting that not every US attack is being announced.</p> <p>According to numbers from <a href=\"https://www.newamerica.org/insights/americas-counterterrorism-wars/the-war-in-somalia/\">New America</a>, an organization that tracks the air war and also counts airstrikes that are reported but not claimed by the US, the September 8 strike would bring the total number of US bombings in Somalia this year to <strong>83</strong>.</p> <p>The US has been involved in Somalia for decades and has been fighting al-Shabaab since the George W. Bush administration backed an Ethiopian <a href=\"https://original.antiwar.com/scott/2021/07/07/another-failed-20-year-war-america-vs-somalia/\">invasion</a> in 2006 that ousted the Islamic Courts Union, a Muslim coalition that briefly held power in Mogadishu after taking the city from CIA-backed warlords.</p> <p><strong>Al-Shabaab was the radical offshoot of the Islamic Courts Union</strong>, and its first <a href=\"https://mappingmilitants.org/profiles/al-shabaab#:~:text=First%20Attack%3A%20March%2026%2C%202007%3A%20A%20man%20named%20Adam%20Salam%20Adam%20used%20a%20car%20bomb%20to%20conduct%20a%20suicide%20attack%20against%20Ethiopian%20soldiers%20in%20Mogadishu.%20Al%20Shabaab%20claimed%20responsibility%20for%20the%20bombing%2C%20allegedly%20the%20city%E2%80%99s%20first%20suicide%20attack.%20(~73%20killed%2C%20unknown%20wounded).%5B1%5D%C2%A0\">recorded attack</a> was a suicide bombing in 2007 that targeted Ethiopian troops occupying Mogadishu. It wasn't until 2012 that the group pledged loyalty to al-Qaeda. The ISIS affiliate in Puntland started as an offshoot of al-Shabaab and first emerged in 2015.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-15T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/15/2026 - 03:30</span>",
+    "link": "https://www.zerohedge.com/geopolitical/us-bombs-somalia-81st-time-year",
+    "pubDate": "Tue, 15 Sep 2026 07:30:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "2 Popular AI Stocks to Sell Before They Fall 53% and 58%, According to Wall Street Analysts",
+    "desc": "Key PointsPalantir and SpaceX are two of the most popular AI stocks, but certain Wall Street analysts think they are wildly overvalued.",
+    "link": "https://www.nasdaq.com/articles/2-popular-ai-stocks-sell-they-fall-53-and-58-according-wall-street-analysts",
+    "pubDate": "Tue, 15 Sep 2026 08:24:02 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SpaceX Is Trading Near Its Opening-Day Price Again. Forecasts Say a $5,000 Investment Will Be Worth This Much in 1 Year.",
+    "desc": "Key PointsSpaceX is now trading roughly right around where it made its public debut at $150 per share.",
+    "link": "https://www.nasdaq.com/articles/spacex-trading-near-its-opening-day-price-again-forecasts-say-5000-investment-will-be",
+    "pubDate": "Tue, 15 Sep 2026 08:22:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Prediction: XRP (Ripple) Will Be Worth This Much in 5 Years",
+    "desc": "Key PointsRipple's payment network helps banks send money across borders instantly, and with minimal fees.",
+    "link": "https://www.nasdaq.com/articles/prediction-xrp-ripple-will-be-worth-much-5-years",
+    "pubDate": "Tue, 15 Sep 2026 08:20:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "This Warren Buffett-Approved Investment Could Turn $300 a Month Into $1 Million",
+    "desc": "Key PointsWarren Buffett has invested in this particular asset himself.",
+    "link": "https://www.nasdaq.com/articles/warren-buffett-approved-investment-could-turn-300-month-1-million",
+    "pubDate": "Tue, 15 Sep 2026 08:15:01 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The 2027 Social Security COLA Forecast Just Increased Slightly. Here's Why You Don't Want it To Go Up Even More.",
+    "desc": "Key PointsFollowing inflation data from August, Social Security's upcoming COLA projection has shifted upward.",
+    "link": "https://www.nasdaq.com/articles/2027-social-security-cola-forecast-just-increased-slightly-heres-why-you-dont-want-it-go",
+    "pubDate": "Tue, 15 Sep 2026 08:09:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Top Stocks Poised to Capitalize on the AI Infrastructure Boom",
+    "desc": "Key PointsCipher Digital continues to build its multigigawatt pipelines as AI demand surges.",
+    "link": "https://www.nasdaq.com/articles/3-top-stocks-poised-capitalize-ai-infrastructure-boom",
+    "pubDate": "Tue, 15 Sep 2026 07:48:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "NuScale Power Is Closing In on a Deal That Could Transform the Small Modular Reactor Industry",
+    "desc": "Key PointsNuScale Power executives have expressed optimism about the progress of the company&rsquo;s framework agreement with the Tennessee Valley Authority.",
+    "link": "https://www.nasdaq.com/articles/nuscale-power-closing-deal-could-transform-small-modular-reactor-industry",
+    "pubDate": "Tue, 15 Sep 2026 07:39:00 +0000",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "GSK shares rise as Berenberg upgrades to Buy on stronger drug pipeline",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/gsk-shares-rise-as-berenberg-upgrades-to-buy-on-stronger-drug-pipeline-4900938",
+    "pubDate": "2026-09-15 08:10:56",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Puig Brands stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-puig-brands-stock-sliding-today-93CH-4900934",
+    "pubDate": "2026-09-15 08:07:34",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "DAX clings to 25,317 support amid bearish flag: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dax-stuck-below-25685-resistance-with-bearish-bias-live-levels-93CH-4898923",
+    "pubDate": "2026-09-15 08:07:21",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "55% off: Lock in InvestingPro for less than $2 a week BEFORE OUR FLASH SALE ENDS",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/55-off-lock-in-investingpro-for-less-than-2-a-week-before-our-flash-sale-ends-4900930",
+    "pubDate": "2026-09-15 08:03:53",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Rosenblatt starts Nokia at Buy on AI optical franchise potential",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/rosenblatt-starts-nokia-at-buy-on-ai-optical-franchise-potential-4900916",
+    "pubDate": "2026-09-15 07:49:44",
+    "fetchedAt": "2026-09-15T09:01:43.255Z"
+  },
+  {
+    "source": "cnbc",
     "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
     "desc": "Two Chinese companies, are alleged to have used trading accounts in Binance to launder the illicit proceeds and funnel the funds to Tehran or its proxies.",
     "link": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
@@ -6046,357 +6398,5 @@
     "link": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
     "pubDate": "Thu, 10 Sep 2026 18:05:15 GMT",
     "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Chancellor urged to fix £100k childcare ‘cliff edge’ that prompts parents to cut work",
-    "desc": "<p>Threshold pushes some to reduce hours or stop working to avoid losing entitlement, report warns </p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
-    "pubDate": "Wed, 09 Sep 2026 23:01:08 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "This Is the Biggest Problem With SoundHound AI Stock",
-    "desc": "Key PointsSoundHound's recent quarterly revenue was 10 times what it was when it went public back in 2022.",
-    "link": "https://www.nasdaq.com/articles/biggest-problem-soundhound-ai-stock",
-    "pubDate": "Mon, 14 Sep 2026 15:51:29 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Analyst Favorites: SSR Mining Ranks As a Top Metals Pick",
-    "desc": "A study of analyst recommendations at the major brokerages shows that SSR Mining Inc (Symbol: SSRM) is the #19 broker analyst pick, on average, out of the 50 stocks making up the Metals Channel Global Mining Titans Index, according to Metals Channel. The Metals Channel Global M",
-    "link": "https://www.nasdaq.com/articles/analyst-favorites-ssr-mining-ranks-top-metals-pick",
-    "pubDate": "Mon, 14 Sep 2026 15:51:09 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Broker Darlings of the Dow: Amazon.com Ranks As a Top 15 Analyst Pick",
-    "desc": "A study of analyst recommendations at the major brokerages shows that Amazon.com Inc (Symbol: AMZN) is the #1 broker pick, on average, out of the 30 stocks making up the Dow Jones Industrial Average, according to ETF Channel. Amazon.com Inc is also a top tier analyst pick among",
-    "link": "https://www.nasdaq.com/articles/broker-darlings-dow-amazoncom-ranks-top-15-analyst-pick",
-    "pubDate": "Mon, 14 Sep 2026 15:51:02 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's My Pick for the Smartest High-Yield Dividend Stock to Buy Right Now",
-    "desc": "Key PointsKenvue saw revenue and EPS rise in the second quarter.",
-    "link": "https://www.nasdaq.com/articles/heres-my-pick-smartest-high-yield-dividend-stock-buy-right-now",
-    "pubDate": "Mon, 14 Sep 2026 15:50:00 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Social Security Benefits Could Be Headed for Cuts: Why I Refuse to Lose Sleep Over It",
-    "desc": "Key PointsSocial Security benefits may be headed for sweeping cuts if lawmakers don't intervene.",
-    "link": "https://www.nasdaq.com/articles/social-security-benefits-could-be-headed-cuts-why-i-refuse-lose-sleep-over-it",
-    "pubDate": "Mon, 14 Sep 2026 15:42:00 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Bloom Energy Is Up 190% This Year. Here's The Math Behind the Move.",
-    "desc": "Key PointsMore data centers are deploying Bloom&rsquo;s SOFCs to power their infrastructure.",
-    "link": "https://www.nasdaq.com/articles/bloom-energy-190-year-heres-math-behind-move",
-    "pubDate": "Mon, 14 Sep 2026 15:40:00 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Oracle Stock Fell Quickly Today",
-    "desc": "Key PointsEllison abandoned his plan to sell up to 50 million shares of Oracle.",
-    "link": "https://www.nasdaq.com/articles/why-oracle-stock-fell-quickly-today",
-    "pubDate": "Mon, 14 Sep 2026 15:38:00 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "D-Wave's Commercial Momentum Is Real, but a Critical Gap Remains",
-    "desc": "D-Wave (NASDAQ: QBTS) is showing real signs of commercial momentum as bookings, RPO, and production quantum usage climb. But revenue remains small and uneven, leaving investors with a crucial question: can growing QCaaS usage turn today's customer commitments into the recurring b",
-    "link": "https://www.nasdaq.com/articles/d-waves-commercial-momentum-real-critical-gap-remains",
-    "pubDate": "Mon, 14 Sep 2026 15:35:00 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Canopy Growth's Business Is Improving. So Why Isn't the Stock Performing Better?",
-    "desc": "Key PointsCanopy Growth recently reported incrementally stronger results, but the stock continues to languish.",
-    "link": "https://www.nasdaq.com/articles/canopy-growths-business-improving-so-why-isnt-stock-performing-better",
-    "pubDate": "Mon, 14 Sep 2026 15:20:00 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Sandisk Stock Crashed Today",
-    "desc": "Key PointsAI chip stocks tumbled amid calls by prominent CEOs to slow AI development.",
-    "link": "https://www.nasdaq.com/articles/why-sandisk-stock-crashed-today",
-    "pubDate": "Mon, 14 Sep 2026 15:18:25 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Fantastic News for Broadcom Stock Investors",
-    "desc": "Key PointsBroadcom's third-quarter results were excellent.",
-    "link": "https://www.nasdaq.com/articles/fantastic-news-broadcom-stock-investors",
-    "pubDate": "Mon, 14 Sep 2026 15:05:02 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The Baldwin Insurance Group Majority Stake To Be Acquired In $7.7 Bln All-Cash Deal, Stock Rises",
-    "desc": "(RTTNews) - Monday, The Baldwin Insurance Group, Inc. (BWIN) announced an agreement in which a majority interest in the company will be acquired by an entity to be formed by Sequence Holdings and DFO Management for an enterprise value of about $7.7 billion in cash.",
-    "link": "https://www.nasdaq.com/articles/baldwin-insurance-group-majority-stake-be-acquired-77-bln-all-cash-deal-stock-rises",
-    "pubDate": "Mon, 14 Sep 2026 15:02:47 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsAbbVie generates billions in annual free cash flow and continues to expand its market share in immunology treatments.",
-    "link": "https://www.nasdaq.com/articles/abbvie-vs-crispr-therapeutics-which-healthcare-stock-better-buy-2026",
-    "pubDate": "Mon, 14 Sep 2026 15:00:55 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "U.S. Stocks Pulling Back Sharply As Crude Oil Prices Rebound",
-    "desc": "(RTTNews) - Stocks have moved mostly lower during trading on Monday, moving back to the downside following the rebound seen during last Friday's session. The major averages have all slid into negative territory, with the tech-heavy Nasdaq leading the pullback.",
-    "link": "https://www.nasdaq.com/articles/us-stocks-pulling-back-sharply-crude-oil-prices-rebound",
-    "pubDate": "Mon, 14 Sep 2026 15:00:16 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Noteworthy ETF Inflows: AVUV, MATX, LNTH, SM",
-    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Avantis U.S. Small Cap Value ETF (Symbol: AVUV) where we have detected an approximate $211.7 million dollar inflow -- that's a 0.7% increase week ove",
-    "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-avuv-matx-lnth-sm",
-    "pubDate": "Mon, 14 Sep 2026 14:55:21 +0000",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
-    "desc": "Trump lashed out at Anthropic CEO Dario Amodei following his urgent plea for an AI slowdown.",
-    "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-    "pubDate": "Mon, 14 Sep 2026 14:50:18 GMT",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week",
-    "desc": "The 10-year U.S. Treasury note yield rose to a multi-year high on Monday ahead of this week's Federal Reserve interest rate decision.",
-    "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-    "pubDate": "Mon, 14 Sep 2026 14:33:54 GMT",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-    "desc": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
-    "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-    "pubDate": "Sat, 12 Sep 2026 17:14:56 GMT",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-    "desc": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures.",
-    "link": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-    "pubDate": "Mon, 14 Sep 2026 12:39:26 GMT",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "desc": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "pubDate": "Mon, 14 Sep 2026 12:16:52 GMT",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "January 2029 Options Now Available For Capital One Financial (COF)",
-    "desc": "Investors in Capital One Financial Corp (Symbol: COF) saw new options become available today, for the January 2029 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 858 days until expiration the newly a",
-    "link": "https://www.nasdaq.com/articles/january-2029-options-now-available-capital-one-financial-cof",
-    "pubDate": "Mon, 14 Sep 2026 14:33:43 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Interesting SPG Put And Call Options For January 2029",
-    "desc": "Investors in Simon Property Group, Inc. (Symbol: SPG) saw new options become available today, for the January 2029 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 858 days until expiration the newly availa",
-    "link": "https://www.nasdaq.com/articles/interesting-spg-put-and-call-options-january-2029",
-    "pubDate": "Mon, 14 Sep 2026 14:33:26 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CRH January 2029 Options Begin Trading",
-    "desc": "Investors in CRH plc (Symbol: CRH) saw new options become available today, for the January 2029 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 858 days until expiration the newly available contracts",
-    "link": "https://www.nasdaq.com/articles/crh-january-2029-options-begin-trading",
-    "pubDate": "Mon, 14 Sep 2026 14:33:23 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Interesting O Put And Call Options For January 2029",
-    "desc": "Investors in Realty Income Corp (Symbol: O) saw new options become available today, for the January 2029 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 858 days until expiration the newly available contra",
-    "link": "https://www.nasdaq.com/articles/interesting-o-put-and-call-options-january-2029",
-    "pubDate": "Mon, 14 Sep 2026 14:33:21 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "January 2029 Options Now Available For Deckers Outdoor (DECK)",
-    "desc": "Investors in Deckers Outdoor Corp. (Symbol: DECK) saw new options begin trading today, for the January 2029 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 858 days until expiration the newly trading contr",
-    "link": "https://www.nasdaq.com/articles/january-2029-options-now-available-deckers-outdoor-deck",
-    "pubDate": "Mon, 14 Sep 2026 14:33:15 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "JBL January 2029 Options Begin Trading",
-    "desc": "Investors in Jabil Inc (Symbol: JBL) saw new options become available today, for the January 2029 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 858 days until expiration the newly available contracts rep",
-    "link": "https://www.nasdaq.com/articles/jbl-january-2029-options-begin-trading",
-    "pubDate": "Mon, 14 Sep 2026 14:33:11 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cash Dividend On The Way From Venture Global (VG)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Venture Global Inc (Symbol: VG) will trade ex-dividend, for its quarterly dividend of $0.04, payable on 9/30/26. As a percentage of VG's recent stock price of $16.24, this dividend works out to approxim",
-    "link": "https://www.nasdaq.com/articles/cash-dividend-way-venture-global-vg",
-    "pubDate": "Mon, 14 Sep 2026 14:30:09 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cash Dividend On The Way From Nuveen Municipal Credit Opportunities Fund (NMCO)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Nuveen Municipal Credit Opportunities Fund Common (Symbol: NMCO) will trade ex-dividend, for its monthly dividend of $0.0685, payable on 10/1/26. As a percentage of NMCO's recent stock price of $9.68, t",
-    "link": "https://www.nasdaq.com/articles/cash-dividend-way-nuveen-municipal-credit-opportunities-fund-nmco",
-    "pubDate": "Mon, 14 Sep 2026 14:29:52 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Reminder - Dole Goes Ex-Dividend Soon",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/16/26, Dole plc (Symbol: DOLE) will trade ex-dividend, for its quarterly dividend of $0.085, payable on 10/7/26. As a percentage of DOLE's recent stock price of $13.62, this dividend works out to approximately",
-    "link": "https://www.nasdaq.com/articles/reminder-dole-goes-ex-dividend-soon",
-    "pubDate": "Mon, 14 Sep 2026 14:29:44 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Ex-Div Reminder for Stewart Information Services (STC)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Stewart Information Services Corp (Symbol: STC) will trade ex-dividend, for its quarterly dividend of $0.55, payable on 9/30/26. As a percentage of STC's recent stock price of $67.36, this dividend work",
-    "link": "https://www.nasdaq.com/articles/ex-div-reminder-stewart-information-services-stc",
-    "pubDate": "Mon, 14 Sep 2026 14:29:37 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Oaktree Specialty Lending About To Put More Money In Your Pocket (OCSL)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Oaktree Specialty Lending Corporation - Closed End (Symbol: OCSL) will trade ex-dividend, for its quarterly dividend of $0.30, payable on 9/30/26. As a percentage of OCSL's recent stock price of $12.70,",
-    "link": "https://www.nasdaq.com/articles/oaktree-specialty-lending-about-put-more-money-your-pocket-ocsl",
-    "pubDate": "Mon, 14 Sep 2026 14:29:33 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Reminder - Nuveen Variable Rate Preferred & Income Fund (NPFD) Goes Ex-Dividend Soon",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Nuveen Variable Rate Preferred &amp; Income Fund Commo (Symbol: NPFD) will trade ex-dividend, for its monthly dividend of $0.1565, payable on 10/1/26. As a percentage of NPFD's recent stock price of $18",
-    "link": "https://www.nasdaq.com/articles/reminder-nuveen-variable-rate-preferred-income-fund-npfd-goes-ex-dividend-soon",
-    "pubDate": "Mon, 14 Sep 2026 14:29:27 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Ecolab About To Put More Money In Your Pocket (ECL)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Ecolab Inc (Symbol: ECL) will trade ex-dividend, for its quarterly dividend of $0.73, payable on 10/15/26. As a percentage of ECL's recent stock price of $276.24, this dividend works out to approximatel",
-    "link": "https://www.nasdaq.com/articles/ecolab-about-put-more-money-your-pocket-ecl",
-    "pubDate": "Mon, 14 Sep 2026 14:29:20 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Reminder - Merchants Bancorp (MBINM) Goes Ex-Dividend Soon",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Merchants Bancorp - Depositary Shares Each Repres (Symbol: MBINM) will trade ex-dividend, for its quarterly dividend of $0.5156, payable on 10/1/26. As a percentage of MBINM's recent stock price of $25.",
-    "link": "https://www.nasdaq.com/articles/reminder-merchants-bancorp-mbinm-goes-ex-dividend-soon",
-    "pubDate": "Mon, 14 Sep 2026 14:29:16 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Reminder - Sachem Capital (SACH) Goes Ex-Dividend Soon",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 9/15/26, Sachem Capital Corp (Symbol: SACH) will trade ex-dividend, for its quarterly dividend of $0.01, payable on 9/30/26. As a percentage of SACH's recent stock price of $0.9426, this dividend works out to ap",
-    "link": "https://www.nasdaq.com/articles/reminder-sachem-capital-sach-goes-ex-dividend-soon",
-    "pubDate": "Mon, 14 Sep 2026 14:26:38 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "fortune",
-    "title": "OpenAI President says rogue AI attack on Hugging Face &#8216;is indicative of the times we are in&#8217; as the company continues to investigate incident",
-    "desc": "The OpenAI president and co-founder also calls for 'democratizing' AI access, suggesting he opposes any ban on American companies using Chinese AI.",
-    "link": "https://fortune.com/2026/07/24/openai-president-says-rogue-ai-attack-on-hugging-face-indicative-of-the-times-we-are-in/",
-    "pubDate": "Fri, 24 Jul 2026 11:49:59 +0000",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Greece stocks lower at close of trade; Athens General Composite down 1.16%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-116-4899959",
-    "pubDate": "2026-09-14 14:50:03",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Paycom leads mid-cap tech picks on valuation and capital efficiency",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/paycom-leads-midcap-tech-picks-on-valuation-and-capital-efficiency-93CH-4899957",
-    "pubDate": "2026-09-14 14:48:57",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "US lacks funding to complete first phase of air traffic control reforms",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-lacks-funding-to-complete-first-phase-of-air-traffic-control-reforms-4899956",
-    "pubDate": "2026-09-14 14:48:30",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Sazerac acquires Au Vodka for more than £300 million, source says",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sazerac-acquires-au-vodka-for-more-than-300-million-source-says-4899941",
-    "pubDate": "2026-09-14 14:37:39",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Trump slams Anthropic CEO over AI slowdown call",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/trump-slams-anthropic-ceo-over-ai-slowdown-call-4899940",
-    "pubDate": "2026-09-14 14:37:22",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Anthropic still plans 2026 IPO despite AI safety concerns - Axios",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/anthropic-still-plans-2026-ipo-despite-ai-safety-concerns--axios-4899936",
-    "pubDate": "2026-09-14 14:36:02",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Trump claims \"sick conspiracy\" taking place against AI and data centers",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/trump-claims-sick-conspiracy-taking-place-against-ai-and-data-centers-4899937",
-    "pubDate": "2026-09-14 14:34:21",
-    "fetchedAt": "2026-09-14T15:01:56.084Z"
   }
 ]
