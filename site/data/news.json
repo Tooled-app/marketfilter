@@ -1,6 +1,86 @@
 [
   {
     "source": "cnbc",
+    "title": "Supreme Court rejects Trump bid to lift block on mail-in ballots rule",
+    "desc": "Justice Brett Kavanaugh said that applying the Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
+    "link": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
+    "pubDate": "Tue, 15 Sep 2026 00:01:05 GMT",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+    "desc": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
+    "link": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+    "pubDate": "Mon, 14 Sep 2026 22:43:25 GMT",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump-linked super PAC reports roughly $21 million in spending across key midterm races",
+    "desc": "President Donald Trump's political wartiest has spent much of the 2026 midterm election campaign cycle on the sidelines despite pleas from Republicans.",
+    "link": "https://www.cnbc.com/2026/09/14/trump-super-pac-midterms-no-going-back-pac.html",
+    "pubDate": "Mon, 14 Sep 2026 22:15:58 GMT",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+    "desc": "As the U.S.-China tech rivalry simmers, Beijing is increasing restrictions on how its companies can deploy their tech talent overseas.",
+    "link": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
+    "pubDate": "Mon, 14 Sep 2026 23:00:01 GMT",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
+    "desc": "Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.",
+    "link": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+    "pubDate": "Mon, 14 Sep 2026 13:08:13 GMT",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+    "desc": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns.",
+    "link": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+    "pubDate": "Mon, 14 Sep 2026 13:38:48 GMT",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Japan Stock Market May Extend Losing Streak",
+    "desc": "(RTTNews) - The Japanese stock market has finished lower in back-to-back trading days, shedding more than 1,770 points or 3 percent along the way. The Nikkei 225 now sits just shy of the 63,500-point plateau and it may take further damage again on Tuesday.",
+    "link": "https://www.nasdaq.com/articles/japan-stock-market-may-extend-losing-streak-1",
+    "pubDate": "Mon, 14 Sep 2026 23:18:49 +0000",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Soft Start Anticipated For South Korea Shares",
+    "desc": "(RTTNews) - The South Korea stock market has tracked lower in three straight sessions, tumbling more than 365 points or 5 percent in that span. The KOSPI now sits just above the 6,680-point plateau and it may extend its losses again on Tuesday.",
+    "link": "https://www.nasdaq.com/articles/soft-start-anticipated-south-korea-shares",
+    "pubDate": "Mon, 14 Sep 2026 23:03:49 +0000",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
+    "desc": "Key PointsMicrosoft's Azure business has been a major focus for growth investors this year.",
+    "link": "https://www.nasdaq.com/articles/microsoft-just-made-move-could-put-more-pressure-its-azure-business-heres-why-it-could",
+    "pubDate": "Mon, 14 Sep 2026 23:01:37 +0000",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Hewlett Packard Enterprise Stock Plummeted by Almost 11% Today",
+    "desc": "Key PointsThat pundit lowered his rating on the stock to the equivalent of a hold.",
+    "link": "https://www.nasdaq.com/articles/why-hewlett-packard-enterprise-stock-plummeted-almost-11-today",
+    "pubDate": "Mon, 14 Sep 2026 22:46:07 +0000",
+    "fetchedAt": "2026-09-15T00:01:37.680Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Mitch McConnell returns to Senate after three-month health absence",
     "desc": "The 84-year-old Kentucky Republican is back in Washington after a fall, hospitalization, pneumonia and weeks of rehabilitation kept him away from the Senate.",
     "link": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
@@ -6317,86 +6397,6 @@
     "desc": "Key PointsEinhorn sees Space Exploration Technologies' credit rating as a major risk for the company.",
     "link": "https://www.nasdaq.com/articles/billionaire-david-einhorn-says-spacex-making-history-not-good-way",
     "pubDate": "Mon, 14 Sep 2026 09:45:00 +0000",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Forget AI Stocks: This Tech Play Is the Real Winner",
-    "desc": "Key PointsAI stocks are great, but a portfolio needs balance.",
-    "link": "https://www.nasdaq.com/articles/forget-ai-stocks-tech-play-real-winner",
-    "pubDate": "Mon, 14 Sep 2026 09:35:00 +0000",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: The Next Nvidia-Backed Stock to Go Parabolic Could Be Hiding in Plain Sight",
-    "desc": "Key PointsThis company offers customers quick access to something in high demand.",
-    "link": "https://www.nasdaq.com/articles/prediction-next-nvidia-backed-stock-go-parabolic-could-be-hiding-plain-sight",
-    "pubDate": "Mon, 14 Sep 2026 09:30:00 +0000",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "fortune",
-    "title": "With his credibility on the line, the Fed’s Warsh will be forced to raise interest rates this week",
-    "desc": "Everything you need to know before you reach the office this morning.",
-    "link": "https://fortune.com/2026/09/14/fed-kevin-warsh-raise-interest-rates/",
-    "pubDate": "Mon, 14 Sep 2026 10:04:51 +0000",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "fortune",
-    "title": "OpenAI CEO Sam Altman’s exclusive interview with Fortune’s Alyson Shontell",
-    "desc": "Also: All the news and watercooler chat from Fortune.",
-    "link": "https://fortune.com/2026/09/14/openai-ceo-sam-altman-fortune-interview-alyson-shontell/",
-    "pubDate": "Mon, 14 Sep 2026 09:40:12 +0000",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "fortune",
-    "title": "How employee anxiety masquerades as performance, then backfires",
-    "desc": "Half of the workforce says anxiety about the state of the world is hurting their focus, according to a recent Burson study. But it's more complicated.",
-    "link": "https://fortune.com/2026/09/14/how-employee-anxiety-masquerades-as-performance-then-backfires/",
-    "pubDate": "Mon, 14 Sep 2026 10:00:00 +0000",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is MaxLinear stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-maxlinear-stock-sliding-today-93CH-4899159",
-    "pubDate": "2026-09-14 10:41:56",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Chip stocks fall premarket on AI slowdown calls: Best buy-the-dip setups",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/chip-stocks-fall-premarket-on-ai-slowdown-calls-best-buythedip-setups-93CH-4899136",
-    "pubDate": "2026-09-14 10:33:08",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Airlines urge more competition on used jet engine parts",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/airlines-urge-more-competition-on-used-jet-engine-parts-4899123",
-    "pubDate": "2026-09-14 10:30:36",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Olema Pharmaceuticals stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-olema-pharmaceuticals-stock-sliding-today-93CH-4899122",
-    "pubDate": "2026-09-14 10:29:25",
-    "fetchedAt": "2026-09-14T11:01:33.174Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Stellantis stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4899121",
-    "pubDate": "2026-09-14 10:29:19",
     "fetchedAt": "2026-09-14T11:01:33.174Z"
   }
 ]
