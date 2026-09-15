@@ -1,6 +1,390 @@
 [
   {
     "source": "cnbc",
+    "title": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
+    "desc": "Iranian foreign minister Abbas Araqchi will visit China on Wednesday for talks, Beijing's foreign ministry announced on Tuesday.",
+    "link": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+    "pubDate": "Tue, 15 Sep 2026 09:49:54 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+    "desc": "Treasury Secretary Scott Bessent may face questions on rising energy prices, Federal Reserve policy, government debt and the Trump team's economic agenda.",
+    "link": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+    "pubDate": "Tue, 15 Sep 2026 09:00:01 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Treasury hits Russia's VTB Bank with new sanctions over Iran ties",
+    "desc": "The new Russian bank sanctions follow a small handful of other actions that the Trump administration has taken since vowing to inflict \"economic D-Day\" on Iran.",
+    "link": "https://www.cnbc.com/2026/09/14/treasury-bessent-russia-vtb-bank-iran-sanctions.html",
+    "pubDate": "Mon, 14 Sep 2026 21:53:20 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "bbc",
+    "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+    "desc": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+    "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:51:39 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "Is the BoE’s rate-cut cycle giving way to hikes?",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/is-the-boes-ratecut-cycle-giving-way-to-hikes-4901096",
+    "pubDate": "2026-09-15 09:39:30",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "UK sells £1.25 billion of treasury gilts maturing in 2029",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/uk-sells-125-billion-of-treasury-gilts-maturing-in-2029-93CH-4901094",
+    "pubDate": "2026-09-15 09:36:41",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "South Korean lawmaker says Trump due to announce US investment details on Friday",
+    "desc": "",
+    "link": "https://www.investing.com/news/economic-indicators/south-korean-lawmaker-says-trump-due-to-announce-us-investment-details-on-friday-4901079",
+    "pubDate": "2026-09-15 09:36:36",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Nokia stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-rallying-today-93CH-4901093",
+    "pubDate": "2026-09-15 09:35:03",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "EQT and Norway wealth fund bid for Acciona Energia - report",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/eqt-and-norway-wealth-fund-bid-for-acciona-energia--report-93CH-4901089",
+    "pubDate": "2026-09-15 09:34:49",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "International Trading Institute Expands Professional Trader Development Beyond the Master’s in Trading",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/international-trading-institute-expands-professional-trader-development-beyond-the-masters-in-trading-4901082",
+    "pubDate": "2026-09-15 09:30:49",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "Citizens reiterates Market Perform on Sionna Therapeutics stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-perform-on-sionna-therapeutics-stock-93CH-4901081",
+    "pubDate": "2026-09-15 09:30:46",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wells Fargo sees AI slowdown as unlikely despite safety calls",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-ai-slowdown-as-unlikely-despite-safety-calls-93CH-4901078",
+    "pubDate": "2026-09-15 09:30:31",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investing",
+    "title": "Houthis target Saudi sites amid push to strengthen positions in Yemen - Reuters",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/houthis-target-saudi-sites-amid-push-to-strengthen-positions-in-yemen--reuters-4901070",
+    "pubDate": "2026-09-15 09:28:52",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
+    "desc": "If all employers matched debt payments, workers would save more than $10 billion.",
+    "link": "https://www.marketwatch.com/story/when-people-with-student-debt-try-to-save-for-retirement-they-fall-behind-early-and-never-catch-up-074b4b28?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 10:00:00 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;There might be a silver lining&#x2019;: My friend&#x2019;s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "desc": "&#x201c;They had been married for over 30 years when she passed.&#x201d;",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 09:15:00 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+    "desc": "Morgan Stanley late on Monday joined Wall Street rival Goldman Sachs in changing its call from the Federal Open Market Committee leaving rates unchanged to the U.S. central bank hiking interest rates.",
+    "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 09:05:00 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "ft",
+    "title": "Putin moves flagship summit over drone threat",
+    "desc": "Russian president has avoided Black Sea coast for nearly a year amid Ukrainian attacks",
+    "link": "https://www.ft.com/content/ebca8754-9546-4668-85dd-a0d793c54d3c?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 04:00:28 GMT",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Former DeepMind researcher adds to warnings that AI threat may be growing",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642722-former-deepmind-researcher-adds-to-warnings-that-ai-threat-may-be-growing?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:51:50 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "AI extinction searches just spiked. Deutsche Bank says we've seen this movie before",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642765-ai-extinction-searches-just-spiked-deutsche-bank-says-weve-seen-this-movie-before?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:40:41 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Bank Stocks: How major U.S. lenders stack up by Quant ratings",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642761-bank-stocks-how-major-us-lenders-stack-up-by-quant-ratings?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:30:51 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Orchid Island Capital declares $0.10 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642763-orchid-island-capital-declares-0_10-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:21:08 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Questor Technology CFO steps down",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642762-questor-technology-cfo-steps-down?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:17:25 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Euro Area posts &#x20AC;14.2B trade surplus in July",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642759-euro-area-posts-142b-trade-surplus-in-july?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:07:08 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Pegasystems declares $0.03 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4642760-pegasystems-declares-0_03-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 05:05:58 -0400",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Stock Futures Fall Ahead of Fed Meeting as Oil and Treasury Yields Rise: Dow Jones, S&P, Nasdaq, Wall Street",
+    "desc": "US stock futures moved lower on Tuesday ahead of the Federal Reserve’s two-day monetary policy meeting, while investors also monitored higher oil prices, Treasury yields and developments in the Middle East. At 03:20 ET, Dow futures were down 266 points, or 0.",
+    "link": "https://investorshub.advfn.com/market-news/article/36268/us-stock-futures-fall-ahead-of-fed-meeting-as-oil-and-treasury-yields-rise-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 09:29:43 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "1 S&P 500 Stock Worth Your Attention and 2 We Avoid",
+    "desc": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-090030671.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 09:00:30 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stocks Selloff Rages on as AI and Bond Fears Mount",
+    "desc": "Stocks were on course to open lower on Tuesday as oil prices rallied, driving the yield on the 10-year Treasury note back above 5%. Nasdaq 100 futures fell 0.6%. The major indexes slipped on Monday after Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman, and SpaceX CEO Elon Musk all called for a slowdown in the development of artificial intelligence, sparking a selloff in high-flying chip and memory stocks.",
+    "link": "https://finance.yahoo.com/m/5b0f2bad-635f-3204-92df-4bd69e3cae3f/stocks-selloff-rages-on-as-ai.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:40:17 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow.",
+    "desc": "Investors expect the Fed to raise interest rates this week, and new rate-hike cycles have often precipitated stock market corrections.",
+    "link": "https://www.fool.com/investing/2026/09/15/wall-street-bad-news-federal-reserve-stock-market-correction/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 09:32:01 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is The Hartford Stock Underperforming the Dow?",
+    "desc": "While The Hartford has underperformed relative to the Dow over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock’s prospects.",
+    "link": "https://www.barchart.com/story/news/4601108/is-the-hartford-stock-underperforming-the-dow?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 03:01:08 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Best Value Stocks to Buy for September 15th",
+    "desc": "BFH, HCSG and MTG made it to the Zacks Rank #1 (Strong Buy) value stocks list on September 15th, 2026.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-september-085500339.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:55:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Trump's Marijuana Rescheduling Push Is Back in Focus. Is Tilray Stock Finally a Buy?",
+    "desc": "Key PointsRescheduling could expand Tilray&rsquo;s U.S. medical cannabis opportunity.",
+    "link": "https://www.nasdaq.com/articles/trumps-marijuana-rescheduling-push-back-focus-tilray-stock-finally-buy",
+    "pubDate": "Tue, 15 Sep 2026 09:50:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What a $10,000 Investment in Amazon Now Would Be Worth if Its Anthropic Stake Gets Marked at $2 Trillion",
+    "desc": "Key PointsAnthropic is widely rumored to be going public soon at a historic valuation.",
+    "link": "https://www.nasdaq.com/articles/what-10000-investment-amazon-now-would-be-worth-if-its-anthropic-stake-gets-marked-2",
+    "pubDate": "Tue, 15 Sep 2026 09:40:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Retail Investor Fleecing Continues: Up to $48 Billion in SpaceX Insider Selling Pressure Can Hit the Tape Next Week",
+    "desc": "Key PointsSpace Exploration Technologies&rsquo; (SpaceX) initial public offering (IPO) shattered Wall Street records.",
+    "link": "https://www.nasdaq.com/articles/retail-investor-fleecing-continues-48-billion-spacex-insider-selling-pressure-can-hit-tape",
+    "pubDate": "Tue, 15 Sep 2026 09:26:01 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Want to Generate Thousands of Dollars in Passive Income While Barely Lifting a Finger? This Dividend ETF Could Get You There.",
+    "desc": "Key PointsThe Vanguard Dividend Appreciation ETF holds over 300 dividend growth stocks.",
+    "link": "https://www.nasdaq.com/articles/want-generate-thousands-dollars-passive-income-while-barely-lifting-finger-dividend-etf",
+    "pubDate": "Tue, 15 Sep 2026 09:20:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Shares Extend Losses As Banks Tumble On Oil-driven Inflation Fears",
+    "desc": "(RTTNews) - European stocks traded lower on Tuesday as surging oil prices and elevated bond yields weighed on the banking sector.",
+    "link": "https://www.nasdaq.com/articles/european-shares-extend-losses-banks-tumble-oil-driven-inflation-fears",
+    "pubDate": "Tue, 15 Sep 2026 09:16:05 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Best 3 Nuclear Energy Stocks to Buy and Hold for 2030 and Beyond",
+    "desc": "Key PointsConstellation is turning today's growing power demands into binding agreements that last for decades.",
+    "link": "https://www.nasdaq.com/articles/best-3-nuclear-energy-stocks-buy-and-hold-2030-and-beyond",
+    "pubDate": "Tue, 15 Sep 2026 09:15:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Better Buy: Archer Aviation Stock vs. Joby Aviation Stock",
+    "desc": "These are two of the most innovative companies on the planet, but only one can be the better investment in this comparison.",
+    "link": "https://www.nasdaq.com/articles/better-buy-archer-aviation-stock-vs-joby-aviation-stock",
+    "pubDate": "Tue, 15 Sep 2026 09:05:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture",
+    "desc": "Key PointsAnalysts remain bullish about Alnylam despite its steep sell-off.",
+    "link": "https://www.nasdaq.com/articles/alnylams-sell-looks-ugly-wall-street-still-sees-much-brighter-picture",
+    "pubDate": "Tue, 15 Sep 2026 09:04:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Asian Shares Retreat Ahead Of Fed Decision",
+    "desc": "(RTTNews) - Asian stocks ended mostly lower on Tuesday amid heightened Middle East tensions and concerns over the pace of artificial intelligence development.",
+    "link": "https://www.nasdaq.com/articles/asian-shares-retreat-ahead-fed-decision",
+    "pubDate": "Tue, 15 Sep 2026 08:42:40 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "fortune",
+    "title": "China may have a green energy overcapacity problem. Experts think AI can help solve it",
+    "desc": "Production in China's clean energy sector has grown so much that there’s more energy infrastructure than the market needs.",
+    "link": "https://fortune.com/2026/09/15/china-green-energy-ai/",
+    "pubDate": "Tue, 15 Sep 2026 07:36:43 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "fortune",
+    "title": "A tale of two economies: Why IKEA’s strategy is the antidote to the middle-class margin collapse",
+    "desc": "As America’s middle class faces shrinking purchasing power, IKEA offers a counterintuitive corporate playbook: cut prices, localize supply chains, invest in energy and retrain workers to build durable demand.",
+    "link": "https://fortune.com/2026/09/15/ikea-middle-class-two-economies/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:00 +0000",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Volvo stock outlook: Buy or avoid into earnings?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/volvo-stock-outlook-buy-or-avoid-into-earnings-93CH-4901095",
+    "pubDate": "2026-09-15 09:37:38",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "BofA raises US semiconductor industry outlook to 18% annual growth",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/bofa-raises-us-semiconductor-industry-outlook-to-18-annual-growth-93CH-4901067",
+    "pubDate": "2026-09-15 09:26:53",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "BofA survey shows European investors expect 6.3% equity returns",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/bofa-survey-shows-european-investors-expect-63-equity-returns-93CH-4901057",
+    "pubDate": "2026-09-15 09:22:47",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "BofA survey shows investor cash levels rise amid policy concerns",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/bofa-survey-shows-investor-cash-levels-rise-amid-policy-concerns-93CH-4901056",
+    "pubDate": "2026-09-15 09:22:06",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Goldman Sachs expects 25bp Fed hike on Wednesday",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-expects-25bp-fed-hike-on-wednesday-93CH-4901023",
+    "pubDate": "2026-09-15 09:18:21",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Goldman Sachs discusses Chewy and Petco after retail conference",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-discusses-chewy-and-petco-after-retail-conference-93CH-4901022",
+    "pubDate": "2026-09-15 09:16:38",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Goldman says seasonal trends point to truckload rate gains ahead",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-says-seasonal-trends-point-to-truckload-rate-gains-ahead-93CH-4901019",
+    "pubDate": "2026-09-15 09:14:15",
+    "fetchedAt": "2026-09-15T10:01:35.181Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
     "desc": "Microsoft wants to be seen as a responsible AI entity as it ramps up model development alongside partners Anthropic and OpenAI.",
     "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
@@ -6014,389 +6398,5 @@
     "link": "https://www.zerohedge.com/energy/oil-surges-saudi-pipeline-crisis-puts-4-global-supply-risk-bernstein-warns-150-crude",
     "pubDate": "Mon, 14 Sep 2026 13:36:30 +0000",
     "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Fed Rate Hikes Will Increase US Interest Costs By $50 Billion",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Fed Rate Hikes Will Increase US Interest Costs By $50 Billion</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The biggest problem with the \"short-terming\" of the US Treasury stock, which under Bessent's extension of Yellen's Activist Treasury Issuance playbook, which pushed the percentage of T-Bills as a percentage of total debt to 23% - the highest since 2010 excluding the emergency surge during the covid crisis which relied entirely on Bills for government funding and briefly pushed the Bill percentage above 25% - even as total US debt rose above $40 trillion for the first time ever... </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Tbills%20of%20total.jpg?itok=BwYo8n83\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Tbills%20of%20total.jpg?itok=BwYo8n83\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"f6c6f8b3-11a8-4316-beef-b47415340454\" data-responsive-image-style=\"inline_images\" height=\"269\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Tbills%20of%20total.jpg?itok=BwYo8n83\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>... is that <strong>any rate hike will immediately increase the amount the country is spending on interest</strong>.</p> <p>Which is especially concerning because, as we <a href=\"https://www.zerohedge.com/markets/us-2026-budget-deficit-hits-197-trillion-one-month-left-interest-record-14-trillion\">wrote on Friday </a>when discussing the August budget deficit, gross US interest (for the LTM period) <strong>is now a record $1.4 trillion and is set to surpass Social Security as the largest US outlay within 2 years, likely hitting $2 trillion before 2030. </strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/US%20int%20expense%20spending_0.jpg?itok=8eV4Ply7\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/US%20int%20expense%20spending_0.jpg?itok=8eV4Ply7\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"b932546e-45f7-4441-bc46-6b8d2feda26e\" data-responsive-image-style=\"inline_images\" height=\"315\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/US%20int%20expense%20spending_0.jpg?itok=8eV4Ply7\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The dramatic deterioration in the US fiscal picture prompted BofA's chief economist Aditya Bhave to pen a report (\"<strong><em><a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">In the interest of time</a></em></strong>\", <a href=\"https://www.zerohedge.com/signup/professional-membership-year\">available to pro subs</a>) in which he <a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">wrote </a>that \"<em>the recent rise in interest rates, particularly at the long-end, coupled with US total debt crossing the $40tn threshold sparked a wave of commentary on the US fiscal picture.\" </em></p> <p>According to Bhave, while elevated deficits since the pandemic have certainly contributed to the higher term premium, it’s unlikely that crossing the $40tn threshold contributed to the recent increase in long-term yields. That's because markets tend to <strong>respond to changes in the expected path of deficits and Treasury issuance rather than the level of debt alone. </strong>Importantly, there has been no policy announcement or fiscal development that meaningfully altered those expectations recently.</p> <p>Instead, BofA notes, it appears that the recent rise in yields has been driven by higher inflation expectations owing to the rise in energy prices and questions over the Fed’s commitment to its price stability mandate, which were partially quieted by Warsh at Jackson Hole.</p> <p>Regardless of what has driven the rise in yields, the BofA economist team cautions that <strong>higher interest rates across the curve do warrant a renewed focus on deficits. </strong>The deficit this year is on pace to once again eclipse 6% of GDP and a major reason for that is rising interest expense which has exceed spending on Defense and Medicare. The trend in interest costs is also notably worse than Medicare, Defense Spending and even Social Security, which have been more stable.</p> <a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Total%20US%20interest%20expense%20BofA_0.jpg?itok=qgMh4-cg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Total%20US%20interest%20expense%20BofA_0.jpg?itok=qgMh4-cg\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"910de2bc-da45-4286-8e7e-69929ad72ca5\" data-responsive-image-style=\"inline_images\" height=\"416\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Total%20US%20interest%20expense%20BofA_0.jpg?itok=qgMh4-cg\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Source: <a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">BofA</a></em></figcaption></figure></picture></a> <p>And while the trend of US interest expense growth is <em>already </em>ruinous, here BofA repeats what we said above, namely that <strong>the current level of interest rates is likely to exacerbate these trends as Treasury refinances maturing debt at higher borrowing costs. </strong></p> <p>According to BofA calcs, <strong>the average interest rate on outstanding marketable Treasury debt remains well below prevailing market yields, at roughly 3.4%. </strong>Looking specifically at coupon-bearing securities, current market rates imply that debt rolled over in coming years will be refinanced at interest rates approximately 1.4 percentage points higher, on average, than those on the securities being retired.</p> <a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/today%20rollover%20rates.jpg?itok=k_A0lr5h\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/today%20rollover%20rates.jpg?itok=k_A0lr5h\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"e1450be7-3009-4f92-bb37-2f9548f9faf0\" data-responsive-image-style=\"inline_images\" height=\"425\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/today%20rollover%20rates.jpg?itok=k_A0lr5h\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Source: <a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">BofA</a></em></figcaption></figure></picture></a> <p>Most importantly, and this is what we started the post with, is that the Treasury's increased reliance on bills also leaves borrowing costs more sensitive to near-term monetary policy. As Bhave writes, <strong>nearly $7 trillion of Treasury bills are currently outstanding, the vast majority of which mature within one year. </strong></p> <a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BofA%20maturing%20debt%20profile.jpg?itok=KJYnOOZj\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BofA%20maturing%20debt%20profile.jpg?itok=KJYnOOZj\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6ffe3835-50b7-42f1-aa2a-1f5173af138c\" data-responsive-image-style=\"inline_images\" height=\"401\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/BofA%20maturing%20debt%20profile.jpg?itok=KJYnOOZj\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Source: <a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">BofA</a></em></figcaption></figure></picture></a> <p>Assuming the Fed hikes rates by 75bp this year as BofA expects (once this week, and two more times before the latest Fed Hiking cycle ends), BofA concludes that <strong>annual interest costs on outstanding T-bills could increase by roughly $50bn or ~15bps of GDP.</strong></p> <p>It gets worse.</p> <p>As a reminder of the pernicious nature of compounding debt, in addition to higher refinancing costs on the horizon, BofA warns that <strong>a more fundamental concern is the feedback loop between interest rates and debt. </strong>Ultimately, debt sustainability depends not only on the level of interest rates, but also on how those rates compare with nominal GDP growth. When nominal growth exceed borrowing costs, debt-to-GDP ratios can stabilize over time. However, <strong>as the gap between interest rates and nominal growth narrows, higher debt levels become increasingly difficult to sustain. </strong></p> <p>The risk is that the self-reinforcing dynamic between interest costs and deficits can further narrow that gap over time.</p> <p>Meanwhile, there is a feedback loop between higher interest costs and deficits that we must account for. <strong>Higher interest costs increase deficits and Treasury borrowing needs, which in turn result in even more interest expense. </strong>Increased Treasury issuance can put upward pressure on term premiums as investors demand greater compensation to absorb a larger supply of duration. <strong>Higher term premiums raise borrowing costs, which further increase interest expense and deficits, creating a self-reinforcing dynamic.</strong></p> <p>Obviously, the risk from this dynamic is not immediate, which only makes it worse as generations of politicians can sweep it under the rug (dealing with unsustainable spending and debt is not only unpleasant, it is a career killer for politicians), until it becomes to late to deal with it and the problem explodes. Sure enough, this dynamic emerges only gradually as <strong>a larger share of the debt stock is refinanced at higher rates and interest expense consumes an increasing share of federal spending. </strong>To illustrate this, BofA simulates debt-to-GDP trajectories under three scenarios for how interest rates respond to higher debt.</p> <a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/feedback%20loop%20in%20US%20debt%20BofA.jpg?itok=OTpbZPWB\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/feedback%20loop%20in%20US%20debt%20BofA.jpg?itok=OTpbZPWB\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"e78a15aa-34a3-4574-a6ac-0964227051d6\" data-responsive-image-style=\"inline_images\" height=\"477\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/feedback%20loop%20in%20US%20debt%20BofA.jpg?itok=OTpbZPWB\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Source: <a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">BofA</a></em></figcaption></figure></picture></a> <p>In the low, central, and high scenarios, a 1 percentage point increase in the debt-to- GDP ratio raises interest rates by 1bp, 2bp, and 3bp, respectively. While the effects are modest initially, <strong>the trajectories diverge meaningfully over longer horizons as higher debt levels lead to higher borrowing costs, which further accelerate debt accumulation.</strong></p> <p><strong>The composition of deficits matters</strong></p> <p>The growing share of deficits attributable to interest costs has important implications for both the economy and financial markets. That's because <strong>deficits driven by rising interest expense provide far less support to economic activity than deficits associated with tax relief or government spending</strong>, <strong>and are far less defensively politically</strong>. In addition, they may crowd out both public and private investment by placing sustained upward pressure on long-term interest rates. Over time, <strong>they constrain the government's ability to provide fiscal support during economic downturns, potentially slowing the pace of recovery and resulting in a full-blown fiscal crisis.</strong></p> <p>For markets, the changing composition of deficits matters because it can lead to greater Treasury issuance without a corresponding boost to economic growth. As a result, <strong>it may place additional upward pressure on Treasury supply, term premiums, and ultimately the long end of the yield curve.</strong></p> <p>To see this in practice, look no further than interest rates on the long-end of the Treasury curve... but not just in the US - anywhere else too. </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/30y%20tsy%20yields.jpg?itok=G8vHrvhd\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/30y%20tsy%20yields.jpg?itok=G8vHrvhd\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"b8911e2f-abd1-4a04-a6ab-21361e5da04d\" data-responsive-image-style=\"inline_images\" height=\"279\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/30y%20tsy%20yields.jpg?itok=G8vHrvhd\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>In conclusion, nobody wins from adding another $50 billion of interest cost to the country (except for America's short-term creditors of course). As <a href=\"https://www.zerohedge.com/markets/warsh-faces-incredibly-difficult-dilemma-week\">Peter Tchir wrote earlier</a>, with interest expense already an issue relative to defense or discretionary spending, a rate hike does not help on that front.</p> <p>Putting it together, the Academy Securities trader <a href=\"https://www.zerohedge.com/markets/warsh-faces-incredibly-difficult-dilemma-week\">wrote</a> that he finds it <em>\"difficult to imagine President Trump liking the idea, even if it helps the longer end of the yield curve, or that stocks have priced it in.\"</em></p> <p>Of course they haven't, but stocks remain hypnotized in an AI-bubble, which ironically is kept afloat only thanks to record debt issuance (now that capex is funded largely from new debt), which will come to a crashing halt once Treasury yields spike and the credit market slams shut once. And as always happens, all of these things will take place all at once triggering the next Fed bailout of, well, <em><strong>everything. </strong></em></p> <p><em>More in the <a href=\"https://marketdesk.ai/standalone/RliW1Eo0l15\">full BofA note </a>available to <a href=\"https://www.zerohedge.com/signup/professional-membership-year\">pro subscribers</a></em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-14T10:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/14/2026 - 06:55</span>",
-    "link": "https://www.zerohedge.com/markets/fed-rate-hikes-will-increase-us-interest-costs-50-billion",
-    "pubDate": "Mon, 14 Sep 2026 10:55:00 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Where Will Main Street Capital's Dividend Be in 5 Years?",
-    "desc": "Key PointsBDCs like Main Street Capital should benefit from higher interest rates.",
-    "link": "https://www.nasdaq.com/articles/where-will-main-street-capitals-dividend-be-5-years",
-    "pubDate": "Mon, 14 Sep 2026 16:35:00 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Marvell Stock Is Falling Today",
-    "desc": "Key PointsArtificial intelligence leaders say that AI model development should be slowed.",
-    "link": "https://www.nasdaq.com/articles/why-marvell-stock-falling-today",
-    "pubDate": "Mon, 14 Sep 2026 16:30:00 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Federal Reserve: 1 Thing All Investors Need to Know Before Sept. 16",
-    "desc": "Key PointsThe Federal Reserve has held interest rates steady in both Federal Open Market Committee meetings since Kevin Warsh became the Fed Chair.",
-    "link": "https://www.nasdaq.com/articles/federal-reserve-1-thing-all-investors-need-know-sept-16",
-    "pubDate": "Mon, 14 Sep 2026 16:26:25 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "OpenAI’s Sam Altman Says an IPO Won’t Happen This Year. Should This Make You Cautious About AI Stocks, or Is It Time to Pile Into Certain AI Bargains?",
-    "desc": "Key PointsOpenAI and Anthropic both have filed confidentially with regulators for potential IPOs.",
-    "link": "https://www.nasdaq.com/articles/openais-sam-altman-says-ipo-wont-happen-year-should-make-you-cautious-about-ai-stocks-or",
-    "pubDate": "Mon, 14 Sep 2026 16:25:01 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CoreWeave's CEO Just Gave Investors Great News",
-    "desc": "Key PointsCoreWeave's CEO says the company is still struggling to meet demand.",
-    "link": "https://www.nasdaq.com/articles/coreweaves-ceo-just-gave-investors-great-news",
-    "pubDate": "Mon, 14 Sep 2026 16:22:40 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Monday's ETF with Unusual Volume: IXG",
-    "desc": "The iShares Global Financials ETF is seeing unusually high volume in afternoon trading Monday, with over 276,000 shares traded versus three month average volume of about 62,000. Shares of IXG were down about 0.1% on the day. Components of that ETF with the highest volume on Mo",
-    "link": "https://www.nasdaq.com/articles/mondays-etf-unusual-volume-ixg",
-    "pubDate": "Mon, 14 Sep 2026 16:21:14 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Monday's ETF Movers: BUG, AIS",
-    "desc": "In trading on Monday, the Global X Cybersecurity ETF is outperforming other ETFs, up about 10.1% on the day. Components of that ETF showing particular strength include shares of Rapid7, up about 18.1% and shares of Zscaler, up about 15% on the day. And underperforming other ET",
-    "link": "https://www.nasdaq.com/articles/mondays-etf-movers-bug-ais",
-    "pubDate": "Mon, 14 Sep 2026 16:20:14 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Okta Stock Rocketed Higher Today",
-    "desc": "Key PointsCybersecurity stocks gained ground amid calls by prominent CEOs to slow AI development.",
-    "link": "https://www.nasdaq.com/articles/why-okta-stock-rocketed-higher-today",
-    "pubDate": "Mon, 14 Sep 2026 16:06:25 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Daily Dividend Report: GGG,RL,SLVM,BSY,NEWT",
-    "desc": "The Board of Directors of Graco has declared a regular quarterly dividend of 29.5 cents per common share, payable on November 4, 2026, to shareholders of record at the close of business on October 19, 2026. The Company has approximately 160.4 million shares outstanding. Ralph L",
-    "link": "https://www.nasdaq.com/articles/daily-dividend-report-gggrlslvmbsynewt",
-    "pubDate": "Mon, 14 Sep 2026 16:04:35 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Clarity Act odds soar as Trump approves new ethics provisions for closely-watched crypto bill",
-    "desc": "Republicans’ latest concession could determine whether the long-delayed legislation moves ahead.",
-    "link": "https://fortune.com/2026/09/14/clarity-act-odds-trump-new-ethics-provisions-crypto-bill/",
-    "pubDate": "Mon, 14 Sep 2026 16:03:06 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;Crazy days&#8217; and &#8216;silly season&#8217; in the stock market raise the prospect of a &#8216;late-stage&#8217; AI bubble finally popping",
-    "desc": "Wednesday could matter a great deal indeed: will Fed Chair Kevin Warsh hike rates and begin the end of the long AI bull market?",
-    "link": "https://fortune.com/2026/09/14/is-ai-stock-market-bubble-federal-reserve-interest-rates/",
-    "pubDate": "Mon, 14 Sep 2026 15:54:06 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "fortune",
-    "title": "OpenAI may have violated California’s AI safety law with latest model releases, AI watchdog says",
-    "desc": "OpenAI has not followed the law with any of the models it released this year, the watchdog group says.",
-    "link": "https://fortune.com/2026/09/14/openai-may-have-violated-californias-ai-safety-law-with-astra-model-releases-ai-watchdog-says/",
-    "pubDate": "Mon, 14 Sep 2026 15:41:39 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Wall Street’s AI doomsday trade is here: chipmakers sink while hyperscalers gain",
-    "desc": "Nvidia fell more than 3% while Meta, Microsoft and Alphabet rose, as investors begin to separate the companies that need endless AI capex from those that could profit by cutting it.",
-    "link": "https://fortune.com/2026/09/14/ai-slowdown-stocks-nvidia-meta/",
-    "pubDate": "Mon, 14 Sep 2026 15:26:48 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Michael Dell is now the fifth richest person in the world—his worth has nearly doubled to $262 billion in the last year alone thanks to AI",
-    "desc": "Michael Dell’s AI success has catapulted him past the wealth of fellow tech moguls like Mark Zuckerberg and Larry Ellison.",
-    "link": "https://fortune.com/2026/09/14/michael-dell-net-worth-nearly-doubled-262-billion-last-year-alone-dell-becomes-unexpected-ai-infrastructure-winner/",
-    "pubDate": "Mon, 14 Sep 2026 14:58:36 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "fortune",
-    "title": "United CEO caps meetings to 4 hours a day and has a strict rule for PowerPoint presentations: ‘You&#8217;re not going to read slides to me’",
-    "desc": "United CEO Scott Kirby keeps his calendar lean, giving himself more time to think—he spends 3 hours daily reading newspapers, magazines, and sci-fi novels.",
-    "link": "https://fortune.com/2026/09/14/united-ceo-scott-kirby-strict-meeting-cap-no-powerpoint-readouts-reads-three-hours-a-day-airline-industry-success/",
-    "pubDate": "Mon, 14 Sep 2026 14:53:24 +0000",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "FDA to hold public hearing on psychedelic drugs as Trump-driven push gathers pace",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/fda-to-hold-public-hearing-on-psychedelic-drugs-as-trumpdriven-push-gathers-pace-4900095",
-    "pubDate": "2026-09-14 16:24:33",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Abbott Laboratories stock rising today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-abbott-laboratories-stock-rising-today-93CH-4900092",
-    "pubDate": "2026-09-14 16:21:53",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "IAG options flow shows near-total call dominance amid bearish technical signals",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/iag-options-flow-shows-neartotal-call-dominance-amid-bearish-technical-signals-93CH-4900090",
-    "pubDate": "2026-09-14 16:19:37",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Pinterest stock rises after unveiling AI infrastructure with Nvidia",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/pinterest-stock-rises-after-unveiling-ai-infrastructure-with-nvidia-93CH-4900081",
-    "pubDate": "2026-09-14 16:14:54",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.05%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-105-4900074",
-    "pubDate": "2026-09-14 16:09:13",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Abbott to pay $384 million over contaminated infant formula allegations, US Justice Dept says",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/abbott-to-pay-384-million-over-contaminated-infant-formula-allegations-us-justice-dept-says-4900073",
-    "pubDate": "2026-09-14 16:08:54",
-    "fetchedAt": "2026-09-14T17:01:33.460Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Novo Nordisk rebrands to 'Novo,' CEO tells CNBC drugmaker needs to 'rethink' strategy amid obesity race",
-    "desc": "The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly.",
-    "link": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
-    "pubDate": "Mon, 14 Sep 2026 15:21:47 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Prediction market traders think gas prices will hit new highs for the year",
-    "desc": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
-    "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-    "pubDate": "Mon, 14 Sep 2026 15:49:39 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-    "desc": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-    "link": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-    "pubDate": "Sun, 13 Sep 2026 17:48:53 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "Akropolis Group reports 29% revenue growth in first half",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/akropolis-group-reports-29-revenue-growth-in-first-half-93CH-4900048",
-    "pubDate": "2026-09-14 15:56:30",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Sprott stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-sprott-stock-sliding-today-93CH-4900047",
-    "pubDate": "2026-09-14 15:54:58",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "China’s GAC plans to buy FAW stake in an auto JV, filing shows",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/chinas-gac-plans-deal-to-buy-faw-stake-in-undisclosed-auto-jv-filing-shows-4899855",
-    "pubDate": "2026-09-14 15:54:37",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "LATAM Airlines stock falls despite $505M financing deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/latam-airlines-stock-falls-despite-505m-financing-deal-93CH-4900046",
-    "pubDate": "2026-09-14 15:53:32",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "Stifel reiterates Cullinan Oncology stock Buy rating on trial data",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-cullinan-oncology-stock-buy-rating-on-trial-data-93CH-4900045",
-    "pubDate": "2026-09-14 15:52:50",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "Cullinan Oncology stock rating reaffirmed at Buy by TD Cowen",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/cullinan-oncology-stock-rating-reaffirmed-at-buy-by-td-cowen-93CH-4900044",
-    "pubDate": "2026-09-14 15:52:49",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "Euro zone bond yields climb as Germany hits 17-year high",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/euro-zone-bond-yields-climb-as-germany-hits-17year-high-93CH-4900043",
-    "pubDate": "2026-09-14 15:50:56",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "ECB’s Lagarde says Europe must produce AI technology",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ecbs-lagarde-says-europe-must-produce-ai-technology-93CH-4900042",
-    "pubDate": "2026-09-14 15:50:51",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "investing",
-    "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
-    "pubDate": "2026-09-14 15:49:28",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
-    "desc": "The benchmark 10-year Treasury yield briefly touched the crucial 5% threshold on Monday, with oil prices marching higher, jitters about artificial intelligence growing and investors looking elsewhere for safety.",
-    "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-    "pubDate": "Mon, 14 Sep 2026 15:40:00 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "&#x2018;My total balance should be worth $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
-    "desc": "&#x201c;I invested on the recommendation of an executive vice president of a major New York investment bank.&#x201d;",
-    "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-    "pubDate": "Mon, 14 Sep 2026 15:01:00 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Couples with a big age gap need more money &#x2014; they have to plan for two retirements",
-    "desc": "These are the biggest issues to consider when there&#x2019;s more than a 10-year age difference.",
-    "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-    "pubDate": "Mon, 14 Sep 2026 14:15:00 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
-    "desc": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
-    "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
-    "pubDate": "Mon, 14 Sep 2026 14:05:00 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK government moves to acquire Speciality Steel UK – business live",
-    "desc": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-    "pubDate": "Mon, 14 Sep 2026 15:59:10 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
-    "desc": "<p>A recent consultation on corporate reporting prizes the interests of shareholders over society. It’s a step in the wrong direction</p><p>The question of what corporations are for is deeply political. In a 1970 article for the New York Times, Milton Friedman argued that the “social responsibility of business is to increase its profits”. The idea that CEOs should worry about providing good jobs was “pure and unadulterated socialism”, he wrote. Friedman and his fellow neoliberals saw companies as vehicles for enforcing their politics. Their ideas endured: UK bosses are now paid <a href=\"https://highpaycentre.org/gap-between-the-pay-of-ftse-100-ceos-and-uk-workers-the-widest-for-8-years/\">130 times</a> more than average workers.</p><p>Despite Andy Burnham’s pledge to end neoliberalism, a 12-week <a href=\"https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul\">consultation</a> recently launched by his government risks entrenching it. The consultation was first announced as part of the Starmer government’s crusade against “red tape”. The average annual report for some businesses now runs to 98,000 words, and no doubt there are areas that could be simplified. But the consultation <a href=\"https://assets.publishing.service.gov.uk/media/6a9fc4d66beb520655555633/modernising-corporate-reporting-consultation-document.pdf\">proposes</a> removing vital information and presumes that company reports primarily serve shareholders, rather than other stakeholders. Both are steps in the wrong direction.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
-    "pubDate": "Sun, 13 Sep 2026 16:30:07 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-    "desc": "<p>Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Economics viewpoint: perilous UK economic conditions trace back to Trump</a></p></li></ul><p>Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.</p><p>Policymakers in all three countries will set rates in the next seven days against the backdrop of <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">turbulent global bond markets</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-    "pubDate": "Sun, 13 Sep 2026 12:33:16 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "AI will transform capitalism – but how?",
-    "desc": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every tool could perform its own work when ordered, or by seeing what to do in advance … if thus shuttles wove and quills played harps of themselves, master-craftsmen would have no need of assistants and masters no need of slaves.”</p><p>The dream that automation could inaugurate a classless society is also present in the writings of Karl Marx. In 1858 he imagined the replacement of intellectual property with “socialised knowledge”, which would merge into a “general intellect”, blowing the foundations of capitalism sky high.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
-    "pubDate": "Sun, 13 Sep 2026 11:00:02 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
-    "desc": "<p>Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’</p><p>The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.</p><p>Osborne, who was sacked as chancellor by Theresa May after being part of David Cameron’s cabinet at the time of the referendum, said it was important to rebuild links with the EU.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
-    "pubDate": "Sun, 13 Sep 2026 10:48:04 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "‘Small price to pay’: the young homeowners welcoming falling house prices even as it hurts them",
-    "desc": "<p>Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.</p><p>Locked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
-    "pubDate": "Sat, 12 Sep 2026 20:00:43 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
-    "desc": "<p>US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a little</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\"><strong>UK economy unexpectedly grows 0.4% in July boosted by AI</strong></a></p></li></ul><p><br></p><p><strong>Digging into today’s GDP report a little, we can see that the UK services sector had a decent July, with growth in 11 of its 14 subsectors.</strong></p><p>According to the ONS, the fastest growth was recorded in:</p><p><strong>professional</strong>, <strong>scientific</strong> <strong>and</strong> <strong>technical</strong> <strong>activities</strong> (up 2.1%), driven by growths in scientific research and development (up 7.0%), legal activities (up 3.1%), and advertising and market research (up 3.4%)</p><p><strong>information</strong> <strong>and</strong> <strong>communication</strong> (up 2.5%), which was mainly driven by a growth of 4.4% in computer programming, consultancy and related activities</p><p><strong>administrative and support service activities</strong> (up 1.3%), driven by growths of 6.1% in rental and leasing activities, and of 2.8% in services to buildings and landscape activities</p><p>The 0.4% rise in U.K. GDP in the second quarter was slightly stronger than we expected and suggests the economy has remained resilient to the surge in energy prices.</p><p>Adding to the positive news, growth was driven by solid gains in household consumption and business investment, and included a healthy 0.3% monthly rise in output in June, suggesting momentum was sustained as the quarter progressed.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
-    "pubDate": "Fri, 11 Sep 2026 15:58:06 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
-    "desc": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others say it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
-    "pubDate": "Fri, 11 Sep 2026 05:50:18 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
-    "desc": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
-    "pubDate": "Thu, 10 Sep 2026 18:27:10 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-    "desc": "<p>Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing</p><p>Nervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p>The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us\">advances by Houthi rebels</a> along the Red Sea coast in Yemen could choke off Saudi crude exports.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-    "pubDate": "Thu, 10 Sep 2026 18:05:15 GMT",
-    "fetchedAt": "2026-09-14T16:01:36.538Z"
   }
 ]
