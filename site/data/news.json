@@ -1,6 +1,406 @@
 [
   {
     "source": "cnbc",
+    "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+    "desc": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.",
+    "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+    "pubDate": "Wed, 16 Sep 2026 09:15:13 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Two camps have emerged in the debate over AI safety and regulation",
+    "desc": "Two opposing camps are emerging in the AI regulation debate, with Trump and Huang on one side and Amodei. Altman and Musk on the other.",
+    "link": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+    "pubDate": "Tue, 15 Sep 2026 22:16:45 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "bbc",
+    "title": "We managed to get jobs after uni - here's how we're keeping them",
+    "desc": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:36:37 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "bbc",
+    "title": "What is happening to UK prices?",
+    "desc": "UK inflation rose in August, pushed up by higher petrol and diesel prices.",
+    "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:12:42 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Christie & Co reports 26% rise in retail business offers in H1",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/christie--co-reports-26-rise-in-retail-business-offers-in-h1-93CH-4903219",
+    "pubDate": "2026-09-16 09:36:37",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Deutsche Bank upgrades Aena as higher tariffs ease regulatory risk",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-aena-as-higher-tariffs-ease-regulatory-risk-4903218",
+    "pubDate": "2026-09-16 09:33:12",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Starbucks weighs sale of majority stake in Japan business - Reuters",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/starbucks-weighs-sale-of-majority-stake-in-japan-business--reuters-93CH-4903216",
+    "pubDate": "2026-09-16 09:31:53",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "EU’s von der Leyen backs AI slowdown, to invite frontier labs for talks",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
+    "pubDate": "2026-09-16 09:31:30",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oppenheimer sees positive outlook for psychedelics after FDA hearing",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-positive-outlook-for-psychedelics-after-fda-hearing-93CH-4903214",
+    "pubDate": "2026-09-16 09:31:26",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Starbucks considers selling majority stake in its Japan business, sources say",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/starbucks-considers-selling-majority-stake-in-its-japan-business-sources-say-4903209",
+    "pubDate": "2026-09-16 09:30:38",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
+    "desc": "",
+    "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+    "pubDate": "2026-09-16 09:26:49",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Goldman cuts regional casino revenue outlook on August slowdown",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-cuts-regional-casino-revenue-outlook-on-august-slowdown-93CH-4903213",
+    "pubDate": "2026-09-16 09:26:43",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investing",
+    "title": "Goldman Sachs raises Euro Stoxx 50 dividend forecasts",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-raises-euro-stoxx-50-dividend-forecasts-93CH-4903211",
+    "pubDate": "2026-09-16 09:25:13",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+    "desc": "Gargi Pal Chaudhuri, of BlackRock, recommends investors stay invested in the artificial-intelligence sector but broaden into themes like quality and healthcare.",
+    "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+    "pubDate": "Wed, 16 Sep 2026 09:34:00 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;I am drowning in debt&#x2019;: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+    "desc": "&#x201c;I racked up this debt to cover my living expenses for two years without an income stream.&#x201d;",
+    "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+    "pubDate": "Wed, 16 Sep 2026 09:15:00 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "What history says about longer-term bond yields after the first Fed hike",
+    "desc": "If the Federal Reserve hikes interest rates in an effort to slow down the rapid rise in longer-term yields, history shows it probably won&#x2019;t be a success.",
+    "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+    "pubDate": "Wed, 16 Sep 2026 09:11:00 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;My total balance should be $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    "desc": "&#x201c;I invested on the recommendation of an executive vice president of a major New York investment bank.&#x201d;",
+    "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 22:15:00 GMT",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Beta Bionics shares fall as company prices $150M stock offering at $17.25/share",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643208-beta-bionics-shares-fall-as-company-prices-150m-stock-offering-at-1725share?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:43:18 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Amazon targets 1K same-day delivery hubs by 2031: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643269-amazon-targets-1k-same-day-delivery-hubs-by-2031-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:42:31 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "TMX Group prices C$1.1B debt offering across three maturities",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643268-tmx-group-prices-c-1_1b-debt-offering-across-three-maturities?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:39:08 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Blackstone seeks at least $8B for renewable, digital infrastructure credit fund: Bloomberg",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643270-blackstone-seeks-at-least-8b-for-renewable-digital-infrastructure-credit-fund-bloomberg?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:38:44 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nextleaf names CFO Sam Kassem interim CEO",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643267-nextleaf-names-cfo-sam-kassem-interim-ceo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:30:16 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "UK regulator probes Unilever food business&#x2019; $65B McCormick merger",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643259-uk-regulator-probes-unilever-food-business-65b-mccormick-merger?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:28:54 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "K-Bro Linen declares CAD 0.10 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643266-k-bro-linen-declares-cad-0_10-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 16 Sep 2026 05:11:43 -0400",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades: History Says This Will Come Next",
+    "desc": "The AI boom looks increasingly similar to the dot-com bubble.",
+    "link": "https://www.fool.com/investing/2026/09/16/the-stock-market-is-repeating-a-pattern-not-seen-i/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:05:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 Vanguard Index Funds to Buy to Beat the S&P 500 in the Next Year, According to Wall Street",
+    "desc": "Wall Street expects the technology and industrials sectors to beat the S&P 500 over the next year.",
+    "link": "https://www.fool.com/investing/2026/09/16/2-vanguard-index-funds-buy-beat-sp-500-wall-street/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:08:01 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Big Short’s Michael Burry Predicts a Possible 1987-Style Drop and is Betting Against AI Giants Nvidia and Palantir. Should You Follow?",
+    "desc": "Burry gained fame after predicting the subprime market crash.",
+    "link": "https://www.fool.com/investing/2026/09/16/the-big-short-s-michael-burry-predicts-a-possible-1987-style-drop-and-is-betting-against-ai-giants-nvidia-and-palantir-should-you-follow/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:30:01 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "70% Of Swedes With Non-European Background Supported The Left In Narrow National Election Victory",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">70% Of Swedes With Non-European Background Supported The Left In Narrow National Election Victory</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://rmx.news/article/swedens-left-narrowly-wins-national-elections-70-of-swedes-with-non-european-background-backed-the-left/\">Via Remix News</a>,</em></p> <p><strong>For years, the right across the West has noted that mass immigration has been a boon for left-wing parties, which are essentially importing a new voting base. Sweden's latest election appears to once again affirm this view</strong>, with the left narrowly winning the election, in large part due to their overwhelming support from those with a non-European background in Sweden.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Screenshot-2026-09-14-at-11.28.4.jpg?itok=IOW_LEAp\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Screenshot-2026-09-14-at-11.28.4.jpg?itok=IOW_LEAp\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"a8f86d77-f6d9-40b5-8227-92748ecd346f\" data-responsive-image-style=\"inline_images\" height=\"321\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Screenshot-2026-09-14-at-11.28.4.jpg?itok=IOW_LEAp\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Sweden's 2026 election produced one of the narrowest results in recent memory. <strong>With roughly 94.7 percent of votes counted, the center-left opposition holds 176 seats against 173 for the parties backing outgoing Prime Minister Ulf Kristersson.</strong></p> <p>The left-wing Social Democrats remain the largest party at 28 percent, enough to put Magdalena Andersson in position to try to form a government.</p> <p><strong>A striking pattern in SVT's VALU exit poll helps explain how the result took shape, with 70 percent of voters of non-European origin backing the left-wing bloc of Social Democrats, Left Party, Greens, and Center.</strong></p> <p>\"VALU shows a very clear political dividing line. Among voters with non-European backgrounds, S, V, MP, and C together receive 70 percent, while the Tidö parties receive 27. This is a voter group whose party sympathies differ sharply from the electorate as a whole - and which therefore has significance for the long-term electoral math,\" wrote Swedish political scientist and author Daniel Schatz on X.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"sv\" xml:lang=\"sv\" xml:lang=\"sv\">VALU visar en mycket tydlig politisk skiljelinje. Bland väljare med utomeuropeisk bakgrund får S, V, MP och C tillsammans 70 procent, medan Tidöpartierna får 27.<br /><br /> Det är en väljargrupp vars partisympatier skiljer sig kraftigt från väljarkåren som helhet – och som därför har… <a href=\"https://t.co/m6J7pz2ySV\">pic.twitter.com/m6J7pz2ySV</a></p> — Daniel Schatz (@drdanielschatz) <a href=\"https://x.com/drdanielschatz/status/2099227661696733462?ref_src=twsrc%5Etfw\">September 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>VALU defines the group as people who themselves, or whose parents, grew up outside Europe. <strong>Their votes broke down for the Left at 21 percent, Social Democrats at 38 percent, Greens at 7 percent, and Center at 4 percent.</strong></p> <p>Before the election, the leader of the right-wing Sweden Democrats, Jimmie Åkesson, also wrote that the left's strategy is to gain votes from Swedes with a foreign background even as they lose votes from native ethnic Swedes:</p> <p><em><strong>\"It's about power. The Social Democrats' decades-long campaign for increased immigration from the Muslim world has never been a coincidence. On the contrary, it seems to be a long-term strategy.</strong> The election promise from Magdalena Andersson to grant citizenship to up to 100,000 immigrants, based on the old and undemanding regulatory framework, should be seen in the same light,\" he wrote.</em></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"sv\" xml:lang=\"sv\" xml:lang=\"sv\">Det handlar om makt.<br /><br /> Socialdemokraternas mångåriga kamp för ökad invandring från den muslimska världen har aldrig varit en slump. Tvärtom tycks det vara en långsiktig strategi.<br /><br /> Vallöftet från Magdalena Andersson att ge uppåt 100 000 invandrare medborgarskap, utifrån det gamla… <a href=\"https://t.co/Tz2jrUfzVP\">pic.twitter.com/Tz2jrUfzVP</a></p> — Jimmie Åkesson (@jimmieakesson) <a href=\"https://x.com/jimmieakesson/status/2092610633153847572?ref_src=twsrc%5Etfw\">August 26, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><em><strong>\"When Swedish voters flee the party, you need votes from elsewhere, and mass immigration from the Muslim world then appears to be an attractive way to circumvent the will of the Swedish people,\"</strong></em> he added.</p> <p>In 2022, Swedes with a foreign backgroun already attracted around 68 percent of this electorate. Earlier surveys of Muslim voters had placed combined support for the Social Democrats, Left and Greens near 85 percent, with the Social Democrats alone above 61 percent. This slice of the electorate has expanded rapidly over the years.</p> <p><strong>About 13 percent of eligible voters, close to 1 million people, now have non-European origins, up from just over 3 percent in 2002 and 0.3 percent in 1982.</strong></p> <p>Many arrived from Muslim-majority countries in the Middle East, Africa and Asia through asylum, family reunification and earlier, more open immigration rules.</p> <p>Sweden does not record religion in official statistics, yet estimates indicate that Swedish citizens from Muslim-majority countries number in the hundreds of thousands. Together, with other voters of non-European background, they form a reliable base for the left even as much of the rest of the country has shifted toward tighter immigration and crime policies.</p> <p>Remix News reported on polling already six years ago <a href=\"https://rmx.news/article/majority-of-swedes-want-to-reduce-immigration-survey/\">which showed that a majority of Swedes wanted to tighten immigration substantially</a>. While the native ethnic Swedish population has swung to the right, foreigners have incentives to vote for the left to ensure their families and fellow countrymen can arrive in Sweden unimpeded. Foreigners are also more likely to benefit from social welfare, which left-wing parties promote.</p> <p><strong>The overwhelming vote for the left from those with a non-European background has been seen across the Western world.</strong> In Germany, for instance, the Left Party has proposed giving voting rights to all foreigners who have lived in Germany for five years, <a href=\"https://rmx.news/article/germany-left-party-wants-voting-rights-for-all-foreigners-who-have-lived-in-the-country-for-5-years/\">regardless of whether they have citizenship</a>. Similar proposals have been <a href=\"https://rmx.news/article/asylum-seekers-should-have-right-to-vote-after-only-6-month-stay-on-german-soil-says-far-left-interior-minister/\">put forward by other left-wing parties in the country</a>.</p> <p><em><a href=\"https://rmx.news/article/swedens-left-narrowly-wins-national-elections-70-of-swedes-with-non-european-background-backed-the-left/\">Read more here...</a></em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-16T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 05:00</span>",
+    "link": "https://www.zerohedge.com/geopolitical/70-swedes-non-european-background-supported-left-narrow-national-election-victory",
+    "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Kremlin Blasts Finland Joining French-Led Nuclear Deterrent Initiative: 'Real Risks'",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Kremlin Blasts Finland Joining French-Led Nuclear Deterrent Initiative: 'Real Risks'</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Russia's foreign ministry has issued key warnings to Western officials and nations on Tuesday. The ministry's spokesperson Maria Zakharova addressed recent provocative actions and signaling among NATO allies, which could lead to more nuclear saber-rattling. </p> <p>She<strong> weighed in on a widely reported French security initiative to bring European countries under its nuclear umbrella</strong> at a moment Washington is seen as taking a step back from NATO leadership amid Trump complaints Europe is not shouldering enough of the burden.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/finwargames.jpg?itok=Te5cOUFx\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/finwargames.jpg?itok=Te5cOUFx\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"66381104-551a-4365-99a2-aca961093b8b\" data-responsive-image-style=\"inline_images\" height=\"333\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/finwargames.jpg?itok=Te5cOUFx\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Finnish-led war games, Getty Images</em></figcaption></figure></picture></a> <p>Zakharova <a href=\"https://news.cgtn.com/news/2026-09-15/news-1QsTjPOS1vG/p.html\">blasted</a> Paris' pursuit of this alternative plan as<strong> a \"reckless\" policy that was \"creating risks\" for Moscow</strong>.</p> <p>\"Of course, this is creating risks for us. And of course, we must control it,\" she told a press briefing. This isn't the first such condemnation, after President Macron began getting more vocal about a French nuclear-sharing program throughout this summer.</p> <p>Zakharova new warning is largely in response to what's happening in neighboring Finland (Russia shares an over 800-long far northern border with the Scandinavian country).</p> <p><em>Stars & Stripes </em><a href=\"https://www.stripes.com/theaters/europe/2026-09-14/finland-france-nuclear-nato-22849137.html\">reports</a> \"<strong>Finland will join a French-led effort to strengthen Europe’s nuclear deterrent</strong>, adding another NATO member to a group of countries looking to Paris as a potential backstop to the U.S. nuclear umbrella.</p> <p>Finnish Defense Minister Antti Hakkanen unveiled the provocative move on Monday.<strong> \"Europe must assume a greater role both in conventional defense and in nuclear burden sharing</strong>.<strong>\"</strong> </p> <blockquote> <p>\"Discussions on reinforcing nuclear deterrence and strengthening the security of Europe are essential for Finland’s defense.\"</p> </blockquote> <p>Finland is the 10th country to join the French \"Forward Deterrence\" initiative, after it June it took the <strong>historic step of lifting a moratorium on stationing nuclear weapons on its territory</strong>.</p> <p>Earlier this year, Hakkanen alleged Russian militarization of the border: \"They are building new military facilities along our border, same as the Cold War. It would be wise to watch the Arctic and build Arctic capabilities\" for deterrence, the defense chief had claimed in February.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/finborder.jpg?itok=DeqRG2L1\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/finborder.jpg?itok=DeqRG2L1\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"87f32acd-d66d-4e7d-96e6-a657cc8c3913\" data-responsive-image-style=\"inline_images\" height=\"547\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/finborder.jpg?itok=DeqRG2L1\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>via BBC</em></figcaption></figure></picture></a> <p>The last thing the world needs at this moment of raging war in Iran and the Persian Gulf region is another round of nuclear saber-rattling related to that other raging hotspot - the Ukraine conflict, but that's precisely what is happening.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-16T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 04:15</span>",
+    "link": "https://www.zerohedge.com/geopolitical/kremlin-blasts-finland-joining-french-led-nuclear-deterrent-initiative-real-risks",
+    "pubDate": "Wed, 16 Sep 2026 08:15:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Opinion: iPhone 18 Pro Demand Is Already a Problem for Apple Stock",
+    "desc": "Key PointsPreorders for Apple's new iPhone 18 Pro and iPhone 18 Pro Max are \"lukewarm,\" according to an analyst.",
+    "link": "https://www.nasdaq.com/articles/opinion-iphone-18-pro-demand-already-problem-apple-stock",
+    "pubDate": "Wed, 16 Sep 2026 09:42:01 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Don't Buy Oklo Stock Until This Catalyst Hits",
+    "desc": "Key PointsOklo already has an impressive customer pipeline.",
+    "link": "https://www.nasdaq.com/articles/dont-buy-oklo-stock-until-catalyst-hits",
+    "pubDate": "Wed, 16 Sep 2026 09:35:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Prediction: Warren Buffett's Successor, Greg Abel, Will Dispose of One of Berkshire Hathaway's Largest Holdings",
+    "desc": "Key PointsWarren Buffett retired as CEO of Berkshire Hathaway on Dec. 31, passing the oversight of the company&rsquo;s $364 billion investment portfolio to Greg Abel.",
+    "link": "https://www.nasdaq.com/articles/prediction-warren-buffetts-successor-greg-abel-will-dispose-one-berkshire-hathaways",
+    "pubDate": "Wed, 16 Sep 2026 09:26:01 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "This Trump Administration Policy Could Be a Backdoor Social Security Cut",
+    "desc": "Key PointsSocial Security is facing serious financial trouble in the coming years.",
+    "link": "https://www.nasdaq.com/articles/trump-administration-policy-could-be-backdoor-social-security-cut",
+    "pubDate": "Wed, 16 Sep 2026 09:23:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Jensen Huang Doesn't Appear Sold on Cybersecurity Stocks",
+    "desc": "Key PointsNvidia CEO Jensen Huang believes cybersecurity and some AI companies have an incentive to scare the public about AI-related fears.",
+    "link": "https://www.nasdaq.com/articles/why-jensen-huang-doesnt-appear-sold-cybersecurity-stocks",
+    "pubDate": "Wed, 16 Sep 2026 09:20:01 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Bond Investors Are on Edge. Here's Why Stock Investors Should Pay Attention.",
+    "desc": "Key PointsRising yields can damage both economic growth and corporate profits.",
+    "link": "https://www.nasdaq.com/articles/bond-investors-are-edge-heres-why-stock-investors-should-pay-attention",
+    "pubDate": "Wed, 16 Sep 2026 09:13:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Fed Could Be About to Raise Rates for the First Time Since 2023. Here's What History Says Happens to Stocks Next.",
+    "desc": "Key PointsThe S&amp;P 500 typically declines during the first three months of a new rate-hike cycle.",
+    "link": "https://www.nasdaq.com/articles/fed-could-be-about-raise-rates-first-time-2023-heres-what-history-says-happens-stocks-next",
+    "pubDate": "Wed, 16 Sep 2026 09:04:01 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Shares Hold Steady Ahead Of Fed Decision",
+    "desc": "(RTTNews) - European stocks held steady on Wednesday as the recent rally in crude oil prices paused, and bond yields eased from recent highs ahead of the Federal Reserve's interest-rate decision later in the day.",
+    "link": "https://www.nasdaq.com/articles/european-shares-hold-steady-ahead-fed-decision",
+    "pubDate": "Wed, 16 Sep 2026 08:59:31 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Lessons Learned From SpaceX for Anthropic IPO Investors This October",
+    "desc": "Key PointsSpaceX's market debut showed the difference between buying true IPO shares and only buying opening-day shares.",
+    "link": "https://www.nasdaq.com/articles/3-lessons-learned-spacex-anthropic-ipo-investors-october",
+    "pubDate": "Wed, 16 Sep 2026 08:55:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Satya Nadella Declared a \"New Paradigm\" for Agentic AI at Microsoft's Build Conference in 2026. Here's How That Vision Is Showing Up in Azure's Growth.",
+    "desc": "Key PointsGrowing use of agentic AI is driving growth in cloud consumption, contributing to Azure's 43% revenue growth last quarter.",
+    "link": "https://www.nasdaq.com/articles/satya-nadella-declared-new-paradigm-agentic-ai-microsofts-build-conference-2026-heres-how",
+    "pubDate": "Wed, 16 Sep 2026 08:50:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "fortune",
+    "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion",
+    "desc": "Everything you need to know before you reach the office this morning.",
+    "link": "https://fortune.com/2026/09/16/openai-ipo-sam-altman-vc-funding-valuation-1-2-trillion/",
+    "pubDate": "Wed, 16 Sep 2026 09:28:35 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The Gulf’s female startup ecosystem is flourishing. So, where’s the funding?",
+    "desc": "In this week’s Fortune Gulf Brief.",
+    "link": "https://fortune.com/2026/09/16/the-gulf-female-startup-ecosystem-is-flourishing-so-wheres-the-funding/",
+    "pubDate": "Wed, 16 Sep 2026 09:48:31 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "fortune",
+    "title": "CEOs are still betting on the leadership trait AI can&#8217;t replace",
+    "desc": "Also: All the news and watercooler chat from Fortune.",
+    "link": "https://fortune.com/2026/09/16/ceos-leadership-trait-ai-cant-replace/",
+    "pubDate": "Wed, 16 Sep 2026 09:44:04 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "fortune",
+    "title": "I’ve visited school districts from Tennessee to NYC. American kids are not ready for the AI revolution",
+    "desc": "Banning AI in schools drives students to use it unsupervised, widening the skills gap schools should help close.",
+    "link": "https://fortune.com/2026/09/16/schools-cant-block-their-way-out-of-the-ai-era/",
+    "pubDate": "Wed, 16 Sep 2026 09:30:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘The U.K. has a competitiveness deficit in its energy costs—that’s a real call to action,’ says EDF U.K. chair",
+    "desc": "Rising energy prices and a restrictive regulatory environment are hampering the U.K.’s ability to grow, according to Alex Chisholm.",
+    "link": "https://fortune.com/2026/09/16/uk-competitiveness-deficit-energy-costs-real-call-to-action-edf-chair/",
+    "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The Middle East’s female founders are on the rise. Why isn’t the funding following?",
+    "desc": "While progress has been made to address a lack of funding for MENA female-founded startups, structural hurdles in how capital is sourced and distributed still need to be overcome.",
+    "link": "https://fortune.com/2026/09/16/the-middle-easts-female-founders-are-on-the-rise-why-isnt-the-funding-following/",
+    "pubDate": "Wed, 16 Sep 2026 08:55:47 +0000",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Citi cuts RV sector estimates as industry faces ongoing weakness",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/citi-cuts-rv-sector-estimates-as-industry-faces-ongoing-weakness-93CH-4903205",
+    "pubDate": "2026-09-16 09:22:49",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Citi sees oil prices supported by geopolitical risks and demand",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/citi-sees-oil-prices-supported-by-geopolitical-risks-and-demand-93CH-4903204",
+    "pubDate": "2026-09-16 09:22:00",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Keybanc data shows self storage spending growth slowed in August",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/keybanc-data-shows-self-storage-spending-growth-slowed-in-august-93CH-4903188",
+    "pubDate": "2026-09-16 09:18:23",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "TISCO upgrades Thai electronic components sector to Overweight",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tisco-upgrades-thai-electronic-components-sector-to-overweight-4903177",
+    "pubDate": "2026-09-16 09:10:42",
+    "fetchedAt": "2026-09-16T10:01:35.219Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
     "desc": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
     "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
@@ -5998,405 +6398,5 @@
     "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-soxl-mpwr-nxpi-ter",
     "pubDate": "Tue, 15 Sep 2026 14:48:32 +0000",
     "fetchedAt": "2026-09-15T15:02:07.877Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "MDY, ILMN, FTI, P: Large Inflows Detected at ETF",
-    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR S&amp;P MIDCAP 400 ETF Trust (Symbol: MDY) where we have detected an approximate $201.8 million dollar inflow -- that's a 0.8% incr",
-    "link": "https://www.nasdaq.com/articles/mdy-ilmn-fti-p-large-inflows-detected-etf",
-    "pubDate": "Tue, 15 Sep 2026 14:48:30 +0000",
-    "fetchedAt": "2026-09-15T15:02:07.877Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "IYR, PLD, EQIX, SPG: Large Outflows Detected at ETF",
-    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares US Real Estate ETF (Symbol: IYR) where we have detected an approximate $150.4 million dollar outflow -- that's a 3.5% decrease week over wee",
-    "link": "https://www.nasdaq.com/articles/iyr-pld-eqix-spg-large-outflows-detected-etf",
-    "pubDate": "Tue, 15 Sep 2026 14:48:11 +0000",
-    "fetchedAt": "2026-09-15T15:02:07.877Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dimensional US Core Equity 2 ETF Experiences Big Inflow",
-    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Dimensional US Core Equity 2 ETF (Symbol: DFAC) where we have detected an approximate $215.8 million dollar inflow -- that's a 0.4% increase week ove",
-    "link": "https://www.nasdaq.com/articles/dimensional-us-core-equity-2-etf-experiences-big-inflow",
-    "pubDate": "Tue, 15 Sep 2026 14:48:07 +0000",
-    "fetchedAt": "2026-09-15T15:02:07.877Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "KraneShares Artificial Intelligence and Technology ETF Experiences Big Inflow",
-    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the KraneShares Artificial Intelligence and Technology ETF (Symbol: AGIX) where we have detected an approximate $233.2 million dollar inflow -- that's a",
-    "link": "https://www.nasdaq.com/articles/kraneshares-artificial-intelligence-and-technology-etf-experiences-big-inflow",
-    "pubDate": "Tue, 15 Sep 2026 14:48:05 +0000",
-    "fetchedAt": "2026-09-15T15:02:07.877Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
-    "desc": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
-    "link": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-    "pubDate": "Tue, 15 Sep 2026 14:01:22 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-    "desc": "President Trump blasted his three Supreme Court appointees for blocking a Postal Service rule that would have allowed mail-in ballots in November's elections.",
-    "link": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
-    "pubDate": "Tue, 15 Sep 2026 13:59:25 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-    "desc": "AI pioneers and 'godfathers' have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
-    "link": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
-    "pubDate": "Tue, 15 Sep 2026 13:24:21 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Fed up with AI interviews, some job seekers are dropping out as candidates and blacklisting companies from consideration",
-    "desc": "AI-driven job interviews, without a human present, are a dealbreaker for some job candidates, even in this tough market.",
-    "link": "https://www.cnbc.com/2026/09/15/job-seekers-refusing-ai-interviews-blacklisting-employers.html",
-    "pubDate": "Tue, 15 Sep 2026 13:54:09 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-    "desc": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
-    "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-    "pubDate": "Mon, 14 Sep 2026 20:34:23 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-    "desc": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
-    "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-    "pubDate": "Mon, 14 Sep 2026 20:49:03 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Oil prices rise as market awaits updates on Saudi pipeline outage",
-    "desc": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week.",
-    "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-    "pubDate": "Tue, 15 Sep 2026 14:00:43 GMT",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The Biggest Social Security Mistakes Retirees Make in Their First Year",
-    "desc": "Key PointsSocial Security benefits are an important source of income but the rules can be confusing.",
-    "link": "https://www.nasdaq.com/articles/biggest-social-security-mistakes-retirees-make-their-first-year",
-    "pubDate": "Tue, 15 Sep 2026 13:20:00 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Executive at Iconic Energy Company Sells Nearly 4,000 Shares",
-    "desc": "Key PointsThe transaction involved 3,860 shares with an estimated value of ~$246,000 on the September 3, 2026 transaction date.",
-    "link": "https://www.nasdaq.com/articles/executive-iconic-energy-company-sells-nearly-4000-shares",
-    "pubDate": "Tue, 15 Sep 2026 13:19:01 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Advance Auto Parts vs. NIO: Which Consumer Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsAdvance Auto Parts is executing a major restructuring plan to streamline its supply chain and improve net margin.",
-    "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-nio-which-consumer-stock-better-buy-2026",
-    "pubDate": "Tue, 15 Sep 2026 13:11:21 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Otis CEO Judy Marks To Retire In 2027",
-    "desc": "(RTTNews) - Elevator maker Otis Worldwide Corp. (OTIS), announced on Tuesday that Chief Executive Officer Judy Marks will retire upon the appointment of her successor, which is expected in the first half of 2027, and the board has begun a search.",
-    "link": "https://www.nasdaq.com/articles/otis-ceo-judy-marks-retire-2027",
-    "pubDate": "Tue, 15 Sep 2026 13:11:10 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Novo Nordisk vs. Regeneron Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsNovo Nordisk continues to dominate the global diabetes and obesity care markets with its portfolio of blockbuster GLP-1 therapies.",
-    "link": "https://www.nasdaq.com/articles/novo-nordisk-vs-regeneron-pharmaceuticals-which-healthcare-stock-better-buy-2026",
-    "pubDate": "Tue, 15 Sep 2026 13:09:27 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Advance Auto Parts vs. Rocket Lab: Which Consumer Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsAdvance Auto Parts is focusing on its professional installer segment and a broad retail restructuring to improve its net margin.",
-    "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-rocket-lab-which-consumer-stock-better-buy-2026",
-    "pubDate": "Tue, 15 Sep 2026 13:06:01 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "On Holding's 2026 Outlook: DTC Channel Strategy Drives Higher Profit Margins",
-    "desc": "Key PointsOn Holding continues to aggressively capture market share through premium positioning and proprietary technology.",
-    "link": "https://www.nasdaq.com/articles/holdings-2026-outlook-dtc-channel-strategy-drives-higher-profit-margins",
-    "pubDate": "Tue, 15 Sep 2026 13:00:01 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cabot Appoints Steve Delahunt As Interim CFO",
-    "desc": "(RTTNews) - Tuesday, Cabot Corp. (CBT) announced the appointment of Steve Delahunt, Vice President and Corporate Treasurer, as interim Chief Financial Officer, effective October 1, 2026.",
-    "link": "https://www.nasdaq.com/articles/cabot-appoints-steve-delahunt-interim-cfo",
-    "pubDate": "Tue, 15 Sep 2026 12:58:28 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Algorhythm Replaces CEO Amid Strategic Repositioning",
-    "desc": "(RTTNews) - AI technology company Algorhythm Holdings, Inc. (RIME), announced on Tuesday that it has dismissed Gary Atkinson as Chief Executive Officer as part of a leadership transition tied to a corporate transaction and strategic repositioning.",
-    "link": "https://www.nasdaq.com/articles/algorhythm-replaces-ceo-amid-strategic-repositioning",
-    "pubDate": "Tue, 15 Sep 2026 12:56:05 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Vera Bradley Reports Q2 Net Profit As Expenses Drop, Revenue Improves; Stock Up Over 19%",
-    "desc": "(RTTNews) - Vera Bradley, Inc. (VRA), a maker of fashion accessories for women, on Tuesday posted a net income for the second quarter of fiscal 2027, helped by decreased expenses and improved revenue.",
-    "link": "https://www.nasdaq.com/articles/vera-bradley-reports-q2-net-profit-expenses-drop-revenue-improves-stock-over-19",
-    "pubDate": "Tue, 15 Sep 2026 12:54:03 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "U.S. Stocks May See Initial Weakness As Ten-Year Yield Hits 19-Year High",
-    "desc": "(RTTNews) - Stocks may move to the downside in early trading on Tuesday, adding to the losses posted in the previous session. The major index futures are currently pointing to a slightly lower open for the markets, with the S&P 500 futures down by 0.1 percent.",
-    "link": "https://www.nasdaq.com/articles/us-stocks-may-see-initial-weakness-ten-year-yield-hits-19-year-high",
-    "pubDate": "Tue, 15 Sep 2026 12:53:54 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "LB Pharmaceuticals Appoints Susan Kozauer As CMO",
-    "desc": "(RTTNews) - LB Pharmaceuticals Inc. (LBRX), a neuromedicines company, on Tuesday appointed Susan Kozauer as Chief Medical Officer.",
-    "link": "https://www.nasdaq.com/articles/lb-pharmaceuticals-appoints-susan-kozauer-cmo",
-    "pubDate": "Tue, 15 Sep 2026 12:53:48 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "GM Launches Next-Gen User Interface On 2027 Silverado And Sierra Light-duty Pickup Trucks",
-    "desc": "(RTTNews) - General Motors Co. (GM) announced Tuesday the launch of a new user interface designed to bring state-of-the-art graphics, intuitive layouts, and deeply integrated intelligence directly to the cabin.",
-    "link": "https://www.nasdaq.com/articles/gm-launches-next-gen-user-interface-2027-silverado-and-sierra-light-duty-pickup-trucks",
-    "pubDate": "Tue, 15 Sep 2026 12:50:03 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Legend Biotech Appoints Ingrid Zhang As CEO",
-    "desc": "(RTTNews) - Legend Biotech Corp. (LEGN), a cell therapy company, on Tuesday appointed Ingrid Zhang as Chief Executive Officer, effective September 15.",
-    "link": "https://www.nasdaq.com/articles/legend-biotech-appoints-ingrid-zhang-ceo",
-    "pubDate": "Tue, 15 Sep 2026 12:38:56 +0000",
-    "fetchedAt": "2026-09-15T14:01:47.112Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Santoli: The youthful phase of AI is over. What it means for investors",
-    "desc": "The AI narrative has flipped to a focus on the risk with the tech unpopular with the public and projections of order backlogs beyond a few quarters now suspect.",
-    "link": "https://www.cnbc.com/2026/09/15/santoli-the-youthful-phase-of-ai-is-over-what-it-means-for-investors.html",
-    "pubDate": "Tue, 15 Sep 2026 12:33:08 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Private sector is 'the right place' to solve AI threats, White House's Hassett says",
-    "desc": "President Donald Trump's AI-friendly administration argues U.S. dominance over China in the fast-expanding industry is essential.",
-    "link": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
-    "pubDate": "Tue, 15 Sep 2026 12:46:38 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO",
-    "desc": "Digital Realty and Equinix, two of the largest data center REITs, saw their stocks slump after warnings over AI advancements.",
-    "link": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
-    "pubDate": "Tue, 15 Sep 2026 12:28:15 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Iceland to open first store in the Falklands",
-    "desc": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 12 Sep 2026 20:50:54 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-    "desc": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-    "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 12 Sep 2026 20:37:29 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "US prices remain high as fuel costs squeeze household budgets",
-    "desc": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
-    "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 14:22:42 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-    "desc": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
-    "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 15:37:25 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "AI boom helps drive surprise UK growth in July",
-    "desc": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 10:17:28 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Alstom to build new battery-electric train fleet",
-    "desc": "The government says the work will support thousands of jobs across the UK.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 11 Sep 2026 14:43:33 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-    "desc": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-    "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 13:34:17 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Can Europe recharge its battery industry?",
-    "desc": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "I asked my husband to pay into my pension when we had a child - here's why",
-    "desc": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-    "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 23:04:30 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why some experts increasingly fear AI will take over",
-    "desc": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-    "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 09 Sep 2026 23:17:33 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Should promotion depend on how workers use AI?",
-    "desc": "More companies are tying career progression to AI use: is that fair?",
-    "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:05:23 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-    "desc": "The Balkan nation is aiming to become a new centre for medical tourism.",
-    "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 08 Sep 2026 09:00:28 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "From 'dog fruit' to darling: India's avocado boom",
-    "desc": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-    "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 04 Sep 2026 05:09:02 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-    "desc": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 04 Sep 2026 07:19:06 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why wait? Business grads buying firms to install themselves as CEO",
-    "desc": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 02 Sep 2026 23:13:44 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-    "desc": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-    "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 05 Sep 2026 23:20:00 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "When a Dragon gives you a helping hand",
-    "desc": "When a Dragon gives you a helping hand",
-    "link": "https://www.bbc.co.uk/news/videos/c9qrnj5081jo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 15:40:46 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Primark introduces home delivery",
-    "desc": "Primark has said it plans to launch a home delivery service in Britain, four years after it made its first foray into e-commerce.",
-    "link": "https://www.bbc.co.uk/news/videos/cn0jr4zndrro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 14:07:54 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-    "desc": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
-    "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 06 Sep 2026 06:04:51 GMT",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: IDH posts strong H1 2026 growth as stock slips",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-idh-posts-strong-h1-2026-growth-as-stock-slips-93CH-4901749",
-    "pubDate": "2026-09-15 12:54:35",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "investing",
-    "title": "FTSE 100 today: Stocks fall on weak jobs data, U.S.-Iran rift lifts oil",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-oil-surges-ai-safety-rift-adds-to-unease-4900889",
-    "pubDate": "2026-09-15 12:54:29",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
-  },
-  {
-    "source": "investing",
-    "title": "Etsy stock rises after Oppenheimer upgrade to Outperform",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/etsy-stock-rises-after-oppenheimer-upgrade-to-outperform-93CH-4901748",
-    "pubDate": "2026-09-15 12:52:42",
-    "fetchedAt": "2026-09-15T13:01:37.962Z"
   }
 ]
