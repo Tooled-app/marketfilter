@@ -1,5 +1,349 @@
 [
   {
+    "source": "cnbc",
+    "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+    "desc": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+    "link": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+    "pubDate": "Tue, 15 Sep 2026 22:06:16 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
+    "desc": "Companies are helping universities develop courses, provide financial support and create pathways through which qualifying students can join them.",
+    "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+    "pubDate": "Tue, 15 Sep 2026 23:52:04 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "ft",
+    "title": "OpenAI weighs funding round at $1.2tn valuation before IPO",
+    "desc": "Sam Altman’s start-up could capitalise on demand for its technology after new model launches",
+    "link": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 21:54:39 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "ft",
+    "title": "US manufacturers hit by fresh burst of supply chain cost inflation",
+    "desc": "Donald Trump’s war in Iran and tariffs push up input prices while AI boom squeezes availability of some components",
+    "link": "https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 15:26:00 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "ft",
+    "title": "Jensen Huang says battle over AI innovation and safety is ‘false choice’",
+    "desc": "Nvidia chief has distanced himself from OpenAI, Anthropic and SpaceX’s efforts to slow research",
+    "link": "https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 20:55:21 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "ft",
+    "title": "US House panel votes to hold Leon Black in contempt over Epstein subpoena",
+    "desc": "Committee unanimously passes resolution, advancing the measure to the full chamber",
+    "link": "https://www.ft.com/content/5dd27cf5-61e1-4bb1-bb02-5fd14b82cd35?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 21:54:02 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "ft",
+    "title": "Landmark US crypto bill fails as Senate splits over Trump ethics concerns",
+    "desc": "Defeat is a massive setback to an industry that has spent record sums lobbying for a favourable market structure",
+    "link": "https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 21:31:07 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "ft",
+    "title": "Bessent to meet He Lifeng in New York ahead of Trump-Xi summit",
+    "desc": "US Treasury secretary and Chinese vice-premier to hold talks as one-year expiry in trade war truce nears",
+    "link": "https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1",
+    "pubDate": "Tue, 15 Sep 2026 22:32:47 GMT",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "U.S. crude oil tops $105 as Saudi Arabia said to cancel some European cargoes",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643207-us-crude-oil-tops-105-as-saudi-arabia-said-to-cancel-some-european-cargoes?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 19:45:20 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Enbridge reopens Line 5 after August spill; launches open season for proposed Texas pipeline",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643205-enbridge-reopens-line-5-after-august-spill-launches-open-season-for-proposed-texas-pipeline?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 18:42:20 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Forgent projects $2.4B-$2.6B fiscal 2027 revenue as it expands Powertrain Solutions capacity in Tijuana",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643206-forgent-projects-2_4b-2_6b-fiscal-2027-revenue-as-it-expands-powertrain-solutions-capacity-in?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 18:32:31 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "U.S. crude stockpiles rose 7.1M barrels last week, API says",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643199-u-s-crude-stockpiles-rose-7_1m-barrels-last-week-api-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 18:05:02 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Trip.com Non-GAAP EPADS of $1.07 beats by $0.22, revenue of $2.3B misses by $20M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643203-tripcom-non-gaap-epads-of-107-beats-by-022-revenue-of-23b-misses-by-20m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 18:02:46 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Rock Tech Lithium upsizes private placement to C$6M with strategic backing",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643202-rock-tech-lithium-upsizes-private-placement-to-c6m-with-strategic-backing?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 18:01:21 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Lenovo inks MOU with MemryX to expand sovereign edge AI in Saudi Arabia",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643200-lenovo-inks-mou-with-memryx-to-expand-sovereign-edge-ai-in-saudi-arabia?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 15 Sep 2026 17:50:10 -0400",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures Rise; ServiceNow, Twilio Lead New Buys As Fed Hike Looms",
+    "desc": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision.",
+    "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise%3B.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 23:40:22 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "T. Rowe Price (TROW) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "T. Rowe Price (TROW) concluded the recent trading session at $104.23, signifying a -1.48% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221505965.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VirTra, Inc. (VTSI) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "desc": "VirTra, Inc. (VTSI) closed at $2.9 in the latest trading session, marking a -1.02% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Rithm (RITM) Dips More Than Broader Market: What You Should Know",
+    "desc": "Rithm (RITM) closed at $9.57 in the latest trading session, marking a -2.05% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-dips-more-broader-221504129.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Oneok Inc. (OKE) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "desc": "Oneok Inc. (OKE) concluded the recent trading session at $94.72, signifying a -2.32% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-sees-more-221504085.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Clearway Energy (CWEN) Dips More Than Broader Market: What You Should Know",
+    "desc": "Clearway Energy (CWEN) reached $29.93 at the closing of the latest trading day, reflecting a -1.19% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-dips-more-221504280.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Doximity (DOCS) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "desc": "Doximity (DOCS) closed at $25.81 in the latest trading session, marking a -2.2% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/doximity-docs-registers-bigger-fall-221503991.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "M/I Homes (MHO) Gains As Market Dips: What You Should Know",
+    "desc": "M/I Homes (MHO) closed at $142.33 in the latest trading session, marking a +1.22% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/m-homes-mho-gains-market-221503931.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Pagaya Technologies Ltd. (PGY) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "desc": "Pagaya Technologies Ltd. (PGY) closed at $21.03 in the latest trading session, marking a -2.16% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-falls-221503111.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Diamondback Energy (FANG) Gains As Market Dips: What You Should Know",
+    "desc": "Diamondback Energy (FANG) reached $211.53 at the closing of the latest trading day, reflecting a +2.82% change compared to its last close.",
+    "link": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-gains-market-221503273.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "In the most recent trading session, Ouster, Inc. (OUST) closed at $32.79, indicating a -2% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-suffers-larger-221502788.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Growth Are You Paying For In Zscaler Stock?",
+    "desc": "Zscaler (ZS) has gained 48% in three months, yet trades about 43% below its 52-week high. Near $190 it costs 9.3 times sales, against 3.2 for the S&P 500. The question is which growth that price buys: the 25% reported for fiscal 2026, or the roughly 17% guided for fiscal 2027.",
+    "link": "https://www.trefis.com/articles/615398/what-growth-are-you-paying-for-in-zscaler-stock/2026-09-15?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:20:07 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Rocket Lab Corporation (RKLB) Advances While Market Declines: Some Information for Investors",
+    "desc": "Rocket Lab Corporation (RKLB) closed at $63.55 in the latest trading session, marking a +1.6% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-advances-221505764.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Shell (SHEL) Ascends While Market Falls: Some Facts to Note",
+    "desc": "The latest trading day saw Shell (SHEL) settling at $98.95, representing a +2.59% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/shell-shel-ascends-while-market-221504791.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Phillips 66 (PSX) Rises As Market Takes a Dip: Key Facts",
+    "desc": "The latest trading day saw Phillips 66 (PSX) settling at $264.34, representing a +2.83% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-rises-market-221504218.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Freshpet (FRPT) Declines More Than Market: Some Information for Investors",
+    "desc": "The latest trading day saw Freshpet (FRPT) settling at $62.68, representing a -1.71% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/freshpet-frpt-declines-more-market-221503249.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Honeywell International Inc. (HON) Gains As Market Dips: What You Should Know",
+    "desc": "The latest trading day saw Honeywell International Inc. (HON) settling at $203.44, representing a +1.02% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-gains-221502946.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Booz Allen Hamilton (BAH) Increases Despite Market Slip: Here's What You Need to Know",
+    "desc": "Booz Allen Hamilton (BAH) closed the most recent trading day at $80.06, moving +1.2% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/booz-allen-hamilton-bah-increases-221502912.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Cenovus Energy (CVE) Gains As Market Dips: What You Should Know",
+    "desc": "The latest trading day saw Cenovus Energy (CVE) settling at $33.92, representing a +1.95% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cenovus-energy-cve-gains-market-221502291.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VanEck Pharmaceutical ETF vs VanEck Biotech ETF: Which Fund Is Better for Drug Innovation Profits?",
+    "desc": "PPH offers higher income and lower volatility, while BBH delivers stronger growth but with deeper drawdowns.",
+    "link": "https://www.fool.com/coverage/etfs/2026/09/15/vaneck-pharmaceutical-etf-vs-vaneck-biotech-etf-which-fund-is-better-for-drug-innovation-profits/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 23:04:01 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Circle Internet Group Stock Was Crushed Today",
+    "desc": "Key PointsThe Clarity Act isn't quite dead yet, but it sure isn't looking very healthy.",
+    "link": "https://www.nasdaq.com/articles/why-circle-internet-group-stock-was-crushed-today",
+    "pubDate": "Tue, 15 Sep 2026 23:53:07 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is Bank of America Stock a Buy, Sell, or Hold After a 25% Run Off Its 52-Week Low?",
+    "desc": "Key PointsBank of American is one of the world's largest financial institutions.",
+    "link": "https://www.nasdaq.com/articles/bank-america-stock-buy-sell-or-hold-after-25-run-its-52-week-low",
+    "pubDate": "Tue, 15 Sep 2026 23:35:00 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Japan Stock Market May Open Under Water On Wednesday",
+    "desc": "(RTTNews) - The Japanese stock market has finished lower in three straight sessions, shedding more than 1,780 points or 3 percent along the way. The Nikkei 225 now sits just shy of the 63,500-point plateau and it may take further damage again on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/japan-stock-market-may-open-under-water-wednesday",
+    "pubDate": "Tue, 15 Sep 2026 23:33:12 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Intuitive Machines vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsIntuitive Machines provides critical lunar infrastructure and recently expanded its reach through strategic acquisitions.",
+    "link": "https://www.nasdaq.com/articles/intuitive-machines-vs-vertiv-which-industrials-stock-better-buy-2026",
+    "pubDate": "Tue, 15 Sep 2026 23:32:01 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "KOSPI May Test Support At 6,600 Points",
+    "desc": "(RTTNews) - The South Korea stock market has tracked lower in four straight sessions, tumbling more than 420 points or 5.9 percent in that span. The KOSPI now sits just above the 6,625-point plateau and it may extend its losses again on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/kospi-may-test-support-6600-points",
+    "pubDate": "Tue, 15 Sep 2026 23:03:12 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Calls for Slower AI Development Have Created a Compelling Dip for AI Stocks",
+    "desc": "Key PointsThere is nothing altruistic about the calls to slow down AI development. The three companies making a stink about it are unprofitable and risk going deeper into debt or diluting shareholders.",
+    "link": "https://www.nasdaq.com/articles/calls-slower-ai-development-have-created-compelling-dip-ai-stocks",
+    "pubDate": "Tue, 15 Sep 2026 22:59:00 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Berkshire Hathaway's Class A Shares Cost About $766,000. Here's Why the Class B Shares Exist.",
+    "desc": "Key PointsWarren Buffett issued Class B shares when Class A shares became too expensive for the average investor.",
+    "link": "https://www.nasdaq.com/articles/berkshire-hathaways-class-shares-cost-about-766000-heres-why-class-b-shares-exist",
+    "pubDate": "Tue, 15 Sep 2026 22:50:00 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Alibaba vs. Uber Technologies: Which Consumer Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsAlibaba remains a global leader in e-commerce and cloud computing with a massive logistics ecosystem.",
+    "link": "https://www.nasdaq.com/articles/alibaba-vs-uber-technologies-which-consumer-stock-better-buy-2026",
+    "pubDate": "Tue, 15 Sep 2026 22:34:01 +0000",
+    "fetchedAt": "2026-09-16T00:01:39.955Z"
+  },
+  {
     "source": "nasdaq",
     "title": "Where Tesla's Robotaxi Rollout Stands Today and What Investors Should Know",
     "desc": "Key PointsTesla held a Cybercab event at the beginning of the month and launched official ride services in Austin, Texas.",
@@ -6054,349 +6398,5 @@
     "link": "https://fortune.com/2026/09/15/american-dream-wealth-everywhere-millionaire-book-wealth-inequality-tax-policy/",
     "pubDate": "Tue, 15 Sep 2026 07:00:00 +0000",
     "fetchedAt": "2026-09-15T08:01:32.788Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Kier stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-kier-stock-rallying-today-93CH-4900907",
-    "pubDate": "2026-09-15 07:33:17",
-    "fetchedAt": "2026-09-15T08:01:32.788Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Wickes stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-wickes-stock-surging-today-93CH-4900906",
-    "pubDate": "2026-09-15 07:32:45",
-    "fetchedAt": "2026-09-15T08:01:32.788Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Picked by our AI, this AI-tech play is up +94% already and still has a +52% upside",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/picked-by-our-ai-this-aitech-play-is-up-94-already-and-still-has-a-52-upside-4900895",
-    "pubDate": "2026-09-15 07:24:59",
-    "fetchedAt": "2026-09-15T08:01:32.788Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "BHP Port Hedland workers to seek arbitration over wage deal dispute",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/combined-bhp-ports-unions-to-seek-arbitration-over-wage-deal-dispute-4900787",
-    "pubDate": "2026-09-15 07:24:29",
-    "fetchedAt": "2026-09-15T08:01:32.788Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-    "desc": "The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.",
-    "link": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-    "pubDate": "Tue, 15 Sep 2026 06:31:10 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Car ownership costs an average of $5,851 a year on top of auto loan payments, analysis finds",
-    "desc": "The cost of insurance, gas, and maintenance or repairs can add thousands of dollars a year to the price of owning a car.",
-    "link": "https://www.cnbc.com/2026/09/14/car-ownership-costs-insurance-gas-maintenance-auto-loan-payments.html",
-    "pubDate": "Mon, 14 Sep 2026 12:15:01 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "bbc",
-    "title": "State pension likely to rise by £488 a year in April",
-    "desc": "The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.",
-    "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 15 Sep 2026 07:01:23 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "UBS to liquidate two ETFs citing profitability concerns",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/ubs-to-liquidate-two-etfs-citing-profitability-concerns-93CH-4900859",
-    "pubDate": "2026-09-15 06:44:41",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "GSK acquires T cell-engager for multiple myeloma treatment",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/gsk-acquires-t-cellengager-for-multiple-myeloma-treatment-93CH-4900858",
-    "pubDate": "2026-09-15 06:41:12",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "Imaging Biometrics secures U.S. healthcare system contract",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/imaging-biometrics-secures-us-healthcare-system-contract-93CH-4900857",
-    "pubDate": "2026-09-15 06:37:55",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "UK jobs market stays soft before BoE rate call",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
-    "pubDate": "2026-09-15 06:36:48",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall-4900684",
-    "pubDate": "2026-09-15 06:36:29",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "Sylvania Platinum launches $1.5m share buyback program",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/sylvania-platinum-launches-15m-share-buyback-program-93CH-4900856",
-    "pubDate": "2026-09-15 06:34:50",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "Thalia Therapeutics advances RNA therapy programs",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/thalia-therapeutics-advances-rna-therapy-programs-93CH-4900854",
-    "pubDate": "2026-09-15 06:31:16",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "SkySail Strategies Outperforms Wall Street’s 30-Year Risk Standard With Proprietary AI Inference Model",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/skysail-strategies-outperforms-wall-streets-30year-risk-standard-with-proprietary-ai-inference-model-4900852",
-    "pubDate": "2026-09-15 06:30:46",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.88%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-088-4900851",
-    "pubDate": "2026-09-15 06:30:04",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMO upgrades Enbridge stock rating on quality, growth visibility",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bmo-upgrades-enbridge-stock-rating-on-quality-growth-visibility-93CH-4900850",
-    "pubDate": "2026-09-15 06:28:53",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK pay growth slows to 3.9% before crunch interest rates decision",
-    "desc": "<p>Figure likely to dictate rise in state pension triple lock, as workers face inflation squeeze fuelled by oil price rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates\">Business live – latest updates</a></p></li></ul><p>Wage growth in the UK slowed in July as workers came under pressure from a renewed cost of living squeeze fuelled by the Iran war, highlighting the challenge for the Bank of England as it prepares to set interest rates.</p><p>Figures from the <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026?utm_source=twitter&amp;utm_medium=social&amp;utm_term=&amp;utm_content=&amp;utm_campaign=e2d856af-1421-49f9-ab71-869aa5fce5ec\">Office for National Statistics</a> (ONS) show average growth in total earnings, including bonuses, eased to 3.9% in the three months to July, down from 4.1% in the three months to June, matching the forecasts of City economists.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
-    "pubDate": "Tue, 15 Sep 2026 06:31:20 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "ft",
-    "title": "Iran’s allies squeeze Saudi Arabia ‘on all fronts’",
-    "desc": "Two-pronged assault by Houthi rebels and Iraqi militants has spawned what may be biggest test for Prince Mohammed since backlash against Jamal Khashoggi’s murder",
-    "link": "https://www.ft.com/content/a143e08d-e979-410a-8e81-160fd4eba367?syn-25a6b1a6=1",
-    "pubDate": "Tue, 15 Sep 2026 04:00:28 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "ft",
-    "title": "Ten-year Treasury yield hits highest since 2007",
-    "desc": "Benchmark 10-year hits 5.02% as investors continue to sell government debt in expectations of Fed rate increase",
-    "link": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
-    "pubDate": "Tue, 15 Sep 2026 06:31:04 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "ft",
-    "title": "Vladimir Putin moves summit over Ukrainian drone threat",
-    "desc": "Russian president has avoided Black Sea coast for nearly a year",
-    "link": "https://www.ft.com/content/ebca8754-9546-4668-85dd-a0d793c54d3c?syn-25a6b1a6=1",
-    "pubDate": "Tue, 15 Sep 2026 04:00:28 GMT",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UK's unemployment holds at 4.9%",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642739-uks-unemployment-holds-at-49?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 15 Sep 2026 03:00:33 -0400",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "China hits back at AI slowdown push, calls it &#x2018;fearmongering&#x2019;",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642728-china-hits-back-at-ai-slowdown-push-calls-it-fearmongering?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 15 Sep 2026 02:36:18 -0400",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "GSK expands myeloma pipeline in deal worth up to $750M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642734-gsk-expands-myeloma-pipeline-in-deal-worth-up-to-750m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 15 Sep 2026 02:30:30 -0400",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Kestra targets $141M FY 2027 revenue and mid-70% gross margin in next few years as Q1 revenue reaches $31M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642733-kestra-targets-141m-fy-2027-revenue-and-midminus-70-percent-gross-margin-in-next-few-years-as?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 15 Sep 2026 02:13:04 -0400",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Trump&#x2019;s approval recovers from record low, but Democrats gain edge in Congress: Reuters",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642731-trumps-approval-recovers-from-record-low-but-democrats-gain-edge-in-congress-reuters?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 15 Sep 2026 02:07:52 -0400",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CrowdStrike CEO Kurtz: &#x2018;The genie&#x2019;s out of the bottle&#x2019; on AI threats",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4642729-crowdstrike-ceo-kurtz-the-genies-out-of-the-bottle-on-ai-threats?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 15 Sep 2026 02:00:39 -0400",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-    "desc": "U.S. stock futures are trending lower early Tuesday as Wall Street digests rising energy costs, refinery outages, and the start of a critical Federal Reserve policy meeting. The Polymarket (CRYPTO: POL) crowd is leaning heavily bearish for the Sept. 15...",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61781323/stock-market-will-sp-500-open-up-or-down-today-37?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 05:58:02 +0000",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "What SpaceX's Lockup Expiry Could Mean for Anthropic's IPO Strategy",
-    "desc": "Key PointsSpace Exploration Technologies IPO raised a massive $75 billion (over $85 billion including underwriter shares).",
-    "link": "https://www.nasdaq.com/articles/what-spacexs-lockup-expiry-could-mean-anthropics-ipo-strategy",
-    "pubDate": "Tue, 15 Sep 2026 06:35:00 +0000",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Winter is coming: airBaltic debt woes herald tough season ahead for smaller airlines",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/analysiswinter-is-coming-airbaltic-debt-woes-herald-tough-season-ahead-for-smaller-airlines-4900120",
-    "pubDate": "2026-09-15 06:24:47",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Guangzhou Automobile stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-guangzhou-automobile-stock-rallying-today-93CH-4900841",
-    "pubDate": "2026-09-15 06:23:02",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says-4900836",
-    "pubDate": "2026-09-15 06:18:50",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/micron-taiwan-union-presses-profitsharing-demand-keeps-strike-preparations-alive-4900835",
-    "pubDate": "2026-09-15 06:18:29",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "FTSE Russell sees ESG concerns over AI tech exposure - report",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ftse-russell-sees-esg-concerns-over-ai-tech-exposure--report-4900817",
-    "pubDate": "2026-09-15 06:10:12",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.73%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-073-4900806",
-    "pubDate": "2026-09-15 06:00:05",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Chinese chip stocks rise after Beijing unveils 5-year electronics plan",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/chinese-chip-stocks-rise-after-beijing-unveils-5year-electronics-plan-4900805",
-    "pubDate": "2026-09-15 05:59:24",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "U.S. 10-yr yields surge past 5%: which stocks are most vulnerable?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-10yr-yields-surge-past-5-which-stocks-are-most-vulnerable-93CH-4900804",
-    "pubDate": "2026-09-15 05:53:28",
-    "fetchedAt": "2026-09-15T07:04:47.022Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-    "desc": "The benchmark 10-year Treasury yield climbed to its highest level since 2007 on Tuesday as a sell-off in U.S. government debt deepened ahead of the Federal Reserve's interest-rate decision.",
-    "link": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-    "pubDate": "Tue, 15 Sep 2026 05:43:18 GMT",
-    "fetchedAt": "2026-09-15T06:01:33.540Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Charities praise will gifts despite cost of living",
-    "desc": "Jersey charities say leaving donations in wills can be \"transformational\", regardless of how much.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 15 Sep 2026 05:03:47 GMT",
-    "fetchedAt": "2026-09-15T06:01:33.540Z"
-  },
-  {
-    "source": "investing",
-    "title": "ANZ chief warns of AI risks, won’t rule out job cuts",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/anz-chief-warns-of-ai-risks-wont-rule-out-job-cuts-93CH-4900803",
-    "pubDate": "2026-09-15 05:49:40",
-    "fetchedAt": "2026-09-15T06:01:33.540Z"
-  },
-  {
-    "source": "investing",
-    "title": "Explainer-How China is preparing for the risk of AI escaping human control",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/explainerhow-china-is-preparing-for-the-risk-of-ai-escaping-human-control-4898971",
-    "pubDate": "2026-09-15 05:48:28",
-    "fetchedAt": "2026-09-15T06:01:33.540Z"
-  },
-  {
-    "source": "investing",
-    "title": "Revolution Medicines’ chief commercialization officer Mancini sells $3.15m",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/revolution-medicines-chief-commercialization-officer-mancini-sells-315m-93CH-4900801",
-    "pubDate": "2026-09-15 05:46:08",
-    "fetchedAt": "2026-09-15T06:01:33.540Z"
-  },
-  {
-    "source": "investing",
-    "title": "Combined BHP Ports Unions to seek arbitration over wage deal dispute",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/combined-bhp-ports-unions-to-seek-arbitration-over-wage-deal-dispute-4900787",
-    "pubDate": "2026-09-15 05:42:53",
-    "fetchedAt": "2026-09-15T06:01:33.540Z"
   }
 ]
