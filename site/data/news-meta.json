@@ -1,51 +1,56 @@
 {
-  "lastRun": "2026-09-16T01:01:36.865Z",
-  "fetched": 13,
-  "failed": 1,
-  "newItems": 65,
+  "lastRun": "2026-09-16T02:01:37.137Z",
+  "fetched": 8,
+  "failed": 6,
+  "newItems": 22,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 3
+      "added": 1
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 43,
-      "added": 11
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 10
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 10,
-      "added": 7
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "guardian",
       "name": "The Guardian",
-      "items": 20,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "ft",
       "name": "Financial Times",
       "items": 8,
-      "added": 0
+      "added": 2
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
-      "items": 7,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "benzinga",
@@ -56,15 +61,15 @@
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 3
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
-      "items": 25,
-      "added": 12
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "wsj",
@@ -76,7 +81,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 8
+      "added": 7
     },
     {
       "id": "fortune",
@@ -88,7 +93,7 @@
       "id": "investingeuro",
       "name": "Investing Europe",
       "items": 10,
-      "added": 9
+      "added": 6
     }
   ]
 }
