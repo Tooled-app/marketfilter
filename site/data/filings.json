@@ -35,6 +35,30 @@
     "cik": "0000789019",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-09-15",
+        "accession": "0000789019-26-000214",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-15",
+        "accession": "0000789019-26-000213",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-15",
+        "accession": "0000789019-26-000212",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
         "form": "144",
         "filed": "2026-09-14",
         "accession": "0001958244-26-000598",
@@ -144,38 +168,6 @@
         "primaryDoc": "tm2624614d5_8k.htm",
         "reportDate": "2026-09-14",
         "items": "8.01,9.01"
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-09",
-        "accession": "0001284323-26-000002",
-        "primaryDoc": "xslF345X06/wk-form4_1788987268.xml",
-        "reportDate": "2026-09-08",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-09",
-        "accession": "0001595602-26-000007",
-        "primaryDoc": "xslF345X06/wk-form4_1788986939.xml",
-        "reportDate": "2026-09-08",
-        "items": ""
-      },
-      {
-        "form": "3",
-        "filed": "2026-09-09",
-        "accession": "0001595602-26-000005",
-        "primaryDoc": "xslF345X06/wk-form3_1788986593.xml",
-        "reportDate": "2026-09-08",
-        "items": ""
-      },
-      {
-        "form": "8-K",
-        "filed": "2026-09-09",
-        "accession": "0001018724-26-000036",
-        "primaryDoc": "amzn-20260908.htm",
-        "reportDate": "2026-09-08",
-        "items": "5.02"
       }
     ]
   },
@@ -184,6 +176,14 @@
     "title": "Meta Platforms, Inc.",
     "cik": "0001326801",
     "filings": [
+      {
+        "form": "144",
+        "filed": "2026-09-15",
+        "accession": "0001921094-26-001023",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
       {
         "form": "144",
         "filed": "2026-09-14",
@@ -206,29 +206,6 @@
         "accession": "0000950103-26-013794",
         "primaryDoc": "xslF345X06/ownership.xml",
         "reportDate": "2026-09-08",
-        "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-09-09",
-        "accession": "0001921094-26-001004",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Tesla, Inc.",
-    "cik": "0001318605",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-09-09",
-        "accession": "0001104659-26-106432",
-        "primaryDoc": "xslF345X06/tm2625055d1_4seq1.xml",
-        "reportDate": "2026-09-05",
         "items": ""
       }
     ]
