@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-09-17T21:02:22.934Z",
-  "fetched": 1,
-  "failed": 13,
-  "newItems": 4,
+  "lastRun": "2026-09-17T21:07:14.110Z",
+  "fetched": 2,
+  "failed": 12,
+  "newItems": 15,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 4
+      "added": 0
     },
     {
       "id": "bbc",
@@ -84,9 +84,8 @@
     {
       "id": "nasdaq",
       "name": "Nasdaq",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 15,
+      "added": 15
     },
     {
       "id": "fortune",
