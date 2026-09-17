@@ -1,51 +1,57 @@
 {
-  "lastRun": "2026-09-17T13:01:29.384Z",
-  "fetched": 14,
-  "failed": 0,
-  "newItems": 67,
+  "lastRun": "2026-09-17T14:01:40.586Z",
+  "fetched": 8,
+  "failed": 6,
+  "newItems": 49,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 3
+      "added": 6
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 49,
-      "added": 4
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 10
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 10,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "guardian",
       "name": "The Guardian",
-      "items": 20,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "ft",
       "name": "Financial Times",
-      "items": 14,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
-      "items": 7,
-      "added": 7
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "benzinga",
@@ -57,7 +63,7 @@
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 13
+      "added": 19
     },
     {
       "id": "zerohedge",
@@ -81,13 +87,13 @@
       "id": "fortune",
       "name": "Fortune",
       "items": 10,
-      "added": 4
+      "added": 0
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
       "items": 10,
-      "added": 8
+      "added": 10
     }
   ]
 }
