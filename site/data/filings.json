@@ -15,21 +15,6 @@
     ]
   },
   {
-    "ticker": "AAPL",
-    "title": "Apple Inc.",
-    "cik": "0000320193",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-09-10",
-        "accession": "0001140361-26-036226",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-08",
-        "items": ""
-      }
-    ]
-  },
-  {
     "ticker": "MSFT",
     "title": "MICROSOFT CORP",
     "cik": "0000789019",
@@ -145,13 +130,116 @@
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-09-10",
         "items": ""
+      }
+    ]
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "Alphabet Inc.",
+    "cik": "0001652044",
+    "filings": [
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393517",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
       },
       {
         "form": "4",
-        "filed": "2026-09-10",
-        "accession": "0000789019-26-000188",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-09",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393515",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393513",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393511",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393509",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393506",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393503",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393500",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393497",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393494",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393491",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393485",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0001193125-26-393483",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
         "items": ""
       }
     ]
@@ -177,6 +265,14 @@
     "cik": "0001326801",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-09-16",
+        "accession": "0000950103-26-014061",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-14",
+        "items": ""
+      },
+      {
         "form": "144",
         "filed": "2026-09-15",
         "accession": "0001921094-26-001023",
@@ -198,37 +294,6 @@
         "accession": "0000950103-26-013860",
         "primaryDoc": "xslF345X06/ownership.xml",
         "reportDate": "2026-09-09",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-10",
-        "accession": "0000950103-26-013794",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-09-08",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "JPM",
-    "title": "JPMORGAN CHASE & CO",
-    "cik": "0000019617",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-09-10",
-        "accession": "0001225208-26-007727",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-09-10",
-        "accession": "0001726825-26-000010",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
         "items": ""
       }
     ]
