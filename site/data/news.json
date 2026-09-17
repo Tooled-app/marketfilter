@@ -1,6 +1,446 @@
 [
   {
     "source": "cnbc",
+    "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+    "desc": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
+    "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
+    "pubDate": "Thu, 17 Sep 2026 22:22:53 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+    "desc": "Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal.",
+    "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+    "pubDate": "Thu, 17 Sep 2026 13:46:14 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+    "desc": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+    "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+    "pubDate": "Thu, 17 Sep 2026 08:46:04 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    "desc": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+    "desc": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 14:52:38 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "bbc",
+    "title": "US borrowing costs hit highest level since 2007",
+    "desc": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+    "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 19:35:10 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+    "pubDate": "2026-09-17 22:48:29",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Silver Lake Partners sells $14.9 million of Dell Technologies stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/silver-lake-partners-sells-149-million-of-dell-technologies-stock-93CH-4906551",
+    "pubDate": "2026-09-17 22:46:06",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Mineralys Therapeutics director Karydas sells $85,740 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/mineralys-therapeutics-director-karydas-sells-85740-in-stock-93CH-4906550",
+    "pubDate": "2026-09-17 22:46:04",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sr. VP Paul Cunningham sells $554k in Cadence Design Systems stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/sr-vp-paul-cunningham-sells-554k-in-cadence-design-systems-stock-93CH-4906549",
+    "pubDate": "2026-09-17 22:45:55",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Ultragenyx sets $3.95 million price for rare disease gene therapy",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-fda-approves-ultragenyxs-gene-therapy-for-rare-disorder-4906314",
+    "pubDate": "2026-09-17 22:43:20",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Clean Harbors prices $600 million senior notes offering",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/clean-harbors-prices-600-million-senior-notes-offering-93CH-4906548",
+    "pubDate": "2026-09-17 22:40:26",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Reddit CEO Steve Huffman sells $2.77m in shares after option exercise",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/reddit-ceo-steve-huffman-sells-277m-in-shares-after-option-exercise-93CH-4906546",
+    "pubDate": "2026-09-17 22:34:54",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "CoTec closes $12.1M convertible debenture financing",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/cotec-closes-121m-convertible-debenture-financing-93CH-4906545",
+    "pubDate": "2026-09-17 22:32:28",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Indie Semiconductor CEO sells $155,460 of Class A shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-ceo-sells-155460-of-class-a-shares-93CH-4906544",
+    "pubDate": "2026-09-17 22:31:05",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investing",
+    "title": "Perdoceo Education president & CEO Todd Nelson sells $1.52m in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/perdoceo-education-president--ceo-todd-nelson-sells-152m-in-shares-93CH-4906543",
+    "pubDate": "2026-09-17 22:30:52",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+    "desc": "&#x201c;The higher that yields go &#x2014; for at least new money &#x2014; it becomes more enticing to think about putting money into bonds,&#x201d; one strategist notes.",
+    "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+    "pubDate": "Thu, 17 Sep 2026 21:22:00 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
+    "desc": "<p>PM rejects claim he leads a ‘tax-and-spend’ government, as Bank of England prepares for interest rates decision</p><p>Andy Burnham has said “difficult decisions” will need to be taken in next month’s budget after a rise in energy prices triggered by the Iran war drove UK inflation above 3%.</p><p>In a fresh blow for living standards amid the worsening damage to the global economy from the Middle East conflict, official figures showed soaring fuel prices pushed inflation from 2.9% in July to 3.1% in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
+    "pubDate": "Wed, 16 Sep 2026 15:17:49 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "ft",
+    "title": "OpenAI discloses new ‘concerning’ model behaviour",
+    "desc": "Developer launches system to track and report AI model misconduct",
+    "link": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+    "pubDate": "Thu, 17 Sep 2026 22:03:41 GMT",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Generac surges to top of S&P leaderboard as big Amazon deal seals status as data center player",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644141-generac-surges-to-top-of-s-and-p-leaderboard-as-big-amazon-deal-seals-status-as-data-center?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 18:48:06 -0400",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nucor, Steel Dynamics slide after-hours on below-consensus Q3 earnings guidance",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644140-nucor-steel-dynamics-slide-after-hours-on-below-consensus-q3-earnings-guidance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 18:12:06 -0400",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns — NVDA, MCD, CRWV, LMT, AMZN In Focus",
+    "desc": "The S&P 500 and Nasdaq recorded their best day in six weeks.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-amid-drop-in-oil-prices/cZtscNsRBdY?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:22:14 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "M-tron Industries, Inc. (MPTI) Stock Sinks As Market Gains: What You Should Know",
+    "desc": "M-tron Industries, Inc. (MPTI) closed the most recent trading day at $74.92, moving 1.55% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221503429.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VICI Properties Inc. (VICI) Stock Falls Amid Market Uptick: What Investors Need to Know",
+    "desc": "In the closing of the recent trading day, VICI Properties Inc. (VICI) stood at $24.11, denoting a -1.71% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-stock-221503797.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Teladoc (TDOC) Stock Slides as Market Rises: Facts to Know Before You Trade",
+    "desc": "Teladoc (TDOC) concluded the recent trading session at $6.28, signifying a -2.33% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/teladoc-tdoc-stock-slides-market-221503030.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why V.F. (VFC) Outpaced the Stock Market Today",
+    "desc": "In the most recent trading session, V.F. (VFC) closed at $12.93, indicating a +1.57% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-v-f-vfc-outpaced-221503501.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Pacific Biosciences of California (PACB) Outpaced the Stock Market Today",
+    "desc": "In the most recent trading session, Pacific Biosciences of California (PACB) closed at $1.38, indicating a +2.99% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-pacific-biosciences-california-pacb-221503067.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Main Street Capital (MAIN) Outpaces Stock Market Gains: What You Should Know",
+    "desc": "Main Street Capital (MAIN) closed at $57.03 in the latest trading session, marking a +1.4% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-main-outpaces-221502667.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Inc. (DOW) Stock Sinks As Market Gains: What You Should Know",
+    "desc": "Dow Inc. (DOW) reached $29.49 at the closing of the latest trading day, reflecting a -1.96% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-stock-sinks-221502744.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Snap (SNAP) Stock Sinks As Market Gains: What You Should Know",
+    "desc": "Snap (SNAP) closed at $5.65 in the latest trading session, marking a -1.22% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-stock-sinks-market-220002926.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Hercules Capital (HTGC) Advances But Underperforms Market: Key Facts",
+    "desc": "Hercules Capital (HTGC) closed at $17.76 in the latest trading session, marking a +1.08% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hercules-capital-htgc-advances-underperforms-220002575.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Lightspeed Commerce Inc. (LSPD) Stock Slides as Market Rises: Facts to Know Before You Trade",
+    "desc": "Lightspeed Commerce Inc. (LSPD) closed the most recent trading day at $9.48, moving 1.76% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lightspeed-commerce-inc-lspd-stock-220002579.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Fiverr International (FVRR) Stock Dips While Market Gains: Key Facts",
+    "desc": "In the closing of the recent trading day, Fiverr International (FVRR) stood at $8.74, denoting a -2.46% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fiverr-international-fvrr-stock-dips-220001951.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:01 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Steel Dynamics (STLD) Rises Higher Than Market: Key Facts",
+    "desc": "Steel Dynamics (STLD) reached $245.35 at the closing of the latest trading day, reflecting a +2.99% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stld-rises-higher-221503515.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dynatrace (DT) Exceeds Market Returns: Some Facts to Consider",
+    "desc": "Dynatrace (DT) closed the most recent trading day at $55.83, moving +1.16% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-dt-exceeds-market-returns-221502375.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Lyft (LYFT) Stock Declines While Market Improves: Some Information for Investors",
+    "desc": "Lyft (LYFT) closed at $15.5 in the latest trading session, marking a -1.21% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-lyft-stock-declines-while-221502831.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AngloGold Ashanti (AU) Surpasses Market Returns: Some Facts Worth Knowing",
+    "desc": "In the closing of the recent trading day, AngloGold Ashanti (AU) stood at $102.36, denoting a +2.63% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-au-surpasses-market-220003708.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dominion Energy (D) Beats Stock Market Upswing: What Investors Need to Know",
+    "desc": "In the most recent trading session, Dominion Energy (D) closed at $64.29, indicating a +1.23% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-beats-stock-220003197.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:03 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Hershey (HSY) Stock Dips While Market Gains: Key Facts",
+    "desc": "Hershey (HSY) concluded the recent trading session at $168.33, signifying a -1.44% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-hsy-stock-dips-while-220002164.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:00:02 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
+    "desc": "Sandisk and Micron are undervalued relative to their expected growth.",
+    "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 22:31:00 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Houthis Issue Video Of Saudi F-15 Shootdown, As Ground Clashes Intensify In Yemen",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Houthis Issue Video Of Saudi F-15 Shootdown, As Ground Clashes Intensify In Yemen</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong><u>Update(1135ET)</u>: </strong>The Houthis have released new footage which appears to confirm the earlier Saudi F-15 jet shootdown, with aircraft falling in the Marib area. The footage shows militants celebrating near the wreckage.</p> <p>Below is the clip as released by Ansar Allah officials, which has since been given confirmation by some foreign and international <a href=\"https://x.com/RT_com/status/2100229643827548596\">outlets</a>. It suggests that the Houthis have locally-made ability to down advanced aircraft, which should seriously worry Riyadh and Washington.</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"rtl\" lang=\"ar\" xml:lang=\"ar\" xml:lang=\"ar\">مشاهد نوعية لإسقاط طائرة مقاتلة سعودية من نوع F15 وحطامها في محافظة مأرب - 16 سبتمبر 2026م <a href=\"https://t.co/rk0suliePT\">pic.twitter.com/rk0suliePT</a></p> — الإعلام الحربي اليمني (@MMY1444) <a href=\"https://x.com/MMY1444/status/2100227434750628161?ref_src=twsrc%5Etfw\">September 16, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>According to the latest on the fighting in Yemen, clashes are <a href=\"https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on\">intensifying</a>:</p> <blockquote> <p><em>Yemen’s pro-government Southern Giants Forces say that they are engaged in clashes with Houthi forces on the Kahboub front near the Bab al-Mandeb strait.</em></p> <p><em>The government-aligned forces claim in a social media post that they have inflicted heavy personnel and equipment losses on the Houthi forces.</em></p> </blockquote> <p>Global oil prices continue climbing amid a slew of negative headlines:</p> <ul><li>WRIGHT: LOOKING AT USING DPA TO INCREASE REFINING CAPACITY</li> <li>WRIGHT ON EAST-WEST PIPELINE: 3 PUMPING STATIONS WERE HIT</li> </ul><p>From bad to worse for the coalition:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Looks like the Yemenis weren't lying about downing a Saudi jet today. <a href=\"https://t.co/2t4tTYoa6F\">pic.twitter.com/2t4tTYoa6F</a></p> — Russians With Attitude (@RWApodcast) <a href=\"https://x.com/RWApodcast/status/2100229336573862308?ref_src=twsrc%5Etfw\">September 16, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>* * *</p> <p>Yemen's Ansar Allah (Houthi) movement has <strong>claimed to have shot down a Saudi fighter jet </strong>in a Wednesday statement, saying they utilized domestic made munitions to do it.</p> <p>\"The Yemeni Armed Forces, with Allah's aid and grace, succeeded in shooting down a Saudi F-15 fighter jet while it was carrying out hostile operations,\" Houthi military spokesman Yahya Saree <a href=\"https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html\">announced</a>.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/fsaf.jpg?itok=O0nYurz-\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/fsaf.jpg?itok=O0nYurz-\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b7c356be-034b-4aed-a1eb-d433c48bd226\" data-responsive-image-style=\"inline_images\" height=\"333\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/fsaf.jpg?itok=O0nYurz-\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Royal Saudi Air Force</em></figcaption></figure></picture></a> <p>He said the fighter jet had been targeted <strong>\"using a locally made\" </strong>missile over Marib - after the Saudi coalition has launched some 450 strikes. The area of the alleged downing is some 75 miles east of Sanaa.</p> <p>Saudi authorities have not acknowledged any shootdown and have not immediately commented on the claim.</p> <p>Overnight, the big news out of the conflict focused on Saudi claims that it had intercepted a Houthi drone targeting Yemen in a \"heinous\" act targeting Islam's holiest site.</p> <p>However, the Houthis are vehemently denying sending a drone on Mecca. \"Our operations target its oil facilities and military bases, which are <strong>far removed from the sacred sites</strong>,\" Saree said further.</p> <p>The Houthi military spokesman called out the \"<strong>fabrications and lies propagated</strong> by the criminal al-Saud regime cannot deceive anyone.\"</p> <p>Missile alerts had been issued for the population of Mecca, and plenty of old and fake social media videos purported to capture footage of a drone inbound on Mecca, but so far no clear evidence has emerged of the alleged targeting.</p> <p>But the Saudi claims were enough to get Pakistan's Prime Minister Shehbaz Sharif to condemn Wednesday \"in the strongest possible terms the dastardly and heinous\" the alleged attack on Mecca.</p> <p>\"The people of Pakistan are saddened and perturbed by this outrageous act,\" he said on X.</p> <p><em>Unconfirmed image of downed jet posted by Iranian state media:</em></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">On Wednesday morning, Yemeni Army confirmed that it had shot down a Saudi F-15 fighter aircraft over Marib Province. <a href=\"https://t.co/4nk1d1DYi6\">pic.twitter.com/4nk1d1DYi6</a></p> — IRNA News Agency ☫ (@IrnaEnglish) <a href=\"https://x.com/IrnaEnglish/status/2100106675478753727?ref_src=twsrc%5Etfw\">September 16, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Pakistan and Turkey just recently this summer signed a comprehensive \"Mecca Defense Pact\", and the Saudi claims that Mecca was targeted by drone are <strong>perhaps intended to secure the help of allies in dealing with the advancing Houthis menace while a Red Sea 'siege for siege' policy is still in effect</strong>. As for the lates developments to emerge Wednesday, via Newsquawk:</p> <blockquote> <p><em>Houthis say they carried out two military operations, targeting Saudi Aramco in Yanbu with dozens of ballistic missiles and drones and Khamis Mushait Air Base with a number of ballistic missiles.</em></p> </blockquote> <p>The damaged Saudi East-West pipeline could still take five to six weeks to come back online, according to some estimates.</p> <p>* * *</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/antique-red-white-blue?variant=50583929651498\" data-image-href=\"https://store.zerohedge.com/products/antique-red-white-blue?variant=50583929651498\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/antique-red-white-blue?variant=50583929651498\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"283b66ce-133c-4f90-b41e-0f98a58079df\" data-responsive-image-style=\"inline_images\" height=\"300\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/ZH_John_Oleze_Antique_Colors_With_Character_1000x600.png?itok=3l16MX37\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-16T20:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 16:15</span>",
+    "link": "https://www.zerohedge.com/geopolitical/houthis-claim-saudi-jet-shootdown-blast-mecca-drone-reports-fabrications-lies",
+    "pubDate": "Wed, 16 Sep 2026 20:15:00 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Kroger Pulls Red Bull From Shelves As Grocery Prices Rise",
+    "desc": "(RTTNews) - Kroger Co (KR) has removed Red Bull energy drinks from its shelves across the Tri-State region and nationally, while some stores have also reduced their selection of Boar's Head deli products, as grocery prices continue to rise and consumers increasingly seek lower-co",
+    "link": "https://www.nasdaq.com/articles/kroger-pulls-red-bull-shelves-grocery-prices-rise",
+    "pubDate": "Thu, 17 Sep 2026 22:16:15 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "ICU Medical CFO Sells 6,381 Shares for $1.1 Million",
+    "desc": "Key PointsThe sale involved shares equal to 10% of the CFO's direct equity stake held prior to the transaction.",
+    "link": "https://www.nasdaq.com/articles/icu-medical-cfo-sells-6381-shares-11-million",
+    "pubDate": "Thu, 17 Sep 2026 22:15:01 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Borr Drilling Director Troim Buys One Million Shares in the Open Market. What Does This Mean for The Stock?",
+    "desc": "Key PointsThe purchase of ~1.0 million shares at $4.30 per share represents a total transaction value of ~$4.3 million.",
+    "link": "https://www.nasdaq.com/articles/borr-drilling-director-troim-buys-one-million-shares-open-market-what-does-mean-stock",
+    "pubDate": "Thu, 17 Sep 2026 22:13:01 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Prediction: This Quantum Computing Stock Is Going to Plummet Over the Next 12 Months",
+    "desc": "Key PointsRigetti Computing developed some of the world's best quantum computing systems, but they still make too many errors to solve real-world problems.",
+    "link": "https://www.nasdaq.com/articles/prediction-quantum-computing-stock-going-plummet-over-next-12-months",
+    "pubDate": "Thu, 17 Sep 2026 22:05:00 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "'You’re Liable For Your Own Actions': Palantir CEO Alex Karp Opens a Third Front In The AI Safety Fight",
+    "desc": "Key PointsPalantir CEO Alex Karp told CNBC on Sept. 17, 2026, that civil and criminal liability, not new regulation, is the \"first line of defense\" against dangerous AI.",
+    "link": "https://www.nasdaq.com/articles/youre-liable-your-own-actions-palantir-ceo-alex-karp-opens-third-front-ai-safety-fight",
+    "pubDate": "Thu, 17 Sep 2026 21:53:01 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "A GigaCloud Director Dumped 3,000 Shares After the Stock Hit a 52-Week High",
+    "desc": "Key PointsThe sale involved 3,000 shares with an estimated transaction value of ~$158,000.",
+    "link": "https://www.nasdaq.com/articles/gigacloud-director-dumped-3000-shares-after-stock-hit-52-week-high",
+    "pubDate": "Thu, 17 Sep 2026 21:49:04 +0000",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Starbucks settles Florida lawsuit claiming diversity policies were illegal",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/starbucks-settles-florida-lawsuit-claiming-diversity-policies-were-illegal-4906532",
+    "pubDate": "2026-09-17 22:12:50",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Trump threats against reporters should prompt court to block FCC action, Disney says",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-threats-against-reporters-should-prompt-court-to-block-fcc-action-disney-says-4906529",
+    "pubDate": "2026-09-17 22:06:48",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Nucor stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-nucor-stock-sliding-today-93CH-4906526",
+    "pubDate": "2026-09-17 22:02:09",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Xenon Pharmaceuticals stock plunging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-xenon-pharmaceuticals-stock-plunging-today-93CH-4906520",
+    "pubDate": "2026-09-17 21:59:08",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Steel Dynamics stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4906518",
+    "pubDate": "2026-09-17 21:58:40",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nucor stock falls on weaker than expected third quarter guidance",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nucor-stock-falls-on-weaker-than-expected-third-quarter-guidance-93CH-4906517",
+    "pubDate": "2026-09-17 21:50:22",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue-4906516",
+    "pubDate": "2026-09-17 21:48:54",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Steel Dynamics stock falls on weaker third quarter guidance",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/steel-dynamics-stock-falls-on-weaker-third-quarter-guidance-93CH-4906513",
+    "pubDate": "2026-09-17 21:43:57",
+    "fetchedAt": "2026-09-17T23:01:28.505Z"
+  },
+  {
+    "source": "cnbc",
     "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
     "desc": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it.",
     "link": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
@@ -5958,445 +6398,5 @@
     "link": "https://www.zerohedge.com/geopolitical/turkey-takes-houthis-any-support-saudis-faces-huge-blowback",
     "pubDate": "Thu, 17 Sep 2026 06:00:00 +0000",
     "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "9 Terrifying Truths About Long-Term Economic Crises",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">9 Terrifying Truths About Long-Term Economic Crises</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://preppgroup.home.blog/2026/09/14/9-terrifying-truths-about-long-term-economic-crises/\">Authored by Milan Adams via Preppgroup</a>,</em></p> <p><em><strong>Why preparation matters less than adaptation, and why the next crisis will not resemble the last...</strong></em></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/bfe8a7e8-7d06-4d21-a445-199a38f1.jpg?itok=Qcj30fyB\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/bfe8a7e8-7d06-4d21-a445-199a38f1.jpg?itok=Qcj30fyB\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"cd115808-baf1-496c-bc69-b570918cc29f\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/bfe8a7e8-7d06-4d21-a445-199a38f1.jpg?itok=Qcj30fyB\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><strong>My father kept his layoff notice from 1982 taped inside his toolbox until he died. </strong>The letterhead - blue, corporate, indifferent - arrived on a Tuesday in March, six months after his machine shop started losing contracts. By August, we were living in my aunt's basement. By Christmas, he was driving a delivery truck for half his previous wage.</p> <p>He kept that letter as a reminder about velocity. How fast the ground moves when it finally shifts.</p> <p><strong>Most Americans have never experienced that kind of speed.</strong> They've known recessions, certainly - the technical kind, the temporary kind, the kind that ends with rebounding markets and analysts declaring victory. They've never known a genuine crisis, the sort that grinds forward for years, rewriting the social contract so gradually that each degradation feels like common sense by the time it arrives. The sort that leaves permanent scars.</p> <p><strong>We may be closer than we think.</strong> Not because of prophecy, but because of arithmetic. Debt structures, demographic shifts, and institutional fragilities have accumulated to levels that historical precedent suggests are difficult to sustain. The question is not whether stress will come, but whether those experiencing it will recognize the tremors before they're already falling.</p> <h2>The Numbers Behind the Warning</h2> <table style=\"width:600px;\"><thead><tr><th>Indicator</th> <th>Historical/Current Figure</th> <th>Period</th> <th>What It Shows</th> <th>Why It Matters</th> </tr></thead><tbody><tr><td>Peak unemployment (Great Depression)</td> <td>24.9%</td> <td>1933</td> <td>One in four workers jobless</td> <td>Recovery required roughly 25 years; generational trauma persisted</td> </tr><tr><td>U.S. federal debt-to-GDP</td> <td>~123%</td> <td>2025 (most recent full year)</td> <td>Exceeds WWII peak; among highest in nation's history</td> <td>Interest payments now exceed $1 trillion annually; constrains fiscal response capacity</td> </tr><tr><td>Labor force participation (prime-age males, 25-54)</td> <td>~80.5%</td> <td>2024-2025</td> <td>Down from ~96% in 1950s</td> <td>\"Missing\" workers not counted in unemployment; indicates structural economic exclusion</td> </tr><tr><td>U.S. bank failures (Great Depression)</td> <td>~9,000</td> <td>1930-1933</td> <td>Collapse of financial intermediation</td> <td>Destroyed savings, credit access, and business formation for a decade</td> </tr><tr><td>Social Security trust fund depletion projection</td> <td>2033</td> <td>Current SSA estimate</td> <td>Mandatory spending exceeding dedicated revenue</td> <td>Automatic benefit reductions of ~23% or equivalent tax increases likely within most workers' careers</td> </tr><tr><td>Infrastructure grade (ASCE)</td> <td>C</td> <td>2021 Report Card (most recent)</td> <td>Deferred maintenance across all categories</td> <td>Catastrophic failure probability increasing; replacement costs estimated at $2.9 trillion over 10 years</td> </tr><tr><td>Container shipping cost volatility</td> <td>$1,200-$20,000+ per FEU</td> <td>2019-2024</td> <td>15x price swing during pandemic/disruption</td> <td>Just-in-time systems vulnerable to shock; consumer prices follow transport costs</td> </tr><tr><td>Advanced semiconductor manufacturing (≤5nm)</td> <td>~90%+ (Taiwan/Taiwan Strait region)</td> <td>Current</td> <td>Geographic concentration of critical production</td> <td>Geopolitical or natural disruption would cascade through global electronics, automotive, and defense sectors</td> </tr></tbody></table><p><em>Sources: Congressional Budget Office, Social Security Administration, Bureau of Labor Statistics, American Society of Civil Engineers, Federal Reserve Economic Data, industry trade publications</em></p> <p><strong>These figures describe conditions, not predictions.</strong> Debt at 123% of GDP does not automatically trigger collapse - Japan has sustained higher ratios for decades, albeit with trade-offs. But high debt constrains options. When stress arrives, heavily indebted governments have less capacity to respond through stimulus. When unemployment spikes, extended benefits exhaust faster. When infrastructure ages, maintenance competes with emergency spending. The numbers suggest a system with reduced resilience - less able to absorb shocks, slower to recover, more vulnerable to cascading failures. What they cannot show is timing, specific triggers, or whether institutional adaptations will prove sufficient. History offers examples of both successful navigation and catastrophic failure from similar starting positions.</p> <h2>First Reality: The Joblessness That Doesn't End</h2> <p>Temporary unemployment is an inconvenience. Chronic unemployment is a transformation. During the Great Depression, joblessness persisted not for months but for years - <strong>peaking at nearly twenty-five percent in 1933</strong>, still above fifteen percent in 1940. A quarter of the workforce didn't just lose income. They lost identity, social connection, and the psychological structure that employment provides.</p> <p><strong>The modern equivalent may already be developing. </strong>Labor force participation among prime-age males has declined steadily since the mid-20th century - not because jobs don't exist, but because available jobs don't match skills, locations, or expectations in ways that draw workers in. This \"missing\" workforce doesn't appear in unemployment statistics, creating potential blind spots in labor market assessments. When crisis hits, these margins can expand rapidly. Businesses fail. Positions vanish permanently, not temporarily. Skills atrophy. Networks dissolve. What begins as cyclical can become structural.</p> <p>The housing market follows employment with a lag. Mortgage defaults accumulate for months before foreclosure waves crest. Neighborhoods hollow as owner-occupants become renters, then face displacement. Property values in some affected areas - parts of Detroit post-2008, certain Rust Belt manufacturing centers - have struggled to recover pre-crisis levels even decades later. The damage isn't always cyclical. <strong>Sometimes it's geological.</strong></p> <p><strong>Personal savings recommendations - typically three to six months of expenses - assume temporary interruption. </strong>They don't account for multi-year income loss during which benefits exhaust, assets liquidate, and credit access disappears. Real preparation requires acknowledging that employment may not return on previous terms, that careers may end, that adaptation matters as much as preservation.</p> <h2>Second Reality: When Ordinary People Become Desperate</h2> <p><strong>Economic compression doesn't just increase crime - it can change its nature. Professional criminals adapt to conditions. Amateurs, driven by genuine desperation, may behave unpredictably. They panic. They escalate. They make mistakes that turn property crimes into violent confrontations.</strong></p> <p>Historical patterns are documented. Argentina's 2001 collapse generated organized looting within weeks. Venezuela's deterioration produced criminal enterprises controlling food distribution through force. During the 1930s, American rural areas saw agricultural theft increase, while cities developed protection rackets and smuggling networks.</p> <p><strong>Contemporary data shows strain. </strong>Retail shrinkage has increased in recent years, with organized retail crime contributing significantly in many jurisdictions. As economic conditions tighten, participation may broaden. Individuals with no criminal history - former professionals, displaced workers, struggling families - may begin calculating risk differently when legitimate options narrow. Hunger and eviction concentrate the mind. Legal consequences can feel abstract when immediate survival is threatened.</p> <p>Home invasion patterns have historically followed unemployment with a lag. The mechanism is comprehensible: savings deplete, desperation mounts, targets shift. Concurrently, municipal budgets can contract. Police departments may face difficult choices between personnel costs and other services. Camden, New Jersey, dissolved its municipal police force in 2013 due to fiscal insolvency; replacement required roughly eighteen months, during which criminal activity accelerated.</p> <p><strong>Personal security under these conditions isn't solely about defensive capability. It's about reducing visibility</strong> - appearing less prosperous than you are, avoiding predictable patterns, hardening entry points without advertising wealth. The goal is to avoid confrontation, not to win it.</p> <!-- join after part 1; drop middle fences --> <h2>Third Reality: The Fires That Spread</h2> <p><strong>Protracted economic distress creates conditions for civil disturbance that can ignite from seemingly minor sparks. </strong>The ingredients - unemployment, inflation, governmental incompetence, perceived unfairness - combine gradually until reaching threshold. Then ignition. The specific trigger is often arbitrary: a price increase, a police interaction, a service reduction. Once started, disturbance can spread through networked populations faster than suppression capacity can mobilize.</p> <p><strong>Historical cataloging is extensive. </strong>The 1873 railroad strikes involved federal troop deployment and dozens killed. The 1932 Bonus Army occupation of Washington ended with military dispersal. The urban insurrections of 1967-1968 required National Guard activation in multiple cities. More recently, coordinated civil unrest in 2020 produced property destruction exceeding $2 billion in some estimates, with police stations abandoned in some jurisdictions.</p> <p>The pattern often involves escalation that outpaces response. Initial protests may express legitimate grievance. Opportunistic elements may infiltrate. Property destruction can begin. Law enforcement may withdraw to protect personnel and facilities. Vacuums can fill with looting. Geographic expansion may follow contagion dynamics. By the time authorities respond effectively, commercial districts can be devastated. Insurance coverage may evaporate. Businesses may close permanently. Tax bases erode. Services contract. The cycle can reinforce itself.</p> <p>Preparation requires hardening of fixed assets and community organization. Commercial properties need security barriers, reinforced entry points, fire suppression. Residential properties need defensible space, clear sight lines, structural reinforcement. Community coordination - mutual aid agreements, communication protocols, coordinated response - can multiply individual capability. Isolation is vulnerability. Connection can be strength.</p> <p><strong>Urban concentration can become liability during such periods.</strong> Population density facilitates rapid spread. Resource competition intensifies. Infrastructure dependency creates multiple potential failure points. Less dense positioning may reduce certain exposures. Self-sufficiency capacity - food production, water independence, energy generation - can become a survival determinant.</p> <h2>Fourth Reality: When the Medicine Becomes Poison</h2> <p><strong>Governments respond to fiscal crisis through austerity: expenditure reduction, taxation increase, debt monetization. Modest application may stabilize. Sustained application can destroy.</strong></p> <p>Greece 2010-2018 demonstrates a trajectory. Troika-mandated austerity - pension cuts, tax increases, public sector layoffs - reduced GDP by approximately twenty-five percent. Unemployment exceeded twenty-five percent. Youth unemployment exceeded fifty percent. Suicide rates increased. Birth rates collapsed. Skilled labor emigrated. National capacity diminished.</p> <p><strong>The United States faces analogous pressures.</strong> Federal debt has exceeded one hundred percent of GDP. Interest payments consume an increasing share of federal revenue - now exceeding $1 trillion annually. Mandatory spending - Social Security, Medicare, Medicaid - crowds discretionary capacity. The policy options are constrained: tax increases may reduce productive activity; expenditure cuts reduce aggregate demand; debt monetization risks inflation. Paths may converge toward reduced living standards, though distribution varies.</p> <p><strong>Individual mitigation requires asset repositioning. </strong>Tax-advantaged accounts offer partial shelter. Geographic arbitrage - relocation to lower-cost or lower-tax jurisdictions - may preserve purchasing power. Currency diversification - precious metals, foreign assets, alternative stores - may reduce sovereign exposure. None eliminates risk. All distribute it differently.</p> <h2>Fifth Reality: The Thin Thread of Global Commerce</h2> <p><strong>Integrated production networks function during stability. They can disintegrate during stress. Minor disruptions - port congestion, labor disputes, fuel price spikes - can cascade through just-in-time systems. Major disruptions may generate systemic failure.</strong></p> <p>Container shipping rates illustrate volatility. Pre-pandemic norms around $2,000 per forty-foot unit spiked to $20,000 during 2021 disruptions, then collapsed, then rebounded. Such oscillation destroys planning capacity. Inventory management becomes difficult. Retail pricing becomes erratic. Consumer behavior may shift toward hoarding.</p> <p><strong>Manufacturing concentration amplifies vulnerability. </strong>Critical components - advanced semiconductors, certain pharmaceuticals, rare earth elements - originate from geographically concentrated sources. Taiwan and its immediate region produce the vast majority of the most advanced semiconductors. Disruption of major nodes can generate global shortage. The COVID-19 experience demonstrated this: semiconductor shortages idled automotive plants; pharmaceutical supply constraints affected treatment protocols; personal protective equipment scarcity required rationing.</p> <p><strong>Personal preparation requires inventory depth. </strong>Critical spares must be procured while available. Repair capability must be developed while instruction is accessible. Substitution planning must be completed while options exist. The window for preparation is uncertain. The need is not.</p> <h2>Sixth Reality: When Trust Evaporates</h2> <p><strong>Fractional reserve banking depends on confidence</strong>. Depositors believe their money is available. Physically, it is not immediately present. Banks hold a fraction of deposits as reserves; the remainder is lent, invested, or deployed. Confidence failure - bank runs - can reveal liquidity constraints immediately.</p> <p>Historical precedent is extensive. The United States experienced <strong>thousands of bank failures during the early 1930s</strong>, with deposits frozen. More recently, major institutions failed in 2008. Global financial systems froze. Central bank intervention prevented cascade but did not eliminate systemic risk.</p> <p>Current conditions include challenges: unrealized losses on bond portfolios, commercial real estate exposure, and significant uninsured deposits. Social media enables rapid information propagation. Digital banking enables rapid withdrawal. The combination creates potential for rapid confidence shifts.</p> <p><strong>Mitigation requires distribution. Account balances should remain below insurance limits where possible. </strong>Institutions should be diversified across multiple banks and potentially jurisdictions. Physical currency should be maintained as backup. Barter commodities may retain utility when electronic systems fail or are restricted.</p> <h2>Seventh Reality: When Calories Become Currency</h2> <p><strong>Food systems operate on thin margins. </strong>Producers require price stability, input availability, transportation functionality, market access. Economic crisis can disrupt all simultaneously.</p> <p>Input costs - fuel, fertilizer, seed - escalate with energy prices. The Haber-Bosch process, which produces nitrogen fertilizer, consumes significant natural gas. Transportation costs escalate similarly. Processing capacity operates near limits. Bottlenecks form. Prices spike.</p> <p><strong>Government intervention can worsen outcomes</strong>. Price controls may reduce production incentives. Export bans may reduce global supply. Subsidy elimination may bankrupt marginal producers. The result can be simultaneous surplus and shortage: commodities exist, but distribution fails.</p> <p>Historical parallels include Soviet collectivization and Sri Lanka's organic fertilizer mandate. Both produced yield collapse and food crisis. Contemporary vulnerability includes concentrated processing - limited slaughterhouses, grain storage, canning capacity.</p> <p>Personal preparation requires production capacity. <strong>Garden cultivation generates supplemental calories. Animal husbandry provides protein. </strong>Preservation skills extend availability. Storage infrastructure protects inventory. Skills require years to develop. The time to begin is before necessity compels it.</p> <h2>Eighth Reality: When Infrastructure Meets Inevitability</h2> <p><strong>Catastrophic events stress systems designed for routine operation. </strong>Economic crisis can degrade maintenance, preparation, and response capacity. Catastrophe can become disaster; disaster can become collapse.</p> <p>Hurricane Katrina demonstrated risks. Federal, state, and local coordination faced significant challenges. Approximately 1,800 deaths. $125 billion in damage. The Superdome became uninhabitable quickly. Police abandoned posts in some areas. Looting and vigilante violence followed. The event lasted days. Consequences persisted for years.</p> <p>Current infrastructure ages. The American Society of Civil Engineers most recently graded U.S. infrastructure at C. Deferred maintenance accumulates. Replacement costs are estimated in the trillions. Catastrophic failure probability may increase while response capability faces constraints.</p> <p><strong>Personal preparation requires redundancy. Water: filtration, storage, well access.</strong> Power: generation, storage, non-electric alternatives. Sanitation: disposal, treatment, disease prevention. Communication: radio, mesh networks, physical coordination. Shelter: repair materials, weatherproofing, climate control. Community organization multiplies individual capacity.</p> <h2>Ninth Reality: The Only Preparation That Matters</h2> <p><strong>Economic crises are not aberrations.</strong> They are features of systems that accumulate imbalances until correction becomes necessary. The timing is uncertain. The recurrence is not.</p> <p>Current indicators suggest elevated vulnerability. Whether this manifests as gradual degradation or acute rupture remains unknown. What is knowable is that preparation based solely on inventory addresses only initial phases.</p> <p><strong>True preparation is capability.</strong> Skills that persist when tools break. Networks that function when institutions fail. Adaptability that accommodates circumstances rather than demanding conformity to plans. My father's toolbox reminder wasn't about the layoff itself. It was about what came after - the years of adaptation, the humility of starting over, the recognition that identity must transcend employment.</p> <p>Stress, if it comes, will not announce itself clearly. It may arrive wearing the mask of normalcy, then accelerate beyond reaction capacity. Those who recognized patterns early may adapt. Those who waited for confirmation may consume their preparation just understanding that preparation was necessary.</p> <p><em><strong>Choose capability over inventory. Choose community over isolation. Choose skills over supplies. The ground moves. The question is whether you'll recognize the tremor before you're already falling.</strong></em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-17T03:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 23:25</span>",
-    "link": "https://www.zerohedge.com/personal-finance/9-terrifying-truths-about-long-term-economic-crises",
-    "pubDate": "Thu, 17 Sep 2026 03:25:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "J-50 Designers Reveal \"Leapfrog\" Technology For China's Next-Gen Stealth Fighter",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">J-50 Designers Reveal \"Leapfrog\" Technology For China's Next-Gen Stealth Fighter</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>China’s next-generation <a href=\"https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?module=inline&pgtype=article\">combat aircraft</a> will be <strong>able to fly by themselves if a pilot loses consciousness, navigate without satellite signals and operate in self-reorganising large drone formations. </strong>That is the plan laid out by researchers from the Shenyang Aircraft Design & Research Institute, a top Chinese military aircraft design organisation, in a paper last month, the SCMP reported.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/J50%20stealth.jpg?itok=QRsU_8AD\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/J50%20stealth.jpg?itok=QRsU_8AD\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"5c30fe36-9e25-4ece-bfbc-3a85dc0bc562\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/J50%20stealth.jpg?itok=QRsU_8AD\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The institute is associated with the development of the Chinese <a href=\"https://www.scmp.com/news/china/military/article/3362241/new-images-point-fifth-prototype-chinas-j-36-fighter-jet-air-power-race-us?module=inline&pgtype=article\">next-generation aircraft</a> <strong>commonly referred to as the J-50</strong>, which first appeared in flight-test imagery in December 2024, although the paper does not mention the J-50 by name or confirm that the aircraft will incorporate any of the described technologies.</p> <p>China’s future fighters, including the <a href=\"https://www.scmp.com/news/china/military/article/3313615/what-do-we-know-so-far-about-chinas-advanced-j-36-and-j-50-fighter-jets?module=inline&pgtype=article\">J-50 and J-36</a>, are considered rivals to the US Air Force’s sixth-generation main fighter programme, the <a href=\"https://www.scmp.com/news/china/military/article/3326558/us-official-declares-f-47-sixth-gen-fighter-production-and-set-2028-take?module=inline&pgtype=article\">F-47, being developed by Boeing</a>.</p> <p>The lead researcher is chief flight-control designer Zhang Dong at the institute, and his team’s paper – rare for its public details – was published in a peer-reviewed journal Aircraft Design in August.</p> <p>China’s next-generation stealth fighter programs were undergoing a “<strong>leapfrog transformation from being able to fly steadily to being able to win in combat</strong>”, wrote Zhang and his colleagues.</p> <p>Zhang’s study presents a future of pilots handing over control during periods of extreme workload or incapacitation, quantum navigation technologies supporting operations in satellite-denied environments and crewed fighters coordinating attack, reconnaissance and protection missions with reconfigurable wingman drones.</p> <p>The team’s institute is part of the state-owned Aviation Industry Corporation of China, which oversees much of the country’s aircraft research and development.</p> <p>Its subsidiary, <a href=\"https://www.scmp.com/topics/chengdu-aircraft-corporation?module=inline&pgtype=article\">Chengdu Aircraft Industry Group</a>, is also developing the J-36 fighter, widely regarded as another candidate for China’s next-generation sixth-generation combat aircraft.</p> <p>In 2025, an investigation by defence news website, The War Zone, using satellite imagery found that the Chengdu J-36 and the Shenyang J-50 aircraft were both based at an <a href=\"https://www.scmp.com/news/china/military/article/3366531/what-chinas-lop-nur-desert-base-expansion-means-pla-stealth-jets-race-us?module=inline&pgtype=article\">experimental military airfield near Lop Nur</a>, a highly secretive site for aerospace test flights that has often been compared to the United States’ Area 51.</p> <p>Their simultaneous presence at the same base suggested that China’s military was actively supporting the parallel development of the two programmes.</p> <p>Zhang’s paper presents a rare technological road map for future combat aircraft, describing a fundamental restructuring of the flight-control system from a device concerned mainly with flight quality into a core enabler of collaborative engagement, intelligent manoeuvre and mission effectiveness.</p> <p>The change reflected what the authors described as three successive eras of air combat.</p> <p>In the earlier “energy manoeuvrability” era, victory depended heavily on physical manoeuvring performance in close-range combat, while flight-control systems were largely closed and centralised, with specialised hardware and software designed mainly to keep the aircraft stable, controllable and responsive to pilot inputs.</p> <p>The rise of long-range radar, stealth shaping and precision-guided weapons shifted combat towards “information manoeuvrability”, where detecting, tracking and attacking an opponent before being detected became increasingly important.</p> <p>Fifth-generation aircraft such as the F-22 and J-20 use full-authority digital fly-by-wire systems and increasingly integrate flight control with fire-control and propulsion systems through high-speed data links.</p> <p>The authors argued that <strong>the next phase was “cognitive manoeuvrability”, in which artificial intelligence, autonomous systems and distributed networking allowed air combat to move from platform-versus-platform competition towards system-level contests involving manned-unmanned formations.</strong></p> <p>This changes what flight control is expected to do.</p> <p><em>“The functional positioning of the flight control system is undergoing a fundamental restructuring – from a platform controller merely pursuing flight quality to a core enabler of collaborative engagement management, intelligent manoeuvre decision-making and closed-loop mission effectiveness,” </em>Zhang and his co-authors wrote.</p> <p>The first major capability is autonomous flight control.</p> <p>Instead of making pilots constantly turn high-level battle plans into precise stick movements, the new system would let on-board intelligent algorithms do that job automatically, translating tactical orders into smooth, continuous flight actions while keeping the aircraft safely within its physical limits, even during extreme manoeuvres.</p> <p>The aircraft would constantly monitor its own health by fusing data from sensors such as inertial navigation, airspeed indicators, control-surface positions and engine performance.</p> <p>This would allow it to assess its flight state, estimate remaining manoeuvrability and detect potential problems before they develop into emergencies.</p> <p>The system could then automatically adjust control settings and redistribute on-board resources while strictly enforcing safety boundaries to avoid stalls, loss of control or stuck control surfaces.</p> <p>In particularly stressful situations, the aircraft could take over from the pilot.</p> <p>The paper proposes allocating control authority between humans and autonomous systems so that pilots can spend less effort on low-level aircraft handling and more on battlefield assessment and tactical decisions.</p> <p>During periods of excessive workload or if a pilot loses the ability to control the aircraft, <strong>the system could take control and continue executing the intended tactical task while prioritising flight safety.</strong></p> <p>The second major change concerns navigation.</p> <p>Future combat aircraft may need to operate when satellite navigation is jammed, disrupted or unavailable, prompting the researchers to <strong>identify quantum inertial navigation, visual navigation, geomagnetic navigation and terrain matching as potential technologies for passive autonomous navigation.</strong></p> <p>The paper proposes combining data from various sensors to reduce errors and prevent failures caused by the degradation or loss of any single sensor under severe electromagnetic interference.</p> <p>Quantum inertial navigation is therefore presented as part of a broader effort to give aircraft an independent sense of movement and position, rather than as a replacement for GPS.</p> <p>The study framed these technologies as areas requiring further engineering research and implementation, rather than saying a quantum navigation system had already been deployed on a Chinese fighter.</p> <p>The biggest shift, however, may come from the way multiple aircraft work together.</p> <p>Future formations could pair crewed fighters acting as command nodes with uncrewed wingmen assigned to reconnaissance, attack and protection roles. Flight-control systems would coordinate their positions, routes, electromagnetic spectrum use and weapons-launch windows while dynamically allocating tasks between aircraft.</p> <p>The authors saw this as more than a traditional formation controlled by a single leader.</p> <p>If an aircraft suffered a malfunction or combat damage and left the formation, the remaining aircraft could automatically reorganise, replace the missing node and redistribute its unfinished tasks.</p> <p>The system used consensus-based coordination and a dynamic “virtual leader” replacement mechanism to maintain autonomous operation without relying on a permanent central node.</p> <p>Zhang and his team said single-aircraft autonomous control guaranteed survival in complex environments, while swarm coordination delivered multiplied combat effectiveness.</p> <p>The paper pointed towards a more heterogeneous air-combat network rather than a simple arrangement of one crewed fighter and several identical drones.</p> <p>It further highlighted large collaborative wingmen alongside various aircraft and autonomous platforms, suggesting a future architecture in which crewed fighters, larger unmanned aircraft and smaller autonomous systems could perform different functions within the same network.</p> <p>Aircraft such as the Chinese Y-20 transport aircraft, the J-20 fighter and even the H-20 stealth strategic bomber, which is believed to be under development, could potentially form part of such a combat network.</p> <p>However, Zhang and his team did not say whether the “combat group”, or the crewed “lead aircraft” and unmanned wingmen, would consist mainly of large numbers of drones or a combination of the larger aircraft described above.</p> <p>The Shenyang Aircraft Corporation and the paper’s authors did not respond to a request for comment.</p> <p>Based on the paper’s publicly available discussion, the researchers suggested retaining conventional systems engineering as the safety backbone while using intelligent tools for tasks such as parameter optimisation, test expansion, automated testing and defect detection, with early trials conducted on lower-cost uncrewed platforms before broader adoption in major aircraft.</p> <p>But the researchers do not advocate handing the aircraft’s most safety-critical functions directly to artificial intelligence (AI).</p> <p>Instead, they identified a basic engineering conflict between intelligence and flight safety.</p> <p>Data-driven algorithms can be difficult to explain and verify, and they might not apply in every situation, especially in extreme scenarios.</p> <p>Applying such systems directly to the innermost control loops could therefore introduce unpredictable risks.</p> <p>The proposed solution was a layered architecture.</p> <p>“<em>Engineering practice widely adopts a hybrid architecture with a closed core and open periphery</em>,” the team wrote, allowing high-reliability, real-time functions to remain tightly controlled while more flexible software functions could be upgraded and connected across different platforms.</p> <p>Under this model, the inner loop would retain conventional, highly deterministic controls for functions such as attitude stabilization, control-surface actuation and hard flight-envelope protection.</p> <p>AI would operate mainly in the outer loop, handling tactical decision-making, trajectory optimization, multi-aircraft coordination and payload adaptation, while rigid safeguards would constrain its commands so that its recommendations remain inside a safe operating envelope.</p> <p>The researchers called for further work on open layered architecture, verifiable intelligent flight control and cross-domain cooperative control, supported by large-scale simulation and flight-test data to improve the robustness and verifiability of intelligent models.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-17T03:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 23:00</span>",
-    "link": "https://www.zerohedge.com/military/j-50-designers-reveal-leapfrog-technology-chinas-next-gen-stealth-fighter",
-    "pubDate": "Thu, 17 Sep 2026 03:00:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "How Trump's Iran Operation Turned Into A Forever War",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">How Trump's Iran Operation Turned Into A Forever War</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://responsiblestatecraft.org/iran-forever-war/\">Authored by Harrison Berger via Responsible Statecraft</a>,</em></p> <p>As the United States has struggled to secure its four primary objectives in the <a href=\"https://responsiblestatecraft.org/tag/iran/\">Iran</a> War - achieving regime change, dismantling long-range ballistic missiles, eliminating nuclear enrichment, and halting Tehran's support for regional proxies - <strong>U.S. officials have rolled out a series of tried-and-failed theories for how to achieve those goals.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/president-donald-trump-pictured-at-the-white-house_80.jpg?itok=JhRmK7pg\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/president-donald-trump-pictured-at-the-white-house_80.jpg?itok=JhRmK7pg\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"9aebc19d-0c79-4f78-a58a-f2bec38b9549\" data-responsive-image-style=\"inline_images\" height=\"250\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/president-donald-trump-pictured-at-the-white-house_80.jpg?itok=JhRmK7pg\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>In the past four weeks, Americans have watched their government attempt to inflict an economic victory against Iran through Operation Economic Outcast, tightening a sanctions regime which for decades has <a href=\"https://www.theamericanconservative.com/u-s-sanctions-on-iran-failed-so-why-do-they-continue/\">strangled</a> Iran's economy without resolving the underlying dispute.</p> <p>Now, as that strategy flags, we have seen the <a href=\"https://responsiblestatecraft.org/tag/trump-administration/\">Trump administration</a> return to its older strategy of kinetic strikes against Iran. <strong>Those strikes, too, have failed to achieve their desired objectives.</strong></p> <p>Facing the prospect of a self-inflicted defeat, the U.S. has now proposed two new paths forward.</p> <p>The first, reported by the Wall Street Journal last Wednesday, is an option to extend and formalize the current series of on-and-off strikes U.S. officials call this <a href=\"https://au.finance.yahoo.com/news/trump-weighs-mow-lawn-strategy-190611831.html\">\"mowing the lawn,\"</a> or a strategy of using periodic bouts of disproportionate force, as <a href=\"https://responsiblestatecraft.org/tag/israel/\">Israel</a> did in Gaza prior to launching its full-scale, seemingly endless campaign after the Oct. 7 attacks of 2023. <strong>To support that option, the Pentagon has <a href=\"https://www.wsj.com/politics/national-security/hegseth-extends-mideast-deployments-into-2027-escalating-strain-on-troops-c10fc533\">extended</a> troop deployments in the <a href=\"https://responsiblestatecraft.org/regions/middle-east/\">Middle East</a> through 2027.</strong></p> <p>The second option <a href=\"https://x.com/alexbward/status/2095323595371163873\">reportedly</a> <strong>considered by the White House is for the U.S. to declare victory and walk away, with the Wall Street Journal reporting that Trump favors the idea.</strong> Among the supporters of the second option is Joe Kent, the former Director of the National Counterterrorism Center, who resigned in protest of the Iran War, and who has argued on X that the U.S. should \"reset the terms of the deal\" with Iran \"by removing our troops & ships from the region.\" The argument that the U.S should walk away and \"declare victory\" is growing increasingly popular even in establishment <a href=\"https://slate.com/news-and-politics/2026/09/iran-war-donald-trump-victory-go-home.html\">circles</a>.</p> <p>But given the historic limitations of sanctions to achieve political outcomes, coupled with Iran's current demands, <strong>that strategy too appears unlikely to re-open the <a href=\"https://responsiblestatecraft.org/tag/strait-of-hormuz/\">Strait of Hormuz</a> and avert the economic consequences Iran's leverage over the waterway will have on the global economy.</strong></p> <p>Political scientists have long doubted whether U.S. economic pressure and sanctions can shape political outcomes, particularly when the targeted state has little reason to believe these measures will be reversed in exchange for good behavior; researchers like David Siegel are quick to acknowledge that they \"don't work,\" while U.S. officials like Janet Yellen have conceded the same point, <a href=\"https://responsiblestatecraft.org/2023/04/10/even-the-treasury-department-admits-sanctions-dont-work/\">noting</a> that, while sanctions against Iran had caused a \"real economic crisis,\" they produced political outcomes \"much less than we would ideally like.\"</p> <p>As Siegel - who most recently studied the failure of U.S. sanctions on <a href=\"https://responsiblestatecraft.org/tag/russia/\">Russia</a> to redirect their state behavior toward U.S. and <a href=\"https://responsiblestatecraft.org/tag/nato/\">NATO</a> interests - explains, \"target states have strong incentives not to give in and sometimes even benefit from heightened levels of political support at home because they can now credibly blame their economic woes on a foreign imperial power.\" Siegel argues that it's \"probably more true today than ever before due to the fact that sanctioned states can turn to China.\"</p> <p>The low likelihood of economic pressure opening up the Strait of Hormuz is depressed even further by the fact that <strong>one of Iran's preconditions for opening the Strait of Hormuz is the removal of sanctions, which would require a vote from Congress</strong>, where the proposal would face an uphill battle.</p> <p>But perhaps the main reason walking away and declaring victory would fail to re-open the Strait and mitigate impending economic disaster is because <strong>Iran has tied freedom of navigation in the waterway to the U.S. reining in Israel, and the U.S. has long demonstrated it is unwilling to do so.</strong></p> <p><strong>The June 17 agreement between the U.S. and Iran only required the U.S. force an Israeli withdrawal from Lebanon, and Washington failed to follow through.</strong> Now, <a href=\"https://caliber.az/en/post/iran-accuses-us-of-pressuring-oman-interfering-in-strait-of-hormuz-affairs\">subsequent</a> <a href=\"https://original.antiwar.com/harrison_berger/2026/07/01/marco-rubio-helps-israel-pursue-goal-of-civil-war-in-lebanon/\">provocations</a> by the U.S. and Israel have led Iran to <a href=\"https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html\">expand</a> its ceasefire demands to other campaigns: in Iraq, in Yemen, and in Palestine.</p> <p>Securing a deal to re-open the Strait and end the war is further complicated by the growing view around the world that the \"Art of The Deal\" author is simply incapable of making deals. Results of a 2025 Politico <a href=\"https://www.politico.com/news/2025/04/11/trumps-tariff-trade-waiting-china-00287407\">survey</a> of diplomats from 15 countries show foreign officials describing Trump's deal-making process as \"reactive, with no clear direction,\" while Trump has so far failed to resolve a proxy war in Ukraine that he promised to end \"within 24 hours\" of taking office. The White House has similarly failed to reach a peace deal in Gaza.</p> <p>Under these conditions, the broader Iran War appears to be rapidly approaching what a chief executive of a Danish shipping firm described to the <a href=\"https://www.ft.com/content/e9b2231e-79b0-40b3-a72e-6c594839e157\">Financial Times</a> as a \"Ukraine-style stalemate.\" Speaking to the outlet in August, the CEO of Torn explained how \"the Gulf leadership has realized they need to prepare themselves for a prolonged situation that lasts not days or weeks but months or years,\" adding that \"with the U.S. acting the way it is, I think it is a dream world to imagine the world returns to the way it was 10 years ago in the foreseeable future.\"</p> <p>The consequences of that \"prolonged situation\" will soon be felt even more by American consumers, as <strong>Iran's control over the Strait of Hormuz has <a href=\"https://www.forbes.com/sites/siladityaray/2026/09/11/diesel-prices-hit-record-6-per-gallon-it-could-worsen-inflation/\">pushed</a> diesel prices to their highest ever levels.</strong> Averting economic catastrophe will therefore require the U.S. to meet conditions it has so far been unwilling to accept; merely declaring victory and walking away won't do the trick.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-17T02:35:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 22:35</span>",
-    "link": "https://www.zerohedge.com/geopolitical/how-trumps-iran-operation-turned-forever-war",
-    "pubDate": "Thu, 17 Sep 2026 02:35:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Paramount Eyes California Exit, Hunts Nashville Offices As \"Insane Communist Wackos\" Ruin State",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Paramount Eyes California Exit, Hunts Nashville Offices As \"Insane Communist Wackos\" Ruin State</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Paramount Skydance Chairman and CEO David Ellison is <strong>exploring a potential California exit</strong> as the studio battles a multistate challenge to its $111 billion acquisition of Warner Bros. Discovery.</p> <p><a href=\"https://www.politico.com/news/2026/09/16/paramount-nashville-office-space-01080717\">Politico</a> reported late Wednesday that the studio is <strong>seeking roughly 400,000 square feet of office space in Nashville</strong>, signaling that its relocation is in the works. We have reported in the last few days and last month of Paramount's plan to exit the left-wing state (read <a href=\"https://www.zerohedge.com/political/paramount-threatens-california-exit-could-cost-state-billions\">here</a> & <a href=\"https://www.zerohedge.com/political/paramount-mulling-california-exodus-amid-antitrust-scrutiny\">here</a>). </p> <p>The studio could move at least some operations to the <strong>Tennessee capital within two to three years</strong>, according to the report. No relocation has been announced, but the search raises the risk that California could lose a major Hollywood studio headquarters. Such a loss would <strong>deepen concerns about the state's ability to retain businesses</strong> as its entertainment industry struggles and the exodus of businesses and residents shows no signs of stopping.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/paramount%20bye%20bitchez.jpg?itok=s9KOCBmJ\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/paramount%20bye%20bitchez.jpg?itok=s9KOCBmJ\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"6d18634e-6601-4fc6-ba51-67b6d93be9e6\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/paramount%20bye%20bitchez.jpg?itok=s9KOCBmJ\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Starting in October, Paramount will owe roughly $7 million for each day the transaction remains incomplete, according to the report. That amounts to approximately $210 million over 30 days.</p> <p>The <strong>Paramount-Warner Bros. deal faces an antitrust lawsuit from 12 states, including California</strong>, despite approval from the US Justice Department in June and regulators in more than 60 countries and jurisdictions. The trial is scheduled for March, with <strong>settlement talks in San Francisco next month</strong>.</p> <p>California Attorney General Rob Bonta, who is leading the lawsuit, has called Paramount's relocation threat nothing more than \"<strong>blackmail</strong>.\"</p> <p>For Hollywood, the potential studio loss extends beyond another corporate exit; the <strong>exodus includes Chevron, Tesla, SpaceX, Oracle, Charles Schwab, and many others.</strong></p> <p><strong>Tennessee has actively courted the studio</strong>. <strong>Nashville also has an existing Ellison family connection</strong>: Oracle, co-founded by Larry Ellison, announced plans to move its headquarters there in 2024. Larry Ellison is also financially backing his son David's Warner Bros. deal.</p> <p>\"<strong>I tried to warn you. LA is getting absolutely decimated by the insane communist wackos running California. Bob Bonta's jihad against Paramount is a death blow. What a corrupt piece of shit</strong>,\" <a href=\"https://x.com/spencerpratt/status/2100293522620362939?s=20\">Spencer Pratt</a> wrote on X.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-17T02:10:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 22:10</span>",
-    "link": "https://www.zerohedge.com/political/paramount-eyes-california-exit-hunts-nashville-offices-insane-communist-wackos-ruin-state",
-    "pubDate": "Thu, 17 Sep 2026 02:10:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Kirk Family Plans Wrongful Death Suit Against Utah Valley University, Others",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Kirk Family Plans Wrongful Death Suit Against Utah Valley University, Others</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/kirk-family-plans-wrongful-death-suit-against-utah-valley-university-others-6087843?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Savannah Hulsey Pointer via The Epoch Times</a>,</em></p> <p><strong>Charlie Kirk's family announced plans to file a wrongful death lawsuit alleging that security failures contributed to the fatal shooting of the conservative commentator last year.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image%20-%202026-09-16T142248.708.jpg?itok=On5CrarR\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image%20-%202026-09-16T142248.708.jpg?itok=On5CrarR\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"c6c45b49-bf0e-4890-84e4-9b9b43815ba2\" data-responsive-image-style=\"inline_images\" height=\"343\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/image%20-%202026-09-16T142248.708.jpg?itok=On5CrarR\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>In a Sept. 9 <a href=\"https://drive.google.com/file/d/1cE_lfnPpSCQ9UPFg1S_4RAkZSoSQesVE/view\">legal notice</a>, the plaintiffs assert that the defendants' failures \"led to the assassination\" and that the university and others were negligent in providing security for the event where he was killed.</p> <p><em><strong>\"Charlie Kirk was a once-in-a-lifetime public and political figure,\" the notice said, noting that Kirk's death occurred \"when political violence had hit a fever pitch.\"</strong></em></p> <p>The notice was sent to the Office of the Utah Attorney General the day before the first anniversary of Kirk's death.</p> <p>It named the state of Utah, Utah Valley University, the Utah Valley University Police Department and its Police Chief Jeffrey Long, former university President Astrid Tuminez, and others, as subjects of the suit.</p> <p><strong>Additionally, Turning Point USA claims to have notified the university police about security risks, specifically those posed by rooftops overlooking the amphitheater where Kirk made his final remarks.</strong></p> <p>The suit, which has not yet been filed, would be brought by Kirk's estate, his heirs, his wife Erika Kirk, the late Turning Point USA founder's parents, Robert and Kathryn Kirk, and others.</p> <p><strong>The notice says that university police failed to control access to the rooftop from where the shooter aimed.</strong></p> <p>Utah Valley University and its police department, as well as other defendants, did not respond to The Epoch Times' request for comment.</p> <p>A representative from the Utah Attorney General's office responded by asking that The Epoch Times direct inquiries to the university.</p> <p><strong>Tyler Robinson, 23, has been charged with Kirk's killing, and the state of Utah is seeking the death penalty. Robinson has pleaded not guilty.</strong></p> <p>The accused assassin allegedly sent text messages that are consistent with a plan to permanently silence Kirk, the prosecution said.</p> <p>The trial date is expected to be set at a hearing in late October. During a Sept. 1 preliminary hearing, the prosecution <a href=\"https://www.theepochtimes.com/article/a-year-after-charlie-kirk-assassination-evidence-presented-in-case-so-far-6078849?utm_source=partner&utm_campaign=ZeroHedge\">alleged</a> that Robinson had motive, means, and opportunity to kill Kirk.</p> <p>Utah Fourth District Court Judge Tony Graf Jr. ruled that the prosecution demonstrated probable cause during the hearing. Robinson will stand trial for seven charges, including aggravated murder.</p> <p>The other <a href=\"https://www.theepochtimes.com/us/utah-judge-rules-charlie-kirks-alleged-assassin-to-stand-trial-6081865?utm_source=partner&utm_campaign=ZeroHedge\">charges</a> include two counts of obstructing justice, two counts of witness tampering, along with causing serious bodily harm by discharging a firearm, and committing violence in the presence of a child.</p> <p>Testimony during a July evidentiary hearing indicated that Robinson asked his former roommate and romantic partner to delete messages from Robinson. The male roommate also offered to record testimony stating that Robinson cried and voiced regret after the Kirk shooting.</p> <p>In Robinson's text messages, he allegedly admitted responsibility and explained his motive, as well as outlining a week of planning before the shooting took place.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-17T01:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 21:45</span>",
-    "link": "https://www.zerohedge.com/political/kirk-family-plans-wrongful-death-suit-against-utah-valley-university-others",
-    "pubDate": "Thu, 17 Sep 2026 01:45:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should You Buy Oracle Stock While It's Down 53% From Its Peak? The Answer Might Surprise You.",
-    "desc": "Key PointsAI companies like OpenAI are lining up to rent computing capacity from Oracle's powerful data centers.",
-    "link": "https://www.nasdaq.com/articles/should-you-buy-oracle-stock-while-its-down-53-its-peak-answer-might-surprise-you",
-    "pubDate": "Thu, 17 Sep 2026 10:45:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "NSIT Crosses Above Average Analyst Target",
-    "desc": "In recent trading, shares of Insight Enterprises Inc. (Symbol: NSIT) have crossed above the average analyst 12-month target price of $163.75, changing hands for $165.19/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgr",
-    "link": "https://www.nasdaq.com/articles/nsit-crosses-above-average-analyst-target",
-    "pubDate": "Thu, 17 Sep 2026 10:41:52 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "JILL Crosses Above Average Analyst Target",
-    "desc": "In recent trading, shares of J.Jill Inc (Symbol: JILL) have crossed above the average analyst 12-month target price of $23.75, changing hands for $23.94/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuation",
-    "link": "https://www.nasdaq.com/articles/jill-crosses-above-average-analyst-target",
-    "pubDate": "Thu, 17 Sep 2026 10:41:48 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat",
-    "desc": "Key PointsEven after its massive gains over the past several years, Nvidia looks undervalued.",
-    "link": "https://www.nasdaq.com/articles/semiconductor-sell-1-ai-chip-stock-buy-1-hold-and-1-sell-after-broadcoms-beat",
-    "pubDate": "Thu, 17 Sep 2026 10:36:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 AI Growth Giants That Are Looking Like Value Stocks",
-    "desc": "Key PointsThese companies play key roles in the AI story, and they are positioned for ongoing growth.",
-    "link": "https://www.nasdaq.com/articles/3-ai-growth-giants-are-looking-value-stocks",
-    "pubDate": "Thu, 17 Sep 2026 10:30:01 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Billionaire Stanley Druckenmiller Dumped Broadcom and 11X'd His Fund's Stake in This Trillion-Dollar Dual-Industry Leader",
-    "desc": "Key PointsQuarterly-filed Form 13Fs allow investors to easily track which stocks Wall Street&rsquo;s savviest money managers are buying and selling.",
-    "link": "https://www.nasdaq.com/articles/billionaire-stanley-druckenmiller-dumped-broadcom-and-11xd-his-funds-stake-trillion-dollar",
-    "pubDate": "Thu, 17 Sep 2026 10:26:01 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Indian Shares End Choppy Session Mixed After Fed Hike",
-    "desc": "(RTTNews) - Indian shares swung between gains and losses on Thursday before ending on a mixed note.",
-    "link": "https://www.nasdaq.com/articles/indian-shares-end-choppy-session-mixed-after-fed-hike",
-    "pubDate": "Thu, 17 Sep 2026 10:20:47 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The 2027 Social Security COLA Announcement Is Just Weeks Away. Here's What to Expect.",
-    "desc": "Key PointsThe Social Security Administration will announce the 2027 COLA on Oct. 14, 2026.",
-    "link": "https://www.nasdaq.com/articles/2027-social-security-cola-announcement-just-weeks-away-heres-what-expect",
-    "pubDate": "Thu, 17 Sep 2026 10:20:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Luca Mining To Acquire El Barqueño From Agnico Eagle",
-    "desc": "(RTTNews) - Luca Mining Corp. (LUCMF, LUCA.V), a Mexico-focused mining company, on Thursday announced an agreement to acquire 100% of the El Barque&ntilde;o property from Agnico Eagle Mines Ltd. (AEM).",
-    "link": "https://www.nasdaq.com/articles/luca-mining-acquire-el-barqueno-agnico-eagle",
-    "pubDate": "Thu, 17 Sep 2026 10:12:56 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "$500 Invested in Joby Aviation Today Could Be Worth This Much in 3 Years",
-    "desc": "Key PointsJoby is beginning real-world air-taxi operations under FAA oversight.",
-    "link": "https://www.nasdaq.com/articles/500-invested-joby-aviation-today-could-be-worth-much-3-years",
-    "pubDate": "Thu, 17 Sep 2026 10:12:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Berkshire Hathaway Has 30.6% of Its Portfolio in These 2 Magnificent AI Stocks. Here's Why That's a Signal Worth Watching.",
-    "desc": "Key PointsBerkshire Hathaway's investment portfolio is valued at more than $350 billion.",
-    "link": "https://www.nasdaq.com/articles/berkshire-hathaway-has-306-its-portfolio-these-2-magnificent-ai-stocks-heres-why-thats",
-    "pubDate": "Thu, 17 Sep 2026 10:04:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Bond Market Sell-Off: Is It Really Safe to Invest Right Now?",
-    "desc": "Key PointsSpikes in bond yields often precede a stock market correction.",
-    "link": "https://www.nasdaq.com/articles/bond-market-sell-it-really-safe-invest-right-now",
-    "pubDate": "Thu, 17 Sep 2026 09:55:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "What Would It Actually Take to Move Visa's Take Rate?",
-    "desc": "Key PointsThere is a very good and deliberate reason for this.",
-    "link": "https://www.nasdaq.com/articles/what-would-it-actually-take-move-visas-take-rate",
-    "pubDate": "Thu, 17 Sep 2026 09:50:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;It&#8217;s a raise against Trump:&#8217; Despite inflation being ahead of target for five years, Trump says the Fed&#8217;s latest hike is political",
-    "desc": "\"The problem they have is that we have the greatest economy in history ... so they're raising that only for political reasons, and that's a raise against Trump.\"",
-    "link": "https://fortune.com/2026/09/17/trump-warsh-fed-inflation-fomc-interest-rate-hike/",
-    "pubDate": "Thu, 17 Sep 2026 10:51:10 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Europe has a new way to annoy Trump: A ‘hostile’ trade pact with Canada as an ‘associate member’ of the E.U.",
-    "desc": "Everything you need to know before you reach the office this morning.",
-    "link": "https://fortune.com/2026/09/17/europe-trump-hostile-trade-pact-canada-associate-member-eu/",
-    "pubDate": "Thu, 17 Sep 2026 10:39:06 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Inside the Ukrainian drone factories prototyping the free world&#8217;s next arsenal",
-    "desc": "They are completely unshackled from traditional defense procurement cycles that dictate things must take three years.",
-    "link": "https://fortune.com/2026/09/17/inside-the-ukrainian-drone-factories-prototyping-the-free-worlds-next-arsenal/",
-    "pubDate": "Thu, 17 Sep 2026 10:35:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Europe’s CEOs are ready to turn its energy challenge into a competitive edge",
-    "desc": "Also: All the news and watercooler chat from Fortune.",
-    "link": "https://fortune.com/2026/09/17/europe-energy-challenge-green-advantage-fortune-ceo-forun/",
-    "pubDate": "Thu, 17 Sep 2026 09:45:06 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Joe Kiani: We could cut 180,000 preventable hospital deaths a year. Here&#8217;s exactly why we haven&#8217;t",
-    "desc": "Preventable medical harm still kills far too many Americans, despite decades of proven safety protocols.",
-    "link": "https://fortune.com/2026/09/17/how-to-end-preventable-medical-harm-joe-kiani/",
-    "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nike’s falling share price puts its Dow seat in jeopardy",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nikes-falling-share-price-puts-its-dow-seat-in-jeopardy-4905228",
-    "pubDate": "2026-09-17 10:42:32",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "German court rules Meta liable for fake ads on Instagram, Facebook",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/german-court-rules-meta-liable-for-fake-ads-on-instagram-facebook-4905194",
-    "pubDate": "2026-09-17 10:36:57",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "The Fed is hiking. Why isn’t UBS worried about stocks?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/the-fed-is-hiking-why-isnt-ubs-worried-about-stocks-4905218",
-    "pubDate": "2026-09-17 10:34:55",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Huawei’s Xu says Chinese AI not powerful enough yet to see frontier risks",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-to-see-frontier-risks-4905193",
-    "pubDate": "2026-09-17 10:30:57",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "European stocks catch a post-Fed bid as traders weigh Middle East peace chatter",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-stocks-catch-a-postfed-bid-as-traders-weigh-middle-east-peace-chatter-4904808",
-    "pubDate": "2026-09-17 10:30:15",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "India stocks mixed at close of trade; Nifty 50 up 0.23%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/india-stocks-mixed-at-close-of-trade-nifty-50-up-023-4905205",
-    "pubDate": "2026-09-17 10:30:06",
-    "fetchedAt": "2026-09-17T11:01:32.325Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-    "desc": "The Fed on Wednesday delivered a much-expected interest rate hike.",
-    "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-    "pubDate": "Wed, 16 Sep 2026 21:23:51 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-    "desc": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
-    "link": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
-    "pubDate": "Wed, 16 Sep 2026 23:13:45 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
-    "desc": "Robert Kraft said Ed Sheeran asked him to commit $2 million toward humanitarian aid amid the controversy over Macklemore’s removal from Sheeran’s U.S. tour",
-    "link": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
-    "pubDate": "Thu, 17 Sep 2026 08:24:48 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-    "desc": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
-    "link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
-    "pubDate": "Wed, 16 Sep 2026 23:40:05 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
-    "desc": "Arm Holdings CEO Rene Haas said Wednesday he is increasingly confident the chip designer can secure enough supply to meet $2 billion in customer demand.",
-    "link": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html",
-    "pubDate": "Wed, 16 Sep 2026 22:52:20 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "China’s Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/chinas-huawei-sets-2027-launch-for-new-ai-chips-as-it-targets-nvidia-4904787",
-    "pubDate": "2026-09-17 09:43:06",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "Yemenis take to boats to flee as Middle East war spreads",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/trump-hopes-iran-war-nearing-end-as-houthisaudi-fighting-escalates-4904794",
-    "pubDate": "2026-09-17 09:42:49",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "ICE agent charged with assault, lying about shooting, jailed in Minnesota",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/ice-agent-charged-with-assault-lying-about-shooting-arrested-in-minnesota-4904744",
-    "pubDate": "2026-09-17 09:42:30",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "Centuria unit weighs sale of Bathla debt at discount - report",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/centuria-unit-weighs-sale-of-bathla-debt-at-discount--report-93CH-4905104",
-    "pubDate": "2026-09-17 09:41:09",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "FINAL HOUR: Get InvestingPro for less than $2 per week before our sale ends TODAY",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/final-hour-get-investingpro-for-less-than-2-per-week-before-our-sale-ends-today-4905103",
-    "pubDate": "2026-09-17 09:39:51",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "Allegro Q2 2026 slides: record EBITDA, international surge",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/allegro-q2-2026-slides-record-ebitda-international-surge-93CH-4905101",
-    "pubDate": "2026-09-17 09:37:18",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
-    "pubDate": "2026-09-17 09:36:24",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tyler Technologies at Piper Sandler conference: cloud, ai drive growth",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/tyler-technologies-at-piper-sandler-conference-cloud-ai-drive-growth-93CH-4905100",
-    "pubDate": "2026-09-17 09:34:47",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "Ouster CTO Mark Frichtl sells $637k in common stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/ouster-cto-mark-frichtl-sells-637k-in-common-stock-93CH-4905098",
-    "pubDate": "2026-09-17 09:30:56",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "investing",
-    "title": "BofA Securities maintains Apple stock rating on carrier incentives",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bofa-securities-maintains-apple-stock-rating-on-carrier-incentives-93CH-4905092",
-    "pubDate": "2026-09-17 09:28:51",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
-    "desc": "The investment bank found that stocks in the energy and information technology sectors on average perform the best one year after an interest-rate hike by the Federal Reserve.",
-    "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-    "pubDate": "Thu, 17 Sep 2026 09:54:00 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "&#x2018;I&#x2019;m burned out&#x2019;: I&#x2019;m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-    "desc": "&#x201c;I spend a lot of time away from my family and spend money on gas, taking him out to eat.&#x201d;",
-    "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-    "pubDate": "Thu, 17 Sep 2026 09:15:00 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "ft",
-    "title": "Who was right on job creation — Adam Smith or Schumpeter?",
-    "desc": "The centuries-old trend towards specialisation could be about to reverse",
-    "link": "https://www.ft.com/content/9edd3f8c-c28b-4532-b5c1-fa55ad71e432?syn-25a6b1a6=1",
-    "pubDate": "Thu, 17 Sep 2026 04:00:11 GMT",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "OpenAI discloses six new incidents of 'concerning' AI behavior",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643662-openai-discloses-six-new-incidents-of-concerning-ai-behavior?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 17 Sep 2026 05:16:46 -0400",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Anthropic policy chief: We can't be checking our own homework",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643645-anthropic-policy-chief-ai-regulation-safety?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 17 Sep 2026 05:07:22 -0400",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Biggest stock movers Thursday: GNRC, FLNC, and more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643656-biggest-stock-movers-thursday-gnrc-flnc-and-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 17 Sep 2026 05:01:16 -0400",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Applied Materials to invest $5B in India over the next decade",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643660-applied-materials-to-invest-5b-in-india-over-the-next-decade?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 17 Sep 2026 05:00:53 -0400",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Futures Surge as Wall Street Buys the Dip Following Fed Selloff",
-    "desc": "Stocks were on track to open higher on Thursday as oil prices retreated and investors got over the worst of their worries about the Federal Reserve’s fight against inflation. Nasdaq 100 futures jumped 1.1%. The S&P 500 and the Dow both dropped the previous session after the Fed hiked interest rates for the first time in more than three years, with Chairman Kevin Warsh signaling there could be more tightening.",
-    "link": "https://finance.yahoo.com/m/682efcbe-ab54-38a6-929e-d00654e40b90/stock-futures-surge-as-wall.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 09:31:50 +0000",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Pfizer's Dividend Faces Big Questions. Here Are 3 Reasons It Should Survive.",
-    "desc": "Income investors shouldn't be too worried about the pharma giant cutting its dividend.",
-    "link": "https://www.fool.com/investing/2026/09/17/pfizers-dividend-faces-big-questions-here-are-3-re/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 09:04:00 +0000",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The S&P 500 Is Near Record Highs. History Says That's Not a Good Reason to Stop Buying This ETF",
-    "desc": "Historical forward-looking returns have actually been better when the S&P 500 is at a record high.",
-    "link": "https://www.fool.com/investing/2026/09/17/sp-500-record-high-history-says-buy-this-etf/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 08:50:00 +0000",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Puzzle Pieces for an AI Bubble-Bursting Event Are Falling Into Place",
-    "desc": "The hottest technological trend of the decade appears to be running on borrowed time.",
-    "link": "https://www.fool.com/investing/2026/09/17/the-puzzle-pieces-for-an-ai-bubble-bursting-event-are-falling-into-place/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 09:26:01 +0000",
-    "fetchedAt": "2026-09-17T10:01:32.091Z"
   }
 ]
