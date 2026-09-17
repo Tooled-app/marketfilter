@@ -1,6 +1,542 @@
 [
   {
     "source": "cnbc",
+    "title": "U.S. oil falls below $100 as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+    "desc": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom’s exports.",
+    "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+    "pubDate": "Thu, 17 Sep 2026 12:48:27 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump says he told Warsh to vote for hike with the rest of Fed board: 'It's not going to matter'",
+    "desc": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
+    "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+    "pubDate": "Thu, 17 Sep 2026 12:24:31 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+    "desc": "Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+    "link": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+    "pubDate": "Wed, 16 Sep 2026 20:54:15 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Barclays staff push back at plans to reduce work-from-home days",
+    "desc": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:17:48 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How rising bond yields impact American consumers",
+    "desc": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+    "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 03:58:32 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+    "desc": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+    "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 00:05:51 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "bbc",
+    "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+    "desc": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+    "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 11:05:42 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "Guardian Metal Resources files annual report with SEC",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/guardian-metal-resources-files-annual-report-with-sec-93CH-4905701",
+    "pubDate": "2026-09-17 12:46:05",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "111 Inc stock jumps on $4.52 per ADS buyout proposal",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/111-inc-stock-jumps-on-452-per-ads-buyout-proposal-93CH-4905700",
+    "pubDate": "2026-09-17 12:45:14",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.02%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-002-4905699",
+    "pubDate": "2026-09-17 12:45:04",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "TOMI reports $2.3M in enclosure orders year-to-date",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/tomi-reports-23m-in-enclosure-orders-yeartodate-93CH-4905696",
+    "pubDate": "2026-09-17 12:44:34",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "FibroBiologics CSO invests $500,000 in private placement",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/fibrobiologics-cso-invests-500000-in-private-placement-93CH-4905695",
+    "pubDate": "2026-09-17 12:44:31",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "PetMeds names Jeff Willard as CEO, Campbell to retire",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/petmeds-names-jeff-willard-as-ceo-campbell-to-retire-93CH-4905693",
+    "pubDate": "2026-09-17 12:44:30",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "GlobalFoundries, Marvell expand SiGe capacity for AI data centers",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/globalfoundries-marvell-expand-sige-capacity-for-ai-data-centers-93CH-4905694",
+    "pubDate": "2026-09-17 12:44:30",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "Eightco reports $380M in holdings including OpenAI stake",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/eightco-reports-380m-in-holdings-including-openai-stake-93CH-4905690",
+    "pubDate": "2026-09-17 12:44:29",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "AbbVie to present phase 3 etentamig data at myeloma meeting",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/abbvie-to-present-phase-3-etentamig-data-at-myeloma-meeting-93CH-4905691",
+    "pubDate": "2026-09-17 12:44:29",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investing",
+    "title": "McGraw Hill acquires AI coaching platform TeachFX",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/mcgraw-hill-acquires-ai-coaching-platform-teachfx-93CH-4905692",
+    "pubDate": "2026-09-17 12:44:29",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;My total balance should be $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    "desc": "&#x201c;I invested on the recommendation of an executive vice president of a major New York investment bank.&#x201d;",
+    "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+    "pubDate": "Thu, 17 Sep 2026 12:15:00 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
+    "desc": "John Laforge, of Ned Davis Research, said network adoption is the best way of assessing the cryptocurrency&#x2019;s worth.",
+    "link": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
+    "pubDate": "Thu, 17 Sep 2026 12:10:00 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "ft",
+    "title": "Carney defends EU ties amid ‘ferocious storm’",
+    "desc": "Canadian prime minister defends his bid to become EU’s first ‘associate member’ after threats from Donald Trump",
+    "link": "https://www.ft.com/content/f6a3f875-ddfa-4fd7-8232-cb5a3699a5df?syn-25a6b1a6=1",
+    "pubDate": "Thu, 17 Sep 2026 11:02:19 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "ft",
+    "title": "European carmakers warn EU-UK tariffs could be ‘catastrophic’",
+    "desc": "Industry argues that stricter rules of origin should be delayed to allow more time for supply chains to be established",
+    "link": "https://www.ft.com/content/a9e7a625-9dab-4064-bf12-0498f2256792?syn-25a6b1a6=1",
+    "pubDate": "Thu, 17 Sep 2026 11:33:23 GMT",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "US senators added AI antitrust exemption to defense bill, but effort stymied: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643750-us-senators-added-ai-antitrust-exemption-to-defense-bill-but-effort-stymied-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:55:37 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "4 stocks to watch on Thursday: GEV, MU, PSKY, and CRM",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643768-4-stocks-to-watch-on-thursday-gev-mu-psky-and-crm?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:55:20 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Food Culture enters negotiations to acquire Grupo Austero",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643772-food-culture-enters-negotiations-to-acquire-grupo-austero?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:53:53 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Luca Mining to buy Mexico project from Agnico Eagle for up to $60M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643759-luca-mining-to-buy-mexico-project-from-agnico-eagle-for-up-to-60m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:53:37 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Allstate posts $748M in August catastrophe losses",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643761-allstate-posts-748m-in-august-catastrophe-losses?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:51:15 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Agree Realty trades higher after reporting ~$2M insider buy transactions",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643738-agree-realty-trades-higher-after-reporting-2m-insider-buy-transactions?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:50:39 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "China urges Iran to control Houthis post-attack on Saudi Arabia, reports",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4643757-china-urges-iran-to-control-houthis-post-attack-on-saudi-arabia--reports?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 17 Sep 2026 08:49:21 -0400",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
+    "desc": "Futures rebounded with the Nasdaq and S&P 500 eyeing key support. Generac, Nebius, Bloom Energy, SpaceX were early winners.",
+    "link": "https://finance.yahoo.com/m/dd537ea9-d49e-3b94-874c-ef12aa1ee375/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:45:32 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Pasqal to Ring Nasdaq Closing Bell on September 17th",
+    "desc": "Closing Bell ceremony celebrating Pasqal’s recent public listing and marking its next chapter as a publicly traded companyPARIS and NEW YORK, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Pasqal (NASDAQ: PSQL), a global leader in neutral-atom quantum computing, today announced that it will ring the Nasdaq Closing Bell on September 17, 2026, marking the company’s recent public listing under the ticker symbol PSQL. The ceremony marks an important milestone in Pasqal’s journey, from pioneering quantum computi",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/pasqal-ring-nasdaq-closing-bell-123000712.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:30:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Equity Futures Up Pre-Bell as Traders Parse Fed Rate Hike, Outlook",
+    "desc": "US equity futures were tracking higher before the opening bell Thursday as traders assess the Federa",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-pre-bell-traders-120255176.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:02:55 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How To Protect Yourself From The Looming AI-Stock Crash",
+    "desc": "Fear of an AI stock crash are heating up. And the risk looms large — as hundreds of billions of investment dollars stampede into the field.",
+    "link": "https://finance.yahoo.com/m/19d7e5de-596d-3f8d-af37-e78f6b7e2cd9/how-to-protect-yourself-from.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:00:43 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "GCL Global Holdings Ltd. Announces Transfer of Listing to The Nasdaq Capital Market and Additional 180 Days to Cure Minimum Bid Price Deficiency",
+    "desc": "SINGAPORE, Sept. 17, 2026 (GLOBE NEWSWIRE) -- GCL Global Holdings Ltd (Nasdaq: GCL) (“GCL” or the “Company”), a leading provider of games and entertainment, today announced that the listing of its ordinary shares will be transferred to The Nasdaq Capital Market at the opening of business on September 18, 2026. The Company's ordinary shares will continue to trade under the ticker symbol \"GCL,\" and its warrants will continue to trade on The Nasdaq Capital Market under the ticker symbol \"GCLWW.\" Th",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gcl-global-holdings-ltd-announces-120000070.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:00:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Futures Higher Pre-Bell as Traders Assess Fed Interest-Rate Increase",
+    "desc": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+    "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-futures-higher-pre-125642814.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:56:42 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sigma Lithium marks five years on Nasdaq with second closing bell honor",
+    "desc": "Sigma Lithium Corp (TSX-V:SGML, NASDAQ:SGML) will ring the Nasdaq Closing Bell during New York Climate Week, the second time it has received the honor, recognizing its strategy to build the largest lithium oxide industrial mineral producer in the Americas. The ceremony coincides with the...",
+    "link": "https://www.proactiveinvestors.com/companies/news/1098695/sigma-lithium-marks-five-years-on-nasdaq-with-second-closing-bell-honor-1098695.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:40:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "FibroBiologics Announces Closing of $0.5 Million Private Placement with Chief Scientific Officer",
+    "desc": "FibroBiologics, Inc. (Nasdaq: FBLG) (\"FibroBiologics\" or the \"Company\"), a clinical-stage biotechnology company with 270+ patents issued and pending with a focus on the development of therapeutics and potential cures for chronic diseases using fibroblasts and fibroblast-derived materials, today announced the closing of a private placement on September 15, 2026, with Hamid Khoja, Ph.D., Chief Scientific Officer of FibroBiologics, for the purchase of 298,508 shares of common stock and accompanying",
+    "link": "https://finance.yahoo.com/healthcare/articles/fibrobiologics-announces-closing-0-5-123000793.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:30:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Happens To AbbVie Stock If SKYRIZI Slows Down?",
+    "desc": "AbbVie (ABBV) is trading within about one percent of its 52-week high after gaining roughly 24% over the past year, well ahead of the S&P 500. That price rests on two drugs, SKYRIZI above all, growing faster than 20% year over year while the company's older medicines shrink. The biggest risk to the stock makes no noise. It is the chance that this engine slows while the price assumes it cannot.",
+    "link": "https://www.trefis.com/articles/615539/what-happens-to-abbvie-stock-if-skyrizi-slows-down/2026-09-17?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:11:29 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Equity Futures Higher Pre-Bell as Traders Assess Fed Interest-Rate Increase",
+    "desc": "US equity futures were edging higher pre-bell Thursday as traders evaluated the Federal Reserve's in",
+    "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-futures-higher-pre-120128082.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:01:28 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ohmyhome Limited Regains Compliance with Nasdaq Minimum Closing Bid Price Rule",
+    "desc": "Ohmyhome Limited (NASDAQ: OMH, \"Ohmyhome\" or \"the Company\"), a data and technology-driven digital marketing company delivering multi-channel marketing and content solutions for advertisers, today announced that it received a formal notification from the Nasdaq Stock Market LLC (\"Nasdaq\") that the Company has regained compliance with Nasdaq Listing Rule 5550(a)(2), which requires the Company's Class A ordinary shares, par value US$0.000005 each (the \"Ordinary Shares\") to maintain a minimum bid pr",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ohmyhome-limited-regains-compliance-nasdaq-120000647.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:00:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How Does This ESG Fund Compare to the Vanguard Total World Stock ETF?",
+    "desc": "VT's more than 10,000 holdings deliver broader diversification and lower costs, while NZAC's climate screen targets ESG-aligned outcomes with concentrated exposure.",
+    "link": "https://www.fool.com/coverage/etfs/2026/09/17/how-does-this-esg-fund-compare-to-the-vanguard-total-world-stock-etf/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:36:01 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Guaranteed Rate Affinity Welcomes Josh Rakiey as Vice President of Mortgage Lending",
+    "desc": "Rakiey will draw on more than two decades of experience to grow his New England area businessCHICAGO, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Guaranteed Rate Affinity, a leading mortgage provider offering unparalleled lending services, today announced that Josh Rakiey has joined the company as Vice President of Mortgage Lending. He will focus on serving homebuyers, building relationships with real estate agents and expanding his business across New England. Since entering the mortgage industry in 200",
+    "link": "https://finance.yahoo.com/real-estate/articles/guaranteed-rate-affinity-welcomes-josh-120000702.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 12:00:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SpaceX Investors Just Got Some Bad News From Anthropic Founder Dario Amodei",
+    "desc": "Key PointsAnthropic founder Dario Amodei recently published a blog post calling for a slowdown in the pace of artificial intelligence (AI) development.",
+    "link": "https://www.nasdaq.com/articles/spacex-investors-just-got-some-bad-news-anthropic-founder-dario-amodei",
+    "pubDate": "Thu, 17 Sep 2026 12:37:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Silvercorp Launches 4% Share Repurchase Program Through September 2027",
+    "desc": "(RTTNews) - Silvercorp Metals Inc. (SVM), a silver mining company, on Thursday announced a normal course issuer bid to repurchase up to 8,848,585 common shares, representing approximately 4% of its outstanding shares.",
+    "link": "https://www.nasdaq.com/articles/silvercorp-launches-4-share-repurchase-program-through-september-2027",
+    "pubDate": "Thu, 17 Sep 2026 12:35:24 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Social Security's COLA for 2027 Is Shaping Up to Be Historically Unique in a Key Way -- But Several Problems Loom",
+    "desc": "Key PointsEstimates of the upcoming Social Security cost-of-living adjustment (COLA) for 2027 have recently gone up -- and down.",
+    "link": "https://www.nasdaq.com/articles/social-securitys-cola-2027-shaping-be-historically-unique-key-way-several-problems-loom",
+    "pubDate": "Thu, 17 Sep 2026 12:35:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Lockheed Martin Agrees Framework Deal For AIM-260 Missile Production",
+    "desc": "(RTTNews) - Thursday, Lockheed Martin Corp. (LMT) announced a framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery of the AIM-260, Joint Advanced Tactical Missile.",
+    "link": "https://www.nasdaq.com/articles/lockheed-martin-agrees-framework-deal-aim-260-missile-production",
+    "pubDate": "Thu, 17 Sep 2026 12:31:28 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Futures Suggest That Wall Street Might Surge At Open",
+    "desc": "(RTTNews) - The Middle East crisis is not showing any signs of ease. In another political development, Canadian Prime Minister said the country is planning to be an associate member of European Union.",
+    "link": "https://www.nasdaq.com/articles/futures-suggest-wall-street-might-surge-open",
+    "pubDate": "Thu, 17 Sep 2026 12:27:13 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Bank7 Corp. To Acquire Century Financial Services To Expand Its Presence In Southwest Market",
+    "desc": "(RTTNews) - Thursday, Bank7 Corp. (BSVN) announced plans to acquire Century Financial Services Corp., the parent company of Century Bank, helping to expand its presence into the growing Southwest market.",
+    "link": "https://www.nasdaq.com/articles/bank7-corp-acquire-century-financial-services-expand-its-presence-southwest-market",
+    "pubDate": "Thu, 17 Sep 2026 12:25:52 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Bay Street Looks Headed For Positive Start",
+    "desc": "(RTTNews) - Higher Canadian and U.S. futures and positive European markets amid weak oil prices and lower bond yields point to a positive start for the Canadian market Thursday morning.",
+    "link": "https://www.nasdaq.com/articles/bay-street-looks-headed-positive-start",
+    "pubDate": "Thu, 17 Sep 2026 12:25:28 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DoorDash Named Official NHL Delivery Partner For Canada And The US In Multiyear Deal",
+    "desc": "(RTTNews) - DoorDash, Inc. (DASH) and the National Hockey League announced Thursday a multiyear North American partnership making DoorDash the Official On-Demand Delivery and Pick Up Partner of the NHL in Canada and the United States.",
+    "link": "https://www.nasdaq.com/articles/doordash-named-official-nhl-delivery-partner-canada-and-us-multiyear-deal",
+    "pubDate": "Thu, 17 Sep 2026 12:23:46 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What Would It Take for Investors to Pay More for Toast Stock?",
+    "desc": "Key PointsToast is posting very strong sales and earnings growth, but the stock is still down nearly 11% year to date.",
+    "link": "https://www.nasdaq.com/articles/what-would-it-take-investors-pay-more-toast-stock",
+    "pubDate": "Thu, 17 Sep 2026 12:22:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "CleanSpark Plans $2.227 Bln Senior Secured Notes Offering Due 2031",
+    "desc": "(RTTNews) - CleanSpark, Inc. (CLSK), a bitcoin mining company, on Thursday announced that its wholly owned subsidiary CSDC Finance I plans to offer $2.227 billion of senior secured notes due 2031.",
+    "link": "https://www.nasdaq.com/articles/cleanspark-plans-2227-bln-senior-secured-notes-offering-due-2031",
+    "pubDate": "Thu, 17 Sep 2026 12:15:53 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Abercrombie & Fitch Chief HR Officer Sells 5,000 Shares",
+    "desc": "Key PointsThe sale was valued at $737,500.",
+    "link": "https://www.nasdaq.com/articles/abercrombie-fitch-chief-hr-officer-sells-5000-shares",
+    "pubDate": "Thu, 17 Sep 2026 12:15:01 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "S&P Global To Acquire OpenZeppelin; Brener To Continue To Lead Business",
+    "desc": "(RTTNews) - S&P Global (SPGI) announced it has entered into an agreement to acquire OpenZeppelin, the security standard for onchain finance. The transaction complements S&P Global's risk assessment and ecosystem development capabilities in digital asset markets. OpenZeppelin will",
+    "link": "https://www.nasdaq.com/articles/sp-global-acquire-openzeppelin-brener-continue-lead-business",
+    "pubDate": "Thu, 17 Sep 2026 12:14:36 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "New Flyer Wins $93 Mln Order From Houston METRO For 100 CNG Buses",
+    "desc": "(RTTNews) - NFI Group Inc. (NFI.TO), a bus and motorcoach manufacturer and provider of aftermarket parts and services, on Thursday said its subsidiary New Flyer of America Inc. received an order from Houston Metropolitan Transit Authority (METRO) for 100 Xcelsior 40-foot compress",
+    "link": "https://www.nasdaq.com/articles/new-flyer-wins-93-mln-order-houston-metro-100-cng-buses",
+    "pubDate": "Thu, 17 Sep 2026 12:08:40 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Advanced Micro Devices vs. Texas Instruments: Which Tech Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsAdvanced Micro Devices continues to expand its footprint in the data center market through strategic partnerships with major artificial intelligence developers.",
+    "link": "https://www.nasdaq.com/articles/advanced-micro-devices-vs-texas-instruments-which-tech-stock-better-buy-2026",
+    "pubDate": "Thu, 17 Sep 2026 12:05:01 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Current price of oil as of September 17, 2026",
+    "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+    "link": "https://fortune.com/article/price-of-oil-09-17-2026/",
+    "pubDate": "Thu, 17 Sep 2026 12:15:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "fortune",
+    "title": "As Anthropic heads towards a $2 trillion IPO, some of the loudest critics are company insiders",
+    "desc": "\"I would burn my equity to the ground in a heartbeat for a 1% higher chance we make it out of this situation alive,” wrote one researcher.",
+    "link": "https://fortune.com/2026/09/17/anthropic-2-trillion-ipo-critics/",
+    "pubDate": "Thu, 17 Sep 2026 11:48:05 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "fortune",
+    "title": "How can Europe achieve its growth potential?",
+    "desc": "Business leaders from Microsoft, Volvo, EDF, and Mastercard outline the challenges and opportunities facing companies in Europe",
+    "link": "https://fortune.com/2026/09/17/how-can-europe-achieve-its-growth-potential-microsoft-volvo-mastercard-logitech-honeywell/",
+    "pubDate": "Thu, 17 Sep 2026 11:29:42 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Zocdoc CEO: I’ve watched Walmart, IBM, and others try to ‘disrupt’ healthcare. Here’s why they failed",
+    "desc": "For too long, we have mistaken disruption for progress. Patients still struggle to find a doctor who takes their insurance.",
+    "link": "https://fortune.com/2026/09/17/why-healthcare-disruption-fails-zocdoc-ceo/",
+    "pubDate": "Thu, 17 Sep 2026 11:30:00 +0000",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-to-see-frontier-risks-4905193",
+    "pubDate": "2026-09-17 12:44:00",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Lockheed Martin reveals new secret missile, fast tracks production",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-reveals-new-secret-missile-fast-tracks-production-4905602",
+    "pubDate": "2026-09-17 12:43:44",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Lucid stock rises on Bolt autonomous vehicle partnership",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/lucid-stock-rises-on-bolt-autonomous-vehicle-partnership-93CH-4905679",
+    "pubDate": "2026-09-17 12:42:56",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Holtec Nuclear shelves US IPO as AI trade turbulence rattles markets",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-4904657",
+    "pubDate": "2026-09-17 12:42:51",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Affirm stock surges on new AI model for loan approvals",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/affirm-stock-surges-on-new-ai-model-for-loan-approvals-93CH-4905674",
+    "pubDate": "2026-09-17 12:40:46",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Tower Semiconductor stock jumps on AI optical chip shipments",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tower-semiconductor-stock-jumps-on-ai-optical-chip-shipments-93CH-4905673",
+    "pubDate": "2026-09-17 12:39:53",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Stifel is Constructive on These US Midstream Energy Stocks Amid Surging Power Demand",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/stifel-is-constructive-on-these-us-midstream-energy-stocks-amid-surging-power-demand-93CH-4905671",
+    "pubDate": "2026-09-17 12:37:48",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Jensten Group to acquire specialist broker Venture Risks Group",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/jensten-group-to-acquire-specialist-broker-venture-risks-group-93CH-4905669",
+    "pubDate": "2026-09-17 12:37:34",
+    "fetchedAt": "2026-09-17T13:01:29.384Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
     "desc": "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\"",
     "link": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
@@ -5862,541 +6398,5 @@
     "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
     "pubDate": "Wed, 16 Sep 2026 20:52:00 GMT",
     "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Here&#x2019;s a sneaky way to play the Fed&#x2019;s rate increase",
-    "desc": "But watch out for the pitfalls.",
-    "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
-    "pubDate": "Wed, 16 Sep 2026 20:38:00 GMT",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "guardian",
-    "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-    "desc": "<p>Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears </p><p>US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market.</p><p>The yield – in effect the interest rate – on 10-year US Treasury bonds hit the psychologically important threshold on Monday, on a day of renewed selling pressure on Wall Street as the global oil price reached $108 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-    "pubDate": "Mon, 14 Sep 2026 16:48:34 GMT",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK government moves to acquire Speciality Steel UK; AI stocks hit by calls for slowdown – as it happened",
-    "desc": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-    "pubDate": "Mon, 14 Sep 2026 16:41:41 GMT",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "guardian",
-    "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
-    "desc": "<p>From Shropshire to Hamburg, depleting reserves and spiralling costs are spawning a continent-wide energy crisis</p><p>Bridgnorth Aluminium has faced down Brexit, Covid and repeated energy shocks in recent years. But this winter is bringing extra “stress and pressure”, says its head of sales, Adrian Musgrave.</p><p>Musgrave’s company makes rolled aluminium, used in packaging, construction and the manufacture of items such as cars and batteries. Like many stretched industrial businesses across Europe, Bridgnorth Aluminium faces a looming threat of soaring energy bills, which Musgrave describes as “just worry upon worry”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
-    "pubDate": "Fri, 11 Sep 2026 09:00:00 GMT",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "ft",
-    "title": "Von der Leyen backs Canada’s ‘associate membership’ bid",
-    "desc": "European Commission president says EU and Canada ‘see the world with the same eyes’",
-    "link": "https://www.ft.com/content/8fed428e-7bcc-435c-9487-cb4e6a795328?syn-25a6b1a6=1",
-    "pubDate": "Wed, 16 Sep 2026 08:38:57 GMT",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "ft",
-    "title": "EU to restrict social media and chatbots for children under 15",
-    "desc": "Ursula von der Leyen describes AI as ‘second tipping point of our time’ after climate change",
-    "link": "https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8?syn-25a6b1a6=1",
-    "pubDate": "Wed, 16 Sep 2026 08:27:43 GMT",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Alignment Healthcare extends retreat, falls an additional 16%",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643573-alignment-healthcare-extends-retreat-falls-an-additional-16?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:59:24 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "ACRES Commercial Realty Series C Cumulative Redeemable Preferred Stock raises dividend to $0.6106",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643577-acres-commercial-realty-series-c-cumulative-redeemable-preferred-stock-raises-dividend-to-06106?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:55:00 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BXP declares $0.70 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643576-bxp-declares-0_70-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:54:55 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Forgent Power Solutions advances another 12% as earnings rally continues",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643515-forgent-power-solutions-advances-another-12-as-earnings-rally-continues?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:53:43 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "ACRES Commercial Realty Corp. 7.875 CUM PFD D declares $0.4922 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643575-acres-commercial-realty-corp-7_875-cum-pfd-d-declares-0_4922-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:53:41 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "U.S.-Mexico trade discussions delayed by a week - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643561-us-mexico-trade-discussions-delayed-by-a-week---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:53:08 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Halozyme Therapeutics plans a $1.05B convertible notes sale",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643553-halozyme-therapeutics-plans-a-105b-convertible-notes-sale?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 16:51:21 -0400",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; AMD, Bloom Energy Lead Stocks To Watch",
-    "desc": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
-    "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:32:30 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: Wall Street Extends Losses Following Fed Hike",
-    "desc": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks fell for",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-extends-losses-following-204609835.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:46:09 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Regions Bank Increases its Prime Lending Rate",
-    "desc": "BIRMINGHAM, Ala., September 16, 2026--Regions announced an increase in its prime lending rate effective Thursday, Sept. 17.",
-    "link": "https://finance.yahoo.com/economy/policy/articles/regions-bank-increases-prime-lending-203000251.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:30:00 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Is Pfizer's New Business Big Enough To Carry The Old One?",
-    "desc": "Pfizer (PFE) trades at about 95% of its 52-week high. The business that has to justify that price, the medicines it has launched and acquired, is still only about a fifth of the company. The stock returned roughly 24% over the past year against about 17% for the S&P 500, so investors have so far given the handoff the benefit of the doubt. It is a large bet on a small slice.",
-    "link": "https://www.trefis.com/articles/615508/is-pfizers-new-business-big-enough-to-carry-the-old-one/2026-09-16?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:12:08 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry (Live Coverage)",
-    "desc": "Stock Market Today: The Dow Jones index wavers ahead of a likely Fed rate hike and Warsh's comments. Nvidia, Intel and SK Hynix jump.",
-    "link": "https://finance.yahoo.com/m/127b3c0b-f974-36dd-8852-5793b5347c93/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:55:07 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Equity Markets End Lower After Federal Reserve Increases Policy Rate",
-    "desc": "US equity indexes ended lower Wednesday after the Federal Reserve hiked interest rates, citing persi",
-    "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-markets-end-lower-202744544.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:27:44 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The AI bubble is leaking air, some economists say. Should investors worry?",
-    "desc": "AI has fueled a stock boom in recent years. Now, some Wall Street analysts think that epic run is coming to an end.",
-    "link": "https://www.cbsnews.com/news/ai-bubble-stocks-investors/?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:13:50 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-    "desc": "Energy stocks were lower late Wednesday afternoon, with the NYSE Energy Sector Index falling 3.1% an",
-    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200001097.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 20:00:01 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "I've Analyzed Hundreds of Stocks in 7 Years. Here's My Step-by-Step System for Researching Any Company Before Buying.",
-    "desc": "I've been refining my investing process for years, and this is what I do right now.",
-    "link": "https://www.fool.com/investing/2026/09/16/my-step-by-step-system-for-researching-stocks/?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 19:57:00 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cohen & Company Becomes Oversold",
-    "desc": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-    "link": "https://www.nasdaq.com/articles/cohen-company-becomes-oversold",
-    "pubDate": "Wed, 16 Sep 2026 20:32:22 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FXB Crosses Below Key Moving Average Level",
-    "desc": "In trading on Wednesday, shares of the Invesco CurrencyShares British Pound Sterling Trust ETF (Symbol: FXB) crossed below their 200 day moving average of $129.29, changing hands as low as $128.66 per share. Invesco CurrencyShares British Pound Sterling Trust shares are current",
-    "link": "https://www.nasdaq.com/articles/fxb-crosses-below-key-moving-average-level",
-    "pubDate": "Wed, 16 Sep 2026 20:29:45 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "ProShares Ultra MidCap400 (MVV) Shares Cross Below 200 DMA",
-    "desc": "In trading on Wednesday, shares of the ProShares Ultra MidCap400 ETF (Symbol: MVV) crossed below their 200 day moving average of $81.36, changing hands as low as $80.80 per share. ProShares Ultra MidCap400 shares are currently trading off about 1.7% on the day. The chart below",
-    "link": "https://www.nasdaq.com/articles/proshares-ultra-midcap400-mvv-shares-cross-below-200-dma",
-    "pubDate": "Wed, 16 Sep 2026 20:29:29 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "iShares Core U.S. REIT Breaks Below 200-Day Moving Average - Notable for USRT",
-    "desc": "In trading on Wednesday, shares of the iShares Core U.S. REIT ETF (Symbol: USRT) crossed below their 200 day moving average of $62.95, changing hands as low as $62.87 per share. iShares Core U.S. REIT shares are currently trading off about 1% on the day. The chart below shows",
-    "link": "https://www.nasdaq.com/articles/ishares-core-us-reit-breaks-below-200-day-moving-average-notable-usrt",
-    "pubDate": "Wed, 16 Sep 2026 20:29:27 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Evolution Petroleum (EPM) Q4 2026 Earnings Call Transcript",
-    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-    "link": "https://www.nasdaq.com/articles/evolution-petroleum-epm-q4-2026-earnings-call-transcript",
-    "pubDate": "Wed, 16 Sep 2026 20:28:06 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Shares of BKR Now Oversold",
-    "desc": "In trading on Wednesday, shares of Baker Hughes Company (Symbol: BKR) entered into oversold territory, changing hands as low as $55.44 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure mome",
-    "link": "https://www.nasdaq.com/articles/shares-bkr-now-oversold",
-    "pubDate": "Wed, 16 Sep 2026 20:25:38 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Notable Two Hundred Day Moving Average Cross - CDE",
-    "desc": "In trading on Wednesday, shares of Coeur Mining Inc (Symbol: CDE) crossed below their 200 day moving average of $19.12, changing hands as low as $18.57 per share. Coeur Mining Inc shares are currently trading down about 6.4% on the day. The chart below shows the one year perfo",
-    "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-cde",
-    "pubDate": "Wed, 16 Sep 2026 20:25:32 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "EWG Crosses Below Key Moving Average Level",
-    "desc": "In trading on Wednesday, shares of the iShares MSCI Germany ETF (Symbol: EWG) crossed below their 200 day moving average of $42.34, changing hands as low as $42.27 per share. iShares MSCI Germany shares are currently trading down about 0.6% on the day. The chart below shows th",
-    "link": "https://www.nasdaq.com/articles/ewg-crosses-below-key-moving-average-level",
-    "pubDate": "Wed, 16 Sep 2026 20:25:29 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AEE Crosses Critical Technical Indicator",
-    "desc": "In trading on Wednesday, shares of Ameren Corp (Symbol: AEE) entered into oversold territory, changing hands as low as $102.665 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on",
-    "link": "https://www.nasdaq.com/articles/aee-crosses-critical-technical-indicator",
-    "pubDate": "Wed, 16 Sep 2026 20:25:26 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "KeyCorp Breaks Below 200-Day Moving Average - Notable for KEY",
-    "desc": "In trading on Wednesday, shares of KeyCorp (Symbol: KEY) crossed below their 200 day moving average of $21.54, changing hands as low as $20.50 per share. KeyCorp shares are currently trading down about 5.1% on the day. The chart below shows the one year performance of KEY shar",
-    "link": "https://www.nasdaq.com/articles/keycorp-breaks-below-200-day-moving-average-notable-key",
-    "pubDate": "Wed, 16 Sep 2026 20:25:22 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "BCS Crosses Below Key Moving Average Level",
-    "desc": "In trading on Wednesday, shares of Barclays PLC (Symbol: BCS) crossed below their 200 day moving average of $25.06, changing hands as low as $25.04 per share. Barclays PLC shares are currently trading down about 1.6% on the day. The chart below shows the one year performance o",
-    "link": "https://www.nasdaq.com/articles/bcs-crosses-below-key-moving-average-level",
-    "pubDate": "Wed, 16 Sep 2026 20:25:13 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "National Health Investors Enters Oversold Territory",
-    "desc": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-    "link": "https://www.nasdaq.com/articles/national-health-investors-enters-oversold-territory",
-    "pubDate": "Wed, 16 Sep 2026 20:25:09 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CNX Resources Stock Getting Very Oversold",
-    "desc": "In trading on Wednesday, shares of CNX Resources Corp (Symbol: CNX) entered into oversold territory, changing hands as low as $33.32 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure moment",
-    "link": "https://www.nasdaq.com/articles/cnx-resources-stock-getting-very-oversold",
-    "pubDate": "Wed, 16 Sep 2026 20:24:58 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cabot (CBT) Shares Cross Below 200 DMA",
-    "desc": "In trading on Wednesday, shares of Cabot Corp. (Symbol: CBT) crossed below their 200 day moving average of $78.12, changing hands as low as $77.86 per share. Cabot Corp. shares are currently trading down about 1.7% on the day. The chart below shows the one year performance of",
-    "link": "https://www.nasdaq.com/articles/cabot-cbt-shares-cross-below-200-dma",
-    "pubDate": "Wed, 16 Sep 2026 20:24:54 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "WMB Crosses Below Key Moving Average Level",
-    "desc": "In trading on Wednesday, shares of Williams Cos Inc (Symbol: WMB) crossed below their 200 day moving average of $70.57, changing hands as low as $70.23 per share. Williams Cos Inc shares are currently trading off about 1.9% on the day. The chart below shows the one year perfor",
-    "link": "https://www.nasdaq.com/articles/wmb-crosses-below-key-moving-average-level",
-    "pubDate": "Wed, 16 Sep 2026 20:24:44 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Man sentenced in $35 million Ponzi scheme that defrauded Travis Kelce: &#8216;He did this out of greed&#8217;",
-    "desc": "He also asked to be married to his fiance while in prison.",
-    "link": "https://fortune.com/2026/09/16/travis-kelce-victim-fraud-ponzi-scheme-sentencing-35-million/",
-    "pubDate": "Wed, 16 Sep 2026 20:44:02 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The MLB and its Dominican pipeline is selling false promises and shady contracts to children as young as 11",
-    "desc": "Is your team giving kids behind-the-curtain deals before the MLB allows it?",
-    "link": "https://fortune.com/2026/09/16/mlb-dominican-pipeline-children-exploitation/",
-    "pubDate": "Wed, 16 Sep 2026 19:34:08 +0000",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/banks-provide-22-billion-chip-loan-to-blackstone-alphabet-cloud-venture-bloomberg-news-reports-4904543",
-    "pubDate": "2026-09-16 20:36:49",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "DTEK receives $97.5 million U.S. loan for battery storage",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/dtek-receives-975-million-us-loan-for-battery-storage-93CH-4904528",
-    "pubDate": "2026-09-16 20:33:27",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Generac stock surges 18% on $8B Amazon supply deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/generac-stock-surges-18-on-8b-amazon-supply-deal-4904509",
-    "pubDate": "2026-09-16 20:32:09",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.21%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-121-4904512",
-    "pubDate": "2026-09-16 20:31:02",
-    "fetchedAt": "2026-09-16T21:01:34.373Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
-    "desc": "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
-    "link": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
-    "pubDate": "Wed, 16 Sep 2026 19:38:41 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-    "desc": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
-    "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-    "pubDate": "Wed, 16 Sep 2026 19:36:24 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "White House chief of staff Susie Wiles says she's cancer free",
-    "desc": "Susie Wiles oversaw Trump’s winning 2024 presidential campaign and has wielded major influence in his second administration.",
-    "link": "https://www.cnbc.com/2026/09/16/susie-wiles-trump-cancer.html",
-    "pubDate": "Wed, 16 Sep 2026 19:31:11 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-    "desc": "The 10-year Treasury note yield traded near the key 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
-    "link": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-    "pubDate": "Wed, 16 Sep 2026 19:04:52 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Fed raises rates: What it means for your credit cards, mortgages, savings accounts and auto loans",
-    "desc": "The Fed's quarter-point rate hike will impact a range of consumer borrowing and savings costs, including mortgages, credit cards, car loans and deposit rates.",
-    "link": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
-    "pubDate": "Wed, 16 Sep 2026 19:17:38 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
-    "desc": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
-    "link": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-    "pubDate": "Wed, 16 Sep 2026 19:55:16 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Fed delivers its first hike in 3 years. Plus, what's moving Starbucks and GE Vernova",
-    "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "link": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
-    "pubDate": "Wed, 16 Sep 2026 19:00:14 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-    "desc": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-    "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-    "pubDate": "Wed, 16 Sep 2026 20:00:36 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-    "desc": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
-    "link": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-    "pubDate": "Wed, 16 Sep 2026 12:06:30 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
-    "desc": "The Fed&#x2019;s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
-    "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-    "pubDate": "Wed, 16 Sep 2026 19:10:00 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-    "desc": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-    "pubDate": "Wed, 16 Sep 2026 19:00:00 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "guardian",
-    "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
-    "desc": "<p>A recent consultation on corporate reporting prizes the interests of shareholders over society. It’s a step in the wrong direction</p><p>The question of what corporations are for is deeply political. In a 1970 article for the New York Times, Milton Friedman argued that the “social responsibility of business is to increase its profits”. The idea that CEOs should worry about providing good jobs was “pure and unadulterated socialism”, he wrote. Friedman and his fellow neoliberals saw companies as vehicles for enforcing their politics. Their ideas endured: UK bosses are now paid <a href=\"https://highpaycentre.org/gap-between-the-pay-of-ftse-100-ceos-and-uk-workers-the-widest-for-8-years/\">130 times</a> more than average workers.</p><p>Despite Andy Burnham’s pledge to end neoliberalism, a 12-week <a href=\"https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul\">consultation</a> recently launched by his government risks entrenching it. The consultation was first announced as part of the Starmer government’s crusade against “red tape”. The average annual report for some businesses now runs to 98,000 words, and no doubt there are areas that could be simplified. But the consultation <a href=\"https://assets.publishing.service.gov.uk/media/6a9fc4d66beb520655555633/modernising-corporate-reporting-consultation-document.pdf\">proposes</a> removing vital information and presumes that company reports primarily serve shareholders, rather than other stakeholders. Both are steps in the wrong direction.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
-    "pubDate": "Sun, 13 Sep 2026 16:30:07 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-    "desc": "<p>Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Economics viewpoint: perilous UK economic conditions trace back to Trump</a></p></li></ul><p>Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.</p><p>Policymakers in all three countries will set rates in the next seven days against the backdrop of <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">turbulent global bond markets</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-    "pubDate": "Sun, 13 Sep 2026 12:33:16 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "guardian",
-    "title": "AI will transform capitalism – but how?",
-    "desc": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every tool could perform its own work when ordered, or by seeing what to do in advance … if thus shuttles wove and quills played harps of themselves, master-craftsmen would have no need of assistants and masters no need of slaves.”</p><p>The dream that automation could inaugurate a classless society is also present in the writings of Karl Marx. In 1858 he imagined the replacement of intellectual property with “socialised knowledge”, which would merge into a “general intellect”, blowing the foundations of capitalism sky high.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
-    "pubDate": "Sun, 13 Sep 2026 11:00:02 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "guardian",
-    "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
-    "desc": "<p>Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’</p><p>The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.</p><p>Osborne, who was sacked as chancellor by Theresa May after being part of David Cameron’s cabinet at the time of the referendum, said it was important to rebuild links with the EU.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
-    "pubDate": "Sun, 13 Sep 2026 10:48:04 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "guardian",
-    "title": "‘Small price to pay’: the young homeowners welcoming falling house prices even as it hurts them",
-    "desc": "<p>Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.</p><p>Locked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
-    "pubDate": "Sat, 12 Sep 2026 20:00:43 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
-    "desc": "<p>US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a little</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\"><strong>UK economy unexpectedly grows 0.4% in July boosted by AI</strong></a></p></li></ul><p><br></p><p><strong>Digging into today’s GDP report a little, we can see that the UK services sector had a decent July, with growth in 11 of its 14 subsectors.</strong></p><p>According to the ONS, the fastest growth was recorded in:</p><p><strong>professional</strong>, <strong>scientific</strong> <strong>and</strong> <strong>technical</strong> <strong>activities</strong> (up 2.1%), driven by growths in scientific research and development (up 7.0%), legal activities (up 3.1%), and advertising and market research (up 3.4%)</p><p><strong>information</strong> <strong>and</strong> <strong>communication</strong> (up 2.5%), which was mainly driven by a growth of 4.4% in computer programming, consultancy and related activities</p><p><strong>administrative and support service activities</strong> (up 1.3%), driven by growths of 6.1% in rental and leasing activities, and of 2.8% in services to buildings and landscape activities</p><p>The 0.4% rise in U.K. GDP in the second quarter was slightly stronger than we expected and suggests the economy has remained resilient to the surge in energy prices.</p><p>Adding to the positive news, growth was driven by solid gains in household consumption and business investment, and included a healthy 0.3% monthly rise in output in June, suggesting momentum was sustained as the quarter progressed.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
-    "pubDate": "Fri, 11 Sep 2026 15:58:06 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "ft",
-    "title": "Iran’s hidden leader stirs unease at home",
-    "desc": "Mojtaba Khamenei’s absence from public view has been a source of bafflement and suspicion",
-    "link": "https://www.ft.com/content/ffe402ca-564a-457f-a861-18083a361e50?syn-25a6b1a6=1",
-    "pubDate": "Wed, 16 Sep 2026 04:00:04 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "ft",
-    "title": "Bach choir is a rare symbol of unity in a swing state",
-    "desc": "In small-city Pennsylvania, music brings people together from across the political divide",
-    "link": "https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1",
-    "pubDate": "Wed, 16 Sep 2026 16:03:27 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "ft",
-    "title": "World’s best-performing sovereign wealth fund expects equities pullback",
-    "desc": "New Zealand’s superannuation fund grows 14% despite being underweight on US tech stocks",
-    "link": "https://www.ft.com/content/6b6a27bd-2725-4591-be8a-fda643c2ac5c?syn-25a6b1a6=1",
-    "pubDate": "Wed, 16 Sep 2026 04:55:08 GMT",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "White House criticizes Federal Reserve's 'unfortunate' rate hike",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643510-white-house-criticizes-federal-reserves-unfortunate-rate-hike?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 15:56:46 -0400",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Court deals Zillow a setback in dispute with Compass, MRED over Chicago area listings",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643470-court-deals-zillow-a-setback-in-dispute-with-compass-mred-over-chicago-area-listings?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 15:54:05 -0400",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Google's DeepMind Institute aims to tackle implications of AGI",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643493-googles-deepmind-institute-aims-to-tackle-implications-of-agi?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 15:47:37 -0400",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Boeing shares wobble as 737 MAX production takes longer to stabilize",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643505-boeing-shares-wobble-as-737-max-production-takes-longer-to-stabilize?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 16 Sep 2026 15:43:57 -0400",
-    "fetchedAt": "2026-09-16T20:01:38.501Z"
   }
 ]
