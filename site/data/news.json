@@ -1,6 +1,390 @@
 [
   {
     "source": "cnbc",
+    "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
+    "desc": "The deal comes as Iran-backed Houthis escalate attacks on Saudi Arabia and seek control of the strategically important Bab el-Mandeb Strait.",
+    "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+    "pubDate": "Fri, 18 Sep 2026 08:02:20 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
+    "desc": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
+    "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+    "pubDate": "Fri, 18 Sep 2026 08:29:35 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+    "desc": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+    "pubDate": "Fri, 18 Sep 2026 08:41:11 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Thames Water rescue deal should be rejected - MPs",
+    "desc": "A report on the future of Thames Water, urging the government to take action, has been published.",
+    "link": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:16:57 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "UBS upgrades FTC Solar stock rating on product turnaround",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-ftc-solar-stock-rating-on-product-turnaround-93CH-4906837",
+    "pubDate": "2026-09-18 08:55:11",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "UBS downgrades Array Technologies stock rating on cash flow concerns",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-array-technologies-stock-rating-on-cash-flow-concerns-93CH-4906836",
+    "pubDate": "2026-09-18 08:55:10",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Huuuge Games posts Q2 2026 revenue miss, buyback lifts outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-huuuge-games-posts-q2-2026-revenue-miss-buyback-lifts-outlook-93CH-4906824",
+    "pubDate": "2026-09-18 08:49:11",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "Rothschild upgrades Southwest stock rating on product changes",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/rothschild-upgrades-southwest-stock-rating-on-product-changes-93CH-4906823",
+    "pubDate": "2026-09-18 08:48:47",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "Is the UK equity pullback a buying opportunity? UBS turns attractive",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/is-the-uk-equity-pullback-a-buying-opportunity-ubs-turns-attractive-4906822",
+    "pubDate": "2026-09-18 08:44:30",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "Stocks and bonds dip as central banks jack up rates to tame inflation",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+    "pubDate": "2026-09-18 08:42:52",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "China’s January-August fiscal revenue up 5.7% year-on-year",
+    "desc": "",
+    "link": "https://www.investing.com/news/economic-indicators/chinas-januaryaugust-fiscal-revenue-up-57-yearonyear-4906821",
+    "pubDate": "2026-09-18 08:42:29",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "Nationwide Building Society lists AUD 1bn covered bonds",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/nationwide-building-society-lists-aud-1bn-covered-bonds-93CH-4906820",
+    "pubDate": "2026-09-18 08:40:42",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil extends declines amid easing supply concerns, ongoing diplomatic efforts",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
+    "pubDate": "2026-09-18 08:39:49",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+    "desc": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
+    "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+    "pubDate": "Thu, 17 Sep 2026 21:22:00 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
+    "desc": "<p>Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.</p><p>The Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
+    "pubDate": "Fri, 18 Sep 2026 08:24:39 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "guardian",
+    "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+    "desc": "<p>Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.</p><p>Politicians queued to shake his hand and take selfies. One described the speech as a historic moment. “Europe has extended a hand, and Canada has taken it,” said the German Green MEP Terry Reintke, who borrowed a Canadian ice hockey shirt for the occasion.</p> <a href=\"https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+    "pubDate": "Thu, 17 Sep 2026 15:46:15 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
+    "desc": "<p>This blog is now closed</p><p><strong>Andrew Griffith</strong> has delivered his speech, and he is now taking questions.</p><p><em>Q: You want the government to pause the <a href=\"https://www.gov.uk/government/collections/making-tax-digital-for-income-tax\">making tax digital programme</a>. Is that an admission that the last government got this wrong when it introduced it?</em></p><p>It is an admission that despite [good] intentions, the execution of that has left a lot to be desired.</p><p>In fact, coming to parliament from business, I can confess the law that we pass the most often is the law of unintended consequences. And I think making tax digital is a good example of that.</p><p>The truth is that Burnham and Miliband ignored the advice they were given – which was that if they were determined to sanction Israel, they should not do so before the Israeli election on 27 October.</p><p>It may not be surprising that this was the message from the Israeli foreign minister, Gideon Sa’ar, when Miliband called him on 11 August to warn sanctions were imminent. ‘He said postpone it until after the elections,’ a diplomatic source confirms. It was also the message the Israeli embassy in London – and its new chargé d’affaires Chris Cantor – was relaying to the Foreign Office. ‘Their message was clear: why do it now? Wait until after the elections, because something might change,’ a senior Labour figure says.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
+    "pubDate": "Thu, 17 Sep 2026 15:45:45 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "guardian",
+    "title": "The Bank of England is shaking up its bond sales – why does it matter?",
+    "desc": "<p>What the plan to sell £146bn in gilts back to the Treasury means for the public finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li></ul><p>Mixed in with the Bank of England’s decision on Thursday to <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">hold interest rates at 3.75%</a> was a surprise announcement that it was shaking up its programme of quantitative tightening.</p><p>So why is this apparently arcane change to QT important, and what does it mean for the public finances?</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
+    "pubDate": "Thu, 17 Sep 2026 15:45:42 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "ft",
+    "title": "Yen sinks after BoJ raises rates to highest since 1995",
+    "desc": "Hawkish comments by BoJ governor fail to arrest renewed slide in currency after borrowing costs lifted to 1.25%",
+    "link": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+    "pubDate": "Fri, 18 Sep 2026 08:32:52 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "ft",
+    "title": "Iran switches from ships to trucks to evade US blockade",
+    "desc": "Donald Trump’s naval campaign deepens Tehran’s trade reliance on land neighbours such as Turkey",
+    "link": "https://www.ft.com/content/f69943f7-b173-444c-a79e-c9396a0380bd?syn-25a6b1a6=1",
+    "pubDate": "Fri, 18 Sep 2026 04:00:19 GMT",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "U.S. likely to delay new tariffs until after Trump-Xi summit - report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644182-us-likely-to-delay-new-tariffs-until-after-trump-xi-summit?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:49:18 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "XLK hovers above the level that matters most",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644191-xlk-hovers-above-the-level-that-matters-most?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:22:14 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Logitech G partners with SEGA for Crazy Taxi: World Tour",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644156-logitech-g-partners-with-sega-for-crazy-taxi-world-tour?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:22:12 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Europe indexes pull back after two days of gains as investors read central bank moves",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644186-europe-indexes-pull-back-after-two-days-of-gains-as-investors-read-central-bank-moves?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:21:53 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Vontier secures deal to upgrade tech across 700+ Tesco petrol stations",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644188-vontier-secures-deal-to-upgrade-tech-across-700-tesco-petrol-stations?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:10:38 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Stock futures rise after Wall Street rally; Fed speakers in focus",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644189-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:09:10 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "TotalEnergies signs GIP partnership on African energy infrastructure assets",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644187-totalenergies-signs-gip-partnership-on-african-energy-infrastructure-assets?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 18 Sep 2026 04:06:30 -0400",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as oil prices slip",
+    "desc": "US stock futures were little changed on Friday morning as investors continued to calibrate to the Federal Reserve's first rate hike in three years and existential fears about artificial intelligence's capabilities.",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:05:04 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Industrials Stocks We’re Skeptical Of",
+    "desc": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 4.5% has fallen short of the S&P 500’s 14% rise.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-skeptical-080920253.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:09:20 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "1 Industrials Stock with Promising Prospects and 2 Facing Headwinds",
+    "desc": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 4.5% has fallen short of the S&P 500’s 14% rise.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-promising-prospects-080120329.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:01:20 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "I Can Almost Guarantee You Just Missed the Most Important Number in Fed Chair Kevin Warsh's and the FOMC's Interest Rate Decision",
+    "desc": "Amid a period of heightened interest-rate uncertainty, the central bank just offered investors a promising silver lining.",
+    "link": "https://www.fool.com/investing/2026/09/18/guarantee-you-just-missed-most-important-number-fed-chair-kevin-warsh-fomc-interest-rate-decision/?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:26:01 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The “Magnificent Seven” Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
+    "desc": "Some members of the group look dirt cheap.",
+    "link": "https://www.fool.com/investing/2026/09/18/the-magnificent-seven-stocks-have-seen-valuations-tumble-stocks-to-avoid-or-once-in-a-decade-buying-opportunity/?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:23:01 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Asian shares finish higher, cheered by easing oil prices, but European benchmarks are slipping",
+    "desc": "Asian shares mostly rose Friday, getting a lift from a rally on Wall Street as well as declining oil prices, while European benchmarks slipped in early trading. In Asia, Japan's benchmark Nikkei 225 gained 1.4% to finish at 65,018.95 after the Bank of Japan raised the benchmark interest rate to 1.25% from 1.0%, a 31-year high. The move had been widely expected, coming after the Federal Reserve also raised its key rate this week.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-cheered-032549542.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:25:49 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Are Nasdaq, S&P 500 And Dow Futures Rising Premarket? NVDA, CRWV, AMD, SPCX, BE Stocks In Focus",
+    "desc": "Retail sentiment on SPY and QQQ remained ‘bearish’, despite the broader market recovery.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-sp500-dow-futures-rising-premarket-nvda-crwv-amd-spcx-be-stocks-in-focus/cZtuo1pRB3g?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:28:32 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Warren Buffett Just Issued a Blunt Message as This Stock Market Warning Rings for the Second Time in 155 Years",
+    "desc": "Warren Buffett says that too many people have a gambling mindset and are speculating instead of investments.",
+    "link": "https://www.fool.com/investing/2026/09/18/warren-buffett-just-issued-a-blunt-message-as-this/?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:20:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "If You Invest $50 a Week in SCHD, Here's What History Says You Could Collect in Passive Income by 2046",
+    "desc": "Key PointsThe Schwab U.S. Dividend Equity ETF (SCHD) is one of the best funds for generating predictable, sustainable high yield.",
+    "link": "https://www.nasdaq.com/articles/if-you-invest-50-week-schd-heres-what-history-says-you-could-collect-passive-income-2046",
+    "pubDate": "Fri, 18 Sep 2026 08:15:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Own Broadcom by Sept. 21 to Qualify for Its Sept. 30 Dividend. Here's How Many Shares You'd Need for $5,000 in Yearly Dividends.",
+    "desc": "Key PointsBroadcom&rsquo;s AI business is growing far faster than its infrastructure software and general-purpose semiconductor solutions segments.",
+    "link": "https://www.nasdaq.com/articles/own-broadcom-sept-21-qualify-its-sept-30-dividend-heres-how-many-shares-youd-need-5000",
+    "pubDate": "Fri, 18 Sep 2026 08:05:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Anthropic Is Expected to Go Public in October. The Brokerages Get Paid Either Way.",
+    "desc": "Key PointsGoldman Sachs and Morgan Stanley each generated $100 million in fees from the SpaceX IPO, according to reports.",
+    "link": "https://www.nasdaq.com/articles/anthropic-expected-go-public-october-brokerages-get-paid-either-way",
+    "pubDate": "Fri, 18 Sep 2026 07:50:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Fed Just Hiked Interest Rates. Are There More Hikes on the Way?",
+    "desc": "Key PointsThe Federal Open Market Committee has already said that it expects to hike rates once more before the end of this year.",
+    "link": "https://www.nasdaq.com/articles/fed-just-hiked-interest-rates-are-there-more-hikes-way",
+    "pubDate": "Fri, 18 Sep 2026 07:45:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "New to Social Security? 2 Rules That Could Catch You Off Guard.",
+    "desc": "Key PointsSome people claim Social Security without reading up on the program's rules.",
+    "link": "https://www.nasdaq.com/articles/new-social-security-2-rules-could-catch-you-guard",
+    "pubDate": "Fri, 18 Sep 2026 07:38:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Forget Michael Burry's Short Thesis. Here's the Bull Case for Palantir He's Not Talking About.",
+    "desc": "Key PointsPalantir's revenue is growing far faster than its workforce.",
+    "link": "https://www.nasdaq.com/articles/forget-michael-burrys-short-thesis-heres-bull-case-palantir-hes-not-talking-about",
+    "pubDate": "Fri, 18 Sep 2026 07:37:00 +0000",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Volkswagen recalls over 208,000 vehicles for steering bolt defect",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/volkswagen-recalls-over-208000-vehicles-for-steering-bolt-defect-93CH-4906817",
+    "pubDate": "2026-09-18 08:35:31",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.46%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-046-4906816",
+    "pubDate": "2026-09-18 08:35:03",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Nestlé stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-nestle-stock-sliding-today-93CH-4906812",
+    "pubDate": "2026-09-18 08:26:16",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "BofA’s Hartnett says the ’run it hot’ policy era is over",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-the-run-it-hot-policy-era-is-over-4906811",
+    "pubDate": "2026-09-18 08:25:54",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/toyota-estimates-factory-automation-could-cost-64-billion-per-year-from-2028-4906790",
+    "pubDate": "2026-09-18 08:06:25",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "DAX wrestles 38.2% Fib and 200-MA at 25,781: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dax-stuck-below-25685-resistance-with-bearish-bias-live-levels-93CH-4898923",
+    "pubDate": "2026-09-18 08:06:14",
+    "fetchedAt": "2026-09-18T09:01:29.750Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
     "desc": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
     "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
@@ -6013,390 +6397,6 @@
     "desc": "",
     "link": "https://seekingalpha.com/news/4643909-stellantis-set-to-sell-aramis-group-stake?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
     "pubDate": "Thu, 17 Sep 2026 12:34:18 -0400",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Vanguard Short Duration Tax-Exempt Bond ETF declares monthly distribution of $0.1957",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643936-vanguard-short-duration-tax-exempt-bond-etf-declares-monthly-distribution-of-01957?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 17 Sep 2026 12:31:39 -0400",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Factorial Energy surges after signing joint battery development deal with Mitsui Kinzoku",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4643907-factorial-energy-surges-after-signing-joint-battery-development-deal-with-mitsui-kinzoku?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 17 Sep 2026 12:29:13 -0400",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says.",
-    "desc": "The stock market is feeling volatile, but history offers reassurance for a long-term approach.",
-    "link": "https://www.fool.com/investing/2026/09/17/stock-market-sell-off-is-it-really-safe-to-invest/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:50:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stocks Look Priced for Perfection. These 3 Dividend ETFs Are Built for the Pullback",
-    "desc": "Premium valuations leave almost no margin for error, and a single disappointing earnings season could punish investors holding the wrong stocks. Three dividend ETFs offer a way to stay invested without betting on continued perfection from the broader market.",
-    "link": "https://247wallst.com/investing/etf/2026/09/17/stocks-look-priced-for-perfection-these-3-dividend-etfs-are-built-for-the-pullback/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:48:44 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-    "desc": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-    "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-rise-treasury-164240624.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:42:40 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Market Indexes Bounce Back From the Fed's Rate Hike",
-    "desc": "The Dow lost 630 points on the Fed's rate hike. A day later, chip stocks took most of it back.",
-    "link": "https://www.fool.com/investing/2026/09/17/market-indexes-bounce-back-from-the-feds-rate-hike/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:34:27 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
-    "desc": "Renasant trades at $40.53 per share and has stayed right on track with the overall market, gaining 14.8% over the last six months. At the same time, the S&P 500 has returned 12.9%.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-rnst-risky-1-165017382.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:50:17 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Nasdaq Charges Higher As AI Leaders Mount A Rally; Salesforce Extends Losses (Live Coverage)",
-    "desc": "Stocks rebounded with the Nasdaq and S&P 500 jumping back above key support. Generac, Nebius, Bloom Energy, SpaceX were early winners.",
-    "link": "https://finance.yahoo.com/m/dd537ea9-d49e-3b94-874c-ef12aa1ee375/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:41:57 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?",
-    "desc": "Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on.",
-    "link": "https://247wallst.com/investing/cryptocurrency/2026/09/17/tom-lee-says-q4-could-bring-one-of-the-biggest-rallies-of-our-lifetime-can-bitcoin-ethereum-and-xrp-reach-new-highs/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:34:56 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "U.S. Stocks Climb as Markets Retrace Post-Fed Moves",
-    "desc": "U.S. stocks rose as investors shook off the jitters that followed the Federal Reserve’s first rate hike in three years.",
-    "link": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:15:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-    "desc": "CoreWeave is bleeding value in a session where almost everything else is climbing, and a massive new financing package filed this morning explains why investors are suddenly questioning whether explosive revenue growth is worth the cost.",
-    "link": "https://247wallst.com/investing/2026/09/17/why-coreweave-is-tumbling-hard-while-the-market-is-soaring/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:06:21 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "On Holding Stock Falls 30% in Three Months: Time to Buy or Stay Away?",
-    "desc": "ONON's 30% three-month slide reflects weak Americas wholesale trends and restrained sell-in, despite record DTC mix and new product launches.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/holding-stock-falls-30-three-155900874.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:59:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Here's Why You Should Hold Solventum Stock in Your Portfolio for Now",
-    "desc": "SOLV's strong Q2 performance, growth investments and cost-saving program support its outlook, though higher raw material costs remain a concern.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hold-solventum-stock-155100939.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:51:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "How Much Upside Is Left In Adobe Stock?",
-    "desc": "Adobe (ADBE) trades near $250, down about 28% over the past year while the S&P 500 gained about 16%. Over the past three months the stock has returned about 21%. The market pays 13.9 times trailing earnings for a company that just reported record quarterly revenue. A multiple that low prices Adobe as if meaningful growth is off the table. The scenario below tests that pricing, and its answer rests on whether Adobe's free users ever start paying.",
-    "link": "https://www.trefis.com/articles/615732/how-much-upside-is-left-in-adobe-stock/2026-09-17?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:46:29 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Ampco-Pittsburgh Up Nearly 217% in a Year: What's Driving the Stock?",
-    "desc": "AP is benefiting from firmer steel demand, rising backlog and restructuring gains, but cyclical markets and inflation remain challenges.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ampco-pittsburgh-nearly-217-whats-154400975.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:44:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Keysight (KEYS) Up 0.8% Since Last Earnings Report: Can It Continue?",
-    "desc": "Keysight (KEYS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-keys-0-8-since-153002477.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:30:02 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Is Jack Henry (JKHY) Down 2.5% Since Last Earnings Report?",
-    "desc": "Jack Henry (JKHY) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-jack-henry-jkhy-down-153001785.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:30:01 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
-    "desc": "Alphabet (GOOGL) has gained 3.7% over the last five trading days while the S&P 500 fell 1.1%. A stock that rises in a down week gets attention. But five days say nothing about what Alphabet does to the rest of your money. The real question is what it does to your portfolio every time the market moves, because it travels further than the index in both directions.",
-    "link": "https://www.trefis.com/articles/615735/is-googl-stock-amplifying-a-risk-you-already-own/2026-09-17?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:24:46 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-    "desc": "A House vote on data center power costs sent fuel cell stocks surging at different speeds Thursday, and the gap between the winners reveals exactly where the market sees the most to gain if this bill ever becomes law.",
-    "link": "https://247wallst.com/investing/2026/09/17/fuelcell-jumps-13-as-house-shifts-data-center-power-costs-to-operators-plug-power-climbs-7-bloom-energy-rises-3/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:52:10 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-    "desc": "Amazon just handed Generac a contract that sent shares surging, but buried inside the deal is a warrant arrangement that could let the customer claw back the very gains it created. Here is what the peer group silence from Cummins reveals about who actually wins.",
-    "link": "https://247wallst.com/investing/2026/09/17/generac-holdings-surges-16-on-2-4b-amazon-data-center-generator-deal-caterpillar-ticks-up-cummins-sits-out-the-rally/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:43:21 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%",
-    "desc": "Micron Technology Inc. (NASDAQ:MU) jumped more than 5% Thursday as memory stocks rallied, two days after Intel Corp. (NASDAQ:INTC) CEO Lip-Bu Tan warned that the memory shortage could worsen next year. Barron’s reported that Tan’s comments helped drive the move....",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61848172/micron-stock-memory-prices-intel-ai-shortage?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:38:04 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "US Interceptor Inventory Took Another Big Hit Last Week, As CBO Pegs War Cost At $38 Billion+",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">US Interceptor Inventory Took Another Big Hit Last Week, As CBO Pegs War Cost At $38 Billion+</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>America's already-diminished inventory of air defense interceptor missiles took another significant hit last week, </strong>as dozens more were expended to defend US troops in Jordan from an Iranian attack. This latest incident illustrates Iran's use of crafty and increasingly technologically-advanced attacks to <strong>further sap US munitions supply and degrade the Pentagon's ability to continue mounting defenses</strong> -- or provoking attacks -- in a war nearing the seven-month mark. </p> <p>The action unfolded on Sept 8, when Iran attacked US forces at the Muwaffaq Salti Air Base in Azraq, Jordan. Unleashing what it called a \"punitive operation\" following the destruction of five Iranian oil tankers by the US military, <strong>Iran fired a volley of about 20 ballistic missiles </strong>at the base. No one was killed, but fighters and other aircraft positioned at the facility were damaged. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">WATCH: Iran fired 20 ballistic missiles at the U.S.-hosting Al-Azraq Air Base in Jordan overnight.<br /><br /> Dramatic Patriot launch footages show massive Patriot salvos, with OSINT counts estimating 60–100+ interceptors fired in minutes.<br /><br /> At $4–5M per PAC-3 MSE round, that's roughly… <a href=\"https://t.co/bjmuHgydW6\">pic.twitter.com/bjmuHgydW6</a></p> — Clash Report (@clashreport) <a href=\"https://x.com/clashreport/status/2097611787369578770?ref_src=twsrc%5Etfw\">September 9, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>To defend the air base, US forces fired 60 to 70 Patriot interceptors and more than dozen Terminal High Altitude Area Defense (THAAD) interceptors, according to US officials who talked to the <em><a href=\"https://www.wsj.com/world/middle-east/the-u-s-is-burning-through-its-supply-of-interceptors-to-counter-irans-attacks-f42c5ecd?mod=hp_lead_pos1\">Wall Street Journal</a></em>. <strong>Patriots cost the Pentagon about $4 million each, and the more sophisticated THAADs go for $12 to $15 million</strong>. That means the defense from this attack on a single target may have cost half a billion dollars or more. </p> <p>The large expenditure of interceptors was driven by the complexity of the Iranian attack. Part of the strike package included missiles that, at high altitude, release multiple munitions. Over the course of the war, Iran has continued to enhance its already formidable missile capabilities, making warheads more maneuverable and giving some an ability to greatly accelerate before impact. <strong>“These types of new tactics that we’re seeing show that the Iranians continue to adapt,</strong> continue to learn, continue to experiment, see what works, what doesn’t work,” Conflict Armament Research's Fabian Hinz told the <em>Journal</em>. </p> <p>News of the latest dent in the US war chest follows a <a href=\"https://www.zerohedge.com/military/pentagon-inspector-general-report-iran-war-drops-most-explosive-revelations\">report from the Pentagon's inspector general</a> declaring that <strong>the war on Iran “has resulted in strategic inventory shortfalls</strong> and revealed industrial base bottlenecks for munitions resupply.” The IG report landed just after <strong>President Trump <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117270313550921566\">claimed</a> \"the United States is producing more Exquisite and Elite Weapons than at any time in our History.</strong> They are being delivered on a daily basis to our Forces in the Middle East, and beyond.\" (Retarded capitalization scheme is, of course, Trump's.) </p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/destroyedplaneleak.jpg?itok=44v1bhRi\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/destroyedplaneleak.jpg?itok=44v1bhRi\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7e11cbda-db80-47a8-ba2c-5c5a41273839\" data-responsive-image-style=\"inline_images\" height=\"281\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/destroyedplaneleak.jpg?itok=44v1bhRi\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><strong>This photo of a shattered US Air Force jet at Prince Sultan AFB in Saudi Arabia was one of several <a href=\"https://www.zerohedge.com/geopolitical/us-troops-leak-new-iran-war-photos-gulf-bases-major-damage-hidden-american-public\">leaked to CBS</a> </strong></figcaption></figure></picture></a> <p>Also this week, <strong>the Congressional Budget Office said the Pentagon spent <a href=\"https://www.wsj.com/politics/national-security/congressional-watchdog-puts-war-costs-at-38-billion-estimates-5-years-to-replace-interceptors-c7d85678?mod=wsj_furtherreading_pos_2\">$38 billion</a> on this war of choice </strong>-- and that's only through Aug 1. CBO said it expects the meter to keep running at about $2 or $3 billion a month as long as the war goes on. Critically, <strong>CBO warned that its estimates were hampered by the Defense Department's refusal to respond</strong> to requests for information. </p> <p>CBO's numbers <strong>do not account for a rebuilding of the many US bases in the region</strong> that have been hammered by Iranian fire and abandoned by US forces. To the extent this abandonment becomes prudently permanent, excluding that cost may make sense. </p> <p>CBO further estimated that, as things stood back on Aug 1, it would take $22 billion to restock expended munitions -- attributing $7 billion to cruise missiles and $13 billion for air defense interceptors. “The shortfall would become <strong>especially problematic if a conflict arose with an opponent whose arsenal included large numbers of ballistic and cruise missiles</strong>,” the CBO reported.</p> <p data=\"[object Object]\" data-type=\"paragraph\">“Claims of U.S. munition shortages are false,” <a href=\"https://www.wsj.com/politics/national-security/congressional-watchdog-puts-war-costs-at-38-billion-estimates-5-years-to-replace-interceptors-c7d85678?mod=wsj_furtherreading_pos_2\">said</a> Pentagon spokesman Sean Parnell. “We have everything required to strike at the time and place of the President’s choosing.” <em>Of course, this is the same administration that <a href=\"https://www.starkrealities.net/p/join-us-military-kill-die-for-israel\">falsely</a> told us Iran was on the threshold of having a nuclear bomb. </em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-16T21:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 17:20</span>",
-    "link": "https://www.zerohedge.com/geopolitical/us-interceptor-inventory-took-another-big-hit-last-week-cbo-pegs-war-cost-38-billion",
-    "pubDate": "Wed, 16 Sep 2026 21:20:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "House Panel Votes To Hold Billionaire Leon Black In Contempt For Ghosting Epstein Investigators",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">House Panel Votes To Hold Billionaire Leon Black In Contempt For Ghosting Epstein Investigators</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/house-committee-votes-to-hold-billionaire-who-skipped-epstein-deposition-in-contempt-6088087?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Zachary Stieber via The Epoch Times</a>,</em></p> <p>Businessman Leon Black, who <a href=\"https://www.theepochtimes.com/us/billionaire-skips-epstein-deposition-sues-house-committee-6083378?utm_source=partner&utm_campaign=ZeroHedge\">skipped</a> a deposition regarding his relationship with the late sex offender Jeffrey Epstein, <strong>should be held in contempt of Congress</strong>, a House of Representatives panel recommended on Sept. 15.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image_80%281174%29.jpg?itok=JlaW59Gx\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image_80%281174%29.jpg?itok=JlaW59Gx\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cf4d62fd-f9b9-49fc-94be-93343c3b319a\" data-responsive-image-style=\"inline_images\" height=\"333\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/image_80%281174%29.jpg?itok=JlaW59Gx\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Former Apollo Global Management CEO Leon Black (R) arrives for an interview with the House Oversight Committee in Washington on June 26, 2026. Kevin Dietsch/Getty Images</em></figcaption></figure></picture></a> <p>The House Oversight Committee unanimously voted 41-0 to advance a contempt resolution of Black, 75, to the full chamber. House leadership will decide whether to take up the matter in the future.</p> <p>Black's lawyer did not return a request for comment by the time of publication.</p> <p>Black was subpoenaed to testify to the committee regarding his relationship with Epstein, who was convicted of soliciting a minor for prostitution and faced sex trafficking charges when he died in federal prison in 2019. The committee also told Black, under subpoena, to provide documents it said were critical to its investigation of Epstein and his network.</p> <p>\"He defied Congress and refused to do either,\" Rep. James Comer (R-Ky.), committee chairman, said ahead of the vote. <strong>\"Instead, Mr. Black is hiding behind litigation to delay having to provide answers to the American people.</strong> No one is above the law. Mr. Black will be treated the same as anyone else in this investigation, and his actions have consequences.\"</p> <p>Black had previously appeared for a voluntary interview, but had refused to answer some questions, prompting the subpoenas.</p> <p><strong>Black sued the committee after avoiding the subpoenas,</strong> telling a court that the subpoenas were invalid because they sought \"private information that bears no legitimate connection\" to the committee's legislative purpose and would \"expose women who value their privacy, who have no known or public connection to Epstein, who bargained for confidentiality and have refused to release it, and who have no ability to protect themselves and their privacy before the Committee.\"</p> <p>The case is ongoing.</p> <p>Black, who co-founded Apollo Global Management, had a \"close personal relationship\" with Epstein during the time that Epstein was allegedly engaged in sex trafficking, according to a report from the panel. <strong>Black also paid Epstein more than $158 million over the years, and potentially more than $170 million, according to the report.</strong></p> <p>\"As a result of his extensive dealings with Epstein, Mr. Black possesses firsthand information regarding the activities of Epstein and Maxwell and their efforts to establish relationships and curry favor with influential individuals while engaged in sex trafficking,\" the report said. \"His testimony may inform the Oversight Committee's consideration of legislative reforms designed to combat the operation of sex-trafficking rings and efforts to shield such activities from scrutiny.\"</p> <p>Rep. Robert Garcia (D-Calif.), the top Democrat on the panel, said on Tuesday that lawmakers believe Black <strong>\"is at the heart of the Epstein network.\"</strong></p> <p>\"This is a private equity billionaire worth roughly $13 billion dollars. We need to know why Jeffrey Epstein got over 180 million dollars from Mr. Black. We know this money enabled Epstein's activities for years, and we need to know how and if it led to the abuse of women and girls. We need to know about Leon Black and Jeffrey Epstein's financial dealings,\" he added.</p> <p>* * *</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/edc-tray\" data-image-href=\"https://store.zerohedge.com/products/edc-tray\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/edc-tray\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"3414cc88-778b-4037-9b1e-50110e2bb015\" data-responsive-image-style=\"inline_images\" height=\"298\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/sorted.png?itok=42LRNS9a\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><a href=\"https://store.zerohedge.com/products/edc-tray\">Tray</a></p> <p><a href=\"https://store.zerohedge.com/products/anza-red-black-infinity-handle\">Knife</a></p> <p><a href=\"https://store.zerohedge.com/products/all-weather-notebook\">Notebook</a></p> <p><a href=\"https://store.zerohedge.com/products/d01-airtag-wallet\">AirTag Wallet</a></p> <p><a href=\"https://store.zerohedge.com/products/dango-ace-pen\">Pen</a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-16T21:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 17:00</span>",
-    "link": "https://www.zerohedge.com/political/house-panel-votes-hold-leon-black-contempt-ghosting-epstein-investigators",
-    "pubDate": "Wed, 16 Sep 2026 21:00:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Dario Amodei's Brain Trust Of Bad Ideas",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Dario Amodei's Brain Trust Of Bad Ideas</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://amgreatness.com/2026/09/16/dario-amodeis-brain-trust-of-bad-ideas/\">Authored by Jordan Schachtel via American Greatness</a>,</em></p> <p><strong>Anthropic CEO Dario Amodei wants to shape the future of artificial intelligence - and, by extension, the future of civilization. Yet in doing so, he seeks input and advice from an ideologically uniform group of individuals and institutions.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/1768928769781.jpg?itok=r3D_BvMH\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/1768928769781.jpg?itok=r3D_BvMH\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"5da8d5f0-39cb-4888-8608-d708acbec0f2\" data-responsive-image-style=\"inline_images\" height=\"281\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/1768928769781.jpg?itok=r3D_BvMH\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></strong></p> <p><a href=\"https://darioamodei.com/\">In a series of sprawling essays on his website</a>, Amodei has outlined his expectations for a world transformed by powerful AI. His forecasts range from curing diseases and accelerating economic growth to creating catastrophic biological threats and destabilizing the balance of power between the United States and China.</p> <p>These essays are presented as the work of a sober-minded technologist trying to navigate humanity through an unprecedented transition.</p> <p>In the acknowledgments section, Amodei inadvertently reveals insight into the ideas forming his worldview.</p> <p><strong>Across four of his major essays - \"Machines of Loving Grace,\" \"The Urgency of Interpretability,\" \"The Adolescence of Technology,\" and \"Policy on the AI Exponential\" - Amodei thanks a recurring cast of advisers and intellectual collaborators.</strong> The list includes Tom McGrath, Martin Wattenberg, Chris Olah, Ben Buchanan, Kevin Esvelt, Parag Mallick, Stuart Ritchie, Matt Yglesias, Erik Brynjolfsson, Jim McClave, Allan Dafoe, Mariano-Florentino Cuéllar, Richard Fontaine, Buddy Shah, Vas Narasimhan, Nick Beckstead, Jason Matheny, and Brad Carson.</p> <p>Amodei thanks this group for their contributions to his ideas, comments on his drafts, and help to strengthen his thinking.</p> <p>Of course, these acknowledgments do not prove some kind of uniformity of worldview. However, they help us map his intellectual world.</p> <p><strong>And that world is remarkably homogeneous.</strong></p> <p>It includes, unsurprisingly, Anthropic insiders but also establishment academics, liberal policy experts, national-security think tankers, NGO executives, and prominent figures intertwined with the Effective Altruism (EA) movement.</p> <p>Here are some of the more notable characters Dario Amodei has cited:</p> <ul><li> <p>Matt Yglesias is a high-profile liberal journalist.</p> </li> <li> <p>Ben Buchanan, an Anthropic adviser, served as a special adviser for AI at the White House Office of Science and Technology Policy.</p> </li> <li> <p>Allan Dafoe is a prominent name in the Effective Altruism community, and he established one of its AI academic centers at Oxford.</p> </li> <li> <p>Nick Beckstead is a high-profile figure in the Effective Altruism network.</p> </li> <li> <p>Jason Matheny has deep, longstanding ties to the EA world, and he's now president of the RAND Corporation.</p> </li> <li> <p>Richard Fontaine runs the left-leaning Center for a New American Security (CNAS), a major Democratic Party policymaker incubator in D.C.</p> </li> <li> <p>Mariano-Florentino Cuéllar is the chief global affairs official at Anthropic and has long been a staple in the Democratic Party legal world.</p> </li> <li> <p>Chris Olah is an Anthropic cofounder.</p> </li> <li> <p>Stuart Ritchie is the research communications lead at Anthropic.</p> </li> <li> <p>James \"Jim\" McClave is an early Anthropic investor who has long been embedded in the EA community. McClave reportedly made one of the largest 2022 contributions to Future Forward, a super PAC that supported Joe Biden.</p> </li> <li> <p>Neil \"Buddy\" Shah is the CEO of the Clinton Health Access Initiative.</p> </li> <li> <p>Brad Carson is a former Democratic congressman who served in senior positions in the Obama administration.</p> </li> </ul><p><strong>What is missing from this collection of contributors?</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Meet Anthropic CEO Dario Amodei’s handpicked super-woke globalists he thinks will save us from an AI apocalypse. Read today's cover here: <a href=\"https://t.co/vdhqenPM9e\">https://t.co/vdhqenPM9e</a> <a href=\"https://t.co/j2WimVa75l\">pic.twitter.com/j2WimVa75l</a></p> — New York Post (@nypost) <a href=\"https://x.com/nypost/status/2100163078356640037?ref_src=twsrc%5Etfw\">September 16, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>First and most obvious, <strong>there is no identifiable right-leaning intellectual, academic, or policymaker in the mix.</strong> Dario Amodei does not appear to consult with any White House-aligned voices, and few, if any, critics of centralized power or anyone skeptical of unverifiable international agreements with China.</p> <p>We can't find anyone publicly mentioned within Amodei's brain trust who seems to recognize that global, U.N.-like institutions frequently fail or become quickly corrupted by a group of credentialed \"experts\" who inevitably just seek to increase their own power and status.</p> <p><strong>His brain trust is indeed diverse in professional specialization, but it's painfully narrow in ideological diversity.</strong></p> <p>That likely explains the liberal-internationalist-meets-Effective-Altruist blend that runs through his writing and media appearances. Amodei combines the Effective Altruist obsession with extinction-level AI risks with the liberal internationalist worldview, which posits that an \"expert\" class can design more useful international institutions outside of America's sovereign borders.</p> <p>In \"Machines of Loving Grace,\" putting aside the hyper-pagan notion of a machine God, Amodei is quite optimistic about AI being used to advance a variety of fields that can result in human flourishing. The essay considers a near future in which powerful AI systems are making decades of scientific progress in just months or years.</p> <p>In \"The Adolescence of Technology,\" however, Amodei concentrates on the darker side of the same exponential curve. He discusses autonomous AI, bioweapons, economic displacement, and authoritarian inputs that could threaten much of humanity. Consulting with his brain trust, Amodei is determined to construct systems capable of guiding us through this dangerous period of \"adolescence.\"</p> <p>In \"The Urgency of Interpretability,\" he calls for transparency laws and strict export controls on AI chips to China. He argues, in consultation with his brain trust, that America could create enough breathing room to make powerful systems more understandable before geopolitical competition makes caution impossible.</p> <p><strong>Amodei isn't wrong to point out that AI companies should definitely test their systems before public release. </strong></p> <p>And it's wise to continue dedicating resources to researching how to understand these novel systems.</p> <p><strong>Yet Amodei's institutional reflex is visible throughout his writing.</strong> When he encounters something that is determined by his West Coast bubble as a risk, the \"expert\" brain trust fills in the gaps on policy and morality.</p> <p>In his latest proposals, Amodei has floated something of a U.N.-style AI standards body and a Paris Climate Deal 2.0 with China.</p> <p><a href=\"https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/\">Amodei told CBS,</a> <strong>\"The worry I have - I am concerned that one single government could abuse this technology just as easily as a single company could.\"</strong></p> <p>He added, \"But I think a combination of democratically elected governments - I don't know about handing over, but some kind of oversight, some kind of joint governance.\"</p> <p>As for the China deal, he says the agreement must be verifiable. He even concedes that an AI pause is unlikely because the incentive to cheat would be enormous. Yet he still presses as if this is the best option. If that sounds like Hillary Clinton and Barack Obama, it's not some accident of interpretation. He is using the liberal internationalist playbook.</p> <p>As the Paris climate agreement already showed, the Chinese Communist Party is not a good-faith participant in international agreements. It is an adversarial regime seeking technological, military, and geopolitical supremacy over the United States.</p> <p>A climate change-style agreement is hard enough to verify. With AI, it's even more difficult. Do we really think China is going to hand American inspectors a list of its most capable data centers, military facilities, intelligence-gathering sites, and a whole variety of other secret networks that are critical to its national AI program?</p> <p>Amodei can see the problem, as evidenced in his writing, but his narrow intellectual brain trust prevents him from following it to its logical conclusion. He recognizes the behavior of adversarial states while retaining faith in the institutions that assume cooperation among them. And he wants to create new global government institutions that will supposedly solve these problems.</p> <p>This is the reality of living and operating in the San Francisco tech bubble. Dario Amodei and his ideologically narrow group have introduced a series of highly elaborate ideas that have not been stress-tested by reality and history.</p> <p><strong>Everyone helping him answer complex questions comes from the same constellation of institutions, liberal policy shops, Effective Altruist-connected organizations, and technocratic philanthropy. His U.N. for AI and Paris 2.0 \"solutions\" reflect the blind spots in his thought process.</strong></p> <p>Before determining that he has all of the firepower to solve all of the big problems in AI, Dario Amodei should first consider expanding his own context window.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-16T20:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/16/2026 - 16:20</span>",
-    "link": "https://www.zerohedge.com/ai/dario-amodeis-brain-trust-bad-ideas",
-    "pubDate": "Wed, 16 Sep 2026 20:20:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 Financial Stocks Whose Dividends Survived the Last Recession Intact",
-    "desc": "Key PointsT. Rowe Price has raised its dividend for 40 years in a row and pays out a high yield.",
-    "link": "https://www.nasdaq.com/articles/3-financial-stocks-whose-dividends-survived-last-recession-intact",
-    "pubDate": "Thu, 17 Sep 2026 16:35:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Thursday's ETF with Unusual Volume: GSEW",
-    "desc": "The Goldman Sachs Equal Weight U.S. Large Cap Equity ETF is seeing unusually high volume in afternoon trading Thursday, with over 306,000 shares traded versus three month average volume of about 81,000. Shares of GSEW were up about 0.7% on the day. Components of that ETF with",
-    "link": "https://www.nasdaq.com/articles/thursdays-etf-unusual-volume-gsew",
-    "pubDate": "Thu, 17 Sep 2026 16:27:21 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Over the Past 90 Days, 38% of Altcoins Outperformed Bitcoin. These 3 Altcoins Need To Be On Your Investment Radar.",
-    "desc": "Key PointsEther remains the top blockchain for staking tokens and developing decentralized apps.",
-    "link": "https://www.nasdaq.com/articles/over-past-90-days-38-altcoins-outperformed-bitcoin-these-3-altcoins-need-be-your",
-    "pubDate": "Thu, 17 Sep 2026 16:25:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Sea Limited COO Gang Ye Sells $4.2 Million in Shares",
-    "desc": "Key PointsThe transactions occurred on Sept. 15 and Sept. 16, 2026, at a weighted average price of $103.97 per share.",
-    "link": "https://www.nasdaq.com/articles/sea-limited-coo-gang-ye-sells-42-million-shares",
-    "pubDate": "Thu, 17 Sep 2026 16:20:02 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 Ways Delaying Retirement Can Make Your Future a Lot More Comfortable",
-    "desc": "Key PointsDelaying retirement gives you more time to save for your future.",
-    "link": "https://www.nasdaq.com/articles/3-ways-delaying-retirement-can-make-your-future-lot-more-comfortable",
-    "pubDate": "Thu, 17 Sep 2026 16:20:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 Dividend Stocks to Buy Now With Yields Over 3%",
-    "desc": "Key PointsComcast, PepsiCo, and Darden yield 5.6%, 4.4%, and 3.1%, respectively.",
-    "link": "https://www.nasdaq.com/articles/3-dividend-stocks-buy-now-yields-over-3",
-    "pubDate": "Thu, 17 Sep 2026 16:12:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Thursday's ETF Movers: ARKG, SIXA",
-    "desc": "In trading on Thursday, the ARK Genomic Revolution ETF is outperforming other ETFs, up about 8.5% on the day. Components of that ETF showing particular strength include shares of Absci, up about 18.9% and shares of Schrodinger, up about 17.3% on the day. And underperforming ot",
-    "link": "https://www.nasdaq.com/articles/thursdays-etf-movers-arkg-sixa",
-    "pubDate": "Thu, 17 Sep 2026 16:05:06 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Greg Abel Exited a Consumer Brand Warren Buffett Backed for 6 Straight Quarters. Here's Why That Was the Wrong Move.",
-    "desc": "Key PointsBerkshire Hathaway sold all of its Domino's Pizza shares.",
-    "link": "https://www.nasdaq.com/articles/greg-abel-exited-consumer-brand-warren-buffett-backed-6-straight-quarters-heres-why-was",
-    "pubDate": "Thu, 17 Sep 2026 16:05:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "S&P 500 Analyst Moves: ULTA",
-    "desc": "The latest tally of analyst opinions from the major brokerage houses shows that among the components of the S&amp;P 500 index, Ulta Beauty is now the #88 analyst pick, moving up by 7 spots. This rank is formed by averaging the analyst opinions for each component from ea",
-    "link": "https://www.nasdaq.com/articles/sp-500-analyst-moves-ulta",
-    "pubDate": "Thu, 17 Sep 2026 16:04:55 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Thursday Sector Leaders: Precious Metals, Computer Peripherals",
-    "desc": "In trading on Thursday, precious metals shares were relative leaders, up on the day by about 4.5%. Leading the group were shares of Silvercorp Metals, up about 8.9% and shares of TRX Gold up about 8% on the day. Also showing relative strength are computer peripherals shares, u",
-    "link": "https://www.nasdaq.com/articles/thursday-sector-leaders-precious-metals-computer-peripherals",
-    "pubDate": "Thu, 17 Sep 2026 16:03:57 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Daily Dividend Report: A,TJX,BXP,TOL,KDP,WSM",
-    "desc": "Agilent Technologies announced a quarterly dividend of 25.5 cents per share of common stock. The quarterly dividend will be paid on October 28, 2026, to all shareholders of record as of the close of business on October 6, 2026. TJX announced the declaration of a quarterly divi",
-    "link": "https://www.nasdaq.com/articles/daily-dividend-report-atjxbxptolkdpwsm",
-    "pubDate": "Thu, 17 Sep 2026 16:03:52 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Magnite Stock Rocketed Higher Today",
-    "desc": "Key PointsA judge unsealed the full ruling from the Google antitrust case.",
-    "link": "https://www.nasdaq.com/articles/why-magnite-stock-rocketed-higher-today",
-    "pubDate": "Thu, 17 Sep 2026 16:03:29 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Chief Risk Officer Trims Holdings of Fintech Stock, Sells 2,097 Shares for $110,428",
-    "desc": "Key PointsThe transaction involved 2,097 shares valued at $110,428 on the September 1, 2026 transaction date.",
-    "link": "https://www.nasdaq.com/articles/chief-risk-officer-trims-holdings-fintech-stock-sells-2097-shares-110428",
-    "pubDate": "Thu, 17 Sep 2026 16:00:01 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Lockheed Martin Delivers PAC-3 MSE Components In 22 Days With GM Defense",
-    "desc": "(RTTNews) - Lockheed Martin (LMT) said it has received the first delivery of mission-critical components produced by GM Defense for its PAC-3 Missile Segment Enhancement (MSE) interceptor less than one month after the companies signed a formal contract.",
-    "link": "https://www.nasdaq.com/articles/lockheed-martin-delivers-pac-3-mse-components-22-days-gm-defense",
-    "pubDate": "Thu, 17 Sep 2026 15:58:43 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "In transparency push, OpenAI discloses six more incidents of agents going rogue—including one removing the &#8216;obligation to be subservient&#8217;",
-    "desc": "They are the first reports OpenAI is putting out under a new disclosure framework.",
-    "link": "https://fortune.com/2026/09/17/openai-dicloses-six-incidents-agents-going-rogue-transparency/",
-    "pubDate": "Thu, 17 Sep 2026 15:54:49 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Kevin Warsh, an angry Trump and Jerome Powell Déjà vu: how history is repeating itself",
-    "desc": "The S&#038;P 500 fell 1% and the Dow lost 1.7% as the Fed chair said rates weren't restrictive before Wednesday's hike.",
-    "link": "https://fortune.com/2026/09/17/stocks-rebound-warsh-fed-rate-hike-trump-furious/",
-    "pubDate": "Thu, 17 Sep 2026 15:54:04 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Congress is so dysfunctional and irresponsible it’s only done its job four times since World War II",
-    "desc": "The federal government had a record $432 billion deficit in July and hit the $40 trillion total debt threshold in August — and Congress took a break.",
-    "link": "https://fortune.com/2026/09/17/congress-dysfunction-national-debt-august-recess-appropriations-bills/",
-    "pubDate": "Thu, 17 Sep 2026 15:09:36 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Americans are so concerned about autonomous vehicles that Minneapolis is considering requiring drivers to sit inside Waymos",
-    "desc": "A proposed ordinance would require human “safety monitors” to be paid at least a minimum wage to sit in these self-driving cars.",
-    "link": "https://fortune.com/2026/09/16/autonomous-vehicles-minneapolis-city-council-waymo/",
-    "pubDate": "Wed, 16 Sep 2026 18:12:48 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Billionaire TikTok founder is now the richest person in all of Asia, with a $105 billion net worth—he&#8217;s gained $92 billion since 2019 thanks to AI",
-    "desc": "Zhang Yiming, the founder of TikTok parent company ByteDance, is Asia’s richest person—his net worth skyrocketed $12 billion this month alone.",
-    "link": "https://fortune.com/2026/09/17/billionaire-tiktok-founder-zhang-yiming-richest-person-in-asia-105-billion-net-worth-gained-92-billion-since-2019-ai/",
-    "pubDate": "Thu, 17 Sep 2026 14:24:50 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "This Las Vegas casino just gave almost 10,000 workers more than $70 million in company stock to celebrate its 50th birthday",
-    "desc": "Every eligible employee gets $1,000 in Red Rock Resorts stock for each year on the job. One worker who started in 1977 got $49,000.",
-    "link": "https://fortune.com/2026/09/14/las-vegas-casino-10000-workers-70-million-company-stock-red-rock-resort-spa-fertitta/",
-    "pubDate": "Mon, 14 Sep 2026 20:20:47 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Man sentenced in $35 million Ponzi scheme that defrauded Travis Kelce: I &#8216;did this out of greed&#8217;",
-    "desc": "He also asked to be married to his fiance while in prison.",
-    "link": "https://fortune.com/2026/09/16/travis-kelce-victim-fraud-ponzi-scheme-sentencing-35-million/",
-    "pubDate": "Wed, 16 Sep 2026 20:44:02 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Current price of oil as of September 16, 2026",
-    "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-    "link": "https://fortune.com/article/price-of-oil-09-16-2026/",
-    "pubDate": "Wed, 16 Sep 2026 11:15:00 +0000",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Kalshi leads prediction market with 76% share in NFL week 1",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/kalshi-leads-prediction-market-with-76-share-in-nfl-week-1-93CH-4906132",
-    "pubDate": "2026-09-17 16:29:35",
-    "fetchedAt": "2026-09-17T17:01:29.906Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "U.S. stocks and bonds rally as Fed rate uncertainty fades",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-hawkish-fed-dents-wall-st-4904721",
-    "pubDate": "2026-09-17 16:27:19",
     "fetchedAt": "2026-09-17T17:01:29.906Z"
   }
 ]
