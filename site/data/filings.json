@@ -5,11 +5,26 @@
     "cik": "0001045810",
     "filings": [
       {
+        "form": "144",
+        "filed": "2026-09-17",
+        "accession": "0001958244-26-000615",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "title": "Apple Inc.",
+    "cik": "0000320193",
+    "filings": [
+      {
         "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0002152188-26-000005",
-        "primaryDoc": "xslF345X06/wk-form4_1789160684.xml",
-        "reportDate": "2026-09-09",
+        "filed": "2026-09-17",
+        "accession": "0001140361-26-037020",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
         "items": ""
       }
     ]
@@ -19,6 +34,46 @@
     "title": "MICROSOFT CORP",
     "cik": "0000789019",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-09-17",
+        "accession": "0000789019-26-000224",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-17",
+        "accession": "0000789019-26-000223",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-17",
+        "accession": "0000789019-26-000222",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-17",
+        "accession": "0000789019-26-000221",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-09-17",
+        "accession": "0000789019-26-000220",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
       {
         "form": "4",
         "filed": "2026-09-15",
@@ -49,86 +104,6 @@
         "accession": "0001958244-26-000598",
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000208",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000207",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000206",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000205",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000204",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000203",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000202",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000201",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000200",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000789019-26-000199",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-10",
         "items": ""
       }
     ]
@@ -266,6 +241,14 @@
     "filings": [
       {
         "form": "4",
+        "filed": "2026-09-17",
+        "accession": "0000950103-26-014140",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-09-15",
+        "items": ""
+      },
+      {
+        "form": "4",
         "filed": "2026-09-16",
         "accession": "0000950103-26-014061",
         "primaryDoc": "xslF345X06/ownership.xml",
@@ -287,13 +270,20 @@
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
         "items": ""
-      },
+      }
+    ]
+  },
+  {
+    "ticker": "BAC",
+    "title": "BANK OF AMERICA CORP /DE/",
+    "cik": "0000070858",
+    "filings": [
       {
         "form": "4",
-        "filed": "2026-09-11",
-        "accession": "0000950103-26-013860",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-09-09",
+        "filed": "2026-09-17",
+        "accession": "0000070858-26-000469",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-09-15",
         "items": ""
       }
     ]
