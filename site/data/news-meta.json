@@ -1,96 +1,93 @@
 {
-  "lastRun": "2026-09-19T12:01:37.444Z",
-  "fetched": 11,
-  "failed": 3,
-  "newItems": 34,
+  "lastRun": "2026-09-19T13:01:39.108Z",
+  "fetched": 14,
+  "failed": 0,
+  "newItems": 39,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 0
+      "added": 2
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 53,
+      "added": 2
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 6
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
       "items": 10,
-      "added": 2
+      "added": 4
     },
     {
       "id": "guardian",
       "name": "The Guardian",
       "items": 20,
-      "added": 0
+      "added": 1
     },
     {
       "id": "ft",
       "name": "Financial Times",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 12,
+      "added": 1
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
       "items": 7,
-      "added": 0
+      "added": 1
     },
     {
       "id": "benzinga",
       "name": "Benzinga",
       "items": 10,
-      "added": 10
+      "added": 0
     },
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 19,
-      "added": 1
+      "items": 20,
+      "added": 4
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 1
+      "added": 2
     },
     {
       "id": "wsj",
       "name": "WSJ Markets",
       "items": 20,
-      "added": 16
+      "added": 3
     },
     {
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 2
+      "added": 13
     },
     {
       "id": "fortune",
       "name": "Fortune",
       "items": 10,
-      "added": 1
+      "added": 0
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
       "items": 10,
-      "added": 1
+      "added": 0
     }
   ]
 }
