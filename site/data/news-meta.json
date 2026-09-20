@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-09-20T01:01:28.708Z",
+  "lastRun": "2026-09-20T02:01:29.599Z",
   "fetched": 14,
   "failed": 0,
-  "newItems": 13,
+  "newItems": 6,
   "total": 800,
   "sources": [
     {
@@ -27,7 +27,7 @@
       "id": "marketwatch",
       "name": "MarketWatch",
       "items": 10,
-      "added": 0
+      "added": 1
     },
     {
       "id": "guardian",
@@ -38,14 +38,14 @@
     {
       "id": "ft",
       "name": "Financial Times",
-      "items": 10,
+      "items": 8,
       "added": 0
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
       "items": 7,
-      "added": 1
+      "added": 0
     },
     {
       "id": "benzinga",
@@ -63,7 +63,7 @@
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 5
+      "added": 0
     },
     {
       "id": "wsj",
@@ -75,7 +75,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 4
+      "added": 2
     },
     {
       "id": "fortune",
