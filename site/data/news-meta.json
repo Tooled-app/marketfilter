@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-09-19T23:01:28.847Z",
+  "lastRun": "2026-09-20T00:01:29.089Z",
   "fetched": 14,
   "failed": 0,
-  "newItems": 8,
+  "newItems": 6,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 2
+      "added": 0
     },
     {
       "id": "bbc",
@@ -21,7 +21,7 @@
       "id": "investing",
       "name": "Investing.com",
       "items": 10,
-      "added": 0
+      "added": 2
     },
     {
       "id": "marketwatch",
@@ -57,7 +57,7 @@
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 0
+      "added": 2
     },
     {
       "id": "zerohedge",
@@ -75,7 +75,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 5
+      "added": 1
     },
     {
       "id": "fortune",
