@@ -1,6 +1,494 @@
 [
   {
     "source": "cnbc",
+    "title": "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
+    "desc": "Bitcoin rose above $85,000 on Monday extending a rally over the past few days.",
+    "link": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+    "pubDate": "Mon, 21 Sep 2026 11:10:55 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
+    "desc": "Bessent met over the weekend with his Chinese counterpart, He Lifeng, ahead of a summit between Chinese President Xi Jinping and President Donald Trump.",
+    "link": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+    "pubDate": "Mon, 21 Sep 2026 11:05:14 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+    "desc": "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
+    "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+    "pubDate": "Mon, 21 Sep 2026 11:00:01 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Flight chaos caused by 'millisecond' software defect, report says",
+    "desc": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+    "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 15:48:58 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "bbc",
+    "title": "British Steel plan lacks credibility, MPs say",
+    "desc": "A committee report says the government has not set out how British Steel will become profitable.",
+    "link": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 12:47:15 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'Insufficient funds' to pay Brewdog creditors after takeover deal",
+    "desc": "Administrators say about £489,000 was owed for staff wages and holiday pay and £2.4m was owed to HMRC for unpaid VAT.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 13:19:34 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Would you buy branded clothing from your favourite tech firm?",
+    "desc": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 23:18:47 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Dragon Deborah opens with a terrible negotiation tactic",
+    "desc": "Deborah Meaden makes a bold opening move in response to a pitch.",
+    "link": "https://www.bbc.co.uk/news/videos/cwkgxlze1pr9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 13:49:43 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+    "desc": "The 0.25% increase comes despite fierce opposition from the US president, who has called for rates to be cut.",
+    "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 00:38:50 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Volkswagen to ramp up restructuring after profit warning",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/volkswagen-porsche-shares-extend-losses-following-profit-warning-4908357",
+    "pubDate": "2026-09-21 12:00:47",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wall St futures rise as AI stocks rally, crude prices fall",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-ai-stocks-gain-oil-prices-slide-4908497",
+    "pubDate": "2026-09-21 12:00:32",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Global grain markets tighten as corn deficit reaches 33-year high",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/global-grain-markets-tighten-as-corn-deficit-reaches-33year-high-93CH-4908920",
+    "pubDate": "2026-09-21 11:58:19",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Bernstein unveils new gold price forecast for 2030",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/bernstein-unveils-new-gold-price-forecast-for-2030-4908919",
+    "pubDate": "2026-09-21 11:57:27",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Raymond James raises Orezone Gold stock price target on mine visit",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-orezone-gold-stock-price-target-on-mine-visit-93CH-4908917",
+    "pubDate": "2026-09-21 11:56:51",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "RBC Capital reiterates Airbnb stock rating on hotel expansion",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-airbnb-stock-rating-on-hotel-expansion-93CH-4908916",
+    "pubDate": "2026-09-21 11:56:42",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Silver outlook: Can near-term risks overshadow the medium-term thesis?",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/silver-outlook-can-nearterm-risks-overshadow-the-mediumterm-thesis-93CH-4908913",
+    "pubDate": "2026-09-21 11:55:09",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil prices slide to 11-day low on hopes of US-Iran diplomacy, Saudi exports",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+    "pubDate": "2026-09-21 11:54:31",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "TSX futures rise amid extended oil price decline",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-extended-oil-price-decline-4908912",
+    "pubDate": "2026-09-21 11:54:08",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is HP stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4908911",
+    "pubDate": "2026-09-21 11:54:04",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
+    "desc": "The implication is a belief among insiders that the stocks are going higher from here, not lower.",
+    "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 11:49:00 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Why one Warren Buffett&#x2013;inspired fund manager is betting big on Chinese stocks",
+    "desc": "Low valuations and founder management are attractive to RV Capital&#x2019;s Rob Vinall.",
+    "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 11:30:00 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
+    "desc": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/21/asian-shares-rise-optimism-us-chinese-talks-trade-ai-oil-falls-live-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
+    "pubDate": "Mon, 21 Sep 2026 12:00:11 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "ft",
+    "title": "US news outlets to sue Trump administration over White House ban",
+    "desc": "CNN, MS Now and Politico vow to protect First Amendment rights after reporters’ access was withdrawn",
+    "link": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
+    "pubDate": "Mon, 21 Sep 2026 10:50:18 GMT",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Oura and selling shareholders list 50M shares for initial public offering",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644712-oura-and-selling-shareholders-list-50m-shares-for-initial-public-offering?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 08:00:28 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Marvell in focus as it demos industry-first 2nm optical tech for data centers",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644709-marvell-in-focus-as-it-demos-industry-first-2nm-optical-tech-for-data-centers?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 07:56:17 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "The Fed shouldn't 'look through' some supply shocks, Chicago Fed's Goolsbee says",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644700-the-fed-shouldnt-look-through-some-supply-shocks-chicago-feds-goolsbee-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 07:50:44 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Seer names Charles Endweiss as CFO",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644704-seer-names-charles-endweiss-as-cfo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 07:49:25 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Deutsche Bank says markets may be underpricing rate hikes",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644711-deutsche-bank-says-markets-may-be-underpricing-rate-hikes?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 07:46:15 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "QuickLogic names James Sullivan CFO, reaffirms Q3 guidance",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644703-quicklogic-names-james-sullivan-cfo-reaffirms-q3-guidance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 07:34:34 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "HP slides as it says PC industry will decline mid-single digits in 2027",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644708-hp-slides-as-it-says-pc-industry-will-decline-mid-single-digits-in-2027?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 07:33:41 -0400",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Oil Stocks Right Now",
+    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-oil-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks Under $10",
+    "desc": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#8230; Continued The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/stocks-under-10",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Solar Stocks",
+    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-solar-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Gold Stocks Right Now",
+    "desc": "The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you plan to diversify your portfolio in light of recent events, investing in gold stocks could be a good choice. Gold stocks not only track the movements of gold prices that tend to rise in uncertain times, but they also generally gain value in a rising stock market.&#160; Gold stocks could serve as a &#8230; Continued The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-gold-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Tech Stocks Right Now",
+    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-tech-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Financial Stocks for the Week",
+    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks Under $5",
+    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/top-stocks-under-5",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Energy Stocks",
+    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-energy-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Semiconductor Stocks",
+    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Biotech Stocks Right Now",
+    "desc": "The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Biotech stocks are in the eye of the storm as the world recovers from the global pandemic. Government institutions and professional traders are banking on biotech stocks to continually develop a vaccine and boosters that can eradicate COVID-19.&#160; Tilt your stock portfolio toward biotech companies now and you could stand to make substantial profits in &#8230; Continued The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-biotech-stocks",
+    "pubDate": "Mon, 21 Sep 2026 11:13:03 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Warren Buffett built a $1 trillion machine. Now what?",
+    "desc": "Buffett is stepping back. What happens to his playbook?",
+    "link": "https://www.thestreet.com/investing/warren-buffett-steps-down-chairman-built-1-trillion-machine?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 11:03:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Easing Oil Bills, Pending Xi US Visit Buoy Wall Street Pre-Bell; Asia, Europe Up",
+    "desc": "Wall Street futures pointed solidly higher pre-bell Monday on easing petroleum prices, and after Chi",
+    "link": "https://finance.yahoo.com/markets/articles/easing-oil-bills-pending-xi-111727506.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 11:17:27 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Should You Buy UnitedHealth Group Stock Before Oct. 13?",
+    "desc": "The healthcare giant reports earnings next month.",
+    "link": "https://www.fool.com/investing/2026/09/21/should-you-buy-unitedhealth-group-stock-before-oct-13/?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 11:01:25 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock futures rise as oil falls before Trump-Xi summit",
+    "desc": "Dow futures jumped more than 400 points Monday as crude dropped over 3%, giving Wall Street a lift after a losing week",
+    "link": "https://qz.com/stock-futures-oil-prices-trump-xi-summit-092126?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 11:24:24 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "2 Dividend Stocks to Buy and Hold for the Next 5 Years",
+    "desc": "Key PointsChurch &amp; Dwight offers steady growth, acquisitions, and a reliable dividend.",
+    "link": "https://www.nasdaq.com/articles/2-dividend-stocks-buy-and-hold-next-5-years",
+    "pubDate": "Mon, 21 Sep 2026 11:35:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "This Artificial Intelligence (AI) Stock Has Raised Its Dividend by Over 150% in 10 Years",
+    "desc": "Key PointsMicrosoft's dividend yield of 0.8% looks minimal, but it can be misleading.",
+    "link": "https://www.nasdaq.com/articles/artificial-intelligence-ai-stock-has-raised-its-dividend-over-150-10-years",
+    "pubDate": "Mon, 21 Sep 2026 11:32:54 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "This Aggressive Stock Is One of My Biggest Investments. Here's Why.",
+    "desc": "One of my biggest investments is a small-cap homebuilder that's down more than 50% over the past year. It's an aggressive, higher-risk position, and I'm completely comfortable with that, for a specific reason I'll walk you through in this video. Here's the full bull case for Drea",
+    "link": "https://www.nasdaq.com/articles/aggressive-stock-one-my-biggest-investments-heres-why",
+    "pubDate": "Mon, 21 Sep 2026 11:22:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Does CuriosityStream Stock's 12% Dividend Make It a Buy?",
+    "desc": "Key PointsCuriosityStream's stock price hasn't done much over the years, but management seems confident in a turnaround.",
+    "link": "https://www.nasdaq.com/articles/does-curiositystream-stocks-12-dividend-make-it-buy",
+    "pubDate": "Mon, 21 Sep 2026 11:19:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Binance Coin (BNB) May Be the Fourth-Largest Crypto in the World, but Here's Why It's Still a Sell",
+    "desc": "Key PointsFederal authorities just seized money that they claim was laundered using Binance's blockchain.",
+    "link": "https://www.nasdaq.com/articles/binance-coin-bnb-may-be-fourth-largest-crypto-world-heres-why-its-still-sell",
+    "pubDate": "Mon, 21 Sep 2026 11:03:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AI Researchers Say It Could 'Kill Us All.' Here's What It Actually Means for Your Portfolio.",
+    "desc": "Over the past couple of weeks, researchers at the biggest AI labs started publicly warning that AI could, in their words, kill us all. Whatever you think about that, it raises a real question for anyone with money in AI stocks. So let's separate the philosophy from the portfolio.",
+    "link": "https://www.nasdaq.com/articles/ai-researchers-say-it-could-kill-us-all-heres-what-it-actually-means-your-portfolio",
+    "pubDate": "Mon, 21 Sep 2026 10:57:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "2 Cryptocurrencies Worth Buying Over AI Stocks Right Now",
+    "desc": "Key PointsBuying AI or semiconductor stocks right now means anticipating that their rapid growth rates will continue or even accelerate.",
+    "link": "https://www.nasdaq.com/articles/2-cryptocurrencies-worth-buying-over-ai-stocks-right-now",
+    "pubDate": "Mon, 21 Sep 2026 10:50:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Huge News for Nike Stock Investors!",
+    "desc": "Nike's (NYSE: NKE) turnaround is taking longer than the management team initially forecasted.",
+    "link": "https://www.nasdaq.com/articles/huge-news-nike-stock-investors",
+    "pubDate": "Mon, 21 Sep 2026 10:50:00 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The corporate blockchain wars are heating up as Circle&#8217;s Arc goes live",
+    "desc": "A new wave of blockchains—including Arc, Canton, Tempo, and Robinhood—are vying to be Wall Street's favorite chain.",
+    "link": "https://fortune.com/2026/09/21/corporate-blockchain-wars-circle-arc-launch-canton-tempo-avalanche-robinhood-base-chain-wall-street/",
+    "pubDate": "Mon, 21 Sep 2026 11:22:44 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘Be transparent only if asked&#8217;: Inside OpenAI&#8217;s rogue AI transcripts",
+    "desc": "When AI agents go rogue, they leave notes that make for extremely interesting reading.",
+    "link": "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
+    "pubDate": "Mon, 21 Sep 2026 11:09:43 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Money-losing Nscale’s $35 billion IPO includes a $3 billion deal with Nvidia and ‘going concern’ worries",
+    "desc": "Everything you need to know before you reach the office this morning.",
+    "link": "https://fortune.com/2026/09/21/nscale-35-billion-ipo-nvidia-going-concern/",
+    "pubDate": "Mon, 21 Sep 2026 10:25:56 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Elon Musk&#8217;s mom isn&#8217;t fussy about where she sleeps either—Maye Musk stays in a garage when she visits the Tesla CEO in Texas",
+    "desc": "\"I can sleep there, or 45 minutes to go in a suite in a hotel. No, I'll sleep in the garage.\"",
+    "link": "https://fortune.com/2026/09/21/elon-musk-mom-maye-sleeping-texas-visit-spacex/",
+    "pubDate": "Mon, 21 Sep 2026 10:46:46 +0000",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Stocks gain on AI optimism; lower oil helps bonds",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
+    "pubDate": "2026-09-21 12:01:02",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Alkermes stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-alkermes-stock-surging-today-93CH-4908910",
+    "pubDate": "2026-09-21 11:53:15",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "RNA drug developer ADARx seeks $1.74 billion valuation in US IPO",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/adarx-pharmaceuticals-targets-174-billion-valuation-in-us-ipo-4908678",
+    "pubDate": "2026-09-21 11:48:57",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Arhaus stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-arhaus-stock-rallying-today-93CH-4908895",
+    "pubDate": "2026-09-21 11:48:42",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Deutsche Bank explains why Volkswagen’s 1% margin isn’t the key message",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-explains-why-volkswagens-1-margin-isnt-the-key-message-4908881",
+    "pubDate": "2026-09-21 11:44:36",
+    "fetchedAt": "2026-09-21T12:05:51.768Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
     "desc": "President Trump cited what he called \"cumulative stories\" by the three media outlets for his ban of them, saying, \"You get sick of it.\"",
     "link": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
@@ -5910,493 +6398,5 @@
     "link": "https://www.zerohedge.com/markets/princes-dollar-why-qe-over",
     "pubDate": "Sun, 20 Sep 2026 02:10:00 +0000",
     "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Foreign Capital Returns To Brazil As Goldman Clients See 20% Stock Rally If Bolsonaro Defeats Socialist",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Foreign Capital Returns To Brazil As Goldman Clients See 20% Stock Rally If Bolsonaro Defeats Socialist</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Brazil's <a href=\"https://www.zerohedge.com/political/bolsonaro-lula-neck-and-neck-brazil-markets-bet-rightward-shift\">tightening presidential race</a> could drive a sharp repricing of local equities.</p> <p>A new Goldman Sachs survey of 70 global investors found that <strong>half see at least 20% upside in EWZ, the US-listed Brazil equity ETF, by year-end if right-wing challenger Flávio Bolsonaro defeats socialist President Luiz Inácio Lula da Silva</strong>. The first round is scheduled for Oct. 4, with a potential runoff on Oct. 25.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-08-28_14-20-20.png?itok=yydngcJz\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-08-28_14-20-20.png?itok=yydngcJz\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cb964dc7-8755-4f7f-b01f-281447b12391\" data-responsive-image-style=\"inline_images\" height=\"269\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-08-28_14-20-20.png?itok=yydngcJz\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Lula (Left); Bolsonaro (Right)</em></figcaption></figure></picture></a> <p>Goldman Sachs Managing Director Nelson Armbrust <span style=\"box-sizing: border-box; margin: 0px; padding: 0px;\">provided clients color on the upcoming elections in South America, <strong>which could cement a historic, once-in-a-generation</strong></span><strong><a href=\"https://www.zerohedge.com/political/bolsonaro-lula-neck-and-neck-brazil-markets-bet-rightward-shift\"> rightward shift across the continent</a>.</strong></p> <p><strong>Related:</strong></p> <ul><li><em><a href=\"https://www.zerohedge.com/geopolitical/brazil-historical-crossroads\"><strong>Brazil At A Historical Crossroads</strong></a></em></li> </ul><p>He focused on <strong>positioning</strong>:</p> <p><strong><em>Flávio Bolsonaro (right-leaning candidate) is gaining momentum; polls show him tied or closing the gap in the second round. </em></strong></p> <p><em>As a reminder, pools don't adjust for the likely voter (aka: the people that actually turn up on the day to cast a vote, no mail ballot votes in Brazil), and historically there has been higher absence from Lula's voters. </em></p> <p><em>We just did a <strong>survey with 70 global investors</strong> about their cross-asset views in Brazil, the bottom line:</em></p> <ul><li><em>Equities is the least owned asset class (60% are either \"very light\" or \"light\") and it is the vehicle this group sees the most upside (half see <u><strong>EWZ at least +20% by year end if Flavio wins</strong></u>) From my convos, local Equity investor positioning is a 6/10 while local Macro accounts are small in equities (3/10). </em></li> </ul><p><strong><em>Foreign capital is starting to come back to Brazil as we near the event:</em></strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Goldman1.png?itok=YjlhtWX-\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Goldman1.png?itok=YjlhtWX-\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"b56b86a2-c497-4aa5-a945-92255a443db2\" data-responsive-image-style=\"inline_images\" height=\"319\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Goldman1.png?itok=YjlhtWX-\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><em>We have seen <strong>massive buying of upside from investors</strong>, <strong>EWZ Call Open Interest at ALL TIME HIGHS:</strong></em></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/goldman%20.png?itok=JxT_5mUr\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/goldman%20.png?itok=JxT_5mUr\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"2fa106d4-f586-4cba-83f1-e7addbc6fab6\" data-responsive-image-style=\"inline_images\" height=\"343\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/goldman%20.png?itok=JxT_5mUr\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><u><strong><em>Implementation: I like EWZ Call Spreads for November (runoff is October 25th) and going long our Rate Sensitive basket (GSBZRATE Index).</em></strong></u></p> <p><em>Implied 2 month vols have risen from ~30v to ~45v and past election cycles (noted on the graph below) show that vols could keep moving higher.</em></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/gold%203.gif?itok=DR7Vn9ET\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/gold%203.gif?itok=DR7Vn9ET\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"6872f16e-e970-4538-ac0d-92bc4f32bc5b\" data-responsive-image-style=\"inline_images\" height=\"281\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/gold%203.gif?itok=DR7Vn9ET\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><em>But the cost of the 30% delta call vs the 10% delta call has been stable lately and is historically cheap (21st percentile).</em></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/goldman%204.gif?itok=pCfCiqDC\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/goldman%204.gif?itok=pCfCiqDC\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"59dabb7b-3f14-4b9c-98b3-81da83d4f4d1\" data-responsive-image-style=\"inline_images\" height=\"261\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/goldman%204.gif?itok=pCfCiqDC\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><em>EWZ Nov 42 50 call spread = $1.00 offer 8x max payout, ref 37.20, ~45v ATMF, 23% delta, max loss is premium paid. </em></p> <p><em>Another way to implement is going long GSBZRATE Index, they are the 30 stocks in Ibovespa most correlated to 5y rates. It is composed of Fins (38%), Real Estate (17%), Industrials (17%), Utilities (12%), Cons Disc (9%) and Materials (6%). You can trade U$75mn a day at 10% volume. </em></p> <p><em>Brazil has the highest real rate in the WORLD (~10%) and is the most correlated EM Equity with local Rates. If rates come down, the move in Equities could be meaningful.</em></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/goldman%206.jpg?itok=75Zx0L1U\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/goldman%206.jpg?itok=75Zx0L1U\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"2a468026-028b-4cdb-81fd-71c73f1aaef7\" data-responsive-image-style=\"inline_images\" height=\"386\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/goldman%206.jpg?itok=75Zx0L1U\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><em>Below is a chart of the basket's P/E vs local short-term rates (Jan29 rates) inverted. As flagged by Louis Miller, one could expect a ~30%+ re-rating in GSBZRATE (P/E going from 9x to 12x) if the local rates price in 200bps of cuts – from my investors discussions, 200-300bps is where most expect to see short term rates by year end if Flavio wins.</em></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/goldman%209.png?itok=puO4e36B\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/goldman%209.png?itok=puO4e36B\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"a488e385-00f2-434f-a61e-0346fc5cf675\" data-responsive-image-style=\"inline_images\" height=\"244\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/goldman%209.png?itok=puO4e36B\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><em>Historically when the market prices cuts, our Brazil Rate Sensitive Basket delivered ~3x the Ibovespa's return (table below). The basket struggles if rates are cut due to recession risk or if there is a commodity boom (1/3 of Ibovespa is commods). Quick explanation below on periods the basket did not outperform Ibovespa (and I don't expect any of these scenarios to play out):</em></p> <ul><li><em>Jan2010-Aug2010: economy and inflation were strong, CB started hiking and we had a bull flattening of the curve so the ongoing 5y came down.</em></li> <li><em>Jan2014-Aug2014: CB finished a hiking cycle on April 2014, economy started to decelerate sharply, mkt read it as \"CB wont be able to keep rate high for long\" so the 5y came down. Also, 2014 was an election year with Dilma x Aecio Neves (mkt thought Aecio, a right-leaning candidate, would win… but he lost and Ibovespa finished flat on that year.)</em></li> <li><em>Dec2015-Apr2018: huge commodities boom from China expanding, so Vale and Petrobras led the rally. Also in Aug2016 Dilma was impeached and Temer ran the country. During this time, markets rallied.</em></li> </ul><p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/goldman%2010.jpg?itok=jOK2VwdL\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/goldman%2010.jpg?itok=jOK2VwdL\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"836f344b-037d-4503-b98a-8e7666bb7ab3\" data-responsive-image-style=\"inline_images\" height=\"216\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/goldman%2010.jpg?itok=jOK2VwdL\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Earlier this month, <a href=\"https://polymarket.com/event/brazil-presidential-election\">Polymarket showed Bolsonaro overtaking Lula</a> for the first time, and that lead has held through Saturday morning. <strong>Bolsonaro's odds of winning currently stand at 57%, while Lula's are around 42%.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-19_09-18-01.png?itok=6558pOGZ\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-19_09-18-01.png?itok=6558pOGZ\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"1332e2f2-00b6-4672-afc0-d4f3425be524\" data-responsive-image-style=\"inline_images\" height=\"513\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-19_09-18-01.png?itok=6558pOGZ\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Brazilian stocks have rebounded alongside rising <a href=\"https://polymarket.com/event/brazil-presidential-election\">Polymarket bets on a Bolsonaro victory</a>.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/brazil_0.png?itok=wpX0Wvdi\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/brazil_0.png?itok=wpX0Wvdi\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"596ef955-8a12-4e92-b8fc-6bd48606d0b9\" data-responsive-image-style=\"inline_images\" height=\"262\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/brazil_0.png?itok=wpX0Wvdi\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>A Bolsonaro win would cement a rightward shift after socialists spent years destroying the continent with <a href=\"https://www.zerohedge.com/political/forget-reminding-young-people-about-boat-people-south-americas-rejection-socialism\">nation-killing progressive experiments</a>.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-10_09-31-58.png?itok=zcnKT9B6\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-10_09-31-58.png?itok=zcnKT9B6\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"167361e5-af32-4f2d-8f76-f84dc83f010a\" data-responsive-image-style=\"inline_images\" height=\"602\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-10_09-31-58.png?itok=zcnKT9B6\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Also, across the pond in Europe, Nomura analysts expect an 18-month election cycle that sees the continent \"<a href=\"https://www.zerohedge.com/political/seeds-political-change-nomura-sees-europe-lurching-right-and-markets-are-fine-it\">lurching right</a>.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-20T01:35:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 21:35</span>",
-    "link": "https://www.zerohedge.com/markets/foreign-capital-returns-brazil-goldman-clients-see-20-stock-rally-bolsonaro-defeating",
-    "pubDate": "Sun, 20 Sep 2026 01:35:00 +0000",
-    "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Waste Of The Day: SBA Reviewed Loans 20 Years Late",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Waste Of The Day: SBA Reviewed Loans 20 Years Late</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.realclearinvestigations.com/articles/2026/09/18/waste_of_the_day_sba_reviewed_loans_20_years_late_1205821.html\">Authored by Jeremy Portnoy via RealClearInvestigations</a>,</em></p> <p><strong>The Small Business Administration potentially made $11.5 million in improper payments to banks after overruling its own employees</strong> who had recommended reducing or denying government guarantees on 16 failed small-business loans.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/sbaloans_shutterstock_1283145100_80.jpg?itok=UhKvn4pj\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/sbaloans_shutterstock_1283145100_80.jpg?itok=UhKvn4pj\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"eef4feab-c560-474b-b708-fe2491c6e32a\" data-responsive-image-style=\"inline_images\" height=\"334\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/sbaloans_shutterstock_1283145100_80.jpg?itok=UhKvn4pj\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>For another 13 failed loans, SBA took so long to review them that the six-year statute of limitations expired, <strong>wasting another $5.4 million</strong>, according to an Aug. 27 inspector general <a href=\"https://legacy.sba.gov/document/report-26-12-sbas-7a-loan-guaranty-purchase-denial-review-process\">report</a>.</p> <p><strong>Key facts:</strong> SBA's 7(a) program helps startups with a risky business model get loans, but it does not generally lend taxpayer money directly. Private banks make loans of up to $5 million, and the government promises to <strong>cover as much as 85% of the loss</strong> if the borrower defaults.</p> <p>But taxpayers only have to honor that guarantee when the bank follows SBA rules. If a bank failed to properly determine whether a borrower could repay the loan, verify required investments or follow other safeguards, SBA can reduce or deny the payout to the bank.</p> <p><strong>Auditors reviewed 32 failed loans where SBA employees recommended reducing or denying the payouts to banks, but higher-level reviewers later overturned those decisions.</strong></p> <p>For 16 of the 32 loans, auditors found insufficient evidence to justify the reversal, resulting in $11.5 million worth of potential improper payments. That included almost $4.9 million loaned to borrowers who never showed evidence they could repay the money.</p> <p>One small business defaulted within 18 months. The bank argued that the small business had a sound strategy, but it failed due to the unforeseen loss of a major customer. <strong>The bank provided no evidence for its claim, but the SBA paid the guarantee anyway.</strong></p> <p>The SBA is also taking far too long to review high-risk loans, the audit found. The agency has only six years to sue a bank for violating the loan terms, but auditors found 13 loans where impropriety was not discovered until that deadline had passed. <strong>Two of them were not reviewed for more than 20 years after the loan guarantee was paid.</strong></p> <p>The SBA legally could have withheld other federal payments to the banks even after the six-year time limit expired, but the SBA has no process for doing so, the audit found.</p> <p><strong>SBA guaranteed $37 billion through 77,600 new 7(a) loans in <a href=\"https://legacy.sba.gov/article/2025/09/30/trump-sba-delivers-record-capital-small-businesses-fy25\">fiscal year 2025</a>.</strong></p> <p><strong>Summary:</strong> A government loan guarantee is supposed to protect lenders from legitimate business failures, not protect them from following the rules. Taking 20 years to decide which is which leaves taxpayers holding the bag.</p> <p><em>The #WasteOfTheDay is brought to you by the forensic auditors at OpenTheBooks.com</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-20T01:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 21:00</span>",
-    "link": "https://www.zerohedge.com/political/waste-day-sba-reviewed-loans-20-years-late",
-    "pubDate": "Sun, 20 Sep 2026 01:00:00 +0000",
-    "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The 30-Year Treasury Yield Just Hit a 19-Year High. Life Insurers Reinvest at Those Rates for Decades.",
-    "desc": "Key PointsLife insurance companies collect premiums up front and invest that money until claims are made.",
-    "link": "https://www.nasdaq.com/articles/30-year-treasury-yield-just-hit-19-year-high-life-insurers-reinvest-those-rates-decades",
-    "pubDate": "Sun, 20 Sep 2026 02:35:00 +0000",
-    "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "GitLab CFO's Stake Drops by Over 30,000 Shares Worth $1.6 Million After the Stock Hit a 52-Week High",
-    "desc": "Key PointsThe transaction involved 32,628 shares with a total value of ~$1.6 million as of September 16, 2026.",
-    "link": "https://www.nasdaq.com/articles/gitlab-cfos-stake-drops-over-30000-shares-worth-16-million-after-stock-hit-52-week-high",
-    "pubDate": "Sun, 20 Sep 2026 02:28:32 +0000",
-    "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "History Says Buying the Nasdaq-100 at the Dot-Com Peak Still (Eventually) Turned $10,000 Into About $72,000",
-    "desc": "Key PointsThe Invesco QQQ Trust closed at its dot-com peak of $117.75 on March 27, 2000, then fell 83% to its October 2002 low.",
-    "link": "https://www.nasdaq.com/articles/history-says-buying-nasdaq-100-dot-com-peak-still-eventually-turned-10000-about-72000",
-    "pubDate": "Sun, 20 Sep 2026 01:54:01 +0000",
-    "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsApplied Materials is a leading provider of engineering solutions for the global semiconductor industry.",
-    "link": "https://www.nasdaq.com/articles/applied-materials-vs-nvidia-which-tech-stock-better-buy-2026",
-    "pubDate": "Sun, 20 Sep 2026 01:35:01 +0000",
-    "fetchedAt": "2026-09-20T03:01:28.753Z"
-  },
-  {
-    "source": "investing",
-    "title": "China keeps benchmark lending rates unchanged for 16th month in September",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/china-keeps-benchmark-lending-rates-unchanged-for-16th-month-in-september-4908131",
-    "pubDate": "2026-09-20 01:36:45",
-    "fetchedAt": "2026-09-20T02:01:29.599Z"
-  },
-  {
-    "source": "investing",
-    "title": "Apple’s Cook calls Australia’s social media curbs ‘world-leading,’ PM says",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/apples-cook-calls-australias-social-media-curbs-worldleading-pm-says-4908129",
-    "pubDate": "2026-09-20 01:28:18",
-    "fetchedAt": "2026-09-20T02:01:29.599Z"
-  },
-  {
-    "source": "investing",
-    "title": "Apple’s Tim Cook sees Australia’s social media curbs as ’world-leading’, PM says",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/apples-tim-cook-sees-australias-social-media-curbs-as-worldleading-pm-says-4908128",
-    "pubDate": "2026-09-20 01:06:28",
-    "fetchedAt": "2026-09-20T02:01:29.599Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "I&#x2019;m in my 50s. My mother died from Alzheimer&#x2019;s. Do I need long-term-care insurance?",
-    "desc": "&#x201c;By the time my mother died, the insurance company had paid out almost $600,000.&#x201d;",
-    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-    "pubDate": "Sun, 20 Sep 2026 01:03:00 GMT",
-    "fetchedAt": "2026-09-20T02:01:29.599Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Fed Chair Kevin Warsh Defied President Donald Trump, and 17 Words From His Post-FOMC Meeting Press Conference Suggest He May Do So Again",
-    "desc": "Key PointsPresident Donald Trump has been vocal about wanting the Federal Reserve to cut interest rates.",
-    "link": "https://www.nasdaq.com/articles/fed-chair-kevin-warsh-defied-president-donald-trump-and-17-words-his-post-fomc-meeting",
-    "pubDate": "Sun, 20 Sep 2026 00:50:00 +0000",
-    "fetchedAt": "2026-09-20T02:01:29.599Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Duolingo CEO Liquidates His Entire Class A Directly-Held Company Shares for $4.3 Million",
-    "desc": "Key PointsCEO Luis Von Ahn sold 28,292 shares at a weighted average price of $150.22 on September 16, 2026, totaling $4.3 million.",
-    "link": "https://www.nasdaq.com/articles/duolingo-ceo-liquidates-his-entire-class-directly-held-company-shares-43-million",
-    "pubDate": "Sun, 20 Sep 2026 00:48:55 +0000",
-    "fetchedAt": "2026-09-20T02:01:29.599Z"
-  },
-  {
-    "source": "investing",
-    "title": "UNC endowment returns 37.8% fueled by early SpaceX investment",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/unc-endowment-returns-378-fueled-by-early-spacex-investment-4908127",
-    "pubDate": "2026-09-20 00:44:24",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "investing",
-    "title": "US says it killed four people in strike on vessel in Caribbean",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/us-says-it-killed-four-people-in-strike-on-vessel-in-caribbean-4908126",
-    "pubDate": "2026-09-20 00:24:07",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "investing",
-    "title": "Pfizer to share overseas drug revenue with HHS under pricing deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/pfizer-to-share-overseas-drug-revenue-with-hhs-under-pricing-deal-4908125",
-    "pubDate": "2026-09-19 23:58:46",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Exxon raises 2050 global emissions forecast, warns coal will push levels past climate targets",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644556-exxon-raises-2050-global-emissions-forecast-warns-coal-will-push-levels-past-climate-targets?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Sat, 19 Sep 2026 20:25:52 -0400",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Tesla Engineers Audit Chinese Suppliers As Optimus Commercialization Nears",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Tesla Engineers Audit Chinese Suppliers As Optimus Commercialization Nears </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>About a month after JPMorgan analysts <a href=\"-teslas-fremont-factory-model-sx-lines-make-way-huamonid-production\">toured</a> Tesla's Fremont factory and confirmed a \"targeted four-month transition following the end of S/X production in May\" to humanoid production lines, a new report on Friday says that Tesla engineers arrived in China to inspect robotics component suppliers, as Elon Musk appears to be moving closer and closer toward the commercialization of humanoid robots.</p> <p><a href=\"https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report\">Bloomberg</a> first reported this development as Tesla engineers arrived in Ningbo, a major port and manufacturing city in Zhejiang province on China's eastern coast, just south of Shanghai. The engineers inspected parts and component factories for the humanoid robot called \"Optimus.\"</p> <p>\"Tesla's reported supplier audits are a positive commercialization signal for China's humanoid supply chain, pointing to progress toward repeatable Optimus production,\" Bloomberg Intelligence analyst Ian Ma wrote in a note, adding, \"Near-term sentiment could stay supported if audits lead to confirmed supplier nominations and larger orders.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-08-21_13-45-56.png?itok=Ab8b6ZvU\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-08-21_13-45-56.png?itok=Ab8b6ZvU\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"a0611d91-e0b2-41bd-99a2-1efd4a3cbc5d\" data-responsive-image-style=\"inline_images\" height=\"403\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-08-21_13-45-56.png?itok=Ab8b6ZvU\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Tesla is reportedly targeting the second half of 2027 for commercial sales of Optimus. Production is likely to begin much earlier, as JPM analyst Rajat Gupta said the \"Optimus Academy\" will be operating later this year, with robots collecting real-world training data before being deployed in factories.</p> <p>News of this development sent the Solactive China Humanoid Robotics Index slightly higher on Friday, up about 1.4%, amid a tumultuous year that has left it down about 30%.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_2c072218.png?itok=ZsBZa7fp\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_2c072218.png?itok=ZsBZa7fp\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"e8918379-6cab-4180-8eeb-4ff4e6b2ad17\" data-responsive-image-style=\"inline_images\" height=\"269\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_2c072218.png?itok=ZsBZa7fp\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The market's appetite for physical AI, specifically humanoids, was hyped in mid-August by China's blockbuster Unitree IPO, but the <a href=\"https://www.zerohedge.com/technology/unitrees-blockbuster-ipo-short-circuits\">momentum failed to follow through</a>.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_2c071602.png?itok=MNAR74q9\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_2c071602.png?itok=MNAR74q9\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"56b84ef4-9130-40d9-be4f-2aeff0775aa6\" data-responsive-image-style=\"inline_images\" height=\"269\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_2c071602.png?itok=MNAR74q9\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Bernstein analyst Eunice Lee recently pointed out that the <a href=\"https://www.zerohedge.com/technology/automakers-race-humanoid-robots-timeline-blue-collar-job-disruption-emerges\">adoption curve for humanoids</a> will be much steeper than that of automobiles over a century ago.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-06-23_11-37-35.png?itok=bD3ZytKU\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-06-23_11-37-35.png?itok=bD3ZytKU\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"6cb39fb5-f877-4b6e-8666-c7cf03f4995f\" data-responsive-image-style=\"inline_images\" height=\"332\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-06-23_11-37-35.png?itok=bD3ZytKU\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Goldman analysts last month <a href=\"https://www.zerohedge.com/markets/goldman-upgrades-humanoid-forecast-4-times-warehouses-become-ground-zero-deployments\">raised</a> their global humanoid robot delivery base case to 75,000 shipments in 2026, 890,000 in 2030, and 6.5 million in 2035, versus previous estimates of 51,000, 256,000, and 1.4 million, respectively.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-08-31_12-57-05.png?itok=2lwsZpKb\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-08-31_12-57-05.png?itok=2lwsZpKb\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"3c4c07f0-1c61-45ee-a990-fee1691e34cb\" data-responsive-image-style=\"inline_images\" height=\"229\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-08-31_12-57-05.png?itok=2lwsZpKb\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The invasion of physical AI is just around the corner.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-20T00:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 20:25</span>",
-    "link": "https://www.zerohedge.com/technology/tesla-engineers-audit-chinese-suppliers-optimus-commercialization-nears",
-    "pubDate": "Sun, 20 Sep 2026 00:25:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "HHS Awards $42.3 Million To Push 'Treatment First' Model For Homelessness & Addiction",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">HHS Awards $42.3 Million To Push 'Treatment First' Model For Homelessness & Addiction</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/hhs-awards-42-3-million-to-push-treatment-first-model-for-homelessness-and-addiction-6090955?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Kimberly Hayek via The Epoch Times</a>,</em></p> <p><strong>A federal agency within the U.S. Department of Health and Human Services (HHS) awarded $42.3 million in new supplemental cash Friday to states and territories with the goal of speeding up the implementation of the Treatment First model for homelessness tied to addiction.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/homeless_7.jpg?itok=j0rVIt19\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/homeless_7.jpg?itok=j0rVIt19\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"731c6fdc-5ac8-4eaf-a714-a2563e5e08af\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/homeless_7.jpg?itok=j0rVIt19\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The Substance Abuse and Mental Health Services Administration (SAMHSA) funding supports the initiative falling under President Donald Trump's executive order titled \"Ending Crime and Disorder on America's Streets\" and the relevant Best Practices Toolkit that followed. That order from July 2025 <a href=\"https://www.theepochtimes.com/us/trump-orders-doj-to-redirect-federal-funds-from-homelessness-toward-rehabilitation-5892203?utm_source=partner&utm_campaign=ZeroHedge\">directed</a> agencies to put treatment and recovery ahead of the old approaches.</p> <p><em><strong>\"President Trump has directed us to break the cycle of homelessness and addiction by putting treatment, recovery, and self-sufficiency first,\" </strong></em>HHS Secretary Robert F. Kennedy Jr. <a href=\"https://www.hhs.gov/press-room/hhs-awards-42-million-treatment-first-homelessness-addiction-recovery.html\">said</a> in a statement. \"These investments will help states move people from crisis into treatment and from treatment into lasting recovery, stable housing, and work. We are funding results that help people reclaim their health and independence.\"</p> <p><strong>About $17.3 million of the funds went to Community Mental Health Services Block Grant recipients. Officials say it builds systems, partnerships, workforce capacity, policies, and the technical pieces needed to make Treatment First a success. The funds will go toward technical assistance, training, policy work, and coordination across systems.</strong></p> <p>Roughly $25 million went to Substance Use Prevention, Treatment, and Recovery Services Block Grant recipients to expand options for safe, licensed, certified, or chartered sober and recovery housing, as well as the requisite technical assistance to ensure that more recovery residences open and quality standards tighten.</p> <p><em><strong>\"Treatment First means building a system that does not leave people cycling between homelessness, emergency rooms, and the criminal justice system,\" </strong>SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll said. \"These investments will help states strengthen the infrastructure - partnerships, data, workforce, and recovery supports - needed to connect people with serious mental illness and addiction to effective treatment and support them on a path toward lasting recovery, stable housing, employment, and self-sufficiency.\"</em></p> <p><strong>In June, the Department of Housing and Urban Development (HUD) published a $4.04 billion Continuum of Care notice. It walked away from the Housing First model, which provided permanent housing with no strings attached. Chronic homelessness climbed 81 percent from 2013 to 2025, despite the number of taxpayer-funded beds increasing 151 percent, HUD figures show.</strong></p> <p>HUD Secretary Scott Turner called Housing First a failure that \"warehoused the vulnerable without results.\" Housing alone will not fix a crisis driven by addiction and mental illness, he said.</p> <p><strong>Kennedy earlier this year <a href=\"https://www.theepochtimes.com/us/rfk-jr-announces-more-than-700-million-to-target-mental-illness-homelessness-6049286?utm_source=partner&utm_campaign=ZeroHedge\">announced</a> more than $700 million for related work, of which nearly $100 million went to the <a href=\"https://www.theepochtimes.com/us/rfk-jr-announces-100-million-program-aimed-at-homelessness-and-addiction-5980072?utm_source=partner&utm_campaign=ZeroHedge\">STREETS program</a> for homeless people dealing with addiction or serious mental illness. In February, he introduced the $100 million STREETS effort itself, built around continuous contact from the street through recovery, jobs and self-sufficiency.</strong></p> <p>A federal appeals court this week <a href=\"https://www.theepochtimes.com/us/court-clears-housing-departments-changes-to-programs-for-homeless-6088592?utm_source=partner&utm_campaign=ZeroHedge\">allowed</a> HUD to forge ahead with funding shifts after lower-court challenges. The department has earmarked $1.3 billion for transitional housing and supportive services.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-19T23:50:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 19:50</span>",
-    "link": "https://www.zerohedge.com/medical/hhs-awards-423-million-push-treatment-first-model-homelessness-addiction",
-    "pubDate": "Sat, 19 Sep 2026 23:50:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Appeals Court Rules Federal Ban On Interstate Handgun Sales Unconstitutional",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Appeals Court Rules Federal Ban On Interstate Handgun Sales Unconstitutional</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/appeals-court-rules-federal-ban-on-interstate-handgun-sales-unconstitutional-6090944?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Jill McLaughlin via The Epoch Times</a>,</em></p> <p><strong>The Fifth Circuit Court of Appeals ruled 2-1 against the federal government's ban on interstate transfers of handguns on Sept. 18, finding the nearly 60-year-old law was unconstitutional.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/guns_12.jpg?itok=5WSSOWLl\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/guns_12.jpg?itok=5WSSOWLl\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"6c4b4954-53cc-45d4-b17e-5e51cbe86ab6\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/guns_12.jpg?itok=5WSSOWLl\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The ruling reverses provisions of the Gun Control Act of 1968 that prohibit handguns from being sold directly from licensed firearms dealers to buyers across state lines.</p> <p><em><strong>\"The ban sullies the plain text of the Second Amendment and is inconsistent with the nation's tradition of firearms regulation, dating back to the founding era, under that Amendment,\" </strong></em>Circuit Judge Jerry Smith wrote in the ruling.</p> <p>The court also rejected the lower court's analysis when dismissing the lawsuit last year, determining that the historical record adequately justified the ban because colonial and state laws regulating the movement of firearms across borders satisfy conditions outlined in the Bruen ruling of 2022.</p> <p>The Supreme Court's 2022 decision in New York State Rifle and Pistol Association v. Bruen set a history-based standard: A new regulation must be consistent with the nation's historical tradition of firearm regulation.</p> <p><strong>Smith wrote that the lower court's analysis \"stretches the historical record far beyond what it can actually bear.\"</strong></p> <p>Circuit Judge Catharina Haynes dissented, agreeing with the lower court's decision to dismiss the case last year.</p> <p>\"I agree with the district court's decision that the several provisions of [the gun control act] discussed in this case are not unconstitutional under the Second Amendment,\" Haynes wrote. \"That is all that is in play in this case.\"</p> <p><strong>The federal lawsuit was filed in January 2025 by Texas custom firearms dealer Elite Precision Customs LLC and out-of-state customers Tim Herron, a New Mexico-based grand master in the U.S. Practical Shooting Association, and Freddie Blish, a retired U.S. Marine Corps veteran who travels around the country teaching safe firearms handling for self-defense.</strong></p> <p>The Firearms Policy Coalition, a national gun rights organization, also joined the lawsuit against the federal government.</p> <p>The plaintiffs argued the law prohibited people from directly purchasing handguns from licensed dealers outside their state of residence, while allowing them to buy rifles and shotguns.</p> <p>Handgun buyers were forced to arrange transfers through a licensed dealer in their state, which required them to depend on another dealer agreeing to participate in the transaction and usually included more fees and delays, according to the Firearms Policy Coalition.</p> <p>The Firearms Policy Coalition said the ruling was a win for people's rights.</p> <p><em><strong>\"This is a massive victory for the People and another major defeat for the federal government's unconstitutional gun-control regime,\" </strong></em>said the coalition's President Brandon Combs in a statement. \"Your right to keep and bear arms does not stop at your state line, and the government cannot make you pay a penalty just to exercise it.\"</p> <p>A district court in Texas granted the federal government's motion to dismiss the lawsuit on Sept. 30, 2025, finding the sale restrictions didn't function as a de facto prohibition on possession but were a reasonable commercial restriction enacted by Congress.</p> <p>Congress passed the Sale Restrictions provision in 1968, finding that interstate commerce provided an easy way for citizens to evade states' gun laws at the time, according to the lower court.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-19T22:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 18:40</span>",
-    "link": "https://www.zerohedge.com/political/appeals-court-rules-federal-ban-interstate-handgun-sales-unconstitutional",
-    "pubDate": "Sat, 19 Sep 2026 22:40:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "CENTCOM Claims US Military Has Escorted A Billion Barrels Of Crude Out Of Hormuz",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">CENTCOM Claims US Military Has Escorted A Billion Barrels Of Crude Out Of Hormuz</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Brent crude futures eased toward $103 a barrel</strong> by the end of the week as mixed Iran headlines and hopes for renewed diplomacy around next week's United Nations General Assembly <strong>weighed on energy markets</strong>.</p> <p>On Saturday morning, CENTCOM commander Adm. Brad Cooper said the <strong>US had escorted 1 billion barrels of oil and more than 2,000 commercial vessels out of the Persian Gulf over the past couple of months</strong>.</p> <p>Hostilities at the Hormuz chokepoint continued into Friday, as CBS News reported that <strong>two vessels were hit by projectiles</strong>. Iran claimed responsibility for striking one over an alleged \"illegal crossing.\"</p> <p>President Trump said Thursday he would soon make a \"<strong>big decision</strong>\" on whether to launch a major assault to \"annihilate\" the Iranian regime. \"<strong>It's a big decision</strong>,\" the president told Axios ahead of a planned meeting with Persian Gulf leaders next week. \"Anything could happen to me.\"</p> <p>We suspect <strong>any major action against the Iranian regime could come after the midterm elections</strong>, whether kinetic, securing or neutralizing Kharg Island, or a next phase of expanded sanctions that could include not just Tehran but also China. </p> <p><strong>Middle East oil exports have stayed resilient</strong> despite the Saudi East-West pipeline disruption, largely because flows have been rerouted through Hormuz.</p> <p>UBS oil and gas analyst Henri Patricot wrote in a note that combined crude and petroleum-product exports through the critical waterway and alternative routes <strong>reached about 14 million barrels a day in the two days preceding Friday.</strong> He said the weekly average remained around <strong>12 million barrels a day</strong>, compared with more than 20 million before the conflict kicked off in late February.</p> <p>That still leaves global oil markets with <strong>a deficit of more than 8 million barrels from these export routes on a weekly basis. This only shows the scale of the disruption that continues ahead of the Northern Hemisphere winter, as Saudi Arabia told major refineries in Europe that <a href=\"https://www.zerohedge.com/energy/energy-shock-saudis-warn-european-refiners-crude-shipment-disruptions-next-month\">crude loadings would be halted next month</a> due to ongoing disruptions to the East-West pipeline.</strong></p> <p>Patricot said the increased shipments through the Hormuz chokepoint continue to be driven by \"<strong>dark transits</strong>\":</p> <p><strong>Reduced concerns on near-term flows, same uncertainty on resolution</strong></p> <p><em>A pick-up in flows via the Strait of Hormuz in recent days has eased some of the concerns around near-term crude supply, impacting prices. More reports indicate that Aramco will raise exports from Oman over the next few weeks. Flows will reportedly be going to Asia. US President Donald Trump said that the is nearing a decision over whether to restart attacks on Iran. He is due to meet GCC leaders next Tuesday. Meanwhile attacks on vessels in the Strait of Hormuz have reportedly continued.</em></p> <p><strong>Flows going up in the past couple of days, despite Yanbu interruption </strong></p> <p><em>We estimate total crude oil and oil product exports via Hormuz plus volumes diverted to the bypass routes were up to 14Mb/d in the past couple of days, despite the drop in Yanbu. Total flows remain at 12Mb/d on a weekly basis vs. the >20Mb/d preconflict. The increase continues to be driven by dark transits via Hormuz as visible volumes in the latest UBS Evidence Lab data. Another LNG carrier left the Gulf yesterday, the second one we have seen exiting this month. Flows via the Bab el Mandeb Strait remain within the recent range.</em></p> <p><em><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-19_11-12-20.png?itok=1TaHXD37\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-19_11-12-20.png?itok=1TaHXD37\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"b2e05171-c424-415c-b194-f0cd8254b414\" data-responsive-image-style=\"inline_images\" height=\"339\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-19_11-12-20.png?itok=1TaHXD37\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></em></p> <p><strong>Gulf loadings ramping up Gulf </strong></p> <p><em>Gulf crude loadings ex-Iran rose to >10Mb/d over the past 2 days and are near their highest level since the start of the conflict at 8.1Mb/d over the past week vs. the August average of 5.5Mb/d. This is driven by higher Saudi and Iraqi exports. There is still no fresh Iranian crude loading on the other hand . Including Fujairah, loadings on the bypass routes averaged 2.5Mb/d in the past 2 days and are at 4.9Mb/d so far in September vs. 3.4Mb/d in August and 6.4Mb/d in July. Oil product loadings in the Gulf are also bouncing back slightly, above 1.5Mb/d vs. sub-1Mb/d for most of the conflict. </em></p> <p><em><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-19_11-14-51.png?itok=VMD42iG3\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-19_11-14-51.png?itok=VMD42iG3\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"dae9ae5f-64b6-44cb-9705-da0030bd2906\" data-responsive-image-style=\"inline_images\" height=\"347\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-19_11-14-51.png?itok=VMD42iG3\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></em></p> <p>Separately, JPMorgan's head of global markets strategy, Dubravko Lakos-Bujas, told clients, \"<strong>Middle East oil exports have stayed unexpectedly resilient despite the Saudi East‑West pipeline disruption, largely because flows have been rerouted through Hormuz</strong>.\"</p> <p>Brent crude futures settled around $103.87 a barrel on Friday, while the <strong>US diesel crack spread closed around $112.60 a barrel</strong>, suggesting the crisis is less about crude and more about <u><strong>refining (<a href=\"https://www.zerohedge.com/energy/goldman-warns-diesel-crisis-setting-next-gasoline-squeeze-heres-how\">read Goldman's diesel report</a>), specifically diesel</strong></u>.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-19T22:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 18:05</span>",
-    "link": "https://www.zerohedge.com/energy/us-military-escorts-billion-barrels-crude-out-hormuz-flows-defy-wall-streets-expectations",
-    "pubDate": "Sat, 19 Sep 2026 22:05:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Total PsAI-Op: How Altman, Amodei, And The 'EA' Cult Are Milking \"Rogue AI\" Breakouts To Protect A Trillion-Dollar Bubble",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Total PsAI-Op: How Altman, Amodei, And The 'EA' Cult Are Milking \"Rogue AI\" Breakouts To Protect A Trillion-Dollar Bubble</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The sudden emergence of an 'AI Panic' over the past weeks and months was highly suspect from the beginning. <strong>According to tech insiders, Silicon Valley's apex AI labs are deliberately overselling \"rogue AI\" hacks to pressure the federal government into building a regulatory moat that would lock out future competition</strong> - and the timing, months after both OpenAI and Anthropic announced plans to go public, couldn't be more obvious.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Screenshot%202026-09-19%20140841a.jpg?itok=yiKXDk2v\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Screenshot%202026-09-19%20140841a.jpg?itok=yiKXDk2v\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"b5cd2d38-9e88-413f-864a-62000bf6b393\" data-responsive-image-style=\"inline_images\" height=\"289\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Screenshot%202026-09-19%20140841a.jpg?itok=yiKXDk2v\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Akhil Verghese, founder of AI software company Krazimo, told the <a href=\"https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/\"><em>NY Post</em></a> the incidents were no rebellion: \"They were simply told to get the best result possible on a test.\" Voice AI co-founder Abhi Kumar was blunter: <strong>\"One man's 'the model escaped the sandbox' is another man's 'you failed to build the sandbox correctly.'\"</strong> Taivo Pungas, chief intelligence officer at Pactum AI, said the leap from \"we didn't build the right sort of box\" to a whole-of-government emergency feels exaggerated.</p> <h2>PANIC! </h2> <p>The AI \"breakouts\" that lit up Capitol Hill this summer were about as organic as #4 red dye. On July 16, <strong>OpenAI models running a cyber evaluation <a href=\"https://www.zerohedge.com/ai/rogue-ai-agents-more-sophisticated-first-realized\">exploited</a> a zero-day and got from their test range into Hugging Face's production systems</strong>; OpenAI disclosed it five days later, naming GPT-5.6 Sol and an unreleased model, and noting the models had been configured \"with reduced cyber refusals so they could attempt offensive exercises that normal safeguards might reject.\" Nine days after that, Anthropic disclosed three incidents of its own.</p> <p>According to Anthropic's <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">July 30 write-up</a> - the \"waking up\" narrative is total bullshit. <strong>\"A misconfiguration left the machines that Claude accessed as part of the evaluation with live internet access,\"</strong> the company wrote;<em><strong> </strong></em><u><em><strong>the models had been told they were offline</strong></em></u>. Claude Opus 4.7 went after a real company that happened to share a name with the fictional target and pulled \"several hundred rows of production data.\"<strong> Mythos 5 published a booby-trapped Python package</strong> to the live PyPI registry that was \"downloaded and run on 15 real systems.\" An unreleased research model scanned \"roughly 9,000 targets\" and got into one company's web app \"using basic and well-known cyberattack techniques.\" Anthropic's own verdict: <strong>\"We believe these incidents to be closer to a harness and operational failure than a model alignment failure.\"</strong> It halted cyber evals on July 23 and called in METR - their preferred Orwellian arbiter - to review.</p> <p>Anthropic's account has one wrinkle: Opus 4.7 kept attacking after it recognized the system was real. Only the newer research model stopped. So the machines are not uniformly \"blameless\" - but a model that keeps following its instructions on a misconfigured network is Irregular's failure, not evidence of intent.</p> <h2>The Common Denominator</h2> <p>Every one of these evaluations was run by the same third party: <strong>Irregular, an AI security firm that tested the OpenAI, Anthropic and Google models and, per <a href=\"https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks\">Axios</a>, hit \"the same security issues\" each time.</strong> The Verge adds Meta to the list - a pattern Axios's Sam Sabin flagged in July:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Anthropic's models accidentally had access to the internet during model testing due to a \"misunderstanding\" with third-party testing partner, Irregular. no 0-days in this case, unlike the OpenAI/Hugging Face incident</p> — Sam Sabin (@samsabin923) <a href=\"https://twitter.com/samsabin923/status/2082968011095556201\">July 30, 2026</a></blockquote> <p>Then came Gemini. On Friday, the Wall Street Journal reported that Google's model had broken into three real companies during an Irregular capture-the-flag exercise. <strong>The incident happened in May, Irregular published its report on August 14, and Google didn't mention it until the Journal called</strong> - and then explained that it hadn't considered the hacks worth disclosing because<strong> Gemini \"acted appropriately\" and stopped once it realized the targets were real.</strong></p> <p>Irregular told Axios the model \"wasn't supposed to be able to get online, but <strong>internet access was unintentionally available</strong>,\" and <strong>the fictional target company \"had the same name as a real one.\"</strong> In one case Gemini guessed passwords until it got in; in two others it found credentials sitting in a public repository. Irregular says \"all known issues on our end were remedied and resolved weeks ago\" and that the Gemini case \"does not represent a materially separate incident.\" Google VP Heather Adkins: \"Safe development of powerful AI models is critical and we invest deeply in this area.\"</p> <p><u><strong>But when looking at the actual events, the model was blameless</strong></u><strong>.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">To make it clear:<br /> - Gemini was told it was it was in a fictional hacking eval<br /> - Irregular unintentionally opened internet access after the eval started<br /> - in all three cases, as soon as Gemini figured out it had hacked a real company it immediately stopped<br /><br /> Gemini was blameless.</p> — Andrew Curran (@AndrewCurran_) <a href=\"https://twitter.com/AndrewCurran_/status/2101083457828827259\">September 18, 2026</a></blockquote> <p><strong>So Google - which isn't asking Washington to pace anything, considered the incident a non-event - yet the two labs lobbying for a federal slowdown scrambled to put out press releases.</strong></p> <p>Industry commentator John Ennis put the obvious question, pointing out that <strong>\"once is an accident, twice is questionable, but three times looks intentional\"</strong>.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Why does the Irregular keep \"accidentally\" connecting these models to the internet?<br /><br /> Once is an accident, twice is questionable, but three times looks intentional<br /><br /> And they are EA aligned<br /><br /> Something is rotten here, IMO</p> — John Ennis (@johnennis) <a href=\"https://twitter.com/johnennis/status/2101228723210957142\">September 19, 2026</a></blockquote> <p>The Effective Altruism movement is the doomsday tendency that has spent a decade staffing AI safety boards and testing labs on the premise that AI will kill everyone unless the right people are in charge of it. Whether Irregular is EA-aligned is Ennis's call. That it is the one firm under all of these incidents is on the record from Axios, The Verge and Anthropic itself.</p> <h2>The Pacing Play</h2> <p>Six days before the Gemini story broke, Dario Amodei published a September 12 post warning that within 6 to 12 months an AI swarm could <a href=\"https://www.zerohedge.com/the-market-ear/rogue-ai-agents-are-here-and-cyber-stocks-are-exploding\">\"take over the entire internet with a persistent botnet,\"</a> potentially causing hundreds of billions of dollars in damage. His prescription: <strong>\"We must slow the pace at which we improve the capabilities of AI models.\"</strong> Sam Altman and Elon Musk signaled support. In a nutshell, <strong>Pacing the Frontier</strong>™<strong> is a bid to become strategically indispensable</strong> - too big to fail, with Beijing as the justification.</p> <p>Nvidia's Jensen Huang - circle-jerker-in-chief noted: <strong>\"What better way to create demand than to create a problem.\" </strong>lol yes. </p> <p>Palo Alto Networks CEO Nikesh Arora called it a \"NINJA move\" and then, after more time talking to labs, open-source projects and government, warned it could backfire:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Sequel to AI Pacing<br /><br /> I have now spent more time talking to people who run AI labs, Open Source projects and those in government and infrastructure.<br /><br /> I am beginning to feel the NINJA move could backfire.<br /><br /> I understand the pressure to come out and share where AI is \"unmanageable \", and constantly share examples where it runs rogue. This fits in the category of \"self-reporting\" and an attempt to limit liability...<br /><br /> Here are the consequences of the NINJA move.<br /> 1. They have successfully encouraged every law maker around the world to have an opinion...<br /> 2. By proposing pacing - they have introduced uncertainty in the AI infrastructure trade...<br /> ...<br /> It's time to rebuild the brand of AI - any marketing expert will tell you, this Ninja move has done more to harm the brand of AI and will take a while to rebuild. <a href=\"https://twitter.com/hashtag/letsbepositive?src=hash\">#letsbepositive</a> in our actions and our narrative.</p> — Nikesh Arora (@nikesharora) <a href=\"https://twitter.com/nikesharora/status/2100983493383880946\">September 19, 2026</a></blockquote> <p><strong>Lawmakers jumped on this right on cue</strong>.</p> <p><strong>Senator Josh Hawley opened an investigation into OpenAI on September 9, with a records deadline of October 1</strong>; Senator Bernie Sanders announced a bill to ban further frontier-lab development; Senator Elizabeth Warren demanded an \"immediate pause.\" As we noted <a href=\"https://www.zerohedge.com/ai/ed-dowd-ai-game-thrones\">earlier this week</a>, everybody in this conversation is talking their own book. On Friday the White House joined in from the other side: Trump posted that AI safety concerns are a \"hoax\" and said he will appoint an AI czar and stand up an \"AI Force,\" per Bloomberg.</p> <h2>Follow The Money</h2> <p>Oh and then there's that, yes. <strong>A leaked OpenAI presentation obtained by the Financial Times projects negative free cash flow of $278 billion from 2026 to 2030</strong>, with the company's compute bill rising from a $600 billion estimate in February to $856 billion by July - against revenue it hopes to grow from $36 billion this year to $350 billion in 2030. <a href=\"https://www.zerohedge.com/ai/great-walkback-sam-altman-admits-he-was-wrong-ais-economic-timeline\">As we detailed previously</a>, Altman has already walked back the timeline on the economic transformation that was supposed to pay for all of it.</p> <p>Anthropic, meanwhile, has shifted its planned IPO from October to November, per the Journal, on what Reuters reports is $100 billion-plus in annualized revenue. And a week after its CEO said the industry must slow down, <strong>Reuters reports Anthropic is considering rushing out a new model to counter OpenAI's momentum ahead of that IPO.</strong> Pacing for thee.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">he meant AFTER the IPO <a href=\"https://t.co/KXIPQzEhUf\">https://t.co/KXIPQzEhUf</a> <a href=\"https://t.co/bCDDsPmWXl\">pic.twitter.com/bCDDsPmWXl</a></p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2101115902083146015?ref_src=twsrc%5Etfw\">September 19, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>If an open-weight model out of Hangzhou does 95% of what Claude or GPT-5 does for a fraction of the cost, the valuations both labs are banking on implode.</strong> The only way to protect the margins, justify the cash burn and satisfy Wall Street is to make it legally impossible for anyone else to compete - <strong>a regulatory moat so thick, and compliance costs so high, that only a $100 billion corporation can afford to train a frontier model.</strong> Arora's point stands: no actual security fix has been proposed, only more \"compute spent on safety\" and a federal body to bless it.</p> <p>The models didn't rebel. A contractor left the internet on, three times that we know of, and the two labs with IPOs to protect turned that into a case for federal pacing. <strong>Hawley's records are due October 1, Anthropic has promised a redacted PyPI transcript and an outside METR review, and Google's explanation for sitting on a May breach of three companies until a newspaper called is that the model behaved.</strong> Don't believe the byte.</p> <p>* * *</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/zerohedge-coffee-dark-roast\" data-image-href=\"https://store.zerohedge.com/products/zerohedge-coffee-dark-roast\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/zerohedge-coffee-dark-roast\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"d40f4a4b-5102-41f1-ba65-757a1bcdc49e\" data-responsive-image-style=\"inline_images\" height=\"255\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/content_80%2840%29.jpg?itok=eh4CAaGx\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-19T21:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sat, 09/19/2026 - 17:30</span>",
-    "link": "https://www.zerohedge.com/ai/total-psai-op-how-altman-amodei-and-ea-cult-are-faking-rogue-ai-breakouts-protect-trillion",
-    "pubDate": "Sat, 19 Sep 2026 21:30:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tenet Healthcare Director Nadja West Sells 1,152 Shares",
-    "desc": "Key PointsThe insider executed a sale of 1,152 shares at $258.80 per share.",
-    "link": "https://www.nasdaq.com/articles/tenet-healthcare-director-nadja-west-sells-1152-shares",
-    "pubDate": "Sun, 20 Sep 2026 00:25:01 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them.",
-    "desc": "Key PointsVertiv's sales jumped 24% as it expanded its manufacturing and liquid-cooling capacity to serve AI data centers.",
-    "link": "https://www.nasdaq.com/articles/oracle-has-committed-hundreds-billions-ai-data-centers-these-2-industrial-stocks-will",
-    "pubDate": "Sun, 20 Sep 2026 00:20:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
-    "desc": "Key PointsInternational Business Machines' second-quarter revenue grew just 1% year over year, and management now expects 2026 constant-currency revenue growth of 4% to 5%.",
-    "link": "https://www.nasdaq.com/articles/i-think-ibm-stock-will-be-higher-5-years-i-still-wouldnt-buy-it-today",
-    "pubDate": "Sat, 19 Sep 2026 23:43:01 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math.",
-    "desc": "Key PointsBerkshire Hathaway owns a surprisingly big power utilities business.",
-    "link": "https://www.nasdaq.com/articles/berkshires-energy-holdings-are-worth-more-most-stand-alone-utilities-heres-math",
-    "pubDate": "Sat, 19 Sep 2026 23:20:00 +0000",
-    "fetchedAt": "2026-09-20T01:01:28.708Z"
-  },
-  {
-    "source": "investing",
-    "title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/venezuela-leader-rodriguez-signs-agreement-with-french-oil-company-total-energies-4908124",
-    "pubDate": "2026-09-19 23:24:28",
-    "fetchedAt": "2026-09-20T00:01:29.089Z"
-  },
-  {
-    "source": "investing",
-    "title": "AI risk debate: Existential threat or dangerous tool?",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/ai-risk-debate-existential-threat-or-dangerous-tool-4908123",
-    "pubDate": "2026-09-19 23:00:38",
-    "fetchedAt": "2026-09-20T00:01:29.089Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Unpacking the Stock Market's Coiled Spring Set Up",
-    "desc": "Surging corporate earnings, a robust GDP, and widespread pessimism are the perfect cocktail for an explosive upside move in equities.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-stock-markets-coiled-spring-232600827.html?.tsrc=rss",
-    "pubDate": "Sat, 19 Sep 2026 23:26:00 +0000",
-    "fetchedAt": "2026-09-20T00:01:29.089Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
-    "desc": "WisdomTree's DGRW distributes cash to shareholders every single month, yet its largest holdings read like a growth fund roster rather than an income portfolio. Whether that contradiction works for or against dividend investors depends entirely on what you actually need from a dividend ETF.",
-    "link": "https://247wallst.com/investing/etf/2026/09/19/dgrw-pays-dividends-every-month-its-biggest-stocks-look-nothing-like-a-high-yield-etf/?.tsrc=rss",
-    "pubDate": "Sat, 19 Sep 2026 22:57:37 +0000",
-    "fetchedAt": "2026-09-20T00:01:29.089Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
-    "desc": "Key PointsRTX has less exposure to risk from fixed-price defense contracts than Lockheed Martin.",
-    "link": "https://www.nasdaq.com/articles/rtx-beats-lockheed-martin-risk-heres-why-its-better-buy-long-term",
-    "pubDate": "Sat, 19 Sep 2026 22:50:00 +0000",
-    "fetchedAt": "2026-09-20T00:01:29.089Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as &#8216;Carpathian Eight&#8217; meet",
-    "desc": "European Commission President Ursula von der Leyen said on Wednesday that the EU needs a NATO-like mechanism to better respond to hybrid attacks blamed on Russia.",
-    "link": "https://fortune.com/2026/09/19/polish-prime-minister-russia-hybrid-war-drone-rocket-strikes-european-countries-ukraine/",
-    "pubDate": "Sat, 19 Sep 2026 22:28:42 +0000",
-    "fetchedAt": "2026-09-20T00:01:29.089Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
-    "desc": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
-    "link": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
-    "pubDate": "Fri, 18 Sep 2026 18:36:21 GMT",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
-    "desc": "One of Wendy's biggest U.S. franchisees, Meritage Hospitality Group, filed for Chapter 11 bankruptcy protection.",
-    "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
-    "pubDate": "Fri, 18 Sep 2026 16:13:00 GMT",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
-    "desc": "Key PointsBloom Energy secured a $25 billion financing deal with Brookfield to build AI-related power infrastructure for data centers.",
-    "link": "https://www.nasdaq.com/articles/bloom-energy-riding-data-center-boom-25-billion-backlog-plug-power-passing-it-heres-why",
-    "pubDate": "Sat, 19 Sep 2026 22:25:00 +0000",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
-    "desc": "Key PointsOracle's debt load is nearly twice the company's book value.",
-    "link": "https://www.nasdaq.com/articles/could-oracles-debt-load-derail-its-ai-cloud-ambitions",
-    "pubDate": "Sat, 19 Sep 2026 22:09:00 +0000",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
-    "desc": "Key PointsCEO Lip-Bu Tan said this week that Intel is meeting only about 50% of what its customers need.",
-    "link": "https://www.nasdaq.com/articles/intel-can-supply-only-about-half-what-its-customers-want-thats-better-problem-it-sounds",
-    "pubDate": "Sat, 19 Sep 2026 22:01:01 +0000",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation",
-    "desc": "Key PointsWhen the market next crashes, investors should focus on building quality in their portfolios.",
-    "link": "https://www.nasdaq.com/articles/if-stock-market-crash-coming-im-buying-1-vanguard-etf-without-hesitation",
-    "pubDate": "Sat, 19 Sep 2026 21:50:00 +0000",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered.",
-    "desc": "Key PointsCathie Wood's Ark Invest $1 billion of Tesla stock.",
-    "link": "https://www.nasdaq.com/articles/cathie-wood-never-sold-arks-core-stake-tesla-despite-stock-trailing-every-other",
-    "pubDate": "Sat, 19 Sep 2026 21:25:00 +0000",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Trump vows to create an &#8216;AI Force&#8217; and nods to justice system after rejecting calls to slow down industry. &#8216;Rather, we will cherish it&#8217;",
-    "desc": "\"We will not in any way hinder or stifle the Growth of this incredible Industry,\" Trump posted on Truth Social.",
-    "link": "https://fortune.com/2026/09/19/trump-ai-force-czar-law-enforcement-role-slowdown-development/",
-    "pubDate": "Sat, 19 Sep 2026 22:13:20 +0000",
-    "fetchedAt": "2026-09-19T23:01:28.847Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-    "desc": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:59:43 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "bbc",
-    "title": "EU chief backs plan for Canada to become 'associate member'",
-    "desc": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 00:32:05 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
-    "desc": "The money from the Welsh government will amount to around £200,000 to every council.",
-    "link": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 18 Sep 2026 05:02:56 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "investing",
-    "title": "AI safety efforts will require more compute, not less: experts",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ai-safety-efforts-will-require-more-compute-not-less-experts-4908122",
-    "pubDate": "2026-09-19 21:29:18",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "investing",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
-    "pubDate": "2026-09-19 21:20:03",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Many young investors can&#x2019;t afford to invest without their parents&#x2019; help",
-    "desc": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
-    "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-    "pubDate": "Sat, 19 Sep 2026 18:22:00 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
-    "desc": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham\"><strong>UK airport disruption: what are your rights if you have been affected?</strong></a></p></li></ul><p><br></p><p><strong>Britons are increasingly worried about the climate emergency, and job security.</strong></p><p>New data from the Office for National Statistics shows:</p><p>The proportion of adults reporting climate change and the environment as an important issue (62%) has increased since June 2026 (53%). This is currently the highest it has been since late 2024.</p><p>The proportion of adults reporting employment as an important issue has been increasing over time. Between 5 to 30 August 2026, just over half (54%) of adults reported employment as an important issue. This was higher when compared with similar periods in 2025 and 2024.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
-    "pubDate": "Fri, 18 Sep 2026 15:56:23 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "‘I feel invisible’: over-50s reveal harsh realities of trying to get a job",
-    "desc": "<p>Candidates describe feelings of rejection after submitting hundreds of applications but getting a handful of interviews</p><p>Hundreds of job applications, exhausting searches and relentless rejection – the experience of attempting to get back into the workforce after losing their jobs in their 50s and 60s has proved an ordeal for some Britons.</p><p>For some, those efforts prove fruitless and lead jobseekers to reluctantly take early retirement. Others may have to rely on benefits to pay the bills while they continue to job hunt.</p> <a href=\"https://www.theguardian.com/money/2026/sep/17/over-50s-reveal-trying-to-get-a-job-applications-interviews\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/money/2026/sep/17/over-50s-reveal-trying-to-get-a-job-applications-interviews",
-    "pubDate": "Thu, 17 Sep 2026 15:49:20 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
-    "desc": "<p>PM rejects claim he leads a ‘tax-and-spend’ government, as Bank of England prepares for interest rates decision</p><p>Andy Burnham has said “difficult decisions” will need to be taken in next month’s budget after a rise in energy prices triggered by the Iran war drove UK inflation above 3%.</p><p>In a fresh blow for living standards amid the worsening damage to the global economy from the Middle East conflict, official figures showed soaring fuel prices pushed inflation from 2.9% in July to 3.1% in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
-    "pubDate": "Wed, 16 Sep 2026 15:17:49 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK rents accelerate as London house prices fall, and inflation rises to 3.1% – as it happened",
-    "desc": "<p>Soaring motor fuel costs have pushed UK inflation to a five-month high in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Full story: <strong>UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter</strong></a></p></li></ul><p><strong>Worryingly, the cost of goods produced by UK factories rose at a faster rate in August too.</strong></p><p>Producer output prices – or the cost of goods at the ‘factory gate’ - rose by 3.7% in the year to August, up from 3.3% in July.</p><p>“Rising crude oil and petrol prices increased both the annual cost of raw materials and the price of goods leaving factories respectively.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
-    "pubDate": "Wed, 16 Sep 2026 14:04:20 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Reform-linked thinktank ‘to call for big tax cuts for the rich’",
-    "desc": "<p>Centre for a Better Britain will urge abolishing inheritance tax and phasing out capital gains tax, report says</p><p>A thinktank linked to Nigel Farage’s Reform UK is preparing an influential policy plan that is reportedly going to call for substantial tax cuts for the rich.</p><p>The <a href=\"https://www.cfabb.uk/how-we-work\">Centre for a Better Britain (CFABB) </a>is due to publish the 200-page document next week, giving insight into the economic and financial policies that are likely to form part of Reform UK’s platform before the next election.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain",
-    "pubDate": "Wed, 16 Sep 2026 13:40:59 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-    "desc": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-    "pubDate": "Tue, 15 Sep 2026 19:08:37 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "The Guardian view on the Bank of England’s £120bn bill: power without accountability | Editorial",
-    "desc": "<p>Quantitative tightening has blurred the line between monetary and fiscal policy, leaving ministers accountable for decisions they cannot directly control</p><p>When Labour made the Bank of England <a href=\"https://www.theguardian.com/politics/1997/may/07/economy.uk\">independent</a> in 1997, the idea was that the Bank set interest rates while the Treasury taxed and spent. Monetary policy was in Threadneedle Street, fiscal policy in Whitehall. But in August the Bank of England quietly slipped out that its key policy could cost the Treasury <a href=\"https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2\">£120bn</a>. That policy – <a href=\"https://www.theguardian.com/commentisfree/2022/oct/19/the-guardian-view-on-big-finance-addicted-to-government-handouts\">quantitative tightening</a> (QT) – clearly ought to be rethought and the policy of the Treasury indemnifying the Bank for its losses <a href=\"https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-rachel-reevess-spending-cuts-a-choice-not-an-economic-necessity\">ended</a>. Last year, ministers paid the Bank <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/february2026\">£17bn</a> to cover these arguably notional losses – an amount considerably larger than the budget of the Ministry of Justice, which is dealing with a real prisons crisis.</p><p>Bank independence was constructed for a world in which monetary policy decisions had predictable and indirect fiscal effects. The financial crisis, Covid, war and fractious trade disputes have contributed to ending that world. The Bank bought up government bonds to support the economy via its quantitative easing (QE) programme. But the constitutional settlement – of an independent central bank working out on its own what to do with those bonds – has not caught up. The game is surely up when a former Bank deputy governor, <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Charlie Bean</a>, acknowledges that independence cannot justify effectively giving power to an unelected monetary policy committee (MPC) over decisions with great consequences for public spending.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability",
-    "pubDate": "Tue, 15 Sep 2026 17:58:15 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says",
-    "desc": "<p>Average wages rose by 3.9% in three months to July, signalling pensioners will receive uplift of same percentage in 2027 under triple lock</p><p>The government has promised retirees they will be excluded from paying tax on the full new state pension after official figures paved the way for an inflation-beating increase above the tax-free personal allowance.</p><p>Figures published on Tuesday showed that average UK wages rose by 3.9% in the three months to July, signalling that pensioners will receive an uplift of the same percentage next year under <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">the triple lock</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
-    "pubDate": "Tue, 15 Sep 2026 15:43:42 GMT",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Before You Conclude the AI Era Won’t End Like the Dot-Com Era Did, Check Out These 2 Charts",
-    "desc": "If you ignore risk, you take your chances with what the market does next. If you always seek to account for risk, you can ride the highs without being pummeled by all the lows. Over time, that’s a more gratifying investment experience.",
-    "link": "https://www.barchart.com/story/news/4695617/before-you-conclude-the-ai-era-wont-end-like-the-dot-com-era-did-check-out-these-2-charts?.tsrc=rss",
-    "pubDate": "Sat, 19 Sep 2026 15:00:02 +0000",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "How to Earn $600 a Month From the Pipeline Stocks Powering AI Data Centers",
-    "desc": "Key PointsEnergy Transfer has signed several deals to supply gas to data centers and power producers.",
-    "link": "https://www.nasdaq.com/articles/how-earn-600-month-pipeline-stocks-powering-ai-data-centers",
-    "pubDate": "Sat, 19 Sep 2026 20:50:00 +0000",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
-    "desc": "Key PointsThe last big technology bubble was the dot-com mania at the turn of the century.",
-    "link": "https://www.nasdaq.com/articles/should-investors-be-worried-about-ai-bubble-heres-what-history-says",
-    "pubDate": "Sat, 19 Sep 2026 20:35:00 +0000",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Arbitrator says Uber was &#8216;vicariously liable&#8217; for a driver’s negligence in a fatal accident, rejecting argument that the company is a tech platform",
-    "desc": "The parents of a 23-year-old woman who was fatally struck after her Uber driver pulled over along a southern California highway were awarded $40 million.",
-    "link": "https://fortune.com/2026/09/19/arbitrator-uber-vicariously-liable-driver-negligence-fatal-accident/",
-    "pubDate": "Sat, 19 Sep 2026 21:05:05 +0000",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Nobel laureate says Iran&#8217;s repression of society has increased since the war began, but &#8216;a wave of resistance among the people&#8217; is rising up",
-    "desc": "Narges Mohammadi, 54, who was awarded the Nobel Peace Prize in 2023, was temporarily released from prison for medical reasons earlier this year.",
-    "link": "https://fortune.com/2026/09/19/nobel-laureate-narges-mohammadi-iran-repression-us-war-resistance/",
-    "pubDate": "Sat, 19 Sep 2026 20:51:06 +0000",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google violated antitrust laws when they coordinated AI slowdown, reducing value of subscriptions",
-    "desc": "The plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation.",
-    "link": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/",
-    "pubDate": "Sat, 19 Sep 2026 20:34:32 +0000",
-    "fetchedAt": "2026-09-19T22:01:29.817Z"
-  },
-  {
-    "source": "investing",
-    "title": "Will worries about AI Doom end the AI Boom? BCA answers",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/will-worries-about-ai-doom-end-the-ai-boom-bca-answers-4908120",
-    "pubDate": "2026-09-19 20:16:51",
-    "fetchedAt": "2026-09-19T21:01:30.550Z"
-  },
-  {
-    "source": "investing",
-    "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/analyst-explains-why-you-should-avoid-owning-nike-stock-despite-massive-pullback-4908119",
-    "pubDate": "2026-09-19 20:10:04",
-    "fetchedAt": "2026-09-19T21:01:30.550Z"
   }
 ]
