@@ -1,21 +1,21 @@
 {
-  "lastRun": "2026-09-21T20:01:31.277Z",
+  "lastRun": "2026-09-21T21:01:30.152Z",
   "fetched": 14,
   "failed": 0,
-  "newItems": 63,
+  "newItems": 78,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 4
+      "added": 3
     },
     {
       "id": "bbc",
       "name": "BBC Business",
       "items": 52,
-      "added": 5
+      "added": 4
     },
     {
       "id": "investing",
@@ -27,19 +27,19 @@
       "id": "marketwatch",
       "name": "MarketWatch",
       "items": 10,
-      "added": 6
+      "added": 4
     },
     {
       "id": "guardian",
       "name": "The Guardian",
       "items": 20,
-      "added": 2
+      "added": 0
     },
     {
       "id": "ft",
       "name": "Financial Times",
       "items": 11,
-      "added": 1
+      "added": 5
     },
     {
       "id": "seekingalpha",
@@ -57,13 +57,13 @@
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 7
+      "added": 17
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 0
+      "added": 7
     },
     {
       "id": "wsj",
@@ -81,13 +81,13 @@
       "id": "fortune",
       "name": "Fortune",
       "items": 10,
-      "added": 1
+      "added": 0
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
       "items": 10,
-      "added": 5
+      "added": 6
     }
   ]
 }
