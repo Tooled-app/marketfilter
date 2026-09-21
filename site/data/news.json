@@ -1,6 +1,446 @@
 [
   {
     "source": "cnbc",
+    "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+    "desc": "Data centers have been a flash point in the 2026 midterm elections, including Abbott's bid for reelection against Democratic state Rep. Gina Hinojosa.",
+    "link": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
+    "pubDate": "Mon, 21 Sep 2026 22:46:26 GMT",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+    "desc": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+    "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+    "pubDate": "Mon, 21 Sep 2026 14:20:48 GMT",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Can Europe recharge its battery industry?",
+    "desc": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "BridgeBio Pharma CEO Neil Kumar sells $690,847 in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/bridgebio-pharma-ceo-neil-kumar-sells-690847-in-shares-93CH-4909733",
+    "pubDate": "2026-09-21 22:46:13",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "Heartflow CMO Campbell Rogers sells $987k in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/heartflow-cmo-campbell-rogers-sells-987k-in-stock-93CH-4909732",
+    "pubDate": "2026-09-21 22:46:04",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "Salesforce director David Kirk buys $999k of CRM stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/salesforce-director-david-kirk-buys-999k-of-crm-stock-93CH-4909731",
+    "pubDate": "2026-09-21 22:45:52",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "Exclusive-US to open two new military bases in Greenland, sources say",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/exclusiveus-to-open-two-new-military-bases-in-greenland-sources-say-4909730",
+    "pubDate": "2026-09-21 22:42:54",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "Lockheed wins US Army missile contract worth up to $1.2 billion",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/lockheed-wins-us-army-missile-contract-worth-up-to-12-billion-4909720",
+    "pubDate": "2026-09-21 22:36:53",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "IonQ partners with SDT to deploy quantum system in South Korea",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/ionq-partners-with-sdt-to-deploy-quantum-system-in-south-korea-93CH-4909729",
+    "pubDate": "2026-09-21 22:36:34",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oruka Therapeutics SVP Arjun Agarwal sells $51,034 in ORKA stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-svp-arjun-agarwal-sells-51034-in-orka-stock-93CH-4909727",
+    "pubDate": "2026-09-21 22:31:07",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
+    "desc": "",
+    "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
+    "pubDate": "2026-09-21 22:30:35",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "ServisFirst Bancshares declares $0.19 quarterly dividend",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/servisfirst-bancshares-declares-019-quarterly-dividend-93CH-4909723",
+    "pubDate": "2026-09-21 22:28:30",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investing",
+    "title": "Airport operations in US Northeast resume after telecom lines repaired",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/airport-operations-in-us-northeast-resume-after-telecom-lines-repaired-4909721",
+    "pubDate": "2026-09-21 22:24:52",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "guardian",
+    "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
+    "desc": "<p>Warning comes as forecast for nation’s economic growth downgraded amid concerns over rising debt and inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The International Monetary Fund has called on Australia’s federal and state governments to cut spending as it warns the Reserve Bank may have to hike interest rates further to get price pressures back under control.</p><p>More disciplined budgets would rein in rising debt burdens and help solve Australia’s <a href=\"https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation\">long-running inflation problem</a>, the IMF said in a new report, as it downgraded its forecast for Australia’s economic growth in 2027.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
+    "pubDate": "Thu, 17 Sep 2026 00:20:26 GMT",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Woodward to close California plant, shift production to South Carolina",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645214-woodward-to-close-california-plant-shift-production-to-south-carolina?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 18:54:20 -0400",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Jeld-Wen creditors are said to discuss debt extension, fresh capital",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645213-jeld-wen-creditors-are-said-to-discuss-debt-extension-fresh-capital?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 18:33:10 -0400",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Southern's Georgia Power signs deal with Google to add nuclear capacity",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645212-southerns-georgia-power-signs-deal-with-google-to-add-nuclear-capacity?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 18:32:14 -0400",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Here are the major earnings before the open Tuesday",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4644747-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 18:00:07 -0400",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Lockheed Martin lands $1.2B Army deal for PrSM missiles",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645210-lockheed-martin-lands-12b-army-deal-for-prsm-missiles?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 17:58:39 -0400",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VirTra, Inc. (VTSI) Stock Dips While Market Gains: Key Facts",
+    "desc": "VirTra, Inc. (VTSI) concluded the recent trading session at $2.9, signifying a -1.69% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-stock-dips-221505866.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Whirlpool (WHR) Outpaced the Stock Market Today",
+    "desc": "Whirlpool (WHR) concluded the recent trading session at $32.64, signifying a +2.1% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-whirlpool-whr-outpaced-stock-221505410.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Oneok Inc. (OKE) Stock Drops Despite Market Gains: Important Facts to Note",
+    "desc": "In the closing of the recent trading day, Oneok Inc. (OKE) stood at $91.8, denoting a -1.78% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-stock-drops-221504604.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "NXP Semiconductors (NXPI) Beats Stock Market Upswing: What Investors Need to Know",
+    "desc": "The latest trading day saw NXP Semiconductors (NXPI) settling at $232.41, representing a +1.94% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-beats-stock-221504499.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Hamilton Insurance (HG) Stock Drops Despite Market Gains: Important Facts to Note",
+    "desc": "Hamilton Insurance (HG) closed at $33.87 in the latest trading session, marking a -3.12% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-insurance-hg-stock-drops-221503539.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Medpace (MEDP) Outperforms Broader Market: What You Need to Know",
+    "desc": "Medpace (MEDP) concluded the recent trading session at $624.2, signifying a +1.94% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/medpace-medp-outperforms-broader-market-221503825.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Rithm (RITM) Surpasses Market Returns: Some Facts Worth Knowing",
+    "desc": "Rithm (RITM) reached $9.55 at the closing of the latest trading day, reflecting a +2.14% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-surpasses-market-returns-221503213.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Doximity (DOCS) Surpasses Market Returns: Some Facts Worth Knowing",
+    "desc": "In the closing of the recent trading day, Doximity (DOCS) stood at $26.84, denoting a +2.8% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/doximity-docs-surpasses-market-returns-221502741.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note",
+    "desc": "Diamondback Energy (FANG) reached $189.27 at the closing of the latest trading day, reflecting a -1.64% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-stock-drops-221502011.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Blink Charging (BLNK) Stock Sinks As Market Gains: What You Should Know",
+    "desc": "The latest trading day saw Blink Charging (BLNK) settling at $0.58, representing a -2.54% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/blink-charging-blnk-stock-sinks-221502419.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "BlackRock (BLK) Outpaces Stock Market Gains: What You Should Know",
+    "desc": "In the closing of the recent trading day, BlackRock (BLK) stood at $1, denoting a +1.92% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-outpaces-stock-market-221502911.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club — AMD, ARM, META, AMZN, PSKY In Focus",
+    "desc": "Advanced Micro Devices added about 10% and hit $1 trillion in market cap.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-ends-nearly-3-higher-as-ai-stocks-pop/cZMRHqjRBIm?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:04:54 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "As Wall Street Turns Suddenly Bullish, Questions Arise if Bitcoin Will Follow or Flop",
+    "desc": "Wall Street strategists see stocks rallying further after fears have subsided, and a Bitcoin rally could be next, analysts say.",
+    "link": "https://beincrypto.com/bitcoin-btc-rally-stocks-question/?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:41:25 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons OMCL is Risky and 1 Stock to Buy Instead",
+    "desc": "Omnicell has been treading water for the past six months, recording a small loss of 4.6% while holding steady at $32.74. The stock also fell short of the S&P 500’s 16.4% gain during that period.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-omcl-risky-1-223825626.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:38:25 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Astrazeneca (AZN) Ascends But Remains Behind Market: Some Facts to Note",
+    "desc": "In the latest trading session, Astrazeneca (AZN) closed at $168.1, marking a +1.22% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/astrazeneca-azn-ascends-remains-behind-221505578.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ralph Lauren (RL) Ascends But Remains Behind Market: Some Facts to Note",
+    "desc": "In the latest trading session, Ralph Lauren (RL) closed at $339.82, marking a +1.41% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-ascends-remains-221505276.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Phillips 66 (PSX) Stock Slides as Market Rises: Facts to Know Before You Trade",
+    "desc": "The latest trading day saw Phillips 66 (PSX) settling at $261.75, representing a -4.17% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-stock-slides-221504176.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Garmin (GRMN) Outperforms Broader Market: What You Need to Know",
+    "desc": "Garmin (GRMN) closed at $280.31 in the latest trading session, marking a +2.28% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-outperforms-broader-market-221503079.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Cenovus Energy (CVE) Stock Dips While Market Gains: Key Facts",
+    "desc": "In the most recent trading session, Cenovus Energy (CVE) closed at $31.57, indicating a -3.22% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cenovus-energy-cve-stock-dips-221502671.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Texas Teachers' CIO warns AI capex boom echoes past busts",
+    "desc": "The chief investment officer at one of the country’s largest public pension funds has sounded the alarm about the consequences of overspending on AI infrastructure. Speaking at the investment committee meeting of the $225.3 billion Teacher Retirement System of Texas, CIO Jase Auby drew a historical comparison with five prior US infrastructure booms: canals, railroads, electrification, highways, and the telecom and fiber buildout of the early 2000s. In many of these cases, companies overbuilt and",
+    "link": "https://pitchbook.com/news/articles/texas-teachers-cio-warns-ai-capex-boom-echoes-past-busts?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 22:12:47 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Putin Plans To Skip Miami G20, Prioritizing China Trip: Officials",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Putin Plans To Skip Miami G20, Prioritizing China Trip: Officials</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Both the Kremlin and the White House had <a href=\"https://www.zerohedge.com/geopolitical/putin-comes-miami-it-could-happen-heres-how\">recently signaled</a> <strong>mutual openness to the idea of President Putin actually attending the G20 Miami Summit </strong>which is set for December 14-15. Some reports have recently expressed optimism that some kind of grand Ukraine peace deal could emerge from such an engagement.</p> <p>However, <a data-wpel-link=\"external\" href=\"https://www.bloomberg.com/news/articles/2026-09-21/putin-plans-to-attend-xi-s-apec-summit-and-skip-g20-with-trump\" target=\"_blank\">Bloomberg</a> has poured cold water on this, reporting Monday that \"Vladimir Putin is <strong>set to travel to China for the Asia-Pacific Economic Cooperation summit hosted by President Xi Jinping</strong> but is likely to skip the Group of 20 in the U.S. with Donald Trump.\"</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/trumpalaska.jpg?itok=o_ky2pGz\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/trumpalaska.jpg?itok=o_ky2pGz\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3570b7ce-e247-47f4-8749-af1b997029ea\" data-responsive-image-style=\"inline_images\" height=\"281\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/trumpalaska.jpg?itok=o_ky2pGz\" width=\"500\" /></a> <figcaption><em>Source: The White House</em></figcaption></figure><p>Kremlin officials have indicated that a personal appearance at the APEC would be Putin's first since 2017</p> <p>\"There’s only a <strong>very slim prospect of him joining President Trump for the G20 in Florida</strong>, the people said, asking not to be identified because the matter isn’t public,\" notes Bloomberg.</p> <p>But it does remain possible, given the Shenzhen-hosted APEC summit takes place almost a full month ahead of the annual G20 summit.</p> <p>The Kremlin now signaling that it intends to turn down any potential Trump invitation perhaps underscores that Putin is much more comfortably in Xi's corner.</p> <p>Back in April, <em>The Washington Post </em><a href=\"https://www.washingtonpost.com/national-security/2026/04/23/trump-putin-g20/\">reported</a>, \"<strong>The United States intends to invite Russian President Vladimir Putin to the Group of 20 leaders’ summit scheduled for December</strong> at President Donald Trump’s Doral golf resort in Miami, though the invitation has not yet been sent.\"</p> <p>And then just weeks ago there was a Russian delegation in attendance for the Asheville G20 finance ministers and bank governors meeting. The Europeans were angry over their presence, which included a meeting with Scott Bessent.</p> <p>Ukraine's President Zelensky is expected to be in Miami. This raised the prospect of an unprecedented Putin-Zelensky meeting even as the war rages. But it should be remembered that Putin has time and again stated he would entertain face-to-face negotiations with Zelensky <em>only</em> if a final settlement was to be signed.</p> <p>So if the White House does intend to get Putin there, a lot of scrambling and diplomatic progress would have to happen in the next few months. But Putin <strong>might also simply wish to send a signal that Western efforts to isolate him on the world stage have failed</strong>.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">President Zelenskyy said he is ready to meet Putin in person in the United States if Putin attends the G20 summit in Miami in December.<br /><br /> \"Yes, of course. We have to come. We have to meet, to speak and make decisions.<br /><br /> It’s not about words. What I will tell him or what he wants to… <a href=\"https://t.co/PVjyTJrS5O\">pic.twitter.com/PVjyTJrS5O</a></p> — Anton Gerashchenko (@Gerashchenko_en) <a href=\"https://x.com/Gerashchenko_en/status/2098686983446942078?ref_src=twsrc%5Etfw\">September 12, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Traveling to Miami would send a resounding symbol to hawkish European capitals, akin to the prior Alaska summit with Trump. But again, it seems that so far the Kremlin is giving this possibility the preemptive cold shoulder.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T22:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 18:00</span>",
+    "link": "https://www.zerohedge.com/geopolitical/putin-plans-skip-miami-g20-prioritizing-china-trip-kremlin-officials",
+    "pubDate": "Mon, 21 Sep 2026 22:00:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Houston-Area Birth Tourism Center Shut Down In Legal Action",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Houston-Area Birth Tourism Center Shut Down In Legal Action</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/houston-area-birth-tourism-center-shut-down-in-legal-action-6090991?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Kimberly Hayek via The Epoch Times</a>,</em></p> <p><strong>A birth tourism operation in the Houston area has agreed to close in a settlement</strong>, Texas Attorney General Ken Paxton announced on Friday.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image_80%281188%29.jpg?itok=WfFPB818\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image_80%281188%29.jpg?itok=WfFPB818\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bcc78c8e-8acf-42b7-a7f6-9c1df1cec5fc\" data-responsive-image-style=\"inline_images\" height=\"333\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/image_80%281188%29.jpg?itok=WfFPB818\" width=\"500\" /></a> <figcaption><em>An advertisement for a Houston-area “birth tourism” operation known as De’Ai Postpartum Care Center. The Texas attorney general filed a lawsuit against the center, claiming it has operated an unlawful “birth tourism” business. Courtesy of the state of Texas Attorney General's Office</em></figcaption></figure><p>The center \"<strong>unlawfully facilitated over 1,000 births to foreign Chinese nationals</strong>,\" Paxton posted on X.</p> <p>Paxton's office first <a href=\"https://www.theepochtimes.com/us/texas-attorney-general-sues-houston-area-center-accused-of-birth-tourism-scheme-6019151?utm_source=partner&utm_campaign=ZeroHedge\">sued</a> the operation in late April, stating the De'Ai Postpartum Care Center primarily helped Chinese nationals travel to Texas to give birth and secure U.S. citizenship for their children.</p> <p>The center had operated for years across multiple Houston-area properties. Locations included sites in Sugar Land, Houston, Richmond, and Rosenberg, according to details from the original state lawsuit.</p> <p>Gov. Greg Abbott on July 21 <a href=\"https://www.theepochtimes.com/us/texas-gov-abbott-orders-state-agencies-to-investigate-illegal-birth-tourism-schemes-6065365?utm_source=partner&utm_campaign=ZeroHedge\">ordered</a> Texas state agencies to start investigating and eliminating illegal birth tourism schemes and hold accountable any licensed healthcare providers that participate in them.</p> <p>\"Texas will not tolerate the exploitation of our immigration laws by individuals traveling to the United States illegally or under false pretenses to give birth and secure citizenship for their child,\" Abbott said in a statement at the time.</p> <p>The De'Ai Postpartum Care Center did not respond to The Epoch Times after multiple attempts to contact them. The De'Ai Postpartum Care Center did not appear to maintain a public website in English, but it had two Chinese-language websites that have since been closed.</p> <p><strong>State investigators described facilities at the center that could house multiple families and an operation that was capable of handling up to 20 births per day</strong>, according to the attorney general's office.</p> <p>\"The Center's scheme not only facilitated an invasion of Texas, but it also involved shielding and facilitating violations of immigration law. <strong>Birthright citizenship is a scam that threatens national security</strong>, and I will do everything in my power to stop unlawful 'birth tourism' schemes like this one.\" Paxton said in an April 29 statement.</p> <p>The lawsuit alleged the center coached clients on how to navigate immigration procedures and evade laws when seeking visas and citizenship for themselves and their children. That alleged coaching included <strong>encouraging Chinese nationals to conceal that the primary purpose of their travel was to give birth</strong>.</p> <p>\"To make matters worse, operators of the Center were aware that U.S. visas are prohibited for birth tourism purposes,\" Paxton's office said in a statement after filing the lawsuit.</p> <p>\"In fact, just last week, the Center noted that the federal government is 'strictly' policing birth tourism and recommended that women apply for visas 'before pregnancy' in order to avoid detection,\" his office stated at the time.</p> <p><strong>Expectant families could spend tens of thousands of dollars on the center's services</strong>, the suit claimed. <strong>Once a child born through the operation turned 21, that child could petition for permanent residency for parents and siblings.</strong></p> <p>Marketing occurred through social media platforms, private messaging applications, word of mouth, and Chinese websites, according to the complaint.</p> <p>The lawsuit noted that since Jan. 24, 2020, the United States has expressly denied tourist travel \"for the primary purpose of giving birth in the United States to obtain citizenship for the child,\" and has maintained that all birth tourism visa applications \"will be denied.\"</p> <p><em>Tom Gantert and Jill McLaughlin contributed to this report.</em></p> <p><em>* * * (there's also an <a href=\"https://store.zerohedge.com/products/compass-xl?_pos=4&_psq=compas&_psid=b76332bf6&_ss=e\">extra large</a> compass)</em></p> <p><em><a data-image-external-href=\"https://store.zerohedge.com/products/compass?_pos=3&_psq=compas&_psid=b76332bf6&_ss=e\" data-image-href=\"https://store.zerohedge.com/products/compass?_pos=3&_psq=compas&_psid=b76332bf6&_ss=e\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/compass?_pos=3&_psq=compas&_psid=b76332bf6&_ss=e\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"172b85eb-df05-449c-a73b-8f6152109cd7\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/content_80%2851%29.jpg\" /></a></em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T21:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 17:40</span>",
+    "link": "https://www.zerohedge.com/political/houston-area-birth-tourism-center-shut-down-legal-action",
+    "pubDate": "Mon, 21 Sep 2026 21:40:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Diesel Hits New Record Above $6.50 As Export Ban Fears Mount, Gasoline Squeeze Looms",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Diesel Hits New Record Above $6.50 As Export Ban Fears Mount, Gasoline Squeeze Looms</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>UBS analysts warned that the <strong>global diesel squeeze could get worse</strong> as two major suppliers potentially pull barrels from an already strained petroleum products market. Russia may extend diesel export restrictions through October, while chatter in Washington about a US fuel export ban continues to grow.</p> <p>As of Monday morning, AAA data show the national average for <strong>diesel has reached $6.51 per gallon</strong>, with prices gaining a staggering 88 cents so far this month. Prices are rising nearly every day and surging beyond the peak set in 2022 during the early days of the Russia-Ukraine war. </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_cfddf57.png?itok=YuPjMH_8\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_cfddf57.png?itok=YuPjMH_8\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a26c5bf1-d11c-4497-8c0a-ace16c7d3a1a\" data-responsive-image-style=\"inline_images\" height=\"268\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/Snag_cfddf57.png?itok=YuPjMH_8\" width=\"500\" /></a></p> <p>UBS energy expert Anna Kishmariya says a <strong>Russian extension would derail her team's assumption that exports would begin recovering in October</strong> as a domestic diesel surplus emerged. She said keeping restrictions in place could suggest more extensive damage to refinery units and a longer repair cycle than previously expected.</p> <p>The <strong>bigger risk is a policy decision coming from Washington</strong>, as the US has accounted for roughly 30% of global diesel and gasoil exports this year. Any US export ban would leave major overseas importers highly exposed.</p> <p>Iowa Sen. Chuck Grassley <a href=\"https://www.zerohedge.com/markets/grassley-urges-diesel-export-ban-global-fuel-crisis-stokes-resource-nationalism-fears\">wrote on X</a> this weekend that diesel prices at the pump in his state were hitting $6.57 a gallon and proposed the idea: <strong>\"Why doesn't Pres. Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag products bc food prices were inflated.\"</strong></p> <p>On Monday morning, Trump said <strong>Russia had \"lost control\" of its diesel industry due to the war with Ukraine, calling for an end to the \"ridiculous and never-ending\" war</strong>.</p> <p>Trump was quoted by the Financial Times earlier today as saying he had been on a call with Ukraine's Zelensky, pressing him to <a href=\"https://www.zerohedge.com/energy/trump-pushes-zelensky-halt-russia-refinery-attacks-amid-high-diesel\">stop drone attacks on Russian refineries</a>.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image%20%286%29_23.png?itok=vUxjLAD3\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image%20%286%29_23.png?itok=vUxjLAD3\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"69ad8c01-5277-4084-980c-af68106679c2\" data-responsive-image-style=\"inline_images\" height=\"240\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/image%20%286%29_23.png?itok=vUxjLAD3\" width=\"500\" /></a></p> <p>The <strong>fuel shock is coming</strong> at an uncomfortable time for the Federal Reserve as it confronts broader inflation pressure. Policymakers raised interest rates by 25 bps last week, and Minneapolis Fed President Neel Kashkari warned that excessive inflation extends beyond energy.</p> <p>Goldman Sachs commodity experts Yulia Zhestkova Grigsby and Daan Struyven <a href=\"https://www.zerohedge.com/energy/goldman-warns-diesel-crisis-setting-next-gasoline-squeeze-heres-how\">warned</a> last week that the <strong>diesel crisis could soon push gasoline prices higher</strong>, setting the stage for the next major squeeze.</p> <p>\"<strong>The key reason for this new recommendation is that refiners' switching output from gasoline to diesel is rapidly tightening gasoline markets</strong>, where less elevated price levels leave room for sharp price upside if the Mideast and Russia-Ukraine conflicts continued to constrain refining output for longer or if more energy infrastructure were damaged,\" Grigsby and Struyven wrote in the note. </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-17_06-48-09.png?itok=SMlSWjgj\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-17_06-48-09.png?itok=SMlSWjgj\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a700d1c8-baba-4870-a8fa-428ea330fe8e\" data-responsive-image-style=\"inline_images\" height=\"260\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/2026-09-17_06-48-09.png?itok=SMlSWjgj\" width=\"500\" /></a></p> <p>On the inflation front, <strong>Citi US economist Veronica Clark asked clients: \"Will rising diesel costs push up goods prices?\" </strong></p> <p><strong>Clark's take: </strong></p> <p><em>We were surprised to see the median core PCE forecast in the September SEP rise to 3.4% from 3.3% in June. We think it is likely that most Fed forecasts do not include upcoming revisions and that core PCE will ultimately be lower than many officials are expecting this year. </em></p> <p><em>We continue to track core PCE around 3.0-3.1%Q4/Q4. A<strong> renewed substantial increase in energy prices has caused fresh concerns about pass-through to core inflation, particularly as elevated diesel prices mean higher transportation costs for various goods. But recent historical evidence is limited about the correlation between higher diesel prices and core goods in CPI. </strong></em></p> <p><em>We are still hesitant to conclude there will be substantial pass-through as long as real income growth remains soft. Market rents have picked up slightly in recent months but remain softer than pre-pandemic, suggesting shelter inflation should continue to slow.</em></p> <p>As for the proposed US export ban, Height Capital Markets research director Benjamin Salisbury noted, \"<strong>While it may be politically tempting, we still expect Republicans to resist the urge to ban diesel or other petroleum exports</strong>.\" </p> <p>* * *</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/wise-food-storage-heirloom-seed-vault-39-varieties-4-500-seeds\" data-image-href=\"https://store.zerohedge.com/products/wise-food-storage-heirloom-seed-vault-39-varieties-4-500-seeds\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/wise-food-storage-heirloom-seed-vault-39-varieties-4-500-seeds\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a4af9e77-9093-48dd-94e1-2954f7d6a8b7\" data-responsive-image-style=\"inline_images\" height=\"255\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/content_80%2847%29.jpg?itok=Z9e1Vmue\" width=\"500\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T21:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 17:20</span>",
+    "link": "https://www.zerohedge.com/markets/diesel-hits-651-export-ban-fears-mount-gasoline-squeeze-looms",
+    "pubDate": "Mon, 21 Sep 2026 21:20:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "DOJ Charges 16 Individuals For Election Crimes",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">DOJ Charges 16 Individuals For Election Crimes</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/doj-charges-16-individuals-for-election-crimes-6091033?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Naveen Athrappully via The Epoch Times</a>,</em></p> <p><strong>The Department of Justice (DOJ) on Sept. 18 announced charges against 16 people across seven states</strong>, alleging various election-related crimes.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image_80%281187%29.jpg?itok=4UIsbiWa\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image_80%281187%29.jpg?itok=4UIsbiWa\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5738ab40-d116-4462-bbdf-cb3ecb6124b7\" data-responsive-image-style=\"inline_images\" height=\"333\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/image_80%281187%29.jpg?itok=4UIsbiWa\" width=\"500\" /></a> <figcaption><em>A voter at a polling site during the redistricting referendum in Alexandria, Va., on April 21, 2026. Madalina Kilroy/The Epoch Times</em></figcaption></figure><p>The individuals are being accused of \"<strong>unlawful voting by non-citizens in federal elections, false claims of citizenship to register or vote</strong>, and related offenses including wire fraud, naturalization fraud, passport fraud, and unlawful firearm purchases,\" the DOJ said in a statement.</p> <p><strong>Eight individuals, all of them immigrants, have been charged in Texas.</strong> This includes seven lawful permanent residents and an illegal immigrant.</p> <p>The illegal immigrant, Moises Anwar Arellano-Alba, 36, from Mexico, is facing two charges of allegedly making a false statement of citizenship in order to register to vote and voting by an alien in a federal election.</p> <p>Under Title 18 of U.S. Code Section 611, it is unlawful for an immigrant to vote in any federal or mixed election to select candidates for the posts of president, vice president, member of the Senate, member of the House of Representatives, presidential elector, resident commissioner, or delegate from the District of Columbia. Meanwhile, Title 18 of U.S. Code Section 1015 criminalizes knowingly making false statements regarding citizenship in registering to vote or actually casting votes.</p> <p>Other charged individuals are three Mexicans, two Nigerians, and one person each from Congo and India.</p> <p>In Idaho, Avila Gomez, an illegal immigrant from Mexico, allegedly claimed to be a U.S. citizen and voted in the May 2022 and November 2024 elections, according to the DOJ. In addition, Gomez is accused of procuring Idaho identification cards through fraud. Title 18 of the U.S. Code Section 1028 makes it a crime to knowingly produce an identification document without lawful authority.</p> <p>In Georgia, three people have been charged - an illegal immigrant and two suspected of being illegal immigrants.</p> <p><strong>The illegal immigrant, Analiea Milliscent Eccles, 44, from Venezuela, allegedly voted nine times between 2008 and 2024</strong>, the DOJ said.</p> <p>In Massachusetts, a lawful permanent resident who is a Nigerian national was apprehended and subsequently charged with voting illegally in the 2022 elections and allegedly casting votes in the 2024 general election.</p> <p>In Wisconsin, a Colombian national and lawful permanent resident is being accused of falsely claiming to be an American citizen while registering to vote for the November 2022 federal elections. And in New Jersey and Michigan, one person each has been charged for election-related crimes.</p> <p>The Epoch Times was unable to reach the legal representatives for Arellano-Alba, Gomez, and Eccles.</p> <p>In August, the Census Bureau released a <a href=\"https://www.theepochtimes.com/us/5-charged-with-illegal-voting-fraudulent-registration-in-3-states-6084548?utm_source=partner&utm_campaign=ZeroHedge\">report</a> analyzing noncitizen voting in the November 2020 general election.</p> <p>Out of almost 160 million voters who cast ballots in the election, the bureau \"determined with high confidence that over 128 million of these voter records represented citizens, and that <strong>over 24,000 of these voter records represented noncitizens at the time of the election</strong>,\" the report said.</p> <p>Meanwhile, the Trump administration's push to further regulate mail-in voting is facing challenges.</p> <p>In March, President Donald Trump <a href=\"https://www.theepochtimes.com/us/judge-blocks-usps-rule-tightening-mail-in-voting-6080597?utm_source=partner&utm_campaign=ZeroHedge\">signed</a> an executive order to enhance election integrity with regard to U.S. mail. The order called for the use of secure ballot envelope identifiers and other voter eligibility verification measures. The United States Postal Service issued a rule last month to implement the executive order.</p> <p>On Sept. 4, a U.S. District Judge <a href=\"https://www.theepochtimes.com/us/judge-extends-freeze-on-usps-mail-in-ballot-rule-6083043?utm_source=partner&utm_campaign=ZeroHedge\">issued</a> a preliminary injunction blocking the USPS from implementing regulations tightening mail-in voting. The injunction applied to the Nov. 3 midterm elections and any other federal election prior to the date.</p> <p>The Trump administration then <a href=\"https://www.theepochtimes.com/us/supreme-court-blocks-trumps-postal-service-rule-for-ballot-mail-for-2026-midterms-6087402?utm_source=partner&utm_campaign=ZeroHedge\">filed</a> an emergency application with the Supreme Court to pause the injunction. On Sept. 14, <strong>the Supreme Court refused to lift the nationwide injunction</strong>, saying that the government was unlikely to succeed on the merits of its challenge to the injunction.</p> <p>Trump criticized the decision in a Sept. 15 post on Truth Social.</p> <p>\"Republicans just got another bad decision from the United States Supreme Court, one that the Court System took forever to give, and then blamed it, in part, on no time left to implement a solution to our totally corrupt and out of control Mail-In voting 'disaster,' <strong>which is a laughing stock all over the World</strong>,\" he wrote.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T21:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 17:00</span>",
+    "link": "https://www.zerohedge.com/personal-finance/doj-charges-16-individuals-election-crimes",
+    "pubDate": "Mon, 21 Sep 2026 21:00:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "12 People Arrested After Stealing $250,000 Truckload Of Frozen Chicken",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">12 People Arrested After Stealing $250,000 Truckload Of Frozen Chicken</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Stolen chicken used to pay off a drug debt? It's a true barter market in action. Memphis police serving a warrant at an Economy Inn discovered 12 people (some reports cite 13 people) behind the hotel unloading pallets of frozen chicken from a hijacked Koch Foods 18-wheeler. The suspects fled the scene but were all captured.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Memphis police arrested 13 people after catching them unloading more than $250,000 worth of stolen fried chicken from an 18-wheeler behind a motel. Officers also recovered guns, fentanyl and cocaine. <a href=\"https://t.co/fvVDUGB3C1\">pic.twitter.com/fvVDUGB3C1</a></p> — Breaking911 (@Breaking911) <a href=\"https://x.com/Breaking911/status/2100992158798901559?ref_src=twsrc%5Etfw\">September 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>According to a press release, Javunte Johnson, 33, was arrested and charged with possession of a firearm. An arrest warrant was also executed for Johnson for aggravated robbery. Authorities found the man, along with 12 other people, unloading stolen pallets of chicken valued at $250,000.</p> <p>Quantrivious Shavers, 25, and Jessie Moore, 37, members of the group, were charged with felony possession of a handgun. Officers recovered three handguns from the incident as well as fentanyl and cocaine.</p> <p>The driver of the truck, Robert Wilson, reportedly stated that he had brought the massive chicken haul as payment to Johnson to cover a drug debt.</p> <p>Memphis cargo theft incidents have spiked by 27% since 2025. The city is one of the few U.S. freight hubs where cargo theft continues to rise while the national total drops. </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/StoleChicken1.jpg?itok=ZSn2mePU\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/StoleChicken1.jpg?itok=ZSn2mePU\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"08316f42-fcc8-43cf-bd1b-08f164c59ef6\" data-responsive-image-style=\"inline_images\" height=\"281\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/StoleChicken1.jpg?itok=ZSn2mePU\" width=\"500\" /></a></p> <p>According to MPD, twelve people were taken into custody and charged: </p> <p>Javunte Johnson, 33, aggravated robbery, theft of property $60,000-$250,000, and convicted felon in possession of a handgun. </p> <p>Robert Wilson, 56, theft of property $60,000-$250,000 and evading arrest. </p> <p>Quantrivious Shavers, 25, theft of property $60,000-$250,000, convicted felon in possession of a handgun, and possession of a controlled substance with the intent to manufacture/deliver/sell, to wit: fentanyl. </p> <p>Samuel Jackson, 38, theft of property $60,000-$250,000 and possession of a controlled substance with the intent to manufacture/deliver/sell, to wit: cocaine. </p> <p>John Shipp, 47, theft of property $60,000-$250,000. </p> <p>Rico Jackson, 36, theft of property $60,000-$250,000. </p> <p>Devean Hoyle, 45, theft of property $60,000-$250,000. </p> <p>Trashawn Featherson, 35, theft of property $60,000-$250,000. </p> <p>Robert Dishmon, 40, theft of property $60,000-$250,000. </p> <p>Marcellous McKinney, 38, theft of property $60,000-$250,000 and Evading Arrest. </p> <p>Jessie Moore, 37, was arrested and charged with convicted felon in possession of a handgun and evading arrest, to wit: foot pursuit. </p> <p>Alexis Pike, 21, was arrested and charged with evading arrest, to wit: foot pursuit, and theft of property less than $ 1,000 (X2). </p> <p>The theft highlights stubborn criminal activity within certain enclaves of the US (largely Democrat run cities) despite the overall trend of falling crime rates nationally. The details of the criminals aside, it's good to know that chicken has such a lucrative street value if one is ever deep in drug debt. </p> <p>* * *</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/carnivore-trio-beck-ranch?_pos=1&_psq=carnivore&_psid=9ab0c240f&_ss=e\" data-image-href=\"https://store.zerohedge.com/products/carnivore-trio-beck-ranch?_pos=1&_psq=carnivore&_psid=9ab0c240f&_ss=e\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/carnivore-trio-beck-ranch?_pos=1&_psq=carnivore&_psid=9ab0c240f&_ss=e\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d2f3ed89-9ec3-4993-9744-c9701304b110\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/content_80%2850%29_0.jpg\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T20:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 16:40</span>",
+    "link": "https://www.zerohedge.com/political/12-people-arrested-after-stealing-250000-truckload-frozen-chicken",
+    "pubDate": "Mon, 21 Sep 2026 20:40:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Kunstler: Suburban Sprawl Is A 'Death Trap' For America's National Spirit",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Kunstler: Suburban Sprawl Is A 'Death Trap' For America's National Spirit</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.kunstler.com/p/the-late-great-debate-about-suburbia\">Authored by James Howard Kunstler via Clusterfuck Nation</a>,</em></p> <h1>The Late, Great Debate About Suburbia, An Apologia</h1> <blockquote> <p><em><strong>\"It is difficult to design a place that will not attract people. What is remarkable is how often this has been accomplished.\"</strong></em></p> <p><em>- William H Whyte</em></p> </blockquote> <p><em>Greenland, yes, yes, okay ! Smooth move. . . !</em></p> <p>But. . . today we put aside the vagaries of national and geo-politics to return to a longstanding affliction in American life that is evermore absent from the public discourse and deserves an airing: <strong>the quandary of our suburban sprawl living arrangement</strong>, and what can be done about it.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/httpssubstack-post-media.s3.amaz%20%2883%29_5.jpg?itok=83WTIezy\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/httpssubstack-post-media.s3.amaz%20%2883%29_5.jpg?itok=83WTIezy\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1e92e9f9-217d-408e-acc4-cdfdb0a951d7\" data-responsive-image-style=\"inline_images\" height=\"281\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/httpssubstack-post-media.s3.amaz%20%2883%29_5.jpg?itok=83WTIezy\" width=\"500\" /></a></p> <p>First, get this:<em><strong> the demolition derby we live in day-by-day is responsible for as much misery, injustice, economic failure, and ill-health as anything else in our collective doings.</strong></em></p> <p>Its sheer ugliness - the horror of the six-lane highway with its ensembles of strip-malls, burger shacks, muffler shops, topless bars, Big Box stops, screaming signage, and the vast wastelands of parking. . . the suicide-inducing <em>housing</em> pods marching out remorselessly through forest, prairie, upland, lowland, basin and range. . . the depressing freeways with their monster entanglements of on-and-off-ramps. . . this epic mutilation of our continental landscape - is an evil quite beyond our ordinary imaginings. This inescapable, immersive ugliness, I remind you, is <em>entropy-made-visible</em>. And entropy, of course, is the force in nature that you really don't want to mess around with because it is the agent of death.</p> <p>I do not exaggerate.<strong> It's a death trap, the way we live in this country, for the mind, the body, the family, the community, and the national spirit</strong>. Until fairly recently this was widely apprehended (or at least suspected). But the politicization of everything has wrecked what had been a growing and pretty robust national discussion about it.</p> <p><strong>To re-cap briefly:</strong> this is a big country. It had once been composed of cities, towns, farmlands, and wilderness, a coherent transect of human habitation. The invention of the motor car changed all that, starting in the 1920s.</p> <p>The ambiguous territory outside these cities and towns represented vast potential fortunes in property development. . . and the race was on.</p> <p><strong>The Great Depression and World War 2 interrupted the suburban expansion, but it resumed on steroids afterward</strong> when the rest of the world was a smoldering ruin and we could sell them anything (and lend them money to buy it). The construction of all the new suburban infrastructure alone was a major component of the late 20th century US economy, and then it became the scaffold for our so-called <em>consumer economy</em>, comprised of furnishing that scaffold with so much stuff that it overflowed into thousands of self-storage sheds.</p> <p><strong>The decanting of our cities that ensued - the steady dribble of the middle-classes moving out, along with the commerce that served them - left most of those cities ruined. </strong>Eventually even the small towns got whacked, the farms paved-over, too. What we're left with is a weird hybrid landscape that is neither town nor country, has few of the civic amenities that add-up to a genuine sense of community, and none of the rural charm formerly found in the countryside. It became painfully obvious that a suburban house was <em>a cartoon of a house in the country</em>, and living in a cartoon is just not spiritually rewarding. Cue the Prozac. . . .</p> <p>The whole kit, aided by the dogmas of zoning and government lending schemes, became easily reproducible from one locale to the next. For the development <em>industry</em>, the template became a habit. . . and so it boogied on through the decades. By the 1990s, the generation coming into power (yeah, the Boomers) started a revolt against all that. <strong>It crystalized in the New Urbanism movement and its signature org, the Congress for the New Urbanism, CNU.</strong> We can do better than this, this. . . this. . . national clusterfuck, they declared.</p> <p>I was excited by this movement, wrote a couple of books about it, got to know the excellent people behind it - architects, urban planners, civic officials, property developers. They were smart, skilled, visionary. They believed that walkable communities and disciplining the automobile would produce places worth caring about and worth living in - and it seemed to me that such an effort would go a long way to curing the desperate anomie of American life. Over the next several decades, the New Urbanists produced scores of great projects. Some were actual new towns, some projects were renovations of existing towns, neighborhoods, business districts, and small town Main Streets. The results of their work are visible all over the country now.</p> <p>But then, the political crack-up of the country commenced around 2009 with the Great Financial Crash and the ascent of Obama-inspired Wokeness, and really accelerated with the reaction to the advent of Mr. Trump in 2016.<strong> From that point on, as a nation, we've been arguing about everything <em>but</em> the disastrous arrangement of daily life on-the-ground in America. Some new twists in the spin of history have made matters worse.</strong></p> <p>One is that suburban sprawl is, by default, the favorite pattern of MAGA (and I happen to be a Trump voter). To them, suburbia is all tied up with ideas about economic liberty, as is the whole apparatus of Happy Motoring. They are still mentally stuck in the imagery of the TV car commercial - the lone sedan gliding through the sine-cosine curves of the empty seacoast highway, the romantic epitome of <em>freedom</em>! It's a lie, pretty much, because the more universal experience of motoring these days is getting stuck at a crawl in freeway traffic with a thousand other motorists per mile, half of whom desperately need to take a pee and can't do a darn thing about it.</p> <p><strong>And then there's the fallacy of the suburban housing <em>development</em> being a \"community\"</strong> - <em>bwa-ha-ha-ha-ha-ha</em>! See: I don't even have to explain <em>that</em>. But, MAGA tends to see it this way, along with all the activity that enables it - the mortgage system, the production home-builders (\"it's more than a house, you understand, it's a <em>home</em>!\"), all of which is so central to a booming economy. So, you don't dare inveigh against suburbia - except I will, because it is making America worse, not great again, and somebody's got to say it.</p> <p>Yet another thing has come along to wreck the New Urbanist dream of reconstituting the American city and small town, and that <em>thing</em> is<strong> the World Economic Forum's (WEF's) proposal they call the \"15-minute City.\" </strong>Superficially, it seems to resemble the traditional neighborhood model that the NU's espouse. But deeper down the 15-Minute City is much more about a surveillance and tracking apparatus - and this has caused many conservatives (especially them) to reject anything that looks like traditional urban design.</p> <p>It's a most unfortunate situation, but that's where things stand, and it's one reason that the debate over suburban sprawl has stopped. A final and equally unfortunate development is that <strong>the CNU org came to be taken over the past decade by political Wokesters more interested in Diversity, Inclusion, and Equity BS than in their original mission of providing workable remedies</strong> for the tragic fiasco of American suburbia.</p> <p>And now you know why it is so hard to talk about this geography of nowhere anymore.</p> <p><em>We publish a variety of perspectives. Nothing written here is to be construed as representing the views of ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T20:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 16:20</span>",
+    "link": "https://www.zerohedge.com/political/kunstler-suburban-sprawl-death-trap-americas-national-spirit",
+    "pubDate": "Mon, 21 Sep 2026 20:20:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Comex Gold, Silver Settle Lower",
+    "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "wsj",
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What Happens to Nike Stock's Yield if the Stock Doubles?",
+    "desc": "Key PointsNike's dividend yield has surged to a record level as its share price has declined.",
+    "link": "https://www.nasdaq.com/articles/what-happens-nike-stocks-yield-if-stock-doubles",
+    "pubDate": "Mon, 21 Sep 2026 22:25:00 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Turning Point Brands Stock Dived by 10% Today",
+    "desc": "Key PointsHis post will be filled by the tobacco company's current executive chairman.",
+    "link": "https://www.nasdaq.com/articles/why-turning-point-brands-stock-dived-10-today",
+    "pubDate": "Mon, 21 Sep 2026 22:18:16 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
+    "desc": "Meta Platforms (NASDAQ:META), the social platforms and AI-powered digital advertising company, closed at $741.25, up 11.43%. Wells Fargo (NYSE:WFC) raised its price target to $796, and investors are watching AI progress ahead of the Meta Connect annual event this week.Trading vol",
+    "link": "https://www.nasdaq.com/articles/stock-market-today-sept-21-meta-surges-excitement-over-muse-personal-ai-agent",
+    "pubDate": "Mon, 21 Sep 2026 21:43:56 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Dollar General CEO says consumers making $100,000 a year don&#8217;t feel like high-income shoppers anymore as high gas prices and inflation reshape habits",
+    "desc": "\"Having 2,000 items at or below $1 is very meaningful for the consumer, always has, but especially in this environment.\"",
+    "link": "https://fortune.com/2026/09/20/dollar-general-high-income-shoppers-100000-high-gas-prices-inflation/",
+    "pubDate": "Sun, 20 Sep 2026 23:03:01 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Paramount agrees invest $1.5 billion in domestic movies and create a board for editorial independence at CNN, CBS as part of deal for Warner Bros.",
+    "desc": "Paramount on Monday agreed to settle an antitrust lawsuit filed by 12 states, the last big obstacle blocking the company's $81 billion acquisition of Warner Bros. Discovery.",
+    "link": "https://fortune.com/2026/09/21/paramount-settlement-1-5-billion-investment-domestic-movies-board-editorial-independence-cnn-cbs-warner-bros-takeover/",
+    "pubDate": "Mon, 21 Sep 2026 21:30:31 +0000",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Iambic Therapeutics files for IPO to fund cancer drugs",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/iambic-therapeutics-files-for-ipo-to-fund-cancer-drugs-93CH-4909715",
+    "pubDate": "2026-09-21 21:59:48",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "US awards $99 million for geothermal drilling, technology projects",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-awards-99-million-for-geothermal-drilling-technology-projects-4909712",
+    "pubDate": "2026-09-21 21:54:30",
+    "fetchedAt": "2026-09-21T23:01:31.128Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
     "desc": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
     "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
@@ -5958,445 +6398,5 @@
     "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
     "pubDate": "Mon, 21 Sep 2026 10:16:00 GMT",
     "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
-    "desc": "A team at the bank, led by Ben Snider, wrote in a recent note that they see S&P 500 earnings per share growth slowing to 11% in 2027 and 2028.",
-    "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
-    "pubDate": "Mon, 21 Sep 2026 10:13:00 GMT",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "ft",
-    "title": "Trump presses Zelenskyy to stop hitting Russian refineries",
-    "desc": "US president tells Ukrainian leader in phone call it’s all about ‘diesel, diesel, diesel’, according to officials",
-    "link": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 10:20:49 GMT",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "ft",
-    "title": "Slide in oil prices drives rebound in battered government bonds",
-    "desc": "Brent crude falls to $101.19 amid speculation that Donald Trump could meet Iranian president this week, lifting French and Italian debt",
-    "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 09:54:01 GMT",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "ft",
-    "title": "The cartel civil war tearing apart a Mexican state",
-    "desc": "The Sinaloa cartel erupted into conflict in 2024 when the son of Joaquín ‘El Chapo’ Guzmán kidnapped his father’s co-founder and handed him to US authorities",
-    "link": "https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:00:11 GMT",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "ft",
-    "title": "News outlets to sue Trump administration over White House ban",
-    "desc": "CNN, MS Now and Politico vow to protect First Amendment rights after reporters’ access withdrawn",
-    "link": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 10:50:18 GMT",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Bond volatility is back in the driver&#x2019;s seat for stocks",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644695-bond-volatility-is-back-in-the-drivers-seat-for-stocks?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:56:34 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Roundhill AAPL WeeklyPay ETF declares $0.2795 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644682-roundhill-aapl-weeklypay-etf-declares-0_2795-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:51:44 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Roundhill AMD WeeklyPay ETF declares $1.1959 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644683-roundhill-amd-weeklypay-etf-declares-1_1959-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:51:40 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Roundhill AMZN WeeklyPay ETF declares $0.2312 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644684-roundhill-amzn-weeklypay-etf-declares-0_2312-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:51:35 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Roundhill ARM WeeklyPay ETF declares $0.6674 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644685-roundhill-arm-weeklypay-etf-declares-0_6674-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:51:31 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Roundhill AVGO WeeklyPay ETF declares $0.2778 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644686-roundhill-avgo-weeklypay-etf-declares-0_2778-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:51:28 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Roundhill BABA WeeklyPay ETF declares $0.1288 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644687-roundhill-baba-weeklypay-etf-declares-0_1288-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 06:51:17 -0400",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Artificial Intelligence Stocks Under $10",
-    "desc": "The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial untelligence (AI) stocks under $10 are publicly traded companies developing or applying AI technologies, with stock prices below $10 per share. These lower-priced AI stocks can present promising investment opportunities due to the AI industry&#8217;s rapid growth and transformative potential. As AI continues to revolutionize various sectors, these stocks could experience significant appreciation in &#8230; Continued The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/artificial-intelligence-stocks-under-10",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing Defensive Stocks",
-    "desc": "The post Top Performing Defensive Stocks by Tony Dong appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all defensive stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. The S&#38;P 500 index is regarded as the barometer of U.S. stock market performance. Composed of large-cap U.S. equities, the S&#38;P 500 index is often used as a benchmark for professional and retail &#8230; Continued The post Top Performing Defensive Stocks by Tony Dong appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-defensive-stocks-with-low-correlation-to-spy",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing Monthly Dividend ETFs",
-    "desc": "The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. The rising popularity of monthly dividend ETFs has prompted major hedge fund firms to offer a large selection. Investors have numerous options, but knowing the factors to analyze in monthly dividend ETFs is key to making the right investment. We have explored the best assets, detailing their features and benefits as you search every stock &#8230; Continued The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-monthly-dividend-etfs",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing Pet Insurance Stocks",
-    "desc": "The post Top Performing Pet Insurance Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all pet insurance stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Loving your pet means providing the best medical care for them. The last thing you want to experience is a dire situation of not being able to nurture them back to health. &#8230; Continued The post Top Performing Pet Insurance Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/pet-insurance-stocks",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing Stocks",
-    "desc": "The post Top Performing Stocks by Zaheer Anwari appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. If you want to see other top-performing stocks broken down by price: Stocks to Watch Benzinga Featured Stock Picks to Watch Below are stocks Benzinga will be closely monitoring. IceCure Medical Ltd. Incorporated 2006 and &#8230; Continued The post Top Performing Stocks by Zaheer Anwari appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-to-buy-now",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing High Short Interest Stocks",
-    "desc": "The post Top Performing High Short Interest Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all short interest stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. The great thing about the market is that you can make money whether stocks are bullish or bearish. Some stocks have surged, and it may be too late for a long position. &#8230; Continued The post Top Performing High Short Interest Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-high-short-interest-stocks",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Forex Analysis: What it is &#038; Best Analysis for Trading",
-    "desc": "The post Forex Analysis: What it is &#038; Best Analysis for Trading by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this. Are you looking to make informed trading decisions and stay ahead of the crowd operating in the forex market? If so, forex analysis is your key to success.&#160; By evaluating market trends and predicting future movements, forex analysis empowers traders like you to maximize profits and minimize risk. This article will explore the topic of &#8230; Continued The post Forex Analysis: What it is &#038; Best Analysis for Trading by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-method-of-analysis-forex-trading",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing Green Penny Stocks",
-    "desc": "The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all green penny stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Investors concerned about greenhouse gas emissions may prefer investing in companies that follow environmentally friendly practices. Governments have imposed restrictions on carbon emissions, making some polluting companies less desirable investments.&#160; As a &#8230; Continued The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-green-penny-stocks",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best AI Stocks",
-    "desc": "The post Best AI Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial intelligence has been a scorching hot investment trend during this bull market run. And while some AI winners have slowed a bit this summer, investors and analysts remain bullish about the long-term potential of this innovative technology. AI stocks have been volatile lately, but volatility can also present opportunities to get stocks at a &#8230; Continued The post Best AI Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-artificial-intelligence-stocks",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Performing Platinum Stocks",
-    "desc": "The post Top Performing Platinum Stocks by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this. The global push for green energy has also spurred the growth of emerging technologies that make considerable use of platinum group metals (PGMs). This has the potential to make platinum mining stocks a great long-term investment. For example, electric vehicles (EVs) require PGMs for their lithium-ion batteries. Furthermore, another application for PGMs has recently emerged &#8230; Continued The post Top Performing Platinum Stocks by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-platinum-stocks",
-    "pubDate": "Mon, 21 Sep 2026 10:12:22 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "This ETF Is Obliterating the S&P 500 and the Nasdaq-100 in 2026, but a Crash Might Be on the Horizon",
-    "desc": "Some of the top holdings in the First Trust Nasdaq Cybersecurity ETF are trading at unsustainably high valuations.",
-    "link": "https://www.fool.com/investing/2026/09/21/this-etf-obliterating-sp-500-nasdaq-100-but-crash/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 10:37:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 S&P 500 Stocks to Target This Week",
-    "desc": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting themselves up for long-term success.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-target-102225647.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 10:22:25 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Stock Futures Rise as Investors Monitor Middle East Oil Supplies and AI Policy Developments: Dow Jones, S&P, Nasdaq, Wall Street",
-    "desc": "US stock futures advanced on Monday as investors assessed developments in the Middle East, declining oil prices and artificial intelligence policy discussions between Washington and Beijing. At 06:58 GMT, Dow Jones Industrial Average futures were up 239 points, or 0.",
-    "link": "https://investorshub.advfn.com/market-news/article/36575/us-stock-futures-rise-as-investors-monitor-middle-east-oil-supplies-and-ai-policy-developments-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 09:58:19 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Monster Beverage and Coca-Cola Beat the S&P 500 Over the Last 5 Years. Here's Whether the Next 5 Years Will Look the Same.",
-    "desc": "After looking at both companies, one seems better positioned to continue outperforming the market.",
-    "link": "https://www.fool.com/investing/2026/09/21/monster-beverage-and-coca-cola-beat-the-sp-500-ove/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 09:57:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Bitcoin and Crypto Face a “Lose Lose” Fed Trap as Stocks Reach Historic Extremes, Mike McGlone Warns",
-    "desc": "Bloomberg Intelligence strategist Mike McGlone says crypto faces a “lose-lose” setup as the Federal Reserve tightens policy while US equity valuations remain near historic extremes. ...",
-    "link": "https://www.ccn.com/news/crypto/mike-mcglone-bitcoin-lose-lose-fed-hikes-shiller-cape/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 10:17:19 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "17 Words From Warren Buffett About Bear Markets That Could Transform Your Portfolio",
-    "desc": "Buying when everyone else is selling can do wonders for your portfolio.",
-    "link": "https://www.fool.com/investing/2026/09/21/17-words-from-warren-buffett-about-bear-markets-th/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 10:20:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Investor Day Bust: Novo Nordisk Plunges As Wall Street's Turnaround Hopes Fade",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Investor Day Bust: Novo Nordisk Plunges As Wall Street's Turnaround Hopes Fade</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Novo Nordisk shares tumbled as much as 7.7% in Copenhagen trading after Wall Street analysts questioned the Danish drugmaker's turnaround efforts amid the loss of its GLP-1 lead to Eli Lilly & Co.</p> <p>At its capital markets day earlier in London, Novo outlined plans for more than five blockbuster launches and over $23 billion in new sales in the coming years. But that comes as its obesity-market lead has been surrendered to Eli Lilly, and analysts were hoping for more commentary from management about turnaround efforts as the stock is down 18% on the year.</p> <p>\"<strong>Investors are selling the shares because they are not seeing concrete news that could drive the stock higher</strong>,\" Nordnet investment economist Per Hansen wrote.</p> <p>CEO Mike Doustdar told analysts, \"We need to work harder, and we will.\" However, much of the optimism from capital markets a few years ago about Novo leading the GLP-1 race has all but faded.</p> <p>Much of Novo's medium-term outlook rests on CagriSema, according to Bloomberg Intelligence analysts Michael Shah and Christos Nikoletopoulos. That treatment has already <a href=\"https://www.zerohedge.com/markets/worst-case-scenario-novo-nordisk-plunges-after-next-gen-obesity-drug-falls-short-lilly\">disappointed Wall Street multiple times</a>, including failing to match Lilly's Zepbound in a head-to-head trial. Other potential growth drivers remain earlier in development and carry a higher risk of failure</p> <p>From the peak of the GLP-1 craze in mid-2024, Novo shares in Copenhagen have plunged a staggering 74%, with shares stabilizing since August 2025.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_c3e4cad.png?itok=tVhe14YT\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_c3e4cad.png?itok=tVhe14YT\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"3458105c-7050-4704-9262-e48b6a3b768f\" data-responsive-image-style=\"inline_images\" height=\"271\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_c3e4cad.png?itok=tVhe14YT\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>\"<strong>The event came amid mounting investor pressure for clarity beyond obesity drugs Wegovy and Ozempic as Novo's semaglutide patent expiries approach in the early 2030s. Investors were increasingly focused on Novo’s next growth drivers following setbacks for obesity candidate CagriSema. Novo said it expects revenue growth between 2026 and 2030 to be in line with industry peers</strong>,\" UBS analyst Nana Antiedu wrote in a note.</p> <p>Novo has been pursuing a turnaround effort this year, already leading to substantial restructuring. Doustdar has cut as many as <a href=\"https://www.zerohedge.com/markets/goldman-ubs-react-novo-nordisk-axing-9000-jobs-slashing-guidance-amid-glp-1-headwinds\">9,000 jobs and removed several management layers</a>, with total cuts reaching about 13,000. Novo is also pursuing new therapeutic areas and using AI to accelerate drug development.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T10:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 06:55</span>",
-    "link": "https://www.zerohedge.com/markets/investor-day-bust-novo-nordisk-plunges-wall-streets-turnaround-hopes-fade",
-    "pubDate": "Mon, 21 Sep 2026 10:55:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "VW Supervisory Board Recommends Another 4,100 Job Cuts At Porsche",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">VW Supervisory Board Recommends Another 4,100 Job Cuts At Porsche</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>Submitted by Thomas Kolbe</em></p> <p>The hailstorm of bad news from Germany’s auto industry simply refuses to end. Again and again, heavy hailstones from corporate press offices crash down on anxious workforces at the automakers, ruining politicians’ election campaigns and destroying the last hopes of those still clinging to the promise of an electric car made in Germany.</p> <p>The latest impact: According to a <a href=\"https://www.handelsblatt.com/unternehmen/industrie/porsche-vw-haelt-bei-porsche-weitere-4000-stellen-fuer-entbehrlich/100254633.html\">report by Handelsblatt</a>, citing an internal recommendation by Volkswagen’s Supervisory Board, <strong>the personnel scalpel is once again being applied to the “Sport Luxury” division, meaning Porsche</strong>. Another 4,100 jobs are to be eliminated at Porsche, after it had already become clear that a total of 9,000 positions would disappear over the coming years. Porsche currently still employs 41,800 people.</p> <p>According to the Supervisory Board’s proposal, <strong>Porsche is supposed to improve its operating profit by €3.8 billion by the end of the decade</strong>. In overhead costs alone, the Supervisory Board’s calculation shows a gap of around €700 million. <strong>That gap is to be closed through the additional job cuts. Volkswagen’s austerity program now seems to be updated almost weekly.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/porsche%20atlanata.png?itok=pehIGKRY\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/porsche%20atlanata.png?itok=pehIGKRY\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"0e1f9c47-4f8b-4037-aea4-2e4b9c9f8b75\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/porsche%20atlanata.png?itok=pehIGKRY\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></strong></p> <p>The notion that Volkswagen’s luxury brand Porsche could shield itself from the group-wide restructuring — or, better put, the clear-cutting — is now finally gone. The crisis runs deep, it is comprehensive, and it has already cost 150,000 jobs across the automotive sector. For consulting firm Roland Berger, there is still no end in sight. Berger expects another 200,000 jobs to disappear from Germany’s automotive sector by 2030. Entire value chains — and with them purchasing power, knowledge and prosperity — are disappearing.</p> <p><strong>A catastrophe for suppliers, for entire regions and for municipal treasuries that had relied so heavily on revenues from what was once Germany’s flagship industry.</strong> But that is what happens when you become ideologically entrenched …</p> <p>Stuttgart is the blueprint for industrial locations across the republic that until recently threw themselves with fervor into the warm, ecologist current. The home of Porsche and Mercedes-Benz closed the last fiscal year with a deficit of €712 million — and the comfortably wealthy city could become a poorhouse if nobody pulls the emergency brake. Residents of these regions will have to prepare for public services — well-equipped schools, municipal sports facilities, swimming pools and recreational centers — to become luxury goods. The automotive industry is leaving; it is leaving behind empty coffers and high unemployment. A German Rust Belt is emerging before our eyes.</p> <p><strong>The downward spiral has engulfed every segment of Germany’s automotive industry: intense competitive pressure from China, tariff tensions with the United States, towering energy costs at home and an endless regulatory frenzy are all battering the business.</strong> It was therefore only a matter of time before even a luxury brand like Porsche would come under the wheels. And the company’s communications strategy seemed strangely familiar: In a kind of salami tactic, common in politics, the company has been announcing since 2024 that Porsche would initially allow temporary production contracts to expire. Around 1,500 employees were affected that year. In February 2025 came the announcement that around 1,900 jobs in Zuffenhausen and Weissach would be eliminated by 2029. Another 500 temporary contracts were not to be renewed.</p> <p>In May 2026, it continued: <strong>Porsche announced the closure of its subsidiaries Cellforce, eBike Performance and Cetitec</strong>. More than 500 jobs were lost. At the end of July this year, the future package was finally presented: Another 5,000 jobs are to be eliminated by 2035, naturally in a socially responsible manner. So much should the future be worth.</p> <p>Taken together, that amounts to around 9,000 jobs — meaning that more than one in three positions at the home location will disappear. Now another 4,100 new job cuts are being added — the company is being ground down further and further.</p> <p>Volkswagen’s decline is accelerating. A look at its compressed margins is more than alarming: <strong>Originally, management had calculated on an operating margin of between 4 and 5.5 percent this year. It has now shrunk to 1 percent. A €10 billion special effect is weighing on the result. The ailing group is in intensive care.</strong></p> <p><strong>What is happening at Volkswagen is the great mirror image of German industry: poor domestic conditions and excessively high energy costs following disastrous political decisions are making industrial production at home almost impossible.</strong> Since 2018, around 15 percent of German industrial production has disappeared. Around 420,000 jobs in manufacturing have been lost since 2019. With these jobs, engineering expertise is disappearing as well — expertise that is indispensable to a society. Disastrous construction projects such as Berlin Brandenburg Airport, Stuttgart 21 or the Hamburg Opera, where costs and schedules regularly spiral out of control, loudly testify to Germany’s brain drain.</p> <p>Germany in 2026: Some are no longer capable of organizing infrastructure projects, while others, representatives of business and labor unions, are incapable of anticipating trends in global markets. Together, in their hour of need, they strike up a hymn to moralism, in a green overtone, always self-assured and arrogant toward dissenting criticism. A melody of decline.</p> <p>* * * </p> <p><em>About the author: Thomas Kolbe, a graduate economist, has worked for or over 25 years as a journalist and media producer for clients from various industries and business associations. As a publicist, he focuses on economic processes and observes geopolitical events from the perspective of the capital markets. His publications follow a philosophy that focuses on the individual and their right to self-determination.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T10:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 06:30</span>",
-    "link": "https://www.zerohedge.com/economics/vw-supervisory-board-recommends-another-4100-job-cuts-porsche",
-    "pubDate": "Mon, 21 Sep 2026 10:30:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Venezuela's Oil Revival Faces \"Decade Or Two\" Climb Back To Record Output, Piper Sandler Warns",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Venezuela's Oil Revival Faces \"Decade Or Two\" Climb Back To Record Output, Piper Sandler Warns</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>President Trump's \"<strong>Donroe Doctrine\"</strong> positions energy security in the West as a key pillar of US national security. </p> <p>The removal of socialist Nicolás Maduro and the subsequent massive Venezuelan oil deal represent the opening act in a longer-term effort to <strong>rebuild production and secure supplies closer to the Gulf of America</strong>. </p> <p>Piper Sandler global energy strategist Jan Stuart's view, however, highlights the time required for these new Venezuelan supplies to ramp up: <strong>any meaningful recovery in Venezuelan output could take years</strong>, with a return to historic production highs potentially requiring a decade or two. That <strong>timeline clashes</strong> with the view that additional Venezuelan barrels could provide near-term relief to US refiners amid the global diesel crisis.</p> <p>\"<strong>We'll stay tuned but suspect that reaching the old record highs will take a decade or 2 and oodles of good fortune</strong>,\" Stuart wrote in a note. </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-20_10-50-48_0.png?itok=bomDNY5l\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-20_10-50-48_0.png?itok=bomDNY5l\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"a9dbd8cd-1cac-4c73-8466-c7b6357248c0\" data-responsive-image-style=\"inline_images\" height=\"316\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-20_10-50-48_0.png?itok=bomDNY5l\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Trump described the US-Venezuela deal as the \"<a href=\"https://www.zerohedge.com/energy/trump-close-massive-deal-seizing-stake-venezuelas-vast-oil-fields?utm_source=chatgpt.com\">biggest oil deal in history</a>\" and said it would amount to control of <strong>65 billion barrels of oil reserves</strong>.</p> <p>North American Blue Energy Partners is set to develop the oil fields, with the Department of War holding a 35% stake in the venture and rights to a portion of its production. <strong>Venezuelan royalties and taxes could total roughly $200 billion over 25 years</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-20_10-52-32.png?itok=_y7Tppkd\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-20_10-52-32.png?itok=_y7Tppkd\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"28c7fdb6-8b35-4af9-a25d-617b6cb7cfbe\" data-responsive-image-style=\"inline_images\" height=\"237\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-20_10-52-32.png?itok=_y7Tppkd\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>A <a href=\"https://www.reuters.com/business/energy/exxon-advances-talks-return-venezuelas-orinoco-belt-sources-say-2026-09-16/?utm_source=chatgpt.com\">Reuters report last week</a> said <strong>ExxonMobil</strong> was negotiating a return to <strong>Venezuela's Orinoco Belt</strong> for the first time in nearly two decades.</p> <p><strong>Venezuelan bonds have rallied around these developments but the risk to investors is for a prompt </strong>revival. </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-20_10-52-04.png?itok=NkQRuZgU\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-20_10-52-04.png?itok=NkQRuZgU\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"55349a70-d066-48b9-a649-d42347be3ab1\" data-responsive-image-style=\"inline_images\" height=\"313\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-20_10-52-04.png?itok=NkQRuZgU\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Beyond energy supplies, <strong>Venezuela reportedly prepared its first </strong><a href=\"https://www.zerohedge.com/commodities/beyond-oil-and-gold-venezuela-readies-first-us-aluminum-shipment-year-resource-race\"><strong>aluminum shipment</strong></a> to the US in years last week: 15,000 metric tons from state-owned Venalum, facilitated by Mercuria Energy Group and Heeney.</p> <p>The <strong>cloud hanging over Venezuela's resources revival is the outcome of the US midterms</strong>. Stuart questioned whether US military backing for the oil deal would survive the next US election. Rebuilding production could take a decade or two. Investors now have to ask whether Trump's commitment can last that long.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T09:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 05:45</span>",
-    "link": "https://www.zerohedge.com/energy/venezuelas-oil-revival-faces-decade-or-two-climb-back-record-output-piper-sandler-warns",
-    "pubDate": "Mon, 21 Sep 2026 09:45:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "European Central Bank President Blocked Binance's EU Entry: Report",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">European Central Bank President Blocked Binance's EU Entry: Report</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\">Authored by Mathew Di Salvo via Bitcoin Magazine</a>,</em></p> <p><strong>European Central Bank President Christine Lagarde stopped Binance from operating in the European Union, according to a Wall Street Journal report.</strong></p> <p>The newspaper on Thursday <a href=\"https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d\">reported</a> that the top crypto exchange was on the cusp of operating in the trading bloc but then was told it couldn't after the central bank chief waded in.</p> <p><strong>EU law requires that local Crypto-Asset Service Providers (CASP) have a MiCA license. </strong></p> <p>Binance does not.</p> <p>Binance in June <a href=\"https://www.binance.com/en/blog/regulation/4457979419755346760\">withdrew</a> its MiCA application in Greece.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image14_1920x1080-696x392.jpg?itok=kGjlxvG8\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image14_1920x1080-696x392.jpg?itok=kGjlxvG8\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"bd031513-9ffc-4d49-9f73-90bd3f3006b7\" data-responsive-image-style=\"inline_images\" height=\"282\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/image14_1920x1080-696x392.jpg?itok=kGjlxvG8\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><em><strong>\"Lagarde wanted to keep the controversial crypto exchange, which pleaded guilty to financial-crime violations in the U.S., out of the European Union,\" </strong></em>the newspaper report said, citing interviews with officials.</p> <p>Lagarde has long been anti-Bitcoin and pro-central bank digital currencies. Back in 2021, Lagarde <a href=\"https://www.reuters.com/article/us-crypto-currency-ecb-idUSKBN29I1B1/\">said</a> that the leading cryptocurrency was \"a highly speculative asset\" used for money laundering. She also criticized cryptocurrencies as a whole and said central banks would never hold bitcoin.</p> <p><strong>On CBDCs, though, Lagarde takes a different approach. </strong></p> <p>A CBDC is a digital form of fiat money, like the US dollar or euro; nations around the world are in different stages of researching and releasing them.</p> <p>The EU under Lagarde is fast moving forward with a digital euro. Lagarde has described the digital euro as key to Europe's financial autonomy while taking aim at privately issued stablecoins.</p> <p><strong>CBDCs have been criticized by bitcoiners and others in the crypto industry who think they could be used to surveil citizens. </strong></p> <p>U.S. President Donald Trump <a href=\"https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed\">signed</a> an executive order banning CBDCs when he took office.</p> <p><strong>The WSJ report added, citing various interviews, that Lagarde was worried Binance would embed the dominance of dollar-based stablecoins in Europe, instead of encouraging euro counterparts.</strong></p> <p>Binance is the world's biggest crypto exchange and billions of dollars in stablecoins are traded on its platform daily.</p> <p>A controversial company, Binance and its CEO, Chanpeng Zhao, in 2023 pleaded guilty to anti-money-laundering violations and <a href=\"https://bitcoinmagazine.com/business/worlds-largest-bitcoin-crypto-exchange-binance-founder-cz-to-resign-as-ceo-plead-guilty\">paid</a> a record $4.3 billion fine.</p> <p>Binance in June said it was still working to pursue MiCA authorization in another EU Member State.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 05:00</span>",
-    "link": "https://www.zerohedge.com/crypto/european-central-bank-president-blocked-binances-eu-entry-report",
-    "pubDate": "Mon, 21 Sep 2026 09:00:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CAC 40 Climbs As Oil Prices Fall On Middle East Diplomatic Hopes",
-    "desc": "(RTTNews) - France's equity benchmark CAC 40 moved higher on Monday as stocks gained in strength amid slightly easing concerns about inflation after oil prices fell sharply on hopes for diplomatic progress to ease tensions in the Middle East.",
-    "link": "https://www.nasdaq.com/articles/cac-40-climbs-oil-prices-fall-middle-east-diplomatic-hopes",
-    "pubDate": "Mon, 21 Sep 2026 10:45:41 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "A Monthly Investment of Just $250 in This Vanguard ETF Could Turn Into a Mind-Boggling Sum in 30 Years",
-    "desc": "Key PointsThe Vanguard Morningstar Growth ETF mimics the Morningstar U.S. Large Cap Growth index, which holds around 147 of America's most valuable growth stocks.",
-    "link": "https://www.nasdaq.com/articles/monthly-investment-just-250-vanguard-etf-could-turn-mind-boggling-sum-30-years",
-    "pubDate": "Mon, 21 Sep 2026 10:43:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Avantor Names Todd Garner Chief Financial Officer",
-    "desc": "(RTTNews) - Avantor, Inc. (AVTR) Monday announced the appointment of Todd Garner as Executive Vice President and Chief Financial Officer.",
-    "link": "https://www.nasdaq.com/articles/avantor-names-todd-garner-chief-financial-officer",
-    "pubDate": "Mon, 21 Sep 2026 10:32:39 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "2 Things All Seniors Should Do Before the 2027 Social Security COLA Announcement",
-    "desc": "Key PointsThe Social Security Administration will announce the 2027 COLA on Oct. 14, 2026.",
-    "link": "https://www.nasdaq.com/articles/2-things-all-seniors-should-do-2027-social-security-cola-announcement",
-    "pubDate": "Mon, 21 Sep 2026 10:27:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Indian Shares Rise As Oil Prices And Bond Yields Dip On US-Iran Diplomacy Hopes",
-    "desc": "(RTTNews) - Indian shares closed Monday's session higher as oil prices extended slide to their lowest levels in more than a week and global bond yields dipped amid hopes that diplomatic efforts could help ease tensions in West Asia.",
-    "link": "https://www.nasdaq.com/articles/indian-shares-rise-oil-prices-and-bond-yields-dip-us-iran-diplomacy-hopes",
-    "pubDate": "Mon, 21 Sep 2026 10:25:38 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Krispy Kreme Introduces Churro Doughnut Dots For Fall",
-    "desc": "(RTTNews) - Krispy Kreme, Inc. (DNUT) said Monday it is launching Churro Doughnut Dots, a new fall offering featuring its light and airy dough tossed in cinnamon sugar and served with dulce de leche dipping sauce.",
-    "link": "https://www.nasdaq.com/articles/krispy-kreme-introduces-churro-doughnut-dots-fall",
-    "pubDate": "Mon, 21 Sep 2026 10:25:15 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Capstone Copper To Sell Cozamin Mine To Luca Mining For Upto $385 Million",
-    "desc": "(RTTNews) - Monday, Capstone Copper Corp. (CS, CS.TO) announced an agreement to sell its Cozamin copper-silver-zinc-lead mine to Luca Mining Corp. (LUCA.V) for total consideration of upto $385 million.",
-    "link": "https://www.nasdaq.com/articles/capstone-copper-sell-cozamin-mine-luca-mining-upto-385-million",
-    "pubDate": "Mon, 21 Sep 2026 10:24:05 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "ENNIS INC Q2 Profit Drops",
-    "desc": "(RTTNews) - ENNIS INC (EBF) reported earnings for second quarter that Dropped, from last year",
-    "link": "https://www.nasdaq.com/articles/ennis-inc-q2-profit-drops",
-    "pubDate": "Mon, 21 Sep 2026 10:19:06 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "DAX Rises More Than 1% On Oil Decline And German Reform Push",
-    "desc": "(RTTNews) - German stocks climbed notably higher on Monday amid falling oil prices and on German Chancellor Friedrich Merz's pledge to press ahead with reforms.",
-    "link": "https://www.nasdaq.com/articles/dax-rises-more-1-oil-decline-and-german-reform-push",
-    "pubDate": "Mon, 21 Sep 2026 10:16:35 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsChevron maintains a highly diversified global business model with an exceptionally strong balance sheet.",
-    "link": "https://www.nasdaq.com/articles/chevron-vs-occidental-petroleum-which-oil-stock-better-buy-2026",
-    "pubDate": "Mon, 21 Sep 2026 10:13:50 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "2 Unstoppable Growth Stocks to Buy and Hold for the Next Decade",
-    "desc": "Key PointsApple has a great compounding business, and the new iPhone Duo should be a growth driver.",
-    "link": "https://www.nasdaq.com/articles/2-unstoppable-growth-stocks-buy-and-hold-next-decade",
-    "pubDate": "Mon, 21 Sep 2026 10:05:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "What Is Driving Bitcoin Higher Right Now",
-    "desc": "Key PointsBitcoin ETFs have been seeing large net inflows recently.",
-    "link": "https://www.nasdaq.com/articles/what-driving-bitcoin-higher-right-now",
-    "pubDate": "Mon, 21 Sep 2026 09:53:00 +0000",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "CNN, MS NOW and Politico to sue over White House ban",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/cnn-ms-now-and-politico-file-lawsuit-against-trump-administration-over-white-house-access-4908656",
-    "pubDate": "2026-09-21 10:43:56",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "US judge signals rejection of part of TikTok privacy settlement",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-judge-signals-rejection-of-part-of-tiktok-privacy-settlement-4908654",
-    "pubDate": "2026-09-21 10:37:36",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "LNG buyers and sellers seek greater supply diversity amid Iran war",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/lng-buyers-and-sellers-seek-greater-supply-diversity-amid-iran-war-4908651",
-    "pubDate": "2026-09-21 10:36:42",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is MARA stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-mara-stock-rallying-today-93CH-4908649",
-    "pubDate": "2026-09-21 10:36:37",
-    "fetchedAt": "2026-09-21T11:01:36.051Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-    "desc": "The Danish company seeks to convince investors it can compete in an increasingly crowded field it helped pioneer.",
-    "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-    "pubDate": "Mon, 21 Sep 2026 09:50:51 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-    "desc": "The rally followed a U.S.-Denmark-Greenland security pact aimed at expanding the military presence on the Arctic territory.",
-    "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-    "pubDate": "Mon, 21 Sep 2026 09:50:14 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
-    "desc": "The shutdown of Saudi's key East-West pipeline stands to squeeze crude supply for Asian importers, with South Korea appearing the most directly exposed.",
-    "link": "https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html",
-    "pubDate": "Mon, 21 Sep 2026 08:29:13 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Russia’s pro-Putin party set to win election as Ukraine exposes war’s growing reach into Moscow",
-    "desc": "Ukraine launched more than 1,000 drones at Russia on the State Duma election’s final day, including hundreds targeting Moscow.",
-    "link": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html",
-    "pubDate": "Mon, 21 Sep 2026 09:36:23 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Volkswagen woes deepen as blue-chip index exit follows latest profit warning",
-    "desc": "Deutsche Bank analysts said the cut to VW's operating profit forecast initially looks severe but keeps cash generation intact.",
-    "link": "https://www.cnbc.com/2026/09/21/volkswagens-latest-profit-warning-compounds-exit-from-blue-chip-index.html",
-    "pubDate": "Mon, 21 Sep 2026 09:56:27 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-    "desc": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-    "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-    "pubDate": "Sat, 19 Sep 2026 12:50:49 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-    "desc": "A coalition of over 100 AI experts are urging independence and transparency from Anthropic, OpenAI and other foundation model labs to conduct evaluations.",
-    "link": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
-    "pubDate": "Fri, 18 Sep 2026 17:02:32 GMT",
-    "fetchedAt": "2026-09-21T10:01:32.256Z"
   }
 ]
