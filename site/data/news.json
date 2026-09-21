@@ -1,6 +1,510 @@
 [
   {
     "source": "cnbc",
+    "title": "Trump media ban lawsuit set for Wednesday court hearing",
+    "desc": "President Donald Trump said he banned the three media outlets because of what he called \"cumulative stories,\" saying, \"You get sick of it.\"",
+    "link": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+    "pubDate": "Mon, 21 Sep 2026 18:56:39 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Flights disrupted into Newark, New York, Philadelphia after Verizon cable cut",
+    "desc": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
+    "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+    "pubDate": "Mon, 21 Sep 2026 19:36:24 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
+    "desc": "MAGA Inc. entered September with $415.8 million as much of Trump’s promised midterm spending had yet to surface publicly.",
+    "link": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
+    "pubDate": "Mon, 21 Sep 2026 19:28:49 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Retailer Revolve announces partnership with Donatella Versace",
+    "desc": "REVOLVE's partnership with Donatella Versace is the retailer's latest bid to create for young consumers.",
+    "link": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
+    "pubDate": "Mon, 21 Sep 2026 19:44:52 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+    "desc": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+    "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 21 Sep 2026 06:25:43 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why Gen Z are planning for life without a state pension",
+    "desc": "Many younger people do not believe the state pension will exist when they are older",
+    "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The furious dispute over what caused Air India flight 171 to crash",
+    "desc": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 10 Jun 2026 23:10:11 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How the High Street became a window on our political instability",
+    "desc": "High Streets have declined in recent years. What does this tell us about the UK?",
+    "link": "https://www.bbc.co.uk/news/articles/cq5p59286v5o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sun, 07 Jun 2026 23:00:04 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Former shoplifter ran 'steal-to-order' Whatsapp group",
+    "desc": "Keeley Knowles ran a Whatsapp group with about 200 people asking her to steal specific designer items.",
+    "link": "https://www.bbc.co.uk/news/videos/cqy0z3w9r17lo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 10:10:42 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "H.B. Fuller launches Kōfinity insulating glass product line",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/hb-fuller-launches-kofinity-insulating-glass-product-line-93CH-4909562",
+    "pubDate": "2026-09-21 19:52:30",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Xcel Energy stock hits 52-week low at $71.75",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/xcel-energy-stock-hits-52week-low-at-7175-93CH-4909561",
+    "pubDate": "2026-09-21 19:52:09",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370",
+    "pubDate": "2026-09-21 19:49:21",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "A timeline of Trump administration moves to weaken endangered species protections",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/a-timeline-of-trump-administration-moves-to-weaken-endangered-species-protections-4909557",
+    "pubDate": "2026-09-21 19:49:01",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Zelenskiy and US spy chief Ratcliffe meet in Ireland, sources say",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/zelenskiy-and-us-spy-chief-ratcliffe-meet-in-ireland-sources-say-4909559",
+    "pubDate": "2026-09-21 19:48:43",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Saudi’s Ceer unveils first EVs in bid to build regional auto powerhouse",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/saudis-ceer-unveils-first-evs-in-bid-to-build-regional-auto-powerhouse-4909554",
+    "pubDate": "2026-09-21 19:43:17",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+    "pubDate": "2026-09-21 19:42:57",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Nasdaq set for first record close since June as AI stocks rally, led by Meta surge",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
+    "pubDate": "2026-09-21 19:37:40",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump administration proposes $5 billion to kickstart investment fund to rebuild gulf energy sites, WSJ reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-administration-proposes-5-billion-to-kickstart-investment-fund-to-rebuild-gulf-energy-sites-wsj-reports-4909556",
+    "pubDate": "2026-09-21 19:36:10",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investing",
+    "title": "CNN, MS NOW and Politico sue Trump over White House ban",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/cnn-ms-now-and-politico-file-lawsuit-against-trump-administration-over-white-house-access-4908656",
+    "pubDate": "2026-09-21 19:31:36",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Elon Musk, Jensen Huang and Tim Cook are set to dine with Xi this week. Here&#x2019;s what their companies want from China.",
+    "desc": "The Trump White House&#x2019;s guest list reads like a map of corporate America&#x2019;s exposure to China &#x2014; from Tesla&#x2019;s Shanghai factory, to Nvidia&#x2019;s blocked AI chips, to Citi&#x2019;s long-awaited brokerage license.",
+    "link": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 19:46:00 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here&#x2019;s why it matters.",
+    "desc": "One reason that analysts and doctors want to see the data is to better understand how well the personalized treatment works.",
+    "link": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 19:43:00 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;My total balance should be $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    "desc": "&#x201c;I invested on the recommendation of an executive vice president of a major New York investment bank.&#x201d;",
+    "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 19:30:00 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The hottest part of the AI trade could be turning into its biggest weakness",
+    "desc": "While stock investors celebrate booming demand for chips and servers, credit markets are flagging risky contracts and rising debt costs.",
+    "link": "https://www.marketwatch.com/story/the-hottest-part-of-the-ai-trade-could-be-turning-into-its-biggest-weakness-099f2c09?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 19:24:00 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Forget Elon Musk and Jeff Bezos: The &#x2018;everywhere millionaires&#x2019; created the blueprint for regular people to get rich in America",
+    "desc": "Owen Zidar and Eric Zwick spent a decade mining tax data to identify an under-the-radar class of American wealth.",
+    "link": "https://www.marketwatch.com/story/forget-elon-musk-and-jeff-bezos-the-everywhere-millionaires-created-the-blueprint-for-regular-people-to-get-rich-in-america-df543f9c?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 19:23:00 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    "desc": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+    "pubDate": "Mon, 21 Sep 2026 19:00:00 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "guardian",
+    "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+    "desc": "<p>Unions, thinktanks and others say overhaul could provide investment Britain needs</p><p>Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy.</p><p>Lower energy bills, the revitalisation of the UK’s industrial heartlands and the provision of more high-quality jobs could all be unlocked by scaling up the NWF, according to a statement from organisations including the TUC, Greenpeace, WWF and the New Economics Foundation.</p><p>Turbocharging the retrofitting of homes and buildings.</p><p>Giving the public a bigger stake in critical infrastructure through taking part-ownership stakes in key projects.</p><p>Launching a targeted investment programme to bring new green industries to communities hit hardest by deindustrialisation.</p><p>Supporting a network of regional banks to funnel money into the small businesses that hold up local economies.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+    "pubDate": "Mon, 21 Sep 2026 04:00:35 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "guardian",
+    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+    "desc": "<p>Some experts worry factors affecting wheat exports could push global food prices even higher than they are now</p><p>Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) <a href=\"https://www.theguardian.com/us-news/kansas\">Kansas</a> farm.</p><p>Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+    "pubDate": "Fri, 18 Sep 2026 11:00:17 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "ft",
+    "title": "Meta leads tech rally as oil prices fall",
+    "desc": "Brent crude sinks amid speculation Donald Trump could meet Iranian president this week",
+    "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+    "pubDate": "Mon, 21 Sep 2026 19:47:04 GMT",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Invesco S&P MidCap Quality ETF declares quarterly distribution of $0.1538",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645146-invesco-sp-midcap-quality-etf-declares-quarterly-distribution-of-01538?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:55:41 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Verizon says contractor cut fiber cable amid Northeast flight disruptions",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645139-verizon-says-contractor-cut-fiber-cable-amid-northeast-flight-disruptions?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:48:08 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Invesco S&P SmallCap 600 GARP ETF declares quarterly distribution of $0.0427",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645144-invesco-sp-smallcap-600-garp-etf-declares-quarterly-distribution-of-00427?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:46:15 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Further rate hikes are needed to rein in inflation, St. Louis's Musalem says - report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645126-further-rate-hikes-are-needed-to-rein-in-inflation-st-louiss-musalem-says---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:43:21 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Invesco S&P SmallCap 600 Revenue ETF declares quarterly distribution of $0.1903",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645142-invesco-sp-smallcap-600-revenue-etf-declares-quarterly-distribution-of-01903?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:33:16 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Invesco S&P SmallCap 600 Pure Growth ETF declares quarterly distribution of $0.1114",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645140-invesco-sp-smallcap-600-pure-growth-etf-declares-quarterly-distribution-of-01114?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:30:04 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Centrus Energy surges as WSJ's Heard On The Street touts as 'safer way to bet on nuclear'",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645120-centrus-energy-surges-as-wsjs-heard-on-the-street-touts-as-safer-way-to-bet-on-nuclear?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 21 Sep 2026 15:28:06 -0400",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Nasdaq Roars As Micron Tests Entry; AMD In Buy Zone As It Eyes New High (Live Coverage)",
+    "desc": "The Dow Jones index rallies on the stock market today after Treasury Secretary Scott Bessent touts China talks. Nvidia stock climbs.",
+    "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 19:38:19 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons ADM is Risky and 1 Stock to Buy Instead",
+    "desc": "Archer-Daniels-Midland has had an impressive run over the past six months as its shares have beaten the S&P 500 by 8.8%. The stock now trades at $85.11, marking a 25.2% gain. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-adm-risky-1-195025798.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 19:50:25 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons APA Has Explosive Upside Potential",
+    "desc": "APA Corporation has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 15.1% to $44.91 per share while the index has gained 16.4%.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-apa-explosive-upside-194225811.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 19:42:25 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons Investors Watch Workiva (WK)",
+    "desc": "Workiva has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 19.2% to $73.18 per share while the index has gained 16.4%.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-investors-watch-workiva-191825027.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 19:18:25 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn’t waiting for CLARITY",
+    "desc": "On this episode of CoinDesk's Public Keys from the New York Stock Exchange, host Jennifer Sanasie is joined by Strike CEO Jack Mallers, who explains why he stepped down as CEO of Twenty One Capital, makes his case for bitcoin as \"the most American money,\" and unpacks the launch of Strike Private. Zero Knowledge Group Founder and CEO Austin Campbell breaks down the CLARITY Act's failure to advance in the Senate, why the GENIUS Act has already reshaped the regulatory landscape, and how crypto has become caught in a broader fight over congressional ethics heading into the midterms. Plus, Christian Lopez, Managing Director and Head of Blockchain and Digital Assets at Cohen & Company Capital Management, on the Fed's rate hike, how Anthropic's looming IPO is soaking up market liquidity, and why the tokenization of real-world assets is pulling Wall Street into crypto.",
+    "link": "http://videos.coindesk.com/previews/8eyD11aI?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 18:48:45 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Bond King Jeffrey Gundlach Wants Out of the AI 'Epicenter': Inside His Zero-Exposure Portfolio",
+    "desc": "The DoubleLine Capital founder and CEO Jeffrey Gundlach, also known as the Bond King, said he wants to be “out of the epicenter” of the AI race, citing widening credit spreads and extreme valuations. Escalating AI Credit Cracks Speaking on...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bond-king-jeffrey-gundlach-wants-180017056.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 18:00:17 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
+    "desc": "Bloom Energy (BE) stock gained 228% over the past year, against 16.7% for the S&P 500. The record second quarter it reported in July came late in that run. Over those twelve months Bloom took a business built on power for hospitals and factories and made it a supplier the major U.S. hyperscalers now approve. Today's price assumes that keeps paying.",
+    "link": "https://www.trefis.com/articles/616024/why-did-bloom-energy-stock-more-than-triple-in-a-year/2026-09-21?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 18:51:37 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "IDA Stock Crowded With Sellers",
+    "desc": "In trading on Monday, shares of Idacorp Inc (Symbol: IDA) entered into oversold territory, changing hands as low as $130.61 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a s",
+    "link": "https://www.nasdaq.com/articles/ida-stock-crowded-sellers",
+    "pubDate": "Mon, 21 Sep 2026 19:50:54 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Intel's CEO Just Gave Micron Technology Investors Great News",
+    "desc": "Key PointsMicron's valuation depends heavily on the outlook for the current memory shortage.",
+    "link": "https://www.nasdaq.com/articles/intels-ceo-just-gave-micron-technology-investors-great-news",
+    "pubDate": "Mon, 21 Sep 2026 19:50:01 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Better AI Data Center Stock: Nebius vs. CoreWeave",
+    "desc": "Key PointsNebius and CoreWeave are both generating explosive growth.",
+    "link": "https://www.nasdaq.com/articles/better-ai-data-center-stock-nebius-vs-coreweave",
+    "pubDate": "Mon, 21 Sep 2026 19:50:00 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Assurant Achieves #18 Analyst Rank, Surpassing Targa Resources Corp",
+    "desc": "In a study of analyst recommendations at the major brokerages, for the underlying components of the S&amp;P 500, Assurant Inc (Symbol: AIZ) has taken over the #18 spot from Targa Resources Corp (Symbol: TRGP), according to ETF Channel. Below is a chart of Assurant Inc versus Ta",
+    "link": "https://www.nasdaq.com/articles/assurant-achieves-18-analyst-rank-surpassing-targa-resources-corp",
+    "pubDate": "Mon, 21 Sep 2026 19:47:56 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BIL: ETF Inflow Alert",
+    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR Bloomberg 1-3 Month T-Bill ETF (Symbol: BIL) where we have detected an approximate $916.4 million dollar inflow -- that's a 2.0% in",
+    "link": "https://www.nasdaq.com/articles/bil-etf-inflow-alert",
+    "pubDate": "Mon, 21 Sep 2026 19:47:34 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
+    "desc": "Key PointsNvidia's been a hot stock to own this year as demand for its chips remains through the roof.",
+    "link": "https://www.nasdaq.com/articles/jensen-huang-just-gave-nvidia-investors-great-news-and-reason-why-stock-may-continue",
+    "pubDate": "Mon, 21 Sep 2026 19:47:27 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Notable ETF Outflow Detected - IEI",
+    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares 3-7 Year Treasury Bond ETF (Symbol: IEI) where we have detected an approximate $194.2 million dollar outflow -- that's a 1.1% decrease week",
+    "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-iei",
+    "pubDate": "Mon, 21 Sep 2026 19:47:27 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Noteworthy ETF Inflows: TLT",
+    "desc": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares 20+ Year Treasury Bond ETF (Symbol: TLT) where we have detected an approximate $690.6 million dollar inflow -- that's a 1.5% increase week ov",
+    "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-tlt",
+    "pubDate": "Mon, 21 Sep 2026 19:47:11 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "LFUS September 2027 Options Begin Trading",
+    "desc": "Investors in Littelfuse Inc (Symbol: LFUS) saw new options begin trading today, for the September 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 361 days until expiration the newly trading contracts",
+    "link": "https://www.nasdaq.com/articles/lfus-september-2027-options-begin-trading",
+    "pubDate": "Mon, 21 Sep 2026 19:46:47 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "August 2027 Options Now Available For Dutch Bros",
+    "desc": "Investors in Dutch Bros Inc (Symbol: BROS) saw new options become available today, for the August 2027 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 333 days until expiration the newly available con",
+    "link": "https://www.nasdaq.com/articles/august-2027-options-now-available-dutch-bros",
+    "pubDate": "Mon, 21 Sep 2026 19:46:37 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "September 2027 Options Now Available For UiPath",
+    "desc": "Investors in UiPath Inc (Symbol: PATH) saw new options begin trading today, for the September 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 361 days until expiration the newly trading contracts repr",
+    "link": "https://www.nasdaq.com/articles/september-2027-options-now-available-uipath",
+    "pubDate": "Mon, 21 Sep 2026 19:46:22 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "September 2027 Options Now Available For Visa",
+    "desc": "Investors in Visa Inc (Symbol: V) saw new options begin trading today, for the September 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 361 days until expiration the newly trading contracts represent",
+    "link": "https://www.nasdaq.com/articles/september-2027-options-now-available-visa",
+    "pubDate": "Mon, 21 Sep 2026 19:46:09 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "September 2027 Options Now Available For MasTec Inc. (MTZ)",
+    "desc": "Investors in MasTec Inc. (Symbol: MTZ) saw new options begin trading today, for the September 2027 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 361 days until expiration the newly trading contracts",
+    "link": "https://www.nasdaq.com/articles/september-2027-options-now-available-mastec-inc-mtz",
+    "pubDate": "Mon, 21 Sep 2026 19:45:51 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "RVTY June 2027 Options Begin Trading",
+    "desc": "Investors in Revvity Inc (Symbol: RVTY) saw new options begin trading today, for the June 2027 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 269 days until expiration the newly trading contracts rep",
+    "link": "https://www.nasdaq.com/articles/rvty-june-2027-options-begin-trading",
+    "pubDate": "Mon, 21 Sep 2026 19:45:20 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Paramount Skydance Corporation (PSKY) Shares Cross 2% Yield Mark",
+    "desc": "Looking at the universe of stocks we cover at Dividend Channel, in trading on Monday, shares of Paramount Skydance Corporation - Class B (Symbol: PSKY) were yielding above the 2% mark based on its quarterly dividend (annualized to $0.2), with the stock changing hands as low as $",
+    "link": "https://www.nasdaq.com/articles/paramount-skydance-corporation-psky-shares-cross-2-yield-mark",
+    "pubDate": "Mon, 21 Sep 2026 19:38:13 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘They must be doing it for ulterior reasons’: Jensen Huang says AI leaders are ‘irresponsible’ for scaring the public with ‘doomsday narratives’",
+    "desc": "The Nvidia CEO says “there is a 0% chance” of AI doomsday—and the AI pioneers may have their own motives for pushing AI slowdown.",
+    "link": "https://fortune.com/2026/09/21/jensen-huang-ai-leaders-doomsday-narratives/",
+    "pubDate": "Mon, 21 Sep 2026 18:58:24 +0000",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Symplr Software gets $175M equity injection from PE backers - Bloomberg",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/symplr-software-gets-175m-equity-injection-from-pe-backers--bloomberg-93CH-4909551",
+    "pubDate": "2026-09-21 19:28:51",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Grail stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-grail-stock-surging-today-93CH-4909548",
+    "pubDate": "2026-09-21 19:21:56",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nasdaq 100 hits overbought RSI 81 at 30,788: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-hits-overbought-resistance-at-30405-live-levels-93CH-4909309",
+    "pubDate": "2026-09-21 19:19:29",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Alphabet C tests $354 resistance on 5h chart: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-tests-354-resistance-after-325-double-bottom-live-93CH-4909305",
+    "pubDate": "2026-09-21 19:19:27",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Dow Jones stuck at 52,500 in no-trade zone: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-in-bear-flag-at-52187-live-levels-93CH-4909307",
+    "pubDate": "2026-09-21 19:19:19",
+    "fetchedAt": "2026-09-21T20:01:31.277Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Flights disrupted into Newark, New York, Philadelphia after cut Verizon cable",
     "desc": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
     "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
@@ -5894,509 +6398,5 @@
     "link": "https://www.investing.com/news/company-news/sampo-buys-back-226-million-shares-in-week-38-93CH-4908261",
     "pubDate": "2026-09-21 05:36:41",
     "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tech lifts share markets in Asia as oil slips",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
-    "pubDate": "2026-09-21 05:30:28",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investing",
-    "title": "Apple: JPM says iPhone 18 lead times increase in second week",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/apple-jpm-says-iphone-18-lead-times-increase-in-second-week-4908259",
-    "pubDate": "2026-09-21 05:23:32",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investing",
-    "title": "China’s CXMT shares rise as new DRAM platform enters mass production",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/chinas-cxmt-shares-rise-as-new-dram-platform-enters-mass-production-4908258",
-    "pubDate": "2026-09-21 05:19:14",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investing",
-    "title": "Yen steadies as intervention threat persists",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/volatile-yen-draws-intervention-watch-other-currencies-subdued-4908219",
-    "pubDate": "2026-09-21 05:18:27",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investing",
-    "title": "US Fed, BoE step up scrutiny of bank exposure to trading firms after Jane Street loss, FT reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/us-fed-boe-step-up-scrutiny-of-bank-exposure-to-trading-firms-after-jane-street-loss-ft-reports-4908257",
-    "pubDate": "2026-09-21 05:13:02",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Lument Finance Trust suspends Q3 common stock dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644615-lument-finance-trust-suspends-q3-common-stock-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 01:40:47 -0400",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Volvo Cars CEO H&#xE5;kan Samuelsson to step down, Klaus Zellmer named successor",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644601-volvo-cars-ceo-hakan-samuelsson-to-step-down-klaus-zellmer-named-successor?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 01:30:47 -0400",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Paramount Skydance weighs $1.5B California production investment amid Warner Bros. merger talks - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644600-paramount-skydance-weighs-15b-california-production-investment-amid-warner-bros-merger-talks---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 01:17:44 -0400",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Paramount may face $30M fine per missed film under settlement terms: Bloomberg",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644611-paramount-may-face-30m-fine-per-missed-film-under-settlement-terms-bloomberg?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 01:13:58 -0400",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Asian markets trade higher following steady PBOC decision; U.S. futures rise",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644604-asian-markets-trade-higher-following-steady-pboc-decision-us-futures-rise?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 01:07:43 -0400",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Aktsiaselts Infortar own share acquisition transactions",
-    "desc": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 14 September – 18 September 2026 as follows: DateAggregated volume (pcs)Weighted average price per day (EUR)14.09.202623459,702615.09.202623459,825616.09.202623159,991317.09.202622459,836618.09.202621360,0000 Aktsiaselts Infortar is acquiring its own shares based on the stock exchange announcement published on 20 April 2026. The share buyback programme is managed by SEB Pank AS, which will buy",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000429.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 05:00:00 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-    "desc": "U.S. stock futures are trending higher early Monday as investors digest a stark warning from President Donald Trump to Iran alongside cooling crude oil prices, while looking ahead to a week of key consumer retail earnings. The Polymarket (CRYPTO: POL)...",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61886941/stock-market-will-sp-500-open-up-or-down-today-41?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 05:58:17 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Insurance Australia Group Says Credit Suisse Settlement Not Finalized",
-    "desc": "(RTTNews) - Insurance Australia Group Ltd. (IAG.AX), an insurance company, on Monday said a settlement has not been finalized in proceedings brought by Credit Suisse entities over trade credit insurance policies related to Greensill.",
-    "link": "https://www.nasdaq.com/articles/insurance-australia-group-says-credit-suisse-settlement-not-finalized",
-    "pubDate": "Mon, 21 Sep 2026 05:50:19 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Investing $150 per Month in This S&P 500 ETF Could Grow Into $300,000 Over 30 Years. Here's the Math.",
-    "desc": "Key PointsThe Vanguard S&amp;P 500 ETF (VOO) has averaged nearly 13% annual returns since its September 2010 inception.",
-    "link": "https://www.nasdaq.com/articles/investing-150-month-sp-500-etf-could-grow-300000-over-30-years-heres-math",
-    "pubDate": "Mon, 21 Sep 2026 05:50:00 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Kuehne+Nagel Signs Long-term Strategic Collaboration With Amazon",
-    "desc": "(RTTNews) - Kuehne+Nagel International AG (KHNGY, KNIN.SW), a Swiss transport and logistics company, announced Monday that it has entered into a long-term strategic collaboration with tech major Amazon.com Inc. (AMZN) as part of its continued focus on strategic growth initiatives",
-    "link": "https://www.nasdaq.com/articles/kuehnenagel-signs-long-term-strategic-collaboration-amazon",
-    "pubDate": "Mon, 21 Sep 2026 05:48:27 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Amazon.com vs. Uber Technologies: Analyzing Recent Quarterly Revenue Trends Between Two Consumer Companies",
-    "desc": "Key PointsAmazon.com currently generates a higher sales totals than Uber Technologies, maintaining a numerical advantage across all eight of the compared historical reporting periods.",
-    "link": "https://www.nasdaq.com/articles/amazoncom-vs-uber-technologies-analyzing-recent-quarterly-revenue-trends-between-two",
-    "pubDate": "Mon, 21 Sep 2026 05:39:18 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Shares Seen Higher As Oil Extends Slide On Diplomacy Hopes",
-    "desc": "(RTTNews) - European stocks are seen opening higher on Monday as oil prices extended slide to their lowest levels in more than a week on hopes that diplomatic efforts could help ease tensions in West Asia.",
-    "link": "https://www.nasdaq.com/articles/european-shares-seen-higher-oil-extends-slide-diplomacy-hopes",
-    "pubDate": "Mon, 21 Sep 2026 05:33:38 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Posco To Invest KRW 480 Bln To Build New Automotive Steel Line",
-    "desc": "(RTTNews) - Posco Holdings Inc. (PKX, 005490.KS), a South Korean steel producer, on Monday announced plans to invest approximately KRW 480 billion to build a new continuous galvanizing line at its Gwangyang Works in South Korea.",
-    "link": "https://www.nasdaq.com/articles/posco-invest-krw-480-bln-build-new-automotive-steel-line",
-    "pubDate": "Mon, 21 Sep 2026 05:31:20 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tesla's Free Cash Flow Went Negative. It Still Has a $43.5 Billion Cash Cushion.",
-    "desc": "Key PointsTesla's free cash flow is negative, but it has a large cash reserve and access to resources.",
-    "link": "https://www.nasdaq.com/articles/teslas-free-cash-flow-went-negative-it-still-has-435-billion-cash-cushion",
-    "pubDate": "Mon, 21 Sep 2026 05:20:00 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Indian Shares Edge Higher As Oil Prices Ease On Diplomacy Hopes",
-    "desc": "(RTTNews) - Indian shares opened higher on Monday, tracking mostly positive cues from other Asian markets after Brent crude prices slipped below $102 a barrel on hopes that diplomatic efforts could help ease tensions in West Asia.",
-    "link": "https://www.nasdaq.com/articles/indian-shares-edge-higher-oil-prices-ease-diplomacy-hopes",
-    "pubDate": "Mon, 21 Sep 2026 04:39:58 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;A huge problem&#8217;: Trump has traded more stocks than all of Congress combined. A Bush-era ethics lawyer explains why you should worry",
-    "desc": "The White House says the president's 28,700 trades are automated and hands-off.",
-    "link": "https://fortune.com/2026/09/19/trump-trades-congress-index-fund-ethics/",
-    "pubDate": "Sat, 19 Sep 2026 10:00:00 +0000",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Five takeaways from Germany’s regional elections",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/five-takeaways-from-germanys-regional-elections-4908256",
-    "pubDate": "2026-09-21 05:12:27",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Trump-Xi summit outlook: U.S. stocks and sectors to watch",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/trumpxi-summit-outlook-us-stocks-and-sectors-to-watch-93CH-4908255",
-    "pubDate": "2026-09-21 05:06:53",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nikkei 225 boxed at 65,350 resistance, MFI maxed: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
-    "pubDate": "2026-09-21 05:04:32",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "SK Hynix pinned below ₩1,888,000 resistance: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-squeezed-below-1911000-resistance-live-levels-93CH-4908215",
-    "pubDate": "2026-09-21 05:04:23",
-    "fetchedAt": "2026-09-21T06:01:31.936Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-    "desc": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
-    "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-    "pubDate": "Mon, 21 Sep 2026 04:04:18 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
-    "desc": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
-    "link": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
-    "pubDate": "Mon, 21 Sep 2026 04:20:33 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "A new arms race is unfolding on the ocean floor",
-    "desc": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
-    "link": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
-    "pubDate": "Sat, 19 Sep 2026 05:00:01 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "bbc",
-    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-    "desc": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 21 Sep 2026 04:00:38 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Baby bank helping more parents in full-time work",
-    "desc": "The couple who run the bank say they are in \"desperate need\" of baby formula as demand is so high.",
-    "link": "https://www.bbc.co.uk/news/articles/ckge4848pzjro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 21 Sep 2026 04:56:35 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "Australia’s Ingenia rejects sweetened $1.5 bln Warburg Pincus takeover bid",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australias-ingenia-rejects-sweetened-15-bln-warburg-pincus-takeover-bid-4908253",
-    "pubDate": "2026-09-21 04:51:28",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "New Zealand’s Peters urges strong US role in Pacific",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/new-zealands-peters-urges-strong-us-role-in-pacific-4908252",
-    "pubDate": "2026-09-21 04:48:50",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Ingenia Communities stock climbing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-ingenia-communities-stock-climbing-today-93CH-4908251",
-    "pubDate": "2026-09-21 04:48:12",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "Paramount discusses $1.5bn California pledge to clear merger- WSJ",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/paramount-discusses-15bn-california-pledge-to-clear-merger-wsj-93CH-4908250",
-    "pubDate": "2026-09-21 04:48:08",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "Morning Bid: More oil is flowing, depending on who you ask",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/morning-bid-more-oil-is-flowing-depending-on-who-you-ask-4908249",
-    "pubDate": "2026-09-21 04:36:48",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why France’s budget problems have driven its bond risk premium to 2012 highs",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/why-frances-budget-problems-have-driven-its-bond-risk-premium-to-2012-highs-4908248",
-    "pubDate": "2026-09-21 04:30:29",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bessent proposes U.S.-China AI safety system in talks with China",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/bessent-proposes-uschina-ai-safety-system-in-talks-with-china-4908247",
-    "pubDate": "2026-09-21 04:24:26",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "ft",
-    "title": "Why the world’s hottest stock market is a national liability",
-    "desc": "South Korea’s wild stock price swings are hurting the country’s image",
-    "link": "https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:00:18 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "ft",
-    "title": "Lex in depth: Anthropic at $2tn isn’t far-fetched",
-    "desc": "There are several ways to crack the valuation nut. Some suggest the company may be worth far more",
-    "link": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:00:11 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "ft",
-    "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
-    "desc": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
-    "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:11:57 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "ft",
-    "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
-    "desc": "Regulators intensify questioning of prime brokers after blow-up at AI-focused hedge fund Situational Awareness",
-    "link": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:00:11 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "ft",
-    "title": "Western companies lag China in sodium battery race",
-    "desc": "Cells using abundantly available materials could help break the grip on rare earths needed for EVs and energy storage",
-    "link": "https://www.ft.com/content/0e4814df-e102-4874-97d6-f2b0ffaeda6a?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:00:11 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "ft",
-    "title": "VW ejected from European blue-chip index in blow to crisis-hit carmaker",
-    "desc": "German company falls out of Euro Stoxx 50 after its shares dip to 16-year low",
-    "link": "https://www.ft.com/content/188611f3-2536-4bed-a2c0-bbc074e6f783?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 04:00:18 GMT",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Telix to buy Germany&#x2019;s ITM Isotope for $1.65B to expand radiopharma footprint",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644610-telix-to-buy-germanys-itm-isotope-for-165b-to-expand-radiopharma-footprint?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 00:52:13 -0400",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Qfin Holdings appoints Chief Risk Officer Yan Zheng as CEO to succeed Haisheng Wu",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644607-qfin-holdings-appoints-chief-risk-officer-yan-zheng-as-ceo-to-succeed-haisheng-wu?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 00:46:42 -0400",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Qatar Energy CEO counters Bessent: Strait of Hormuz &#x2018;will never be obsolete&#x2019;",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644605-qatar-energy-ceo-counters-bessent-strait-of-hormuz-will-never-be-obsolete?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 00:44:05 -0400",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "PBOC holds benchmark lending rates steady for 16th straight month",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644603-pboc-holds-benchmark-lending-rates-steady-for-16th-straight-month?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 00:27:38 -0400",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "SoftBank seeks over $11B in junk bonds for OpenAI investment: report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644599-softbank-seeks-over-11b-in-junk-bonds-for-openai-investment-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 00:09:00 -0400",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Monday&#x2019;s Economic Calendar",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644598-mondays-economic-calendar?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 00:00:31 -0400",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Coinbase Stock Jumped 12% Last Friday. Bitcoin’s Breakout Wasn’t the Only Reason.",
-    "desc": "Key TakeawaysBitcoin Breakout: Coinbase stock jumped 12% on Friday, September 18, as bitcoin cleared $80,000 for the first time in weeks, making COIN the S&P 500’s top percentage gainer that session. Split Verdict: The Street carries 18 buys, 3 outperforms, 11 holds, one underperform and one sell on Coinbase stock, with a $202 mean target sitting just 4% above Friday’s close.",
-    "link": "https://www.tikr.com/blog/coinbase-stock-jumped-12-last-friday-bitcoins-breakout-wasnt-the-only-reason?ref=yahoofinance&amp;.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 04:34:49 +0000",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Shurk: Bush's Islamic Appeasement Greatly Damaged America",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Shurk: Bush's Islamic Appeasement Greatly Damaged America</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.americanthinker.com/articles/2026/09/bush-s-islamic-appeasement-greatly-damaged-america/\">Authored by J.B. Shurk via American Thinker</a>,</em></p> <p>Last week, President George W. Bush sat down with his former secretary of state, Condoleezza Rice, to discuss the September 11, 2001, <a href=\"https://www.westernjournal.com/jumper-victims-9-11-deserve-stories-heard-yet-erased-media/\">Islamic terror attacks</a> on the United States. While reflecting on his actions twenty-five years earlier, <strong>Bush went out of his way to <a href=\"https://www.westernjournal.com/george-w-bush-boasts-declaring-islam-religion-peace-immediate-aftermath-9-11/\">defend</a> Islam: \"I also made it clear that Islam was a religion of peace, not a religion of war, and that these people subverted their religion.\"</strong> Bush's absurd statement echoed a similarly absurd statement he made days after the attacks when he <a href=\"https://platform.twitter.com/embed/Tweet.html?creatorScreenName=WestJournalism&dnt=true&embedId=twitter-widget-1&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2\">told</a> the world, \"Islam is peace,\" even though the burned bodies of three thousand dead Americans strongly suggested otherwise.</p> <p><strong>There have been 50,000 <a href=\"https://www.cspii.org/trop\">Islamic terror attacks</a> since 9/11. Without question, Islam is a cult of conquest, misery, and war.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/252763_640_0.jpg?itok=OxTuox2G\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/252763_640_0.jpg?itok=OxTuox2G\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"2c5800f0-f819-4799-a8b1-3f3be2f27dcc\" data-responsive-image-style=\"inline_images\" height=\"332\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/252763_640_0.jpg?itok=OxTuox2G\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Bush's Islamic appeasement angered me twenty-five years ago, and his continued appeasement infuriates me today. I cannot believe that the man who asked Americans to go to war against an Islamic menace that threatened (and still threatens) the world can be so intellectually shallow and morally obtuse. \"Islam is a religion of peace,\" is a disingenuous stock phrase that is too cute by half. President Barack Obama loves to tell the same lie.</p> <p>While Americans fought and died in foreign lands in an effort to keep Islam's homicidal evil from causing further harm to the United States, Bush and Obama resettled Muslims into America's heartland. Twenty-five years ago, the sight of a woman wearing a burqa in the Midwest would have shocked and worried passersby. Today, it is too common for anyone to feign surprise. <strong>Both the number of Muslims and the number of mosques in the United States have more than <a href=\"https://www.westernjournal.com/george-w-bush-boasts-declaring-islam-religion-peace-immediate-aftermath-9-11/\">doubled</a> since the Islamic terror attacks that changed our country permanently.</strong> Bush told Americans that we had to fight the terrorists \"over there\" so that we would never again have to fight them \"over here.\" While brave American warriors died \"over there,\" Bush and Obama betrayed those warriors' sacrifice by inviting more Muslims \"over here,\" ensuring that Americans will continue to endure Islamic terror attacks until this existential threat is honestly recognized and neutralized.</p> <p>President Bush is eighty years old, plenty old enough to have learned that he has no business telling Muslims what their \"religion\" means. If he were telling black Americans what it means to be black, critics would rightfully accuse him of \"whitesplaining.\" Does Bush believe himself to be an expert on the Quran? Has he become a Texas imam or an \"austere religious scholar\" during retirement? If not, then why does he insist on telling Americans that Islamic terrorists \"subverted their religion\"? The opposite seems patently clear: Wherever the scourge of Islam stretches its poisonous tentacles, Islamic violence is certain. Muhammad was a pedophile who encouraged the rape, torture, and murder of innocents. It should be no surprise that pedophiles, rapists, and murderers consider that malevolent deviant a \"prophet.\"</p> <p><strong>Writer Antonio Graceffo wrote a well-researched <a href=\"https://www.thegatewaypundit.com/2026/09/worlds-largest-muslim-nations-didnt-use-be-muslim/\">essay</a> this month describing in detail how Muslims are persecuting and murdering Christians across Africa, the Middle East, and parts of Asia.</strong> Carrying out massacres against Christians with hammers, machetes, axes, and guns, Muslims are right now engaging in a genocide that corporate news media and Western governments entirely ignore. In Nigeria, the Congo, Mozambique, Syria, Pakistan, Iraq, Egypt, Iran, Lebanon, Turkey, Algeria, and Indonesia, Muslims <a href=\"https://globalchristianrelief.org/resources/countries/algeria/\">threaten</a> Christian lives. These are the <a href=\"https://www.dailywire.com/news/the-conflation-of-muslim-and-islamic-could-be-the-end-of-the-west\">barbaric conquerors</a> whom Bush defends as noble representatives of the \"religion of peace.\" No self-described Christian should stay silent while Muslims slaughter Christ's followers around the world. Somehow, Bush remains quiet about Islam's unquenchable thirst for Christian blood.</p> <p>Islamic bloodlust continues to exsanguinate much of Europe. A recent German report shows that foreign migrants (most of whom are Muslim) are responsible for <a href=\"https://www.zerohedge.com/geopolitical/migrants-responsible-47-all-violent-crime-german-state-bavaria\">47% of all violent crime</a> in Bavaria. Over <a href=\"https://www.thegatewaypundit.com/2026/08/breaking-80-north-african-asylum-seekers-switzerland-accused/\">80% of North African asylum-seekers</a> in Switzerland have been accused of committing crimes while in the country. While British children <a href=\"https://modernity.news/2026/08/05/kids-in-tiny-british-village-beg-the-government-not-to-force-illegal-migrants-on-their-home/\">beg the government</a> not to resettle illegal immigrants into their tiny villages, the United Kingdom is granting settlement or citizenship to one new migrant <a href=\"https://www.zerohedge.com/geopolitical/one-every-minute-these-numbers-are-unsustainable\">every single minute</a>.</p> <p>How is the British government combating this unsustainable invasion? <strong>The Home Office hands each Islamic migrant a <a href=\"https://www.zerohedge.com/geopolitical/how-can-be-real\">nine-page booklet</a> explaining that rape and pedophilia are illegal and that women have the same rights as men.</strong> In this behavioral guide written primarily for Muslims, the British government outlines how it is not okay to beat women, mutilate girls' genitals, have sex with children or unconscious women, or leave babies alone. The document further <a href=\"https://twitchy.com/samj/2026/08/20/uk-asylum-seeker-mine-page-guide-please-do-not-rape-the-locals-n2431478\">advises</a> Muslims that \"women must consent to sex in all situations\" and \"are allowed to work, study, and make their own decisions\" without \"permission from men.\"</p> <p>In a <a href=\"https://www.breitbart.com/europe/2026/08/20/uk-govt-publishes-pamphlet-to-inform-migrants-that-rape-is-wrong-sex-with-children-is-a-crime/\">section on rape</a>, Muslim men are informed that it is not appropriate to threaten someone into having sex or to have sex with someone who is \"asleep, drunk, or unable to respond.\" <strong>The British government warns Islamic immigrants: \"If you have sex with someone without their consent, this is called rape. Rape is a serious crime in the UK. You could go to prison, lose your support and accommodation, and it will affect your asylum claim.\"</strong> Furthermore, there are no exceptions for child rape: \"Even if they say yes, it is still illegal.\" Finally, Britain's new Muslims are reminded that it is not acceptable to intimidate or abuse people or take sexual pictures or videos of strangers without their consent. These \"religion of peace\" people sure do need a lot of help figuring out that it's not okay to rape or beat women and children! Perhaps the Brits should stop dropping them off in rural villages where they quickly outnumber the locals <a href=\"https://www.zerohedge.com/markets/you-will-not-believe-whats-happening-tiny-english-village\">ten to one</a>.</p> <p><strong>A rational person should have no problem understanding Islam as a threat to the world.</strong> President Bush held a position of immense power from which he could see Muslim atrocities as key features of that cult belief system. The fact that he remains too much of a moral coward to confront and denounce Islam's murderers, rapists, and terrorists with clarity and resolve has contributed greatly to the current moral confusion plaguing the United States.</p> <p>We now have members of Congress who openly support Hamas and Hezbollah terrorists. A terrorist-sympathizing Muslim is the mayor of New York City twenty-five years after his \"religion of peace\" friends flew hijacked commercial airliners into the Twin Towers and murdered thousands of civilians. Another terrorist-sympathizing Muslim running for the U.S. Senate from Michigan agrees with Muslim members of Congress that 9/11 was worse for Muslims who subsequently endured \"Islamophobia.\" When Islamic terrorists aren't trying to murder Americans with their vehicles, bombs, firearms, or knives, they're rioting in the streets and demanding \"justice\" for Hamas animals who rape and kill women and behead and microwave babies.</p> <p>Bush's inability to identify Islam as a murderous cult ideology has exacerbated the Islamic supremacy <a href=\"https://twitchy.com/justmindy/2026/07/22/hasan-piker-wall-art-twin-towers-on-fire-n2430485\">problem</a> in the United States. <strong>In preparation for the twenty-fifth anniversary of 9/11 this year, public school administrators <a href=\"https://twitchy.com/samj/2026/09/11/fairfax-county-do-and-dont-around-911-n2432226\">instructed</a> teachers in Fairfax County, Virginia, to avoid associating the attacks with Islam.</strong> Teachers were even told to treat Muslims as heroes and to create \"safe spaces\" for Muslim students. Virginia's Democrat governor <a href=\"https://twitchy.com/grateful-calvin/2026/09/12/abigail-spanberger-gets-torched-on-x-for-claiming-americans-lost-their-lives-on-911-n2432249\">commemorated</a> 9/11 by ignoring the act of Islamic mass murder and pretending that three thousand Americans died from some kind of inexplicable natural disaster. While New York City's Muslim mayor laughed during the 9/11 Ground Zero ceremony, New York's Democrat governor <a href=\"https://twitchy.com/grateful-calvin/2026/09/11/kathy-hochul-ditches-ground-zero-ceremony-for-pow-wow-with-cnn-and-wolf-blitzer-n2432242\">left early</a>, so that she could appear on cable news. Meanwhile, Gen Z Americans are largely <a href=\"https://www.zerohedge.com/political/gen-z-has-no-idea-what-911\">indifferent</a> to the September 11, 2001, Islamic terror attacks on the United States. Some even <a href=\"https://www.westernjournal.com/25-years-9-11-gen-z-americans-celebrate-osama-bin-laden-violent-jew-hating-letter-america/\">celebrate</a> Osama bin Laden.</p> <p><strong>Americans promised never to forget Islam's war against the West. Twenty-five years later, it is obvious that too many <em>did </em>forget. </strong>President Bush's moral equivocations are partially to blame for this travesty.</p> <p><em>We publish a variety of perspectives. Nothing written here is to be construed as representing the views of ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T03:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/20/2026 - 23:30</span>",
-    "link": "https://www.zerohedge.com/geopolitical/shurk-bushs-islamic-appeasement-greatly-damaged-america",
-    "pubDate": "Mon, 21 Sep 2026 03:30:00 +0000",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Space Weapons Grabbed MSM Headlines, But USAF Secretary Hinted What Could Replace MQ-9 Reaper",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Space Weapons Grabbed MSM Headlines, But USAF Secretary Hinted What Could Replace MQ-9 Reaper </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The Air & Space Forces Association's Air, Space & Cyber Conference opened earlier this week at the Gaylord National Resort & Convention Center in National Harbor, Maryland. Air Force Secretary Troy Meink's disclosure that the Space Force had launched \"space control weapons\" into orbit quickly dominated the news cycle.</p> <p>Beyond the USAF's new space warfare capabilities, Meink's remarks about the service's plan to build out an upgraded unmanned aircraft fleet over the next six years warrant closer attention. His remarks offered potential clues about plans for a successor to, or an alternative operating alongside, the General Atomics MQ-9 Reaper.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/yemenimage.jpg?itok=0dERXVpT\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/yemenimage.jpg?itok=0dERXVpT\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"365c017e-099b-4b4a-b5e0-55fa0786bfdc\" data-responsive-image-style=\"inline_images\" height=\"243\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/yemenimage.jpg?itok=0dERXVpT\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>2024 image of American MQ-9 Reaper UAV brought down in Yemen’s Marib. ClashReport/X</em></figcaption></figure></picture></a> <p>The following excerpts from Meink's speech suggest a shift in unmanned aircraft procurement and hint that a Reaper replacement may be approaching, although they do not, on their own, establish that one is imminent:</p> <p><em>And this is not the only class of autonomous aircraft we are aggressively pursuing. As we saw in Epic Fury, ISR strike platforms have been essential. <strong>We have used MQ-9 and even now the ULTRA aircraft to great effect</strong>.</em></p> <p><em><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-18_08-55-45.png?itok=zVm12npI\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-18_08-55-45.png?itok=zVm12npI\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"05a2911d-c5e4-4bc6-97f8-612ec4f553a7\" data-responsive-image-style=\"inline_images\" height=\"273\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-18_08-55-45.png?itok=zVm12npI\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></em></p> <p><em>Building on these lessons, we are developing a family of low-cost multi-role strike platforms called the Mass Modular Aircraft, or MMAs.</em></p> <p><strong><em>MMAs will provide affordable, attritable, long-range strike, and we will be able to field them at scale. Our intent is to field 100 MMAs in 2029 at even a lower cost than the CCAs and a fraction of the cost of manned aircraft we build today. Then by 2032, 500 of these platforms will join our force operational fleet.</em></strong></p> <p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/0SFY7Uh96ro?si=8q2yjmEOdZv8UjF1&start=840\" title=\"YouTube video player\" width=\"560\"></iframe></p> <p>One platform worth watching is ULTRA, a Group 5 unmanned aircraft system developed by DZYNE Technologies, now part of Ondas.</p> <p>ULTRA could assume part of the MQ-9 Reaper's surveillance workload, particularly missions that prioritize endurance and operating costs over weapons capacity. Its potential role is strongest in intelligence gathering, where extended flight times could reduce aircraft rotations.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-18_08-44-41.png?itok=xb6K6PkZ\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-18_08-44-41.png?itok=xb6K6PkZ\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"939fb808-7865-4aaa-9529-cb9b337bddda\" data-responsive-image-style=\"inline_images\" height=\"402\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-18_08-44-41.png?itok=xb6K6PkZ\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>In late summer, The National Interest examined the Air Force's search for a Reaper successor in an article titled \"<a href=\"https://nationalinterest.org/blog/buzz/why-us-air-force-wants-replacement-for-mq-9-reaper-hk-081026\">Why the US Air Force Wants a Replacement for the MQ-9 Reaper</a>.\" Mounting Reaper <a href=\"https://www.zerohedge.com/geopolitical/us-lost-25-its-reaper-drones-iran-war-officials-estimate\">losses</a> in the Gulf conflict have increased the focus on a lower-cost alternative. ULTRA's capabilities support the case for a much cheaper alternative with longer endurance and, considered alongside Meink's remarks, may suggest that the alternative has been found: ULTRA.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T03:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Sun, 09/20/2026 - 23:00</span>",
-    "link": "https://www.zerohedge.com/military/space-weapons-grabbed-msm-headlines-usaf-secretary-hinted-what-could-replace-mq-9-reaper",
-    "pubDate": "Mon, 21 Sep 2026 03:00:00 +0000",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Solidion Technology CEO Jaymes Winters Also Assumes Chairman Role",
-    "desc": "(RTTNews) - Solidion Technology Inc. (STI), an advanced battery technology solutions provider, announced that it appointed Chief Executive Officer Jaymes Winters to also serve as Chairman of the Board, effective immediately. Winters will continue to serve as Chief Executive Offic",
-    "link": "https://www.nasdaq.com/articles/solidion-technology-ceo-jaymes-winters-also-assumes-chairman-role",
-    "pubDate": "Mon, 21 Sep 2026 03:25:20 +0000",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Market Trims Early Losses In Mid-market",
-    "desc": "(RTTNews) - The Australian stock market is trimming its early losses in mid-market trading on Monday, extending the slight losses in the previous session, following the mixed cues from Wall Street on Friday. The benchmark S&P/ASX 200 index is falling well below the 8,750.00 level",
-    "link": "https://www.nasdaq.com/articles/australian-market-trims-early-losses-mid-market-4",
-    "pubDate": "Mon, 21 Sep 2026 03:18:32 +0000",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Markets Trade Mostly Higher",
-    "desc": "(RTTNews) - Asian stock markets are trading mostly higher on Monday, following the mixed cues from Wall Street on Friday, as crude oil prices continued to fall amid signs of increased diplomatic efforts to resolve the conflict and restore energy flows in the Middle East, easing c",
-    "link": "https://www.nasdaq.com/articles/asian-markets-trade-mostly-higher-2",
-    "pubDate": "Mon, 21 Sep 2026 03:14:21 +0000",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Gift Nifty 50 tests 23,511 resistance in bear flag: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-23511-resistance-in-bear-flag-live-levels-93CH-4908246",
-    "pubDate": "2026-09-21 04:02:39",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Facebook, Instagram down for thousands of users in U.S., Downdetector shows",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/facebook-instagram-down-for-thousands-of-users-in-us-downdetector-shows-4908245",
-    "pubDate": "2026-09-21 04:01:38",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is XtalPi stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-xtalpi-stock-rallying-today-93CH-4908243",
-    "pubDate": "2026-09-21 03:57:39",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Trump-Xi summit outlook: watch these Chinese stocks and sectors",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/trumpxi-summit-outlook-watch-these-chinese-stocks-and-sectors-93CH-4908238",
-    "pubDate": "2026-09-21 03:15:06",
-    "fetchedAt": "2026-09-21T05:01:32.435Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Barclays workers ask for more money to return to the office",
-    "desc": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 14:20:27 GMT",
-    "fetchedAt": "2026-09-21T04:01:33.502Z"
-  },
-  {
-    "source": "bbc",
-    "title": "US interest rates raised for first time in three years",
-    "desc": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT",
-    "fetchedAt": "2026-09-21T04:01:33.502Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-    "desc": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-    "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 30 Aug 2026 23:22:24 GMT",
-    "fetchedAt": "2026-09-21T04:01:33.502Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why the UK is dithering over what to do about e-scooters",
-    "desc": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
-    "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 22 Jul 2026 23:51:24 GMT",
-    "fetchedAt": "2026-09-21T04:01:33.502Z"
   }
 ]
