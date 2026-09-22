@@ -1,6 +1,542 @@
 [
   {
     "source": "cnbc",
+    "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+    "desc": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+    "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+    "pubDate": "Tue, 22 Sep 2026 11:00:01 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
+    "desc": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
+    "link": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
+    "pubDate": "Tue, 22 Sep 2026 11:00:01 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Novo defends diversification push as CEO eyes deals beyond obesity",
+    "desc": "Novo CEO Mike Doustdar told CNBC that it is considering M&A opportunities as it faces growing competition in the weight-loss market.",
+    "link": "https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html",
+    "pubDate": "Tue, 22 Sep 2026 10:10:01 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+    "desc": "The reports raised hopes of renewed U.S.-Iran diplomacy, with U.S. stock futures mixed and oil prices lower.",
+    "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+    "pubDate": "Tue, 22 Sep 2026 10:28:17 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump says DOJ will rein in AI 'if we have to'",
+    "desc": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+    "link": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+    "pubDate": "Mon, 21 Sep 2026 16:46:24 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Sir Jim Ratcliffe's Ineos to mothball three major chemical sites in Hull",
+    "desc": "The wholesale price of natural gas has almost doubled in the UK and Europe since July.",
+    "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 10:35:25 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Repeated air traffic control failures leave us in worrying territory",
+    "desc": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 21 Sep 2026 16:39:01 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "desc": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 17:57:30 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Are vet bills about to get cheaper?",
+    "desc": "Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
+    "link": "https://www.bbc.co.uk/news/videos/cmn8eqg2v2xyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 10:57:42 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "BTIG reiterates Hyperfine stock rating on commercial progress",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/btig-reiterates-hyperfine-stock-rating-on-commercial-progress-93CH-4910388",
+    "pubDate": "2026-09-22 10:54:45",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "BTIG assumes coverage on Radian Group stock with buy rating, $48 target",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/btig-assumes-coverage-on-radian-group-stock-with-buy-rating-48-target-93CH-4910387",
+    "pubDate": "2026-09-22 10:54:42",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "Costco stock analysis: Is now time to buy the pullback?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/costco-stock-analysis-is-now-time-to-buy-the-pullback-93CH-4910386",
+    "pubDate": "2026-09-22 10:54:05",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "BofA Securities Names Top Biotech Stock Amid Sector Rally",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-biotech-stock-amid-sector-rally-93CH-4910385",
+    "pubDate": "2026-09-22 10:53:40",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "Kainos Group shareholders approve all resolutions at AGM",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/kainos-group-shareholders-approve-all-resolutions-at-agm-93CH-4910381",
+    "pubDate": "2026-09-22 10:50:37",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "Don’t expect a grand bargain from the Trump-Xi summit: Yardeni",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/dont-expect-a-grand-bargain-from-the-trumpxi-summit-yardeni-4910378",
+    "pubDate": "2026-09-22 10:49:43",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "William Blair initiates Yesway stock with outperform rating",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-yesway-stock-with-outperform-rating-93CH-4910376",
+    "pubDate": "2026-09-22 10:48:51",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "Endava stock rating cut to underperform by William Blair on CFO exit",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/endava-stock-rating-cut-to-underperform-by-william-blair-on-cfo-exit-93CH-4910377",
+    "pubDate": "2026-09-22 10:48:51",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "FDA approves updated Winrevair label with new trial data",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/fda-approves-updated-winrevair-label-with-new-trial-data-93CH-4910375",
+    "pubDate": "2026-09-22 10:48:35",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investing",
+    "title": "NielsenIQ launches takeover bid for The U Group in Australia",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/nielseniq-launches-takeover-bid-for-the-u-group-in-australia-93CH-4910374",
+    "pubDate": "2026-09-22 10:48:29",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+    "desc": "An exchange-traded fund that is rebalanced quarterly is doing a better job of keeping up with the artificial-intelligence trade than the broader index.",
+    "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+    "pubDate": "Tue, 22 Sep 2026 10:59:00 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Bank of England holds interest rates at 3.75% but warns war could force future rises",
+    "desc": "<p>Central bank announces surprise plan to sell billions of pounds in government bonds back to the Treasury</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">The Bank is shaking up its bond sales – why does it matter?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.</p><p>It also announced a surprise plan to sell billions of pounds in UK government bonds back to the Treasury to avoid fuelling turbulence in the gilt market, a decision that could have consequences for the public finances before next month’s budget.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
+    "pubDate": "Thu, 17 Sep 2026 12:04:07 GMT",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Bullfrog Gold raises private placement target to C$8M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645317-bullfrog-gold-raises-private-placement-target-to-c8m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 07:00:03 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "AutoZone GAAP EPS of $56.05 beats by $2.16, revenue of $6.59B misses by $110M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645319-autozone-gaap-eps-of-56_05-beats-by-2_16-revenue-of-6_59b-misses-by-110m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 06:56:28 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Roche GLP-1 delivers 16% weight loss in mid-stage trial",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645310-roche-glp-1-delivers-16-weight-loss?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 06:52:11 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Alpha Compute acquires 300 acres in Pennsylvania for AI data center expansion",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645315-alpha-compute-acquires-300-acres-in-pennsylvania-for-ai-data-center-expansion?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 06:49:01 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "IDP Education rejects Blackstone&#x2019;s improved A$695M takeover offer",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645306-idp-education-rejects-blackstones-improved-a695m-takeover-offer?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 06:48:21 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Three AI-era giants tower over 45 years of tech IPOs",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645314-three-ai-era-giants-tower-over-45-years-of-tech-ipos?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 06:42:41 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Thor GAAP EPS of $0.78 misses by $0.15, revenue of $2.31B beats by $140M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645316-thor-gaap-eps-of-0_78-misses-by-0_15-revenue-of-2_31b-beats-by-140m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 06:39:35 -0400",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Stocks",
+    "desc": "The post Top Performing Stocks by Zaheer Anwari appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. If you want to see other top-performing stocks broken down by price: Stocks to Watch Benzinga Featured Stock Picks to Watch Below are stocks Benzinga will be closely monitoring. IceCure Medical Ltd. Incorporated 2006 and &#8230; Continued The post Top Performing Stocks by Zaheer Anwari appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/stocks-to-buy-now",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Defensive Stocks",
+    "desc": "The post Top Performing Defensive Stocks by Tony Dong appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all defensive stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. The S&#38;P 500 index is regarded as the barometer of U.S. stock market performance. Composed of large-cap U.S. equities, the S&#38;P 500 index is often used as a benchmark for professional and retail &#8230; Continued The post Top Performing Defensive Stocks by Tony Dong appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-defensive-stocks-with-low-correlation-to-spy",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Monthly Dividend ETFs",
+    "desc": "The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. The rising popularity of monthly dividend ETFs has prompted major hedge fund firms to offer a large selection. Investors have numerous options, but knowing the factors to analyze in monthly dividend ETFs is key to making the right investment. We have explored the best assets, detailing their features and benefits as you search every stock &#8230; Continued The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-monthly-dividend-etfs",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Green Penny Stocks",
+    "desc": "The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all green penny stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Investors concerned about greenhouse gas emissions may prefer investing in companies that follow environmentally friendly practices. Governments have imposed restrictions on carbon emissions, making some polluting companies less desirable investments.&#160; As a &#8230; Continued The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-green-penny-stocks",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Artificial Intelligence Stocks Under $10",
+    "desc": "The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial untelligence (AI) stocks under $10 are publicly traded companies developing or applying AI technologies, with stock prices below $10 per share. These lower-priced AI stocks can present promising investment opportunities due to the AI industry&#8217;s rapid growth and transformative potential. As AI continues to revolutionize various sectors, these stocks could experience significant appreciation in &#8230; Continued The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/artificial-intelligence-stocks-under-10",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Forex Analysis: What it is &#038; Best Analysis for Trading",
+    "desc": "The post Forex Analysis: What it is &#038; Best Analysis for Trading by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this. Are you looking to make informed trading decisions and stay ahead of the crowd operating in the forex market? If so, forex analysis is your key to success.&#160; By evaluating market trends and predicting future movements, forex analysis empowers traders like you to maximize profits and minimize risk. This article will explore the topic of &#8230; Continued The post Forex Analysis: What it is &#038; Best Analysis for Trading by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-method-of-analysis-forex-trading",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing High Short Interest Stocks",
+    "desc": "The post Top Performing High Short Interest Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all short interest stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. The great thing about the market is that you can make money whether stocks are bullish or bearish. Some stocks have surged, and it may be too late for a long position. &#8230; Continued The post Top Performing High Short Interest Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-high-short-interest-stocks",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Pet Insurance Stocks",
+    "desc": "The post Top Performing Pet Insurance Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all pet insurance stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Loving your pet means providing the best medical care for them. The last thing you want to experience is a dire situation of not being able to nurture them back to health. &#8230; Continued The post Top Performing Pet Insurance Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/pet-insurance-stocks",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Platinum Stocks",
+    "desc": "The post Top Performing Platinum Stocks by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this. The global push for green energy has also spurred the growth of emerging technologies that make considerable use of platinum group metals (PGMs). This has the potential to make platinum mining stocks a great long-term investment. For example, electric vehicles (EVs) require PGMs for their lithium-ion batteries. Furthermore, another application for PGMs has recently emerged &#8230; Continued The post Top Performing Platinum Stocks by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-platinum-stocks",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best AI Stocks",
+    "desc": "The post Best AI Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial intelligence has been a scorching hot investment trend during this bull market run. And while some AI winners have slowed a bit this summer, investors and analysts remain bullish about the long-term potential of this innovative technology. AI stocks have been volatile lately, but volatility can also present opportunities to get stocks at a &#8230; Continued The post Best AI Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-artificial-intelligence-stocks",
+    "pubDate": "Tue, 22 Sep 2026 10:12:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 Cannabis Stocks That Are Quietly Trouncing the Market in 2026",
+    "desc": "Trulieve and Cronos are turning stronger results into market-beating gains.",
+    "link": "https://www.fool.com/investing/2026/09/22/2-cannabis-stocks-that-are-quietly-trouncing-the-m/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 09:50:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Stock Futures Steady Ahead of Trump’s UN Address as Alibaba Unveils New AI Chip: Dow Jones, S&P, Nasdaq, Wall Street",
+    "desc": "US stock futures were little changed on Tuesday following a rally in technology shares during the previous session. Investors were monitoring President Donald Trump’s upcoming address to the United Nations, comments from a Federal Reserve official on interest rates and the launch of a new artificial intelligence chip by Alibaba.",
+    "link": "https://investorshub.advfn.com/market-news/article/36668/us-stock-futures-steady-ahead-of-trumps-un-address-as-alibaba-unveils-new-ai-chip-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 09:36:39 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Meta’s Muse Overtakes ChatGPT as #1 iOS App – and the Market Just Priced In the Agent-Native Consumer Shift",
+    "desc": "Meta’s Muse application secured 730,000 downloads in its first five days, a velocity that pushed it past ChatGPT to become the number one free iOS app in the United States on September 18. By September 21, the platform reached 2.5 million cumulative downloads, split between 1.5 million on iOS and 1.1 million on Android. This […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/meta-muse-overtakes-chatgpt-1-103903374.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 10:39:03 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Futures Rise as Oil Drops on Iran Hormuz Hope",
+    "desc": "Stocks were on track to open in the green Tuesday as oil prices dropped on a report that Iran is willing to reopen the vital Strait of Hormuz shipping route in seven days. Nasdaq 100 futures were were up 0.2. The Nasdaq surged to its first record high since June on Monday as oil prices retreated, with investors betting that the United Nations General Assembly this week could lay a path for resolving the Iran war.",
+    "link": "https://finance.yahoo.com/m/727569a3-8add-3972-8fcc-806c400b4ce4/stock-futures-rise-as-oil.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 10:17:44 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Global benchmarks mostly rise after Wall Street's rally",
+    "desc": "Global shares mostly rose Tuesday, as the market mood turned positive from the overnight rally on Wall Street. Britain's FTSE 100 edged up nearly 0.1% to 10,746.70. U.S. shares were set to be mixed, with Dow futures up nearly 0.1% to 52,504.00, while S&P 500 futures fell less than 0.1% to 7,829.50.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-benchmarks-mostly-rise-wall-033107078.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 03:31:07 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Wholesale Gas Prices Are Reaching Consumers Faster, ECB Says",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Wholesale Gas Prices Are Reaching Consumers Faster, ECB Says</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>By Michael Kern of <a href=\"https://oilprice.com/Latest-Energy-News/World-News/Wholesale-Gas-Prices-Are-Reaching-Consumers-Faster-ECB-Says.html\">OilPrice.com</a></em></p> <p>The surge in wholesale natural gas prices is set to pass through the retail and electricity inflation in the Eurozone faster than in the past, the European Central Bank (ECB) <a href=\"https://www.ecb.europa.eu/press/economic-bulletin/focus/2026/html/ecb.ebbox202606_04~5f026ee8e2.en.html\">said</a> in its Economic Bulletin on Monday.</p> <p>While the pass-through is faster and can manifest in the inflation numbers within one to three months for most Eurozone members, the pressure on electricity prices has been lower so far in 2026 compared to 2022, partly due to the higher shares of electricity generated from renewables, the ECB’s economists wrote.</p> <p><strong>“The impact of wholesale gas prices on wholesale electricity prices – which is typically strong with gas prices being the marginal price-setter for electricity prices – was dampened by a shift towards electricity generated from renewables,” </strong>they noted.</p> <p>Natural gas prices have doubled since the start of the conflict in the Middle East, while oil prices have increased more modestly, by about 40%.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/TFT%20nat%20gas.png?itok=_DzZKtLT\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/TFT%20nat%20gas.png?itok=_DzZKtLT\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"11f15df8-5808-4fe9-9501-d5bba7e172a4\" data-responsive-image-style=\"inline_images\" height=\"276\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/TFT%20nat%20gas.png?itok=_DzZKtLT\" width=\"500\" /></a></p> <p>For Europe, soaring energy prices have <a href=\"https://oilprice.com/Latest-Energy-News/World-News/Natural-Gas-Not-Oil-Is-Key-Inflation-Concern-in-Europe.html\">rekindled inflation fears</a> in Europe mostly due to the spike in wholesale gas prices.</p> <p>The Iran war and the intensified competition for spot LNG supply from Asia came just as Europe was trying to build in the spring and summer natural gas inventories for winter.</p> <p>The ECB, which in June raised the key interest rate for the euro area for the first time since 2023, <a href=\"https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html\">raised the rates</a> once again in September, by 0.25 percentage points, as inflation at over 3% is running well above the long-term ECB policy target of 2%.</p> <p>“The outlook remains highly uncertain, with risks to the upside for inflation and to the downside for economic growth,” the ECB said in its monetary policy decision on September 10, the day on which Saudi Arabia’s onshore oil pipeline that bypasses the Strait of Hormuz <a href=\"https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html\">was attacked</a> with drones.</p> <p>“The pass-through of wholesale prices to retail prices has sped up for gas prices overall, but the broad pattern of lagged and uneven transmission remains for both gas prices and electricity prices,” the ECB economists said today.</p> <p>An ECB survey of central banks in the Eurozone showed that changes in wholesale gas prices are expected to be passed on to consumer gas inflation within 1-3 months in more than half of the euro area, within 4-6 months in around one-tenth of the euro area, and within 7-12 months in around one-third of the euro area – all higher than in 2022.</p> <p>“Notably, the share of countries to report a slow pass-through within 13-24 months has decreased from around 40% to around 5% since 2022,” the ECB noted.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T10:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 06:30</span>",
+    "link": "https://www.zerohedge.com/markets/wholesale-gas-prices-are-reaching-consumers-faster-ecb-says",
+    "pubDate": "Tue, 22 Sep 2026 10:30:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "The Nuclear Renaissance Disconnect: Utilities Plan Big While Stocks Lag",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The Nuclear Renaissance Disconnect: Utilities Plan Big While Stocks Lag</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The Nuclear Energy Institute's (NEI) newly released <a href=\"https://www.nei.org/resources/reports-briefs/the-future-of-nuclear-power-2026-survey\">2026 Future of Nuclear Power</a> survey captured American nuclear energy ambitions across 21 utility companies covering 95 commercial reactors. Reactor owners find themselves planning new reactors to meet the <strong>AI-juiced electricity demand of the future</strong>, along with the added demand from increased domestic manufacturing and electrification.</p> <p>More than 97% of the units surveyed are considering or pursuing approval to <strong>operate for at least 80 years</strong>. It goes to highlight the long lifespan of reactor plants, with some owners now planning for operations out to 100 years from initial construction. </p> <p>NEI estimates that uprates, restarts, longer refueling cycles, and other improvements could collectively add more than 7 GW of nuclear generation from the existing fleet over the coming decade. <strong>That's more than the power you would get by building six new Westinghouse AP1000 reactors.</strong></p> <p>That includes roughly 2.2 GW from restarting the previously shutdown plants at Palisades, Three Mile Island, and Duane Arnold.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Screenshot%202026-09-19%20at%208.37.34%E2%80%AFAM.png?itok=cA1fTGPo\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Screenshot%202026-09-19%20at%208.37.34%E2%80%AFAM.png?itok=cA1fTGPo\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bc2aa017-0ef1-470f-b36b-973b69172758\" data-responsive-image-style=\"inline_images\" height=\"235\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/Screenshot%202026-09-19%20at%208.37.34%E2%80%AFAM.png?itok=cA1fTGPo\" width=\"500\" /></a></p> <p>Between the 21 utilities surveyed, the report states those companies are planning for <strong>33.6 GW of new nuclear generation over the next 15 years</strong>. Roughly 28 of those GWs are concentrated in 2035-2039.</p> <p>New capacity is broadly split between large reactors and small modular reactors, while respondents reported no microreactor plans.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Screenshot%202026-09-19%20at%208.38.07%E2%80%AFAM.png?itok=RVvkn3Xo\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Screenshot%202026-09-19%20at%208.38.07%E2%80%AFAM.png?itok=RVvkn3Xo\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"560fb640-5b5f-49fc-bc86-3f894db13cd8\" data-responsive-image-style=\"inline_images\" height=\"313\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/Screenshot%202026-09-19%20at%208.38.07%E2%80%AFAM.png?itok=RVvkn3Xo\" width=\"500\" /></a></p> <p><a href=\"https://www.zerohedge.com/energy/nuclear-co-plans-new-south-carolina-reactor\">As we noted</a> when covering The Nuclear Company's South Carolina reactor plans, America's “nuclear renaissance” still has to make the transition from announcements to actual construction.</p> <p>Interest in supplying power to specific loads sheds some light on what the utilities are looking at powering with their growing nuclear ambitions. Over a dozen respondents are looking to provide energy for data centers. However, this is the first year that has seen <strong>zero interest in powering hydrogen generation plants</strong>.</p> <p>2024 saw about a dozen respondents interested in behind the meter setups for powering hydrogen production facilities. After Congress changed up the tax credits for hydrogen applications to expire in 2028, interest from the utilities dropped down to only three respondents in 2025, leading to zero for this year.</p> <p>Despite the incredibly rosy future being painted by the nuclear segments of America's utilities, the stock market holds a different opinion on the nuclear sector's constituents.</p> <p>With SPY up about 12% this year and XLE up over 40%, the nuclear sector has trailed behind significantly. Of the three main nuclear-themed ETFs, <strong>none of them currently hold positive returns</strong> since the beginning of the year.</p> <p>The uranium-heavy URA and the industrial/services-heavy NUKZ are down about 2-3%, while the more concentrated NLR is down about 13% YTD.</p> <p>After multiple reactor developers, including Oklo and NuScale, had explosive runs in 2024 and 2025, multiple names in the nuclear corner have <strong>fallen over 50% in recent months</strong> as the nuclear theme is still tightly tied to the momentum and AI infrastructure trade.</p> <p>The sector has a chance of being taken more seriously if grid-scale construction can finally start getting announced at scale, but for now, everything still seems to be in the talking stage, which is exciting absolutely no one.</p> <p>The microreactor space has seen an increase in interest on the private side, with recent funding rounds for microreactor developers pushing over $1 billion. These reactors have some different application opportunities outside of the scope of traditional utilities, such as national defense applications and remote community power. </p> <p>As we've detailed at length with the DOE's Reactor Pilot Program, this class of reactor capacity is actually showing <a href=\"https://www.zerohedge.com/markets/executive-order-execution-three-reactors-achieved-criticality-july-4th\">tangible progress</a> towards commercialization.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T09:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 05:45</span>",
+    "link": "https://www.zerohedge.com/energy/nuclear-renaissance-disconnect-utilities-plan-big-while-stocks-lag",
+    "pubDate": "Tue, 22 Sep 2026 09:45:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Despite German State Stimulus: Machinery Industry Braces For A Catastrophic Year",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Despite German State Stimulus: Machinery Industry Braces For A Catastrophic Year</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>Submitted by Thomas Kolbe</em></p> <p>Friedrich Merz does not make it easy to interpret current economic data correctly. The debt king from Brilon is not only distorting the statistics with his “special (debt) assets”: More than 320 billion euros in direct and indirect state subsidies are flowing, according to Freiburg economist Lars Feld, through subsidy channels that are penetrating ever deeper into the German economy. Artificial economies are emerging there, economic homunculi that will remain permanently dependent on the taxpayer.</p> <p>What Is Still Growth, and What Is Debt-Financed Illusion?</p> <p>In July, the <a href=\"https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_327_421.html\">Federal Statistical Office reported a strong increase </a>in orders for German industry: Real order backlogs rose by 2.5 percent compared with the previous month, and by as much as 10.9 percent year-on-year – a figure of Olympic proportions.</p> <p>Behind the statistical facade, however, it quickly becomes clear where the wind is actually coming from: Above all, the Other Transport Equipment sector increased its order backlog by 3.9 percent compared with the previous month – <strong>the billions in debt for the defense industry are creating a positive mood at Rheinmetall, Hensoldt and Co.</strong></p> <p>What a contrast to the real economy! The automotive industry, still the backbone of the German economy, can no longer escape its downward spiral: In July, <strong>carmakers once again recorded a decline in their order volume, this time by 1.7 percent compared with the previous month.</strong></p> <p>Adjusted for debt-financed defense orders, it becomes clear that the trend is still heading south. The fact is that with every additional month of the current policy, the economy is losing ground to foreign competitors. Who is surprised, given the sky-high energy costs and Brussels’ increasingly aggressive regulatory agenda?</p> <p>The election campaign team of the Federal Chancellor had barely finished celebrating the good news from industry when the band of illusions snapped and reality came rushing back like an arrow.</p> <p>A current assessment of the actual situation in the engine room of the German economy gives reason to fear the worst for this year: <strong>On Thursday, the German Engineering Federation VDMA <a href=\"https://de.marketscreener.com/boerse-nachrichten/vdma-senkt-produktionsprognose-fuer-2026-ce785bd3d88af323\">reported a real decline in production of 4.1 percent </a>for the first seven months compared with the same period of the previous year.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/german%20ind%20prod.png?itok=KkDgUnDv\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/german%20ind%20prod.png?itok=KkDgUnDv\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4c0383ea-5da9-437f-b86f-afb9e2459689\" data-responsive-image-style=\"inline_images\" height=\"280\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/german%20ind%20prod.png?itok=KkDgUnDv\" width=\"500\" /></a></p> <p><strong>That is a horror figure, descending on the Federal Chancellor like a media guillotine. The outlook is dark: Since 2018, the sector has lost almost one-fifth of its production activity.</strong></p> <p>This dramatic development is not part of a typical economic cycle. Germany is caught in a spiral of deindustrialization that even historically unprecedented government debt programs will no longer be able to slow down. The parties of eco-socialism bear responsibility for this disaster, above all Merz and the CDU.</p> <p>Confused, yet firmly committed to this political ideology, the Chancellor steers his government through the fog. <strong>At the ceremony marking the 150th birthday of Konrad Adenauer, Merz emphasized his unwavering commitment to reform and was met with icy silence</strong>.</p> <p>He had only one of 630 votes in the Bundestag, Merz said. His authority to set policy guidelines did not extend beyond the cabinet either. After that, he said, one found oneself on the high seas of the Bundestag.</p> <p>It is always the same game: A commitment to reform and an awareness of the problems are staged for the cameras. In reality, the government remains committed to the joint strategy of the CDU/CSU and SPD: the debt-financed expansion of the state economy.</p> <p>It seems almost comical when Friedrich Merz resorts to nautical metaphors in his hour of need. <strong>Is he not himself the captain who, to put it somewhat pathetically, is steering the state ship straight toward the iceberg visible to everyone?</strong></p> <p>Where is even the attempt at reform? Why does Merz not dare to break with the destructive climate policy and begin a serious path toward consolidating public finances, one that includes a remigration program, encompasses an end to the senseless development aid, and also includes a rejection of the taxpayer-funded NGO establishment? A return to diplomacy with the Russians would also be the order of the day.</p> <p>Of course, <strong>it would mean the end of the coalition. Merz would have only the AfD left as an option</strong>. Yet Merz remains trapped inside the firewall cocoon. Despite the visible crisis, the Chancellor shows no progress in understanding the situation and refuses any willingness to reform. Politically speaking, Merz is a globalist who firmly believes in the success of his military Keynesianism. It is supposed to support the collapsing economy and, if necessary, at the price of geopolitical risks in relations with Russia.</p> <p>Yet the collapse of the economy is moving faster than he is. How far exactly was described by consulting firm Roland Berger, which in its analysis of the automotive industry drew a definitive line under the Chancellor’s hopes for a rapid recovery. In the coming years, Berger forecasts, another 200,000 jobs will be cut in this sector. A catastrophe is taking shape that everyone can see, yet which is not leading to a political change of course.</p> <p>Within a few years, only around half a million people will still be employed in the former German key industry, according to Berger. A development with drastic consequences for the entire sclerotic German economy.</p> <p><strong>Volkswagen alone counts around 63,000 individual companies in its global supply chain </strong>– more than 10,000 of them in Germany.</p> <p>The true significance of the decline of this industrial powerhouse is almost impossible to grasp amid the current dynamics. It is telling that the media mainstream attempted to consistently exclude this historically unprecedented collapse from this year’s election coverage.</p> <p>The fact remains, however, that the CDU in particular bears a considerable share of the responsibility for Germany’s deindustrialization. Whether it was the nuclear phase-out, largely decided by the Union, the aggressive policy of CO₂ taxation, or ever stricter climate regulation – the CDU has created facts both in Berlin and in Brussels together with its green socialist partner parties.</p> <p>And against this secular trend, the Federal Chancellor’s military Keynesianism will not be able to hold out for long.</p> <p>* * * </p> <p><em>About the author: Thomas Kolbe, a graduate economist, has worked for or over 25 years as a journalist and media producer for clients from various industries and business associations. As a publicist, he focuses on economic processes and observes geopolitical events from the perspective of the capital markets. His publications follow a philosophy that focuses on the individual and their right to self-determination.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 05:00</span>",
+    "link": "https://www.zerohedge.com/economics/despite-german-state-stimulus-machinery-industry-braces-catastrophic-year",
+    "pubDate": "Tue, 22 Sep 2026 09:00:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Prediction: AST SpaceMobile Will Be the Best-Performing Space Stock of 2027",
+    "desc": "Key PointsAST SpaceMobile is targeting 45 to 60 satellites by the end of 2026, with a larger deployment planned for early 2027.",
+    "link": "https://www.nasdaq.com/articles/prediction-ast-spacemobile-will-be-best-performing-space-stock-2027",
+    "pubDate": "Tue, 22 Sep 2026 10:30:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Indian Shares End Slightly Lower In Volatile Trade",
+    "desc": "(RTTNews) - Indian shares ended slightly lower after a choppy session on Tuesday as oil prices fluctuated after declining for four consecutive sessions, and hawkish signals from Federal Reserve policymakers reinforced expectations of further interest-rate hikes by the U.S. centra",
+    "link": "https://www.nasdaq.com/articles/indian-shares-end-slightly-lower-volatile-trade",
+    "pubDate": "Tue, 22 Sep 2026 10:28:21 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AbbVie vs. Pfizer: Which Dividend Stock Is the Better Buy in September?",
+    "desc": "Key PointsDividend payments offer you security in difficult markets -- and extra growth in better times.",
+    "link": "https://www.nasdaq.com/articles/abbvie-vs-pfizer-which-dividend-stock-better-buy-september",
+    "pubDate": "Tue, 22 Sep 2026 10:25:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DAX Climbs As Oil Falls, Markets Eye Trump UN Speech",
+    "desc": "(RTTNews) - German stocks started off on a weak note Tuesday morning but recovered well and were up firmly in positive territory a little past noon on Tuesday on oil's continued weakness amid prospects for the reopening of the Strait of Hormuz by Iran helped lift sentiment.",
+    "link": "https://www.nasdaq.com/articles/dax-climbs-oil-falls-markets-eye-trump-un-speech",
+    "pubDate": "Tue, 22 Sep 2026 10:24:33 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Prediction: $10,000 Invested in VFVA Today Could Be Worth This Much by 2031",
+    "desc": "Key PointsThe Vanguard U.S. Value Factor ETF has delivered 18.7% annualized returns for the past three years.",
+    "link": "https://www.nasdaq.com/articles/prediction-10000-invested-vfva-today-could-be-worth-much-2031",
+    "pubDate": "Tue, 22 Sep 2026 10:20:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Rising Treasury Yields Are Wreaking Havoc on the Bond Market. Here's How It Could Affect Stock Investors.",
+    "desc": "Key PointsWhen baseline interest rates like the Fed Funds Rate or the Prime Rate rise, yields on new and already-issued bonds rise.",
+    "link": "https://www.nasdaq.com/articles/rising-treasury-yields-are-wreaking-havoc-bond-market-heres-how-it-could-affect-stock",
+    "pubDate": "Tue, 22 Sep 2026 10:11:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 No-Brainer Cybersecurity Stocks to Buy With $1,000 Right Now",
+    "desc": "Key PointsCrowdStrike's Falcon platform revenue grew by 26% as customers adopt more of its 33 security modules.",
+    "link": "https://www.nasdaq.com/articles/3-no-brainer-cybersecurity-stocks-buy-1000-right-now",
+    "pubDate": "Tue, 22 Sep 2026 10:05:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AutoZone Q4 26 Earnings Conference Call At 10:00 AM ET",
+    "desc": "(RTTNews) - AutoZone Inc. (AZO) will host a conference call at 10:00 AM ET on September 22, 2026, to discuss Q4 26 earnings results.",
+    "link": "https://www.nasdaq.com/articles/autozone-q4-26-earnings-conference-call-10-00-am-et",
+    "pubDate": "Tue, 22 Sep 2026 10:01:57 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Nike vs. PepsiCo: Which Consumer Goods Dividend Stock Is the Better Buy for a Lifetime of Passive Income?",
+    "desc": "Key PointsAfter big sell-offs, Nike and PepsiCo both offer higher-than-average yields.",
+    "link": "https://www.nasdaq.com/articles/nike-vs-pepsico-which-consumer-goods-dividend-stock-better-buy-lifetime-passive-income",
+    "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Total Metals CEO Thorburn Steps Down; Names Andrew Ramcharan As Successor",
+    "desc": "(RTTNews) - Total Metals Corp. (TT.V), a mining company, on Tuesday announced that Tyler Thorburn will step down as President, Chief Executive Officer and Board Director, effective September 22.",
+    "link": "https://www.nasdaq.com/articles/total-metals-ceo-thorburn-steps-down-names-andrew-ramcharan-successor",
+    "pubDate": "Tue, 22 Sep 2026 09:37:23 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Suddenly, polls show the Democrats in sight of taking the Senate in the midterms",
+    "desc": "Everything you need to know before you reach the office this morning.",
+    "link": "https://fortune.com/2026/09/22/midterm-polls-show-democrats-taking-senate/",
+    "pubDate": "Tue, 22 Sep 2026 10:00:09 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The AI race should be less about supremacy and more about sustainability",
+    "desc": "Also: All the news and watercooler chat from Fortune.",
+    "link": "https://fortune.com/2026/09/22/ai-race-supremacy-sustainability-women/",
+    "pubDate": "Tue, 22 Sep 2026 09:53:59 +0000",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "UBS bearish on Buzzi as U.S. cement imports pressure pricing",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ubs-bearish-on-buzzi-as-us-cement-imports-pressure-pricing-4910358",
+    "pubDate": "2026-09-22 10:44:11",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "European shares inch higher as UN diplomacy signals pull crude lower",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/european-shares-inch-higher-as-un-diplomacy-signals-pull-crude-lower-4909902",
+    "pubDate": "2026-09-22 10:41:39",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Corporate bond buyers get picky with flood of AI debt",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/corporate-bond-buyers-get-picky-with-flood-of-ai-debt-4910258",
+    "pubDate": "2026-09-22 10:36:30",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Alibaba unveils new AI chip, calls it China’s most powerful; shares gain",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/alibaba-unveils-new-ai-chip-calls-it-chinas-most-powerful-4909841",
+    "pubDate": "2026-09-22 10:31:10",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/banks-warn-ai-shopping-bots-raise-scam-fraud-and-dataprivacy-risks-4910257",
+    "pubDate": "2026-09-22 10:30:41",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "India stocks lower at close of trade; Nifty 50 down 0.36%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-036-4910311",
+    "pubDate": "2026-09-22 10:30:05",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "El Niño stock plays: Winners and losers across sectors and regions",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/el-nino-stock-plays-winners-and-losers-across-sectors-and-regions-93CH-4910306",
+    "pubDate": "2026-09-22 10:27:30",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Analysis-From smart glasses to AI pins, privacy fears challenge tech’s next big bet",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/analysisfrom-smart-glasses-to-ai-pins-privacy-fears-challenge-techs-next-big-bet-4910249",
+    "pubDate": "2026-09-22 10:24:45",
+    "fetchedAt": "2026-09-22T11:01:33.933Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Novo CEO signals M&A opportunities to strengthen drug pipeline",
     "desc": "Novo CEO Mike Doustdar told CNBC that it is considering M&A opportunities as it faces growing competition in the weight-loss market.",
     "link": "https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html",
@@ -5862,541 +6398,5 @@
     "link": "https://www.zerohedge.com/markets/wall-street-turns-its-back-consumer-stocks-fuel-costs-soar-and-yields-surge",
     "pubDate": "Mon, 21 Sep 2026 17:40:00 +0000",
     "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "FAA Ground-Stops Every Major New York Airport Over \"Equipment Outage\" At The Same Facility That Broke Newark Last Year",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">FAA Ground-Stops Every Major New York Airport Over \"Equipment Outage\" At The Same Facility That Broke Newark Last Year</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>The FAA has issued ground-stop orders to arrivals into every major New York-area airport:</strong> JFK, LaGuardia, and Newark. Teterboro, Westchester, and Philadelphia are in the same pile. Official reason: equipment outage.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/content_80%2844%29_0.jpg?itok=fg8gYOkS\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/content_80%2844%29_0.jpg?itok=fg8gYOkS\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"e8578a01-d0a9-4b11-b963-04cb05314db8\" data-responsive-image-style=\"inline_images\" height=\"263\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/content_80%2844%29_0.jpg?itok=fg8gYOkS\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <h2>What happened</h2> <p>The first restrictions hit Newark, Teterboro, and Philadelphia after problems with radio frequencies at Philadelphia TRACON, the terminal radar facility that handles arrivals and departures in that airspace. The FAA later added JFK, LaGuardia, and Westchester.</p> <p><strong>The agency has not publicly detailed which systems failed, how long repairs will take, or whether New York TRACON (N90) is separately affected.</strong> That lack of specifics is why the disruption is being described as an \"unknown equipment issue.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">92 cancellations and nearly 70 diversions at Newark so far today as an FAA equipment outage continues to hold flights bound for Newark, Philadelphia, and Teterboro at their origin airports. Traffic comparison between last week and today. <a href=\"https://t.co/6mMwzi4mrG\">pic.twitter.com/6mMwzi4mrG</a></p> — Flightradar24 (@flightradar24) <a href=\"https://x.com/flightradar24/status/2102079297708048577?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>A ground stop holds aircraft <em>destined for</em> the listed airports on the ground at their origin. It is one of the FAA's most restrictive tools and is used when controllers cannot safely accept more inbound traffic.</p> <p>What actually broke? <strong>Frequencies,</strong> per the first FAA statement. <strong>Then just \"equipment / outage\" on the national status board.</strong> No system named, no timeline, no \"we kicked the rack and it came back.\"</p> <p>Philadelphia TRACON is not a random facility: it is the same one that took over Newark approach control in 2024 and then suffered repeated radar and radio failures through 2025, severe enough that controllers went out on trauma leave. <strong>On Aug. 28 of last year, the FAA ground-stopped Newark for roughly two hours over what it called equipment issues affecting \"some radio frequencies in the Philadelphia TRACON area,\" with arrival delays averaging about 90 minutes - the same facility and the same stated cause as today.</strong> </p> <h2>Impact</h2> <p>Newark saw the earliest and heaviest effects. As of 11:07 a.m. ET, FAA data showed average departure delays out of Newark running about 90 minutes and increasing, with the ground stop set to expire at 11:15 a.m. and a 30-60% chance of extension. Flight-tracking data showed dozens of jets queued on the pavement, along with dozens of cancellations and diversions. Teterboro departure delays were steeper.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/HSv-jBpW0AEpE84_80.jpg?itok=JY7czN3z\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/HSv-jBpW0AEpE84_80.jpg?itok=JY7czN3z\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a53c6fda-37ef-48ce-8941-72d4f02d0f29\" data-responsive-image-style=\"inline_images\" height=\"504\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/HSv-jBpW0AEpE84_80.jpg?itok=JY7czN3z\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Via @Bogs4NY</em></figcaption></figure></picture></a> <p>Boston Logan also has restrictions, though those are listed as volume and weather rather than the same equipment problem.</p> <p><strong>Because JFK, LGA, and EWR sit on one of the busiest corridors in the country, the stops ripple nationally:</strong> crews and aircraft get out of position, later banks get late, and connecting passengers miss onward flights.</p> <p>Maybe another rogue AI escaped a sandbox? </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T17:25:59+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 13:25</span>",
-    "link": "https://www.zerohedge.com/technology/faa-ground-stops-every-major-new-york-airport-over-equipment-outage-same-facility-broke",
-    "pubDate": "Mon, 21 Sep 2026 17:25:59 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Powerful Explosion Rocks Aleppo Ammo Depot In Latest Mystery Blast",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Powerful Explosion Rocks Aleppo Ammo Depot In Latest Mystery Blast</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>A terrifying blast erupted outside the major northern Syrian city of Aleppo overnight, which caused area residents to evacuate their homes, and with<strong> sustained explosions visible for miles around</strong>.</p> <p>The explosion happened at an army base in an outlying town, injuring at least four people, after which a series of blasts persisted, which unleashed shrapnel across the area.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/ammoblast.jpg?itok=isNp0Wxo\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/ammoblast.jpg?itok=isNp0Wxo\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"e16613aa-aadd-43ed-a2fe-8abb94e4a8c6\" data-responsive-image-style=\"inline_images\" height=\"281\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/ammoblast.jpg?itok=isNp0Wxo\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>State media outlet SANA later <a href=\"https://www.arabnews.com/middle-east/explosions-at-aleppo-munitions-depot-in-syria-injures-4-3002481\">cited</a> Ministry of Emergency and Disaster Management which indicated an<strong> ammunition depot was detonated</strong>.</p> <p>Amid local evacuations, emergency crews were on \"high alert... due to the continued explosions\" - after being initially unable to get close given persisting and follow-on explosions.</p> <p>An eyewitness in Aleppo's Hamdaniyeh neighborhood told AFP of a \"huge explosion\" and that people in the area could see \"large flames in the distance\".</p> <p>Typically the first fear that Syrians have is that they are once again under attack by Israeli fighter jets, given this is a scenario which has played out literally hundreds of times over the past several years of conflict. There have been no initial statements describing what caused the disaster.</p> <p>But <strong>several munitions and military warehouse accidents have occurred under the new Jolani government of late</strong>.</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">An ammunition depot exploded in Aleppo, northwestern Syria.<br /><br /> Follow: <a href=\"https://t.co/Ez42KDda7X\">https://t.co/Ez42KDda7X</a> <a href=\"https://t.co/f0ZGtnNUIH\">pic.twitter.com/f0ZGtnNUIH</a></p> — PressTV Extra (@PresstvExtra) <a href=\"https://x.com/PresstvExtra/status/2101801151091859934?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>For example, in earlier September a Ministry of Defense weapons depot ignited and 14 people were killed.</p> <p>Lately the country has been suffering extreme fuel prices amid efforts to get inflation under control, and amid stagnant wages and efforts to get the post-war economy back on track. Washington's recent dropping of Assad-era sanctions have yet to bear any immediate fruit, however.</p> <p>Several <a href=\"https://www.zerohedge.com/geopolitical/syrian-protests-spread-aleppo-raqqa-while-jolani-enjoys-red-carpet-treatment-dubai\">days of protests</a> across various cities have persisted, after the new rulers in Damascus abruptly removed fuel subsidies for the population. </p> <p>On September 13 the government decision saw <a href=\"https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases\">diesel prices</a> shoot up<strong> 40% and petrol prices by 28%</strong>, after not just years but decades of government regulated price controls and subsidies. </p> <p><strong><em>Is there a covert sabotage campaign afoot? </em></strong><em>The Israelis have of late occupied southern Syria, and have engaged in operations to ensure Syria has no advanced or heavy weapons or munitions...</em></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Three <a href=\"https://x.com/hashtag/Syria?src=hash&ref_src=twsrc%5Etfw\">#Syria</a> Defense Ministry arms depots have exploded in 11 days — in <a href=\"https://x.com/hashtag/Idlib?src=hash&ref_src=twsrc%5Etfw\">#Idlib</a> (Sep 9), Deir ez Zour (Sep 18) & tonight in <a href=\"https://x.com/hashtag/Aleppo?src=hash&ref_src=twsrc%5Etfw\">#Aleppo</a>.<br /><br /> It’s still summer weather in <a href=\"https://x.com/hashtag/Syria?src=hash&ref_src=twsrc%5Etfw\">#Syria</a>, and storage practices could be better — but 3 in 11 days seems too much to be coincidence.<br /><br /> Big questions. <a href=\"https://t.co/BkaZ0A2lZS\">pic.twitter.com/BkaZ0A2lZS</a></p> — Charles Lister (@Charles_Lister) <a href=\"https://x.com/Charles_Lister/status/2101821833884422419?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Already the country was smashed by proxy war and sweeping US-led sanctions, not to mention <strong>a decade-long US troop occupation of Syria's oil and gas fields in the northeast</strong>, which strangled the population, as part of efforts to overthrow secular Ba'ath leader Bashar al-Assad. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T17:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 13:20</span>",
-    "link": "https://www.zerohedge.com/geopolitical/powerful-explosion-rocks-aleppo-ammo-depot-latest-mystery-blast",
-    "pubDate": "Mon, 21 Sep 2026 17:20:00 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The Case for (and Against) Buying SpaceX Stock Right Now",
-    "desc": "Key PointsSpaceX represents a unique opportunity to invest in a launch, connectivity, and AI conglomerate.",
-    "link": "https://www.nasdaq.com/articles/case-and-against-buying-spacex-stock-right-now",
-    "pubDate": "Mon, 21 Sep 2026 18:20:00 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "2 High-Yield Energy Dividend Stocks to Buy in September With Dividends You Can Count On",
-    "desc": "Key PointsEnergy Transfer's 6.32% dividend yield is well above inflation.",
-    "link": "https://www.nasdaq.com/articles/2-high-yield-energy-dividend-stocks-buy-september-dividends-you-can-count",
-    "pubDate": "Mon, 21 Sep 2026 18:05:00 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "BigBear.ai vs. QuantumScape: Which Technology Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsBigBear.ai serves the defense and intelligence communities with specialized AI decision intelligence software.",
-    "link": "https://www.nasdaq.com/articles/bigbearai-vs-quantumscape-which-technology-stock-better-buy-2026",
-    "pubDate": "Mon, 21 Sep 2026 17:51:31 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "End of an Era: 3 Investment Lessons from Warren Buffett That Every Investor Should Follow",
-    "desc": "Key PointsHe's one of the greatest investors of all time and leaves behind some great investment lessons.",
-    "link": "https://www.nasdaq.com/articles/end-era-3-investment-lessons-warren-buffett-every-investor-should-follow",
-    "pubDate": "Mon, 21 Sep 2026 17:50:00 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Stocks Rally On Oil Decline, Diplomatic Optimism",
-    "desc": "(RTTNews) - European markets closed notably higher on Monday, rebounding strongly from previous session's losses, as inflation concerns eased thanks to falling oil prices amid hopes the diplomatic efforts from Iran and the U.S. will help ease tensions in the Middle East.",
-    "link": "https://www.nasdaq.com/articles/european-stocks-rally-oil-decline-diplomatic-optimism",
-    "pubDate": "Mon, 21 Sep 2026 17:43:27 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Paramount Moves Closer to Clearing a Major Antitrust Hurdle. Here’s How That Impacts Its Warner Bros. Discovery Acquisition.",
-    "desc": "Key PointsParamount's proposed $110 billion acquisition of Warner Bros. would bring together streaming services such as Paramount+ and HBO Max, as well as major cable networks and channels such as CBS and CNN.",
-    "link": "https://www.nasdaq.com/articles/paramount-moves-closer-clearing-major-antitrust-hurdle-heres-how-impacts-its-warner-bros",
-    "pubDate": "Mon, 21 Sep 2026 17:43:01 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Monday 9/21 Insider Buying Report: TH, TENX",
-    "desc": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned dollars to make a purchase, is that they expect to make money. Today",
-    "link": "https://www.nasdaq.com/articles/monday-9-21-insider-buying-report-th-tenx",
-    "pubDate": "Mon, 21 Sep 2026 17:36:08 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "fortune",
-    "title": "What is a gift of equity and how does it work?",
-    "desc": "A gift of equity lets a seller transfer home equity to a buyer, covering a down payment and more. Here's how it works and what the tax rules require.",
-    "link": "https://fortune.com/article/gift-of-equity/",
-    "pubDate": "Mon, 21 Sep 2026 18:38:26 +0000",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Intel options flow analysis: 1.78M contracts traded as stock surges 11.69%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/intel-options-flow-analysis-178m-contracts-traded-as-stock-surges-1169-93CH-4909506",
-    "pubDate": "2026-09-21 18:13:56",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nasdaq soars 2%, S&P up 1.5% as AI stocks rally, led by surge in Meta Platforms",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
-    "pubDate": "2026-09-21 18:13:06",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Meta options market activity surges on Muse AI optimism",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/meta-options-market-activity-surges-on-muse-ai-optimism-93CH-4909500",
-    "pubDate": "2026-09-21 18:07:04",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Intel, Arm among market cap stock movers on Monday",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/intel-arm-among-market-cap-stock-movers-on-monday-93CH-4909499",
-    "pubDate": "2026-09-21 18:06:33",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Qatar’s wealth fund and JP Morgan Asset Management to launch $20 billion partnership",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/qatars-wealth-fund-and-jp-morgan-asset-management-to-launch-20-billion-partnership-4909195",
-    "pubDate": "2026-09-21 18:06:31",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Paramount settles with states over Warner Bros Discovery deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/paramount-settles-with-states-over-warner-bros-discovery-deal-4909498",
-    "pubDate": "2026-09-21 18:05:29",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "ADP employment data and Fed speakers highlight Tuesday’s calendar",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/adp-employment-data-and-fed-speakers-highlight-tuesdays-calendar-93CH-4909494",
-    "pubDate": "2026-09-21 18:00:40",
-    "fetchedAt": "2026-09-21T19:01:30.122Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-    "desc": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
-    "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-    "pubDate": "Mon, 21 Sep 2026 17:36:14 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
-    "desc": "AMD has had a monster 2026 with the stock up more than 180% so far.",
-    "link": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
-    "pubDate": "Mon, 21 Sep 2026 16:47:40 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem",
-    "desc": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
-    "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-    "pubDate": "Mon, 21 Sep 2026 17:45:27 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Stock boom is fueling a ‘retirement party,’ economists say — what it means for workers",
-    "desc": "Stocks have surged and the resulting \"wealth effect\" has led older workers to retire at a faster clip.",
-    "link": "https://www.cnbc.com/2026/09/21/stock-gains-fuel-retirements-among-older-workers-economists.html",
-    "pubDate": "Mon, 21 Sep 2026 17:14:25 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-    "desc": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
-    "link": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-    "pubDate": "Sun, 20 Sep 2026 19:06:16 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over",
-    "desc": "Bitcoin rose above $86,000 on Monday extending a rally over the past few days.",
-    "link": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
-    "pubDate": "Mon, 21 Sep 2026 17:38:59 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-    "desc": "Paramount has reached a settlement with the US states in a lawsuit challenging its $110bn merger with Warner Bros",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:59:45 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'I would tip up to 30% at a restaurant'",
-    "desc": "New Yorkers and Londoners share what they usually tip in a restaurant - and whether tipping culture has gotten out of hand.",
-    "link": "https://www.bbc.co.uk/news/videos/ckgjqzl755j0o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 18 Sep 2026 05:13:49 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kroger executive VP Adcock sells $4.4m in KR stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/kroger-executive-vp-adcock-sells-44m-in-kr-stock-93CH-4909491",
-    "pubDate": "2026-09-21 17:46:02",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Exclusive-IDB drafts two-year Venezuela plan, says electricity and social needs are key",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusiveidb-drafts-twoyear-venezuela-plan-says-electricity-and-social-needs-are-key-4909490",
-    "pubDate": "2026-09-21 17:43:05",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal-4908463",
-    "pubDate": "2026-09-21 17:42:25",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Raymond James reiterates Verizon stock rating on subscriber growth strategy",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-verizon-stock-rating-on-subscriber-growth-strategy-93CH-4909489",
-    "pubDate": "2026-09-21 17:40:57",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Raymond James reiterates Lennar stock rating citing mortgage rates",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-lennar-stock-rating-citing-mortgage-rates-93CH-4909488",
-    "pubDate": "2026-09-21 17:40:52",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Coherent at ECOC 2026: pushes full-stack optics for AI data centers",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/coherent-at-ecoc-2026-pushes-fullstack-optics-for-ai-data-centers-93CH-4909486",
-    "pubDate": "2026-09-21 17:37:58",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is G Mining Ventures stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-g-mining-ventures-stock-sliding-today-93CH-4909485",
-    "pubDate": "2026-09-21 17:34:23",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Southern Cross Gold Consolidated stock slipping today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-southern-cross-gold-consolidated-stock-slipping-today-93CH-4909483",
-    "pubDate": "2026-09-21 17:32:24",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Vusion H1 2026 slides: 29% revenue growth, profitability surges",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/vusion-h1-2026-slides-29-revenue-growth-profitability-surges-93CH-4909482",
-    "pubDate": "2026-09-21 17:30:10",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Kelt Exploration stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-kelt-exploration-stock-sliding-today-93CH-4909480",
-    "pubDate": "2026-09-21 17:28:35",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Meta&#x2019;s stock is enjoying its best month in 13 years thanks to the company&#x2019;s hot new AI assistant",
-    "desc": "Muse is gaining popularity and helping convince investors that Meta&#x2019;s AI bets are paying off.",
-    "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-    "pubDate": "Mon, 21 Sep 2026 17:45:00 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "The future of retirement? Work until you die.",
-    "desc": "The retirement myth has been crumbling for decades",
-    "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-    "pubDate": "Mon, 21 Sep 2026 17:16:00 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "A happier retirement contains these 3 elements",
-    "desc": "Boosting your postwork satisfaction isn&#x2019;t about luck. Here is what experts say actually drives fulfillment in your next chapter.",
-    "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-    "pubDate": "Mon, 21 Sep 2026 17:12:00 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Global leaders urged to join initiative to fight extreme inequality",
-    "desc": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
-    "pubDate": "Fri, 18 Sep 2026 06:00:11 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "ft",
-    "title": "OpenAI joins call for US-led global AI standards",
-    "desc": "Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns",
-    "link": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
-    "pubDate": "Mon, 21 Sep 2026 17:24:34 GMT",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco BulletShares 2027 Corporate Bond ETF declares monthly distribution of $0.0697",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644995-invesco-bulletshares-2027-corporate-bond-etf-declares-monthly-distribution-of-00697?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:58:38 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco BulletShares 2026 Municipal Bond ETF declares monthly distribution of $0.0531",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644994-invesco-bulletshares-2026-municipal-bond-etf-declares-monthly-distribution-of-00531?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:57:16 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco S&P 500 Equal Weight Consumer Discretionary ETF declares quarterly distribution of $0.1316",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644993-invesco-sp-500-equal-weight-consumer-discretionary-etf-declares-quarterly-distribution-of-01316?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:56:42 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco BulletShares 2026 High Yield Corporate Bond ETF declares monthly distribution of $0.0881",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644992-invesco-bulletshares-2026-high-yield-corporate-bond-etf-declares-monthly-distribution-of-00881?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:56:09 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco S&P 500 Equal Weight Communication Services ETF declares quarterly distribution of $0.0999",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644991-invesco-sp-500-equal-weight-communication-services-etf-declares-quarterly-distribution-of-00999?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:55:52 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco BulletShares 2026 Corporate Bond ETF declares monthly distribution of $0.0657",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644990-invesco-bulletshares-2026-corporate-bond-etf-declares-monthly-distribution-of-00657?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:55:20 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Invesco AAA CLO Floating Rate Note ETF declares monthly distribution of $0.0994",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4644989-invesco-aaa-clo-floating-rate-note-etf-declares-monthly-distribution-of-00994?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 21 Sep 2026 13:54:37 -0400",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: Equities Rise Intraday as Chip Stocks Rally",
-    "desc": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-chip-stocks-175229305.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:52:29 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Stock Market Is Flashing a Rare Warning Signal. Here's How History Says Investors Should Prepare.",
-    "desc": "After the stock market's terrific performance in the past decade, it's a good idea for investors to assess the current situation.",
-    "link": "https://www.fool.com/investing/2026/09/21/stock-market-flashing-warning-signal-history-says/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:35:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Schneider (SNDR): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Over the past six months, Schneider has been a great trade, beating the S&P 500 by 17.1%. Its stock price has climbed to $32.62, representing a healthy 33.4% increase. This was partly thanks to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/schneider-sndr-buy-sell-hold-171825656.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:18:25 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Market Indexes Rally as Oil Retreats and Chip Stocks Surge",
-    "desc": "Oil fell back toward $100 and chip stocks went vertical. The S&P 500 is within 1% of a record again.",
-    "link": "https://www.fool.com/investing/2026/09/21/market-indexes-rally-as-oil-retreats/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:11:45 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "15 Stocks Are Booming by 100% or More Thanks to AI — Should You Invest, or Is It Too Late?",
-    "desc": "These 15 AI stocks have surged 100% or more. Find out what's driving the rally and whether investors still have time to profit.",
-    "link": "https://moneylion.com/trending/money/stocks-booming-100-percent-thanks-to-ai-should-you-invest?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:00:25 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Is Bitcoin Up Today?",
-    "desc": "Macro forces are lifting Bitcoin.",
-    "link": "https://www.fool.com/investing/2026/09/21/why-is-bitcoin-up-today/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:51:31 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Prosperity Bancshares (PB): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "While the S&P 500 is up 16.4% since March 2026, Prosperity Bancshares (currently trading at $70.03 per share) has lagged behind, posting a return of 6.1%. This might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/prosperity-bancshares-pb-buy-sell-174225065.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:42:25 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Casella Waste Systems (CWST): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Casella Waste Systems trades at $89.06 and has moved in lockstep with the market. Its shares have returned 14.2% over the last six months while the S&P 500 has gained 16.4%.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/casella-waste-systems-cwst-buy-173425987.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:34:25 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Kemper (KMPR): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Over the past six months, Kemper’s shares (currently trading at $26.50) have posted a disappointing 14.8% loss, well below the S&P 500’s 16.4% gain. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/kemper-kmpr-buy-sell-hold-172625722.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:26:25 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Value Line's Q1 Earnings Down Y/Y on Lower Publishing Revenue",
-    "desc": "VALU's fiscal Q1 earnings decline year over year due to lower publishing revenues, EAM-related income and investment gains.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/value-lines-q1-earnings-down-171600229.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:16:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan",
-    "desc": "VEEV expands its decade-long Amgen partnership with a global Vault CRM rollout, reinforcing enterprise adoption and commercial subscription growth.",
-    "link": "https://finance.yahoo.com/healthcare/articles/veeva-expands-amgen-partnership-global-170400294.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:04:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1st Source (SRCE): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "1st Source’s 26.1% return over the past six months has outpaced the S&P 500 by 9.8%, and its stock price has climbed to $85.89 per share. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1st-source-srce-buy-sell-170225804.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:02:25 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)",
-    "desc": "The Dow Jones index rallies on the stock market today after Treasury Secretary Scott Bessent touts China talks. Nvidia stock climbs.",
-    "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-dow-up%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 17:30:11 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
-    "desc": "A joint AI optical interconnect demo named Lumentum as its author, yet Corning stock is outrunning everyone else in the session, and that inversion tells a story about how the market is repricing the fiber layer of AI infrastructure.",
-    "link": "https://247wallst.com/investing/2026/09/21/corning-climbs-6-as-ai-optical-interconnect-demo-highlights-its-fiber-lumentum-coherent-and-applied-optoelectronics-rise-4/?.tsrc=rss",
-    "pubDate": "Mon, 21 Sep 2026 16:46:52 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "What Do You See Here?",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">What Do You See Here?</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://modernity.news/2026/09/21/what-do-you-see-here/\">Authored by Steve Watson via Modernity News</a>,</em></p> <p><strong>A K-pop star holding a pair of Chuck Taylors was enough. Crop the frame, squint at a star-shaped spotlight, and a Nike subsidiary is suddenly in the business of hoods and hangings, according to disturbed leftists who see racism everywhere.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/shoes_0.jpg?itok=V-sOMwCm\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/shoes_0.jpg?itok=V-sOMwCm\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"fc02cd57-ba55-4472-9b92-36839c314ad1\" data-responsive-image-style=\"inline_images\" height=\"281\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/shoes_0.jpg?itok=V-sOMwCm\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Instead of ignoring the demented behaviour, Converse pulled the image, apologised on cue, and promised to \"do better.\" The people filming themselves crying and torching sneakers got the ritual they wanted.</p> <p><strong>The still came from Converse's Chuck 70 X campaign with Aespa singer Karina, rolled out internationally from late August. She stands inside the brand's five-pointed star, in a long white skirt, holding black high-tops.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">A few black activists online (like actress Yvette Nicole Brown and U.S. Rep. Troy Carter) said that this ad was \"White Supremacy\", so Converse apologized & took it down.<br /> It's a Korean K-Pop girl.<br /> Never apologize to the woke mob.<br /> They're crazy. <a href=\"https://t.co/gkmCwUPYfp\">pic.twitter.com/gkmCwUPYfp</a></p> — Mr Reagan (@MrReaganUSA) <a href=\"https://x.com/MrReaganUSA/status/2101891738617192743?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <p>Online, the crop did the work. Lighting on the fabric became a pointed hood. The shoes became dangling feet. The full picture - an Asian pop star in a logo spotlight - was conveniently left out.</p> <p><strong>Louisiana Democrat (experts on the KKK) Rep. Troy Carter fumed \"Nike and Converse, what the hell were you thinking?Your campaign shows what looks like a hooded Klansman, framed by what appears to be the dangling feet of a lynching victim. There is nothing creative or artistic about it. It is racist, reckless and deeply offensive.\"</strong></p> <p>He went further: \"Black pain is not a marketing prop. Lynching is not a creative concept. The Ku Klux Klan is not an aesthetic.\" He also said repairing the alleged harm would take \"more than an apology written by your public relations department.\"</p> <p><strong>Converse delivered that apology anyway. \"We're sorry,\" the company said. \"We understand why this image is deeply upsetting and recognize that we got this wrong. We removed it from our channels and are working to remove it everywhere it appeared. This should not have happened, and we will do better.\"</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Converse apologizes for shoe ads that critics blasted as evoking the KKK <a href=\"https://t.co/fpi8ITThA7\">https://t.co/fpi8ITThA7</a> <a href=\"https://t.co/rhYhu4niYg\">pic.twitter.com/rhYhu4niYg</a></p> — New York Post (@nypost) <a href=\"https://x.com/nypost/status/2101438558565241275?ref_src=twsrc%5Etfw\">September 19, 2026</a></blockquote> <p>A second campaign - Converse x Palmes, with figures on a ladder reaching shoes near a tree - was dragged into the same pile-on. Two different shoots, one moral script.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">How any American who is remotely educated can look at this horrifying ad & not see a klan hood and the feet of a hanging body...makes me speechless.<br /><br /> I cannot fathom why <a href=\"https://x.com/Converse?ref_src=twsrc%5Etfw\">@Converse</a> would green light something so abhorrent. Lynchings of Black people in the US is NOT ancient history <a href=\"https://t.co/t0fou2Ct4Q\">pic.twitter.com/t0fou2Ct4Q</a></p> — NanaSue ? ?????? (@NanaSueSpeaks) <a href=\"https://x.com/NanaSueSpeaks/status/2101137347966304613?ref_src=twsrc%5Etfw\">September 19, 2026</a></blockquote> <p>Chicago photographer Stephanie Schwartz claimed on Threads: \"Shadow, light, and composition. Every photographer can tell you, whoever did this ad knew EXACTLY what they were doing.\"</p> <p>Replies called it a Rorschach test. One user wrote that an Asian woman holding sneakers \"tells nothing about the picture\" and \"everything about you.\"</p> <p><strong>One X respondent put the optical-illusion case in the open. \"People are demanding mass firings at Converse and Nike over 'blatant racism' in an ad of K-pop star Karina holding a pair of sneakers.\" The account added: \"Look at the photo....It's an Asian woman in a white skirt, standing in a star-shaped spotlight, holding shoes. Some people squint and see a Klan hood and a lynching. That's pareidolia the same thing that makes you see faces in outlets and Jesus in toast.\"</strong></p> <p>Treating an accidental shadow as a \"coordinated hate ritual,\" the post argued, is not justice. It is assuming the worst and then demanding the company prove a negative.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">People are demanding mass firings at Converse and Nike over \"blatant racism\" in an ad of K-pop star Karina holding a pair of sneakers.<br /><br /> The problem is...most of the people who approved this ad ARE LIKELY BLACK!<br /><br /> Look at the photo....It's an Asian woman in a white skirt, standing... <a href=\"https://t.co/tAnKQOcbWv\">https://t.co/tAnKQOcbWv</a> <a href=\"https://t.co/sdjJATulQx\">pic.twitter.com/sdjJATulQx</a></p> — Clerpatriot (@clerpatriot) <a href=\"https://x.com/clerpatriot/status/2101326216305246499?ref_src=twsrc%5Etfw\">September 19, 2026</a></blockquote> <p><strong>Once the crop went viral, the content shifted from captions to performance. People cut logos, painted over stars, dumped new pairs in bins and set them alight.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">NEW: Boycott of Converse has spread among the left-wing woke mob, with some people burning, cutting up, painting over the logo and throwing away the brand's shoes after the company released a new ad for its iconic sneakers.<br /><br /> The campaign featured a female model holding a pair of... <a href=\"https://t.co/N2tDlHQXq9\">pic.twitter.com/N2tDlHQXq9</a></p> — I Meme Therefore I Am ?? (@ImMeme0) <a href=\"https://x.com/ImMeme0/status/2101392073903546861?ref_src=twsrc%5Etfw\">September 19, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">I found even more desperate people manufacturing outrage over Converse, virtue-signaling for clout, and proudly burning and throwing away their shoes. <a href=\"https://t.co/edkiudEorv\">https://t.co/edkiudEorv</a> <a href=\"https://t.co/KdoBZX99qB\">pic.twitter.com/KdoBZX99qB</a></p> — I Meme Therefore I Am ?? (@ImMeme0) <a href=\"https://x.com/ImMeme0/status/2101837729361236163?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Lindsay Clancy fan burns her Converse over an ad TikTok decided is a \"coded message\" from white supremacists<br /><br /> We have a serious mental health crisis <a href=\"https://t.co/dbYVrM9nml\">pic.twitter.com/dbYVrM9nml</a></p> — End Wokeness (@EndWokeness) <a href=\"https://x.com/EndWokeness/status/2101498716620218865?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <p>Another user circulated clips of lunatics weeping over the still, then a follow-up of a woman binning brand-new Chucks. \"When normal people look at the ad all they see is a girl holding a pair of shoes,\" the account wrote.</p> <p>\"When woke black people who have a constant need to play victim about something look at the ad they see a Klan member lynching a black a man.\" A later update noted \"woke whites have joined the party.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">WOW ?<br /><br /> Black Liberals are filming themselves crying over the new converse ad that they have now deemed as racist??<br /><br /> In their never ending quest to be victims of nonexistent racism they've now resorted to flipping through ads looking for something to be offended by.<br /><br /> When normal... <a href=\"https://t.co/G7K7tPvbgp\">pic.twitter.com/G7K7tPvbgp</a></p> — Cinema Shogun (@CinemaShogun) <a href=\"https://x.com/CinemaShogun/status/2101439151757267051?ref_src=twsrc%5Etfw\">September 19, 2026</a></blockquote> <p><strong>Not every Black voice played along. One woman said the fatigue was real and the boycott was theatre. \"When will this nonsense stop? It's out of control. We are tired. So burn your Converse, cancel Converse, cancel Nike. Nobody cares.\" She praised the ad and said the company should not have apologised.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Black woman slams the woke mob over the backlash against Converse, saying the fatigue is real and nobody cares about their boycott.<br /><br /> She praises the ad and says the company shouldn't have apologized. She adds that people can boycott the brand all they want, but companies will... <a href=\"https://t.co/edkiudEorv\">https://t.co/edkiudEorv</a> <a href=\"https://t.co/OlQIufGZWF\">pic.twitter.com/OlQIufGZWF</a></p> — I Meme Therefore I Am ?? (@ImMeme0) <a href=\"https://x.com/ImMeme0/status/2101501409220841826?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Has anyone checked on this K-pop star Karina after she has been dragged all over the internet for the Converse ad???<br /><br /> She probably thought she booked an adorable Converse campaign that would open doors and bring her more money...<br /><br /> Instead, the American left has cropped her ad,... <a href=\"https://t.co/woGUOot8xG\">pic.twitter.com/woGUOot8xG</a></p> — Clerpatriot (@clerpatriot) <a href=\"https://x.com/clerpatriot/status/2101743273358598157?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">If you looked at that Converse ad and saw a KKK hood, you need to log off and touch grass <a href=\"https://t.co/yAuaCYjMSE\">https://t.co/yAuaCYjMSE</a></p> — Clown World ™ ? (@ClownWorld) <a href=\"https://x.com/ClownWorld/status/2101788244228952491?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Karina did nothing wrong with this Converse ad.<br /><br /> If you looked at this and saw a KKK ad, you're psychotic and need to be checked into a mental asylum. <a href=\"https://t.co/1moVP3flzI\">pic.twitter.com/1moVP3flzI</a></p> — Kangmin Lee | ??? (@kangminlee) <a href=\"https://x.com/kangminlee/status/2101817251225575634?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Karina and SM Entertainment did not immediately respond to press queries. The singer is now attached to a controversy designed in social media feeds, not Seoul studios.</p> <p><strong>Bloomberg later obtained an internal memo from Converse CEO Aaron Cain. \"The images should not have been used, and we began removing them from all channels as soon as the concern was raised,\" he told staff. \"The leadership team and I are taking a hard look at our internal review process and the critical lens we apply to our work.\" Cain did not spell out the changes.</strong></p> <p>The timing is ugly for a reason that has nothing to do with hoods. Converse has been one of Nike's stubborn weak spots through a long run of falling sales. A brand that cannot ship growth now cannot ship a star-shaped light without a struggle session. Calls for firings and boycotts filled the replies.</p> <p>There is a difference between historical memory and a bizarre hunt for racist shapes in fabric. One is serious. The other is manufactured content. Converse chose the audience that treats every shadow as a manifesto. The rest of the country still sees a girl holding sneakers.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T17:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 13:00</span>",
-    "link": "https://www.zerohedge.com/political/what-do-you-see-here",
-    "pubDate": "Mon, 21 Sep 2026 17:00:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "SoftBank To Sell $11 Billion In Junk Bonds At Soaring Yields To Fund OpenAI Investments",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">SoftBank To Sell $11 Billion In Junk Bonds At Soaring Yields To Fund OpenAI Investments</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>It's only appropriate that just hours after we published an <a href=\"https://www.zerohedge.com/markets/inside-bottomless-pit-definitive-look-trillions-debt-funding-ai-supercycle\">extensive report looking </a>at the trillions in debt funding the AI supercycle - which just this year stands at $568bn, of which $259bn issued in IG, followed by $256bn across Private Credit, Direct Lending, and other bilateral/non-syndicated lending (for SPVs and infrastructure finance), another $40bn for HY and $11bn for institutional loans...</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/YTD%20total%20AI%20issuance_0.jpg?itok=beEgQYVh\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/YTD%20total%20AI%20issuance_0.jpg?itok=beEgQYVh\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"2a86b474-9147-4504-b972-ee9ee0f89fa8\" data-responsive-image-style=\"inline_images\" height=\"369\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/YTD%20total%20AI%20issuance_0.jpg?itok=beEgQYVh\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>... that <strong>SotBank launched what Bloomberg dubbed \"one of the biggest junk bond deals ever\", as the Japanese conglomerate seeks the equivalent of more than $11 billion in high yield debt as Masayoshi Son’s </strong>conglomerate ramps up its investments in ChatGPT creator OpenAI. </p> <p>If SoftBank sells about $11 billion in debt it would be one of the largest junk bond sales ever by a single firm, excluding distressed debt exchanges. The near-record offering would come in 5 tranches: <strong>the company is looking to issue $10 billion of dollar securities across three tenors, and €1 billion ($1.1 billion) of euro debt across two maturities, according to BBG sources. </strong></p> <p>The proceeds from the debt sale will be used to fund a follow-on investment in OpenAI expected to close next month as well as general corporate purposes; the deal is expected to price as soon as Thursday, depending on demand. </p> <p>One of the world’s largest investors in AI, SoftBank’s fortunes have become increasingly intertwined with its ability to monetize its holding in OpenAI after committing close to $65 billion to the tech pioneer. That’s put Son’s firm at the epicenter of debt-fueled bets on artificial intelligence, at a time when safety concerns about the industry have flared.</p> <p>SoftBank and its lead banks are sounding out investors on potential pricing for the proposed junk bond sale, offering an early glimpse of roughly how much the conglomerate may pay for the deal. All discussions are early stage and figures could change.</p> <p>The table below shows the indicative prices that SoftBank is feeling out with investors, though such initial price guidance has yet to be discussed and could wind up differing from these earlier discussions based on investor feedback:</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/softbank%20junk%20bond%20issuance.png?itok=-ipZgtwV\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/softbank%20junk%20bond%20issuance.png?itok=-ipZgtwV\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"c75ee730-08e6-4237-bb2b-5d3862f6c138\" data-responsive-image-style=\"inline_images\" height=\"137\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/softbank%20junk%20bond%20issuance.png?itok=-ipZgtwV\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><strong>Those yields would all be records for SoftBank in those specific currencies and tenors if priced at those levels, </strong>according to data compiled by Bloomberg, though details in corporate note offerings often change before they are actually priced.</p> <p>As Bloomberg notes, the latest deal adds to a flurry of recent activity by SoftBank, as it builds out its artificial intelligence financing capacity. <strong>The conglomerate entered into a $40 billion bridge loan in March to fund an additional investment in OpenAI, and recently repaid the outstanding balance of $25.9 billion on that facility.</strong></p> <p>SoftBank closed out last week with nearly $21 billion in potential fresh borrowings. The group increased a margin loan backed by shares of its chip unit Arm Holdings by $5 billion to $25 billion, people familiar with the matter said on Friday. And it recently secured an additional $450 million to an existing credit line, bringing the total to $6.5 billion.</p> <p>In short, if OpenAi goes down it is absolutely dragging SoftBank with it. </p> <p>Apollo Global is also in talks to boost the size of a loan to SoftBank by $3.6 billion to $9 billion to help it finance its investment in AI giant OpenAI. On top of that, the firm founded and led by billionaire Masayoshi Son secured an $11.87 billion loan, also to support its OpenAI investment. </p> <p>As part of its funding campaign this year, SoftBank has sold almost $15 billion of notes across currencies, making it the biggest junk-rated borrower in bond markets so far in 2026, Bloomberg-compiled data show. There was also a $10 billion loan earlier this year backed by its OpenAI stake.</p> <p>The deals come amid a broader increase across markets in borrowing costs, as most major economies grapple with inflation. The yield on SoftBank’s dollar bond maturing in 2031 climbed to 8.2% earlier this month, up from as low as 6.7% in January, as spreads have blown out and underlying Treasury yields have risen.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/soft%20bank%20bonds.png?itok=mcWoyv-I\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/soft%20bank%20bonds.png?itok=mcWoyv-I\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"c6b1bd49-c5e0-4161-8977-9576b4f14387\" data-responsive-image-style=\"inline_images\" height=\"278\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/soft%20bank%20bonds.png?itok=mcWoyv-I\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Recent calls by heads of some of the world’s biggest artificial intelligence platforms, including OpenAI, to slow AI advances on safety concerns, have introduced another layer of uncertainty. <strong>That contributed recently to an increase in the cost to insure SoftBank’s debt against default to the highest in three years. </strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/softbank%205yr%20cds.png?itok=K5q7T4D8\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/softbank%205yr%20cds.png?itok=K5q7T4D8\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"e55200e6-601a-4b0f-a7d1-d1f493e6ae1b\" data-responsive-image-style=\"inline_images\" height=\"278\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/softbank%205yr%20cds.png?itok=K5q7T4D8\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>In another hit to SoftBank, OpenAI CEO Sam Altman’s remarked that the company won’t go public this year - a move that would increase the liquidity of SoftBank’s investments - have been closely watched by investors. </p> <p>Citigroup Inc. is acting as the lead bookrunner and a joint global coordinator, alongside Goldman Sachs Group, JPMorgan Chase & Co. and Morgan Stanley for dollar tranches. JPMorgan is the lead bookrunner for the euro-denominated notes and among the joint global coordinators, together with Goldman Sachs and Deutsche Bank.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T16:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 12:40</span>",
-    "link": "https://www.zerohedge.com/markets/softbank-sell-11-billion-junk-bonds-soaring-yields-fund-openai-investments",
-    "pubDate": "Mon, 21 Sep 2026 16:40:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Fertilizer Stocks Tumble As Trump Says \"Working On Massive\" Belarus Potash Deal",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Fertilizer Stocks Tumble As Trump Says \"Working On Massive\" Belarus Potash Deal</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>\"<strong>The United States is working on a massive Deal with respect to the purchase of Potash from Belarus</strong>,\" President Trump wrote on Truth Social just before 11 a.m. ET.</p> <p>Trump continued, \"<strong>The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ranchers</strong>.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-21_11-03-08.png?itok=qGmcMTsK\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-21_11-03-08.png?itok=qGmcMTsK\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"59e8d262-d69a-45ff-af7d-1abf4792d523\" data-responsive-image-style=\"inline_images\" height=\"232\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2026-09-21_11-03-08.png?itok=qGmcMTsK\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The <strong>immediate market impact</strong>: Intrepid Potash, CF Industries, and Mosaic shares fell to session lows.</p> <p><strong>Intrepid Potash: -4.6%</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_d3484d7.png?itok=4sTxr0AX\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_d3484d7.png?itok=4sTxr0AX\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"a5b12d97-77c5-46a7-91ae-6f6d8e90e416\" data-responsive-image-style=\"inline_images\" height=\"269\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_d3484d7.png?itok=4sTxr0AX\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><strong>CF Industries: -3.5%</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_d3477d7.png?itok=ymf6YiSt\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_d3477d7.png?itok=ymf6YiSt\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"25bb8a00-05b4-41a3-abec-0168d86a85ec\" data-responsive-image-style=\"inline_images\" height=\"277\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_d3477d7.png?itok=ymf6YiSt\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><strong>Mosaic: -4.5%</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/Snag_d34f0c0.png?itok=mw-a7HM7\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/Snag_d34f0c0.png?itok=mw-a7HM7\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"d7f58295-5969-46f1-b018-00f7c6ea5736\" data-responsive-image-style=\"inline_images\" height=\"276\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_d34f0c0.png?itok=mw-a7HM7\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>The move follows Trump <a href=\"https://www.zerohedge.com/political/canada-us-trade-war-erupts-setting-new-50-tariffs-canadian-goods\">slapping 50% tariffs on some Canadian goods</a> last month after the US and Canada failed to reach a last-minute trade deal. However, the levies included significant exemptions for major Canadian imports such as oil, gas, and potash. </p> <p>However, earlier, Russian news agency Interfax quoted Belarusian President Alexander Lukashenko as saying his country lacks the capacity to supply potash fertlizer to the West. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T16:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 12:20</span>",
-    "link": "https://www.zerohedge.com/commodities/fertilizer-stocks-tumble-trump-say-working-massive-belarus-potash-deal",
-    "pubDate": "Mon, 21 Sep 2026 16:20:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Bessent Hails \"Very Successful\" China Talks As Trump-Xi Summit Puts AI, Rare Earths And Energy On The Table",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Bessent Hails \"Very Successful\" China Talks As Trump-Xi Summit Puts AI, Rare Earths And Energy On The Table</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Treasury Secretary Scott Bessent emerged from roughly eight hours of talks with Chinese Vice Premier He Lifeng in New York on Sunday calling the meeting \"very successful,\"</strong> with Washington and Beijing agreeing to new mechanisms covering trade and artificial intelligence just days before President Donald Trump hosts Chinese leader Xi Jinping in Washington.</p> <a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/108365603-1789995023289-108365603-1789994947985-gettyimages-2295829666-Photo_Flash__China_US_start_economic_trade_consultations_in_New_York_80.jpg?itok=o-Vqb7ye\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/108365603-1789995023289-108365603-1789994947985-gettyimages-2295829666-Photo_Flash__China_US_start_economic_trade_consultations_in_New_York_80.jpg?itok=o-Vqb7ye\"><picture><figure role=\"group\" class=\"caption caption-img inline-images image-style-inline-images\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d4cb1978-e20b-4529-8055-eedfdc049411\" data-responsive-image-style=\"inline_images\" height=\"281\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/108365603-1789995023289-108365603-1789994947985-gettyimages-2295829666-Photo_Flash__China_US_start_economic_trade_consultations_in_New_York_80.jpg?itok=o-Vqb7ye\" typeof=\"foaf:Image\" width=\"500\" /><figcaption><em>Chinese Vice Premier He Lifeng, also a member of the Political Bureau of the Communist Party of China Central Committee, shakes hands with U.S. Treasury Secretary Scott Bessent, Sept. 20, 2026. Bai Xueqi/ | Xinhua News Agency | Getty Images</em></figcaption></figure></picture></a> <p>The <a href=\"https://www.theepochtimes.com/china/top-us-china-trade-negotiators-meet-in-new-york-ahead-of-trump-xi-summit-6092510\">talks</a>, held at JPMorgan Chase headquarters, were intended to lay the groundwork for the Trump-Xi summit later this week. Working-level discussions are continuing as the two sides try to lock down whatever can be agreed before the leaders meet.</p> <p>On paper, the immediate deliverables were relatively modest. In practice, the timing is anything but.</p> <p>The two sides agreed to establish a <strong>U.S.-China AI dialogue</strong>, with Washington proposing a notification mechanism for AI incidents serious enough to reach the national-security level. Bessent framed the concept as an effort to move the world's two leading AI powers from opacity toward greater transparency and establish some common understanding of threats.</p> <p>As we <a href=\"https://www.zerohedge.com/geopolitical/upcoming-trump-xi-summit-really-ai-summit\">noted</a> Friday, <strong>artificial intelligence was already emerging as one of the summit's most consequential issues, sitting alongside trade, semiconductors, Taiwan and rare earths.</strong> The two governments also moved to operationalize the previously proposed <strong>Board of Trade</strong>. U.S. Trade Representative Jamieson Greer said negotiators are looking for baskets of \"non-sensitive\" goods that could potentially be treated separately from future trade restrictions. Washington is considering lower-tech Chinese consumer goods, while Beijing is looking at U.S. energy, agricultural products and potentially medical devices.</p> <p><strong>There was no announced breakthrough, however, on some of the much larger outstanding disputes, including Chinese rare-earth flows, additional purchases of U.S. agricultural goods or Boeing aircraft.</strong> Advanced AI-chip export restrictions were also not part of Sunday's AI discussion.</p> <p>Perhaps more revealing was how little Beijing itself said about AI. Xinhua described the talks as \"candid, in-depth and constructive\" before relegating the subject to the final sentence of its brief <a href=\"https://english.news.cn/20260921/bd00796c6bba4e29a342787fd51a5c36/c.html\">readout</a>: <strong>\"They also held dialogues on AI-related issues.\"</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Chinese state media Xinhua has a very brief report on the Bessent and He Lifeng meeting in New York.<br /><br /> AI only mentioned in last line: “They also held dialogues on AI-related issues.” <a href=\"https://t.co/HsUQmdujJ3\">pic.twitter.com/HsUQmdujJ3</a></p> — Kyle Chan (@kyleichan) <a href=\"https://x.com/kyleichan/status/2102021856085582291?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>But Xi is also heading to Washington against a considerably different geopolitical backdrop than the one surrounding Trump's May visit to Beijing.</strong></p> <p>For starters, two of China's most attractive sources of discounted crude have been sharply constrained. <strong>Venezuela had become an important supplier of cheap heavy crude to Chinese refiners,</strong> but those flows fell dramatically after Washington's intervention in the country's oil trade earlier this year. As we <a href=\"https://www.zerohedge.com/energy/chinese-oil-firms-turn-iran-replace-venezuelan-crude\">noted</a> at the time, Chinese refiners initially compensated by increasing purchases of heavily discounted Iranian barrels.</p> <p>Meanwhile, the renewed U.S. campaign against Iran's oil exports disrupted shipments to Asia and left tens of millions of barrels in transit or floating storage. As we <a href=\"https://www.zerohedge.com/commodities/63-million-barrels-iranian-oil-stuck-sea-after-us-pulls-iran-sanction-waiver\">reported</a> in July, roughly 63 million barrels of Iranian crude were at one point either moving or idling aboard tankers as sanctions pressure intensified. <strong>That does not mean China is running out of oil.</strong> Beijing accumulated large inventories and can source replacement barrels elsewhere, but <strong>the combination of reduced Venezuelan flows and disrupted Iranian supply has diminished some of the cheap-energy advantage Chinese refiners previously enjoyed.</strong></p> <p>Russia can fill part of that gap, but its own energy infrastructure remains under pressure from Ukrainian long-range attacks on refineries, export terminals and storage facilities. Earlier this month, Goldman <a href=\"https://www.zerohedge.com/commodities/ukrainian-kamikaze-drone-attacks-slash-russian-refining-capacity\">estimated</a> that the attacks had taken roughly 300,000 barrels per day of Russian refining capacity offline during August and early September. <strong>China has also encountered setbacks around another strategic chokepoint</strong>. Panama's Supreme Court voided Hong Kong-based CK Hutchison's concessions to operate the Balboa and Cristobal ports at opposite ends of the Panama Canal. As we <a href=\"https://www.zerohedge.com/geopolitical/chinese-contract-panama-canal-ruled-unconstitutional-win-trumps-donroe-doctrine\">noted</a> in January, the ruling stripped the legal basis from a China-linked operator at two port facilities adjoining one of the world's most important shipping routes.</p> <p>Then there is Greenland. Washington announced Friday that it had reached a security agreement intended to guarantee a long-term U.S. role on the island while preventing Russia, China and other non-NATO countries from establishing military bases there. The arrangement <a href=\"https://www.zerohedge.com/geopolitical/late-friday-trump-bombshell-us-makes-deal-permanent-control-over-greenlands-security\">would strengthen</a> the U.S. position in an Arctic region that both Washington and Beijing increasingly view as strategically important. On Monday, <strong>Denmark confirmed that the Trump-Greenland deal <a href=\"https://www.reuters.com/world/europe/denmark-says-nato-shares-responsibility-arctic-security-under-greenland-deal-2026-09-21/\">would boos</a>t arctic security</strong>. </p> <p><strong>The political landscape across parts of Latin America has shifted as well.</strong> Reuters described Colombia's June election of Abelardo De La Espriella as part of a broader regional movement to the right that has also included Argentina, Chile, Ecuador, Bolivia, Panama and Peru.</p> <p>Brazil is now the major unresolved contest. As we <a href=\"https://www.zerohedge.com/political/right-wing-bolsonaro-overtakes-socialist-lula-polymarket-brazil-election-nears\">noted</a> last week, Polymarket pricing recently moved in favor of Senator Flavio Bolsonaro over President Luiz Inacio Lula da Silva. Prediction-market prices are not opinion polls, however, and Monday's BTG Pactual/Nexus survey showed Lula at 46% and Bolsonaro at 45% in a hypothetical runoff, within the survey's margin of error.</p> <p>Markets, meanwhile, entered the weekend already showing signs of pressure. According to <a href=\"https://www.newsquawk.com/headlines/treasury-wrap-t-note-futures-z6-settle-11-ticks-lower-at-105-26\">Newsquawk</a>, the U.S. 10-year Treasury yield closed Friday 6.5bps higher at 5.004%, while the two-year rose 7.5bps to 4.745%, producing a modest bear flattening of the curve.</p> <p><strong>Yet Xi is hardly arriving in Washington without leverage of his own.</strong></p> <p><strong>China still controls roughly 70% of global rare-earth mining and more than 85% of refining capacity</strong>, leaving Beijing with substantial influence over supply chains critical to U.S. autos, semiconductors, aerospace and defense. As we <a href=\"https://www.zerohedge.com/commodities/yttrium-emerges-resource-war-flashpoint-beijing-squeezes-western-supply-chains\">noted</a> this weekend, disrupted Chinese yttrium shipments alone have already forced Western aerospace, energy and semiconductor companies to scramble for alternatives. Beijing also retains enormous manufacturing capacity, large accumulated energy inventories and considerable purchasing power over everything from American agricultural commodities to aircraft.</p> <p><strong>In other words, Thursday's summit is taking shape less as a grand reconciliation than an attempt by two heavily intertwined rivals to fence off portions of the relationship before the next confrontation.</strong></p> <p><strong>Washington arrives with greater influence over Venezuelan oil flows, intensified pressure on Iran's exports, a strengthened strategic position around Greenland and reduced China-linked influence around the Panama Canal,</strong> while the political map across portions of Latin America has changed considerably.</p> <p><strong>Beijing arrives with its own formidable counters: dominant critical-mineral supply chains</strong>, a resilient manufacturing and export base, substantial energy reserves and enormous leverage as a buyer of U.S. goods. Oh, and let's not forget - <strong>open-weight AI models that have completely upended the frontier AI <em>model</em>. </strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T16:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 12:00</span>",
-    "link": "https://www.zerohedge.com/geopolitical/bessent-hails-very-successful-china-talks-trump-xi-summit-puts-ai-rare-earths-and",
-    "pubDate": "Mon, 21 Sep 2026 16:00:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Denmark Confirms Trump-Greenland Deal Would Boost Arctic Security",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Denmark Confirms Trump-Greenland Deal Would Boost Arctic Security</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/world/denmark-signals-trump-greenland-deal-would-boost-arctic-security-6092567?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Jack Phillips via The Epoch Times</a>,</em></p> <p><strong>A top Danish official said on Sept. 19 that an agreement announced by U.S. President Donald Trump for the United States to handle security for Greenland would lead to a better outcome in the region.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image%20-%202026-09-21T080731.130.jpg?itok=L3hj1NiA\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image%20-%202026-09-21T080731.130.jpg?itok=L3hj1NiA\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"224202d0-617f-4a81-82f4-1b909130716e\" data-responsive-image-style=\"inline_images\" height=\"333\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/image%20-%202026-09-21T080731.130.jpg?itok=L3hj1NiA\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p>Both Denmark and Greenland, an autonomous island that is Danish territory, expressed hope that the deal would end any uncertainty regarding the island's security.</p> <p>On Sept. 19, Danish Foreign Minister Lars Lokke Rasmussen said that the deal between Denmark, Greenland, and the United States could be signed this week, which comes as foreign delegations head to New York City for the U.N. General Assembly.</p> <p><em><strong>\"Next week could be a good week - for Greenland, Denmark, and the USA alike,\"</strong> he said in a statement posted to social media. </em></p> <p><em>\"<strong>A time of uncertainty will hopefully give way to a binding agreement that strengthens security in the Arctic and the North Atlantic - and thereby our shared security within NATO and Europe - while respecting the Kingdom's red lines.</strong></em></p> <p><em>\"This is important at a time when the security landscape, including in the Arctic, has changed.\"</em></p> <p>Greenlandic Prime Minister Jens-Frederik Nielsen said in a statement last week that the proposed deal \"<strong>recognizes the sovereignty and territorial integrity of our Kingdom and the right of the Greenlandic people to self-determination.</strong>\"</p> <p>Danish Prime Minister Mette Frederiksen indicated that the deal would provide a favorable outcome for Greenland's residents.</p> <p>\"[It is] an agreement that at the same time recognizes the sovereignty and territorial integrity of the Kingdom and the right of the Greenlandic people to self-determination,\" Frederiksen said in a statement.</p> <p>Trump on Sept. 18 wrote on Truth Social that the United States, under the deal, would be <a href=\"https://www.theepochtimes.com/us/trump-announces-us-will-have-permanent-control-over-greenlands-security-6090909?utm_source=partner&utm_campaign=ZeroHedge\">responsible</a> for security over Greenland, an Arctic island in the North Atlantic, on a permanent basis.</p> <p>\"<strong>At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America,</strong>\" Trump said.</p> <p>As part of the deal, no U.S. adversary such as China or Russia would be able to have a base in Greenland, U.S. Secretary of State Marco Rubio said in a Fox News interview.</p> <p>Trump also wrote that the United States will now start the process of implementing a military presence around Greenland and will work with residents of the island on its development. Previous U.S. presidents were aware of Greenland's strategic importance, he added.</p> <p>With his return to the White House in 2025, Trump initially called on Denmark to sell the island to the United States and said Greenland is crucial to U.S. security, which prompted criticism from European Union leaders and individual nations. At one point, <strong>Trump warned that Denmark could face a 25 percent import tax on goods unless it ceded the island to U.S. control.</strong></p> <p>Denmark and Greenland repeatedly stated that the island is not for sale, even as Trump said the island is needed to deal with military threats posed by Russia and China.</p> <p>Last March, Vice President JD Vance visited American troops at the Pituffik Space Base in northwestern Greenland, where he argued that Denmark was failing to protect and invest in the island amid Russian and Chinese threats.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T15:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 11:40</span>",
-    "link": "https://www.zerohedge.com/geopolitical/denmark-confirms-trump-greenland-deal-would-boost-arctic-security",
-    "pubDate": "Mon, 21 Sep 2026 15:40:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "US Shipment Of F-35s Goes MIA In Shocking Detour To Hong Kong",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">US Shipment Of F-35s Goes MIA In Shocking Detour To Hong Kong</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://headlineusa.com/us-shipment-of-f-35s-goes-mia-in-shocking-detour-to-hong-kong/\">Authored by Luis Cornelio via Headline USA</a>,</em></p> <p>Lawmakers and the Trump administration are investigating the odd disappearance of a U.S.-bound shipment of F-35 fighter jet components from Australia, which were originally meant to be repaired on U.S. soil, according to new reporting by Politico.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/f35s_2.jpg?itok=PX7q4URK\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/f35s_2.jpg?itok=PX7q4URK\"><picture><img data-entity-type=\"file\" data-entity-uuid=\"f37761bd-db5f-4f34-8f1f-a3c7001b713c\" data-responsive-image-style=\"inline_images\" height=\"332\" width=\"500\" class=\"inline-images image-style-inline-images\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/f35s_2.jpg?itok=PX7q4URK\" alt=\"\" typeof=\"foaf:Image\" /></picture></a></p> <p><strong>The report, <a href=\"https://www.politico.com/news/2026/09/18/congress-f-35-china-investigation-01083647\">published</a> Friday and citing three anonymous sources, noted that an intermediary was transporting the equipment on behalf of American defense manufacturer Lockheed Martin through the Pacific Ocean before it was diverted to Hong Kong.</strong></p> <p>The three unnamed sources suggested that neither the Pentagon nor Lockheed Martin knows why the shipment ended up in Hong Kong.</p> <p>The current whereabouts of the components remain unknown, triggering concerns over whether China may have gotten its hands on them.</p> <p>China, which has tightened its control of Hong Kong in recent years, has long sought to gather intelligence on the F-35 program.</p> <p>The missing components were part of the F-35 Lightning II, which Lockheed Martin <a href=\"https://www.f35.com/f35/index.html\">describes</a> on its website as the \"most lethal, survivable, and connected fighter aircraft\" for America and its allies.</p> <p><strong>Specifically, among the missing items is an F-35 canopy, a major part of the fighter jet that contains sensitive technology, according to Politico.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🚨🚨SCOOP: A shipment of F-35 fighter jet parts was rerouted to Hong Kong this summer - then vanished.<br /><br /> Congress and DOD are investigating, amid the possibility that China may now have access to the highly-classified program.<br /><br /> W/ <a href=\"https://x.com/audrey_decker9?ref_src=twsrc%5Etfw\">@audrey_decker9</a><a href=\"https://t.co/u5Ip309Ke9\">https://t.co/u5Ip309Ke9</a></p> — Mark Satter (@marksatter) <a href=\"https://x.com/marksatter/status/2100980744919089568?ref_src=twsrc%5Etfw\">September 18, 2026</a></blockquote> <p>The U.S. Government Accountability Office <a href=\"https://www.gao.gov/products/gao-26-108113\">has called</a> the F-35 the \"most costly weapon system\" in the U.S. military, and the Pentagon has already spent between $200 billion and $250 billion on the program, according to estimates.</p> <p>The State Department and the Pentagon reportedly briefed lawmakers on the matter in June, the report added.</p> <p><strong>In a statement, the Pentagon office responsible for the F-35 jets said it was \"aware of a shipment issue of unserviceable F-35 Lightning II components.\"</strong></p> <p>The military office said an investigation is underway to retrieve the missing components and determine what happened.</p> <p>Headline USA reached out to the office for further clarification but did not receive a response in time for publication.</p> <p><strong>Lockheed Martin, for its part, declined to provide information on the matter, citing security reasons, Politico noted.</strong></p> <p><em>\"Our teams handle every shipment with the utmost diligence and safeguards to ensure the integrity of the F-35 program and the security of our allied partners,\" the company said.</em></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">We asked an F-35 pilot to describe the jet in one word.<br /><br /> His answer: sneaky. 👀<br /><br /> But behind that word is a lot of 5th Gen capability: stealth, advanced sensors and the information pilots need to stay ahead when the mission demands it. <a href=\"https://t.co/QrmfBunlwt\">pic.twitter.com/QrmfBunlwt</a></p> — F-35 Lightning II (@thef35) <a href=\"https://x.com/thef35/status/2075278901010444412?ref_src=twsrc%5Etfw\">July 9, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-21T15:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 09/21/2026 - 11:05</span>",
-    "link": "https://www.zerohedge.com/military/us-shipment-f-35s-goes-mia-shocking-detour-hong-kong",
-    "pubDate": "Mon, 21 Sep 2026 15:05:00 +0000",
-    "fetchedAt": "2026-09-21T18:01:29.300Z"
   }
 ]
