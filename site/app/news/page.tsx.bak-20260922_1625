@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { getLiveNews, getNewsMeta, getNews, SOURCE_NAMES, formatNewsDate } from "@/lib/data";
+import { getNews, getNewsMeta, SOURCE_NAMES, formatNewsDate } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -23,8 +22,7 @@ function timeAgo(iso: string): string {
 }
 
 export default function NewsPage() {
-  const news = getLiveNews() ?? [];
-  const total = (getNews() ?? []).length;
+  const news = getNews() ?? [];
   const meta = getNewsMeta();
 
   return (
@@ -36,13 +34,11 @@ export default function NewsPage() {
         </h1>
         <p className="text-[var(--dim)] max-w-[620px] mt-3">
           Aggregated from {meta?.fetched ?? 0} financial sources. If major news breaks,
-          it lands here within the hour. This is the latest {news.length} items — the full{" "}
-          <Link href="/news/archive" className="text-[var(--blue)] underline">archive</Link> is grouped by day.
+          it lands here within the hour.
         </p>
         <div className="mt-4 flex gap-6 text-[12px] text-[var(--faint)]">
           <span>Last refresh <b className="text-[var(--ink)]">{meta?.lastRun ? timeAgo(meta.lastRun) : "—"}</b></span>
-          <span>Showing <b className="text-[var(--ink)]">{news.length}</b></span>
-          <span>All-time <b className="text-[var(--ink)]">{total}</b></span>
+          <span>Items <b className="text-[var(--ink)]">{news.length}</b></span>
         </div>
       </section>
 

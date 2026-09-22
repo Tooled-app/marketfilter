@@ -9,6 +9,7 @@ const NAV = [
   { href: "/news", label: "News" },
   { href: "/stories", label: "Stories" },
   { href: "/filings", label: "Filings" },
+  { href: "/news/archive", label: "Archive" },
 ];
 
 const TICKERS: [string, number, number][] = [

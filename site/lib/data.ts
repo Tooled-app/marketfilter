@@ -73,6 +73,54 @@ export function getNews(): NewsItem[] {
   return readJson<NewsItem[]>(path.join(DATA_DIR, "news.json")) ?? [];
 }
 
+/**
+ * News sorted newest-first by pubDate. pubDate is an RSS/date string
+ * (e.g. "Tue, 22 Sep 2026 14:27:16 GMT"); parse to epoch for ordering.
+ */
+export function getNewsSorted(): NewsItem[] {
+  const items = getNews();
+  return items
+    .map((n) => ({
+      n,
+      t: n.pubDate ? new Date(n.pubDate).getTime() : 0,
+    }))
+    .filter((x) => !isNaN(x.t))
+    .sort((a, b) => b.t - a.t)
+    .map((x) => x.n);
+}
+
+export const LIVE_FEED_LIMIT = 100;
+
+/**
+ * The live feed: newest news, capped to a manageable count.
+ * Everything older is reachable via /news/archive (grouped by day).
+ */
+export function getLiveNews(limit: number = LIVE_FEED_LIMIT): NewsItem[] {
+  return getNewsSorted().slice(0, limit);
+}
+
+/** Only the most recent N days of news (for the archive index grouping). */
+export function getRecentNews(days: number = 2): NewsItem[] {
+  const cutoff = Date.now() - days * 86400000;
+  return getNewsSorted().filter((n) => {
+    const t = n.pubDate ? new Date(n.pubDate).getTime() : NaN;
+    return !isNaN(t) && t >= cutoff;
+  });
+}
+
+/** Group a pubDate into a day key (YYYY-MM-DD) and a label (e.g. "Monday 22 Sep 2026"). */
+export function dayKey(pubDate: string): string {
+  const d = new Date(pubDate);
+  if (isNaN(d.getTime())) return "unknown";
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
+export function dayLabel(pubDate: string): string {
+  const d = new Date(pubDate);
+  if (isNaN(d.getTime())) return "Unknown";
+  return d.toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+}
+
 export function getNewsMeta(): NewsMeta | null {
   return readJson<NewsMeta>(path.join(DATA_DIR, "news-meta.json"));
 }
