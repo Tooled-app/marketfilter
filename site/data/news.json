@@ -1,6 +1,422 @@
 [
   {
     "source": "cnbc",
+    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+    "desc": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
+    "link": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+    "pubDate": "Tue, 22 Sep 2026 18:28:28 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+    "desc": "\"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work,\" Bessent said.",
+    "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+    "pubDate": "Tue, 22 Sep 2026 18:37:31 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts",
+    "desc": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
+    "link": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+    "pubDate": "Tue, 22 Sep 2026 18:51:44 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
+    "desc": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump told the UN leaders.",
+    "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+    "pubDate": "Tue, 22 Sep 2026 19:00:39 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
+    "desc": "Alibaba shares jumped 3% in Hong Kong on Tuesday as the tech giant unveiled a new AI chip and plans to sharply expand its global data center capacity",
+    "link": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+    "pubDate": "Tue, 22 Sep 2026 05:15:21 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Rising fuel prices 'cost tow truck business £10k'",
+    "desc": "A business says fuel duty will need to be cut by 30p to 50p per litre to help.",
+    "link": "https://www.bbc.co.uk/news/articles/cxp845vnpv27o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 05:24:01 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Soaring fuel costs hit small businesses",
+    "desc": "It comes as fuel prices reach their highest since 2022, driven by conflict in the Middle East.",
+    "link": "https://www.bbc.co.uk/news/articles/c8qlwp7q9662o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 05:05:41 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Winter support planned for vulnerable residents",
+    "desc": "People could be eligible for awards of between £150 to £250, depending on their circumstances.",
+    "link": "https://www.bbc.co.uk/news/articles/c3lyrpxeepdgo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 05:04:56 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Twilio stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-twilio-stock-surging-today-93CH-4911475",
+    "pubDate": "2026-09-22 18:49:02",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "IMF to help Ukraine find some funds for next year, Zelenskiy says",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/imf-to-help-ukraine-find-some-funds-for-next-year-zelenskiy-says-4911474",
+    "pubDate": "2026-09-22 18:48:52",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "US wants another $30 billion for aviation system upgrades",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-wants-another-30-billion-for-aviation-system-upgrades-4911372",
+    "pubDate": "2026-09-22 18:48:34",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Stifel sees Meta Muse driving Shopify, Twilio stock gains",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/stifel-sees-meta-muse-driving-shopify-twilio-stock-gains-93CH-4911473",
+    "pubDate": "2026-09-22 18:46:48",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is LPL Financial stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-lpl-financial-stock-sliding-today-93CH-4911472",
+    "pubDate": "2026-09-22 18:46:26",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "BCB Bancorp CFO purchases $77,500 in common stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/bcb-bancorp-cfo-purchases-77500-in-common-stock-93CH-4911470",
+    "pubDate": "2026-09-22 18:45:58",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is JPMorgan Chase stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-jpmorgan-chase-stock-sliding-today-93CH-4911467",
+    "pubDate": "2026-09-22 18:42:46",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump says he backs the idea of a ban on diesel exports",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466",
+    "pubDate": "2026-09-22 18:42:35",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Zions Bancorporation Pa ADR stock hits 52-week low at 17.66 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/zions-bancorporation-pa-adr-stock-hits-52week-low-at-1766-usd-93CH-4911465",
+    "pubDate": "2026-09-22 18:41:27",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investing",
+    "title": "Kroger outlines AI strategy at GroceryShop conference",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/kroger-outlines-ai-strategy-at-groceryshop-conference-93CH-4911464",
+    "pubDate": "2026-09-22 18:40:31",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "She was ready to buy her dream condo &#x2014; but discovered the HOA had just 1% in cash reserves",
+    "desc": "You may be able to choose your house or condo, but you can&#x2019;t always choose your homeowners association.",
+    "link": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
+    "pubDate": "Tue, 22 Sep 2026 18:33:00 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Defending against dangerous AI should be a national priority &#x2014; and we need more capable AI to do it",
+    "desc": "A rogue state or terrorist organization has little reason to observe an AI slowdown.",
+    "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
+    "pubDate": "Tue, 22 Sep 2026 17:52:00 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump threatens to ‘annihilate’ Iran in UN speech as officials hold bilateral meeting",
+    "desc": "US president says Americans held ‘very good meeting’ with delegation from Tehran",
+    "link": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 18:19:56 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "ft",
+    "title": "Scott Bessent says US is ‘examining’ ban on diesel exports",
+    "desc": "Potential curbs come as Trump’s war in Iran has sent fuel prices soaring",
+    "link": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+    "pubDate": "Tue, 22 Sep 2026 18:09:07 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "ft",
+    "title": "What Xi wants from his summit with Trump",
+    "desc": "Chinese leader’s most urgent goal is extending trade truce with US, but he is also expected to discuss Taiwan, Iran and AI",
+    "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 04:00:12 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "ft",
+    "title": "Royal Caribbean nears deal for Sandals valuing resorts at more than $6bn",
+    "desc": "Deal would be largest in cruise operator’s history as it moves to cater to tourists on land as well as sea",
+    "link": "https://www.ft.com/content/be468cf8-e450-46d8-891f-67bc79ffd7b3?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 18:14:43 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "ft",
+    "title": "AI staff complain of mental toll over fears of threat to society",
+    "desc": "Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI",
+    "link": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 11:27:38 GMT",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Direxion Daily CSI 300 China A Share Bull 2X Shares declares quarterly distribution of $0.1109",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645653-direxion-daily-csi-300-china-a-share-bull-2x-shares-declares-quarterly-distribution-of-01109?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 15:00:12 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Direxion Daily Brazil Bull 2X Shares declares quarterly distribution of $0.2571",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645652-direxion-daily-brazil-bull-2x-shares-declares-quarterly-distribution-of-02571?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 14:58:30 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Apollo faces as much as $1.1B in loss on MFS collapse - report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645639-apollo-faces-as-much-as-11b-in-loss-on-mfs-collapse---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 14:57:50 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Direxion Daily AVGO Bear 1X Shares declares quarterly distribution of $0.0430",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645651-direxion-daily-avgo-bear-1x-shares-declares-quarterly-distribution-of-00430?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 14:57:44 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Direxion Daily AVGO Bull 2X Shares declares quarterly distribution of $0.1981",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645650-direxion-daily-avgo-bull-2x-shares-declares-quarterly-distribution-of-01981?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 14:57:08 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Eldorado Gold double-upgraded to Buy at BofA as Skouries starts concentrate production",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645640-eldorado-gold-double-upgraded-to-buy-at-bofa-as-skouries-starts-concentrate-production?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 14:56:42 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Direxion Daily AMZN Bull 1.5X Shares declares quarterly distribution of $0.1914",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645649-direxion-daily-amzn-bull-15x-shares-declares-quarterly-distribution-of-01914?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 14:56:32 -0400",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VERAXA Biotech (VRXA) Builds Oncology Pipeline Around BiTAC Platform, Public-Market Story Enters Next Phase",
+    "desc": "VERAXA is advancing an oncology pipeline centered on its proprietary BiTAC(R) platform, alongside additional antibody-drug conjugate and engineered-antibody technologies. The company entered the NASDAQ market in June 2026 following its completed bus...",
+    "link": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-vrxa-builds-oncology-183000653.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:30:00 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Indexes Mixed in Midday Trading",
+    "desc": "(Updates with index/price moves, macroeconomic data, and comments from the first paragraph.) US e",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-midday-175933871.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 17:59:33 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How Much Further Could Lowe's Stock Fall With Its DIY Shoppers Holding Back?",
+    "desc": "Lowe's Companies (LOW) stock trades near $191, its lowest price of the past year and about 33% below its 52-week high. Over the trailing twelve months, it lost 25.9%, while the S&P 500 returned 18.5% with dividends reinvested. No market crash did this. So how much further could it fall if one arrives.",
+    "link": "https://www.trefis.com/articles/616145/how-much-further-could-lowes-stock-fall-with-its-diy-shoppers-holding-back/2026-09-22?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:00:10 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+    "desc": "Skyward Specialty Insurance has had an impressive run over the past six months as its shares have beaten the S&P 500 by 17.7%. The stock now trades at $57.18, marking a 33.9% gain. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-investors-watch-skyward-175746480.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 17:57:46 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Prediction: 3 Stocks That Will Be Worth More Than Palantir 5 Years From Now",
+    "desc": "These tech stocks are growing at an impressive pace, and they are significantly cheaper than Palantir.",
+    "link": "https://www.fool.com/investing/2026/09/22/prediction-3-stocks-that-will-be-worth-more-than-p/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:43:00 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's How AMD Joined the Rule Breakers $1 Trillion Club",
+    "desc": "Of the 14 U.S.-listed companies now worth $1 trillion or more, 11 have been recommended by Team Rule Breakers or David Gardner.",
+    "link": "https://www.fool.com/investing/2026/09/22/here-s-how-amd-joined-the-rule-breakers-usd1t-club/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:36:01 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Vanguard S&P 500 Growth ETF (VOOG) vs. iShares Russell 2000 Growth ETF (IWO): Which ETF Is the Better Buy for Investors?",
+    "desc": "VOOG targets large-cap tech giants, while IWO offers broader exposure to over 1,000 small-cap stocks. Here's how the two stack up.",
+    "link": "https://www.fool.com/coverage/etfs/2026/09/22/vanguard-s-and-p-500-growth-etf-voog-vs-ishares-russell-2000-growth-etf-iwo-which-etf-is-the-better-buy-for-investors/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:14:41 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AMD Stock Just Entered Rarefied Territory",
+    "desc": "The milestone raises the bar for AMD's next phase",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-entered-rarefied-180416400.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:04:16 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
+    "desc": "Energy stocks traded mixed Tuesday afternoon, with the NYSE Energy Sector Index up 0.3% and the Stat",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-180051023.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:00:51 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
+    "desc": "A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.",
+    "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 18:46:03 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Jim Cramer Called Medtronic a \"Quandary.\" Here's Why He's Exactly Right.",
+    "desc": "Key PointsOver time, Medtronic's business got bloated, and growth slowed.",
+    "link": "https://www.nasdaq.com/articles/jim-cramer-called-medtronic-quandary-heres-why-hes-exactly-right",
+    "pubDate": "Tue, 22 Sep 2026 18:35:00 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
+    "desc": "Key PointsThe transaction involved an open-market acquisition of 299,571 shares at a weighted-average price of $2.89 per share, totaling ~$867,000 as of the September 21, 2026 transaction date.",
+    "link": "https://www.nasdaq.com/articles/grabs-chief-operating-officer-buys-nearly-300000-shares-867000-after-stock-hits-52-week",
+    "pubDate": "Tue, 22 Sep 2026 18:33:18 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Swiss Market Ends Flat After Choppy Session",
+    "desc": "(RTTNews) - The Switzerland stock market ended flat on Tuesday after a choppy ride, as the mood remained cautious with investors closely following geopolitical developments.",
+    "link": "https://www.nasdaq.com/articles/swiss-market-ends-flat-after-choppy-session",
+    "pubDate": "Tue, 22 Sep 2026 18:15:43 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsSalesforce remains a dominant leader in the customer relationship management market with its focus on the Agentforce 360 AI platform.",
+    "link": "https://www.nasdaq.com/articles/salesforce-vs-servicenow-which-technology-stock-better-buy-2026",
+    "pubDate": "Tue, 22 Sep 2026 18:13:34 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Wave Life Sciences Names Monika Vnuk Chief Business Officer",
+    "desc": "(RTTNews) - On Tuesday, Wave Life Sciences Ltd. (WVE), a clinical-stage biotechnology company based in RNA medicines, announced the appointment of Monika Vnuk as the Chief Business Officer, and will join Waves executive team and lead business development, corporate development, a",
+    "link": "https://www.nasdaq.com/articles/wave-life-sciences-names-monika-vnuk-chief-business-officer",
+    "pubDate": "Tue, 22 Sep 2026 18:00:56 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Wall Street Thinks Rocket Lab Is a Buy. Here's Why I'm Not So Sure.",
+    "desc": "Key PointsThe launch of its Neutron rocket was originally expected in 2025 but may slip again until 2027.",
+    "link": "https://www.nasdaq.com/articles/wall-street-thinks-rocket-lab-buy-heres-why-im-not-so-sure",
+    "pubDate": "Tue, 22 Sep 2026 17:50:00 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "fortune",
+    "title": "What AI slowdown? OpenAI, Anthropic release dueling models as price wars heat up",
+    "desc": "The rival AI labs release lower cost versions of their flagship models within hours of each other. Is it a race to the bottom?",
+    "link": "https://fortune.com/2026/09/22/what-ai-slowdown-openai-anthropic-release-dueling-moreaffordable-models-as-ai-price-wars-heat-up/",
+    "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Expedia stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-expedia-stock-sliding-today-93CH-4911463",
+    "pubDate": "2026-09-22 18:37:40",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Saudi Arabia denies Iraqi claim of oil tanker purchases",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-denies-iraqi-claim-of-oil-tanker-purchases-93CH-4911458",
+    "pubDate": "2026-09-22 18:34:00",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Booking stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-booking-stock-sliding-today-93CH-4911454",
+    "pubDate": "2026-09-22 18:30:02",
+    "fetchedAt": "2026-09-22T19:01:30.772Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
     "desc": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
     "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
@@ -5982,421 +6398,5 @@
     "link": "https://seekingalpha.com/news/4645242-cambria-trinity-etf-declares-01766-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
     "pubDate": "Tue, 22 Sep 2026 03:36:19 -0400",
     "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Cambria Global Momentum ETF declares $0.0987 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645241-cambria-global-momentum-etf-declares-00987-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 03:19:26 -0400",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Industrials Stock with Promising Prospects and 2 Facing Challenges",
-    "desc": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 3.8% has fallen short of the S&P 500’s 16.2% rise.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-promising-prospects-071746422.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 07:17:46 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's Why Retirees Need to Stop Wishing for a Giant 2027 Social Security COLA",
-    "desc": "Key PointsWe're getting closer to finding out the 2027 Social Security COLA.",
-    "link": "https://www.nasdaq.com/articles/heres-why-retirees-need-stop-wishing-giant-2027-social-security-cola",
-    "pubDate": "Tue, 22 Sep 2026 07:28:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Got $5,000?: 2 Magnificent AI Cloud Stocks to Buy Before the Anthropic IPO",
-    "desc": "Key PointsAnthropic AI is on track to be the biggest IPO in history.",
-    "link": "https://www.nasdaq.com/articles/got-5000-2-magnificent-ai-cloud-stocks-buy-anthropic-ipo",
-    "pubDate": "Tue, 22 Sep 2026 07:22:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Uber Freight Plans To Expand Its European Fourth-Party Logistics Business",
-    "desc": "(RTTNews) - Uber Technologies, Inc. (UBER), the ride hailing app, Tuesday announced that its subsidiary, Uber Freight, has plans to expand its European Fourth-Party Logistics or 4PL business with new investment in operations, dedicated product and engineering resources and a seco",
-    "link": "https://www.nasdaq.com/articles/uber-freight-plans-expand-its-european-fourth-party-logistics-business",
-    "pubDate": "Tue, 22 Sep 2026 06:50:07 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years.",
-    "desc": "Key PointsNvidia's stock is cheap and growing quickly.",
-    "link": "https://www.nasdaq.com/articles/not-micron-not-alphabet-heres-my-top-artificial-intelligence-ai-stock-pick-next-3-years",
-    "pubDate": "Tue, 22 Sep 2026 06:50:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Kingfisher H1 Profit Climbs, Lifts FY27 Outlook; To Begin 3rd Tranche Of £50 Mln Buyback This Week",
-    "desc": "(RTTNews) - Home improvement retailer Kingfisher PLC (KGF.L) reported Tuesday higher profit in its first half of fiscal 2027 with margin expansion, cost control as well as slightly higher sales and like-for-like sales.",
-    "link": "https://www.nasdaq.com/articles/kingfisher-h1-profit-climbs-lifts-fy27-outlook-begin-3rd-tranche-ps50-mln-buyback-week",
-    "pubDate": "Tue, 22 Sep 2026 06:37:42 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Industrial Logistics Properties CFO Tiffany Sy Resigns; Names Anthony Paula As Successor",
-    "desc": "(RTTNews) - Industrial Logistics Properties Trust (ILPT), a real estate investment trust, on Monday announced that Chief Financial Officer Tiffany Sy is resigning from the position effective September 30.",
-    "link": "https://www.nasdaq.com/articles/industrial-logistics-properties-cfo-tiffany-sy-resigns-names-anthony-paula-successor",
-    "pubDate": "Tue, 22 Sep 2026 06:15:06 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Google Signs Agreement With Georgia Power For Nuclear Energy Advancement In Georgia",
-    "desc": "(RTTNews) - Google (GOOG, GOOGL) said that it has signed a new agreement with Georgia Power to support clean and reliable nuclear energy in Georgia, along with providing savings for customers.",
-    "link": "https://www.nasdaq.com/articles/google-signs-agreement-georgia-power-nuclear-energy-advancement-georgia",
-    "pubDate": "Tue, 22 Sep 2026 06:11:47 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;Skills nobody can take&#8217;: Meet a 20-year-old with a 4.5 GPA who skipped college for technical school to land an &#8216;AI-proof&#8217; career",
-    "desc": "Alejandro Rodriguez was a gifted-and-talented student with a 4.5 GPA and every expectation of a four-year degree. He chose to become a Porsche technician instead",
-    "link": "https://fortune.com/2026/09/22/20-year-old-with-high-gpa-who-skipped-college-technical-school-ai-proof-career/",
-    "pubDate": "Tue, 22 Sep 2026 07:12:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The U.S. is backing a $14 billion cable to keep Southeast Asia&#8217;s internet out of China&#8217;s reach",
-    "desc": "As the U.S. and China race to build rival subsea networks, countries \"may be faced with accommodating two parallel tech stacks,\" one analyst says.",
-    "link": "https://fortune.com/2026/09/22/us-thailand-subsea-cable-bypasses-south-china-sea/",
-    "pubDate": "Tue, 22 Sep 2026 06:50:48 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Meet the wealth manager who built a $38 billion firm and gave $100 million to the MBA program that launched him",
-    "desc": "Jeff and Cheryl Thomasson donate $100 million to Indiana University’s Kelley School of Business and the Lilly Family School of Philanthropy.",
-    "link": "https://fortune.com/2026/09/22/jeff-benita-thomasson-indiana-university-100-million-gift-mba-grad-school-philanthropy/",
-    "pubDate": "Tue, 22 Sep 2026 07:03:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Apple’s first 50 years: Charts show how the iPhone maker became a $4.85 trillion giant",
-    "desc": "Apple’s transformation into a global consumer-tech powerhouse, by the numbers.",
-    "link": "https://fortune.com/2026/09/22/apple-first-50-years-history-iphone-mac-services-revenue-growth-timeline/",
-    "pubDate": "Tue, 22 Sep 2026 07:00:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Steve Jobs made Apple iconic. Tim Cook made it a $5 trillion behemoth",
-    "desc": "Cook made Jobs' iPhone a global juggernaut and expanded Apple into an expansive, cash-generating ecosystem.",
-    "link": "https://fortune.com/2026/09/22/tim-cook-apple-ceo-legacy-stock-price-growth-services-supply-chain/",
-    "pubDate": "Tue, 22 Sep 2026 07:00:00 +0000",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "AbbVie’s Rinvoq gains EU approval for juvenile arthritis",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/abbvies-rinvoq-gains-eu-approval-for-juvenile-arthritis-93CH-4909998",
-    "pubDate": "2026-09-22 07:36:42",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Up 38% MTD: This AI-picked chip stock just surged +17% on “off-the-charts” demand",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/up-38-mtd-this-aipicked-chip-stock-just-surged-17-on-offthecharts-demand-4909996",
-    "pubDate": "2026-09-22 07:34:32",
-    "fetchedAt": "2026-09-22T08:01:33.430Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-    "desc": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
-    "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-    "pubDate": "Mon, 21 Sep 2026 22:25:33 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Soccer superstar Kylian Mbappé on ending 20-year journey with Nike: 'It was time to change'",
-    "desc": "Soccer Champion Kylian Mbappé said he was ready for \"change\" after ending his association with Nike and entering a deal with Swiss sportswear brand On.",
-    "link": "https://www.cnbc.com/2026/09/21/kylian-mbappe-nike-exit-on-soccer-footwear.html",
-    "pubDate": "Mon, 21 Sep 2026 12:44:26 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Government borrowing rises by a fifth to £18bn in August",
-    "desc": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-    "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 06:46:35 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The virtual worlds where robots are trained",
-    "desc": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "UK borrowing overshoot darkens backdrop for Healey’s budget",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/uk-borrowing-overshoot-darkens-backdrop-for-healeys-budget-4909956",
-    "pubDate": "2026-09-22 06:42:47",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "UK August borrowing hits highest non-pandemic level at £18.3 billion",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/uk-august-borrowing-hits-highest-nonpandemic-level-at-183-billion-4909955",
-    "pubDate": "2026-09-22 06:42:32",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "US battery startup that ditched Kentucky for China opens factory as Trump, Xi meet",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/us-batterystartup-that-ditched-kentucky-for-china-opens-factory-as-trump-xi-meet-4909943",
-    "pubDate": "2026-09-22 06:42:29",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "Ant Group restructures Alipay to advance AI commerce push- reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ant-group-restructures-alipay-to-advance-ai-commerce-push-reports-93CH-4909954",
-    "pubDate": "2026-09-22 06:42:09",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "RBC Capital initiates RenaissanceRe stock at Sector Perform on valuation",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-renaissancere-stock-at-sector-perform-on-valuation-93CH-4909951",
-    "pubDate": "2026-09-22 06:40:56",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "Citizens upgrades Quince Therapeutics stock rating on rare disease pipeline",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/citizens-upgrades-quince-therapeutics-stock-rating-on-rare-disease-pipeline-93CH-4909950",
-    "pubDate": "2026-09-22 06:40:53",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "Jefferies initiates W. P. Carey stock with buy rating on restructuring",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-w-p-carey-stock-with-buy-rating-on-restructuring-93CH-4909949",
-    "pubDate": "2026-09-22 06:40:50",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "RBC Capital initiates SiriusPoint stock at Outperform on valuation",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-siriuspoint-stock-at-outperform-on-valuation-93CH-4909948",
-    "pubDate": "2026-09-22 06:40:47",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kingfisher launches third tranche of share buyback program",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/kingfisher-launches-third-tranche-of-share-buyback-program-93CH-4909947",
-    "pubDate": "2026-09-22 06:40:38",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oxford Biomedica reports 10% revenue growth in first half",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/oxford-biomedica-reports-10-revenue-growth-in-first-half-93CH-4909942",
-    "pubDate": "2026-09-22 06:36:33",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK government borrowing jumps over forecast to £18.3bn in August, in ‘dismal picture’ ahead of the budget – business live",
-    "desc": "<p>Rolling coverage of the latest economic and financial news, as the rising cost of servicing the national debt pushed up borrowing last month</p><p><strong>Chief Secretary to the Treasury, Emma Reynolds, </strong>says the government is committed to meeting the fiscal rules with “a buffer against uncertainty”.</p><p>Responding to this morning’s public finances data, <strong>Reynolds </strong>says:</p><p>“Britain has huge potential to deliver good growth in every postcode, creating jobs, raising living standards and investing in the services people rely on. But we can only deliver that growth with fiscal discipline.<br><br> “At a time when debt interest costs billions of pounds that could otherwise be spent on improving lives, we must always know where the money is coming from to pay for public services.<br><br> “That is why we are committed to meeting our fiscal rules with a buffer against uncertainty, taking the tough decisions needed to keep the public finances on a sustainable path.”</p><p>This supports our view that a small or medium-sized tax and spending Budget is more likely than a big one and that many of the PM’s policy ambitions will be reined in or delayed to avoid big tax hikes and/or a backlash in the markets.</p><p>We think borrowing will be about £125bn (3.9% of GDP) in 2026/27 (OBR forecast £115bn) and that the Chancellor will need to raise between £9-14bn in the Budget to restore his existing fiscal headroom.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-    "pubDate": "Tue, 22 Sep 2026 07:01:28 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
-    "desc": "<p>Higher-than-expected figure will make chancellor’s aim of calming jittery bond markets more difficult</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The UK government borrowed a higher-than-expected £18.3bn last month, increasing the pressure on John Healey as he attempts to calm jittery bond markets before next month’s budget.</p><p>Official figures released by Office for National Statistics on Tuesday said public sector net borrowing – the difference between government spending and income – was £2.9bn higher last month than in August 2025.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-    "pubDate": "Tue, 22 Sep 2026 06:25:40 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-    "desc": "<p>Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UN</p><p>Next month’s budget will be made more difficult by Donald Trump’s war with Iran, one of Andy Burnham’s cabinet ministers has said, while adding she did not expect the prime minister’s previous disparaging comments about the US president to be an issue.</p><p>Burnham is <a href=\"https://www.theguardian.com/politics/2026/sep/16/andy-burnham-donald-trump-un-general-assembly\">expected to meet Trump</a> early next week at the UN general assembly summit in New York, the pair having previously spoken twice by phone since Burnham entered No 10.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-    "pubDate": "Sun, 20 Sep 2026 19:36:29 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Are global stock markets heading for a crash?",
-    "desc": "<p>Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarm</p><p>At the height of the summer, the mood was optimistic in the world’s financial capitals. Powered by the <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI revolution</a>, the US stock market had rallied to a <a href=\"https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease\">fresh all-time high</a>, as investors bet the multitrillion-dollar investment spree would overshadow the hit from the Iran war.</p><p>Now the warning lights are flashing red. As the fighting in the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">Middle East</a> intensifies without clear sign of a resolution, financial markets have been thrown into renewed turmoil. A slowdown looms in the AI arms race, and tinderbox conditions in the market for government debt are fuelling alarm.</p> <a href=\"https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
-    "pubDate": "Sun, 20 Sep 2026 05:00:07 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "ft",
-    "title": "How the cost of Japan’s money shapes the world",
-    "desc": "As the country’s central bank tightens monetary policy, investors who leveraged its currency for higher yields may be forced into a sell-off",
-    "link": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 04:00:02 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "ft",
-    "title": "AI optimism lifts Asian stocks after Nasdaq ends at record high",
-    "desc": "Taiwan’s tech-heavy index hits highest level after rising more than 60% this year",
-    "link": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 06:45:16 GMT",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "On Holding targets CHF 5.6B sales by 2029, authorizes $1B buyback",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645237-on-holding-targets-chf-56b-sales-by-2029-authorizes-1b-buyback?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 03:03:10 -0400",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CarMax eliminates 145 corporate jobs amid market pressure",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645235-carmax-eliminates-145-corporate-jobs-amid-market-pressure?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 02:45:49 -0400",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Braskem creditors demand $3B equity injection amid debt restructuring",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645230-braskem-creditors-demand-3b-equity-injection-amid-debt-restructuring?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 02:35:24 -0400",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AbbVie gains EU approval for Rinvoq to treat pediatric arthritis",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645238-abbvie-gains-eu-approval-for-rinvoq-to-treat-pediatric-arthritis?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 02:30:19 -0400",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tencent unveils AI image model to narrow gap with ByteDance, Alibaba; shares rise",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645218-tencent-unveils-ai-image-model-to-narrow-gap-with-bytedance-alibaba-shares-rise?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 02:19:14 -0400",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "U.S. to expand Greenland military footprint with two new sites - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645234-us-to-expand-greenland-military-footprint-with-two-new-sites---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 02:15:34 -0400",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Houthis Threaten Strikes On Egypt, Turkey, Pakistan Interests As Yemen Intervention Looms",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Houthis Threaten Strikes On Egypt, Turkey, Pakistan Interests As Yemen Intervention Looms</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Houthi officials have put <strong>Egypt, Turkey, and Pakistan</strong> on notice amid the ongoing Saudi-Yemen conflict, and as Riyadh urges partners to assist militarily against the Ansar Allah movement. Iran's state<em> Nour News</em>,<em> </em>which is affiliated with the country's Supreme National Security Council, has issued a report <a href=\"https://t.me/Nournews_ir/396247\">saying</a> the three Saudi allies \"<b>will likely be targeted in the next stages\"</b><br /> - per a Houthi official.</p> <p>The Houthi official warned that <strong>\"The targeting of Iran by the enemies will not be limited to the country's borders and, according to him, the next efforts will be to target Egypt, Turkey and Pakistan</strong>.<strong>\"</strong></p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/sisimbs.jpg?itok=bsxgmICD\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/sisimbs.jpg?itok=bsxgmICD\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"01d4db85-48fb-40cc-b2da-4257e5409758\" data-responsive-image-style=\"inline_images\" height=\"408\" src=\"https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/sisimbs.jpg?itok=bsxgmICD\" width=\"500\" /></a> <figcaption><em>Source: SPA</em></figcaption></figure><p>Already the Houthis have launched several attacks on Saudi Aramco facilities, also including fuel depots next to Riyadh's international airport. The Houthis subsequently confirmed <a href=\"https://www.zerohedge.com/geopolitical/houthi-ballistic-missiles-strike-near-riyadh-airport-first-war\">sending ballistic missiles</a> on the capital, in a first of the war. This happened Friday night into Saturday.</p> <p>According to more from the Iranian <a href=\"https://nournews.ir/fa/news/347335/%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B1%D8%8C-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D8%A8%D8%B9%D8%AF%DB%8C-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%DB%8C%D8%B1%D9%86%D8%AF\">media report</a>:</p> <blockquote> <p><em>Referring to the position of these three countries in the Islamic world, he said that their power and influence could be an obstacle to the Zionist regime's plans. The Ansarullah official stated that this plan is based on pushing Egypt, Turkey, and Pakistan towards wars and internal conflicts, and that Saudi Arabia plays a role in this process. According to him, such a situation could lead to the erosion of capabilities, weakening, and disintegration of the internal social fabric of these countries</em></p> </blockquote> <p>Saudi Crown Prince Mohammed bin Salman was just in Cairo meeting with Egyptian leader Abdel Fattah El-Sisi. The visit came just<strong> in the wake of an Iranian-backed militia attack on the key Saudi East-West pipeline</strong>, which one US official described as having been launched from Iraq.</p> <p>A big focus of the MbS-Sisi meeting was regional security. The Saudis have been asking all regional allies for support at a moment the internationally recognized Sanaa government is rapidly losing ground to the Houthis.</p> <p>Washington has appeared to shrug its shoulders, staying on the sidelines thus far. President Trump was <a href=\"https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html\">reported</a> ready to pull the trigger against the Houthis but reportedly <strong>TACO'd by close of the weekend</strong>.</p> <p>But there's even greater pressure on the Pakistanis and Turks to take action, given the recently signed Mecca Defense Pact. We featured the following commentary <a href=\"https://www.zerohedge.com/geopolitical/turkey-takes-houthis-any-support-saudis-faces-huge-blowback\">last week</a>:</p> <blockquote> <p><em>Turkey's new commitments to Saudi Arabia under the <a href=\"https://www.middleeasteye.net/big-story/mecca-agreement-why-saudi-arabia-turkey-and-pakistan-teamed-historical-moment\" target=\"_blank\">Mecca defence pact</a> could increase the risk of Ankara being drawn into a confrontation with Yemen's Houthis, a development that could have significant consequences for Turkish supply lines to the Horn of Africa. Although Turkey has yet to ratify the pact, <a href=\"https://www.middleeasteye.net/news/why-mecca-defence-pact-hasnt-triggered-military-action-against-houthis\" target=\"_blank\">expected in October</a>, continued Houthi attacks against Saudi Arabia, and <strong>Ankara’s recent participation in the Saudi-led Multinational Maritime Defense Alliance make some form of confrontation possible</strong>.</em></p> </blockquote> <p>Another big, obvious risk includes the whole thing spinning out into a full-on regional war, which would likely further fuel US-Iran confrontation, and possibly bring in the Israelis.</p> <p>Bigger conflict would also likely close Red Sea shipping. The Houthis have so far only declared the Bab Al-Mandab Strait off limits to Saudi and Israeli-linked ships.<strong> But the fear is that any moment the group could begin assaults on all international shipping, akin to the ongoing crisis in the Strait of Hormuz</strong>.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Even very good reporting on Saudi-Houthi situation often says the Houthis e.g. \"reignited\" the war this summer, or some such. But this July, Saudi struck airport in Sanaa, the Yemeni capital, to block an Iranian plane from landing. Sometimes that's not even mentioned...</p> — Andrew Day (@AKDay89) <a href=\"https://x.com/AKDay89/status/2102021914445205720?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The Iranians and Houthis know they hold this card, and are likely intentionally slow-playing their leverage, but ready to pull the trigger on the next potential round of escalation with the US-Saudi-Israeli axis.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T06:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 02:45</span>",
-    "link": "https://www.zerohedge.com/geopolitical/houthis-threaten-strikes-egypt-turkey-pakistan-interests-yemen-intervention-looms",
-    "pubDate": "Tue, 22 Sep 2026 06:45:00 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Germany's Debt King Merz Gets a Greek Lesson in Fiscal Policy",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Germany's Debt King Merz Gets a Greek Lesson in Fiscal Policy</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>Submitted by Thomas Kolbe</em></p> <p>Revenge is sweet. It tastes all the sweeter the longer one has had to wait for it to arrive, and the deeper the pain of the humiliation that preceded it.</p> <p>Some may still have the images of the great debt crisis of a decade and a half ago before their eyes: <strong>German politicians, led by then-Finance Minister Wolfgang Schäuble, traveled to Athens at regular intervals to make sure everything was in order</strong>. Greece, the supposed sinner of the debt crisis, had gone off the rails, accumulated too much debt and was quickly made the scapegoat for the financial-market and sovereign-debt crisis. It was convenient - because it diverted attention from Germany’s own failures.</p> <p>That someone had apparently left a score to settle was made clear by <a href=\"https://www.handelsblatt.com/politik/deutschland/euro-zone-griechenlands-finanzminister-ermuntert-deutschland-zu-reformen/100253256.html\">Greek Finance Minister Kyriakos Pierrakakis in an interview with Handelsblatt on Monday</a>. When the conversation turned to the debt question, <strong>Pierrakakis, who also serves as president of the Eurogroup, noted that reforms in fiscal policy might be painful at first, but would ultimately pay off politically and economically.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/pierrakakis.png?itok=oLF0eFL7\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/pierrakakis.png?itok=oLF0eFL7\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ec263865-81aa-4253-bbc3-9276e23e8bb2\" data-responsive-image-style=\"inline_images\" height=\"332\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/pierrakakis.png?itok=oLF0eFL7\" width=\"500\" /></a></p> <p>The man is right. And Berlin should listen to him, because the debt club around Friedrich Merz is knowingly driving the budget into the wall with new borrowing of more than 5 percent next year.</p> <p>It really does sound like an open score to settle when the Greek generously praises Germany’s economic potential in flowery language while at the same time noting that the country is not untouchable: “Germany is the industrial locomotive of Europe” — Pierrakakis is mercilessly putting his finger on the wound. For he cannot have failed to notice how rapidly the country is economically destroying itself, how quickly it is deindustrializing in the grip of climate fanaticism and mutating from a nation of tinkerers and engineers into an open-air institution for moralists and degrowth ideologues.</p> <p><strong>While Germany has embarked on the road to second-class status, Greece is gradually growing out of its permanent crisis. </strong>The problem with the local economy remains the euro: The Greeks actually need a significantly devalued currency in order to compete more effectively on international markets. <strong>After the introduction of the euro and the cheaper borrowing costs made possible by Germany’s credit anchor, the country slipped into an artificial debt trap — the land of spendthrifts and pleasure-seekers, according to the ugly narrative.</strong></p> <p>German banks and insurers had invested as much as 45 billion euros in Greek bonds at the time — money for which German taxpayers ultimately had to foot the bill. Distorted interest rates caused by the introduction of the euro and the euro debt club’s highly heterogeneous economies were bound to produce such a disaster — and the next debacle is already taking shape: Debt is rising everywhere, while interest rates are climbing. The bond market is responding by selling government bonds, thereby driving up the cost of servicing debt through higher interest rates.</p> <p>Were Greece’s efforts toward austerity and thrift ultimately in vain?</p> <p>Whether the moment of the great debt reckoning has now arrived is rather unlikely — there is still plenty of room to push the sovereign-debt crisis to the point of rupture. Nevertheless, much is reminiscent of the period 15 years ago, when the bond market reacted in a similar way and the U.S. housing crisis spread through the market mechanism to the fragile European sovereign-bond markets. Greece, the EU’s smallest economy with the highest level of government debt, was hit first before the dominoes began to fall.</p> <p>Schäuble’s Greek counterpart at the time was Giannis Varoufakis: an intellectual, committed socialist who stood up to the Teutons and the Troika of the European Central Bank, the International Monetary Fund and the European Commission — until his party Syriza and Prime Minister Alexis Tsipras were brought to their knees.</p> <p>The consequence: <a href=\"https://web.de/magazine/wirtschaft/griechenland-krise-sah-finanzielle-unterstuetzung-vergangenen-jahren-30763538\"><strong>austerity policy</strong></a>. Massive pension cuts, hospital closures — the shrinking of the welfare state. The Greeks experienced their social-policy Waterloo and have since managed to reduce their government debt ratio from the peak of the crisis, around 180 percent, to 146 percent.</p> <p>Chapeau! The Greeks deserve every bit of respect in the face of the lax fiscal policies all around them — whether in Italy, Germany, France or Spain. Athens is staying the course, voting conservatively and struggling through this painful period of adjustment.</p> <p>In the Handelsblatt interview, Pierrakakis becomes something of a fiscal-policy armchair philosopher: The cost of doing nothing, he says, is ultimately higher for everyone than the cost of reforms. That may be true. But the lesson contains a kernel of truth that will not move the German governing coalition even a millimeter toward the mountain of necessary reforms growing larger by the day.</p> <p>Because consolidating this year’s 180-billion-euro deficit-ridden chaos budget would imply corresponding spending cuts. Tax increases would strangle the economy — Germany would have to begin with remigration, end development aid, reform the welfare state and seriously consider what to do about the war with Russia and the massive military buildup it entails.</p> <p>The pain of austerity is still ahead for the Germans. Whether it is brought about through the bond market or through the harsh cuts of a reform government makes no difference.</p> <p>All in all, it was a memorable interview because it describes Germany’s changing era from the perspective of the underdog. Above all, Pierrakakis’ remark that Germany has economic potential should resonate for a long time in its ironic sharpness. <strong>Because the country has overstretched its public finances and now lives on credit — just as the Greeks once did.</strong></p> <p>* * * </p> <p><em>About the author: Thomas Kolbe, a graduate economist, has worked for or over 25 years as a journalist and media producer for clients from various industries and business associations. As a publicist, he focuses on economic processes and observes geopolitical events from the perspective of the capital markets. His publications follow a philosophy that focuses on the individual and their right to self-determination.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T06:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 02:00</span>",
-    "link": "https://www.zerohedge.com/economics/germanys-debt-king-merz-gets-greek-lesson-fiscal-policy",
-    "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
-    "desc": "Key PointsCustom AI chips are driving Broadcom's earnings growth.",
-    "link": "https://www.nasdaq.com/articles/history-says-1000-investment-broadcom-will-be-worth-much-2028",
-    "pubDate": "Tue, 22 Sep 2026 06:35:00 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "UiPath's CTO Sells Over 40,000 Shares Amid a 16% One-Year Return",
-    "desc": "Key PointsCTO Raghavendra Malpani disposed of 40,464 shares at $14.00 per share on September 17, 2026, for a total value of ~$567,000.",
-    "link": "https://www.nasdaq.com/articles/uipaths-cto-sells-over-40000-shares-amid-16-one-year-return",
-    "pubDate": "Tue, 22 Sep 2026 06:26:46 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Skanska Bags $84 Mln Contract To Build Data Center In Georgia",
-    "desc": "(RTTNews) - Skanska AB (SKA-B.ST), a Swedish engineering and construction company, Tuesday announced that it has secured an $84 million contract from an existing client to begin work on a data center in Georgia, USA.",
-    "link": "https://www.nasdaq.com/articles/skanska-bags-84-mln-contract-build-data-center-georgia",
-    "pubDate": "Tue, 22 Sep 2026 06:09:03 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Paramount, Warner Bros. Merger To Advance With State AGs Settlement",
-    "desc": "(RTTNews) - The proposed merger between Paramount Skydance Corp. and Warner Bros. Discovery, Inc. has cleared a key hurdle and is advancing after the California-Led coalition of 12 Attorneys General reached a settlement resolving the states' lawsuit over antitrust and competition",
-    "link": "https://www.nasdaq.com/articles/paramount-warner-bros-merger-advance-state-ags-settlement",
-    "pubDate": "Tue, 22 Sep 2026 06:06:12 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AltaGas Prices $750 Mln 5.75% Senior Notes Due 2031",
-    "desc": "(RTTNews) - AltaGas Ltd. (ALA.TO, ATGFF), a natural gas and utilities company, on Monday announced that its wholly owned subsidiary U.S. AltaGas Services, priced an offering of $750 million in aggregate principal amount of senior notes.",
-    "link": "https://www.nasdaq.com/articles/altagas-prices-750-mln-575-senior-notes-due-2031",
-    "pubDate": "Tue, 22 Sep 2026 06:02:46 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Shares Poised For Steady Open",
-    "desc": "(RTTNews) - European stocks are seen opening broadly higher on Tuesday after an AI-fueled rally on Wall Street overnight.",
-    "link": "https://www.nasdaq.com/articles/european-shares-poised-steady-open-0",
-    "pubDate": "Tue, 22 Sep 2026 05:45:33 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "TC Energy To Sell Energía Occidente De México For C$560 Mln",
-    "desc": "(RTTNews) - TC Energy Corporation (TRP), an energy infrastructure company, said that it has inked a deal to sell Energ&iacute;a Occidente de M&eacute;xico, the entity that owns the Guadalajara-Manzanillo Pipeline, to affiliates of ESENTIA Energy Development, S.A.B. de C.V. for C$560 million. T",
-    "link": "https://www.nasdaq.com/articles/tc-energy-sell-energia-occidente-de-mexico-c-560-mln",
-    "pubDate": "Tue, 22 Sep 2026 05:33:11 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Serabi Gold PLC Q2 Profit Declines",
-    "desc": "(RTTNews) - Serabi Gold PLC (SBI.TO) reported a profit for second quarter that Dropped, from the same period last year",
-    "link": "https://www.nasdaq.com/articles/serabi-gold-plc-q2-profit-declines",
-    "pubDate": "Tue, 22 Sep 2026 05:28:43 +0000",
-    "fetchedAt": "2026-09-22T07:07:28.481Z"
   }
 ]
