@@ -1,5 +1,421 @@
 [
   {
+    "source": "cnbc",
+    "title": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
+    "desc": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
+    "link": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
+    "pubDate": "Tue, 22 Sep 2026 18:49:14 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+    "desc": "The reports raised hopes of renewed U.S.-Iran diplomacy, with U.S. stock futures mixed and oil prices lower.",
+    "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+    "pubDate": "Tue, 22 Sep 2026 14:05:04 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+    "desc": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+    "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+    "pubDate": "Tue, 22 Sep 2026 11:00:01 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Novo defends diversification push as CEO eyes deals beyond obesity",
+    "desc": "Novo CEO Mike Doustdar told CNBC that it is considering M&A opportunities as it faces growing competition in the weight-loss market.",
+    "link": "https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html",
+    "pubDate": "Tue, 22 Sep 2026 12:32:16 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Repeated air traffic control failures leave us in worrying territory",
+    "desc": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 21 Sep 2026 16:39:01 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Are vet bills about to get cheaper?",
+    "desc": "Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
+    "link": "https://www.bbc.co.uk/news/videos/cmn8eqg2v2xyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 10:57:42 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "Cytokinetics EVP Fady Malik sells $239k in company stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/cytokinetics-evp-fady-malik-sells-239k-in-company-stock-93CH-4911806",
+    "pubDate": "2026-09-22 22:45:57",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "Live Oak Acquisition Corp. VI prices $200M IPO on Nasdaq",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/live-oak-acquisition-corp-vi-prices-200m-ipo-on-nasdaq-432SI-4911784",
+    "pubDate": "2026-09-22 22:37:01",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "Chief global commercialization officer Mancini sells $347,402 of RVMD stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/chief-global-commercialization-officer-mancini-sells-347402-of-rvmd-stock-93CH-4911792",
+    "pubDate": "2026-09-22 22:31:07",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "Globalstar general counsel ponder sells $140,363 in company shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/globalstar-general-counsel-ponder-sells-140363-in-company-shares-93CH-4911791",
+    "pubDate": "2026-09-22 22:31:01",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "Strategy Inc director Jarrod Patten sells $238k in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/strategy-inc-director-jarrod-patten-sells-238k-in-shares-93CH-4911790",
+    "pubDate": "2026-09-22 22:31:00",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "KB Home Q3 2026 slides: BTO model shines amid margin pressure",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/kb-home-q3-2026-slides-bto-model-shines-amid-margin-pressure-93CH-4911783",
+    "pubDate": "2026-09-22 22:22:32",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investing",
+    "title": "FirstLine acquires $150,000 stake in Forward Water Technologies",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/firstline-acquires-150000-stake-in-forward-water-technologies-93CH-4911782",
+    "pubDate": "2026-09-22 22:20:30",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The Nasdaq&#x2019;s rapid rise to a record is sending a message to investors: Don&#x2019;t wait for a pullback to buy",
+    "desc": "Some analysts say the upbeat data on the Nasdaq&#x2019;s outlook is backed up by improving fundamentals.",
+    "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+    "pubDate": "Tue, 22 Sep 2026 21:44:00 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+    "desc": "Coming soon is one of the only weeks of the year in which aggressive traders should bet that the highest-beta stocks will beat the lowest ones.",
+    "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+    "pubDate": "Tue, 22 Sep 2026 21:27:00 GMT",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Exxon sees Brazil&#x2019;s offshore Foz do Amazonas as next South American energy prize",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645788-exxon-sees-brazils-offshore-foz-do-amazonas-as-next-south-american-energy-prize?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:42:55 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Sagicor prices C$350M senior notes",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645792-sagicor-prices-c350m-senior-notes?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:33:32 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "DelphX launches C$56K private placement",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645791-delphx-launches-c56k-private-placement?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:31:44 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Orosur Mining announces C$14M private placement",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645790-orosur-mining-announces-c14m-private-placement?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:30:05 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Stingray renews share buyback program",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645789-stingray-renews-share-buyback-program?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:26:39 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "U.S. crude stockpiles rose 1.8M barrels last week, API says",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645787-u-s-crude-stockpiles-rose-1_8m-barrels-last-week-api-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:05:24 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Here are the major earnings before the open Wednesday",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645400-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 18:00:24 -0400",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Market Is Near Another All-Time High and You’re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway",
+    "desc": "Buying into an all-time high at 66 feels like the worst possible timing, but the data on what actually happens next might change how you think about that cash sitting on the sidelines.",
+    "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:25:53 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Rocket Lab Corporation (RKLB) Stock Moves 2.99%: What You Should Know",
+    "desc": "Rocket Lab Corporation (RKLB) closed the most recent trading day at $71.98, moving +2.99% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-stock-221507513.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:07 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Superior Group (SGC) Stock Moves 2.27%: What You Should Know",
+    "desc": "Superior Group (SGC) closed the most recent trading day at $12.62, moving +2.27% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/superior-group-sgc-stock-moves-221506511.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:06 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Onto Innovation (ONTO) Stock Moves 2.84%: What You Should Know",
+    "desc": "The latest trading day saw Onto Innovation (ONTO) settling at $283.81, representing a +2.84% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-stock-moves-221506750.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:06 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AST SpaceMobile, Inc. (ASTS) Stock Moves 2.91%: What You Should Know",
+    "desc": "AST SpaceMobile, Inc. (ASTS) concluded the recent trading session at $63.69, signifying a +2.91% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-stock-221506971.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:06 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "TXO Partners LP (TXO) Stock Moves -1.04%: What You Should Know",
+    "desc": "TXO Partners LP (TXO) reached $14.25 at the closing of the latest trading day, reflecting a -1.04% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-stock-221506102.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:06 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Crescent Energy (CRGY) Stock Moves -1.89%: What You Should Know",
+    "desc": "Crescent Energy (CRGY) closed at $13.01 in the latest trading session, marking a -1.89% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-stock-moves-221506826.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:06 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "KLA (KLAC) Stock Moves 2.36%: What You Should Know",
+    "desc": "KLA (KLAC) reached $188.32 at the closing of the latest trading day, reflecting a +2.36% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kla-klac-stock-moves-2-221505648.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Halliburton (HAL) Stock Moves -1.62%: What You Should Know",
+    "desc": "Halliburton (HAL) closed the most recent trading day at $32.85, moving 1.62% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-stock-moves-1-221505330.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Kyndryl Holdings, Inc. (KD) Stock Moves -1.15%: What You Should Know",
+    "desc": "Kyndryl Holdings, Inc. (KD) closed at $12.06 in the latest trading session, marking a -1.15% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-inc-kd-stock-221505700.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "CRH (CRH) Stock Moves 1.03%: What You Should Know",
+    "desc": "In the closing of the recent trading day, CRH (CRH) stood at $88.04, denoting a +1.03% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crh-crh-stock-moves-1-221504012.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Booz Allen Hamilton (BAH) Stock Moves -1.42%: What You Should Know",
+    "desc": "Booz Allen Hamilton (BAH) reached $76.28 at the closing of the latest trading day, reflecting a -1.42% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/booz-allen-hamilton-bah-stock-221504112.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sirius XM (SIRI) Stock Moves -3.32%: What You Should Know",
+    "desc": "In the latest trading session, Sirius XM (SIRI) closed at $26.53, marking a -3.32% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-moves-221504240.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know",
+    "desc": "In the closing of the recent trading day, Array Technologies, Inc. (ARRY) stood at $3.96, denoting a -2.7% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-stock-221503066.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Archer Daniels Midland (ADM) Stock Moves -1.25%: What You Should Know",
+    "desc": "Archer Daniels Midland (ADM) concluded the recent trading session at $82.34, signifying a -1.25% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-midland-adm-stock-221503301.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Freshpet (FRPT) Stock Moves -2.02%: What You Should Know",
+    "desc": "Freshpet (FRPT) concluded the recent trading session at $60.13, signifying a -2.02% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/freshpet-frpt-stock-moves-2-221505772.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Kinsale Capital Group, Inc. (KNSL) Stock Moves -1.78%: What You Should Know",
+    "desc": "Kinsale Capital Group, Inc. (KNSL) reached $351.83 at the closing of the latest trading day, reflecting a -1.78% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-inc-knsl-221505242.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "APA (APA) Stock Moves -3.45%: What You Should Know",
+    "desc": "In the closing of the recent trading day, APA (APA) stood at $42.3, denoting a -3.45% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-stock-moves-3-221503637.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VTI’s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
+    "desc": "The Vanguard Total Stock Market ETF promises broader diversification than the S&P 500, but a decade of returns tells a different story about what those extra 3,000 tickers actually deliver to your portfolio.",
+    "link": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:35:11 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Firefly Aerospace vs. SpaceX: Which Space Stock Can Put Your Portfolio Into Orbit in 2026?",
+    "desc": "Key PointsFirefly Aerospace is carving out a niche in rapid-response launches with a multibillion-dollar backlog from defense and government partners.",
+    "link": "https://www.nasdaq.com/articles/firefly-aerospace-vs-spacex-which-space-stock-can-put-your-portfolio-orbit-2026",
+    "pubDate": "Tue, 22 Sep 2026 22:35:01 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Detroit Automakers Turn Back the Clock on the Arsenal of Democracy -- Investors Should Cheer",
+    "desc": "Key PointsGeneral Motors and Ford Motor Company are both competing once again for defense business.",
+    "link": "https://www.nasdaq.com/articles/detroit-automakers-turn-back-clock-arsenal-democracy-investors-should-cheer",
+    "pubDate": "Tue, 22 Sep 2026 22:25:00 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Borr Drilling CEO Buys 45,500 Shares in $200,000 Stock Purchase. What Does Ths Tell Investors?",
+    "desc": "Key PointsThe transaction involved the purchase of 45,500 shares at $4.40 per share for a total investment of ~$200,000.",
+    "link": "https://www.nasdaq.com/articles/borr-drilling-ceo-buys-45500-shares-200000-stock-purchase-what-does-ths-tell-investors",
+    "pubDate": "Tue, 22 Sep 2026 22:06:01 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Which Is the Bigger Story for BioNTech -- Its Colorectal Cancer Vaccine Setback or the Lung Cancer Clinical Success?",
+    "desc": "Key PointsBioNTech recently experienced a clinical trial failure, followed by a clinical success several weeks later.",
+    "link": "https://www.nasdaq.com/articles/which-bigger-story-biontech-its-colorectal-cancer-vaccine-setback-or-lung-cancer-clinical",
+    "pubDate": "Tue, 22 Sep 2026 21:50:00 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsBloom Energy is leveraging solid oxide fuel cell technology to target the rapid growth of AI-driven data centers.",
+    "link": "https://www.nasdaq.com/articles/bloom-energy-vs-nextera-energy-which-renewable-energy-stock-better-buy-2026",
+    "pubDate": "Tue, 22 Sep 2026 21:38:01 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Lithium Americas Stock: Buy, Sell, or Hold?",
+    "desc": "Lithium Americas (NYSE: LAC) is moving Thacker Pass from a development story toward an execution story. Construction progress could reduce the discount investors place on the stock, but lithium prices and remaining project risk still stand between LAC and a meaningful rerating.",
+    "link": "https://www.nasdaq.com/articles/lithium-americas-stock-buy-sell-or-hold",
+    "pubDate": "Tue, 22 Sep 2026 21:35:00 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Alibaba Unveils New AI Chip, Plans 20-Gigawatt Data Center Expansion",
+    "desc": "(RTTNews) - Alibaba (BABA) intelligence chip and announced plans to significantly expand its data center capacity as it strengthens its AI infrastructure business.",
+    "link": "https://www.nasdaq.com/articles/alibaba-unveils-new-ai-chip-plans-20-gigawatt-data-center-expansion",
+    "pubDate": "Tue, 22 Sep 2026 21:26:06 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DoorDash Agrees To $131.5 Mln Settlement Over Worker Pay",
+    "desc": "(RTTNews) - DoorDash Inc (DASH) has agreed to pay $131.5 million to settle a New York City investigation into allegations that the food delivery company underpaid workers or delayed their payments.",
+    "link": "https://www.nasdaq.com/articles/doordash-agrees-1315-mln-settlement-over-worker-pay",
+    "pubDate": "Tue, 22 Sep 2026 21:24:39 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant",
+    "desc": "The app, which uses Meta's latest Muse Spark AI model, connects users to a range of services that its AI agent autonomously handles.",
+    "link": "https://fortune.com/2026/09/22/metas-muse-ai-is-exploding-in-popularity-and-drawing-heated-backlash/",
+    "pubDate": "Tue, 22 Sep 2026 22:11:58 +0000",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Boeing wins $33.4 million Air Force avionics contract",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/boeing-wins-334-million-air-force-avionics-contract-93CH-4911760",
+    "pubDate": "2026-09-22 21:55:43",
+    "fetchedAt": "2026-09-22T23:01:32.704Z"
+  },
+  {
     "source": "bbc",
     "title": "Spain battles climate change on several fronts",
     "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
@@ -5981,422 +6397,6 @@
     "desc": "Oil prices reversed early gains on Tuesday amid optimism that prospects for a diplomatic solution to the U.S.-Iran war are improving.",
     "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
     "pubDate": "Tue, 22 Sep 2026 11:28:31 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
-    "desc": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
-    "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
-    "pubDate": "Tue, 22 Sep 2026 11:30:01 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report",
-    "desc": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
-    "link": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-    "pubDate": "Tue, 22 Sep 2026 11:11:32 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-    "desc": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
-    "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-    "pubDate": "Mon, 21 Sep 2026 20:13:15 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-    "desc": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:34:11 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'I would tip up to 30% at a restaurant'",
-    "desc": "New Yorkers and Londoners share what they usually tip in a restaurant - and whether tipping culture has gotten out of hand.",
-    "link": "https://www.bbc.co.uk/news/videos/ckgjqzl755j0o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 18 Sep 2026 05:13:49 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "Binance buys $100 million stake in Circle, expands partnership",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/binance-buys-100-million-stake-in-circle-expands-partnership-4910594",
-    "pubDate": "2026-09-22 11:48:34",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "Lantern Pharma receives patent allowance for LP-284 cancer drug",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/lantern-pharma-receives-patent-allowance-for-lp284-cancer-drug-93CH-4910593",
-    "pubDate": "2026-09-22 11:48:32",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "Pfizer at U.S. All Stars Conference: growth shifts beyond covid",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/pfizer-at-us-all-stars-conference-growth-shifts-beyond-covid-93CH-4910592",
-    "pubDate": "2026-09-22 11:47:17",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bruker at Bank of America Global Healthcare Conference: growth mix lifts outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/bruker-at-bank-of-america-global-healthcare-conference-growth-mix-lifts-outlook-93CH-4910585",
-    "pubDate": "2026-09-22 11:45:16",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "China regulator probes DeepSeek and Moonshot AI over data routing - Information",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/china-regulator-probes-deepseek-and-moonshot-ai-over-data-routing--information-93CH-4910581",
-    "pubDate": "2026-09-22 11:45:08",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "B.Riley reiterates Buy on Nayax stock with $83 price target",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/briley-reiterates-buy-on-nayax-stock-with-83-price-target-93CH-4910579",
-    "pubDate": "2026-09-22 11:44:50",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "Slovak PM calls for EU emergency summit on fuel prices",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/slovak-pm-calls-for-eu-emergency-summit-on-fuel-prices-93CH-4910574",
-    "pubDate": "2026-09-22 11:39:42",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "TSX futures inch higher amid Mideast diplomacy hopes, upcoming Trump-Xi summit",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-mideast-diplomacy-hopes-upcoming-trumpxi-summit-4910572",
-    "pubDate": "2026-09-22 11:38:18",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "Grab stock jumps after CEO purchases $29.9M in shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/grab-stock-jumps-after-ceo-purchases-299m-in-shares-93CH-4910570",
-    "pubDate": "2026-09-22 11:37:23",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "investing",
-    "title": "BBVA at Bank of America 31th Annual Financials CEO Conference: growth and caution",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/bbva-at-bank-of-america-31th-annual-financials-ceo-conference-growth-and-caution-93CH-4910569",
-    "pubDate": "2026-09-22 11:37:13",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Meta&#x2019;s stock is enjoying its best month in 13 years thanks to the company&#x2019;s hot new AI assistant",
-    "desc": "Muse is gaining popularity and helping convince investors that Meta&#x2019;s AI bets are paying off.",
-    "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 12:02:00 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Financial conditions are tightening. Here&#x2019;s why stock investors should pay attention.",
-    "desc": "Widening credit spreads worldwide are a sign that how stocks are valued may be changing for the worse.",
-    "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 11:48:00 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
-    "desc": "If disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude could spike above $150 a barrel, strategists at the bank said.",
-    "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 11:26:00 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "guardian",
-    "title": "EU spends three times more on imports from China than bloc exports there",
-    "desc": "<p>Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.</p><p>Customs data showed the gap between the EU’s imports from <a href=\"https://www.theguardian.com/world/china\">China</a> and exports to China, the trade deficit, ran at more than €1bn (£860m) a day in July.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-    "pubDate": "Tue, 22 Sep 2026 11:54:08 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Global leaders urged to join initiative to fight extreme inequality",
-    "desc": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
-    "pubDate": "Fri, 18 Sep 2026 06:00:11 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "ft",
-    "title": "Oil falls below $98 as Saudi Arabia signals East-West pipeline reopening",
-    "desc": "Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes",
-    "link": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 11:19:01 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "ft",
-    "title": "‘MBS will not forget’: Trump’s reluctance to fight Houthis rattles Saudi Arabia",
-    "desc": "US hesitation has amplified doubts in Riyadh about Washington’s reliability as its prime defence partner",
-    "link": "https://www.ft.com/content/99457bcb-d98f-4719-a203-688daefcc3f7?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 11:00:02 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "ft",
-    "title": "Trump is checking out of his presidency",
-    "desc": "With no way out of his war with Iran, he is increasingly obsessed with monuments to himself",
-    "link": "https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 10:35:30 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Alibaba rises as it gives further details on Qwen models, full-stack AI infrastructure",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645330-alibaba-rises-as-it-gives-further-details-on-qwen-models-full-stack-ai-infrastructure?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:08:03 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Viking Therapeutics soars after trial data for obesity drug",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645338-viking-therapeutics-stock-soars-obesity-data?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:02:22 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Fifth Third Bancorp raised to Buy at Citi on Comerica integration, higher rate setup",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645331-fifth-third-bancorp-raised-to-buy-at-citi-on-comerica-integration-higher-rate-setup?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:01:26 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Canopy Growth expands into UK medical cannabis market via GROW Group partnership",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645337-canopy-growth-expands-into-uk-medical-cannabis-market-via-grow-group-partnership?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 07:59:52 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "NIQ launches friendly bid to acquire Australia&#x2019;s U Group",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645334-niq-launches-friendly-bid-to-acquire-australia-s-u-group?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 07:54:21 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Real estate stocks with the strongest dividend growth grades",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645336-real-estate-stocks-with-the-strongest-dividend-growth-grades?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 07:54:01 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CollPlant regains Nasdaq compliance",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645335-collplant-regains-nasdaq-compliance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 07:46:39 -0400",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Oil Stocks Right Now",
-    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-oil-stocks",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $10",
-    "desc": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#8230; Continued The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-under-10",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Solar Stocks",
-    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-solar-stocks",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Gold Stocks Right Now",
-    "desc": "The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you plan to diversify your portfolio in light of recent events, investing in gold stocks could be a good choice. Gold stocks not only track the movements of gold prices that tend to rise in uncertain times, but they also generally gain value in a rising stock market.&#160; Gold stocks could serve as a &#8230; Continued The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-gold-stocks",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Tech Stocks Right Now",
-    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-tech-stocks",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Semiconductor Stocks",
-    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Financial Stocks for the Week",
-    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $5",
-    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-stocks-under-5",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Energy Stocks",
-    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-energy-stocks",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $20",
-    "desc": "The post Best Stocks Under $20 by Wayne Duggan appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $20 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Stocks under $20 offer investors and traders a lower-cost alternative to more expensive stocks. Despite the misperception that lower-priced stocks carry more risk, the risk profile of many stocks under $20 &#8230; Continued The post Best Stocks Under $20 by Wayne Duggan appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-under-20",
-    "pubDate": "Tue, 22 Sep 2026 11:12:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons OTIS is Risky and 1 Stock to Buy Instead",
-    "desc": "Over the past six months, Otis’s shares (currently trading at $66.84) have posted a disappointing 15.4% loss, well below the S&P 500’s 16.2% gain. This might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-otis-risky-1-114146888.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:41:46 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Nasdaq hits record close as AI stocks rally, futures steady",
-    "desc": "The Nasdaq Composite jumped 2.3% on Monday, while S&P 500 and Dow futures pointed to a steady open Tuesday",
-    "link": "https://qz.com/nasdaq-record-close-ai-stocks-futures-steady-092226?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:26:26 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Premarket movers: Quest, Labcorp hit by CMS cuts",
-    "desc": "Investing.com - U.S. stock index futures steadied on Tuesday, following a strong session on Wall Street that saw the benchmark S&P 500 post its best day since August, helped by gains in artificial intelligence-linked stocks.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-quest-labcorp-hit-115544165.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:55:44 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons DOX is Risky and 1 Stock to Buy Instead",
-    "desc": "Over the past six months, Amdocs’s shares (currently trading at $59.50) have posted a disappointing 8.6% loss, well below the S&P 500’s 16.2% gain. This might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-dox-risky-1-114946044.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:49:46 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "McDonald's investor day 2026: plan to win back diners",
-    "desc": "The fast-food chain will outline its McDonald's > NEXT strategy on Wednesday, covering restaurant renovations, menu changes, and cost cuts",
-    "link": "https://qz.com/mcdonalds-investor-day-growth-strategy-092226?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:28:48 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Where Will QQQ Be in 20 Years? Here's What the Nasdaq-100's Historical Growth Rate Suggests.",
-    "desc": "Tech stocks don't always beat the rest of the market.",
-    "link": "https://www.fool.com/investing/2026/09/22/where-will-qqq-be-in-20-years-historical-growth/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:20:00 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Equity Futures Mostly Flat Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict",
-    "desc": "US equity futures were mostly unchanged pre-bell Tuesday as oil prices declined amid optimism that t",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-115703333.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:57:03 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Tech Rally Pauses, But Soft Oil Lifts Wall Street Pre-Bell; Asia, Europe Up",
-    "desc": "Wall Street futures pointed modestly higher pre-bell Tuesday as the tech rally paused, but global cr",
-    "link": "https://finance.yahoo.com/markets/articles/tech-rally-pauses-soft-oil-110942833.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:09:42 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Accelevation Launches Roadshow for Proposed Initial Public Offering",
-    "desc": "MIAMISBURG, Ohio, Sept. 22, 2026 (GLOBE NEWSWIRE) -- Accelevation Holdings Corp. (“Accelevation”) today announced the launch of the roadshow for its proposed initial public offering of 30,000,000 shares of its Class A common stock, including 8,635,165 shares offered by Accelevation and 21,364,835 shares offered by certain selling stockholders. In addition, the selling stockholders intend to grant the underwriters a 30-day option to purchase up to an additional 4,500,000 shares of Class A common",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/accelevation-launches-roadshow-proposed-initial-105200165.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 10:52:00 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Iran's Fars Calls Reuters' Hormuz Reopening Story \"Invalid\" Ahead Of Trump's UN Address",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iran's Fars Calls Reuters' Hormuz Reopening Story \"Invalid\" Ahead Of Trump's UN Address</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Update:</strong></p> <ul><li><em><strong>Iran's Fars Rejects</strong> Hormuz Reopening Reports As Brent Slides <$100 On Diplomatic Hopes</em></li> <li><em>Brent Tumbles On US Media & Aligned Outlets <strong>Pushing Rumored Diplomatic Efforts</strong> </em></li> </ul><h2><strong>Iran's Fars Rejects Reporting </strong></h2> <p>Kyodo and Reuters published positive diplomatic headlines early Tuesday morning that sent Brent crude futures tumbling below $100 a barrel, but Iran's semi-official <strong>Fars News Agency denied them</strong>.</p> <p>Kyodo and Reuters, citing Iranian sources, reported that Tehran could reopen the Strait of Hormuz within seven days if Washington eased US naval pressure on the Hormuz chokepoint and lifted its blockade of Iranian ports.</p> <p><strong>Fars called those two reports \"invalid and incorrect.\"</strong></p> <p>Despite Fars' rejection of the reporting, US media and aligned outlets <span style=\"box-sizing: border-box; margin: 0px; padding: 0px;\">focused this morning on rumored diplomatic efforts to resolve the conflict ahead of President Trump's United Nations General Assembly address later today</span>.</p> <p><b>Brent crude remains below $100.</b></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_119d2e57.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_119d2e57.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b0946c53-2887-472a-b3bf-bf694055d26f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_119d2e57.png\" /></a></p> <h2>Brent Tumbles Below $100 After Report Says Iran Offers To Reopen Hormuz Chokepoint</h2> <p><strong>Brent crude futures tumbled</strong> early Tuesday, as much as 3%, and slid below the $ 100-a-barrel level to the low $98 range after reports that <strong>Iran offered to reopen the Strait of Hormuz within one week</strong> if the Trump administration begins easing naval pressure in the critical waterway and ends its blockade of Iranian ports. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_11745678.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_11745678.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"99f39889-a55d-4001-885f-f51b856c7157\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_11745678.png\" /></a></p> <p><strong>Tehran conveyed the proposal through intermediaries</strong> as part of efforts to revive negotiations and end the conflict, <a href=\"https://english.kyodonews.net/articles/-/85911\">Kyodo News</a> reported, citing a senior Iranian government official. </p> <p>The <strong>offer calls for the US naval blockade of the critical waterway and Iranian ports to end in exchange for reopening the strait</strong>. This comes as Treasury Secretary Scott Bessent's economic war against Tehran has ramped up (<a href=\"https://www.zerohedge.com/geopolitical/bessent-declares-all-iran-airlines-be-shut-down-around-world-wednesday\">read latest</a>). </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_06-55-32.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_06-55-32.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f10b373d-d761-4b27-8d57-f96a96780c8c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_06-55-32.png\" /></a></p> <p>Here's more from the Japanese outlet:</p> <p><em>The <strong>proposal, which has already been conveyed to Washington through mediators</strong>, calls for renewed talks aimed at reaching a permanent end to hostilities between the two countries, the official said.</em></p> <p><em><strong>Tehran plans to use the U.N. General Assembly gathering</strong> this week in New York to consult with countries acting as intermediaries.</em></p> <p><em>The <strong>official ruled out a meeting between Iranian President Masoud Pezeshkian</strong> and U.S. President Donald Trump on the fringes of the gathering, but said progress toward an agreement remains possible.</em></p> <p><em>\"<strong>There is a possibility of moving toward an agreement</strong>,\" the official said, while adding that Washington must demonstrate \"seriousness and commitment\" if diplomacy is to advance.</em></p> <p><em><strong>Iran is seeking signs from Washington that it is prepared to return to negotiations</strong> and take steps toward an end to the U.S. military blockade of Iranian ports and a halt to military operations related to the Strait of Hormuz, the official said.</em></p> <p><em>If such steps are taken, <strong>Iran is prepared to reopen the strategic waterway</strong> within seven days and return to the negotiating table, according to the official.</em></p> <p>Hamad Hussain, senior climate and commodities economist at Capital Economics, was quoted by <a href=\"https://www.reuters.com/business/energy/oil-rises-slightly-ahead-potential-us-iran-talks-2026-09-22/\">Reuters</a> as saying this overnight development is a <strong>positive sign</strong> that diplomatic efforts may be working.</p> <p>\"<strong>There may also be other obstacles, such as the issue of tolls and fees, to overcome before a lasting solution can be achieved</strong>,\" Hussain added.</p> <p>Later this morning, President <strong>Trump will address the United Nations General Assembly</strong> and meet with world leaders, likely discussing the Gulf conflict and Russia's war in Ukraine.</p> <p>Despite another exchange of threats between Washington and Tehran on Sunday, <strong>Trump said he was open to meeting Iranian President Masoud Pezeshkian this week at UNGA</strong>. An Iranian official subsequently told Reuters that no direct meeting would take place. </p> <p><strong>Diplomatic movement appears to be happening under the surface</strong> to resolve the US-Iran conflict and the global diesel crisis. However, Ole Hansen, head of commodity strategy at Saxo Bank, <strong>does not expect much downside in Brent prices</strong> until transits through the maritime chokepoint increase, <a href=\"https://www.zerohedge.com/markets/diesel-hits-651-export-ban-fears-mount-gasoline-squeeze-looms\">particularly shipments of refined products</a>, where the real energy crisis lurks ahead of the Northern Hemisphere winter.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T11:47:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 07:47</span>",
-    "link": "https://www.zerohedge.com/energy/brent-tumbles-below-100-after-report-says-iran-offers-reopen-hormuz-chokepoint",
-    "pubDate": "Tue, 22 Sep 2026 11:47:00 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "'Survival Mode' - Farmers Crushed As Trump's War On Iran Sends Diesel Cost Soaring",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">'Survival Mode' - Farmers Crushed As Trump's War On Iran Sends Diesel Cost Soaring</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>As Donald Trump's war on Iran nears the seven-month mark, the economic damage is reverberating all over the world, and all across the United States. Among the Americans who are feeling the most pain from a war their federal legislators never declared are the nation's<strong> farmers, who are growing increasingly desperate under the weight of rising costs for diesel, fertilizer and equipment</strong>.</p> <p>It's a demographic that leans hard to the right, but now feels let down by Trump and others in Washington. <strong>\"It's his war that caused this, this war in Iran. We're not winning that war. And many farmers feel like we shouldn't be there,\"</strong> farmer John Boyd, Jr <a href=\"https://www.msn.com/en-ca/money/general/farmer-tears-trump-apart-saying-he-hasn-t-kept-his-promise/ar-AA2cbtcz?ocid=msedgntp&pc=HCTS&cvid=c2bf3d9abc4a4639a10f0355ff23d8d5&ei=9\">told</a> <em>CNN</em>. Trump says the war in Iran is necessary to prevent the country from building a nuclear weapon. However, going back to 2007 and up to the eve of the war, the US intelligence committee has <a href=\"https://www.starkrealities.net/p/join-us-military-kill-die-for-israel\">repeatedly assessed</a> that Iran was not building one. </p> <p>\"I've done this 34 years. <strong>I have never worried and stressed like I have the last year,\"</strong> North Carolina farmer Matt Bell told <a href=\"https://www.cbsnews.com/news/farmer-trump-voter-iran-war-tariffs-cost/\"><em>CBS News</em></a>. \"We've cut everything we can cut.\" Trying every option he can think of to improve his cash flow, Bell has put off replacing equipment, produced some of his own fertilizer, and opened a pumpkin patch and hayride business for the fall. The rising costs come after a difficult period had already weakened his operation's financial security. </p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/bell.jpeg?itok=rXB6WcnI\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/bell.jpeg?itok=rXB6WcnI\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0d3a8ef0-241d-4d34-a142-ce4279d10316\" data-responsive-image-style=\"inline_images\" height=\"301\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/bell.jpeg?itok=rXB6WcnI\" width=\"500\" /></a> <figcaption><strong>\"We're just getting to the point now there's nothing left to cut,\" farmer Matt Bell told <em>CBS News</em></strong></figcaption></figure><p>\"The last several years in agriculture have been terrible, and we have just cut the fat anywhere we could. But <strong>we're just getting to the point now there's nothing left to cut.</strong> You cannot run without fuel. You cannot run without fertilizer. You have to have that,\" Bell said. </p> <p>As a result of a major reduction in oil exports from the Persian Gulf, the nationwide average cost for a gallon of diesel hit $6.49 this week, up 75% from a year ago, according to the <a href=\"https://gasprices.aaa.com/\">AAA</a>. Lately, the <strong>price volatility has led Bell's diesel distributors to offer price quotations that are only good for a matter of hours</strong>. He'd budgeted $35,000 for fuel in 2026, but blew past that number in August. \"Every piece of equipment on this farm runs on diesel,\" he emphasized. </p> <p>In an interview with <a href=\"https://youtu.be/TzB7JsTLeKs?si=ZcwcA24P6SbzZn2F&t=209\"><em>Sky News</em></a>, Texas cattle rancher Lynn Fleming said her August outlay for few was almost double what she'd paid in recent years. <strong>\"Obviously the main [factor] is what we're facing everyday with the Iranian situation,\"</strong> Fleming said. Her husband, Robert, said he felt blindsided by the war. <strong>\"We had no idea that he was going to pull the prank with the Strait of Hormuz.</strong> He didn't tell us ... he was going to go do the military maneuvers and try to control the oil supply over there. <strong>We had no warning of what was going to happen.\" </strong>A major cornerstone of Trump's 2024 campaign was his pledge to be a \"peace president\" who would refrain from starting any new wars. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">American farmer on Trump: “We had no idea the he was going to pull the prank with the Strait of Hormuz.. and try to control the oil supply. We had no warning of what was going to happen.” <a href=\"https://t.co/u3IE50pEqn\">pic.twitter.com/u3IE50pEqn</a></p> — Molly Ploofkins (@Mollyploofkins) <a href=\"https://x.com/Mollyploofkins/status/2100900466334880219?ref_src=twsrc%5Etfw\">September 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>In addition to the war, Bell blames Trump's tariff policies for boosting the prices of many of a farmer's essentials. </strong>\"Everything we're touching, the fertilizer, fuel, chemicals, seed, parts — you know, the whole nine yards, everything that we touch has gone up,\" he said. </p> <p>Cattle ranchers say they felt undercut by Trump's decision to combat rising food prices by eliminating tariffs on imported beef -- at a time when US ranchers were already under financial duress. <strong>\"I'm already absorbing your high fuel prices that came out of nowhere,\"</strong><strong> South Texas rancher Josh Eilers told <em>Sky</em>. \"It's like, c'mon guys, just help me out a little bit.</strong> I just can't keep absorbing more and more and more, or I simply won't be able to afford to do this anymore.\" </p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">“I’m paying $7 a gallon here for diesel fuel.”<br /><br /> “My combine holds 140 gallons.”<br /><br /> “That’s right at $1,000 to fill up my combine.”<br /><br /> For farmer John Boyd Jr., those numbers illustrate a much bigger problem in American agriculture.<br /><br /> Farmers are paying more for the fuel, fertilizer,… <a href=\"https://t.co/lTesmNvLHW\">pic.twitter.com/lTesmNvLHW</a></p> — Farm Action (@FarmActionUS) <a href=\"https://x.com/FarmActionUS/status/2100241797972701338?ref_src=twsrc%5Etfw\">September 16, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"I do not want any American to feel sorry for the American farmer,\" said Bell. <strong>\"I want the Americans to be mad that we have been put in this situation.</strong> <strong>We're fighting for survival and we're running out of options</strong>... I am very mad. I think there's been some very bad policy that's been made that has led things to get to where we are.\" </p> <p>Most of the farmers and ranchers quoted in this article say they voted for Trump. Their ire over the state of affairs is surely contributing to a major nationwide dip in Republican enthusiasm going into the midterms. Robert Fleming had this to say: \"I'm afraid there's going to be some changes made [in] voting. Maybe people not even voting, who knows, because <strong>a lot of the people feel like we the people are not being heard.\" </strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T11:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 07:45</span>",
-    "link": "https://www.zerohedge.com/commodities/survival-mode-farmers-crushed-trumps-war-iran-sends-diesel-cost-soaring",
-    "pubDate": "Tue, 22 Sep 2026 11:45:00 +0000",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "NY Lawmaker Launches $30 Million Effort To Coordinate Democrat Control Of AI",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">NY Lawmaker Launches $30 Million Effort To Coordinate Democrat Control Of AI</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>New York Assemblymember Alex Bores is launching a $30 million effort to unite Democrats behind a common artificial intelligence regulatory agenda ahead of the 2028 elections</strong>, taking the issue that defined his unsuccessful congressional campaign to a national stage.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/alex%20bores.png?itok=do8BEi81\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/alex%20bores.png?itok=do8BEi81\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8e5f87e7-dfdf-4ff3-9f83-6777891d7332\" data-responsive-image-style=\"inline_images\" height=\"361\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/alex%20bores.png?itok=do8BEi81\" width=\"500\" /></a> <figcaption><em><strong>New York State Assembly member Alex Bores</strong></em></figcaption></figure><p>His congressional run was bankrolled by Anthropic's political money, a PAC funded with $20 million from the company and $401,250 from its employees, and his new group has not said who is funding it.</p> <p>The organization, \"<strong>Who Decides,</strong>\" is <a href=\"https://whodecides.org/press/who-decides-launches\">launching</a> Tuesday with Bores and his former chief of staff, Anna Myers, leading an effort to \"build the winning Democratic answer to AI.\" Its objective is to turn concerns about the technology into a shared platform for Democratic candidates, from presidential contenders to candidates further down the ballot.</p> <p>\"Who Decides' goal is that by 2028, Democratic candidates from the top of the ticket on down run with a common AI safety agenda,\" the group's launch announcement states. \"That means addressing the harms people already see and the broader danger that increasingly powerful and out-of-control systems could destabilize our economy, our democracy, and our safety.\"</p> <p><strong>The group plans to concentrate on 11 states it identifies as important to the 2028 presidential primary and general election</strong>: South Carolina, Nevada, New Hampshire, New Mexico, Michigan, Virginia, Arizona, Georgia, North Carolina, Pennsylvania and Wisconsin. Its plans include quarterly state and national polling, national conferences and partnerships with local organizations, <em>Politico</em> <a href=\"https://www.politico.com/news/2026/09/14/alex-bores-ai-group-who-decides-01076451?utm_source=dlvr.it&utm_medium=twitter\">reports</a>.</p> <p>Those partnerships would bring together labor unions, parents, educators, civil-rights organizations, faith groups and other constituencies. The <a href=\"https://whodecides.org/\">organization</a> says it will work with those groups to develop AI policy positions and put them before candidates through questionnaires, forums, endorsements and briefings.</p> <p><strong>\"We don't let five people write the laws for hundreds of millions of Americans,\"</strong> Bores says in the announcement, referring to the concentration of decision-making among AI executives. \"There is no reason to let them write the rules for AI.\"</p> <h2>An Organizing Push Ahead Of 2028</h2> <p>The launch follows a series of warnings from within the AI industry and competing political responses over how aggressively Washington should intervene. Former Anthropic and OpenAI researcher Jacob Coxon warned last week that increasingly powerful AI could threaten humanity. Leaders at Anthropic and OpenAI subsequently <a href=\"https://www.nextgov.com/artificial-intelligence/2026/09/trump-redoubles-pro-ai-stance-amid-calls-slow-development/415981/\">called</a> for slowing development so safety measures could keep pace.</p> <p><strong>Former President Barack Obama has <a href=\"https://www.reuters.com/legal/government/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-2026-09-13/\">urged</a> Democrats to make AI a central political issue</strong>, with plans addressing both safety and the technology's economic consequences. His comments included a call for the party's 2028 presidential candidates to focus on the issue.</p> <p>The launch comes days after <strong>AI techbros agreed that a 'pause' in development was needed</strong> along with new oversight (something Beijing <a href=\"https://www.zerohedge.com/geopolitical/beijing-rejects-pause-slams-darios-fearmongering-cold-war-playbook\">won't agree</a> to). In a Saturday <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">essay</a> which set off the calls to slow down, Anthropic CEO Dario Amodei proposes governance that lives largely inside the industry: <strong>third-party evaluators embedded in the labs on terms the labs set,</strong> with the right to publish their findings; coordination among frontier companies on safety standards, enabled by a narrow antitrust waiver from Washington; and, only later, agreements with foreign governments. He calls federal regulation of every frontier lab the most effective approach but argues that passing laws takes time. Who Decides starts from the premise that \"a few executives inside a handful of companies are making all the decisions,\" and it refuses their money. <strong>The two efforts want many of the same rules, including published safety plans, incident reporting and independent testing of frontier models, and disagree about who should write them and how soon.</strong> The industry's safety wing has already bet on Bores once: Public First Action, a PAC funded by a $20 million Anthropic donation, <a href=\"https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac\">spent</a> $450,000 supporting him in the primary.</p> <p>President Trump <a href=\"https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9\">pushed</a> in the opposite direction Monday, rejecting calls for additional restrictions and arguing that existing government powers were sufficient. He also warned that slowing American development could benefit China.</p> <h2>Incest Is Best?</h2> <p>Bores' new group grew out of a campaign funded by Amodei's network - which runs through <strong>Effective altruism. </strong>The same network produced METR, the evaluator Amodei's essay names as his preferred watchdog - which itself was bankrolled largely by Facebook co-founder Dustin Moskovitz.<strong> Its most famous adherent, Sam Bankman-Fried, is in prison for fraud, and his $500 million stake in Anthropic, bought in 2022 with FTX customer <a href=\"https://www.yahoo.com/news/articles/ai-giant-anthropic-ties-cult-213537511.html\">funds</a>, was liquidated in the exchange's bankruptcy</strong>. Anthropic grew up inside that world: Moskovitz and Skype co-founder Jaan Tallinn funded its early rounds; Dario Amodei was an early signer of the movement's giving pledge; <strong>his sister and co-founder Daniela is married to Holden Karnofsky, the Open Philanthropy co-founder who <a href=\"https://forum.effectivealtruism.org/posts/53Gc35vDLK2u5nBxP/anthropic-is-not-being-consistently-candid-about-their\">joined</a> Anthropic last year</strong>; and the trust with power over the company's board includes the CEO of the Centre for Effective Altruism.</p> <p><strong>Bores' new group grew out of a campaign funded by Amodei's network - </strong>which runs through <strong>effective altruism</strong>, a left-wing 'movement' that began with global poverty and animal welfare, preaches earning as much as possible in order to give it away, and over the past decade made preventing an AI catastrophe its central cause, bankrolled largely by Facebook co-founder Dustin Moskovitz. <strong>The same network produced METR, the evaluator Amodei's essay names as his preferred watchdog.</strong> The movement's most famous adherent, <strong>Sam Bankman-Fried,</strong> is in prison for fraud, and his $500 million stake in Anthropic, bought in 2022 with what prosecutors said were FTX customer <a href=\"https://www.yahoo.com/news/articles/ai-giant-anthropic-ties-cult-213537511.html\">funds</a>, was liquidated in the exchange's bankruptcy. <strong>Anthropic grew up inside that world: Moskovitz and Skype co-founder Jaan Tallinn funded its early rounds;</strong> Dario Amodei was an early signer of the movement's giving pledge; his sister and co-founder Daniela is married to Holden Karnofsky, the Open Philanthropy co-founder who <a href=\"https://forum.effectivealtruism.org/posts/53Gc35vDLK2u5nBxP/anthropic-is-not-being-consistently-candid-about-their\">joined</a> Anthropic last year; and the trust with power over the company's board includes the CEO of the Centre for Effective Altruism.</p> <p><strong>The same network reached Bores</strong>. Anthropic's $20 million gift to Public First Action, which backed him, sits alongside $401,250 that Anthropic employees <a href=\"https://www.transformernews.ai/p/anthropic-employees-philanthropy-billions-donations-effective-altruism-coefficient-giving-ai-safety\">gave</a> to campaigns supporting him. Who Decides' pledge bans frontier-lab executives and corporate money - but doesn't bar the philanthropies that fund the AI-safety field.<strong> The group won't say who supplied the $10 million it has reportedly raised.</strong> The movement has tried electoral politics before: in 2022, Bankman-Fried's super PAC spent more than $10 million on Carrick Flynn's <a href=\"https://www.cbsnews.com/amp/news/crypto-billionaire-sam-bankman-fried-funds-house-candidate-carrick-flynn\">House primary</a> in Oregon (which Flynn lost). </p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/ea_anthropic_bores_money_map.png?itok=NjWNQdpH\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/ea_anthropic_bores_money_map.png?itok=NjWNQdpH\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8e7f366e-710a-4757-a747-8dc6ec81e9f5\" data-responsive-image-style=\"inline_images\" height=\"552\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/ea_anthropic_bores_money_map.png?itok=NjWNQdpH\" width=\"500\" /></a></p> <p>Who Decides, meanwhile, <strong>is calling for an AI agenda that a future Democratic president could act on during the first 100 days in office.</strong></p> <h2>From A Congressional Defeat To A National Campaign</h2> <p>Bores made AI regulation a central issue in his congressional primary campaign after helping pass New York's RAISE Act. The legislation requires major frontier AI developers to publish safety plans and report critical safety incidents. <strong>Although he <a href=\"https://www.politico.com/news/2026/08/11/alex-bores-ai-regulation-primary-loss-01031248\">lost</a> the primary, Bores and Myers describe the campaign as the foundation for their new organization.</strong></p> <p>\"The lesson Bores and Myers took from those fights was that confronting the AI industry is fertile political ground and that public demand for answers on AI policy exists but remains scattered,\" the announcement states.</p> <p><strong>The organization says it will reject \"corporate money or contributions from senior executives at frontier AI companies.\"</strong> Its website directs prospective donors to a <a href=\"https://givebutter.com/who-decides-website\">Givebutter</a> fundraising page.</p> <p>The $30 million figure refers to the overall effort, rather than an established amount already raised. A New York Times report summarized by Techmeme says<strong> the nonprofit has raised $10 million and plans to seek another $20 million in 2027.</strong></p> <p>For Bores and Myers, the stated task is to turn separate concerns about AI into a coordinated political program.</p> <p>\"What's missing is a coalition capable of turning that energy into a governing consensus before the technology, the economic dislocation, and the partisan battle lines harden,\" the launch announcement says.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T10:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 06:55</span>",
-    "link": "https://www.zerohedge.com/political/ny-lawmaker-launches-30-million-effort-coordinate-democrat-control-ai",
-    "pubDate": "Tue, 22 Sep 2026 10:55:00 +0000",
     "fetchedAt": "2026-09-22T12:09:30.644Z"
   }
 ]
