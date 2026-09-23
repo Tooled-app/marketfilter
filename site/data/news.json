@@ -1,6 +1,350 @@
 [
   {
     "source": "cnbc",
+    "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+    "desc": "Qantas plans to start selling tickets for its first New York to Sydney nonstop flight.",
+    "link": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+    "pubDate": "Tue, 22 Sep 2026 23:00:01 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Flight disruptions ease at Newark, Philadelphia airports following equipment outage",
+    "desc": "Flight delays continued Tuesday but were far fewer compared with Monday, when an FAA flight data system failed and a damaged cable severed a backup system.",
+    "link": "https://www.cnbc.com/2026/09/22/flight-disruptions-ease-at-newark-philadelphia-after-equipment-outage.html",
+    "pubDate": "Tue, 22 Sep 2026 14:32:16 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "US judge dismisses Michigan climate lawsuit against oil companies",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
+    "pubDate": "2026-09-23 00:54:41",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "InnovAge stockholders price 10M share offering at $9.25",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/innovage-stockholders-price-10m-share-offering-at-925-93CH-4911954",
+    "pubDate": "2026-09-23 00:52:32",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Tuas FY26 slides: profit surges 328% as stock sinks near 52-week low",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/tuas-fy26-slides-profit-surges-328-as-stock-sinks-near-52week-low-93CH-4911953",
+    "pubDate": "2026-09-23 00:52:05",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Tuas FY26 slides: profit jumps 328% as M1 deal fails, stock sinks",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/tuas-fy26-slides-profit-jumps-328-as-m1-deal-fails-stock-sinks-93CH-4911952",
+    "pubDate": "2026-09-23 00:51:24",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Insurance Australia stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-insurance-australia-stock-sliding-today-93CH-4911951",
+    "pubDate": "2026-09-23 00:50:55",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is IDP Education stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-idp-education-stock-sliding-today-93CH-4911950",
+    "pubDate": "2026-09-23 00:50:49",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Clover posts record H2 2026 as margins widen",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-clover-posts-record-h2-2026-as-margins-widen-93CH-4911947",
+    "pubDate": "2026-09-23 00:48:47",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Snowflake EVP Christian Kleinerman sells $903k in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-sells-903k-in-stock-93CH-4911944",
+    "pubDate": "2026-09-23 00:46:16",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Australian manufacturing PMI shrinks in Sept, services slow",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/australian-manufacturing-pmi-shrinks-in-sept-services-slow-93CH-4911943",
+    "pubDate": "2026-09-23 00:45:37",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Tuas H2 2026 profit jumps, but shares sink 14%",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tuas-h2-2026-profit-jumps-but-shares-sink-14-93CH-4911934",
+    "pubDate": "2026-09-23 00:38:33",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "ft",
+    "title": "Burnham says world must ‘rise to the moment’ on AI",
+    "desc": "UK Prime Minister says he anticipates AI will also be a ‘source of disruption to the way we live and work’",
+    "link": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+    "pubDate": "Tue, 22 Sep 2026 19:27:56 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump is checking out of his presidency",
+    "desc": "With no way out of his war with Iran, he is increasingly obsessed with monuments to himself",
+    "link": "https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 10:35:30 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "ft",
+    "title": "‘MBS will not forget’: Trump’s reluctance to fight Houthis rattles Saudi Arabia",
+    "desc": "US hesitation has amplified doubts in Riyadh about Washington’s reliability as its prime defence partner",
+    "link": "https://www.ft.com/content/99457bcb-d98f-4719-a203-688daefcc3f7?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 11:00:02 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+    "desc": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+    "link": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 23:42:36 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "ft",
+    "title": "Qantas pushes ahead with new ultra-long flights despite high fuel prices",
+    "desc": "Chief executive Vanessa Hudson says Australian airline is confident demand for nonstop services is strong",
+    "link": "https://www.ft.com/content/276f5264-c3e1-418b-8acc-cd3d4f1ed31b?syn-25a6b1a6=1",
+    "pubDate": "Tue, 22 Sep 2026 23:18:27 GMT",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Trump says he supports U.S. diesel export ban; Bessent says studying feasibility",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645794-trump-says-he-supports-us-diesel-export-ban-bessent-says-studying-feasibility?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 19:50:45 -0400",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Aytu outlines $49M-$54M FY27 operating expense plan as it targets 66%-67% gross margin in Q4 FY27",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4645795-aytu-outlines-49m-54m-fy27-operating-expense-plan-as-it-targets-66-percentminus-67-percent?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 22 Sep 2026 19:11:08 -0400",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Review & Preview: Musing Over AI",
+    "desc": "The Nasdaq closes at a record for second straight day. Plus, two Fed officials on why the central bank had no choice but to raise rates.",
+    "link": "https://finance.yahoo.com/m/105cc8ee-f464-3780-a004-04850029c88e/review-%26-preview%3A-musing-over.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:55:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Pentagon Unveils New Testing Process For US Generals",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Pentagon Unveils New Testing Process For US Generals</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://www.theepochtimes.com/us/pentagon-unveils-new-testing-process-for-us-generals-6093426?utm_source=partner&utm_campaign=ZeroHedge\"><em>Authored by Jackson Richman via The Epoch Times,</em></a></p> <p><strong>The Pentagon is changing its process for promoting generals,</strong> Secretary of War Pete Hegseth announced on Sept. 22.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/images_42.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/images_42.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c230c576-33e1-4c09-8ebd-133c111cf716\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/images_42.jpg\" /></a></p> <p>Hegseth announced the new process, known as the Joint Warfighter Evaluation, in a video posted on X.</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Today, I am announcing the Joint Warfighter Evaluation. <a href=\"https://t.co/F0JIfbmEKs\">pic.twitter.com/F0JIfbmEKs</a></p> — Secretary of War Pete Hegseth (@SecWar) <a href=\"https://x.com/SecWar/status/2102382410600182000?ref_src=twsrc%5Etfw\">September 22, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>Its goal is to reduce bureaucracy and ensure meritocracy across senior ranks, he said.</strong></p> <p>Starting this year, colonels and Navy captains screening to be a one-star general will undergo the assessment, according to Hegseth.</p> <p><em>“While the backbone of our military is our NCOs and our petty officers, victory depends on the commanders who lead them,” he said. </em></p> <p><em><strong>“America needs warfighters who can master a chaotic battle space.”</strong></em></p> <p>Hegseth cited Gen. George Marshall using the Louisiana Maneuvers, a massive series of military exercises to prepare U.S. forces before entering World War II.</p> <p>He said that this kind of testing brought out military leaders such as Dwight Eisenhower, who planned and conducted the U.S. invasion of Normandy and led the liberation of Western Europe; Adm. Chester Nimitz, who led Allied air, land and sea in the Pacific theater during World War II; and Army Gen. Omar Bradley, the first chair of the Joint Chiefs of Staff who led the U.S. military’s policymaking during the Korean War.</p> <p><em>The Joint Warfighter Evaluation “brings that standard to the modern multi-domain fight,” Hegseth said.</em></p> <p><em><strong>“This evaluation is an objective equalizer. The scenario only cares about operational decisions under pressure.”</strong></em></p> <p>Hegseth recalled that a year ago he tasked Stuart Scheller, deputy chief of staff to the under secretary of war for personnel and readiness, to challenge years of the promotion process.</p> <p><em>“Our troops deserve commanders chosen by proven competence, not paper credentials,” Hegseth said.</em></p> <p><em><strong>“The Joint Warfighter Evaluation ensures our flag is carried by our most lethal and most adaptable leaders.”</strong></em></p> <p>Hegseth has emphasized what he calls the “warrior ethos,” pushing for battle-ready personnel based on a high level of fitness. He has criticized what he said has been diversity, equity, and inclusion standards in promoting individuals.</p> <p><strong><em>“Real toxic leadership is endangering subordinates with low standards. Real toxic leadership is promoting people based on immutable characteristics or quotas instead of based on merit,”</em></strong> Hegseth told senior military leaders last year in Quantico, Virginia.</p> <p>While the process of promotion to general is being changed, the Joint Warfighter evaluation is not replacing the existing promotion process, Scheller told Fox News Digital. Rather, it is a factor in addition to performance reports and an officer’s career record.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T00:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 20:05</span>",
+    "link": "https://www.zerohedge.com/military/pentagon-unveils-new-testing-process-us-generals",
+    "pubDate": "Wed, 23 Sep 2026 00:05:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "White House Cancels Coverage For 750,000 ACA Enrollees, Citing Fraud",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">White House Cancels Coverage For 750,000 ACA Enrollees, Citing Fraud</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Vice President JD Vance <a href=\"https://thehill.com/policy/healthcare/6104381-vance-oz-aca-obamacare-crackdown/\">said Tuesday</a> that about 750,000 people on Affordable Care Act plans were never entitled to the coverage</strong>, and that pulling their subsidies will save taxpayers <a href=\"https://www.cms.gov/newsroom/press-releases/cms-cracks-down-fraud-waste-abuse-federal-health-insurance-marketplacer\">$2.2 billion</a>. Mehmet Oz, who runs the Centers for Medicare and Medicaid Services, stood with him. The savings number is an administration estimate. The Congressional Budget Office has not scored it.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/wp7NfCId.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/wp7NfCId.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bbb9c5aa-513f-4522-b872-ce3278f029b8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/wp7NfCId.jpg\" /></a></p> <p>CMS had already acted. <a href=\"https://public-inspection.federalregister.gov/2026-19493.pdf\">Rulemaking documents</a> posted Tuesday in the Federal Register say the agency canceled 315,000 marketplace policies on Aug. 31, covering roughly 760,000 people, which the rule describes as unauthorized enrollments submitted through agents and brokers. Vance's 750,000 and the 760,000 covered lives are the same purge, counted two ways.</p> <p>Officials also plan another pass at about 419,000 current enrollees, checking legal residency first and income second. \"We are actually making sure that people receiving Obamacare subsidies are actually entitled to receive them,\" Vance said. \"Amazingly we weren't doing that before.\"</p> <p>Brokers are next. CMS sent notices of intent to terminate to <a href=\"https://www.cms.gov/newsroom/fact-sheets/federal-marketplace-ffe-sbe-fp-anti-fraud-actions\">569 agents</a> and brokers who filed statistically implausible rates of 2026 applications without identifying information, such as a Social Security number. A separate <a href=\"https://public-inspection.federalregister.gov/2026-19493.pdf\">interim-final rule</a> freezes new agent and broker registrations until Feb. 1, 2027, before the usual comment period runs. Administration <a href=\"https://townhall.com/news/dmitri-bolt/2026/09/22/the-white-house-fraud-task-force-just-purged-760000-fraudulent-obamacare-enrollees-n2683383\">officials said</a> 40 brokers accounted for about 50,000 suspect enrollments and $45 million in subsidies. The National Association of Benefits and Insurance Professionals said a blanket freeze punishes licensed agents who did nothing wrong and will leave consumers with fewer people to call during open enrollment.</p> <p>Centene fell as much as <a href=\"https://finance.yahoo.com/healthcare/articles/trump-administration-remove-750-000-155942180.html\">3.9 percent</a> on the first headlines. Molina dropped as much as 3.5 percent, Elevance 1.9 percent, UnitedHealth 1.4 percent. Those firms write a large share of exchange business. <strong>Federal premium tax credits are paid to the insurer, not the enrollee.</strong></p> <h2>How The Administration Is Using The Word</h2> <p><strong>Part of the case is conventional fraud.</strong> Brokers collect commissions from insurers. After Congress fattened the premium tax credits, a lot of low-income plans carried a $0 net premium, so a policy could be opened without the customer ever seeing a bill. CMS recorded roughly <a href=\"https://waysandmeans.house.gov/2025/12/03/watchdog-finds-consumer-harm-and-billions-of-taxpayer-dollars-wasted-in-health-care-fraud-in-affordable-care-act-plans/\">275,000 complaints</a> in an eight-month stretch of 2024 from people who said they had been enrolled or switched without consent. In February, a brokerage president and a marketing-company CEO were <a href=\"https://www.justice.gov/opa/pr/president-insurance-brokerage-firm-and-ceo-marketing-company-sentenced-233m-affordable-care\">sentenced</a> to 20 years each for a scheme that sought more than $233 million in subsidies. HHS has separately said more than <a href=\"https://www.newsweek.com/hhs-says-1-million-on-obamacare-dont-have-social-security-numbers-12142891\">a million</a> marketplace enrollments listed no Social Security number.</p> <p><strong>The rest is a verification net the last administration loosened and this one is pulling tight</strong>: income attestations, immigration paperwork, employer coverage, automatic re-enrollment onto free plans.</p> <p>The Government Accountability Office has found the same weak controls and has not signed off on the claim that millions of current enrollees are fake. GAO flagged at least <a href=\"https://www.gao.gov/products/gao-26-108742\">160,000</a> federal-marketplace applications in plan year 2024 for likely unauthorized changes, about 1.5 percent of the relevant pool. It found about 68,000 Social Security numbers used for more than a year of subsidized coverage in 2024; one number appeared on 125 policies. About $94 million in subsidies went out on numbers that matched the death file. Undercover testers got fictitious applicants approved at very high rates, and most of the 2025 fakes were still drawing subsidies months later. GAO has described that work as a set of risk indicators, not a census.</p> <p>HHS and the Paragon Health Institute produce the bigger tallies. Paragon compares people who signed up claiming income between 100 and 150 percent of poverty - the band that unlocked the largest subsidies - with Census estimates of how many people in that band could even qualify. Whatever is left over gets labeled improper. HHS instead measures how many enrollees in that band filed no claims, against historical norms. HHS put the peak at <a href=\"https://aspe.hhs.gov/reports/aca-exchange-enrollment-2026\">5.6 million</a> in 2025 and said 2.6 million are still on the books. Paragon's <a href=\"https://www.zerohedge.com/political/obamacare-fraud-estimated-cost-25-billion-year-report\">2026 figure</a> is about 6.2 million, or 27 percent of open-enrollment selections, with a possible price tag of $25 billion.</p> <p>Census income is not the projected income the marketplace uses. The survey misses low-income households. People with no claims get counted as phantoms; they are also just people who did not go to the doctor, or who bought a bronze plan with a deductible they never hit. In June, a federal judge in Maryland <a href=\"https://www.healthcaredive.com/news/judge-vacates-cms-aca-enrollment-eligibility-rule/822884/\">vacated most</a> of a 2025 rule the administration had justified with Paragon-style estimates, ruling that CMS had overridden the statute. CMS's <a href=\"https://public-inspection.federalregister.gov/2026-19493.pdf\">own paperwork</a> this week floated a different improper-spending figure for 2026: up to $6.6 billion.</p> <h2>Enrollment Was Already Falling</h2> <p>Exchange enrollment ran from about <a href=\"https://www.healthaffairs.org/content/forefront/marketplace-enrollment-tops-12-million-2021-largest-ever-funding-navigators\">12 million</a> early in the Biden term to a peak near <a href=\"https://aspe.hhs.gov/reports/aca-exchange-enrollment-2026\">24 million</a> once the extra subsidies landed and verification eased. Congress let those add-on credits expire. Premiums jumped, in some markets doubling. By February, effectuated enrollment was about 19.2 million, down <a href=\"https://www.kff.org/quick-insights/aca-marketplace-enrollment-is-down-by-3-million-after-big-jump-in-premium-payments/\">13 percent</a> from a year earlier and the sharpest drop since the exchanges opened.</p> <p>The White House credits <a href=\"https://aspe.hhs.gov/reports/aca-exchange-enrollment-2026\">integrity work</a>. <a href=\"https://www.kff.org/quick-insights/aca-marketplace-enrollment-is-down-by-3-million-after-big-jump-in-premium-payments/\">KFF</a> and the Center on Budget and <a href=\"https://www.cbpp.org/blog/nearly-3-million-fewer-people-secured-marketplace-coverage-after-republican-health-care-cuts\">Policy Priorities</a> credit the price spike. <strong>A phantom account that never should have existed and a family that quit after the bill hit $200 a month both show up as cancellations.</strong></p> <p>Open enrollment starts Nov. 1. Midterms are Nov. 3. Earlier this month Trump <a href=\"https://www.dailykos.com/stories/2026/9/10/800096629/community/trump-just-promised-to-cut-off-benefits-to-half-of-all-medicare-recipients-no-really/\">told</a> a Republican midterm convention in Dallas that his \"Great Healthcare Plan\" would \"stop all government payments to the big insurance companies.\"</p> <p>Some of the 760,000 were never patients. They were names on a file, opened without their knowledge. Killing those policies stops a check to an insurer and a commission to a broker. Some of the 419,000 in the next pass will lose coverage because they cannot produce papers on the new timeline, including people who were eligible. Democrats have been saying that out loud for months: fraud talk as the instrument for a coverage cut Congress already started by killing the extra subsidies.</p> <p>CMS has stopped payment on the August book and is closing the broker door. <strong>It has not released a table that splits the 760,000 into fictitious accounts, unauthorized switches, income or immigration mismatches, and eligible people who missed a form.</strong> Without that, $2.2 billion is still an estimate and 750,000 is a cancellation count.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T23:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 19:40</span>",
+    "link": "https://www.zerohedge.com/medical/white-house-cancels-coverage-750000-aca-enrollees-citing-fraud",
+    "pubDate": "Tue, 22 Sep 2026 23:40:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "At Least 150 Killed In Yemen Within Two Days Amid Indiscriminate Saudi Air Campaign",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">At Least 150 Killed In Yemen Within Two Days Amid Indiscriminate Saudi Air Campaign</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://thecradle.co/articles/at-least-150-killed-in-yemen-within-two-days-amid-indiscriminate-saudi-air-campaign\">Authored by News Desk via The Cradle</a>,</em></p> <p><strong>At least 150 people have been <a href=\"https://www.timesofisrael.com/liveblog_entry/over-150-killed-in-yemen-fighting-since-sunday-sides-say/\">killed</a> in Yemen since Sunday</strong> as Saudi warplanes launch indiscriminate strikes across the country and clashes continue between Ansarallah-led forces and Riyadh-backed proxies.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/57279318-b65e-11f1-9e39-00163e02c055_webp.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/57279318-b65e-11f1-9e39-00163e02c055_webp.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"45c72f28-61d8-4b54-ae8f-60e3f15779f2\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/57279318-b65e-11f1-9e39-00163e02c055_webp.jpg\" /></a> <figcaption>(Photo credit: Reuters)</figcaption></figure><p>\"The death toll from Saudi airstrikes, clashes, and artillery fire in the governorates of Taiz, Al-Jawf, Marib and Saada stands at 118,\" AFP reported on 22 September, citing what it said were Ansarallah-linked military sources.</p> <p>Sources close to the internationally recognized government, supported by Riyadh, say 36 of their fighters have been killed, according to AFP.</p> <p>Sirens sounded in Saudi Arabia on Tuesday due to more Yemeni strikes launched in response to the kingdom's aggression against Yemen.</p> <p>Hours earlier, Saudi strikes killed several people in Yemen.</p> <p><strong>An early morning strike by the Saudi-led coalition, targeting a residential home in the city of Mokha, in Yemen's Taiz Governorate, <a href=\"https://t.me/thecradlemedia/68240\">killed</a> six people, including two infants and a woman.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">BREAKING | Saudi airstrikes on a residential area in Mokha, southwestern Yemen, leave six civilians dead and eight wounded.</p> — The Cradle (@TheCradleMedia) <a href=\"https://x.com/TheCradleMedia/status/2102177278885068921?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <p>Several others were injured. Overnight, Yemen's retaliatory military operations triggered sirens across the kingdom.</p> <p>\"From Monday evening until Tuesday morning, Saudi Arabia experienced one of its most difficult nights as a state of alert and anxiety turned into a permanent and pressing condition - from Najran, Asir, Jizan, and Abha to Jeddah, Yanbu, and Al-Ula - amid the escalation of Yemeni deterrence,\" Yemeni news outlet <a href=\"https://english.masirahtv.net/post/58145/Saudi-Arabia-s-Most-Difficult-Night-Yemeni-Deterrence-Triggers-Widespread-Alerts\">Al-Masirah TV</a> reported.</p> <p>A day earlier, the Yemeni Armed Forces (YAF) <a href=\"https://t.me/MilitaryMediaY/46853\">said</a> Saudi Arabia has launched over 900 strikes on Yemen since the latest escalation began several weeks ago.</p> <p>\"The Saudi enemy carried out 157 airstrikes and missile attacks targeting the governorates of Al-Jawf, Taiz, Saada, and Marib, using F-15 and Typhoon warplanes that took off from the Khamis Mushait and Taif air bases, along with missile attacks launched from Najran and Jizan,\" the YAF statement read.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Saudi-led coalition strikes Yemen’s Taiz as Ansarallah forces advance<br /> ——<br /> Saudi-led coalition aircraft struck the Hayfan district in Yemen’s Taiz province, Al-Masirah TV reported. Local sources indicate the attack targeted a crowded market. The report did not provide details on… <a href=\"https://t.co/otmO4AFQUk\">pic.twitter.com/otmO4AFQUk</a></p> — The Cradle (@TheCradleMedia) <a href=\"https://x.com/TheCradleMedia/status/2102046242779889986?ref_src=twsrc%5Etfw\">September 21, 2026</a></blockquote> <p><strong>\"This brings the total number of airstrikes and missile attacks since the start of the escalation to 917,\"</strong> it added, stressing that the attacks will \"not go unanswered.\"</p> <p>Sanaa's recent <a href=\"https://thecradle.co/articles/sanaa-targets-sensitive-sites-in-riyadh-yanbu-as-saudi-warplanes-bombard-yemen\">retaliatory actions</a> against Saudi Arabia were triggered by the kingdom's July attack on Sanaa International Airport, which has been under blockade by Riyadh for over a decade since it began its devastating war on Yemen in 2015, leading a coalition of Arab states.</p> <p>Yemen has vowed to fully expel the Saudi-led coalition from Yemen. Last week, the YAF shot down a US-made Saudi F-15 warplane.</p> <p>Maritime data revealed recently that Saudi Arabia has paused its oil exports. The YAF has hit several Saudi tankers in recent weeks.</p> <p>Aramco sites across the country have also been repeatedly targeted, forcing facilities to shut down.</p> <p>Forty-eight Saudi tankers have been rerouted away from the Bab al-Mandab Strait, according to a 19 August YAF statement.</p> <p>An unclaimed attack recently targeted Saudi Arabia's key East-West Pipeline, causing severe damage.</p> <p><strong>Sanaa's forces have captured much of the western Yemeni coast and have seized multiple Red Sea islands formerly occupied by the UAE this month.</strong> Saudi and UAE-backed fighters have taken <a href=\"https://thecradle.co/articles/yemeni-army-storms-red-sea-islands-captures-bab-al-mandab-strait\">severe losses</a>. Sanaa has also taken Bab al-Mandab.</p> <p>Yemen has vowed to continue the \"escalation for escalation\" and \"blockade for blockade\" equation.</p> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T23:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 19:15</span>",
+    "link": "https://www.zerohedge.com/geopolitical/least-150-killed-yemen-within-two-days-amid-indiscriminate-saudi-air-campaign",
+    "pubDate": "Tue, 22 Sep 2026 23:15:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "California Declares State Of Emergency Ahead Of Strong El Niño",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">California Declares State Of Emergency Ahead Of Strong El Niño</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/california-declares-state-of-emergency-ahead-of-strong-el-nino-6093148?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Aldgra Fredly via The Epoch Times</a>,</em></p> <p><strong>California Gov. Gavin Newsom declared a state of emergency on Sept. 21 as the state prepares for what he described as the strongest El Niño storm season on record.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%285%29_17.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%285%29_17.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9fe54e39-2988-4743-a59d-ce0798a8e057\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%285%29_17.jpg\" /></a></p> <p>Newsom said the emergency declaration would allow state agencies to act more quickly for potential severe weather, including securing roads and critical infrastructure, positioning emergency supplies, and helping local partners to mitigate flood, landslide, and coastal risks.</p> <p><em>\"<strong>That is what this action is about. </strong>Giving communities the support they need, giving first responders the tools to do their jobs, and giving families the confidence that their state is ready,\" he said in a statement.</em></p> <p>The proclamation directs state agencies to take measures to reduce flood risks and pre-position food-fighting supplies such as sandbags and pumps.</p> <p><strong>It prepares the California National Guard to assist flood response, search-and-rescue efforts, engineering, and logistics missions when needed, according to the governor's office.</strong></p> <p>The governor also instructed state environmental and natural resources agencies to expedite permitting for projects that are focused on addressing flooding, landslides, and debris flows in the state.</p> <p><em>\"Through the governor's state of emergency, we're cutting red tape and fast-tracking the flood-protection and broader preparedness work communities need now,\" California Natural Resources Secretary Wade Crowfoot said in a statement.</em></p> <p><strong>El Niño is a climate pattern marked by the warming of sea surface temperatures in the central and eastern tropical Pacific Ocean.</strong></p> <p>Newsom's office said California could experience repeated rounds of heavy rain, strong winds, landslides, debris flows, and coastal flooding in the coming months due to El Niño.</p> <p>\"We are preparing for this El Niño early because every Californian deserves to be safe in their home, connected to their community, and protected when severe weather comes,\" the governor said.</p> <p><strong>The National Oceanic and Atmospheric Administration (NOAA) forecast a 75 percent chance that this year's El Niño, expected to occur between October and December, could become a historic event exceeding the strength of previous events recorded in 1950.</strong></p> <p>\"With an event of this magnitude, the chances of experiencing impacts consistent with El Niño are larger, though not guaranteed,\" the weather agency said in a Sept. 10 advisory.</p> <p>NOAA said there is more than a 90 percent chance that El Niño could reach \"very strong\" levels during the Northern Hemisphere fall and winter.</p> <p><strong>California has already experienced coastal flooding this year attributed to the phenomenon, as El Niño-driven \"Kelvin waves\" raise sea levels </strong>and offshore Pacific hurricanes send strong waves that batter the California coast, according to the governor's office, which called on residents to prepare for potential severe weather.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T22:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 18:25</span>",
+    "link": "https://www.zerohedge.com/weather/california-declares-state-emergency-ahead-strong-el-nino",
+    "pubDate": "Tue, 22 Sep 2026 22:25:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "The Riots Never Came: Has The Protest Machine Stalled, Or Is It Regrouping",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The Riots Never Came: Has The Protest Machine Stalled, Or Is It Regrouping </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Summer has ended without riots.</strong></p> <p>In <a href=\"https://www.zerohedge.com/political/eerily-quiet-summer-no-riots-bessents-ngo-crackdown-working\">Part One</a>, we examined whether Treasury Secretary Scott Bessent's crackdown on NGOs was having an effect. We now revisit that question, <strong>examining the far-left groups and subversion networks involved in mounting a revolution against the U.S</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/HNY2wxkX0AAk-VE.jpg?itok=edGhVSu_\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/HNY2wxkX0AAk-VE.jpg?itok=edGhVSu_\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ee16e4a1-0e4e-45ab-8fdc-cf193ba702d9\" data-responsive-image-style=\"inline_images\" height=\"313\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/HNY2wxkX0AAk-VE.jpg?itok=edGhVSu_\" width=\"500\" /></a></p> <p>The National Network on Cuba released a \"National Rapid Response Plan\" that called for nationwide actions against U.S. bases, ICE, and other federal facilities. <strong>Nothing happened</strong>. Black Alliance for Peace published an interactive map of U.S. military bases, urging their followers to use the map to find facilities in their communities and \"strategize how and where to organize and agitate.\" Again, <strong>Nothing happened</strong>.</p> <p>The Marxist Neville Roy Singham network, which has become the primary driver of the protest-industrial complex nationwide, also <strong>seems to have lost its momentum</strong> despite opening up Liberation Centers across the country to organize protests. Despite their deep pockets and extensive infrastructure for mobilization, they also seem to be <strong>unable to mobilize large crowds of their comrades</strong> as they used to post-October 7th. ANTIFA, which was designated by the Trump administration as a domestic terrorist organization in September of 2025, <strong>also appears to be on its back heels and unable to take control of public space</strong> in the way they did in Portland during the Summer of Love riots of 2020.</p> <p><em>So we must ask ourselves, why?</em></p> <p>It is not as if Democrats have actually gathered the courage to oppose the rising extremist networks in their own party. Quite the opposite. Congressman Jerry Nadler even went on the record once and stated that ANTIFA is only an idea. <strong>Party leaders have had no choice but to embrace the far-left, such as DSA, even calling their party a \"big tent.\" </strong></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/waymo_0.jpg?itok=wUUMif83\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/waymo_0.jpg?itok=wUUMif83\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"17539794-deb0-4a76-9164-8b918ca258c8\" data-responsive-image-style=\"inline_images\" height=\"280\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/waymo_0.jpg?itok=wUUMif83\" width=\"500\" /></a></p> <p>Gavin Newsom tacitly welcomes the DSA into the Democratic Party, saying he wants \"a big tent party\":</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Gavin Newsom tacitly welcomes the DSA into the Democrat Party, saying he wants \"a big tent party\":<br /><br /> \"I'm one of those Democrats that deeply believes in addition, not division and so, I want a big tent party. I want to win.\" <a href=\"https://t.co/3rBVN4jdcG\">pic.twitter.com/3rBVN4jdcG</a></p> — Julia 🇺🇸 (@Jules31415) <a href=\"https://x.com/Jules31415/status/2076800195778527417?ref_src=twsrc%5Etfw\">July 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The <strong>reason that the violent Marxist revolution against the West might be on its back heels</strong> is that the Cuban regime is on its back heels. This would prove Secretary Rubio's State Department correct in the theory that all revolutionary activist networks in the U.S. are in fact deeply connected to the Cuban regime and its intelligence service, all of whom have recently been sanctioned.</p> <p>We laid this all out in <a href=\"https://www.zerohedge.com/political/there-cuba-connection-behind-radicalization-americas-nonprofit-left\">December 2025</a>:</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/0131767ea3c579ef628d105f904b14eeb05d41de463c7c327ad30f242164b4a4.png?itok=KTS14VLA\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/0131767ea3c579ef628d105f904b14eeb05d41de463c7c327ad30f242164b4a4.png?itok=KTS14VLA\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d4c1e711-173c-483a-9dd6-7ea678b48f85\" data-responsive-image-style=\"inline_images\" height=\"221\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/0131767ea3c579ef628d105f904b14eeb05d41de463c7c327ad30f242164b4a4.png?itok=KTS14VLA\" width=\"500\" /></a></p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2025-12-24_13-03-49.png?itok=e7PrWJgL\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2025-12-24_13-03-49.png?itok=e7PrWJgL\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"56f11b7c-e345-48e9-aeba-563ff3d01ec5\" data-responsive-image-style=\"inline_images\" height=\"494\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/2025-12-24_13-03-49.png?itok=e7PrWJgL\" width=\"500\" /></a></p> <p>In July, the State Department released a report titled <strong>\"</strong><a href=\"https://www.zerohedge.com/political/americans-deserve-know-state-dept-report-details-cuban-espionage-subversion-and-role-rise\"><strong>Cuba: The Capital of 21st Century Communism</strong></a><strong>.\"</strong> The report outlined a sprawling 60-plus years of history between American far-left revolutionaries and how they were all influenced, trained, and working in coordination with the Cuban intelligence service and their front group, ICAP. In the beginning of the Castro regime, Students for a Democratic Society made a pilgrimage to Cuba, which marks the beginning of the Venceremos Brigade. Upon their return to America, the most radical members of SDS split off to form the Weather Underground, which would soon become America's most prominent domestic terrorist organization, who Cuba covertly supported during their campaign of violence.</p> <p>It is hard for people today to imagine America experiencing regular bombings by left-wing radicals, but as per the State Department's report: \"In one 18-month period between 1971 and 1972, the FBI counted some 2,500 bombings on American soil – a rate of nearly five a day.\"</p> <p>The <strong>State Department has recently sanctioned the Cuban president, their intelligence service, ICAP,</strong> and ICAP's president Fernando González. And since this has happened, the \"calls for revolution\" by the Singham network and the National Network on Cuba - over 60 organizations - have not stopped, but have gone unanswered. The <strong>actions against Cuba and ICAP appear to have disrupted the revolutionary pipeline. </strong></p> <p>As video evidence posted by Stu Smith of the Manhattan Institute has shown: <strong>everything the NNOC does is per the direction of ICAP</strong>. And now that ICAP is on their back heels, the revolution against America, capitalism, and democracy doesn't seem to be gaining ground anywhere except in politics, <strong>where the DSA - also partnered with ICAP - is supporting the Cuban regime and their ideology politically, but not via violent Marxist revolution</strong>.</p> <p>Earlier on Tuesday, <strong>President Trump </strong><a href=\"https://www.zerohedge.com/political/live-trump-takes-global-stage-un-declare-he-reshaping-world\"><strong>told</strong></a><strong> the United Nations General Assembly in New York</strong> that Cuba has spent decades coordinating with far-left revolutionaries and subversion networks into the U.S. Trump said the State Department has worked to uncover Havana's ties to subversive and radical groups such as the <strong>Communist Party USA, Antifa, and the DSA</strong>. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">.<a href=\"https://x.com/POTUS?ref_src=twsrc%5Etfw\">@POTUS</a>: The Cuban regime has also spent decades coordinating with left-wing radicals and Communist networks here in the United States. As our State Department has detailed, they have cultivated ties to subversive and radical groups such as the Communist Party USA, Antifa, and… <a href=\"https://t.co/Bopz3W6sXz\">pic.twitter.com/Bopz3W6sXz</a></p> — Rapid Response 47 (@RapidResponse47) <a href=\"https://x.com/RapidResponse47/status/2102412535710261746?ref_src=twsrc%5Etfw\">September 22, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The New York Post <a href=\"https://www.zerohedge.com/political/bessents-war-left-wing-ngos-may-strip-soros-network-splc-and-cair-tax-exempt-status\">recently reported</a> that <strong>Treasury officials are drafting a framework to audit NGOs</strong> suspected of exploiting their 501(c)(3) status for political activity, illegal conduct, or support of radical groups, which has only put left-wing billionaire foundations and donor-advised funds on notice. </p> <p>The <strong>question is whether the federal government's war on the radical left and the foreign subversion network that seeks to sow chaos has shaken that protest-industrial complex to its core</strong>. A source told the New York Post that officials were \"like a dog with a bone\" and reckoned that many NGOs and their donor bases could be \"on borrowed time.\"</p> <p>Also, the <strong>dismantling of USAID</strong> might have been another reason funding for riots is drying up, alongside the federal government's pressure on donor-advised funds and large left-wing foundations that are now thinking twice before funding riots and chaos as their 501(c)(3) status comes into the crosshairs. </p> <p>Then there's the <a href=\"https://www.zerohedge.com/markets/foreign-capital-returns-brazil-goldman-clients-see-20-stock-rally-bolsonaro-defeating\"><strong>complete fall of socialism </strong></a><strong>across almost the entire South American region</strong>, as right-wing challenger Flávio Bolsonaro could defeat socialist President Luiz Inácio Lula da Silva early next month in the Brazilian election and <strong>cement the entire continent's shift to the right</strong>. Shifting to Europe, the continent is set to \"<a href=\"https://www.zerohedge.com/political/seeds-political-change-nomura-sees-europe-lurching-right-and-markets-are-fine-it\">lurch right</a>\" according to Normua analysts. </p> <p>The <strong>riots never came</strong>, and the torching of small businesses seen during the BLM unrest was not repeated. The question now is whether that <strong>reflects diminished mobilization capacity, a shift in tactics, or a temporary lull. </strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T22:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 18:00</span>",
+    "link": "https://www.zerohedge.com/political/riots-never-came-has-protest-machine-stalled-or-it-regrouping",
+    "pubDate": "Tue, 22 Sep 2026 22:00:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "The Big State Monetary And Fiscal System Is Over",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The Big State Monetary And Fiscal System Is Over</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.dlacalle.com/en/the-big-state-monetary-and-fiscal-system-is-over/\">Authored by Daniel Lacalle via dlacalle.com</a>,</em></p> <p><strong>In 2021, The Economist ran an entire number hailing \"The Return of Big Government\" as the end of the so-called - but inexistent in practice - \"austerity\" paradigm </strong>and the evidence that more spending and a big state was the solution to the post-covid world, delivering economic growth, social spending, and sustainability.</p> <p><strong>In 2025, the same publication ran a number called \"The Coming Debt Crisis.\"</strong> The outcome of the return of big government was the return of persistent inflation, stagnation, and unsustainable debt. Who would have guessed it? Anyone doing the numbers and everyone who understands that government stimulus and so-called public spending multiplier effects are simply myths of statism.</p> <p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/hHoKN7KMY3c\" title=\"Canada may join the European Union as Associate: The Triumph of Big Government?\" width=\"560\"></iframe></p> <p>For more than two decades, the dominant policy assumption in the developed world was that there were no meaningful limits to government spending, public debt, monetary intervention, or regulation. Interest rates were near zero, central banks absorbed government bonds, and politicians concluded that budget control was an obsolete idea.</p> <p><strong>That illusion is over.</strong></p> <p>The rise in unison of sovereign bond yields across developed economies is not simply a market move. It is the financial system's verdict on a model that has exhausted its credibility, even for those bond investors accustomed to believing all that governments and central bankers say as if it were the truth revealed. Permanently expanding government, structurally unbalanced budgets, central-bank financing of fiscal excess, and the political belief that every economic problem can be solved with another \"stimulus\" package seemed like a comfortable solution, but it delivered the same results, including persistent inflation, high deficits, and economic stagnation.</p> <p><strong>The state-led monetary and fiscal regime surpassed all its limits many years ago, but some still believed that it could all be disguised by central banks' quantitative easing. They were wrong.</strong></p> <p>First, we saw central banks enter losses. No one seemed to care. Then we saw bonds slump on fears of persistent inflation. No one seemed to care. Now we see that all sovereign bond yields rise even when central banks maintain all the liquidity measures, and when they hike rates, the relief only lasts a couple of market sessions.</p> <p>The choice now is not the fake austerity of 2008-2012, which basically perpetuated big government and raised taxes. It is between a return to sound money, fiscal balance, lower taxation, deregulation, and a smaller state. Unless citizens start demanding their governments for more freedom and less intervention, the result will be a larger and prolonged period of stagnation, inflation, debt accumulation, and declining living standards.</p> <p><strong>Many will blame geopolitical events and say that the solution is socialism.</strong></p> <p>If socialism was the answer, France would not be in stagnation, with an enormous fiscal problem and rising social discontent.</p> <p>The answer to the economic stagnation and affordability crisis is not more socialism. More subsidies, price controls, redistribution, and direct state intervention have always delivered the opposite of what the politicians promise.</p> <p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/rromX0An5sw\" title=\"U.S. DEBT CRISIS AND CANADA'S TRADE WAR. What's Next\" width=\"560\"></iframe></p> <p><strong>Socialism never works because it is a system of control, not progress. </strong>It destroys the incentives to generate wealth and creates a dependent and submissive population unable to defend itself. Socialists know that their promises do not work, but by the time citizens find out, they are already hostages of a powerful state machine.</p> <p>Across Europe, governments that have continually expanded public spending, taxation, transfers, and regulation have not produced prosperity or relief from living costs. They have instead accumulated debt, weakened growth, raised the economy's cost base, and deepened social discontent. Governments do not reduce prices; they increase them.</p> <p>The political appeal is easy to understand. Subsidies and transfers seem to offer immediate, visible relief. The government makes you blame the person or business that puts the price tag, not the one that destroys the currency's purchasing power, which is the government itself. Thus, those \"subsidies\" are always paid with units of currency that are constantly losing value. They do not address the reason prices rise in the first place. Price increases are a consequence of monetary inflation, which is created when governments print more currency than the private sector demands through spending and debt.</p> <p>Big corporations do not increase prices; governments do.</p> <p>Socialism has one objective: control. Subsidies leave recipients dependent on political discretion while denying them the opportunities that come from productive employment, rising real wages, investment, and a dynamic private sector. At the same time, taxpayers are asked to finance an ever-larger state with less disposable income and fewer incentives to save, invest, hire, or start businesses.</p> <p>Politicians then blame \"the rich,\" corporations, or markets for an affordability crisis that their own policies have created. Furthermore, no government can redistribute wealth from a private sector that is being steadily weakened by higher taxes, punitive regulation, inflation, and rising borrowing costs.</p> <p><strong>Affordability is not created by government control or by shifting existing income from one group to another. It is created when the private sector thrives, real wages rise alongside productivity, competition lowers prices, investment expands supply, and housing, energy, transport, health care, and essential services can be provided more efficiently and abundantly.</strong></p> <p>When governments confront structural supply constraints with redistribution, subsidies, price intervention, and debt-financed spending, they also undermine the incentives to invest, build, innovate, and improve productivity. The result is always a more expensive economy, greater dependency, and fewer opportunities.</p> <p>For years, governments could disguise fiscal fragility because central banks repressed yields. Quantitative easing was presented as a magic wand and a technical monetary-policy tool, but in practice it became a mechanism through which governments financed unsustainable spending at artificially low rates, crowding out the private sector and making the public finances unsustainable.</p> <p>The consequences were predictable. When the price of debt is manipulated downward, politicians borrow more. Quantitative easing was never a tool to give time for governments to reduce debt and spending, but to justify higher expenses.</p> <p><strong>Now the market is imposing the discipline that policymakers tried to avoid. However, politicians refuse to cut spending and, instead, pass the rising interest cost to taxpayers.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/image%20-%202026-09-21T134123.328.jpg?itok=hQQrC9rH\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/image%20-%202026-09-21T134123.328.jpg?itok=hQQrC9rH\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3b35cc38-b922-4443-b856-68d3e30d01e9\" data-responsive-image-style=\"inline_images\" height=\"336\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/image%20-%202026-09-21T134123.328.jpg?itok=hQQrC9rH\" width=\"500\" /></a></strong></p> <p>Monetarily sovereign states do not have an unlimited capacity to issue currency or accumulate debt. They can postpone adjustment for a time if their debt is denominated in their own currency and domestic institutions remain credible. However, they cannot abolish the limits imposed by economic reality.</p> <p>Since 2021, developed economies have gone over their three limits.</p> <p>The <strong>economic limit</strong> occurs when each additional unit of government debt produces progressively less growth. Governments can inflate headline GDP through deficit spending, transfers, and public consumption, but the result is not the same as creating wealth. In the developed world, the expansion of government expenditure has coincided with weak productivity growth, anemic private investment, and a rise in living costs.</p> <p>The <strong>fiscal limit</strong> is when interest costs and entitlement obligations displace productive investment. Governments may attempt to delay this moment through financial repression, artificially low interest rates, regulatory pressure on domestic financial institutions, and central-bank purchases of sovereign debt. As debt stocks grow and bonds have higher rates, interest expenses consume a larger share of public budgets. Governments borrow more simply to finance existing commitments.</p> <p>The <strong>inflationary limit</strong> is reached when repeated monetary financing and persistent fiscal deficits undermine confidence in the purchasing power of fiat currency. Inflation is not only an annual change in a price index. Families suffer its cumulative effect in food, energy, housing, transport, insurance, and essential services. More money creation and debt-financed public spending do not resolve that crisis. They risk prolonging it by weakening the currency, distorting capital allocation, and transferring resources from savers and wage earners to the state.</p> <p>Government bond yields have risen across the G7. In September, the average ten-year yield of the G7's largest economies reached 4.285%, its highest level since mid-2008. US ten-year Treasury yields moved above 5%. However, these were not the worst performers. Long-term yields rose faster in Japan, France, and the United Kingdom.</p> <p>The synchronized nature of this rise is important. Japan faces rising yields despite decades of yield-curve control and massive central-bank intervention. Germany, despite a lower debt burden than many peers, has seen yields rise to their highest levels since 2011. US thirty-year Treasury yields have reached their highest point since 2007.</p> <p><strong>Markets are repricing fiscal risk, inflation risk, and the declining credibility of monetary institutions at the same time.</strong></p> <p>Investors no longer assume that high-debt governments can inflate away their liabilities without consequences, nor that central banks can endlessly monetize debt without damaging the purchasing power of money.</p> <p>The fiscal model of the past fifteen years depended on a false premise, built on the idea that government debt was virtually free. As long as interest rates stayed close to zero, governments could claim that debt ratios did not matter because debt-service costs remained manageable. The \"Japan is a model, not a cautionary tale\" recommendation given by Stiglitz proved to be very attractive for governments. It also proved to be awfully wrong.</p> <p><strong>Debt does not become sustainable merely because a central bank suppresses its price.</strong></p> <p>The International Monetary Fund estimates that global public debt rose to 94% of GDP in 2025 and will reach 100% of GDP by 2029. The world's major economies are driving the trend, as high deficits, rising interest burdens, and structurally higher spending demands destroy fiscal space.</p> <p>The interest-cost problem is becoming critical. Global government interest spending is estimated to have risen from about 2% of GDP in 2020 to 2.9% in 2025. It is expected to continue increasing through the end of the decade. This is the deadweight cost of believing that Japan's Keynesian excess is a model.</p> <p>Every additional unit of taxpayer revenue devoted to interest payments destroys money in the economy. Governments will inevitably respond by raising taxes, borrowing more, and demanding further monetary accommodation. Each of these responses weakens growth and affordability.</p> <p>The modern welfare state has been unsustainable for years and has become dependent on low borrowing costs that no longer exist.</p> <p><strong>The predictable political response will be to call for another, even larger, round of quantitative easing, larger fiscal transfers, massive public-investment plans, industrial subsidies, and \"strategic\" spending programs.</strong></p> <p>This will be a massive mistake... Again.</p> <p>Quantitative easing only disguises imbalances for a short period of time. It cannot solve a solvency problem.</p> <p>Central banks can purchase government bonds, but they cannot create real savings nor productive money. They can expand their balance sheets, but they cannot increase productivity, restore competitiveness, or create the capital necessary for a sustainable recovery.</p> <p><strong>Printing money does not make a nation richer. It is a massive transfer of wealth from savers and wage earners to the state and the first recipients of new money. It distorts the price of capital, encourages malinvestment, and eventually feeds inflationary pressures.</strong></p> <p>Artificially low interest rates send a false signal to markets. They make unsustainable spending, borrowing, and investment appear viable. Furthermore, the newly created money is used by governments for current spending. The eventual slump is not caused by capitalism or market failure. It is caused by the prior distortion of money and credit.</p> <p>The same principle applies to public finances. Governments have treated zero-rate policies and QE as a substitute for reform. They have used monetary intervention to preserve spending structures that taxpayers cannot sustainably finance. They have delayed necessary adjustments in pensions, public administration, subsidies, entitlement programs, and regulatory burdens.</p> <p>The result has not been robust growth. It has been an unstable combination of weak productivity, high debt, elevated inflation risks, financial repression, and social frustration.</p> <p><strong>Advocates of ever-larger government frequently argue that fiscal stimulus creates growth. The evidence from developed economies is the opposite.</strong></p> <p>After years of extraordinary deficits, public spending programs, central-bank asset purchases, and industrial-policy initiatives, most advanced economies face low trend growth, weak private investment, declining productivity, unaffordable housing, high tax burdens, and increasingly poor public finances.</p> <p>The problem is not just that governments spend too much. It is that governments spend resources in the worst possible way, worse than private actors, and direct capital according to political priorities rather than consumer demand, profitability, or long-term productive value. Governments are exceptionally bad at picking winners and even worse at picking losers.</p> <p>The problem is also in the economics world. GDP accounting treats public spending as an addition to output. But real prosperity depends on whether resources are used productively. A government can borrow and spend billions while leaving the economy poorer in productive terms as that spending crowds out private investment, raises taxes, sustains unproductive activities, or fuels inflation.</p> <p>The solution is not to borrow more in hopes the next stimulus will succeed where the last failed. The solution is to remove the obstacles that prevent private-sector growth.</p> <p><strong>Developed economies need a policy reversal based on four principles.</strong></p> <p><em>First, they need <strong>sound money</strong>. Central banks should shut down. However, since this will not happen, they must return to their mandate: protecting the currency's purchasing power. Monetary policy should not be used to fund deficits, manipulate sovereign-bond markets, or protect governments from the consequences of fiscal irresponsibility.</em></p> <p><em>Second, governments must <strong>balance their budgets</strong> through durable spending reductions, not cosmetic measures, tax hikes, or optimistic growth assumptions. Spending cuts should focus on eliminating inefficient subsidies, duplicative administration, corporate welfare, politically directed investment schemes, and entitlement commitments that cannot be financed.</em></p> <p><em>Third, policymakers must <strong>cut taxes</strong>, particularly those that penalize work, investment, savings, entrepreneurship, and capital formation. A tax-increase strategy is politically convenient because it avoids confronting the expenditure problem. However, it reduces incentives to produce, invest, hire, and innovate precisely when economies need more dynamism.</em></p> <p><em>Fourth, advanced economies need an <strong>ambitious deregulation agenda</strong>. Lower barriers to business formation, energy production, housing construction, labor-market flexibility, and investment would do more for sustainable growth than another decade of deficit spending.</em></p> <p><strong>The big-state monetary and fiscal system is over because it is no longer credible financially, economically, or politically. The bond market is making clear that there is no permanent escape from fiscal arithmetic.</strong></p> <p>The reader may say that governments will choose more intervention, more debt, more monetary distortion, and more stagnation. However, for the first time, we are seeing citizens all over the world rejecting these promises. Governments and large political parties may have to change their policies because the failure is evident and the voter base simply says enough is enough. <strong>That is why the cultural battle is so important. The goal is to make voters understand that the solution is not more government, but less. A lot less.</strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T21:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 17:40</span>",
+    "link": "https://www.zerohedge.com/economics/big-state-monetary-and-fiscal-system-over",
+    "pubDate": "Tue, 22 Sep 2026 21:40:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Taiwan Stock Market Due For Consolidation",
+    "desc": "(RTTNews) - The Taiwan stock market has tracked higher in five straight sessions, surging more than 2,880 points or 6.4 percent along the way. The Taiwan Stock Exchange now sits just above the 47,800-point plateau although it's likely to run out of steam on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/taiwan-stock-market-due-consolidation",
+    "pubDate": "Wed, 23 Sep 2026 00:33:17 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why This Top Automaker's Gamble on V-8 Engines During a Hybrid Boom Actually Makes Sense",
+    "desc": "Key PointsGeneral Motors' returns have dwarfed that of its peers over the past three years.",
+    "link": "https://www.nasdaq.com/articles/why-top-automakers-gamble-v-8-engines-during-hybrid-boom-actually-makes-sense",
+    "pubDate": "Wed, 23 Sep 2026 00:25:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Marathon Petroleum Stock Slipped Today",
+    "desc": "Key PointsAt this point, it's mulling over different options and might not opt for a full ban.",
+    "link": "https://www.nasdaq.com/articles/why-marathon-petroleum-stock-slipped-today",
+    "pubDate": "Wed, 23 Sep 2026 00:12:43 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Singapore Stock Market May Run Out Of Steam On Wednesday",
+    "desc": "(RTTNews) - The Singapore stock market has finished higher in two straight sessions, gathering almost 70 points or 1.2 percent along the way. The Straits Times Index now sits just above the 5,720-point plateau although it may spin its wheels on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-run-out-steam-wednesday",
+    "pubDate": "Wed, 23 Sep 2026 00:03:17 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is Waste Management a Safe Dividend Stock to Buy Right Now?",
+    "desc": "Waste Management (NYSE: WM) provides investors with a degree of diversification from macroeconomic factors.",
+    "link": "https://www.nasdaq.com/articles/waste-management-safe-dividend-stock-buy-right-now",
+    "pubDate": "Tue, 22 Sep 2026 23:58:09 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is Western Digital an Undervalued Semiconductor Stock to Buy Right Now?",
+    "desc": "The proliferation of agentic AI has been great news for Western Digital Corporation (NASDAQ: WDC).",
+    "link": "https://www.nasdaq.com/articles/western-digital-undervalued-semiconductor-stock-buy-right-now",
+    "pubDate": "Tue, 22 Sep 2026 23:57:04 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Should Investors Buy Nike Stock Instead of Lululemon?",
+    "desc": "Nike (NYSE: NKE) and Lululemon (NASDAQ: LULU) are two of the worst-liked stocks in the market right now, judging by the price action.",
+    "link": "https://www.nasdaq.com/articles/should-investors-buy-nike-stock-instead-lululemon",
+    "pubDate": "Tue, 22 Sep 2026 23:56:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is McDonald's an Undervalued Dividend Stock to Buy Right Now?",
+    "desc": "Underlying business prospects are improving amid a challenging macroeconomic backdrop.",
+    "link": "https://www.nasdaq.com/articles/mcdonalds-undervalued-dividend-stock-buy-right-now",
+    "pubDate": "Tue, 22 Sep 2026 23:55:13 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsASML Holding maintains a near-monopoly on the extreme ultraviolet lithography machines essential for making advanced chips.",
+    "link": "https://www.nasdaq.com/articles/asml-vs-intel-which-ai-chip-stock-better-buy-2026",
+    "pubDate": "Tue, 22 Sep 2026 23:55:01 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Unfortunate News for Nike Stock Investors!",
+    "desc": "Sales are falling with macroeconomic headwinds worsening the situation.",
+    "link": "https://www.nasdaq.com/articles/unfortunate-news-nike-stock-investors",
+    "pubDate": "Tue, 22 Sep 2026 23:49:41 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Could Planet Labs Be the Next Palantir?",
+    "desc": "This business reminds me of how Palantir (NASDAQ: PLTR) started with government contracts and expanded into enterprise solutions.",
+    "link": "https://www.nasdaq.com/articles/could-planet-labs-be-next-palantir",
+    "pubDate": "Tue, 22 Sep 2026 23:49:05 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Exclusive: KPMG reorgs AI division to create new incubator — with a new executive role reporting directly to the CEO",
+    "desc": "\"AI is awesome,\" said Todd Lohr, the AI chief reporting directly to CEO Tim Walsh, \"but it's also an awesome responsibility that everyone needs to own.\"",
+    "link": "https://fortune.com/2026/09/22/kpmg-ai-reorg-todd-lohr-steve-case-retirement/",
+    "pubDate": "Tue, 22 Sep 2026 12:00:00 +0000",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Tuas stock plunging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-tuas-stock-plunging-today-93CH-4911955",
+    "pubDate": "2026-09-23 00:59:18",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stock futures flat as markets parse Iran talks, AI optimism",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
+    "pubDate": "2026-09-23 00:34:38",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "As Trump and Xi meet, investors play both sides of AI divide",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/as-trump-and-xi-meet-investors-play-both-sides-of-ai-divide-4910098",
+    "pubDate": "2026-09-23 00:30:30",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Six Flags Entertainment stock surging afterhours today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-surging-afterhours-today-93CH-4911915",
+    "pubDate": "2026-09-23 00:27:47",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "ACCC blocks IAG’s proposed acquisition of RAC Insurance",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/accc-blocks-iags-proposed-acquisition-of-rac-insurance-4911897",
+    "pubDate": "2026-09-23 00:14:15",
+    "fetchedAt": "2026-09-23T01:01:36.021Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
     "desc": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
     "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
@@ -6053,350 +6397,6 @@
     "desc": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
     "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&amp;at_campaign=rss",
     "pubDate": "Mon, 21 Sep 2026 08:49:45 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "FTSE 100 today: Stocks rise as Iran Hormuz offer drives oil sharply lower",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
-    "pubDate": "2026-09-22 12:58:51",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bernstein Lists Top U.S. Trucking Stocks to Own as Freight Cycle Turns",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bernstein-lists-top-us-trucking-stocks-to-own-as-freight-cycle-turns-93CH-4910885",
-    "pubDate": "2026-09-22 12:58:07",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Yorkshire Housing reports 18% operating margin on £173m turnover",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/yorkshire-housing-reports-18-operating-margin-on-173m-turnover-93CH-4910884",
-    "pubDate": "2026-09-22 12:57:56",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Raymond James reiterates Strong Buy on Lexeo stock after acquisition",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-lexeo-stock-after-acquisition-93CH-4910882",
-    "pubDate": "2026-09-22 12:54:42",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Cantor Fitzgerald reiterates Ideaya Biosciences stock rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-ideaya-biosciences-stock-rating-93CH-4910881",
-    "pubDate": "2026-09-22 12:54:40",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Nativo Resources reports progress on Peru gold operations",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/nativo-resources-reports-progress-on-peru-gold-operations-93CH-4910880",
-    "pubDate": "2026-09-22 12:54:37",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Meta stock rallied 20% since Muse AI launch: Is META the best Mag 7 buy now?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/meta-stock-rallied-20-since-muse-ai-launch-is-meta-the-best-mag-7-buy-now-93CH-4910878",
-    "pubDate": "2026-09-22 12:54:22",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "OneMedNet partners with Atropos Health for data access",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/onemednet-partners-with-atropos-health-for-data-access-93CH-4910873",
-    "pubDate": "2026-09-22 12:52:31",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "Itron partners with Crytica to enhance grid cybersecurity",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/itron-partners-with-crytica-to-enhance-grid-cybersecurity-93CH-4910872",
-    "pubDate": "2026-09-22 12:52:29",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMW chief supports pricing deals over tariffs on Chinese cars",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bmw-chief-supports-pricing-deals-over-tariffs-on-chinese-cars-93CH-4910868",
-    "pubDate": "2026-09-22 12:49:47",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "&#x2018;It doesn&#x2019;t seem fair&#x2019;: I&#x2019;m retired and have plenty of money. Why can&#x2019;t I qualify for a retail credit card?",
-    "desc": "&#x201c;I draw from my IRA as needed for household repairs, trips and other larger expenses.&#x201d;",
-    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 12:53:00 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Princeton&#x2019;s 15-year run as the nation&#x2019;s top-ranked university is over. MIT is now No. 1.",
-    "desc": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
-    "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 12:43:00 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Wall Street and AI ruined your &#x2018;diversified&#x2019; portfolio",
-    "desc": "AI is everywhere, leaving investors exposed if the technology doesn&#x2019;t pan out as expected.",
-    "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 12:24:00 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Oil could top $150 a barrel if supplies tighten further, Bank of America warns",
-    "desc": "If disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude could spike above $150 a barrel, strategists at the bank said.",
-    "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-    "pubDate": "Tue, 22 Sep 2026 11:26:00 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-    "desc": "<p>Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.</p><p>The Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
-    "pubDate": "Fri, 18 Sep 2026 12:38:28 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-    "desc": "<p>Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.</p><p>The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
-    "pubDate": "Fri, 18 Sep 2026 07:14:13 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-    "desc": "<p>Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.</p><p>Politicians queued to shake his hand and take selfies. One described the speech as a historic moment. “Europe has extended a hand, and Canada has taken it,” said the German Green MEP Terry Reintke, who borrowed a Canadian ice hockey shirt for the occasion.</p> <a href=\"https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-    "pubDate": "Thu, 17 Sep 2026 15:46:15 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
-    "desc": "<p>This blog is now closed</p><p><strong>Andrew Griffith</strong> has delivered his speech, and he is now taking questions.</p><p><em>Q: You want the government to pause the <a href=\"https://www.gov.uk/government/collections/making-tax-digital-for-income-tax\">making tax digital programme</a>. Is that an admission that the last government got this wrong when it introduced it?</em></p><p>It is an admission that despite [good] intentions, the execution of that has left a lot to be desired.</p><p>In fact, coming to parliament from business, I can confess the law that we pass the most often is the law of unintended consequences. And I think making tax digital is a good example of that.</p><p>The truth is that Burnham and Miliband ignored the advice they were given – which was that if they were determined to sanction Israel, they should not do so before the Israeli election on 27 October.</p><p>It may not be surprising that this was the message from the Israeli foreign minister, Gideon Sa’ar, when Miliband called him on 11 August to warn sanctions were imminent. ‘He said postpone it until after the elections,’ a diplomatic source confirms. It was also the message the Israeli embassy in London – and its new chargé d’affaires Chris Cantor – was relaying to the Foreign Office. ‘Their message was clear: why do it now? Wait until after the elections, because something might change,’ a senior Labour figure says.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
-    "pubDate": "Thu, 17 Sep 2026 15:45:45 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "The Bank of England is shaking up its bond sales – why does it matter?",
-    "desc": "<p>What the plan to sell £146bn in gilts back to the Treasury means for the public finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li></ul><p>Mixed in with the Bank of England’s decision on Thursday to <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">hold interest rates at 3.75%</a> was a surprise announcement that it was shaking up its programme of quantitative tightening.</p><p>So why is this apparently arcane change to QT important, and what does it mean for the public finances?</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
-    "pubDate": "Thu, 17 Sep 2026 15:45:42 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK government borrowing costs fall as Bank of England outlines new bond-selling plan – as it happened",
-    "desc": "<p>BoE lays out proposal to sell UK bonds back to the government, and wind up the asset purchase scheme launched after the GFC</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Newsflash: Britain’s economy has been more productive since Tony Blair’s first election win than previously thought.</strong></p><p>A new measure of measuring productivity, just released by the Office for National Statistics, shows that annual productivity growth since 1997 has been stronger than it had estimated in the past.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
-    "pubDate": "Thu, 17 Sep 2026 14:57:52 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Money in people’s pockets is the key to economic recovery | Letter",
-    "desc": "<p><strong>David Redshaw </strong>responds to a letter on the bond markets and economic pressures afflicting the UK</p><p>Neil Kinnock’s timely letter (<a href=\"https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues\">9 September</a>) reminds us that we are not alone in suffering high gilt yields and borrowing costs. We are still feeling the fallout from Covid, and it needs mentioning that our national debt is similar to America’s and much less than Japan’s, and it never gets mentioned that Italy routinely runs 100% of GDP debt. But as Kinnock observes, the policies of several Conservative governments (including Brexit) have made things worse, and the problem for us is not so much the actual debt but our direction of travel. The aforementioned will make the bond markets view us with a more jaundiced eye.</p><p>It was predictable that Jamie Dimon would pop up at this point (<a href=\"https://www.theguardian.com/business/2026/sep/09/jp-morgan-boss-jamie-dimon-to-warn-uk-chancellor-against-bank-tax-hike\">JP Morgan boss meets Burnham and Healey to warn against bank tax rise, 10 September</a>). He talks about potential lack of investment by the banks. What investment? We aren’t even a nation of shopkeepers any longer; we’re a nation of pizza deliverers.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/17/money-in-peoples-pockets-is-the-key-to-economic-recovery\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/2026/sep/17/money-in-peoples-pockets-is-the-key-to-economic-recovery",
-    "pubDate": "Thu, 17 Sep 2026 14:50:43 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Burnham’s talk of ‘breathing space’ at odds with reality of future Bank rate rises",
-    "desc": "<p>PM’s push to cut cost of living threatened by rising inflation and government borrowing costs as geopolitics hit home</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">The Bank is shaking up its bond sales – why does it matter?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Good luck to Andy Burnham convincing voters he is giving them “breathing space”, if the Bank of England ratchets up interest rates in the coming months.</p><p>That was the prospect opened up by Thursday’s minutes of the Bank’s monetary policy committee (MPC) meeting, which <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">left rates unchanged at 3.75%</a> – for now – but suggested policymakers may be unlikely to hold out much longer.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation",
-    "pubDate": "Thu, 17 Sep 2026 13:25:15 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "ft",
-    "title": "Oil falls to $98 as Saudi Arabia signals East-West pipeline reopening",
-    "desc": "Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes",
-    "link": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 12:08:07 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "ft",
-    "title": "China’s share of global container exports soars to 40%",
-    "desc": "Rapid rise underscores economy’s reliance on trade and threat to trading partners, EU chamber says",
-    "link": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 04:56:45 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "ft",
-    "title": "AI energy demand accelerates China’s quest for nuclear fusion",
-    "desc": "Scale, supply chains and drive for self-sufficiency push country to cutting edge of atomic technology",
-    "link": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
-    "pubDate": "Tue, 22 Sep 2026 02:24:03 GMT",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "OpenText sets $1B debt redemption, eyes new notes offering",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645368-opentext-sets-1b-debt-redemption-eyes-new-notes-offering?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 09:00:19 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "4 stocks to watch on Tuesday: SHOP, HOOD, BABA, and QCOM",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645363-4-stocks-to-watch-on-tuesday-shop-hood-baba-and-qcom?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 09:00:06 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Sandisk in spotlight as Rosenblatt starts with Buy rating",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645385-sandisk-in-spotlight-as-rosenblatt-starts-with-buy-rating?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:59:50 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "International Vector Equity ETF declares quarterly distribution of $0.2934",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645387-international-vector-equity-etf-declares-quarterly-distribution-of-02934?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:57:49 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Large-cap energy stocks with long-running Strong Buy Quant ratings",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645377-large-cap-energy-stocks-with-long-running-strong-buy-quant-ratings?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:57:26 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "International Value ETF declares quarterly distribution of $0.2821",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645386-international-value-etf-declares-quarterly-distribution-of-02821?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:56:50 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "International Sustainability Core 1 ETF declares quarterly distribution of $0.1822",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645384-international-sustainability-core-1-etf-declares-quarterly-distribution-of-01822?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 22 Sep 2026 08:55:17 -0400",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Canadian E&P Industry Gains Momentum: 3 Stocks in Focus",
-    "desc": "Following a careful analysis of the Zacks Oil and Gas - Exploration and Production - Canadian industry, we advise focusing on shares of BTE, IPOOF and CNQ.",
-    "link": "https://finance.yahoo.com/energy/articles/canadian-e-p-industry-gains-125700410.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:57:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Good News for S&P 500 Earnings: 86% of Companies Beat Expectations in 2026",
-    "desc": "S&P 500 companies are broadly beating analysts' estimates for earnings -- but is too much of that money riding on the AI boom?",
-    "link": "https://www.fool.com/investing/2026/09/22/good-news-sp-500-earnings-beat-expectations/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:35:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "4 Top-Ranked Mutual Funds to Invest in as Market Volatility Continues",
-    "desc": "LCSMX, FSAGX, FGADX and FSENX offer exposure to resilient market themes, with strong returns amid volatility, inflation and geopolitical risks.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/4-top-ranked-mutual-funds-120700140.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:07:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Consumer Stocks We Think Twice About",
-    "desc": "Regarded as defensive investments, consumer staples stocks are generally safe bets in choppy markets. The flip side is that they frequently fall behind growth industries when times are good, and this was the reality over the past six months as the sector’s flat performance trailed the S&P 500’s 16.2% gain.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-think-twice-115746904.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:57:46 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "2 Reasons to Like ENS (and 1 Not So Much)",
-    "desc": "EnerSys currently trades at $178.69 per share and has shown little upside over the past six months, posting a middling return of 4.3%. The stock also fell short of the S&P 500’s 16.2% gain during that period.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ens-1-not-124546441.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:45:46 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: US Equity Futures Slightly Higher Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict",
-    "desc": "(Updates with economic data, recent oil price movements, world markets' overview, and corporate stoc",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-124246820.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:42:46 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Reinsurance Group of America (RGA): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Reinsurance Group of America has had an impressive run over the past six months as its shares have beaten the S&P 500 by 5.7%. The stock now trades at $245.08, marking a 21.9% gain. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/reinsurance-group-america-rga-buy-123746756.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:37:46 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Is This the Right Time to Add DGX Stock to Your Portfolio?",
-    "desc": "Quest Diagnostics gains momentum from customer wins, advanced diagnostics and AI initiatives, while reimbursement uncertainty, costs and debt pose challenges.",
-    "link": "https://finance.yahoo.com/healthcare/articles/time-add-dgx-stock-portfolio-122800792.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:28:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons to Sell TRNS and 1 Stock to Buy Instead",
-    "desc": "Transcat’s 21.9% return over the past six months has outpaced the S&P 500 by 5.7%, and its stock price has climbed to $88.69 per share. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-trns-1-122146913.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:21:46 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Cathie Wood Says Forget Inflation and Growth Worries, as the Chip Rally Stalls",
-    "desc": "Rapid technological advancements are about to kick-start a period of economic growth that will make higher borrowing costs irrelevant, the ARK Invest CEO said on Monday, in a weekly newsletter. Chip and memory stocks were sliding in premarket trading, having helped power the Nasdaq Composite to a record high the previous session. Advanced Micro Devices declined 0.5%, after the chip maker topped a $1 trillion valuation for the first time ever on Monday.",
-    "link": "https://finance.yahoo.com/m/3f8dab8c-cdd2-38ab-9f7d-5ea2cf1d9e84/why-cathie-wood-says-forget.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:14:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Zacks Investment Ideas feature highlights: AMD and SanDisk",
-    "desc": "AMD and SanDisk lead a tech rebound as strong semiconductor earnings revisions outweigh higher rates, putting technology back in focus for Q4.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121400261.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:14:00 +0000",
     "fetchedAt": "2026-09-22T13:01:35.900Z"
   }
 ]
