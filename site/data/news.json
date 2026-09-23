@@ -1,6 +1,238 @@
 [
   {
     "source": "cnbc",
+    "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+    "desc": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+    "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+    "pubDate": "Tue, 22 Sep 2026 17:57:36 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "desc": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:11:33 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+    "desc": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:01:28 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+    "desc": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:20:31 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Watch: Trump floats rebranding artificial intelligence as super intelligence",
+    "desc": "\"The use of the word artificial makes it sound fake,\" he said told the UN. \"It's not fake, it's actually amazing.\"",
+    "link": "https://www.bbc.co.uk/news/videos/c8n5d9x10v14o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 15:53:25 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Will a switch to light speed cut power use at data centres?",
+    "desc": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:03:48 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+    "desc": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 15:43:14 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'I would tip up to 30% at a restaurant'",
+    "desc": "New Yorkers and Londoners share what they usually tip in a restaurant - and whether tipping culture has gotten out of hand.",
+    "link": "https://www.bbc.co.uk/news/videos/ckgjqzl755j0o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:13:49 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Qualcomm at Snapdragon Summit 2026: pushing into the agentic age",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/qualcomm-at-snapdragon-summit-2026-pushing-into-the-agentic-age-93CH-4911880",
+    "pubDate": "2026-09-22 23:48:02",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "ZipRecruiter CEO Ian Siegel sells $201,726 in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/ziprecruiter-ceo-ian-siegel-sells-201726-in-shares-93CH-4911879",
+    "pubDate": "2026-09-22 23:46:25",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Snowflake director Frank Slootman sells $100.3 million in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/snowflake-director-frank-slootman-sells-1003-million-in-stock-93CH-4911878",
+    "pubDate": "2026-09-22 23:46:23",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: KMD Brands posts stronger FY 2026, shares slip",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kmd-brands-posts-stronger-fy-2026-shares-slip-93CH-4911869",
+    "pubDate": "2026-09-22 23:44:05",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Clean Air Metals closes C$6.2 million private placement",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/clean-air-metals-closes-c62-million-private-placement-93CH-4911867",
+    "pubDate": "2026-09-22 23:40:43",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Activist Jana Partners calls for Six Flags sale- WSJ",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/activist-jana-partners-calls-for-six-flags-sale-wsj-4911865",
+    "pubDate": "2026-09-22 23:36:58",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Gold.com director Benjamin sells $1.74m in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/goldcom-director-benjamin-sells-174m-in-shares-93CH-4911862",
+    "pubDate": "2026-09-22 23:31:12",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "DigitalOcean CEO Srinivasan sells $1.6m in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/digitalocean-ceo-srinivasan-sells-16m-in-shares-93CH-4911861",
+    "pubDate": "2026-09-22 23:31:07",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "investing",
+    "title": "Western New England Bancorp SVP sells $47,498 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-stock-93CH-4911850",
+    "pubDate": "2026-09-22 23:15:56",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "guardian",
+    "title": "EU spends three times more on imports from China than bloc exports there",
+    "desc": "<p>Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in July</p><p>Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.</p><p>Customs data showed the gap between the EU’s imports from <a href=\"https://www.theguardian.com/world/china\">China</a> and exports to China, the trade deficit, ran at more than €1bn (£860m) a day in July.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+    "pubDate": "Tue, 22 Sep 2026 11:54:08 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Global leaders urged to join initiative to fight extreme inequality",
+    "desc": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
+    "pubDate": "Fri, 18 Sep 2026 06:00:11 GMT",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
+    "desc": "We discuss Buffett's investing playbook and highlight ETFs that follow his investment philosophy.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/invest-buffett-lessons-oracle-omaha-182900634.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:34:00 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sandisk (SNDK) Has Signed Away Two Thirds of Next Year’s Output. Can the AI Storage Boom Keep Paying?",
+    "desc": "Sandisk Corporation (NASDAQ:SNDK) has locked in buyers for roughly half of its output this fiscal year and two-thirds of next year’s. The long-term contracts carry floor prices, and the company says its margins stay attractive even at the floor. That is meant to protect it when the next memory downturn comes. The shares have gained […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-signed-away-two-231834920.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:18:34 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "CMPX Plunge Wipes Out $104M After FDA Demands Fresh Trial For Cancer Drug — Wedbush Sees Another 19% Downside",
+    "desc": "Compass said on Tuesday that the FDA recommended a trial showing a survival benefit before the company files a biologics license application for tovecimig in previously treated advanced biliary tract cancer.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/cmpx-plunge-wipes-out-104-m-after-fda-demands-fresh-trial-for-cancer-drug-wedbush-sees-another-19-downside/cZM52k6RB71?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:07:11 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Iran's Fars Calls Reuters' Hormuz Reopening Story \"Invalid\" Ahead Of Trump's UN Address",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iran's Fars Calls Reuters' Hormuz Reopening Story \"Invalid\" Ahead Of Trump's UN Address</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Update:</strong></p> <ul><li><em><strong>Iran's Fars Rejects</strong> Hormuz Reopening Reports As Brent Slides <$100 On Diplomatic Hopes</em></li> <li><em>Brent Tumbles On US Media & Aligned Outlets <strong>Pushing Rumored Diplomatic Efforts</strong> </em></li> </ul><h2><strong>Iran's Fars Rejects Reporting </strong></h2> <p>Kyodo and Reuters published positive diplomatic headlines early Tuesday morning that sent Brent crude futures tumbling below $100 a barrel, but Iran's semi-official <strong>Fars News Agency denied them</strong>.</p> <p>Kyodo and Reuters, citing Iranian sources, reported that Tehran could reopen the Strait of Hormuz within seven days if Washington eased US naval pressure on the Hormuz chokepoint and lifted its blockade of Iranian ports.</p> <p><strong>Fars called those two reports \"invalid and incorrect.\"</strong></p> <p>Despite Fars' rejection of the reporting, US media and aligned outlets <span style=\"box-sizing: border-box; margin: 0px; padding: 0px;\">focused this morning on rumored diplomatic efforts to resolve the conflict ahead of President Trump's United Nations General Assembly address later today</span>.</p> <p><b>Brent crude remains below $100.</b></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_119d2e57.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_119d2e57.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b0946c53-2887-472a-b3bf-bf694055d26f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_119d2e57.png\" /></a></p> <h2>Brent Tumbles Below $100 After Report Says Iran Offers To Reopen Hormuz Chokepoint</h2> <p><strong>Brent crude futures tumbled</strong> early Tuesday, as much as 3%, and slid below the $ 100-a-barrel level to the low $98 range after reports that <strong>Iran offered to reopen the Strait of Hormuz within one week</strong> if the Trump administration begins easing naval pressure in the critical waterway and ends its blockade of Iranian ports. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_11745678.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_11745678.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"99f39889-a55d-4001-885f-f51b856c7157\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_11745678.png\" /></a></p> <p><strong>Tehran conveyed the proposal through intermediaries</strong> as part of efforts to revive negotiations and end the conflict, <a href=\"https://english.kyodonews.net/articles/-/85911\">Kyodo News</a> reported, citing a senior Iranian government official. </p> <p>The <strong>offer calls for the US naval blockade of the critical waterway and Iranian ports to end in exchange for reopening the strait</strong>. This comes as Treasury Secretary Scott Bessent's economic war against Tehran has ramped up (<a href=\"https://www.zerohedge.com/geopolitical/bessent-declares-all-iran-airlines-be-shut-down-around-world-wednesday\">read latest</a>). </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_06-55-32.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_06-55-32.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f10b373d-d761-4b27-8d57-f96a96780c8c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_06-55-32.png\" /></a></p> <p>Here's more from the Japanese outlet:</p> <p><em>The <strong>proposal, which has already been conveyed to Washington through mediators</strong>, calls for renewed talks aimed at reaching a permanent end to hostilities between the two countries, the official said.</em></p> <p><em><strong>Tehran plans to use the U.N. General Assembly gathering</strong> this week in New York to consult with countries acting as intermediaries.</em></p> <p><em>The <strong>official ruled out a meeting between Iranian President Masoud Pezeshkian</strong> and U.S. President Donald Trump on the fringes of the gathering, but said progress toward an agreement remains possible.</em></p> <p><em>\"<strong>There is a possibility of moving toward an agreement</strong>,\" the official said, while adding that Washington must demonstrate \"seriousness and commitment\" if diplomacy is to advance.</em></p> <p><em><strong>Iran is seeking signs from Washington that it is prepared to return to negotiations</strong> and take steps toward an end to the U.S. military blockade of Iranian ports and a halt to military operations related to the Strait of Hormuz, the official said.</em></p> <p><em>If such steps are taken, <strong>Iran is prepared to reopen the strategic waterway</strong> within seven days and return to the negotiating table, according to the official.</em></p> <p>Hamad Hussain, senior climate and commodities economist at Capital Economics, was quoted by <a href=\"https://www.reuters.com/business/energy/oil-rises-slightly-ahead-potential-us-iran-talks-2026-09-22/\">Reuters</a> as saying this overnight development is a <strong>positive sign</strong> that diplomatic efforts may be working.</p> <p>\"<strong>There may also be other obstacles, such as the issue of tolls and fees, to overcome before a lasting solution can be achieved</strong>,\" Hussain added.</p> <p>Later this morning, President <strong>Trump will address the United Nations General Assembly</strong> and meet with world leaders, likely discussing the Gulf conflict and Russia's war in Ukraine.</p> <p>Despite another exchange of threats between Washington and Tehran on Sunday, <strong>Trump said he was open to meeting Iranian President Masoud Pezeshkian this week at UNGA</strong>. An Iranian official subsequently told Reuters that no direct meeting would take place. </p> <p><strong>Diplomatic movement appears to be happening under the surface</strong> to resolve the US-Iran conflict and the global diesel crisis. However, Ole Hansen, head of commodity strategy at Saxo Bank, <strong>does not expect much downside in Brent prices</strong> until transits through the maritime chokepoint increase, <a href=\"https://www.zerohedge.com/markets/diesel-hits-651-export-ban-fears-mount-gasoline-squeeze-looms\">particularly shipments of refined products</a>, where the real energy crisis lurks ahead of the Northern Hemisphere winter.</p> <p>* * *</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/readywise-3-month-emergency-food-reserve-720-servings\" data-image-href=\"https://store.zerohedge.com/products/readywise-3-month-emergency-food-reserve-720-servings\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/readywise-3-month-emergency-food-reserve-720-servings\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4f7bceda-2b1b-4d59-a1b7-ca8f8fbf04a3\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH_14_ReadyWise_Diversify_Your_Pantry_1000x600.png\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-22T15:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 09/22/2026 - 11:55</span>",
+    "link": "https://www.zerohedge.com/energy/brent-tumbles-below-100-after-report-says-iran-offers-reopen-hormuz-chokepoint",
+    "pubDate": "Tue, 22 Sep 2026 15:55:00 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Google Goes Nuclear With Power Upgrade Agreement in Georgia",
+    "desc": "Key PointsThe AI data center build-out has massive electricity needs.",
+    "link": "https://www.nasdaq.com/articles/google-goes-nuclear-power-upgrade-agreement-georgia",
+    "pubDate": "Tue, 22 Sep 2026 23:35:01 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What $3,000 Invested in SpaceX Stock Could Grow to by September 2027",
+    "desc": "Key PointsAs of Sept. 18, the SpaceX stock price was trading right around where it debuted to the public at $150 per share.",
+    "link": "https://www.nasdaq.com/articles/what-3000-invested-spacex-stock-could-grow-september-2027",
+    "pubDate": "Tue, 22 Sep 2026 23:35:00 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Little Movement Seen For Malaysia Stock Market",
+    "desc": "(RTTNews) - The Malaysia stock market has moved higher in back-to-back sessions, collecting almost 20 points or 1.2 percent in that span. The Kuala Lumpur Composite Index now sits just above the 1,680-point plateau although it may be stuck in neutral on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/little-movement-seen-malaysia-stock-market-0",
+    "pubDate": "Tue, 22 Sep 2026 23:33:17 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Starbucks' Turnaround Is Improving. How Much Is Already Priced In?",
+    "desc": "Explore the exciting world of Starbucks (NASDAQ: SBUX) with our contributing expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of",
+    "link": "https://www.nasdaq.com/articles/starbucks-turnaround-improving-how-much-already-priced",
+    "pubDate": "Tue, 22 Sep 2026 23:20:00 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "South Korea Stock Market May See Profit Taking",
+    "desc": "(RTTNews) - The South Korea stock market has finished higher in three straight sessions, accelerating more than 300 points or 4.2 percent along the way. The KOSPI now sits just above the 7,015-point plateau although investors may lock in gains on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/south-korea-stock-market-may-see-profit-taking",
+    "pubDate": "Tue, 22 Sep 2026 23:03:17 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "2 Beaten-Down Stocks to Buy Before They Bounce Back",
+    "desc": "Key PointsShopify could perform well in the long run by leveraging AI to improve its services.",
+    "link": "https://www.nasdaq.com/articles/2-beaten-down-stocks-buy-they-bounce-back",
+    "pubDate": "Tue, 22 Sep 2026 22:53:01 +0000",
+    "fetchedAt": "2026-09-23T00:01:37.491Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
     "desc": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
     "link": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
@@ -6166,237 +6398,5 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121400261.html?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 12:14:00 +0000",
     "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Consumer Stocks We Steer Clear Of",
-    "desc": "Consumer discretionary businesses are levered to the highs and lows of economic cycles. Over the past six months, it seems like demand may be facing some headwinds as the industry’s 1.8% return has lagged the S&P 500 by 14.5 percentage points.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-steer-clear-120546108.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:05:46 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Equity Futures Largely Steady Pre-Bell; Oil Falls Amid Growing Optimism for Middle East Resolution",
-    "desc": "US equity futures were mostly unchanged before the open Tuesday, while oil prices moved lower amid o",
-    "link": "https://finance.yahoo.com/markets/articles/equity-futures-largely-steady-pre-120043354.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:00:43 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
-    "desc": "Stock Market Today: The Dow Jones index rises on U.S.-Iran peace hopes Tuesday as oil prices and Treasury yields continue to fall.",
-    "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:55:25 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The return of the AI rally: What's fueling the latest push into tech?",
-    "desc": "Leading AI stocks ripped higher to kick off this trading week as investors pile back into Big Tech. The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley weigh in on the market breadth of the equities participating in this latest rally.",
-    "link": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:52:06 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "S&P 500 to Hit 9000 in 2027? ETFs in Focus",
-    "desc": "Jefferies sees the S&P 500 reaching 9,000 by 2027 (cited by a source), supported by strong earnings and AI investment. Here are ETFs to watch.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-hit-9000-2027-120000349.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:00:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Compass Therapeutics Provides Regulatory Update on Tovecimig in Biliary Tract Cancer Following FDA Feedback",
-    "desc": "The FDA recommended that Compass conduct a trial to demonstrate a survival benefit prior to submitting a BLA for tovecimig.Compass does not believe that a new trial is warranted prior to submitting a BLA based on the data from the Phase 2/3 COMPANION-002 study and the urgent unmet medical need for patients with BTC.Compass intends to further engage with the FDA as we continue to prepare a BLA submission for tovecimig. Compass remains confident in tovecimig based on the positive results from COMP",
-    "link": "https://finance.yahoo.com/healthcare/articles/compass-therapeutics-provides-regulatory-tovecimig-123000467.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 12:30:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Is a Fed Rate Hike Good or Bad for Stocks? You Might Be Surprised.",
-    "desc": "For the first time in more than three years, the Federal Reserve raised interest rates. Stocks initially fell on the news, and the Dow had its worst day in about a month. The market then rebounded slightly, but the 10-year Treasury yield sits near 5%. So the natural question is:",
-    "link": "https://www.nasdaq.com/articles/fed-rate-hike-good-or-bad-stocks-you-might-be-surprised",
-    "pubDate": "Tue, 22 Sep 2026 12:27:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Natera Announces Japan's PMDA Authorization For Signatera In Muscle-Invasive Bladder Cancer",
-    "desc": "(RTTNews) - Natera, Inc. (NTRA) announced that its Signatera test has received regulatory approval from Japan's Pharmaceuticals and Medical Devices Agency as a companion diagnostic in muscle-invasive bladder cancer. The approval supports the use of the Signatera test to guide ad",
-    "link": "https://www.nasdaq.com/articles/natera-announces-japans-pmda-authorization-signatera-muscle-invasive-bladder-cancer",
-    "pubDate": "Tue, 22 Sep 2026 12:25:02 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Compound Interest Is the Market's Most Powerful Force: Here's How It Actually Works",
-    "desc": "Key PointsCompound interest is the mathematical process of an investment growing and building upon itself.",
-    "link": "https://www.nasdaq.com/articles/compound-interest-markets-most-powerful-force-heres-how-it-actually-works",
-    "pubDate": "Tue, 22 Sep 2026 12:20:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Meta's Muse AI Is Soaring in Popularity. Could It Send the Stock to New Heights?",
-    "desc": "Key PointsMeta unveiled its Muse personal AI agent earlier this month.",
-    "link": "https://www.nasdaq.com/articles/metas-muse-ai-soaring-popularity-could-it-send-stock-new-heights",
-    "pubDate": "Tue, 22 Sep 2026 12:17:28 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wall Street Futures Point To Higher Open",
-    "desc": "(RTTNews) - Early cues from the U.S. Futuers Index suggest that Wall Street might open in positive territory on Tuesday. Asian shares ended the day mostly higher, while European shares are trading broadly higher.",
-    "link": "https://www.nasdaq.com/articles/wall-street-futures-point-higher-open",
-    "pubDate": "Tue, 22 Sep 2026 12:16:12 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Move Over, Tesla: This Robotics Stock Already Has Paying Customers",
-    "desc": "Key PointsWhile hype continues to build around Tesla's Optimus humanoid robots, Symbotic is already generating billions in revenue from robotics.",
-    "link": "https://www.nasdaq.com/articles/move-over-tesla-robotics-stock-already-has-paying-customers",
-    "pubDate": "Tue, 22 Sep 2026 12:09:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Vertiv vs. Eaton: This AI Infrastructure Stock Is the Better Buy",
-    "desc": "Key PointsVertiv is expanding into liquid cooling and on-site power generation through its $1.5 billion acquisition of UtilityInnovation Group.",
-    "link": "https://www.nasdaq.com/articles/vertiv-vs-eaton-ai-infrastructure-stock-better-buy",
-    "pubDate": "Tue, 22 Sep 2026 12:05:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cognex To Buy RealSense For $500 Mln",
-    "desc": "(RTTNews) - Cognex Corporation (CGNX), a maker of machine vision systems, software, and sensors, said on Tuesday that it has inked a deal to acquire RealSense, in depth-sensing cameras, and computer-vision systems for around $500 million. The acquirer will finance the transaction",
-    "link": "https://www.nasdaq.com/articles/cognex-buy-realsense-500-mln",
-    "pubDate": "Tue, 22 Sep 2026 11:59:42 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AutoZone Q4 Profit, Comps Rise; Sees Sales Growth In FY27",
-    "desc": "(RTTNews) - AutoZone, Inc., an automotive replacement parts retailer, reported Tuesday higher profit in its fourth quarter with growth in net sales and same store sales. Looking ahead, the company said it is well positioned for sales growth in fiscal 2027.",
-    "link": "https://www.nasdaq.com/articles/autozone-q4-profit-comps-rise-sees-sales-growth-fy27",
-    "pubDate": "Tue, 22 Sep 2026 11:55:50 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Novo's CEO Called Ozempic's Patent Cliff the \"Elephant in the Room\" Yesterday. Is the Stock Still a Buy?",
-    "desc": "Key PointsThe molecule, the active ingredient in both Wegovy and Ozempic, powered the company to unprecedented success.",
-    "link": "https://www.nasdaq.com/articles/novos-ceo-called-ozempics-patent-cliff-elephant-room-yesterday-stock-still-buy",
-    "pubDate": "Tue, 22 Sep 2026 11:54:54 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "History Says This Low-Cost Investment Could Outperform Anthropic -- and You Might Already Own It",
-    "desc": "Key PointsSome of the largest IPOs ever haven't taken off, and some have even been delisted.",
-    "link": "https://www.nasdaq.com/articles/history-says-low-cost-investment-could-outperform-anthropic-and-you-might-already-own-it",
-    "pubDate": "Tue, 22 Sep 2026 11:50:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Lexeo Therapeutics Signs Series Of Strategic Transactions To Expand Presence In Friedreich Ataxia",
-    "desc": "(RTTNews) - Lexeo Therapeutics, Inc. (LXEO), a clinical stage company, announced Tuesday a series of strategic transactions to expand its presence in Friedreich ataxia (FA), including the signing of a definitive agreement to acquire private clinical stage company Mantle Therapeut",
-    "link": "https://www.nasdaq.com/articles/lexeo-therapeutics-signs-series-strategic-transactions-expand-presence-friedreich-ataxia",
-    "pubDate": "Tue, 22 Sep 2026 11:31:35 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Elon Musk’s DOGE swiped $329 million in humanitarian funding from Nepal, leaving a Gen Z tech revolution to transform the budding country’s economy",
-    "desc": "After the Trump administration gutted USAID, Nepal’s private sector has stepped up to energize its young workforce and strengthen its financial independence.",
-    "link": "https://fortune.com/2026/09/20/elon-musk-doge-usaid-nepal-private-sector-tech-hub-gen-z-revolution/",
-    "pubDate": "Sun, 20 Sep 2026 07:44:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Gen Z is actually richer than any generation before them — but they have the curse of Great Expectations",
-    "desc": "A new BCG analysis says the youngest generation is richer than any before it at the same age. So why is it the best of times and the worst of times?",
-    "link": "https://fortune.com/2026/09/22/gen-z-wealth-income-vs-boomers-millennials-richest-generation-great-expectations/",
-    "pubDate": "Tue, 22 Sep 2026 12:00:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Exclusive: KPMG reorgs AI division to create new incubator — with a new executive role reporting directly to the CEO",
-    "desc": "\"AI is awesome,\" said Todd Lohr, the AI chief reporting directly to CEO Tim Walsh, \"but it's also an awesome responsibility that everyone needs to own.\"",
-    "link": "https://fortune.com/2026/09/22/kpmg-ai-reorg-todd-lohr-steve-case-retirement/",
-    "pubDate": "Tue, 22 Sep 2026 12:00:00 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "fortune",
-    "title": "OpenAI punted. Anthropic stalled. The hottest imminent IPO fits on your finger",
-    "desc": "Oura has grown from $1.6 million to $60.8 million in net income—and I’ve been one of its 5.7 million subscribers for years.",
-    "link": "https://fortune.com/2026/09/22/openai-punted-anthropic-stalled-the-hottest-imminent-ipo-fits-on-your-finger-oura/",
-    "pubDate": "Tue, 22 Sep 2026 11:34:14 +0000",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.01%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-001-4910849",
-    "pubDate": "2026-09-22 12:45:03",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Verbund stock gaining today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-verbund-stock-gaining-today-93CH-4910837",
-    "pubDate": "2026-09-22 12:43:48",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "S&P, Dow futures tick up, Nasdaq 100 futures flat a day after big AI-driven rally",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-upbeat-after-ai-rally-falling-oil-boost-wall-st-4909802",
-    "pubDate": "2026-09-22 12:42:48",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Adani firms pay $158,000 to settle disclosure violations with SEBI",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/adani-firms-pay-158000-to-settle-disclosure-violations-with-sebi-93CH-4910831",
-    "pubDate": "2026-09-22 12:40:29",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Heidi valuation doubles to $900M on $340M funding round - Bloomberg",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/heidi-valuation-doubles-to-900m-on-340m-funding-round--bloomberg-93CH-4910829",
-    "pubDate": "2026-09-22 12:38:16",
-    "fetchedAt": "2026-09-22T13:01:35.900Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Flight disruptions ease at Newark, Philadelphia airports following equipment outage",
-    "desc": "Flight delays continued Tuesday but were far fewer compared with Monday, when an FAA flight data system failed and a damaged cable severed a backup system.",
-    "link": "https://www.cnbc.com/2026/09/22/flight-disruptions-ease-at-newark-philadelphia-after-equipment-outage.html",
-    "pubDate": "Tue, 22 Sep 2026 11:47:00 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week",
-    "desc": "Oil prices reversed early gains on Tuesday amid optimism that prospects for a diplomatic solution to the U.S.-Iran war are improving.",
-    "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-    "pubDate": "Tue, 22 Sep 2026 11:28:31 GMT",
-    "fetchedAt": "2026-09-22T12:09:30.644Z"
   }
 ]
