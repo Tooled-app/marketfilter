@@ -1,6 +1,806 @@
 [
   {
     "source": "cnbc",
+    "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+    "desc": "The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.",
+    "link": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+    "pubDate": "Wed, 23 Sep 2026 20:54:08 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
+    "desc": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
+    "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+    "pubDate": "Wed, 23 Sep 2026 20:23:52 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "A rare Microsoft bear warms up to the stock. Here's what changed their mind",
+    "desc": "Stifel upgraded the software and cloud giant to buy from hold.",
+    "link": "https://www.cnbc.com/2026/09/23/a-rare-microsoft-bear-warms-up-to-the-stock-heres-what-changed-their-mind.html",
+    "pubDate": "Wed, 23 Sep 2026 19:53:16 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Surging Treasury yields, big bond losses offer sizable tax savings opportunity to investors",
+    "desc": "Don’t wait until December: The bond market selloff has opened a tax-loss harvesting opportunity for investors to offset big gains from stocks.",
+    "link": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+    "pubDate": "Wed, 23 Sep 2026 20:39:02 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
+    "desc": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+    "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:10:22 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Bentley unveils its first fully electric car",
+    "desc": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
+    "link": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:21:10 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How much do you spend on a birthday present?",
+    "desc": "Do you show you care through expensive presents? Or do you consider a drink in a pub a worthy birthday gift?",
+    "link": "https://www.bbc.co.uk/news/videos/cmj64g887zy9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 05:14:10 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why Gen Z are planning for life without a state pension",
+    "desc": "Many younger people do not believe the state pension will exist when they are older",
+    "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The furious dispute over what caused Air India flight 171 to crash",
+    "desc": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 10 Jun 2026 23:10:11 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Stitch Fix stock down 17% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-stitch-fix-stock-down-17-today-93CH-4913988",
+    "pubDate": "2026-09-23 20:51:30",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Playstudios to record $3 million to $3.5 million impairment charge after ending The Win Zone",
+    "desc": "",
+    "link": "https://www.investing.com/news/sec-filings/playstudios-to-record-3-million-to-35-million-impairment-charge-after-ending-the-win-zone-93CH-4913987",
+    "pubDate": "2026-09-23 20:50:28",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Kremlin says it is considering US invitation for Putin to join G20 meeting",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/kremlin-says-it-is-considering-us-invitation-for-putin-to-join-g20-meeting-4913982",
+    "pubDate": "2026-09-23 20:48:33",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "OGE Energy declares $0.42875 quarterly dividend",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/oge-energy-declares-042875-quarterly-dividend-93CH-4913981",
+    "pubDate": "2026-09-23 20:48:25",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Arq at Water Tower Research Virtual Insights Conference: pfas push lifts outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/arq-at-water-tower-research-virtual-insights-conference-pfas-push-lifts-outlook-93CH-4913979",
+    "pubDate": "2026-09-23 20:48:03",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wetouch Technology closes $38.8 million private share sale at premium to market",
+    "desc": "",
+    "link": "https://www.investing.com/news/sec-filings/wetouch-technology-closes-388-million-private-share-sale-at-premium-to-market-93CH-4913977",
+    "pubDate": "2026-09-23 20:47:00",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Blend Labs head Nima Ghamsari sells $25,021 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/blend-labs-head-nima-ghamsari-sells-25021-in-stock-93CH-4913975",
+    "pubDate": "2026-09-23 20:46:04",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Proficient auto logistics director Lux buys $24,060 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/proficient-auto-logistics-director-lux-buys-24060-in-stock-93CH-4913974",
+    "pubDate": "2026-09-23 20:45:58",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Viasat SVP, CFO Garrett Chase sells $307,646 in company stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/viasat-svp-cfo-garrett-chase-sells-307646-in-company-stock-93CH-4913973",
+    "pubDate": "2026-09-23 20:45:57",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investing",
+    "title": "Legend Biotech CFO Carlos Santos sells $49,630 in shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/legend-biotech-cfo-carlos-santos-sells-49630-in-shares-93CH-4913972",
+    "pubDate": "2026-09-23 20:45:54",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+    "desc": "The S&P 500&#x2019;s latest trip back to near-record territory has been powered by a surprisingly small number of stocks.",
+    "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 20:45:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "I&#x2019;m in my 50s. My mother died from Alzheimer&#x2019;s. Do I need long-term-care insurance?",
+    "desc": "&#x201c;By the time my mother died, the insurance company had paid out almost $600,000.&#x201d;",
+    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 20:40:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "What&#x2019;s behind Royal Caribbean&#x2019;s &#x2018;highly surprising&#x2019; push into Sandals vacation resorts",
+    "desc": "Royal Caribbean plans to take a 50% stake in Sandals, a move that gives the cruise line access to wealthier customers.",
+    "link": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 20:24:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Record-breaking diesel prices are poised to hit grocery prices, with fruits, vegetables and meat first on the list",
+    "desc": "Rising diesel prices have been a &#x201c;silent killer&#x201d; for Americans&#x2019; wallets &#x2014; but they could get louder soon, as prices for the fuel continue to shatter records.",
+    "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 20:22:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
+    "desc": "Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.",
+    "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 19:48:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The ingredients for a market crash are all in place",
+    "desc": "A witch&#x2019;s brew of rising debt levels, higher costs of capital and contagion risks is bubbling.",
+    "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 19:47:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Micron&#x2019;s stock has become a &#x2018;battleground&#x2019; as the AI narrative shifts",
+    "desc": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
+    "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 19:38:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The AI &#x2018;scare trade&#x2019; is finally hitting banks. Bargain hunters should take note.",
+    "desc": "In an era of higher interest rates, banks have reaped big profits due to consumers&#x2019; reluctance to move money out of low-interest checking accounts that offer convenience and ready access to money.",
+    "link": "https://www.marketwatch.com/story/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters-should-take-note-b2fc7410?mod=mw_rss_topstories",
+    "pubDate": "Wed, 23 Sep 2026 19:35:00 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "ft",
+    "title": "Rosneft billions fed Kremlin-backed money laundering network",
+    "desc": "FT investigation shows the state oil group’s hard currency was at heart of Russia’s efforts to circumvent sanctions",
+    "link": "https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 20:00:08 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "ft",
+    "title": "Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
+    "desc": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
+    "link": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
+    "pubDate": "Wed, 23 Sep 2026 19:57:38 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "ft",
+    "title": "How Trump’s diesel export ban will backfire",
+    "desc": "Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer",
+    "link": "https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 15:37:23 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "ft",
+    "title": "Israeli election committee bars main Arab parties from next month’s poll",
+    "desc": "Members of Prime Minister Benjamin Netanyahu’s far-right coalition lead campaign to exclude Ra’am and Joint List",
+    "link": "https://www.ft.com/content/05ffcb10-869e-4857-bed7-fcb025f8e02f?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 19:00:05 GMT",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Visa deposits $405M into escrow account, having the effect of stock buyback",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646343-visa-deposits-405m-into-escrow-account-having-the-effect-of-stock-buyback?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:57:42 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Regional Fed surveys cast doubt on strong business activity data - Pantheon Macro",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646365-regional-fed-surveys-cast-doubt-on-strong-business-activity-data---pantheon-macro?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:55:55 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Travel weakness sends Airbnb lower by 8%",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646310-travel-weakness-sends-airbnb-lower-by-8?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:55:09 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Sequans receives NYSE noncompliance notice",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646362-sequans-receives-nyse-non-compliance-notice?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:54:37 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "ProShares S&P 500 Ex-Financials ETF declares quarterly distribution of $0.1760",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646363-proshares-sp-500-ex-financials-etf-declares-quarterly-distribution-of-01760?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:49:01 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "ProShares S&P 500 Ex-Energy ETF declares quarterly distribution of $0.1762",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646360-proshares-sp-500-ex-energy-etf-declares-quarterly-distribution-of-01762?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:48:23 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "ProShares S&P 500 Dividend Aristocrats ETF declares quarterly distribution of $0.2825",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646357-proshares-sp-500-dividend-aristocrats-etf-declares-quarterly-distribution-of-02825?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 16:46:58 -0400",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move",
+    "desc": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set a new high Tuesday. Micron and Sandisk drop.",
+    "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:59:57 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir Flashes Buy Signal",
+    "desc": "The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
+    "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:49:15 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Nasdaq Retreats From Record, Yields Surge Amid Mounting Rate Hike Bets",
+    "desc": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-retreats-record-yields-surge-204842911.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:48:42 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "This “Diversified” Vanguard ETF Is at Its Most Concentrated Point Since 1965. Here's What That Means for VOO Investors.",
+    "desc": "The S&P 500's current concentration has its benefits and risks.",
+    "link": "https://www.fool.com/investing/2026/09/23/this-diversified-vanguard-etf-is-at-its-most-concentrated-point-since-1965-here-s-what-that-means-for-voo-investors/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:25:01 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "FAST TRACK GROUP Announces Delisting of Ordinary Shares from The Nasdaq Capital Market; Securities to Remain Trading on the OTC Markets",
+    "desc": "SINGAPORE, Sept. 23, 2026 (GLOBE NEWSWIRE) -- FAST TRACK GROUP (OTC: FTRKD) (the \"Company\"), a leading entertainment-focused event management and celebrity agency company, announced that The Nasdaq Stock Market LLC (“Nasdaq”) will delist the Company’s Class A ordinary shares (the \"Shares\") from The Nasdaq Capital Market. Nasdaq will file a Form 25-NSE with the U.S. Securities and Exchange Commission (the \"SEC\") to complete the delisting, which will become effective ten days after the Form 25-NSE",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fast-track-group-announces-delisting-200500705.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:05:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "If I Could Only Buy and Hold 1 ETF for the Next 20 Years, Here's Where I'd Invest",
+    "desc": "Vanguard's S&P 500 ETF is still my top recommendation for passive investors.",
+    "link": "https://www.fool.com/investing/2026/09/23/if-i-could-only-buy-and-hold-1-etf-for-the-next-20/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:50:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "S&P 500 Enters Historically Strong Midterm Stretch",
+    "desc": "A powerful seasonal pattern is coming back into focus",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-enters-historically-strong-192728409.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:27:28 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "McDonald's Drives the Dow Drop",
+    "desc": "McDonald's stock was on track for its worst day in more than six years on Wednesday, taking the Dow Jones Industrial Average lower. It was down as much as 6.5% in what could be McDonald's largest single-day decline since March 2020. McDonald's was a roughly 76-point drag on the Dow.",
+    "link": "https://finance.yahoo.com/m/84bac532-f0ee-3f0c-bcb3-17b14d5844c9/mcdonald%27s-drives-the-dow-drop.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 18:54:01 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stocks fall on soaring bond yields, higher oil prices",
+    "desc": "Stock markets fell Wednesday as oil prices rose sharply and US bond yields jumped on inflation fears, with world leaders at the UN General Assembly offering little to suggest progress in ending turmoil in the Middle East.Hopes for a deal to get Gulf oil and gas flowing freely through the Strait of Hormuz as global leaders gathered in New York had sent oil prices down in recent sessions.",
+    "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-trump-hails-025236730.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:40:14 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "IM Cannabis Regains Compliance with Nasdaq Minimum Bid Price Requirement",
+    "desc": "IM Cannabis Corp. (\"IMC\" or the \"Company\") (Nasdaq: IMCC), a medical cannabis company with operations in Israel and Germany, today announced that on September 23, 2026, it received written notice from Nasdaq Stock Market LLC (\"Nasdaq\"), indicating that the Company has regained compliance with the minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2), which requires listed securities to maintain a minimum bid price of $1.00 per share.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-regains-compliance-nasdaq-200100990.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:01:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Marvell Stock Ran, But Did It Tell You When?",
+    "desc": "Marvell Technology (MRVL) stock has returned 248% since September 22, 2025, against about 18% for the S&P 500 over the same window. The products that drove that run were named in public months before the share price moved. None came with a date.",
+    "link": "https://www.trefis.com/articles/616283/marvell-stock-ran-but-did-it-tell-you-when/2026-09-23?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:05:16 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
+    "desc": "When Trump meets Xi this week, a tariff truce set to expire in November turns a state visit into a live portfolio event, and two giant S&P 500 stocks sitting on opposite sides of the China trade stand to move in very different ways.",
+    "link": "https://247wallst.com/investing/2026/09/23/how-the-trump-xi-meeting-could-move-nvidia-boeing-and-your-401k/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 20:25:17 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+    "desc": "Energy stocks rose late Wednesday afternoon with the NYSE Energy Sector Index rising 0.9% and the St",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195603421.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:56:03 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Meta’s Muse AI Agent Triggers Worries About Brokerage Stocks",
+    "desc": "Concerns about AI have repeatedly sparked selloffs of shares of brokerage firms. On Tuesday, Meta’s Muse AI agent became the latest catalyst.",
+    "link": "https://finance.yahoo.com/m/9e6b74ab-d235-388a-a09c-41f61a1750e3/meta%E2%80%99s-muse-ai-agent-triggers.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:36:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Disney Is Raising Streaming Prices—Again",
+    "desc": "Walt Disney is raising its streaming subscription prices for the second time in a year as it looks to focus on investing in content. The move comes at a notable time: The popularity of Meta Platform’s Muse has raised concerns that artificial-intelligence agents pose risks to companies that rely on recurring payments s if they help consumers cancel those payments from simple prompts. A Disney spokesperson confirmed the price changes to Barron’s on Wednesday.",
+    "link": "https://finance.yahoo.com/m/e3bb571e-b15d-35fc-a342-d30f9bf605a4/why-disney-is-raising.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:30:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Domino’s Pizza Is Down 28% This Year. Is It Time to Sell or Load Up?",
+    "desc": "Domino's Pizza has shed more ground this year than any peer or benchmark in its category, yet one close competitor moved in the opposite direction entirely, which makes the sell-or-hold question harder than the chart alone suggests.",
+    "link": "https://247wallst.com/investing/2026/09/23/dominos-pizza-is-down-28-this-year-is-it-time-to-sell-or-load-up/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 19:23:09 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Only 7% Of Voters Rank Data Centers As A Top Political Issue; New Survey Finds",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Only 7% Of Voters Rank Data Centers As A Top Political Issue; New Survey Finds</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://amgreatness.com/2026/09/23/survey-only-7-percent-of-voters-rank-data-centers-as-a-top-political-issue/\">Authored by Bryan Hyde via American Greatness</a>,</em></p> <p><strong>A new poll from the Rainey Center for Public Policy shows just 7 percent of registered voters view data centers as a top-three national political issue, confirming that fewer than 10 percent prioritize them at the federal level.</strong></p> <p>The <a href=\"https://www.washingtonexaminer.com/policy/technology/4738287/ai-data-centers-public-opinion-poll/\">Washington Examiner reports</a> that the survey of 1,004 registered voters found that found that national concern over data centers remains low with artificial intelligence itself drawing just 12 percent support as a top issue.</p> <p>The poll was conducted between Sept. 10 and 14, after former Anthropic researcher Jacob Coxon <a href=\"https://www.washingtonexaminer.com/policy/technology/4718202/anthropic-researcher-quits-fear-artificial-intelligence/\">quit his role</a> and warned of the existential threat of AI, sparking a nationwide conversation about AI regulation.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Voters have a clear ask: build it right. 71% support requiring data-center operators to sign community benefits agreements - covering things like jobs, tax revenue, and grid upgrades - before construction begins. Read our September Policy Survey: Summary of Findings - link in... <a href=\"https://t.co/gb1O7nDMUx\">pic.twitter.com/gb1O7nDMUx</a></p> — Rainey Center (@RaineyCenter) <a href=\"https://x.com/RaineyCenter/status/2101733184266244579?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>Fifty-seven percent of survey respondents listed \"grocery prices, gas and household utilities\" as the most salient issue,</strong> followed by 30 percent listing jobs and the economy, and 20 percent listing affordable housing.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%287%29_16.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%287%29_16.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ba3c55b9-14e1-4b46-b8b7-d47465189dee\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%287%29_16.jpg\" /></a></p> <p>The poll showed AI as the 13th-most salient issue, directly following energy costs and transgender issues in schools and sports, with data centers being built in communities coming in as the 15th-most salient issue, behind cybersecurity.</p> <p><strong>According to <a href=\"https://www.pbs.org/newshour/politics/voters-dont-like-data-centers-they-really-dont-like-them-close-to-home\">PBS Newshour</a> , while voters do not rank data centers high on national political agendas, opposition spikes dramatically when facilities are planned nearby.</strong></p> <p>Fifrt-eight percent of voters say new tech data centers have a mostly negative effect on the country and 65 percent of voters oppose building these facilities in their own communities.</p> <p>Meanwhile 25 percent of voters say they support local data center construction.</p> <p>The polling results follow a week of federal and state lawmakers debating how and whether to proceed with additional AI regulations in the face of calls for guardrails on their own industry from frontier AI lab leaders , according to the Washington Examiner.</p> <p>When questioned on what specifically should be the top three priorities for lawmakers on data centers and AI, <strong>48 percent of survey respondents responded \"holding AI companies liable for harms,\" while 38 percent answered that \"data centers pay their own electricity.\"</strong></p> <p>National leaders remain largely divided on the issue, with President Donald Trump calling on people to ignore the calls for new guardrails because of the United States' AI race with China.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T19:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 15:40</span>",
+    "link": "https://www.zerohedge.com/political/only-7-voters-rank-data-centers-top-political-issue-new-survey-finds",
+    "pubDate": "Wed, 23 Sep 2026 19:40:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "'Mr.Gold' Warns Higher Rates Will Blow Everything Up",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">'Mr.Gold' Warns Higher Rates Will Blow Everything Up</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>Via Greg Hunter’s <a href=\"https://usawatchdog.com/\">USAWatchdog.com</a>,</em></p> <p>Financial writer and precious metals expert Bill Holter (aka Mr. Gold) has warned for years about what happens in the end when a debt bubble pops. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Bill-Holter-pic-9.22.26-pic-300x.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Bill-Holter-pic-9.22.26-pic-300x.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"10ba42c8-50b6-4223-97eb-da8a842b30a4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Bill-Holter-pic-9.22.26-pic-300x.jpg\" /></a></p> <p>Mr. Gold explains,<em><strong> “This bubble is like any other bubble in mankind’s history...\"</strong></em></p> <blockquote> <p><em>\" In the 1920s, credit was extremely easy. When credit tightened, it was the wealth effect in reverse. We saw this again in the early 1970s. We saw this again in the 1987 crash. Interest rates went from 7% to over 10% . . . and that bubble popped. We had the emerging market debt problem back in the early 1990s, Long Term Capital in 1998, the Dot Com bubble in 2000, the 2007-2008 Great Financial Crisis, and all you have to do is look at a chart of bond yields and you’ll see that each time yields spiked, those bubbles popped. Right now, interest rates are spiking, and this is the biggest bubble. </em></p> <p><em><strong>This is the everything bubble. Everything is in a bubble. The only things that are not in a bubble are gold and silver because they are real money.</strong> </em></p> <p><em>I think gold and silver are reflecting the risk of the debt structure coming down. </em></p> <p><em>From a global standpoint, countries are moving away from the dollar. They don’t want to be trapped in the dollar system. The dollar is the world reserve currency that is issued by an insolvent bankrupt entity. </em></p> <p><em><strong>Higher rates, that’s what is going to blow everything up, higher rates.”</strong></em></p> </blockquote> <p>Mr. Gold says the rates can fall back down in a hurry if the economy starts to skid. </p> <p>Mr. Gold also says<strong> the so-called “reset” you have been hearing about for years is real. It cannot be stopped,</strong> but it is an unfolding process right up until the very end. Holter says:</p> <blockquote> <p><em>“The reset is not a pushed button until the very, very end. That very, very end is going to be a weekend where you go to bed Friday and things look normal, and on Monday morning, the whole world will have changed. . .. <strong>Rising interest rated have happened hundreds of times in history. That is not the reset. </strong></em></p> <p><em>The reset is when those rising rates affect the existing debt in the system, and that debt fails and collapses. </em></p> <p><em><strong>Of course, you can add in derivatives, and the reset is really a wipeout of wealth. It’s the wipeout of the population’s wealth. Along with that goes the ‘Great Taking.’ </strong> They started putting these laws on the books in 2014 knowing there was going to be a huge rug pull at some point. They made it legal for brokers, banks and insurance companies to take client assets . . . to save the corporations. </em></p> <p><strong><em>What does that do to the population? The population becomes penniless. If you are not protecting yourself, you are going to get swept up in the wave of the Great Reset.”</em></strong></p> </blockquote> <p>Holter says the Deep State wants total control, which is why there is a big push to go all digital. </p> <p>Holter says buying gold and silver is not about making money but protecting purchasing power and a defense against the Great Reset. </p> <p>Holter says, <em><strong>“If you lose 50%, you have to make 100% to get back to break even. This is not going to be a time that you lose 50% and then things will start going back up again...\"</strong></em></p> <blockquote> <p><em>\" Because of the debt all over the world, when the debt breaks, the financial system is going to break. </em></p> <p><strong><em>If you have counterparties between you and your capitol, you are going to lose your capitol. </em></strong></p> <p><em>People ask, how much do I put into gold and silver, and I say put in what you don’t want to lose. </em></p> <p><em><strong>Gold and silver are the only money on the planet that cannot bankrupt in a world that is bankrupting. </strong> </em></p> <p><em>If you had this (gold) mindset since 2000, you are way ahead of the pack compared to the S&P or the DOW. There was zero default risk. </em></p> <p><strong><em>When you bought gold, you got the biggest return and took the lowest risk.”</em></strong></p> </blockquote> <p>There is much more in the 44-minute interview.</p> <p>Join Greg Hunter of <a href=\"https://usawatchdog.com/\">USAWatchdog</a> as he goes one-on-one with financial writer and precious metals expert <a href=\"https://billholter.com/\">Bill Holter/Mr. Gold</a> as he warns of the Great Reset and the Great Taking that will come with it for 9.22.26.</p> <p><iframe allowfullscreen=\"\" class=\"rumble\" frameborder=\"0\" height=\"360\" src=\"https://rumble.com/embed/v7dos5m/?pub=4\" width=\"640\"></iframe></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T19:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 15:05</span>",
+    "link": "https://www.zerohedge.com/markets/mrgold-warns-higher-rates-will-blow-everything",
+    "pubDate": "Wed, 23 Sep 2026 19:05:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "\"This Nor'easter Is Going To Be An Ordeal\"",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"This Nor'easter Is Going To Be An Ordeal\" </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The US East Coast has avoided any tropical development so far this year, but a developing nor'easter in the Atlantic just off the North Carolina and Virginia coast could still deliver hurricane-force winds and heavy rain, with the greatest impacts expected in the Northeast later this week and into the weekend. </p> <p>\"Oh, this Nor'easter is going to be an ordeal. This storm will be a monster and will be lashing the coast for several days. Thank your lucky stars this isn't January because it would be the most epic blizzard,\" meteorologist Ryan Maue wrote on X, adding, \"Maybe it's a harbinger of 'bomb cyclones' to come this winter?\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Oh, this Nor'easter is going to be an ordeal.<br /><br /> This storm will be a monster and will be lashing the coast for several days.<br /><br /> Thank your lucky stars this isn't January because it would be the most epic blizzard.<br /><br /> Maybe it's a harbinger of \"bomb cyclones\" to come this winter? <a href=\"https://t.co/gxOADbTznO\">pic.twitter.com/gxOADbTznO</a></p> — Ryan Maue (@RyanWeather) <a href=\"https://x.com/RyanWeather/status/2102513953758671100?ref_src=twsrc%5Etfw\">September 22, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The nor'easter formed earlier today off North Carolina and Virginia and is forecast to strengthen as it moves north along the coast, potentially bringing severe weather to coastal areas of the Mid-Atlantic and Northeast.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Nor’easter: brace for 50 mph wind gusts and 15 ft waves! 🌊<br /><br /> It's going to be a rough ride for the East Coast.<br /><br /> The storm's worst will probably lash the corridor from New York to Boston this weekend, with coastal flooding a primary concern because of high tides and strong winds. <a href=\"https://t.co/BCAjWa9x25\">pic.twitter.com/BCAjWa9x25</a></p> — Ben Noll (@BenNollWeather) <a href=\"https://x.com/BenNollWeather/status/2102751614230814798?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"This will be a long-duration storm for many areas along the Mid-Atlantic and New England coasts, with impacts beginning along the central Atlantic coast at midweek, spreading to New England on Friday and lasting through the weekend in some areas,\" AccuWeather wrote in a report. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">⚠️🌊🌬️ Coastal Flood Warnings & Advisories are in effect for most of our tidal areas through Thursday night or Friday to highlight the widespread minor to moderate tidal flooding expected at high tides. Northeast winds gusting up to 50 mph along the coast through Thursday. (1/2) <a href=\"https://t.co/njQ5fbJsfK\">pic.twitter.com/njQ5fbJsfK</a></p> — NWS Mount Holly (@NWS_MountHolly) <a href=\"https://x.com/NWS_MountHolly/status/2102711257702735915?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>On Saturday, the worst of the storm is expected across southeastern New England, particularly Massachusetts. Local outlet NBC Boston warns that the Boston metro could expect 5 to 8 inches of rain between Friday and Sunday, while Cape Cod could see conditions on par with a tropical storm. </p> <p>\"If the low shifts close to Boston, this becomes a massive event with 60 to 70 mph wind gusts, heavy rainfall, major storm surge and significant disruptions to Boston Harbor and the Massachusetts coastline,\" Fox Weather wrote in a separate report. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">[Potential Coastal Storm Fri-Sun] After a dry week we are tracking an early season nor'easter Friday to Sunday bringing rain, strong to damaging wind gusts, as well as coastal flooding/beach erosion. <a href=\"https://t.co/uSpZFiUx8c\">pic.twitter.com/uSpZFiUx8c</a></p> — NWS Boston (@NWSBoston) <a href=\"https://x.com/NWSBoston/status/2102644058837406100?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"<strong>The nor'easter could take on some characteristics of a tropical storm</strong>,\" AccuWeather warned. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T18:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 14:45</span>",
+    "link": "https://www.zerohedge.com/weather/nor-easter-going-be-ordeal",
+    "pubDate": "Wed, 23 Sep 2026 18:45:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "China's Quad-G Plan For Global Hegemony Involves The UN And AI",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">China's Quad-G Plan For Global Hegemony Involves The UN And AI</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/opinion/chinas-quad-g-plan-for-global-hegemony-involves-the-un-and-ai-6088094?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Anders Corr via The Epoch Times</a>,</em></p> <p><em><strong>The regime in China denies that it has plans for \"hegemony or expansion,\" but its history - from the peasant land seizures of the <a href=\"https://academic.oup.com/ahr/article-abstract/83/2/500/76353\">1920s</a> to claims on the entire <a href=\"https://www.usni.org/press/books/great-powers-grand-strategies-0\">South China Sea</a> today - is replete with land grabs and territorial expansion.</strong></em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_15-38-41.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_15-38-41.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0fb80c53-5204-4070-9990-795ea1b9fdbf\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_15-38-41.jpg\" /></a></p> <p>Starting in 2021 with its first of four global initiatives, the Chinese Communist Party (CCP) has used ideas for such initiatives and Beijing-led international organizations as engines to extend its expansion toward its long-held goal of global <a href=\"https://academic.oup.com/book/39917/chapter-abstract/340176460?redirectedFrom=fulltext\">hegemony</a>.</p> <p>The CCP's four global initiatives are ostensibly related to development, security, civilization, and governance. They are meant to seem palatable to the international community while integrating the United Nations and other forms of global governance into the CCP's own system, with itself in the lead.</p> <p><strong>The initiatives are currently expanding and strengthening. On Sept. 12, China expanded the digital element of its Global Development Initiative (GDI) by inviting additional countries to join its World Artificial Intelligence Cooperation Organization (WAICO). The organization was founded in July and is headquartered in <a href=\"https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html\">Shanghai</a>.</strong></p> <p>CCP leader Xi Jinping gave the keynote speech at the event. He called for \"true multilateralism,\" which analysts interpret as a justification for a parallel global order with Beijing in the lead.</p> <p>WAICO already has approximately 30 member countries, including Russia and Iran. It serves as a key economic and intelligence initiative led by Beijing to expand the CCP's global influence by promoting China's AI software and cloud infrastructure.</p> <p>The more countries use China's AI assets, the more Beijing's authoritarian approach to AI is normalized, and the more opportunities for global espionage and influence open up for China's military and intelligence agencies.</p> <p>More generally, the GDI uses a wedge strategy to increase the CCP's influence in countries by aligning development aid with the U.N. Sustainable Development Goals (SDGs). The resulting influence can then be expanded through larger Belt and Road Initiative projects such as ports, trains, roads, pipelines, and digital infrastructure.</p> <p>This broader penetration turns countries toward joining the BRICS group, originally Brazil, Russia, India, China, and South Africa, and now including Iran, among others. The group is economically dominated by Beijing, which expects BRICS countries to follow the CCP's lead on relatively anodyne statements such as Middle East peace, as well as on more substantial international projects such as AI development and efforts to shift world trade away from the U.S. dollar. Xi has personally invited BRICS countries to join WAICO.</p> <p><strong>The Global Security Initiative (<a href=\"https://news.cgtn.com/news/2026-09-14/Analysis-Three-questions-to-know-ahead-of-China-s-security-forum-1QrdA8C14ti/p.html\">GSI</a>) overlays China's preexisting military partnerships, such as the Shanghai Cooperation Organization (SCO), with the vision of a \"common\" security led by the CCP. The Beijing Xiangshan Security Forum, a key vehicle for extending the GSI to influential international military stakeholders, took place from Sept. 15 to Sept. 17. One subject during the forum was reportedly \"the impact of AI on future warfare.\"</strong></p> <p>The threat posed by the GSI and its networking with military and economic partners is real and current. <a href=\"https://www.facebook.com/reel/1919906435275690\">Iran</a> supports the GSI and is a member of the SCO. On Sept. 12, news broke that Chinese entities, most likely with the approval of the CCP, provided Iran with satellite images of U.S. forces in Jordan. Those images likely assisted Iran's missile attack that killed three U.S. troops in July.</p> <p>China has also provided Iran with dual-use components and fuel precursors for its missile and armed drone technologies used against Israel, Saudi Arabia, and Ukraine. Other than U.S. sanctions against a few Chinese companies, there were few repercussions imposed on the regime in China for providing Iran with dual-use items and satellite intelligence during a war. This signals to Beijing that it can provide the same to other SCO and BRICS countries in the future simply by changing the names and addresses of the Chinese entities involved.</p> <p>Afghanistan, which hosts al-Qaeda terrorists, is an observer nation in the SCO and could also receive Chinese intelligence or equipment for use against the United States, Pakistan, or India. Beijing has long had a positive relationship with the Taliban in Afghanistan, which has suppressed non-Pashtun ethnicities in the country.</p> <p>This accords with Beijing's Global Civilization Initiative (GCI), which claims to create a more pluralistic world in part through supporting the sovereignty of dictators even as they stifle free markets, speech, and diversity within their own countries.</p> <p>When Xi announced the GCI in 2023, he <a href=\"https://2017-2021.state.gov/the-hypocrisy-of-the-prcs-propaganda-system/\">hypocritically</a> said: \"We advocate the common values of humanity. Peace, development, equity, justice, democracy and freedom are the common aspirations of all peoples. Countries need to keep an open mind in appreciating the perceptions of values by different civilizations, and refrain from imposing their own values or models on others and from stoking ideological confrontation.\"</p> <p>The hypocrisy of this position is evident because then and now, Xi's regime militarily threatens democratic Taiwan; steals maritime territory from the Philippines, Vietnam, and other South China Sea claimants; takes Himalayan territory from India by force; and destroys the freedoms of religious minorities like the Uyghurs, Christians, and Falun Gong within China.</p> <p>Now, with the CCP's four global initiatives, this violent illiberality threatens to scale globally. Xi unveiled his Global Governance Initiative (GGI) last September at an SCO meeting in Tianjin. It promotes international law with the CCP in the lead and a coordinating function for the three prior initiatives.</p> <p><strong>According to Chinese state media, \"Viewed as a unified framework, the four initiatives form a 'four-in-one' interactive structure: development as the foundation, security as the guarantee, civilization as the bond, and governance as the coordinating mechanism - all serving the overarching objective of building a community with a shared future for humanity.\"</strong></p> <p>The CCP's \"community with a shared future for humanity\" sounds acceptable on first blush but can be directly compared to Imperial Japan's \"Greater East Asia Co-Prosperity Sphere\" in that both used anti-colonial rhetoric and regional economic integration to try and replace \"Western hegemony\" with an illiberal hegemony of its own making, led by an authoritarian and territorially aggressive power.</p> <p>What could be called the CCP's Quad-G Plan for global hegemony is dangerous to free markets, human rights, and democracy. The CCP is a totalitarian political party attempting to use the large economy of China, its diplomats, an international AI norms-setting body, and an already-existing international institutional structure at the United Nations and elsewhere as the power and tracks for moving an established U.S.-led international system with true sovereignty for members toward a global and illiberal hegemony with Beijing at the center.</p> <p><strong>The CCP's Quad-G approach raises questions about whether U.S. national security and the safety of democracies everywhere necessitate significantly reducing the CCP's influence at the United Nations and other international organizations,</strong> as well as expanding sanctions from targeting a few Chinese entities to targeting China as a whole.</p> <p>Options at the U.N. include canceling the visas of China's U.N. diplomats, as was done to <a href=\"https://www.cambridge.org/core/journals/american-journal-of-international-law/article/secretary-of-state-rubio-denies-and-revokes-visas-for-palestinian-delegation-invited-to-attend-un-general-assembly-meetings/533FF46132BDC86E05431B2D17068786\">Iranian</a> diplomats in 2014 and 2020, to working to return China's seat at the forum to democratic Taiwan. Though Taiwan does not currently propose this, other more powerful countries and groupings, including the United States, the European Union, and the G7 countries, should consider encouraging this idea to more effectively counter the CCP.</p> <p>The more democratic countries legitimize the CCP by engaging with it diplomatically, the more latitude it has to influence other countries to depend on its financing, join CCP-led international partnerships, and fall in line with Beijing's proposals to international organizations. <strong>This acclimates them and others to further accept the CCP's leadership and its preferred authoritarian forms of global governance, with Beijing at the center.</strong></p> <p><em>We publish a variety of perspectives. Nothing written here is to be construed as representing the views of ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T18:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 14:25</span>",
+    "link": "https://www.zerohedge.com/geopolitical/chinas-quad-g-plan-global-hegemony-involves-un-and-ai",
+    "pubDate": "Wed, 23 Sep 2026 18:25:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+    "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+    "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+    "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+    "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Natural Gas Falls on Shifting Weather Forecasts",
+    "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+    "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+    "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+    "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+    "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "What's New This Tax Season That Can Save You Money",
+    "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+    "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Chinese Investors With Few Options Turn to Dividends",
+    "desc": "Companies with good payouts are now the hottest bet in China markets.",
+    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Heard on the Street's Stock-Picking Series",
+    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
+    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
+    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
+    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "wsj",
+    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+    "desc": "The story of home affordability in the U.S. told from a single front porch.",
+    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Meta Platforms Stock Was a Winner on Wednesday",
+    "desc": "Key PointsThis is the social media company's agentic AI model.",
+    "link": "https://www.nasdaq.com/articles/why-meta-platforms-stock-was-winner-wednesday",
+    "pubDate": "Wed, 23 Sep 2026 20:24:25 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "H.B. Fuller Company Bottom Line Rises In Q3",
+    "desc": "(RTTNews) - H.B. Fuller Company (FUL) announced a profit for its third quarter that Increases, from the same period last year",
+    "link": "https://www.nasdaq.com/articles/hb-fuller-company-bottom-line-rises-q3",
+    "pubDate": "Wed, 23 Sep 2026 20:20:31 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BondBloxx BBB Rated 1-5 Year Corporate Bond (BBBS) Enters Oversold Territory",
+    "desc": "In trading on Wednesday, shares of the BondBloxx BBB Rated 1-5 Year Corporate Bond ETF (Symbol: BBBS) entered into oversold territory, changing hands as low as $49.93 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysi",
+    "link": "https://www.nasdaq.com/articles/bondbloxx-bbb-rated-1-5-year-corporate-bond-bbbs-enters-oversold-territory",
+    "pubDate": "Wed, 23 Sep 2026 20:20:29 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Pick Up This Bargain Energy Stock Even Cheaper Than Director Murti Did",
+    "desc": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on July 28, Liberty Energy Inc's Director, Arjun N. Murti, invested $250,008.51 into 14,053 shares of LBRT, for a cost per share of $17.79",
+    "link": "https://www.nasdaq.com/articles/pick-bargain-energy-stock-even-cheaper-director-murti-did",
+    "pubDate": "Wed, 23 Sep 2026 20:20:26 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Avantis U.S. Small Cap Value (AVUV) Enters Oversold Territory",
+    "desc": "In trading on Wednesday, shares of the Avantis U.S. Small Cap Value ETF (Symbol: AVUV) entered into oversold territory, changing hands as low as $120.44 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator us",
+    "link": "https://www.nasdaq.com/articles/avantis-us-small-cap-value-avuv-enters-oversold-territory",
+    "pubDate": "Wed, 23 Sep 2026 20:20:26 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BIV Crowded With Sellers",
+    "desc": "In trading on Wednesday, shares of the Vanguard Intermediate-Term Bond ETF (Symbol: BIV) entered into oversold territory, changing hands as low as $73.35 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator u",
+    "link": "https://www.nasdaq.com/articles/biv-crowded-sellers",
+    "pubDate": "Wed, 23 Sep 2026 20:20:18 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Mosaic Company's Exec. VP Of Operations, Karen Swager, Retires In Q2",
+    "desc": "(RTTNews) - On Wednesday, The Mosaic Company, a phosphate and potash crop nutrients provider, announced that Karen Swager, Executive Vice President of Operations, plans to retire in the second quarter of 2027. Walt Precourt, currently Senior Vice President and Chief Administrativ",
+    "link": "https://www.nasdaq.com/articles/mosaic-companys-exec-vp-operations-karen-swager-retires-q2",
+    "pubDate": "Wed, 23 Sep 2026 20:15:30 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Forget Waiting for a Dip: Nvidia (NVDA) Is Worth Buying Today Based on The Motley Fool's Long-Term Conviction Ratings",
+    "desc": "Key PointsNvidia has a ton of growth coming.",
+    "link": "https://www.nasdaq.com/articles/forget-waiting-dip-nvidia-nvda-worth-buying-today-based-motley-fools-long-term-conviction",
+    "pubDate": "Wed, 23 Sep 2026 20:09:00 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SXI Makes Bullish Cross Above Critical Moving Average",
+    "desc": "In trading on Wednesday, shares of Standex International Corp. (Symbol: SXI) crossed above their 200 day moving average of $272.43, changing hands as high as $276.69 per share. Standex International Corp. shares are currently trading up about 2% on the day. The chart below sho",
+    "link": "https://www.nasdaq.com/articles/sxi-makes-bullish-cross-above-critical-moving-average",
+    "pubDate": "Wed, 23 Sep 2026 20:08:22 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "UGI Crosses Below Key Moving Average Level",
+    "desc": "In trading on Wednesday, shares of UGI Corp. (Symbol: UGI) crossed below their 200 day moving average of $36.71, changing hands as low as $36.48 per share. UGI Corp. shares are currently trading off about 0.4% on the day. The chart below shows the one year performance of UGI s",
+    "link": "https://www.nasdaq.com/articles/ugi-crosses-below-key-moving-average-level",
+    "pubDate": "Wed, 23 Sep 2026 20:08:16 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Bullish Two Hundred Day Moving Average Cross - FLS",
+    "desc": "In trading on Wednesday, shares of Flowserve Corp (Symbol: FLS) crossed above their 200 day moving average of $76.28, changing hands as high as $77.77 per share. Flowserve Corp shares are currently trading up about 1.8% on the day. The chart below shows the one year performanc",
+    "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-fls",
+    "pubDate": "Wed, 23 Sep 2026 20:06:30 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "California Water Service Group Breaks Below 200-Day Moving Average - Notable for CWT",
+    "desc": "In trading on Wednesday, shares of California Water Service Group (Symbol: CWT) crossed below their 200 day moving average of $46.26, changing hands as low as $46.06 per share. California Water Service Group shares are currently trading off about 2.3% on the day. The chart bel",
+    "link": "https://www.nasdaq.com/articles/california-water-service-group-breaks-below-200-day-moving-average-notable-cwt",
+    "pubDate": "Wed, 23 Sep 2026 20:06:14 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Ball Breaks Below 200-Day Moving Average - Notable for BALL",
+    "desc": "In trading on Wednesday, shares of Ball Corp (Symbol: BALL) crossed below their 200 day moving average of $59.74, changing hands as low as $58.84 per share. Ball Corp shares are currently trading off about 1.8% on the day. The chart below shows the one year performance of BALL",
+    "link": "https://www.nasdaq.com/articles/ball-breaks-below-200-day-moving-average-notable-ball",
+    "pubDate": "Wed, 23 Sep 2026 20:02:54 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Teleflex (TFX) Shares Cross Below 200 DMA",
+    "desc": "In trading on Wednesday, shares of Teleflex Incorporated (Symbol: TFX) crossed below their 200 day moving average of $124.08, changing hands as low as $121.11 per share. Teleflex Incorporated shares are currently trading down about 2.7% on the day. The chart below shows the on",
+    "link": "https://www.nasdaq.com/articles/teleflex-tfx-shares-cross-below-200-dma",
+    "pubDate": "Wed, 23 Sep 2026 20:02:44 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Employer health costs are set to jump the most since 2003—and even health care workers are struggling to afford care",
+    "desc": "As premiums climb, medical practices must decide whether to absorb the increase, charge workers more, or cut health benefits.",
+    "link": "https://fortune.com/2026/09/23/health-care-workers-insurance-costs/",
+    "pubDate": "Wed, 23 Sep 2026 19:43:19 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "fortune",
+    "title": "How brokerage Compass sold its 83,000 real estate agents on the use of AI",
+    "desc": "The brokerage has leaned on executives and trained staff to laud a new AI tool intended to make real estate transactions more efficient.",
+    "link": "https://fortune.com/2026/09/23/compass-ai-assistant-real-estate-agents/",
+    "pubDate": "Wed, 23 Sep 2026 17:25:11 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Gen Z can’t afford healthy groceries—so many college students are skipping meals altogether or eating less to pay the bills",
+    "desc": "As food prices climb, they’re cutting back on purchases and replacing traditional meals with snacks even as a majority want to eat healthier.",
+    "link": "https://fortune.com/2026/09/23/gen-z-healthy-groceries-unaffordable-bills/",
+    "pubDate": "Wed, 23 Sep 2026 19:02:19 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Multimillionaire author Bill Perkins says parents should give kids their inheritance in their 20s when it can transform their lives—not when they die",
+    "desc": "The “Die With Zero” author says waiting until death to pass down wealth means children often get the money long after it could have changed their lives.",
+    "link": "https://fortune.com/2026/09/23/bill-perkins-die-with-zero-inheritance-kids-age-28-33-wealth-transfer-parents-children-money-financial-advice/",
+    "pubDate": "Wed, 23 Sep 2026 19:00:58 +0000",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Google Beam expands to six countries with Industrious",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/google-beam-expands-to-six-countries-with-industrious-93CH-4913967",
+    "pubDate": "2026-09-23 20:43:33",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "US stocks fall as 10-year Treasury yield hits highest since 2007",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-ride-tech-wave-higher-oil-stays-subdued-4912006",
+    "pubDate": "2026-09-23 20:43:01",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Wells Fargo’s chief risk officer Derek Flowers to retire",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wells-fargos-chief-risk-officer-derek-flowers-to-retire-4913965",
+    "pubDate": "2026-09-23 20:42:38",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Granite Point Mortgage stock tumbles on reverse split plans",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/granite-point-mortgage-stock-tumbles-on-reverse-split-plans-93CH-4913950",
+    "pubDate": "2026-09-23 20:38:02",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Grail rallies as FDA staff flags no major concerns for multi-cancer test",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/grail-rallies-as-fda-staff-flags-no-major-concerns-for-multicancer-test-4913948",
+    "pubDate": "2026-09-23 20:36:53",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Viking Therapeutics stock falls on proposed equity offering",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/viking-therapeutics-stock-falls-on-proposed-equity-offering-93CH-4913941",
+    "pubDate": "2026-09-23 20:36:27",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.68%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-068-4913923",
+    "pubDate": "2026-09-23 20:31:05",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ai-firms-should-not-get-regulatory-waivers-nvidia-ceo-says-on-podcast-4913912",
+    "pubDate": "2026-09-23 20:30:39",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.61%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-161-4913911",
+    "pubDate": "2026-09-23 20:30:33",
+    "fetchedAt": "2026-09-23T21:01:32.395Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Here's what happens to the economy when Treasury yields soar like they are now",
     "desc": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
     "link": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
@@ -5598,805 +6398,5 @@
     "link": "https://www.cnbc.com/2026/09/22/gas-tax-holiday-commuter-deduction-fuel-prices.html",
     "pubDate": "Tue, 22 Sep 2026 20:27:05 GMT",
     "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "bbc",
-    "title": "UK economy will grow by less than expected next year, OECD says",
-    "desc": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-    "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:44:53 GMT",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "bbc",
-    "title": "UK and US warned to take action on spiralling debt costs by IMF",
-    "desc": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:31:16 GMT",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Arcadis stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-arcadis-stock-sliding-today-93CH-4912313",
-    "pubDate": "2026-09-23 08:49:32",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oil holds near two-week lows on easing supply concerns",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
-    "pubDate": "2026-09-23 08:48:31",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Euro gas treads water near 3-week lows as Tehran hints Hormuz reopening",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/euro-gas-treads-water-near-3week-lows-as-tehran-hints-hormuz-reopening-4912258",
-    "pubDate": "2026-09-23 08:47:57",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Italy eyes 2026 deficit under EU 3% cap, raises GDP growth view - report",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/italy-eyes-2026-deficit-under-eu-3-cap-raises-gdp-growth-view--report-93CH-4912311",
-    "pubDate": "2026-09-23 08:46:25",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "RBC upgrades Lakefront Biotherapeutics stock rating on autoimmune drug potential",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/rbc-upgrades-lakefront-biotherapeutics-stock-rating-on-autoimmune-drug-potential-93CH-4912310",
-    "pubDate": "2026-09-23 08:44:47",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Raymond James downgrades Baldwin Insurance stock rating on limited upside",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-baldwin-insurance-stock-rating-on-limited-upside-93CH-4912309",
-    "pubDate": "2026-09-23 08:44:44",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Central Asia Metals court hearing adjourned to October 14",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/central-asia-metals-court-hearing-adjourned-to-october-14-93CH-4912308",
-    "pubDate": "2026-09-23 08:44:40",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "European stocks gain as oil slides, AI buzz lifts tech",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-ride-tech-wave-higher-oil-stays-subdued-4912006",
-    "pubDate": "2026-09-23 08:42:35",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "Pollen Street explores strategic options including going private",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/pollen-street-explores-strategic-options-including-going-private-93CH-4912306",
-    "pubDate": "2026-09-23 08:40:30",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investing",
-    "title": "UK business growth slows as inflation pressures build",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/uk-business-growth-slows-as-inflation-pressures-build-4912305",
-    "pubDate": "2026-09-23 08:40:09",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "TV host Maria Menounos lists a beautifully renovated Encino mansion for $7 million",
-    "desc": "TV personality Maria Menounos has listed her longtime Encino mansion for $6.995 million, two decades after she and husband made the sprawling California estate their home.",
-    "link": "https://www.marketwatch.com/story/tv-host-maria-menounos-lists-a-beautifully-renovated-encino-mansion-for-7-million-2af120a2?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 08:58:00 GMT",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Softbank&#x2019;s mega junk-bond deal shows capital for the AI race is getting more expensive",
-    "desc": "The artificial intelligence build-out is officially crossing over to the world of junk bonds, where investors expect to be paid more for taking bigger risks.",
-    "link": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 08:56:00 GMT",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it&#x2019;s time to buy.",
-    "desc": "Integrated oil giant BP has lagged its closest rivals over the last three to five years, but now one leading Wall Street firm says it&#x2019;s time to buy the beleaguered company.",
-    "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 08:24:00 GMT",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "ft",
-    "title": "Has Trump caged his China hawks?",
-    "desc": "Xi Jinping will arrive in Washington this week to find a US president wary of jeopardising their détente",
-    "link": "https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1",
-    "pubDate": "Wed, 23 Sep 2026 04:10:54 GMT",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Royal Caribbean to buy 50% stake in Sandals Resorts for $3B",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645840-royal-caribbean-to-buy-50-stake-in-sandals-resorts-for-3b?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:44:54 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Rivian recalls 98,828 U.S. vehicles over rearview camera visibility issue - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645829-rivian-recalls-98828-us-vehicles-over-rearview-camera-visibility-issue---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:33:55 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Nutex Health receives approval for dual-listing on Nasdaq Texas",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645827-nutex-health-receives-approval-for-dual-listing-on-nasdaq-texas?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:30:04 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Vecima Networks declares CAD 0.055 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645837-vecima-networks-declares-cad-0055-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:25:10 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "TXNM Energy declares $0.4225 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645836-txnm-energy-declares-04225-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:23:55 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "GE HealthCare Technologies boosts dividend by 14.3% to $0.04 a share",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645835-ge-healthcare-technologies-boosts-dividend-by-143-to-004-a-share?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:21:45 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Personal imports of cheaper prescription drugs will soon get trickier",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645823-cbp-rule-personal-importation-prescription-medication?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 04:20:51 -0400",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
-    "desc": "After back-to-back Nasdaq record highs, investors are monitoring US diplomatic efforts with Iran and China, as well as a recent rally in tech stocks.",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:05:56 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Odds of an Oct. 28 Fed Rate Hike Are Soaring, and President Donald Trump Is, in Part, to Blame",
-    "desc": "Interest rate hikes are rarely, if ever, a one-time event.",
-    "link": "https://www.fool.com/investing/2026/09/23/odds-of-oct-28-fed-rate-hike-soaring-president-donald-trump-is-in-part-to-blame/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:26:01 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Stock Market Today S&P 500 Futures Steady As Rate Jitters Meet Softer Oil",
-    "desc": "The Morning Bull - US Market Morning Update Wednesday, Sep, 23 2026 US stock futures are flat to slightly higher this morning, with S&P 500 contracts hovering near unchanged as investors weigh interest rates, inflation and oil. The US 10 year Treasury yield has been pushed up by firm central bank messaging that borrowing costs may stay high while inflation remains a concern. At the same time, oil prices are easing, which can help lower fuel and transport costs for households and businesses. A...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081532735.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:15:32 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Industrials Stocks We Think Twice About",
-    "desc": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 4.9% has fallen short of the S&P 500’s 18% rise.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-think-twice-080502604.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:05:02 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Industrials Stock to Consider Right Now and 2 We Question",
-    "desc": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 4.9% has fallen short of the S&P 500’s 18% rise.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-consider-now-082102465.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:21:02 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Industrials Stock with Impressive Fundamentals and 2 We Avoid",
-    "desc": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 4.9% has fallen short of the S&P 500’s 18% rise.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-impressive-fundamentals-081302641.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 08:13:02 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "The State Of Democracy",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The State Of Democracy</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>After eight consecutive years of declining scores, the <a href=\"https://www.eiu.com/n/campaigns/democracy-index-2025/\">2025 EIU Democracy Index</a> showed a stabilization of democracy around the world.</strong></p> <p>In the latest edition, almost 75 percent of countries either saw their score improve or remain stable compared to 2024, as the global average score across 167 countries and territories improved slightly to 5.2 out of 10.</p> <p><a href=\"https://www.statista.com/chart/18737/democracy-index-world-map/\" title=\"Infographic: The State of Democracy | Statista\"><img alt=\"Infographic: The State of Democracy | Statista\" height=\"500\" src=\"https://cdn.statcdn.com/Infographic/images/normal/18737.jpeg\" style=\"max-width: 960px;\" width=\"500\" /></a></p> <p><em>You will find more infographics at <a href=\"https://www.statista.com/chartoftheday/\">Statista</a></em></p> <p>The index, which assesses electoral processes, governance, civil liberties, political participation and political culture <strong>classified 26 countries as full democracies,</strong> including all Scandinavian countries, several other European nations as well as Canada, New Zealand, Australia, Mauritius, Taiwan, Japan and Latin American countries Uruguay and Costa Rica.</p> <p><a href=\"https://www.statista.com/chart/18737/democracy-index-world-map/\">However, as Statista's Felix Richter reports</a>,<strong> notably absent from the top category was the United States, which saw its score fall from 7.85 to 7.65 and was once again classified as a \"flawed democracy\".</strong></p> <p>Once considered a shining example of democracy in the world, the country now ranks 35th between Poland and Botswana, as its civil liberties score deteriorated under the Trump administration and its political culture was rated badly due to the intense polarization in the country.</p> <p><strong>Globally, the three worst-rated countries remained unchanged, with <a href=\"https://www.statista.com/chart/27177/afghan-life-rating-as-suffering/\">Afghanistan</a>, Myanmar and North Korea</strong> at the bottom of the table for non-existing civil liberties, electoral process and pluralism. At the other end of the scale, Norway, New Zealand and Denmark were ranked as the most democratic countries in the world, with Norway rated particularly highly for electoral process and pluralism, political participation and civil liberties.</p> <p><strong>While the decline of democracy at the global level has been stopped, the share of the world's population living in full democracies is still remarkably low at just 6.6 percent.</strong> Meanwhile, 39 percent of the world's population live in countries rated as authoritarian, with China and Pakistan the most populous examples.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 04:15</span>",
-    "link": "https://www.zerohedge.com/geopolitical/state-democracy",
-    "pubDate": "Wed, 23 Sep 2026 08:15:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Flash In The Pan Already Burned Out: German Economy Loses Its Hormuz Boost",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Flash In The Pan Already Burned Out: German Economy Loses Its Hormuz Boost</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>Submitted by Thomas Kolbe</em></p> <p>That Was a Short-Lived Boom.</p> <p>After just a few weeks, the special economic effect of the closure of the Strait of Hormuz has already evaporated, according to Germany’s Federal Ministry for Economic Affairs. In its <a href=\"https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html\">monthly report</a>, the ministry states that energy-intensive sectors and companies in German industry benefited from a massive disruption of supply chains in Asia following the closure — a one-time opportunity to temporarily offset the competitive disadvantages at home by shutting out the competition and moving into the business vacuum that had emerged.</p> <p>Companies in the chemical and metals industries in particular benefited from this special situation, which generated robust growth in the second quarter, the ministry said.</p> <p>Ultimately, the effect faded faster than expected<strong>. After just a few weeks, the German economic miracle was over — and the gray reality has returned. </strong>According to the ministry, the German economy continues to lack growth impulses. The stagnation is therefore continuing.</p> <p>Bad news for the German government, and even worse news for Chancellor Friedrich Merz, who is desperately hoping for economic figures he can use as campaign ammunition rather than going into the next election with completely empty hands when voters hand him another political rebuke in just a few days. <a href=\"v\">Pressure on the unpopular chancellor is also growing within his own party</a>. Merz should actually be delivering something substantial by now — after more than a year of his debt orgy. He should be spreading hope of an impending upswing. Instead, his artificial economy, bloated with ever more debt, keeps collapsing like a soufflé.</p> <p><strong>The figures from the economy show that this soufflé will not rise again anytime soon</strong>. Industrial production is currently 3.3 percent below its level a year ago. Energy-intensive industries in particular, which are falling back into their old apathy after the Iranian special boom, reported a 1.7 percent decline in July. No stimulus can be expected from German consumers — real retail sales fell by 3.4 percent from the previous month in July. Inflation is eating into household purchasing power, and the weak labor market is showing its teeth.</p> <p>Given the dramatic state of German industry, no one should expect an upswing in the German labor market<strong>. A total of 144,000 industrial jobs have been lost in the past twelve months alone. In August, the number of unemployed stood at 3.06 million </strong>— although statistical manipulation involving unregistered unemployed people in job-creation programs, short-time work or early retirement conceals the true state of the labor market. The naked truth about the German economy is also hidden in basic income support and other social programs — <strong>underemployment is a far greater problem than the statistics allow us to see.</strong></p> <p>Compared with the previous year, <strong>Germany’s job centers count 226,000 fewer people employed in the German economy</strong>. The German state’s reforestation program in the public sector will do little more than provide cosmetic relief. The decline is real, and it is reflected in corporate insolvencies, which this year are at their highest level since 2013.</p> <p>More than 18,500 corporate failures over the past twelve months are now on the books. They are compelling evidence of the structural problems at Germany’s economic location, which could only be eliminated through a political U-turn of 180 degrees. Yet even following a political change, returning to a path of growth would probably be difficult. The collateral damage left behind by political ideologues has simply become too great.</p> <p>Germany is trapped: cut off from Russian gas, caught in the grip of the emerging diesel-price crisis caused by the Hormuz closure, and dependent on the goodwill of the Americans, who have become its main supplier of fossil fuels — the German economy is stumbling toward a price shock with almost no alternatives.</p> <p>Once this energy shock works its way through the economic chain and into consumer prices, many German households will be in trouble. They have already been suffering from rising prices for years. Among supporters of degrowth ideology, this fatal combination of circumstances may be cause for celebration. Everyone, however, should be aware that Germany’s deeply divided society needs a boost in prosperity more urgently than ever. And growth is only conceivable in an environment of secure and affordable energy.</p> <p>Economics is the study of relationships and scarcity. Germany is competing with giants such as China and the United States. Energy prices there are now so <a href=\"https://www.iea.org/reports/electricity-2026/prices\">significantly below German levels </a>that the bleeding of domestic industry has become inevitable, regardless of how much subsidy money is pumped into the economic body through subsidized industrial electricity prices or direct aid.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/IEA%20quarterly%20average.png?itok=rvgqaBGk\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/IEA%20quarterly%20average.png?itok=rvgqaBGk\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cc8063e2-451e-4762-861a-7d5e06ae1304\" data-responsive-image-style=\"inline_images\" height=\"270\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/IEA%20quarterly%20average.png?itok=rvgqaBGk\" width=\"500\" /></a></p> <p>Political action in these times appears bizarre. Berlin and Brussels are responding to their own interventionism, the regulatory shackles left behind by low interest rates, climate regulation and energy policy, with further regulation and strangulation of businesses. Are we really surprised by the zombification of large parts of the economy, which now has to compensate for the significant rise in borrowing costs? This policy is dangerous to society. It is destabilizing and could only be prevented by a radical return to the market economy, to a principle of limited government while mobilizing all the forces of society. Until that realization matures, it will be a long and very dangerous road for all supporters of a free society and the market economy.</p> <p>* * * </p> <p><em>About the author: Thomas Kolbe, a graduate economist, has worked for or over 25 years as a journalist and media producer for clients from various industries and business associations. As a publicist, he focuses on economic processes and observes geopolitical events from the perspective of the capital markets. His publications follow a philosophy that focuses on the individual and their right to self-determination.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 03:30</span>",
-    "link": "https://www.zerohedge.com/economics/flash-pan-already-burned-out-german-economy-loses-its-hormuz-boost",
-    "pubDate": "Wed, 23 Sep 2026 07:30:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Comex Gold, Silver Settle Lower",
-    "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-    "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "wsj",
-    "title": "DeepSeek Won't Sink U.S. AI Titans",
-    "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "New Era Energy & Digital Is Up by More Than 60% This Month. Here's What's Fueling the Rally.",
-    "desc": "Key PointsThe 20-year power purchase agreement New Era Energy &amp; Digital signed with Vistra subsidiary Luminant ET Services Company was the major catalyst for its recent rally.",
-    "link": "https://www.nasdaq.com/articles/new-era-energy-digital-more-60-month-heres-whats-fueling-rally",
-    "pubDate": "Wed, 23 Sep 2026 08:41:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If Record-High Gas and Diesel Prices Trigger a Stock Market Crash, History Says Investors Should Follow This 1 Piece of Warren Buffett Advice",
-    "desc": "Key PointsDiesel prices are at all-time record highs, while gasoline prices are setting September records.",
-    "link": "https://www.nasdaq.com/articles/if-record-high-gas-and-diesel-prices-trigger-stock-market-crash-history-says-investors",
-    "pubDate": "Wed, 23 Sep 2026 08:35:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Shares Mixed Ahead Of Xi-Trump Summit",
-    "desc": "(RTTNews) - Asian stocks ended mixed on Wednesday ahead of a high-stakes U.S.-China summit on Thursday, which could lead to new trade agreements amid escalating competition and restrictions on advanced technologies.",
-    "link": "https://www.nasdaq.com/articles/asian-shares-mixed-ahead-xi-trump-summit",
-    "pubDate": "Wed, 23 Sep 2026 08:34:52 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nvidia's Demand Is Outpacing Its 70% Growth Forecast, and That Is Just the Beginning",
-    "desc": "Key PointsNvidia management said that based solely on demand for its processors, it could easily double its sales in fiscal 2028.",
-    "link": "https://www.nasdaq.com/articles/nvidias-demand-outpacing-its-70-growth-forecast-and-just-beginning",
-    "pubDate": "Wed, 23 Sep 2026 08:30:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Better Quantum Computing Stock: IonQ vs. Rigetti",
-    "desc": "Key PointsThese two companies each take a different approach to quantum computing.",
-    "link": "https://www.nasdaq.com/articles/better-quantum-computing-stock-ionq-vs-rigetti",
-    "pubDate": "Wed, 23 Sep 2026 08:24:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should You Buy Bitcoin While It's Under $100,000? The Answer Might Surprise You.",
-    "desc": "Key PointsBitcoin was recently down by as much as 53% from last year's all-time high of $126,080 per coin.",
-    "link": "https://www.nasdaq.com/articles/should-you-buy-bitcoin-while-its-under-100000-answer-might-surprise-you",
-    "pubDate": "Wed, 23 Sep 2026 08:20:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Coca-Cola Has Raised Its Dividend Through Every Market Crash Since 1962. Here's Whether Income Investors Should Still Own It.",
-    "desc": "Key PointsCoca-Cola looks like an excellent company at a fair price.",
-    "link": "https://www.nasdaq.com/articles/coca-cola-has-raised-its-dividend-through-every-market-crash-1962-heres-whether-income",
-    "pubDate": "Wed, 23 Sep 2026 08:15:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should You Buy Micron Before Sept. 30?",
-    "desc": "Key PointsMicron, a seller of memory chips, is benefiting from the AI boom.",
-    "link": "https://www.nasdaq.com/articles/should-you-buy-micron-sept-30-0",
-    "pubDate": "Wed, 23 Sep 2026 08:10:01 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Inside Fortescue&#8217;s billion-dollar bet to decarbonize mining—and help rebuild Ukraine",
-    "desc": "Andrew Forrest built Fortescue into an iron ore giant. Now he is staking billions on an accelerated clean-energy overhaul in Australia and a long-shot effort to help revive Ukraine after the fighting ends.",
-    "link": "https://fortune.com/2026/09/23/andrew-forrest-fortescue-decarbonization-plan-ukraine-reconstruction/",
-    "pubDate": "Wed, 23 Sep 2026 08:30:00 +0000",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "JPMorgan upgrades BP, downgrades TotalEnergies in oil sector reshuffle",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-bp-downgrades-totalenergies-in-oil-sector-reshuffle-4912301",
-    "pubDate": "2026-09-23 08:37:19",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Six Flags Entertainment stock climbing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-climbing-today-93CH-4912298",
-    "pubDate": "2026-09-23 08:35:27",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Six Flags Entertainment stock gaining today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-gaining-today-93CH-4912297",
-    "pubDate": "2026-09-23 08:35:04",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is IonQ stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-ionq-stock-surging-today-93CH-4912296",
-    "pubDate": "2026-09-23 08:34:12",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Raiffeisen Bank International stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-rallying-today-93CH-4912295",
-    "pubDate": "2026-09-23 08:34:11",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Deutsche Bank shares dip on cautious third quarter outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-dip-on-cautious-third-quarter-outlook-93CH-4912294",
-    "pubDate": "2026-09-23 08:32:36",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.42%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-142-4912284",
-    "pubDate": "2026-09-23 08:30:04",
-    "fetchedAt": "2026-09-23T09:01:29.603Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-    "desc": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese premiers, analysts told CNBC.",
-    "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-    "pubDate": "Wed, 23 Sep 2026 07:48:58 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-    "desc": "AI is becoming increasingly adept at tasks usually given to junior employees. Some fear the impact it might have on entry-level hiring.",
-    "link": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
-    "pubDate": "Wed, 23 Sep 2026 05:00:01 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Democrats lead the polls. Republicans lead in cash heading into the midterms",
-    "desc": "Republicans hold a $103 million cash advantage across national party committees as the fight for control of Congress enters its final six weeks.",
-    "link": "https://www.cnbc.com/2026/09/22/republicans-democrats-election-fundraising-2026.html",
-    "pubDate": "Tue, 22 Sep 2026 15:58:45 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "bbc",
-    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-    "desc": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 21 Sep 2026 04:00:38 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-    "desc": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-    "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 30 Aug 2026 23:22:24 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why the UK is dithering over what to do about e-scooters",
-    "desc": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
-    "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 22 Jul 2026 23:51:24 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "guardian",
-    "title": "OECD: global economy has been more resilient to Iran war than expected",
-    "desc": "<p>Paris-based body warns that ‘economic prospects remain heavily dependent on durable resolution to conflict’</p><p>The global economy has withstood the strains of the Iran war better than first feared but its outlook is “heavily dependent” on a lasting resolution to the conflict, the Organisation for Economic Co-operation and Development (OECD) has warned.</p><p>In its interim economic outlook, the Paris-based body suggested global growth had been more resilient than expected when the US-Israeli war on Iran began in late February.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
-    "pubDate": "Wed, 23 Sep 2026 08:00:19 GMT",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Renishaw plc Non-GAAP EPS of 179.50p, revenue of &#xA3;815.8M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645830-renishaw-plc-non-gaap-eps-of-17950p-revenue-of-8158m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 03:51:25 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Germany's business activity accelerates in September as services return to growth",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645822-germany-business-activity-accelerates-in-september-as-services-return-to-growth?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 03:39:28 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "France flash composite PMI rises to 25-month high as business activity rebounds",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645821-france-flash-composite-pmi-rises-to-25-month-high-as-business-activity-rebounds?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 03:21:26 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Millrose Properties announces pricing of $1B senior notes offering",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645826-millrose-properties-announces-pricing-of-1b-senior-notes-offering?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 03:15:34 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "InnovAge prices 10M share secondary offering at $9.25",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645824-innovage-prices-10m-share-secondary-offering-at-925?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 02:46:21 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Apollo caps private credit fund redemptions for third straight quarter",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645800-apollo-caps-private-credit-fund-redemptions-for-third-straight-quarter?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 02:43:02 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Stitch Fix Q4 2026 Earnings Preview",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645820-stitch-fix-q4-2026-earnings-preview?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 02:34:00 -0400",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Software Stock to Keep an Eye On and 2 We Ignore",
-    "desc": "Software is rapidly reducing operating expenses for businesses. This secular theme has materialized in superior earnings growth and stock price performance for most SaaS companies, and over the last six months, the industry’s 39.7% return has topped the S&P 500 by 21.7 percentage points.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-keep-eye-075702969.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 07:57:02 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Lucid Approaches a Make-or-Break Period as Preparation for Turnaround Begins",
-    "desc": "Key PointsLucid's stock sank initially when it announced it had hired AlixPartners, before confirming there was no bankruptcy consideration.",
-    "link": "https://www.nasdaq.com/articles/lucid-approaches-make-or-break-period-preparation-turnaround-begins",
-    "pubDate": "Wed, 23 Sep 2026 07:50:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should You Forget Palantir and Buy These 3 Quantum Computing Stocks Instead?",
-    "desc": "Key PointsGoogle parent Alphabet is a quantum computing leader with an attractive valuation.",
-    "link": "https://www.nasdaq.com/articles/should-you-forget-palantir-and-buy-these-3-quantum-computing-stocks-instead",
-    "pubDate": "Wed, 23 Sep 2026 07:22:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "How Many Americans Own Stock? The Answer Might Surprise You: 58% and Rising.",
-    "desc": "Key PointsAs of April 2026, 58% of Americans own stock.",
-    "link": "https://www.nasdaq.com/articles/how-many-americans-own-stock-answer-might-surprise-you-58-and-rising",
-    "pubDate": "Wed, 23 Sep 2026 07:20:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "fortune",
-    "title": "DOGE’s push to shrink the federal workforce cost the Trump administration $6.7 billion for employees not to work",
-    "desc": "Elon Musk’s ‘Fork in the Road’ initiative was responsible for most of a 435% increase in administrative leave between 2023 and 2035, a Government Accountability Office report found.",
-    "link": "https://fortune.com/2026/09/23/doge-fork-in-the-road-deferred-resignation-cost-trump-administration-7-billion-dollars-adminstrative-leave/",
-    "pubDate": "Wed, 23 Sep 2026 07:04:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Warren Buffett’s son worked on a farm instead of going to college—he’s now the chairman of $1 trillion Berkshire Hathaway",
-    "desc": "Before becoming chairman of his father's trillion-dollar company, Howard Buffett was a college dropout who taught himself to farm.",
-    "link": "https://fortune.com/2026/09/23/warren-buffett-son-howard-buffett-worked-on-a-farm-instead-of-going-to-college-now-chairman-of-1-trillion-berkshire-hathaway/",
-    "pubDate": "Wed, 23 Sep 2026 07:01:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Why Costco has the luxury of sitting out the delivery arms race",
-    "desc": "People want the thrill of the Costco treasure hunt more than same-day delivery.",
-    "link": "https://fortune.com/2026/09/23/costco-delivery-uber-doordash-sitting-out-arms-race/",
-    "pubDate": "Wed, 23 Sep 2026 07:00:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;Taxes aren&#8217;t really high enough for them to be sensitive&#8217;: the fears of the wealthy fleeing New York and California were just that",
-    "desc": "We heard the wealthy would move out of New York City, San Francisco and Los Angeles because of an unfriendly business climate, but did they actually?",
-    "link": "https://fortune.com/2026/09/23/taxes-millionaires-higher-rise-stay-flat-tax/",
-    "pubDate": "Wed, 23 Sep 2026 07:00:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "fortune",
-    "title": "In midterm years, October is usually the best month for stocks, with gains 73.7% of the time",
-    "desc": "Since 1950, September has been the weakest month of a midterm year, and October and November the strongest. Strategists say the setup, so far, still holds.",
-    "link": "https://fortune.com/2026/09/23/in-midterm-years-october-usually-best-month-for-stocks-gains-78-9-of-the-time/",
-    "pubDate": "Wed, 23 Sep 2026 07:00:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "fortune",
-    "title": "OpenAI’s search for a chief communications officer hits 9 months after a top candidate turned down the role",
-    "desc": "The company is ramping up its search efforts amid a seemingly never-ending string of controversies.",
-    "link": "https://fortune.com/2026/09/23/openai-9-month-search-hire-chief-communications-officer-pr-headhunter-ipo/",
-    "pubDate": "Wed, 23 Sep 2026 07:00:00 +0000",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "IMF says Sri Lanka economy resilient after 11 quarters of growth despite oil shock",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/imf-says-sri-lanka-economy-resilient-after-11-quarters-of-growth-despite-oil-shock-93CH-4912231",
-    "pubDate": "2026-09-23 07:46:58",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Adyen stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-adyen-stock-sliding-today-93CH-4912230",
-    "pubDate": "2026-09-23 07:46:39",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Rivian recalls nearly 99,000 vehicles over rearview camera display issue",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/rivian-recalls-nearly-99000-vehicles-over-rearview-camera-display-issue-4912206",
-    "pubDate": "2026-09-23 07:42:29",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Industrie De Nora recovers slightly after 18% plunge on Snam share placement",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/industrie-de-nora-recovers-slightly-after-18-plunge-on-snam-share-placement-4912218",
-    "pubDate": "2026-09-23 07:37:08",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Grab execs buy back shares after stock hits 3-year low on Atome deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/grab-execs-buy-back-shares-after-stock-hits-3year-low-on-atome-deal-4912209",
-    "pubDate": "2026-09-23 07:36:29",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Europe stocks rise as oil retreat aids sentiment; PMI data in focus",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/europe-stocks-rise-as-oil-retreat-aids-sentiment-pmi-data-in-focus-4912213",
-    "pubDate": "2026-09-23 07:31:19",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Denmark central bank forecasts 4% growth, urges caution on fiscal policy",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/denmark-central-bank-forecasts-4-growth-urges-caution-on-fiscal-policy-93CH-4912212",
-    "pubDate": "2026-09-23 07:31:09",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "European shares advance on Saudi pipeline restart and UN Middle East diplomacy",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-advance-on-saudi-pipeline-restart-and-un-middle-east-diplomacy-4912162",
-    "pubDate": "2026-09-23 07:30:10",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Renishaw stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-renishaw-stock-rallying-today-93CH-4912199",
-    "pubDate": "2026-09-23 07:21:19",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Adyen shares slip after new CFO appointment; company teams up with Flatpay",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/adyen-shares-slip-after-new-cfo-appointment-company-teams-up-with-flatpay-4912196",
-    "pubDate": "2026-09-23 07:17:28",
-    "fetchedAt": "2026-09-23T08:01:32.164Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "CNBC Daily Open: Nothing artificial about 'Super Intelligence'",
-    "desc": "President Donald Trump seeks to rebrand AI ahead of his meeting with China's Xi Jinping, while rejecting a \"globalist scheme\" to regulate the technology.",
-    "link": "https://www.cnbc.com/2026/09/23/trump-super-intelligence-artificial-intelligence.html",
-    "pubDate": "Wed, 23 Sep 2026 06:10:07 GMT",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Lattice Semiconductor SVP Pravin Desale sells $228,021 of shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/lattice-semiconductor-svp-pravin-desale-sells-228021-of-shares-93CH-4912176",
-    "pubDate": "2026-09-23 07:01:35",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Teladoc Health CEO Charles Divita sells $108,681 in shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/teladoc-health-ceo-charles-divita-sells-108681-in-shares-93CH-4912175",
-    "pubDate": "2026-09-23 07:01:02",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Diamondback Energy director Travis Stice sells $15.3m in shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/diamondback-energy-director-travis-stice-sells-153m-in-shares-93CH-4912174",
-    "pubDate": "2026-09-23 07:00:59",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Horizon Kinetics buys $371 of Texas Pacific Land (TPL) shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-371-of-texas-pacific-land-tpl-shares-93CH-4912173",
-    "pubDate": "2026-09-23 07:00:57",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "India private sector activity hits 3-month high as manufacturing rebounds",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/india-private-sector-activity-hits-3month-high-as-manufacturing-rebounds-93CH-4912168",
-    "pubDate": "2026-09-23 06:58:20",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "South Korea says Trump welcomes progress in US strategic investment projects",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/south-koreas-lee-trump-welcome-progress-in-us-strategic-investment-projects-4912022",
-    "pubDate": "2026-09-23 06:54:31",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "TotalEnergies approves Ima gas field development in Nigeria",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/totalenergies-approves-ima-gas-field-development-in-nigeria-93CH-4912155",
-    "pubDate": "2026-09-23 06:48:45",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Curbline Properties director Alexander Otto sells $69,171 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/curbline-properties-director-alexander-otto-sells-69171-in-stock-93CH-4912149",
-    "pubDate": "2026-09-23 06:46:21",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Exclusive: Hashgraph lands IBM marketplace listing for AI-agent identity tool",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusivehashgraph-group-lands-ibm-marketplace-listing-for-aiagent-identity-tool-4912141",
-    "pubDate": "2026-09-23 06:44:26",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "investing",
-    "title": "Airtel Money plans London IPO via secondary share sale",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/airtel-money-plans-london-ipo-via-secondary-share-sale-93CH-4912140",
-    "pubDate": "2026-09-23 06:44:04",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "ft",
-    "title": "Global banks warn UK windfall tax will trigger shift away from London",
-    "desc": "Chancellor John Healey is looking for revenues in next month’s Budget to compensate for hit from higher borrowing costs due to Iran war",
-    "link": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1",
-    "pubDate": "Wed, 23 Sep 2026 04:00:29 GMT",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-    "desc": "U.S. stock futures are posting slight gains early Wednesday as Wall Street digests an aggressive UN address from President Donald Trump on Iran, cooling crude oil prices, and fresh bullish momentum in the AI sector. The Polymarket (CRYPTO: POL) crowd...",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61938049/stock-market-will-sp-500-open-up-or-down-today-43?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 06:03:48 +0000",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Nordics Consistently Lead The World In Gender Equality",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Nordics Consistently Lead The World In Gender Equality</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>For the 17th consecutive time</strong>, the World Economic Forum has named <strong>Iceland the most gender-equal country in the world</strong>.</p> <p>This is according to the <a href=\"https://www.weforum.org/publications/global-gender-gap-report-2026/\">Global Gender Gap Report 2026</a>, which was released earlier this week.</p> <p>Iceland is the only country to have closed its gender gap by more than 90 percent and one of only four economies that have consistently been in the top 10 since the index's inception in 2006.</p> <p><a href=\"https://www.statista.com/chart/34653/top-scoring-countries-on-the-world-economic-forums-global-gender-gap-index/\">As Statista's Felix Richter reports</a>, <strong>aside from Iceland, these are Finland, Norway and Sweden, with the former two making the top three for the third consecutive year</strong>.</p> <p><a href=\"https://www.statista.com/chart/34653/top-scoring-countries-on-the-world-economic-forums-global-gender-gap-index/\" title=\"Infographic: Nordics Consistently Lead the World in Gender Equality | Statista\"><img alt=\"Infographic: Nordics Consistently Lead the World in Gender Equality | Statista\" height=\"500\" src=\"https://cdn.statcdn.com/Infographic/images/normal/34653.jpeg\" style=\"max-width: 960px;\" width=\"500\" /></a></p> <p><em>You will find more infographics at <a href=\"https://www.statista.com/chartoftheday/\">Statista</a></em></p> <p><strong>European economies have consistently filled most of the top 10 spots over the past two decades, </strong>with Belgium, Denmark, Germany, Ireland, Lithuania, Moldova, the Netherlands, Slovenia, Spain, Switzerland and the United Kingdom having each featured at least once in the past 20 years.</p> <p>Several countries from Sub-Saharan Africa also made it into the top 10 over the years, including South Africa, ranked sixth in 2009, and Lesotho (2009, 2010 and 2011. Rwanda was in the top 10 for eight consecutive years between 2014 and 2022, partly due to the fact that it has achieved full parliamentary parity - a feat few nations worldwide have managed. Namibia first joined the top 10 in 2018, before it rose to sixth place in 2021 and climbed to a record fourth place this year.</p> <p>New Zealand and the Philippines are the two countries in Eastern Asia and the Pacific to have appeared fairly consistently in the top 10 throughout the Gender Gap Report’s history, while in Latin America and the Caribbean, Nicaragua is the sole high performing country. Notably, the regions of Central Asia, Southern Asia, North America and the Middle East and Northern Africa are underrepresented at the top of the gender parity ranking.</p> <p><strong>The Gender Gap Index is a means to benchmark gender parity across four dimensions: </strong>economic opportunities, educational, health and political leadership. The level of progress toward gender parity is calculated as the ratio of the value of each indicator for women to the value for men, with a parity score of 1 indicating full parity. The index also expresses progress toward gender parity as a percentage.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T06:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 02:45</span>",
-    "link": "https://www.zerohedge.com/personal-finance/nordics-consistently-lead-world-gender-equality",
-    "pubDate": "Wed, 23 Sep 2026 06:45:00 +0000",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Iraqi PM Sets New June 2027 Deadline To Disarm Resistance Factions",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iraqi PM Sets New June 2027 Deadline To Disarm Resistance Factions</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://thecradle.co/articles/iraqi-pm-sets-new-june-2027-deadline-to-disarm-resistance-factions\">Authored by News Desk via The Cradle</a>,</em></p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/de6aa6c4-b679-11f1-a0ff-00163e02c055_webp.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/de6aa6c4-b679-11f1-a0ff-00163e02c055_webp.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0c4b22d9-4a33-4f38-9b0f-2c0b7a772dc4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/de6aa6c4-b679-11f1-a0ff-00163e02c055_webp.jpg\" /></a> <figcaption><em>(Photo credit: AFP)</em></figcaption></figure><p><strong>Iraqi Prime Minister Ali al-Zaidi announced a June 2027 deadline for the disarmament of the country's resistance factions</strong> in comments released on 21 September, extending a previous deadline which had been set for the end of this month.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Iraq PM sets June 2027 deadline to disarm armed militias<br /> ——<br /> Iraq’s Prime Minister Ali al-Zaidi has pledged to disarm the country’s militias by June 2027, outlining the phased plan for the first time in an interview with The New York Times in Baghdad on Saturday.<br /><br /> “This is not… <a href=\"https://t.co/nGNEtFQ9mp\">pic.twitter.com/nGNEtFQ9mp</a></p> — The Cradle (@TheCradleMedia) <a href=\"https://x.com/TheCradleMedia/status/2102334703365710327?ref_src=twsrc%5Etfw\">September 22, 2026</a></blockquote> <p>The announcement came in an interview with the <i>New York <a href=\"https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html\">Times</a></i> (NYT), carried out on Saturday, during which Zaidi detailed the disarmament plan that Washington has been pushing so heavily for.</p> <p>\"This is not something that is optional. It is a necessity. Others who spoke of this then backtracked. They yielded to pressure or to other concerns. For me, this issue, along with that of corruption, is a matter of honor,\" the Iraqi premier told NYT.</p> <p>\"We wish to build bridges and economic ties between Iraq and the countries of the world. Under this government, Iraq will be a meeting point, not a point of hostility. Arms have to be confined first so you can build a solid economy,\" he added.</p> <p><strong>Zaidi had previously announced a 30 September deadline</strong> to disarm the Iraqi factions. Yet this deadline was firmly rejected by the resistance, leading to the extension.</p> <p>\"There would first be a 90-day period during which the militias would not launch any attacks and be assured that they would not be attacked by US forces,\" Zaidi said to NYT.</p> <p>\"After that, the [factions] would begin handing over their weapons, with disarmament ending by 30 June, 2027.\"</p> <p>According to NYT, the resistance is \"pushing\" to have the deadline extended to the end of next year.</p> <p>The newspaper refers to the new date as ambitious.</p> <p>\"The timeline is extremely precarious\" and \"impossible to meet during a time of war,\" regional diplomats and Iraqi security officials are quoted as saying by the outlet.</p> <p><strong>Zaidi claims the plan will ensure the resistance factions \"cease to exist as independent entities.\"</strong></p> <p>\"They will join the Popular Mobilization Units as individuals and integrate into them,\" he went on to say.</p> <p>US President Donald Trump's administration has adopted a significantly more coercive approach than its predecessors to disarming the Iraqi resistance, stepping up pressure on Baghdad in recent months to dismantle the resistance factions swiftly.</p> <p><strong>Washington reportedly froze security programs with Baghdad and blocked dollar shipments</strong> to the country earlier this year to pressure Iraq into dismantling Iran-backed resistance groups.</p> <p>Iraqi <a href=\"https://thecradle.co/articles/kataib-hezbollah-says-iraqi-resistance-running-out-of-patience-over-govt-crackdown\">resistance groups</a> have demanded a full US <a href=\"https://thecradle.co/articles/baghdad-rejects-us-plan-to-keep-troops-in-iraq-past-30-sept-deadline\">withdrawal</a>, rather than the \"transitional\" pullout agreed on between the US and Iraq, which will see Washington shift from a \"combat\" to an \"advisory\" role, while still retaining a military presence in the country.</p> <p>At the height of the illegal US-Israeli war on Iran, these resistance groups inflicted heavy damage on <a href=\"https://thecradle.co/articles/iraqi-resistance-launches-over-30-operations-on-us-bases-within-24-hours\">US assets</a> in Iraq.</p> <p>They have also supported Gaza militarily throughout the genocide and have carried out operations in response to Israeli war crimes in Lebanon.</p> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T06:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 02:00</span>",
-    "link": "https://www.zerohedge.com/geopolitical/iraqi-pm-sets-new-june-2027-deadline-disarm-resistance-factions",
-    "pubDate": "Wed, 23 Sep 2026 06:00:00 +0000",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Financial Services Roundup: Market Talk",
-    "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500",
-    "fetchedAt": "2026-09-23T07:14:12.484Z"
   }
 ]
