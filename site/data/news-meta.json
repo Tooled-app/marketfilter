@@ -1,52 +1,53 @@
 {
-  "lastRun": "2026-09-24T22:01:41.436Z",
-  "fetched": 13,
-  "failed": 1,
-  "newItems": 64,
+  "lastRun": "2026-09-24T23:01:48.959Z",
+  "fetched": 12,
+  "failed": 2,
+  "newItems": 49,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 2
+      "added": 3
     },
     {
       "id": "bbc",
       "name": "BBC Business",
       "items": 47,
-      "added": 0
+      "added": 5
     },
     {
       "id": "investing",
       "name": "Investing.com",
       "items": 10,
-      "added": 10
+      "added": 9
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 10,
-      "added": 1
-    },
-    {
-      "id": "guardian",
-      "name": "The Guardian",
-      "items": 20,
-      "added": 3
-    },
-    {
-      "id": "ft",
-      "name": "Financial Times",
       "items": 0,
       "added": 0,
       "error": "fetch failed"
     },
     {
+      "id": "guardian",
+      "name": "The Guardian",
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "ft",
+      "name": "Financial Times",
+      "items": 11,
+      "added": 2
+    },
+    {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
       "items": 7,
-      "added": 7
+      "added": 5
     },
     {
       "id": "benzinga",
@@ -58,13 +59,13 @@
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 20
+      "added": 13
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 4
+      "added": 0
     },
     {
       "id": "wsj",
@@ -76,19 +77,19 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 14
+      "added": 6
     },
     {
       "id": "fortune",
       "name": "Fortune",
       "items": 10,
-      "added": 0
+      "added": 2
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
-      "items": 10,
-      "added": 3
+      "items": 9,
+      "added": 4
     }
   ]
 }

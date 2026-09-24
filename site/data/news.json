@@ -1,6 +1,398 @@
 [
   {
     "source": "cnbc",
+    "title": "Trump, Xi to attend state dinner after White House meeting",
+    "desc": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
+    "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+    "pubDate": "Thu, 24 Sep 2026 22:09:33 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
+    "desc": "The 30-year fixed rate surged to 7.45%, the highest level since April 2024 as bonds sold off and yields rose.",
+    "link": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
+    "pubDate": "Thu, 24 Sep 2026 22:58:53 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+    "desc": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+    "link": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+    "pubDate": "Thu, 24 Sep 2026 22:41:11 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    "desc": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 18:06:40 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'We're all broke': Would you chase a friend for £5?",
+    "desc": "What's the smallest amount of money you would ask a friend to pay you back?",
+    "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 23:00:45 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Food banks 'in crisis' amid fears some may have to close",
+    "desc": "According to the Trussell Trust, an anti-poverty charity, some food banks are having pay for 30-50% of the food they are supplying.",
+    "link": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:45:04 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Rising fuel costs hitting businesses and customers",
+    "desc": "Business owners say higher fuel costs are creating challenges on several fronts.",
+    "link": "https://www.bbc.co.uk/news/articles/cvn0j77dzjdko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:10:25 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Rise in 'commuter students' due to living costs",
+    "desc": "Some young people are staying at home while attending university as they cannot afford to move.",
+    "link": "https://www.bbc.co.uk/news/articles/c670lknwqyxno?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:05:35 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "CNL Strategic Capital reports August net asset values and declares distributions",
+    "desc": "",
+    "link": "https://www.investing.com/news/sec-filings/cnl-strategic-capital-reports-august-net-asset-values-and-declares-distributions-93CH-4916382",
+    "pubDate": "2026-09-24 22:47:03",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Revolution Medicines director Elizabeth Anderson sells $1.96m in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/revolution-medicines-director-elizabeth-anderson-sells-196m-in-stock-93CH-4916381",
+    "pubDate": "2026-09-24 22:46:12",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Faraday Future to host partner conference on Sept. 29",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/faraday-future-to-host-partner-conference-on-sept-29-93CH-4916374",
+    "pubDate": "2026-09-24 22:44:32",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Venu Holding shareholders approve board elections, incentive plan amendment, and debt issuance",
+    "desc": "",
+    "link": "https://www.investing.com/news/sec-filings/venu-holding-shareholders-approve-board-elections-incentive-plan-amendment-and-debt-issuance-93CH-4916373",
+    "pubDate": "2026-09-24 22:43:00",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-4914110",
+    "pubDate": "2026-09-24 22:36:36",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Dycom Industries director Carmen Sabater buys $98,217 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/dycom-industries-director-carmen-sabater-buys-98217-in-stock-93CH-4916361",
+    "pubDate": "2026-09-24 22:31:10",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "City Therapeutics files for US IPO as biotech listings surge",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/drug-developer-city-therapeutics-files-for-us-ipo-4916247",
+    "pubDate": "2026-09-24 22:30:51",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Anthropic seeks Palantir-style voting control for seven co-founders ahead of IPO, The Information reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/anthropic-seeks-palantirstyle-voting-control-for-seven-cofounders-ahead-of-ipo-the-information-reports-4916355",
+    "pubDate": "2026-09-24 22:24:54",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investing",
+    "title": "Costco Q4 FY2026 slides: 11% sales growth, digital surge continues",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/costco-q4-fy2026-slides-11-sales-growth-digital-surge-continues-93CH-4916354",
+    "pubDate": "2026-09-24 22:23:37",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "ft",
+    "title": "Shale oil magnate says Exxon chief ‘threw me under the bus’ after $60bn takeover",
+    "desc": "Scott Sheffield says supermajor launched ‘smear campaign’ to stop him joining company’s board",
+    "link": "https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1",
+    "pubDate": "Thu, 24 Sep 2026 21:57:36 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "ft",
+    "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+    "desc": "Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’",
+    "link": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
+    "pubDate": "Thu, 24 Sep 2026 21:06:45 GMT",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Scholastic forecasts 2%-4% revenue growth and $135M-$145M adjusted EBITDA for fiscal 2027 as Book Fairs enter fall season",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646947-scholastic-forecasts-2-percentminus-4-percent-revenue-growth-and-135m-145m-adjusted-ebitda?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 19:00:32 -0400",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "First Solar leads big solar sector drop as high borrowing costs threaten project financing",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646945-first-solar-leads-big-solar-sector-drop-as-high-borrowing-costs-threaten-project-financing?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 18:57:17 -0400",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Ecopetrol chooses presidential ally Gutierrez as new CEO",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646939-ecopetrol-chooses-presidential-ally-gutierrez-as-new-ceo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 18:14:26 -0400",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "CenterPoint Energy selected for $50M DOE grid upgrade award",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646944-centerpoint-energy-selected-for-50m-doe-grid-upgrade-award?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 18:04:38 -0400",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Voyageur Pharmaceuticals to settle $192,300 debt with shares",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646943-voyageur-pharmaceuticals-to-settle-192300-debt-with-shares?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 18:02:42 -0400",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Zoetis (ZTS) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "desc": "In the most recent trading session, Zoetis (ZTS) closed at $70.27, indicating a -1.87% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zoetis-zts-registers-bigger-fall-211505700.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:05 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's Why General Dynamics (GD) Fell More Than Broader Market",
+    "desc": "In the latest trading session, General Dynamics (GD) closed at $336.29, marking a -2.05% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-general-dynamics-gd-211504959.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:04 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Clearway Energy (CWEN) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "Clearway Energy (CWEN) closed the most recent trading day at $29.19, moving 3.09% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-suffers-larger-211504289.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:04 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "HudBay Minerals (HBM) Dips More Than Broader Market: What You Should Know",
+    "desc": "In the latest trading session, HudBay Minerals (HBM) closed at $26.48, marking a -1.16% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hudbay-minerals-hbm-dips-more-211504185.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:04 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "V.F. (VFC) Ascends While Market Falls: Some Facts to Note",
+    "desc": "In the closing of the recent trading day, V.F. (VFC) stood at $13.69, denoting a +1.26% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/v-f-vfc-ascends-while-211503132.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:03 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Avino Silver (ASM) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "The latest trading day saw Avino Silver (ASM) settling at $5.91, representing a -2.15% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/avino-silver-asm-suffers-larger-211503099.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:03 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's Why Akamai Technologies (AKAM) Fell More Than Broader Market",
+    "desc": "In the latest trading session, Akamai Technologies (AKAM) closed at $110.41, marking a -6.78% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-akamai-technologies-akam-211503264.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:03 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "BellRing Brands (BRBR) Declines More Than Market: Some Information for Investors",
+    "desc": "In the closing of the recent trading day, BellRing Brands (BRBR) stood at $7.69, denoting a -8.89% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bellring-brands-brbr-declines-more-211503233.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:03 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sigma Lithium Corporation (SGML) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "desc": "In the most recent trading session, Sigma Lithium Corporation (SGML) closed at $9.95, indicating a -1.87% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sigma-lithium-corporation-sgml-falls-211502292.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:02 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Your McDonald's Stock Thesis Has One Loose End",
+    "desc": "McDonald's (MCD) has a pricing problem in the United States, its second-largest business. Its value menu of 10 items for under $3 each has not delivered what management expected. The shares lost 19.3% over the past year (as of September 23, 2026), while the S&P 500 returned 13%. The fix is not settled, because it depends on franchisees charging the prices McDonald's recommends.",
+    "link": "https://www.trefis.com/articles/616474/your-mcdonalds-stock-thesis-has-one-loose-end/2026-09-24?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:49:54 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VICI Properties Inc. (VICI) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "In the closing of the recent trading day, VICI Properties Inc. (VICI) stood at $23.27, denoting a -1.81% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-suffers-211505285.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:05 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Dropbox (DBX) Dipped More Than Broader Market Today",
+    "desc": "Dropbox (DBX) reached $32.66 at the closing of the latest trading day, reflecting a -4.56% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-dropbox-dbx-dipped-more-211504766.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:15:04 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
+    "desc": "Today, Sept. 24, 2026, the enterprise cloud giant filed to shield itself from cost and payment risk as the New Mexico facility faces public opposition and permitting delays.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-oracle-stock-dips-as-it-issues-force-majeure-notice-on-project-jupiter-data-center/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:53:48 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Should You Buy SoFi Stock Before Oct. 27?",
+    "desc": "Key PointsSoFi stock is down 34% YTD.",
+    "link": "https://www.nasdaq.com/articles/should-you-buy-sofi-stock-oct-27",
+    "pubDate": "Thu, 24 Sep 2026 22:25:00 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Google To Launch First Experimental Satellite For Orbital AI Data Center Project",
+    "desc": "(RTTNews) - Google under Alphabet Inc. (GOOG) is preparing to launch its first experimental satellite as part of Project Suncatcher, an ambitious effort to develop AI data centers in orbit. The satellite, called MVP, is scheduled to launch on October 1 aboard a SpaceX Falcon 9 ro",
+    "link": "https://www.nasdaq.com/articles/google-launch-first-experimental-satellite-orbital-ai-data-center-project",
+    "pubDate": "Thu, 24 Sep 2026 22:01:41 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BlackBerry Q2 Profit Rises, Raises Full-Year Outlook",
+    "desc": "(RTTNews) - BlackBerry Limited (BB) Thursday reported second-quarter net income of $33.9 million or $0.05 per share, compared with $13.3 million or $0.02 per share a year earlier.",
+    "link": "https://www.nasdaq.com/articles/blackberry-q2-profit-rises-raises-full-year-outlook",
+    "pubDate": "Thu, 24 Sep 2026 21:54:27 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "I've Covered Stocks for 10 Years. This Is the Single Best Way a New Investor Should Start.",
+    "desc": "Key PointsInvesting simply requires opening a fee-free brokerage account.",
+    "link": "https://www.nasdaq.com/articles/ive-covered-stocks-10-years-single-best-way-new-investor-should-start",
+    "pubDate": "Thu, 24 Sep 2026 21:50:00 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsBoeing is navigating a complex operational turnaround while benefiting from a significant surge in commercial aviation demand.",
+    "link": "https://www.nasdaq.com/articles/boeing-vs-lockheed-martin-which-essential-us-aerospace-stock-better-buy-2026",
+    "pubDate": "Thu, 24 Sep 2026 21:47:01 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "IBM Looks Like an Underappreciated AI and Quantum Winner Hiding in a Boring Stock",
+    "desc": "Key PointsIBM offers AI and quantum growth potential backed by steady cash from legacy consulting and infrastructure.",
+    "link": "https://www.nasdaq.com/articles/ibm-looks-underappreciated-ai-and-quantum-winner-hiding-boring-stock",
+    "pubDate": "Thu, 24 Sep 2026 21:38:37 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "fortune",
+    "title": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to help deploy it",
+    "desc": "OpenAI is extending the two-pronged paradigm it established with the ChatGPT product and GPT models into a new realm with a cyber focused combo.",
+    "link": "https://fortune.com/2026/09/24/openai-launching-gpt-6-cyber-model-and-security-product-devday/",
+    "pubDate": "Thu, 24 Sep 2026 22:29:33 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Travis Kalanick is back: How Uber&#8217;s ousted founder went from pariah to Silicon Valley hero",
+    "desc": "The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.",
+    "link": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
+    "pubDate": "Thu, 24 Sep 2026 07:00:00 +0000",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Analysis-Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/analysisoracle-blue-owl-project-delaysends-ripples-through-ai-financing-sources-say-4916397",
+    "pubDate": "2026-09-24 23:00:40",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Airbus identifies A321neo defect, says no safety risk",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/airbus-alerts-customers-to-a321neo-defect-potentially-affecting-over-500-aircraft-air-current-reports-4916300",
+    "pubDate": "2026-09-24 22:55:12",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "US airlines oppose China’s bid to add more flights",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-airlines-oppose-chinas-bid-to-add-more-flights-4916349",
+    "pubDate": "2026-09-24 22:18:34",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Major airline group opposes US diesel export ban, warning it could hike prices",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/major-airline-group-opposes-us-diesel-export-ban-warning-it-could-hike-prices-4916338",
+    "pubDate": "2026-09-24 22:12:48",
+    "fetchedAt": "2026-09-24T23:01:48.959Z"
+  },
+  {
+    "source": "cnbc",
     "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
     "desc": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
     "link": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
@@ -6006,397 +6398,5 @@
     "link": "https://seekingalpha.com/news/4646443-uxin-gaap-eps-of-0_00-revenue-of-169_7m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
     "pubDate": "Thu, 24 Sep 2026 04:38:25 -0400",
     "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Big oil mobilizes to block Trump's diesel export ban idea: WSJ",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646428-big-oil-mobilizes-to-block-trumps-diesel-export-ban-idea-wsj?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 04:35:19 -0400",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Everpure stock surges 8% after FY28 revenue outlook tops consensus",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646437-everpure-stock-surges-8-after-fy28-revenue-outlook-tops-consensus?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 04:32:54 -0400",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Fed signals drive most of post-Covid rise in Treasury yields, study finds",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646442-fed-signals-drive-most-of-post-covid-rise-in-treasury-yields-study-finds?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 04:26:55 -0400",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "RTX's Pratt & Whitney Canada secures four-year MRO agreement with AirBorneo Airways",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646439-rtxs-pratt-whitney-canada-secures-four-year-mro-agreement-with-airborneo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 04:17:25 -0400",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide as bond sell-off troubles markets, China's Xi Jinping lands in US",
-    "desc": "Inflation fears and rising bond yields outweighed hopes for Middle East diplomacy and for the artificial intelligence boom to continue its run.",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-24-dow-sp-500-nasdaq-080352893.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 08:03:52 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "2 Industrials Stocks to Keep an Eye On and 1 We Turn Down",
-    "desc": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 2.7% has fallen short of the S&P 500’s 18.4% rise.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/2-industrials-stocks-keep-eye-085654665.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 08:56:54 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",
-    "desc": "Retail sentiment on Stocktwits for SPY and QQQ has improved to ‘bullish’.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slide-treasury-yields-trump-xi-summit-meta-googl-spcx-vktx-snap-mcd-bb-stocks-in-focus/cZM7vaiRBBy?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 08:25:55 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
-    "desc": "The Morning Bull - US Market Morning Update Thursday, Sep, 24 2026 US market futures are pointing slightly higher this morning, with E-mini S&P 500 contracts up 0.1%. The main fuel is stronger European activity data. The Eurozone Composite PMI sits at 53.1, a three and a half year high that signals businesses are busier, which can support global demand for US manufacturers and tech suppliers. At the same time, higher input costs across Europe and the UK, driven by fuel and wider energy...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757247.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 08:07:57 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "No Forward-Looking Guidance Needed: 5 Words From Fed Chair Kevin Warsh Strongly Signal What's Next for Interest Rates",
-    "desc": "Warsh’s press conference likely spilled the beans on what comes next for interest rates.",
-    "link": "https://www.fool.com/investing/2026/09/24/no-forward-looking-guidance-needed-5-words-fed-chair-kevin-warsh-whats-next-interest-rates/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 08:26:01 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Shares Mostly Lower On Inflation, Rate Concerns",
-    "desc": "(RTTNews) - Asian stocks retreated on Thursday, even as Japan's Nikkei rose notably as Tokyo markets reopened after a three-day holiday.",
-    "link": "https://www.nasdaq.com/articles/asian-shares-mostly-lower-inflation-rate-concerns",
-    "pubDate": "Thu, 24 Sep 2026 08:37:34 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Abacus Founders Cancel Share Sale Plans",
-    "desc": "(RTTNews) - Abacus Global Management, Inc. (ABX), a financial services company focused on alternative asset management and financial planning, said its founders Sean McNealy, Matthew Ganovsky and Scott Kirby have cancelled their previously established Rule 10b5-1 trading plans fo",
-    "link": "https://www.nasdaq.com/articles/abacus-founders-cancel-share-sale-plans",
-    "pubDate": "Thu, 24 Sep 2026 08:02:44 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Mercedes-Benz Trucks, Girteka Reach Agreement For Delivery Of 900 Actros L ProCabin Trucks",
-    "desc": "(RTTNews) - Mercedes-Benz Trucks and Girteka reached an agreement for the delivery of 900 new Mercedes-Benz Actros L ProCabin trucks. The vehicles are scheduled for delivery in the first half of 2027. Girteka is one of the largest privately owned transportation companies in Europ",
-    "link": "https://www.nasdaq.com/articles/mercedes-benz-trucks-girteka-reach-agreement-delivery-900-actros-l-procabin-trucks",
-    "pubDate": "Thu, 24 Sep 2026 07:39:14 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Xi Jinping has made China’s hard-tech rise core to his policy—and U.S. containment is only fueling those plans",
-    "desc": "The U.S. once saw China as a “fast follower” in tech. It now confronts a country that’s also on the frontier—ironically, in part due to U.S. action.",
-    "link": "https://fortune.com/2026/09/24/xi-trump-ai-summit-china-tech-rise-opinion/",
-    "pubDate": "Thu, 24 Sep 2026 08:41:47 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Meta plans to spend $145 billion this year, more than every military budget except the U.S., China and Russia",
-    "desc": "The $145 billion is roughly a 101% markup from the company’s capex from 2025.",
-    "link": "https://fortune.com/2026/09/24/meta-145-billion-capex-military-budgets/",
-    "pubDate": "Thu, 24 Sep 2026 08:34:00 +0000",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Amazon receives Vietnam satellite telecom license - report",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/amazon-receives-vietnam-satellite-telecom-license--report-93CH-4914598",
-    "pubDate": "2026-09-24 08:33:23",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Citi double-upgrades MTU Aero Engines to Buy on cash conversion inflection",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/citi-doubleupgrades-mtu-aero-engines-to-buy-on-cash-conversion-inflection-4914595",
-    "pubDate": "2026-09-24 08:32:19",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.21%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-121-4914593",
-    "pubDate": "2026-09-24 08:30:04",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Vistry stock tumbling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-vistry-stock-tumbling-today-93CH-4914589",
-    "pubDate": "2026-09-24 08:28:54",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Stellantis stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4914588",
-    "pubDate": "2026-09-24 08:26:33",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Christian Dior stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-christian-dior-stock-surging-today-93CH-4914587",
-    "pubDate": "2026-09-24 08:26:06",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Stellantis shares dip as automaker loses ground in EU market",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/europe-ev-sales-rose-in-august-as-petrol-diesel-demand-fades-stellantis-falls-4914535",
-    "pubDate": "2026-09-24 08:25:05",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Shelly Group shares jump 4% on Schneider Electric takeover bid",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/schneider-electric-nears-15-bln-deal-to-buy-shelly-group-bloomberg-reports-4914421",
-    "pubDate": "2026-09-24 08:22:28",
-    "fetchedAt": "2026-09-24T09:01:30.469Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Treasury yields continue to rise after 10-year hit 19-year high as investors ramp-up rate hike bets",
-    "desc": "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.",
-    "link": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
-    "pubDate": "Thu, 24 Sep 2026 07:16:10 GMT",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Switzerland is keeping rates at 0% — for now",
-    "desc": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
-    "link": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
-    "pubDate": "Thu, 24 Sep 2026 07:58:08 GMT",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Oil prices rise as investors seek progress on U.S.-Iran talks",
-    "desc": "Oil rose Thursday, as traders assess a report that Asia is on track to import its highest volume of crude oil since the start of the US-Iran war.",
-    "link": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
-    "pubDate": "Thu, 24 Sep 2026 07:45:10 GMT",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "bbc",
-    "title": "£170 a bag? Protein users squeezed as prices soar",
-    "desc": "Consumers are feeling the pinch from the rising cost of protein.",
-    "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 23:12:01 GMT",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The virtual worlds where robots are trained",
-    "desc": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Goldman Sachs initiates United Therapeutics stock with sell rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-united-therapeutics-stock-with-sell-rating-93CH-4914544",
-    "pubDate": "2026-09-24 07:41:00",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Goldman Sachs initiates MeiraGTx stock coverage with neutral rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-meiragtx-stock-coverage-with-neutral-rating-93CH-4914543",
-    "pubDate": "2026-09-24 07:40:59",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "JPMorgan downgrades Alkami stock to Underweight on valuation",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-alkami-stock-to-underweight-on-valuation-93CH-4914537",
-    "pubDate": "2026-09-24 07:32:50",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Quantum Data Energy shares resume trading on London exchange",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/quantum-data-energy-shares-resume-trading-on-london-exchange-93CH-4914536",
-    "pubDate": "2026-09-24 07:32:35",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Europe EV sales rose in August as petrol, diesel demand fades; Stellantis falls",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/europe-ev-sales-rose-in-august-as-petrol-diesel-demand-fades-stellantis-falls-4914535",
-    "pubDate": "2026-09-24 07:28:22",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Judge blocks Trump’s White House media ban, orders access to be restored",
-    "desc": "",
-    "link": "https://www.investing.com/news/politics-news/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico-4914437",
-    "pubDate": "2026-09-24 07:25:22",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Fragmented market prevents EU banks from financing bloc’s ambitions, EBA chair says",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/fragmented-market-prevents-eu-banks-from-financing-blocs-ambitions-eba-chair-says-4914534",
-    "pubDate": "2026-09-24 07:25:02",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Analysis-China’s rare earths dominance to overshadow Trump’s talks with Xi",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/analysischinas-rare-earths-dominance-to-overshadow-trumps-talks-with-xi-4914520",
-    "pubDate": "2026-09-24 07:24:38",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "German home prices edge up but pace slows",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/german-home-prices-edge-up-but-pace-slows-4914532",
-    "pubDate": "2026-09-24 07:18:26",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is H&M stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-hm-stock-sliding-today-93CH-4914530",
-    "pubDate": "2026-09-24 07:17:17",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "ft",
-    "title": "Emerging markets sell foreign currency bonds at record rate",
-    "desc": "Fallout from conflict, rising interest rates and a strong dollar have not dented investor appetite for EM bonds",
-    "link": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
-    "pubDate": "Thu, 24 Sep 2026 04:00:12 GMT",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "European markets hover near flatline as oil prices rise, bond yields remain elevated",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646434-european-markets-hover-near-flatline-as-oil-prices-rise-bond-yields-remain-elevated?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 03:56:52 -0400",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "TempraMed expands LATAM distribution deal and announces C$1M financing",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646435-tempramed-expands-latam-distribution-deal-and-announces-c-1m-financing?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 03:52:31 -0400",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Hopes for a new Boeing-China deal fade - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646431-hopes-for-a-new-boeing-china-deal-fade?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 03:47:43 -0400",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tesla FSD misread speed limits in Belgium tests, road-safety group finds",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646413-tesla-fsd-misread-speed-limits-in-belgium-tests-road-safety-group-finds?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 03:30:22 -0400",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Decisive Dividend appoints subsidiary President Mark Burleigh as COO, reaffirms muted tariff impact",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646419-decisive-dividend-appoints-subsidiary-president-mark-burleigh-as-coo-reaffirms-muted-tariff-impact?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 03:27:20 -0400",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-    "desc": "U.S. stock futures are trending lower early Thursday as Wall Street prepares for high-stakes trade and AI discussions between U.S. President Donald Trump and Chinese President Xi Jinping, alongside key retail earnings and housing market indicators. The Polymarket (CRYPTO: POL)...",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61963266/stock-market-will-sp-500-open-up-or-down-today-44?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 05:45:20 +0000",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "AI Won’t Destroy the Job Market",
-    "desc": "New research suggests the technology is creating new roles rather than wiping out all white-collar work.",
-    "link": "https://finance.yahoo.com/m/17197aa3-c4bf-377c-a38c-eed7c4dd429f/ai-won%E2%80%99t-destroy-the-job.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 05:00:00 +0000",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Mitchells & Butlers 51-week LFL Sales Up 2.1%; Sees FY Outturn In Line With Consensus Expectations",
-    "desc": "(RTTNews) - Mitchells & Butlers (MLB, MAB.L) issued its trading statement covering the 51 weeks ended 19 September 2026. Like-for-like sales growth was 2.1% in the year to date period. Fourth quarter like-for-like sales returned to growth, delivering an increase of 1.4%. Total sa",
-    "link": "https://www.nasdaq.com/articles/mitchells-butlers-51-week-lfl-sales-21-sees-fy-outturn-line-consensus-expectations",
-    "pubDate": "Thu, 24 Sep 2026 06:57:13 +0000",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: Nu Holdings Will Earn More Than $5 Billion in 2027",
-    "desc": "Key PointsNu Bank is seeing nice earnings growth and should reach $5 billion in net income next year.",
-    "link": "https://www.nasdaq.com/articles/prediction-nu-holdings-will-earn-more-5-billion-2027",
-    "pubDate": "Thu, 24 Sep 2026 06:50:00 +0000",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Vietnam is finally a FTSE emerging market—yet it’s the country’s banks, not its exporters, that’ll benefit most",
-    "desc": "The upgrade could channel $6 billion in capital from foreign investors to Vietnamese companies.",
-    "link": "https://fortune.com/2026/09/24/vietnam-ftse-emerging-market-upgrade-foreign-investment-mismatch/",
-    "pubDate": "Thu, 24 Sep 2026 07:16:50 +0000",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
-  },
-  {
-    "source": "fortune",
-    "title": "China now makes up a record 40% of all global container exports—and it’s a sign Trump’s tariffs meant to punish Chinese firms have fallen flat",
-    "desc": "“The tariff policies of the last two years have been an unmitigated disaster. They have made exactly what we're talking about worse for the United States.”",
-    "link": "https://fortune.com/2026/09/24/china-record-40-percent-global-container-exports-trump-tariffs/",
-    "pubDate": "Thu, 24 Sep 2026 07:05:00 +0000",
-    "fetchedAt": "2026-09-24T08:01:32.036Z"
   }
 ]
