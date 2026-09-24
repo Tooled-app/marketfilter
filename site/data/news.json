@@ -1,6 +1,414 @@
 [
   {
     "source": "cnbc",
+    "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
+    "desc": "Runaway treasury yields and the bond market selloff create sizable tax-loss harvesting trades for investors to offset big gains from stocks.",
+    "link": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+    "pubDate": "Wed, 23 Sep 2026 23:47:41 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+    "desc": "Consumers are feeling the squeeze from the rising price of protein.",
+    "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:12:01 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How the oil capital of the US welcomed a solar power boom",
+    "desc": "Texas is now the country's biggest producer of solar-farmed electricity.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:12:22 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "HSBC relocates board meeting to London from Dubai- FT",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/hsbc-relocates-board-meeting-to-london-from-dubai-ft-93CH-4914237",
+    "pubDate": "2026-09-23 23:52:56",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "ServiceTitan CAO Michele O’Connor sells $268,713 of stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/servicetitan-cao-michele-oconnor-sells-268713-of-stock-93CH-4914236",
+    "pubDate": "2026-09-23 23:50:06",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oracle CEO Michael Sicilia sells $3.42m in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/oracle-ceo-michael-sicilia-sells-342m-in-stock-93CH-4914231",
+    "pubDate": "2026-09-23 23:46:07",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "Aeluma CEO Jonathan Klamkin sells $1.34 million in company stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/aeluma-ceo-jonathan-klamkin-sells-134-million-in-company-stock-93CH-4914230",
+    "pubDate": "2026-09-23 23:46:02",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oracle EVP Maria Smith sells $399,122 in ORCL stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/oracle-evp-maria-smith-sells-399122-in-orcl-stock-93CH-4914229",
+    "pubDate": "2026-09-23 23:46:00",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "Solus alternative asset management sells $54,782 in Bristow Group stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/solus-alternative-asset-management-sells-54782-in-bristow-group-stock-93CH-4914228",
+    "pubDate": "2026-09-23 23:45:51",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "US, China agree to extend trade truce by two months, work on bigger deal, Bessent says",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-unfinished-business-before-trumpxi-summit-4913529",
+    "pubDate": "2026-09-23 23:42:28",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "The women volunteers of Borneo battling worst wildfires in 11 years",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/the-women-volunteers-of-borneo-battling-worst-wildfires-in-11-years-4914198",
+    "pubDate": "2026-09-23 23:36:45",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investing",
+    "title": "Judge dismisses Trump lawsuit against Iowa newspaper and pollster",
+    "desc": "",
+    "link": "https://www.investing.com/news/politics-news/judge-dismisses-trump-lawsuit-against-iowa-newspaper-and-pollster-4914225",
+    "pubDate": "2026-09-23 23:36:30",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "ft",
+    "title": "OpenAI ‘agent’ hacked an Australian health service website",
+    "desc": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+    "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 23:04:28 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "ft",
+    "title": "Xi arrives for high-stakes summit with Trump as leaders extend trade truce",
+    "desc": "Treasury secretary Scott Bessent says the countries have agreed to January 10 extension",
+    "link": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 23:04:18 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "ft",
+    "title": "HSBC moves board meeting from Dubai to London amid safety concerns",
+    "desc": "Bank’s decision to shift location underscores challenges still facing expats as Iran war continues",
+    "link": "https://www.ft.com/content/8b470f65-6fc3-44b6-9295-e07008ce302d?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 23:01:09 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "ft",
+    "title": "Diller abandons $18bn takeover bid for MGM Resorts",
+    "desc": "Media mogul says ‘we didn’t feel the mix was coming together in the way we had hoped’ after going public with offer in June",
+    "link": "https://www.ft.com/content/1f55518f-dad5-4c7b-8c81-ba82196dd747?syn-25a6b1a6=1",
+    "pubDate": "Wed, 23 Sep 2026 23:47:13 GMT",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Crude oil rebounds after losing streak; diesel futures drop after export restriction talk",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646401-crude-oil-rebounds-after-losing-streak-diesel-futures-drop-after-export-restriction-talk?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 23 Sep 2026 19:57:10 -0400",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons to Sell WMS and 1 Stock to Buy Instead",
+    "desc": "Over the past six months, Advanced Drainage’s stock price fell to $130.85. Shareholders have lost 5.1% of their capital, which is disappointing considering the S&P 500 has climbed by 18%. This might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-wms-1-232422803.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:24:22 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ball (BALL): Buy, Sell, or Hold Post Q2 Earnings?",
+    "desc": "Since March 2026, Ball has been in a holding pattern, posting a small return of 2.9% while floating around $59.97. The stock also fell short of the S&P 500’s 18% gain during that period.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ball-ball-buy-sell-hold-225222039.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:52:22 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market",
+    "desc": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "United Airlines (UAL) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "desc": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-registers-bigger-221504843.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sunrun (RUN) Dips More Than Broader Market: What You Should Know",
+    "desc": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-dips-more-broader-221504959.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's Why Hercules Capital (HTGC) Fell More Than Broader Market",
+    "desc": "Hercules Capital (HTGC) closed at $16.97 in the latest trading session, marking a -1.45% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hercules-capital-htgc-221503912.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "In the closing of the recent trading day, Ouster, Inc. (OUST) stood at $39.38, denoting a -2.16% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-suffers-larger-221503726.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Fiverr International (FVRR) Declines More Than Market: Some Information for Investors",
+    "desc": "In the latest trading session, Fiverr International (FVRR) closed at $8.52, marking a -1.73% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fiverr-international-fvrr-declines-more-221503141.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Inc. (DOW) Rises As Market Takes a Dip: Key Facts",
+    "desc": "The latest trading day saw Dow Inc. (DOW) settling at $28.65, representing a +1.6% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-rises-market-221503795.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Lucid Group (LCID) Suffers a Larger Drop Than the General Market: Key Insights",
+    "desc": "The latest trading day saw Lucid Group (LCID) settling at $4.16, representing a -3.7% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-suffers-larger-221502464.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:02 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 Reasons to Watch COIN and 1 to Stay Cautious",
+    "desc": "Coinbase has been treading water for the past six months, holding steady at $200.40. The stock also fell short of the S&P 500’s 18% gain during that period.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-coin-1-234022479.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:40:22 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons We Love Corpay (CPAY)",
+    "desc": "Over the past six months, Corpay has been a great trade, beating the S&P 500 by 14.1%. Its stock price has climbed to $387.56, representing a healthy 32.1% increase. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-corpay-cpay-233222813.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:32:22 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons ORCL is Risky and 1 Stock to Buy Instead",
+    "desc": "Oracle currently trades at $149.10 per share and has shown little upside over the past six months, posting a small loss of 3.4%. The stock also fell short of the S&P 500’s 18% gain during that period.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-orcl-risky-1-231622744.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:16:22 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Washington’s oil lever is depleted, John Divine says the next move is in the VIX and natural gas",
+    "desc": "Three administrations have drained the Strategic Petroleum Reserve to its lowest level since 1983. With no supply lever left, John Divine says the market’s real hedge is a natural gas contract that hasn’t moved all summer.",
+    "link": "https://www.thestreet.com/crypto/markets/washingtons-oil-lever-is-depleted-john-divine-says-the-next-move-is-in-the-vix-and-natural-gas?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:00:42 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
+    "desc": "Steve Weiss called energy stocks a decade of disappointment, booked his gains in Valero, and walked away feeling disciplined. The scoreboard tells a more complicated story about the one refiner that left the entire sector in the dust.",
+    "link": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:27:24 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Western Union (WU) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "desc": "Western Union (WU) concluded the recent trading session at $6.09, signifying a -2.09% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-union-wu-registers-bigger-221505638.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:05 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "desc": "In the latest trading session, Ginkgo Bioworks Holdings, Inc. (DNA) closed at $8.58, marking a -8.43% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221504413.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:04 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Quanta Services (PWR) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "desc": "Quanta Services (PWR) closed at $634.9 in the latest trading session, marking a -1.2% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-registers-bigger-221503101.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:15:03 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Companies With a Strong History of Dividend Growth",
+    "desc": "Several stocks with a strong history of increasing payouts - Broadcom (AVGO), ExxonMobil (XOM), and Caterpillar (CAT) - are strong options for those looking to reap income.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 23:15:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Beijing Moves Down The AI Stack: After GPUs, China Is Coming For Broadcom's Switches",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Beijing Moves Down The AI Stack: After GPUs, China Is Coming For Broadcom's Switches</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Xi Jinping lands in Washington for a state visit today, but as Bloomberg sums up the mood in one line: the two leaders <em>\"may find <a href=\"https://www.zerohedge.com/markets/traders-have-modest-hopes-trump-xi-ai-deal\">common ground on AI safety</a>, but neither is willing to give ground in the technology race.\"</em> And right on schedule, the FT reports that Beijing has started counting Broadcom switches.</p> <p>According to the <a href=\"https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1\">FT</a>, China's State-owned Assets Supervision and Administration Commission (SASAC), which oversees the country's state-owned companies, has <strong>spent recent weeks surveying how much Broadcom switching gear is installed in state-controlled data centres.</strong> The count came back... high: <em>\"The survey found that the penetration rate of Broadcom switches among state-owned companies could be as high as 90 per cent, one of the people said.\"</em></p> <p>The exercise supports Beijing's \"domestic chips for domestic use\" campaign. The initial findings could lead SASAC to issue \"informal guidance\" telling state data centres to cut back on Broadcom. In Beijing, informal guidance tends to carry the weight of a formal order.</p> <h3>Why switches, and why now</h3> <p>Switches get little attention in the AI boom, but they decide whether 10,000 accelerators work together as one training cluster or sit around as 10,000 very expensive heaters. Broadcom's merchant Ethernet silicon dominates that layer worldwide. Nvidia and Huawei also sell high-end switches in China, but Nvidia is already barred from state-backed data centers. That leaves <strong>Broadcom as the last major American supplier </strong>embedded in China's state AI build-out.</p> <p>SASAC is also looking at how Broadcom sells, not just how much. Per the FT, the agency is checking whether Broadcom used its market lead to bundle products or require purchase commitments of up to tens of thousands of switch chips. Those terms allegedly limited how much H3C and Ruijie Networks could buy from other vendors such as Huawei. H3C and Ruijie are the preferred vendors on the procurement lists behind billions of dollars in annual public-sector IT spending. If that line of questioning sounds familiar, Beijing used the same approach last year when it found Nvidia had breached antimonopoly law over its Mellanox deal. Mellanox is, notably, a networking business.</p> <p>Two caveats from the FT story: </p> <ul><li><strong>Private operators are exempt.</strong> ByteDance and Alibaba are not covered, so the rule doesn't reach the companies doing most of China's frontier training.</li> <li><strong>Nothing gets ripped out.</strong> Existing gear stays in place. One rack-maker sales rep described the policy as <em>\"part of a broader policy to 'nationalise the supply chain'.\"</em> In practice, that means a replacement cycle rather than a purge.</li> </ul><h3>The stakes for Broadcom</h3> <p>According to its latest 10-K, <strong>17% of Broadcom's FY2025 revenue (about $10.9bn of $63.9bn) came from shipments to China including Hong Kong. </strong>That was down from 20% a year earlier. Much of that figure is ship-to accounting for contract manufacturers assembling gear for non-Chinese customers, so true Chinese end-demand is smaller. AVGO rose about 0.5% on the headline, which suggests traders don't see much damage. Sure enough, while the near-term P&L hit is modest but the strategic cost is bigger: switching is set to become a multibillion-dollar market inside China, and it is being set aside for domestic suppliers.</p> <h3>The bigger picture: Goldman's numbers on China's self-reliance push</h3> <p>Goldman's recent research shows how quickly the domestic stack is filling in:</p> <ul><li><strong>The demand side is large.</strong> Goldman's desk points out that China's domestic AI chip market is <em>\"quietly gearing up for a staggering 69% compound annual growth rate through 2030.\"</em> <a href=\"https://marketdesk.ai/standalone/T5OI11yvMsb\">GS Research's CHIPS IV forecasts </a>China semiconductor capex rising <strong>+13% / +15% / +15%</strong> in 2026–28, driven by memory and advanced-node capacity.</li> <li><strong>The foundry is full.</strong> In the SMIC note (<a href=\"https://marketdesk.ai/standalone/T5OI11yvMsb\"><em>available to pro subs here</em></a>), Allen Chang says SMIC grew revenue <strong>20% QoQ in 2Q26</strong>. That was the fastest among the global top-10 foundries, whose aggregate growth was 11.5%. Chang attributes it to <em>\"China's strong AI demand and customers diversifying their suppliers to better secure capacity.\"</em> Utilization is expected to stay <strong>above 95%</strong> through 2H26, new wafer pricing takes effect in 3Q26, and 54–71% of capex goes to 7nm and advanced nodes. Goldman expects no ASP declines because there's no spare capacity to discount.</li> </ul><p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/GS%20apsara%201.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/GS%20apsara%201.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1665f45d-2cfa-4a14-b938-4451423dec02\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/GS%20apsara%201.png\" /></a></p> <ul><li><strong>The private sector is localizing without being told to.</strong> In the Alibaba note after the Apsara conference (<em><a href=\"https://marketdesk.ai/library/browse/Gl6R64rsFIU\">available here for pro subs</a></em>), Golman analyst Ronald Keung forecasts capex of <strong>Rmb209bn / 243bn / 260bn</strong> for FY27–29E and a cloud power footprint of <strong>20GW by 2032</strong>, supported by \"unique cost advantages from its custom T-head silicon.\" Alibaba is exempt from the SASAC push, yet it is building its own chips anyway.</li> <li><strong>Policy points the same way.</strong> <a href=\"https://marketdesk.ai/standalone/im8J44BxLqJ\">Goldman chief China economist Hui Shan writes </a>that policymakers are <em>\"focused on advanced manufacturing rather than broad-based easing.\"</em> So while consumers deal with a housing slump, the fabs keep getting funded.</li> </ul><p>Put Goldman's research next to the policy timeline and the pattern is clear:</p> <ul><li><strong>August 2025:</strong> New data centers told to source at least 50% of chips locally.</li> <li><strong>September 2025:</strong> Big tech told to stop buying Nvidia's China-specific chips, and regulators issued the Mellanox antitrust finding.</li> <li><strong>November 2025:</strong> State-funded data centers banned from using foreign AI accelerators (<a href=\"https://finance.yahoo.com/news/exclusive-china-bans-foreign-ai-080808297.html\">Reuters</a>).</li> <li><strong>June 2026:</strong> A reported ~2 trillion yuan ($295bn) national compute plan through 2028 with an 80% domestic-content target (<a href=\"https://www.techtimes.com/articles/318868/20260622/china-ai-data-center-grid-locks-out-nvidia-295-billion-domestic-chip-mandate.htm\">TechTimes</a>).</li> <li><strong>September 2026:</strong> The survey of switches, one of the last foreign-made layers left.</li> </ul><p>On the supply side, Huawei used last week's Huawei Connect to lay out an Ascend roadmap of the 960 in 2027, 970 in 2028 and 980 in 2029. It also showed an Atlas 960 SuperPoD that links 4,096 NPUs over its proprietary UnifiedBus interconnect, which means its networking is in-house too (<a href=\"https://www.irishtimes.com/technology/2026/09/17/huawei-set-to-unveil-chinas-answer-to-nvidia-ai-chips/\">Irish Times</a>). DeepSeek reportedly plans to deploy at least 160,000 Ascend 950DTs. Huawei has raised 950DT prices by 60%, citing <strong>\"tight component supply</strong>,\" which suggests pricing power is not an American monopoly either.</p> <h3>The catch: domestic gear costs more to run</h3> <p>Industry experts told the FT that Huawei's switches are less energy-efficient than Broadcom's, which means higher power bills for users. That matches Goldman's SMIC work: <em>with utilization above 95% and no price cuts coming, \"domestic\" currently also means \"capacity-constrained and not cheap.\" </em>China's workaround is to build power generation faster than anyone else, which they've done this admirably.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">And unlike the US, China has the electrical capacity to build all of this. China has 4000GW of total power generation and growing 20%. The US is at 1200GW and flat (with PJM and ERCOT nearing capacity) <a href=\"https://t.co/mEwD3LzvXs\">https://t.co/mEwD3LzvXs</a> <a href=\"https://t.co/p0xFKqeEAB\">pic.twitter.com/p0xFKqeEAB</a></p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2102570297173922237?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><h3>Bottom line</h3> <p>Export controls were meant to keep China a generation or two behind in AI hardware. They did slow progress in places, <strong>but they also gave Beijing both a reason and the political cover to replace every layer of the stack: accelerators, foundry, memory, interconnect and now switches. </strong>Each layer runs slower and hotter than its US counterpart, but it is Chinese-made. The market Broadcom has lost is small this year and likely to shrink further. Goldman's 69% CAGR figure describes a market growing quickly, and US suppliers are increasingly shut out of it.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T22:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 18:00</span>",
+    "link": "https://www.zerohedge.com/technology/beijing-moves-down-ai-stack-after-gpus-china-coming-broadcoms-switches",
+    "pubDate": "Wed, 23 Sep 2026 22:00:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Missouri Congressional Map Returns To Supreme Court For Third Time",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Missouri Congressional Map Returns To Supreme Court For Third Time</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/missouri-congressional-map-returns-to-supreme-court-for-third-time-6093735?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Aldgra Fredly via The Epoch Times</a>,</em></p> <p>The dispute over Missouri's new congressional map returned to the Supreme Court for the third time, with justices considering whether the state can use the GOP-backed map in the midterm elections.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/supre.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/supre.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0e71788b-7042-4a78-a6f5-aa5c943a4dd8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/supre.jpg\" /></a></p> <p>The new map could help Republicans gain an additional U.S. House seat in the Nov. 3 elections.</p> <p><strong>The Supreme Court has twice prevented the state from using the redrawn congressional map, most recently on Sept. 10,</strong> when it <a href=\"https://www.theepochtimes.com/us/supreme-court-again-rejects-missouris-gop-friendly-congressional-map-6085665?utm_source=partner&utm_campaign=ZeroHedge\">granted</a> the opponents' bid to stay a federal judge's order allowing the state to use the map in the midterm elections.</p> <p>People Not Politicians, the group opposing the redrawn congressional map, filed an emergency <a href=\"https://www.supremecourt.gov/DocketPDF/26/26A388/425276/20260922233012092_2026.09.22%20Von%20Glahn%20v.%20Hoskins_%20Emergency%20Stay%20Application.pdf\">motion</a> with the U.S. Supreme Court on Sept. 22 after the U.S. Court of Appeals for the Eighth Circuit <a href=\"https://www.theepochtimes.com/us/eighth-circuit-backs-2025-map-for-missouris-congressional-races-in-november-6090751?utm_source=partner&utm_campaign=ZeroHedge\">ruled</a> that using the 2022 map in the Nov. 3 general elections would be unconstitutional, as the state had already used the redrawn 2025 map in the August 2026 primaries.</p> <p><strong>In a Sept. 21 <a href=\"https://www.courthousenews.com/wp-content/uploads/2026/09/missouri-voting-map-eighth-circuit-ruling.pdf\">ruling</a>, the Eighth Circuit ordered U.S. District Judge Stephen Clark to enter a permanent injunction</strong> barring Missouri Secretary of State Denny Hoskins from using any congressional map other than the one the Legislature approved in 2025.</p> <p>The federal appeals court stayed its ruling until Sept. 28 to allow time for a Supreme Court review.</p> <p>Opponents asked the Supreme Court to block the ruling, saying it undermined the court's previous injunction blocking the use of the 2025 congressional map.</p> <p><strong>\"The Eighth Circuit's order does not merely undermine this court's stay order; it requires the district court to issue a permanent injunction granting the exact same relief this court stayed in the exact same case,\" the motion stated.</strong></p> <p>The motion asks the Supreme Court to clarify that its Sept. 10 stay \"precludes enforcement of the replacement injunction - or any additional federal court injunctions contrary to the stay order - so long as that stay remains in effect.\"</p> <p>Opponents also argued that the Eighth Circuit lacked jurisdiction to enter the ruling.</p> <p>\"The Eighth Circuit cannot disrupt an imminent election after ballots have been cast by issuing relief that this court has already foreclosed and that it lacked jurisdiction to grant, all based on a merits theory of the panel's own invention,\" they said.</p> <p>The Supreme Court gave supporters of the new map until midday on Wednesday to respond to the latest appeal.</p> <p><strong>The 2022 map, drawn by the General Assembly after the 2020 census, was <a href=\"https://www.theepochtimes.com/us/supreme-court-again-rejects-missouris-gop-friendly-congressional-map-6085665?utm_source=partner&utm_campaign=ZeroHedge\">designed</a> to give Republicans a 6-2 edge. The 2025 map, drawn as part of a mid-decade redistricting, was designed to give them a 7-1 advantage.</strong></p> <p>Missouri held primary elections on Aug. 4 using the 2025 Missouri First map approved by the Republican-controlled General Assembly. <strong>President Donald Trump supported the redrawn map.</strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T21:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 17:40</span>",
+    "link": "https://www.zerohedge.com/political/missouri-congressional-map-returns-supreme-court-third-time",
+    "pubDate": "Wed, 23 Sep 2026 21:40:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Senate Panel Rejects Immunity For Ex-Fauci Aide",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Senate Panel Rejects Immunity For Ex-Fauci Aide</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>The Senate Committee on Homeland Security and Governmental Affairs rejected on Sept. 23 a bid to seek immunity for a longtime special assistant to Dr. Anthony Fauci.</strong></p> <p>The vote on a resolution authorizing an application for a court order compelling testimony under immunity from the assistant, who was not identified, fell short of the required two-thirds of members.</p> <p><strong>All eight Republicans, but no Democrats, voted in favor. Two Democrats would have had to cross the aisle for the resolution to be approved.</strong></p> <p>Fauci, 85, headed the National Institute of Allergy and Infectious Diseases from 1984 to 2022.</p> <p><strong>He refused to answer questions before the panel earlier in the year, citing the Fifth Amendment,</strong> prompting the committee to <a href=\"https://www.theepochtimes.com/us/senate-panel-votes-to-hold-fauci-in-contempt-6070990?utm_source=partner&utm_campaign=ZeroHedge\">refer</a> him for contempt of Congress to federal prosecutors.</p> <p>The Department of Justice has not charged Fauci with any crimes.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2810%29_15.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2810%29_15.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"00d310c5-a65c-4328-9e35-5fa0f4d5be4c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2810%29_15.jpg\" /></a></p> <p><em><a href=\"https://www.theepochtimes.com/us/senate-panel-vote-to-seek-immunity-for-ex-fauci-aide-falls-short-6093810?utm_source=partner&utm_campaign=ZeroHedge\">As Zachary Stieber reports for The Epoch Times<strong>, </strong></a></em>the female assistant worked for Fauci from 2007 to 2022, according to Sen. Rand Paul (R-Ky.), the committee's chairman.</p> <p><strong>He said her position \"placed her in the flow of communications directly relevant to our investigation\" into Fauci.</strong></p> <p>She recently appeared behind closed doors before the committee and invoked the Fifth Amendment, or her right against self-incrimination.</p> <p><strong>The questions senators want answered primarily deal with the destruction of government records, Paul said.</strong> A doctor who was a longtime adviser to Fauci recently <a href=\"https://www.theepochtimes.com/us/former-fauci-aide-pleads-guilty-to-federal-crime-6076686?utm_source=partner&utm_campaign=ZeroHedge\">pleaded</a> guilty to conspiring to delete government records. Fauci has <a href=\"https://www.theepochtimes.com/us/fauci-told-aide-to-delete-email-about-risky-research-6081413?utm_source=partner&utm_campaign=ZeroHedge\">directed</a> subordinates to delete emails.</p> <p>Sen. Maggie Hassan (D-N.H.), who voted against the resolution, said before the vote that senators should pursue a \"good-faith bipartisan approach to obtain this information\" rather than rush to approve the resolution.</p> <p>Republicans expressed frustration and anger that only Hassan among Democratic panel members was present during the meeting.</p> <p><em><strong>\"I come from the private sector. To not show up to a meeting, to say 'I refuse to do my job,' is something that only happens in politics,\" </strong>Sen. Bernie Moreno (R-Ohio) said. </em></p> <p><em><strong>\"That is outrageous.\"</strong></em></p> <p>After the vote, Paul said:</p> <p><em>\"<strong>A majority of the committee voted to seek the truth. </strong>All Republicans voted to seek the truth. We voted to protect this witness and hear her story. All we needed was two Democrats who wanted to hear her story, but not a single one of them is interested in the investigation or the truth about destruction of federal records.\"</em></p> <p>Hassan said that was a mischaracterization of the Democrats' position.</p> <p>Paul said he would be sending a letter to the Department of Justice requesting pursuit of the matter, and said his committee's investigation into government record destruction will continue.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T21:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 17:20</span>",
+    "link": "https://www.zerohedge.com/political/senate-panel-rejects-immunity-ex-fauci-aide",
+    "pubDate": "Wed, 23 Sep 2026 21:20:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Trump Meets Venezuela's Rodriguez In New York",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Meets Venezuela's Rodriguez In New York</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/trump-meets-venezuelas-rodriguez-in-new-york-6093737?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Kimberly Hayek via The Epoch Times</a>,</em></p> <p><strong>President Donald Trump and Venezuela's interim President Delcy Rodriguez met Tuesday night on the sidelines of a United Nations reception</strong>, their first face-to-face talks since American forces seized then-President Nicolas Maduro in January.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281195%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281195%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cdbfe892-24ca-489c-9208-e9237add354f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281195%29.jpg\" /></a> <figcaption><em>Venezuela's Interim President Delcy Rodriguez and U.S. President Donald Trump (R) meet on the sidelines of the U.N. General Assembly in New York on Sept. 22, 2026. Venezuela Presidential Palace Handout via Reuters</em></figcaption></figure><p>The pull-aside was booked for 7:40 p.m. at a gathering Trump is hosting during the U.N. General Assembly. No joint appearance was planned nor a detailed agenda released.</p> <p>Participants in the pull-aside meeting with Rodriguez included State Secretary Marco Rubio, Treasury Secretary Scott Bessent, White House Chief of Staff Susie Wiles, and White House Chief of Staff Stephen Miller.</p> <p>\"We held a historic meeting with the President of the United States, Donald Trump, during which we discussed strengthening the bilateral relationship between our countries and advancing a cooperation agenda in strategic areas such as energy, mining, security, and other matters of mutual interest,\" Rodriguez said in a statement on Telegram.</p> <p>\"We expressed our gratitude to President Trump and his administration for the steadfast support provided during the emergency caused by the earthquakes of June 24, as well as for their backing of our country's reintegration into multilateral forums,\" she wrote, according to a translation. \"Venezuela and the United States share a historic relationship that, in this new phase, we are called upon to steer through dialogue. We will continue to pursue a diplomacy that serves the national interest, aimed at achieving concrete results and collective benefits for the Venezuelan people.\"</p> <p>Rodriguez landed Monday for what is her first trip to the United States since taking office. She is scheduled to address the General Assembly on Wednesday afternoon.</p> <p>U.S. Ambassador to the United Nations Mike Waltz told reporters about the upcoming meeting on a call.</p> <p>\"The president will host a U.N. General Assembly leaders' reception. There, he'll participate in a pull-aside with the acting president Rodriguez of Venezuela,\" Waltz said. He did not say what they would discuss.</p> <p>Trump spoke to the General Assembly on Tuesday morning, hours before the reception, where he called Maduro an \"outlaw dictator,\" adding that hundreds of political prisoners had been freed since the capture. Trump pointed to the January raid as proof Washington would use its \"unmatched military might\" to protect its interests in the Western Hemisphere.</p> <p><strong>\"To the victor belong the spoils,\"</strong> he said, calling an oil deal his administration signed with Caracas last month \"perhaps the biggest deal ever made.\"</p> <p>He has said he wants $100 billion in investment to flow into Venezuela's oil industry.</p> <p><strong>On Sept. 16, Trump removed Venezuela from the U.S. list of countries that have failed to combat drug trafficking.</strong> The country had been on that list since 2005.</p> <p>\"Given the positive steps taken under interim President Delcy Rodríguez, I have determined Venezuela should no longer be designated as having failed demonstrably to fulfill its drug control commitments,\" the presidential determination said. \"I expect to see continued, measurable progress from the interim government in dismantling narcoterrorist groups and stopping drug trafficking through Venezuela to the United States.\"</p> <p><strong>Last month the two governments signed an energy agreement covering 65 billion barrels of reserves.</strong> Trump called it in a Truth Social post \"the biggest oil deal in world history.\"</p> <p>Rodriguez said the pact is meant to last 25 years and to develop 17 strategic oil fields with a production target of more than 1.5 million barrels a day.</p> <p>\"This deal is a huge win for both the American and Venezuelan people,\" Secretary of State Marco Rubio wrote on X.</p> <p>Rodriguez, 56, was born in Caracas and trained as a lawyer. Maduro named her vice president in 2018. U.S. forces captured Maduro and his wife, Cilia Flores, on Jan. 3 and flew them to the United States on narcoterrorism and drug charges. Venezuela's high court then designated Rodriguez interim president. Maduro has pleaded not guilty.</p> <p><em>Reuters contributed to this report</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T21:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 17:00</span>",
+    "link": "https://www.zerohedge.com/political/trump-meets-venezuelas-rodriguez-new-york",
+    "pubDate": "Wed, 23 Sep 2026 21:00:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Iran Vows To 'Paralyze' Regional Airports Which Prevent Its Flights From Landing",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iran Vows To 'Paralyze' Regional Airports Which Prevent Its Flights From Landing</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Facing crippling US sanctions against its aviation sector as part of the Trump/Bessent Economic D-Day initiative, Iran is warning that if regional countries join the sanctions action,<strong> their own airports could be targeted</strong>.</p> <p>Iran's Supreme National Security Council <a href=\"https://www.tasnimnews.ir/en/news/2026/09/23/3704635/rezaei-warns-regional-states-against-joining-us-bid-to-block-iranian-flights\">has on Wednesday</a> put neighboring states who are allies of Washington on notice. The statement warned their airports <strong>will be \"paralyzed\" if they cooperate with US attempts to prevent the landing of Iranian airliners</strong>. </p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kuwaitairpt.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kuwaitairpt.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0f7d61e1-7dd1-4a04-ad9d-7ad2555de347\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/kuwaitairpt.jpg\" /></a> <figcaption><em>Source: Government of Kuwait</em></figcaption></figure><p>Treasury Secretary Scott Bessent declared on Monday that by Wednesday. Sept. 23, <strong>\"all the Iranian airlines will be shut down around the world</strong>.<strong>\"</strong></p> <p>He warned that any airports or companies <strong>providing fuel, landing, and ticketing for sanctioned Iranian entities</strong> <strong>risk dollar-system exclusion</strong>.</p> <p>Already Turkey has taken the dramatic action of <a href=\"https://www.zerohedge.com/geopolitical/turkish-airlines-pegasus-ajet-cancel-iran-flights-us-sanctions-bite\">canceling all flights</a> in the foreseeable future for various Iranian carriers.</p> <p>According to more of the Iranian Supreme National Security Council statement, delivered via its chief, Mohsen Rezaei, \"We ask all the countries of the region not to join America’s adventure. <strong>If they do not allow Iranian aircraft to travel, their own airports will not be able to have flights either</strong>.\"</p> <p>\"You are our friends, but <strong>you should not join America’s ranks</strong>. You should prevent the war from spreading,\" he added. Throughout the prior seven months of war with the US, Iran has shown a willingness to target major civilian hubs, particularly in <a href=\"https://www.bbc.com/news/articles/c5yx135yg53o\">neighboring Kuwait</a>.</p> <p>Iran is defiantly planning to press forward with its commercial airline operations. While some countries are complying with the US order, <strong>China is clearly not</strong>...</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">An Iranian Mahan Air flight from Tehran landed in Guangzhou, China today, Sept. 23 as new U.S. aviation sanctions took effect, flight Radar shows.<br /><br /> China is clearly not caring about US sanctions. <a href=\"https://t.co/g990JZ4SLz\">pic.twitter.com/g990JZ4SLz</a></p> — Open Source Intel (@Osint613) <a href=\"https://x.com/Osint613/status/2102712583535104095?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>As for the heavily sanctioned Iranian aviation industry, in recent years the Islamic Republic <strong>has suffered some significant aerial disasters</strong>, which included the May 19, 2024 death of President Ebrahim Raisi. His military helicopter went down in a rugged, mountainous area of northwestern Iran.</p> <p>Some speculate that lack of airline parts and aging aircraft, due to the long-standing US targeting of the industry, has only served to increase the chances of aviation disasters.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T20:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 16:40</span>",
+    "link": "https://www.zerohedge.com/geopolitical/iran-vows-paralyze-regional-airports-which-prevent-its-flights-landing",
+    "pubDate": "Wed, 23 Sep 2026 20:40:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Shareholders Sue New York Times Over 'Biased' Israel Coverage",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Shareholders Sue New York Times Over 'Biased' Israel Coverage</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/shareholders-sue-new-york-times-over-biased-israel-coverage-6093882?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Zachary Stieber via The Epoch Times</a>,</em></p> <p><strong>Shareholders sued The New York Times on Sept. 23, alleging the company has failed to prevent false reporting about Israel and other topics.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/nyt.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/nyt.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c8d4f069-fcb0-447d-9c44-8f1bcfb26d6d\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/nyt.jpg\" /></a></p> <p>The State Board of Administration of Florida, representing the Florida Retirement System Trust Fund and National Center for Public Policy Research, filed the lawsuit in a New York court.</p> <p><em>\"The Company's<strong> repeated publication of materially false or baseless factual assertions, many later admitted internally or disproven externally,</strong> supports a reasonable inference that the Board has not only failed in its obligation to monitor the Company's internal controls, but it has allowed such flagrantly selective application of the internal controls to support the conclusion that in the absence of any Board-level oversight, journalistic standards have been weaponized within the Company to serve the personal agendas of unchecked editors,\" the 48-page filing <a href=\"https://www.documentcloud.org/documents/28677282-sbaf-lawsuit-against-nyt/\">says</a>.</em></p> <p>Shareholders said that a whistleblower reported problems to the company's internal channel for such issues in November 2023.</p> <p><em><strong>\"I feel that I'm on a desk that is particularly biased against Israel ... I can't tell if the Masthead does not see that our desk is biased, does not see it as a problem to be resolved, or just hasn't figured out how to get a handle on it,\" the whistleblower was quoted as saying.</strong></em></p> <p>The person later presented 26 slides to a standards editor that described how the paper had rejected footage from a source because the source was \"pro-Israel\" and how a freelancer's praise of Hitler was downplayed as \"just some jokes.\"</p> <p>The whistleblower's concerns, later expanded to include questions about the lack of a promised training on anti-Semitism, and the hiring of a freelancer who said he \"supports the Palestinian struggle against occupation,\" did not prompt any changes, according to the filing.</p> <p>One incident outlined by shareholders was how The New York Times<strong> included a photograph of a child in its 2025 article, \"Gazans Are Dying of Starvation,\" without disclosing that the child had pre-existing health conditions, as Getty Images had noted days prior in captions of pictures of the child.</strong></p> <p>The paper later updated the photo's information and said that \"after publication of the article, The Times learned from his doctor that Mohammed also had pre-existing health problems.\"</p> <p>Evidence shows that controls the company promotes to the public, including standards review before content is published, are not working, as that and other incidents show, the lawsuit says.</p> <p>It requests the court order The New York Times to show shareholders materials they requested to see in August, including all versions of the paper's editorial standards since Jan. 1, 2020.</p> <p><em><strong>\"This lawsuit has no merit and was brought for an improper purpose,\" </strong></em>a spokesperson for the paper told The Epoch Times in an email.</p> <p><em>\"Although it is positioned as a corporate governance petition to inspect the company's books and records, it is a transparent attempt to exert agenda-driven pressure against an independent media organization, level false allegations of bias and chill journalism protected by the First Amendment. <strong>We will defend against the suit vigorously.</strong>\"</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T20:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 16:20</span>",
+    "link": "https://www.zerohedge.com/political/shareholders-sue-new-york-times-over-biased-israel-coverage",
+    "pubDate": "Wed, 23 Sep 2026 20:20:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Continued Consolidation Seen For Malaysia Stock Market",
+    "desc": "(RTTNews) - The Malaysia stock market on Wednesday snapped the two-day winning streak in which it had collected almost 20 points or 1.2 percent. The Kuala Lumpur Composite Index now sits just above the 1,675-point plateau and it may extend its losses on Thursday.",
+    "link": "https://www.nasdaq.com/articles/continued-consolidation-seen-malaysia-stock-market",
+    "pubDate": "Wed, 23 Sep 2026 23:33:14 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Boeing Stock: Is the Turnaround Worth the Risk?",
+    "desc": "Explore the exciting world of Boeing (NYSE: BA) with our contributing expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of Aug. 5",
+    "link": "https://www.nasdaq.com/articles/boeing-stock-turnaround-worth-risk",
+    "pubDate": "Wed, 23 Sep 2026 23:20:00 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Nikkei Expected To Return From Break To The Downside",
+    "desc": "(RTTNews) - Ahead of the long holiday weekend for Respect For The Aged Day and the Autumn Equinox, the Japan stock market had climbed higher in three straight sessions, rallying more than 1,500 points or 2.3 percent in that span. The Nikkei 225 now sits just above the 65,000-poin",
+    "link": "https://www.nasdaq.com/articles/nikkei-expected-return-break-downside",
+    "pubDate": "Wed, 23 Sep 2026 23:03:14 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "McDonald’s Unveils 10-Year Growth Plan to Drive Market Share Gains and Efficiency. Should Investors Be Concerned About the $8.5 Billion Price Tag?",
+    "desc": "Key PointsMcDonald's plans to invest $8.5 billion in its restaurants over the next decade to improve growth and profitability.",
+    "link": "https://www.nasdaq.com/articles/mcdonalds-unveils-10-year-growth-plan-drive-market-share-gains-and-efficiency-should",
+    "pubDate": "Wed, 23 Sep 2026 22:54:05 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Salesforce vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsSalesforce maintains its dominant position in the CRM market with robust net income and massive free cash flow.",
+    "link": "https://www.nasdaq.com/articles/salesforce-vs-uipath-which-technology-stock-better-buy-2026",
+    "pubDate": "Wed, 23 Sep 2026 22:50:33 +0000",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Meta opens Connect conference as camera-free smart glasses expected",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/meta-expected-to-unveil-smart-glasses-without-camera-as-privacy-concerns-grow-4912466",
+    "pubDate": "2026-09-23 23:12:30",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Australia says OpenAI agent breached government health data portal",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-4914110",
+    "pubDate": "2026-09-23 22:36:31",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Barry Diller withdraws bid for MGM Resorts, WSJ reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/barry-diller-withdraws-bid-for-mgm-resorts-wsj-reports-4914144",
+    "pubDate": "2026-09-23 22:18:34",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Tesla’s supervised self-driving system often misreads speed limits, Belgian safety group finds",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/teslas-supervised-selfdriving-system-often-misreads-speed-limits-belgian-safety-group-finds-4914134",
+    "pubDate": "2026-09-23 22:12:46",
+    "fetchedAt": "2026-09-24T00:01:35.059Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
     "desc": "Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp.",
     "link": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
@@ -5990,413 +6398,5 @@
     "link": "https://www.nasdaq.com/articles/best-buy-extends-multi-year-fire-tv-partnership-amazon",
     "pubDate": "Wed, 23 Sep 2026 11:29:38 +0000",
     "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "2 Sensational Growth Stocks to Buy and Hold for 10 Years",
-    "desc": "Key PointsMeta Platforms' business is built for the AI era.",
-    "link": "https://www.nasdaq.com/articles/2-sensational-growth-stocks-buy-and-hold-10-years",
-    "pubDate": "Wed, 23 Sep 2026 11:25:00 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Act Now: Micron Could Skyrocket After Sept. 30",
-    "desc": "Key PointsMicron has beaten expectations for multiple quarters in a row.",
-    "link": "https://www.nasdaq.com/articles/act-now-micron-could-skyrocket-after-sept-30",
-    "pubDate": "Wed, 23 Sep 2026 11:22:00 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cadence CEO Anirudh Devgan Sells 3,779 Shares for $1.1 Million",
-    "desc": "Key PointsThe transaction involved 3,779 shares with an estimated value of ~$1.1 million based on the weighted-average execution price of $280.76 per share.",
-    "link": "https://www.nasdaq.com/articles/cadence-ceo-anirudh-devgan-sells-3779-shares-11-million",
-    "pubDate": "Wed, 23 Sep 2026 11:20:01 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "LifeStance Health CTO Sells 42,067 Shares for $541,402",
-    "desc": "Key PointsVukasin Paunovich disposed of 42,067 shares.",
-    "link": "https://www.nasdaq.com/articles/lifestance-health-cto-sells-42067-shares-541402",
-    "pubDate": "Wed, 23 Sep 2026 11:15:01 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "General Mills, Inc. Q1 Income Falls",
-    "desc": "(RTTNews) - General Mills, Inc. (GIS) released a profit for first quarter that Drops, from last year",
-    "link": "https://www.nasdaq.com/articles/general-mills-inc-q1-income-falls",
-    "pubDate": "Wed, 23 Sep 2026 11:13:09 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FTSE 100 Flat At Noon; Weak PMI Data Weighs",
-    "desc": "(RTTNews) - U.K. stocks turned in a mixed performance Wednesday morning as weak PMI data weighed on sentiment. Oil prices recovered from early lows, rendering the mood a bit cautious.",
-    "link": "https://www.nasdaq.com/articles/ftse-100-flat-noon-weak-pmi-data-weighs",
-    "pubDate": "Wed, 23 Sep 2026 11:06:17 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Webull President Denier Sells 53,846 Shares for $516,000",
-    "desc": "Key PointsThe transaction was valued at approximately $516,000.",
-    "link": "https://www.nasdaq.com/articles/webull-president-denier-sells-53846-shares-516000",
-    "pubDate": "Wed, 23 Sep 2026 11:05:01 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Climate tech VC fundraising is down almost 40%, but AI is driving deals",
-    "desc": "AI has changed the climate conversation, and though there are fewer climate-focused VCs, deals are getting done.",
-    "link": "https://fortune.com/2026/09/23/climate-tech-vc-fundraising-is-down-almost-40-but-ai-is-driving-deals/",
-    "pubDate": "Wed, 23 Sep 2026 11:13:27 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "fortune",
-    "title": "U.S. demand for Novo Nordisk&#8217;s weight loss drugs is so huge that the Danish central bank just doubled the nation&#8217;s entire growth forecast",
-    "desc": "\"The growth is mainly due to Novo’s sales and production in the U.S. market at the beginning of this year.\"",
-    "link": "https://fortune.com/2026/09/23/novo-nordisk-weight-loss-denmark-economy-growth/",
-    "pubDate": "Wed, 23 Sep 2026 11:09:09 +0000",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Premarket movers: IonQ surges on quantum, Six Flags gains",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/premarket-movers-ionq-surges-on-quantum-six-flags-gains-4912840",
-    "pubDate": "2026-09-23 11:55:51",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Top discount retail stocks to buy now: DG, DLTR, FIVE, or TJX?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/top-discount-retail-stocks-to-buy-now-dg-dltr-five-or-tjx-93CH-4912808",
-    "pubDate": "2026-09-23 11:43:13",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "UBS starts CoreWeave at Buy in non-consensus call, sees 40% upside",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ubs-starts-coreweave-at-buy-in-nonconsensus-call-sees-40-upside-4912802",
-    "pubDate": "2026-09-23 11:42:26",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "TSX futures dip amid gold price fall; Mideast peace hopes in focus",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-dip-amid-gold-price-fall-mideast-peace-hopes-in-focus-4912801",
-    "pubDate": "2026-09-23 11:42:08",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Uniper signs sustainable jet fuel deal with Arcadia eFuels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/uniper-signs-sustainable-jet-fuel-deal-with-arcadia-efuels-93CH-4912798",
-    "pubDate": "2026-09-23 11:39:52",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "The Inevitable Industry: Why Waste Management Stocks Deserve a Closer Look",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/the-inevitable-industry-why-waste-management-stocks-deserve-a-closer-look-93CH-4912796",
-    "pubDate": "2026-09-23 11:38:08",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "AI is changing how Americans choose snacks, says Conagra",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ai-is-changing-how-americans-choose-snacks-says-conagra-4912785",
-    "pubDate": "2026-09-23 11:36:24",
-    "fetchedAt": "2026-09-23T12:08:57.045Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Texas turning blue may hinge on Democrats harnessing data center opposition",
-    "desc": "Data center opposition is reshaping Texas' 2026 governor and Senate races as voters raise concerns over power, water and utility costs.",
-    "link": "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html",
-    "pubDate": "Wed, 23 Sep 2026 10:00:01 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
-    "desc": "Tekever is one of a number of European defense tech startups raising sizable rounds amid a rearmament campaign from countries in the region.",
-    "link": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
-    "pubDate": "Wed, 23 Sep 2026 09:47:31 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
-    "desc": "JPMorgan’s commodity team admitted what many are thinking on the Iran situation and oil: We just don't know.",
-    "link": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
-    "pubDate": "Tue, 22 Sep 2026 16:05:57 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Off sick? You need to phone your boss, back-to-work adviser says",
-    "desc": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 10:49:51 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-    "desc": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-    "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 11:00:08 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'We screwed up': Doordash admits underpaying New York workers",
-    "desc": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
-    "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 16:50:24 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "New EU industry rules would damage UK, warns Burnham",
-    "desc": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
-    "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 21:18:40 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-    "desc": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-    "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 16:50:29 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-    "desc": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-    "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 21 Sep 2026 23:01:26 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Vet prescription fees capped under rule changes",
-    "desc": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 07:39:35 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Can Europe recharge its battery industry?",
-    "desc": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Concerns county will not benefit from £2 bus cap",
-    "desc": "Councillor Justine Peberdy says Yeomans Travel and Sargeants Brothers have not committed to the cap.",
-    "link": "https://www.bbc.co.uk/news/articles/cqd08m30r2j9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 10:49:57 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kremlin signals before Lavrov-Rubio meeting that its stance on Ukraine peace talks remains unchanged",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/kremlin-signals-before-lavrovrubio-meeting-that-its-stance-on-ukraine-peace-talks-remains-unchanged-4912598",
-    "pubDate": "2026-09-23 10:54:28",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Surf Air Mobility signs second OperatorOS contract with SkyDance Air",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/surf-air-mobility-signs-second-operatoros-contract-with-skydance-air-93CH-4912595",
-    "pubDate": "2026-09-23 10:52:30",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Teva at Bank of America Global Healthcare Conference: growth takes center stage",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/teva-at-bank-of-america-global-healthcare-conference-growth-takes-center-stage-93CH-4912594",
-    "pubDate": "2026-09-23 10:52:17",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oppenheimer initiates Toro stock coverage with outperform rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/oppenheimer-initiates-toro-stock-coverage-with-outperform-rating-93CH-4912592",
-    "pubDate": "2026-09-23 10:50:47",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "William Blair downgrades CBIZ stock rating to hold after merger go-shop ends",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/william-blair-downgrades-cbiz-stock-rating-to-hold-after-merger-goshop-ends-93CH-4912591",
-    "pubDate": "2026-09-23 10:50:43",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Take-Two Interactive (TTWO) stock analysis ahead of GTA VI launch",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/taketwo-interactive-ttwo-stock-analysis-ahead-of-gta-vi-launch-93CH-4912589",
-    "pubDate": "2026-09-23 10:48:49",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Morning Bid: Speechifying",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/morning-bid-speechifying-4912572",
-    "pubDate": "2026-09-23 10:48:25",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Keysight EVP and CFO Neil Dougherty sells $681,570 in company stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/keysight-evp-and-cfo-neil-dougherty-sells-681570-in-company-stock-93CH-4912585",
-    "pubDate": "2026-09-23 10:46:06",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "U.S. stock futures muted amid AI buzz, Mideast diplomacy hopes; Trump, Xi to meet",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
-    "pubDate": "2026-09-23 10:45:10",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "investing",
-    "title": "Stifel reiterates Lumentum stock rating on AI networking demand",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-lumentum-stock-rating-on-ai-networking-demand-93CH-4912574",
-    "pubDate": "2026-09-23 10:44:51",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "The AI infrastructure trade is still not over, says this top-performing fund manager. Where he&#x2019;s investing.",
-    "desc": "BNY Mellon Global Infrastructure Income exchange-traded fund manager Brock Campbell said some investors mistakenly believe the artificial-intelligence play has peaked. He flags what&#x2019;s been overlooked.",
-    "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 10:51:00 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-    "desc": "&#x201c;My mother has a pension, Social Security, investments and a house probably worth over $1 million.&#x201d;",
-    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 10:16:00 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "&#x2018;I don&#x2019;t begrudge them their money&#x2019;: My husband and I have friends who spend, spend, spend. How do we keep up?",
-    "desc": "&#x201c;A weekend away isn&#x2019;t a weekend away. It&#x2019;s a luxury hotel, expensive meals and a last-minute upgrade.&#x201d;",
-    "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 10:15:00 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "This oil giant has lagged behind its leading rivals through two energy crises. Now one Wall Street giant says it&#x2019;s time to buy.",
-    "desc": "Oil giant BP has lagged behind its closest rivals over the last three to five years, but now one leading Wall Street firm says it&#x2019;s time to buy the beleaguered company&#x2019;s stock.",
-    "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 08:24:00 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "ft",
-    "title": "UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push",
-    "desc": "Chinese tech giant was AI cloud provider’s largest customer last year but is not prominently named in pitch to stock market investors",
-    "link": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
-    "pubDate": "Wed, 23 Sep 2026 04:00:19 GMT",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "OpenAI calls for independent testing of AI safety measures",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645895-openai-calls-for-independent-testing-of-ai-safety-measures?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:57:19 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "How would a ban on U.S. diesel exports impact the economy?",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645825-deep-dive-ban-us-diesel-export-ban?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:53:07 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AI investment boom unlikely to fade before 2028 - Goldman",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645896-ai-investment-boom-unlikely-to-fade-before-2028-goldman?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:50:23 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "U.S. borrowing costs need fiscal fix, Oaktree's Marks says",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645897-us-borrowing-costs-need-fiscal-fix-oaktrees-marks-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:43:41 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Highlander Silver secures $330M financing mandate for Peru silver project",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645894-highlander-silver-secures-330m-financing-mandate-for-peru-silver-project?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:42:42 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Battery X Metals launches up to C$1M private placement at C$2.40 per unit",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645891-battery-x-metals-launches-up-to-c1m-private-placement-at-c240-per-unit?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:27:59 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Espey Mfg. & Electronics GAAP EPS of $1.15 beats by $0.23, revenue of $13.47M misses by $1.33M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4645892-espey-mfg-electronics-gaap-eps-of-115-beats-by-023-revenue-of-1347m-misses-by-133m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 06:24:13 -0400",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Artificial Intelligence Stocks Under $10",
-    "desc": "The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial untelligence (AI) stocks under $10 are publicly traded companies developing or applying AI technologies, with stock prices below $10 per share. These lower-priced AI stocks can present promising investment opportunities due to the AI industry&#8217;s rapid growth and transformative potential. As AI continues to revolutionize various sectors, these stocks could experience significant appreciation in &#8230; Continued The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/artificial-intelligence-stocks-under-10",
-    "pubDate": "Wed, 23 Sep 2026 10:12:23 +0000",
-    "fetchedAt": "2026-09-23T11:01:33.139Z"
   }
 ]
