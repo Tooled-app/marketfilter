@@ -1,6 +1,646 @@
 [
   {
     "source": "cnbc",
+    "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
+    "desc": "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.",
+    "link": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+    "pubDate": "Thu, 24 Sep 2026 12:06:17 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+    "desc": "Trump greeted China's Xi at Joint Base Andrews, his first time traveling to the facility to welcome a foreign leader.",
+    "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+    "pubDate": "Thu, 24 Sep 2026 12:03:12 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
+    "desc": "Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround.",
+    "link": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
+    "pubDate": "Thu, 24 Sep 2026 11:45:58 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
+    "desc": "Palo Alto CEO Nikesh Arora's views chime closely with Nvidia CEO Jensen Huang who has a diverging opinion to the bosses of Anthropic and OpenAI.",
+    "link": "https://www.cnbc.com/2026/09/24//palo-alto-networks-nikesh-arora-ai-slowdown.html",
+    "pubDate": "Thu, 24 Sep 2026 11:45:22 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Why Trump's 'big beautiful bill' may shrink or boost your charitable tax break for 2026",
+    "desc": "President Donald Trump's \"big beautiful bill\" could shrink or boost the charitable deduction for certain taxpayers in 2026. Here's how to prepare for it.",
+    "link": "https://www.cnbc.com/2026/09/24/trump-big-beautiful-bill-taxes-charitable-deduction-2026.html",
+    "pubDate": "Thu, 24 Sep 2026 11:00:01 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Will a switch to light speed cut power use at data centres?",
+    "desc": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:03:48 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "desc": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:43:58 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+    "desc": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:20:31 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+    "desc": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 15:43:14 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sky Quarry restarts Eagle Springs refinery in Nevada",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/sky-quarry-restarts-eagle-springs-refinery-in-nevada-93CH-4915197",
+    "pubDate": "2026-09-24 11:52:34",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Viking Therapeutics stock tumbling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-viking-therapeutics-stock-tumbling-today-93CH-4915196",
+    "pubDate": "2026-09-24 11:52:11",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Atresmedia stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195",
+    "pubDate": "2026-09-24 11:51:26",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Toyota Motor Credit lists €750m notes on London exchange",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/toyota-motor-credit-lists-750m-notes-on-london-exchange-93CH-4915192",
+    "pubDate": "2026-09-24 11:50:52",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Cantor Fitzgerald reiterates Aclaris stock rating on LP opportunity",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-aclaris-stock-rating-on-lp-opportunity-93CH-4915191",
+    "pubDate": "2026-09-24 11:50:50",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Cantor Fitzgerald reiterates Roivant Sciences stock rating",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-roivant-sciences-stock-rating-93CH-4915189",
+    "pubDate": "2026-09-24 11:50:45",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Fervo Energy stock rises after Cape Station achieves first power",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/fervo-energy-stock-rises-after-cape-station-achieves-first-power-93CH-4915187",
+    "pubDate": "2026-09-24 11:49:04",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Qualcomm, Apple extend licensing agreement for chips",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/qualcomm-apple-extend-licensing-agreement-for-chips-4915186",
+    "pubDate": "2026-09-24 11:48:31",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Dropbox stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-dropbox-stock-sliding-today-93CH-4915185",
+    "pubDate": "2026-09-24 11:48:10",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Uxin stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-uxin-stock-surging-today-93CH-4915173",
+    "pubDate": "2026-09-24 11:46:08",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The next phase of AI is here. Pay attention to this profound technological shift.",
+    "desc": "Meta&#x2019;s Muse keeps working after users close the app, pointing to a potential growth opportunity for makers of server processors.",
+    "link": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 12:00:00 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The stock market is &#x2018;priced for perfection.&#x2019; Here&#x2019;s what could drive a nearly 20% slump for the S&P 500 next year.",
+    "desc": "Clocktower&#x2019;s Eric Wallerstein believes stocks are headed for trouble next year, and safety-seeking investors could drive gold to $6,000 an ounce.",
+    "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 11:17:00 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+    "desc": "Easing tensions over Taiwan could ripple through the chip stocks powering the AI boom",
+    "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 11:01:00 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Black Monday&#x2019;s stock-market warning signal came from the bond market &#x2014; and it&#x2019;s back, says Wall Street veteran",
+    "desc": "Bonds are starting to deliver &#x201c;equity-like returns,&#x201d; similar to during the summer of 1987, according to Larry McDonald.",
+    "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 10:01:00 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+    "desc": "Meta Platforms, whose new Muse AI agent has driven the tech sector&#x2019;s stock prices this week, saw a price-target boost after showcasing products at its Connect conference on Wednesday night.",
+    "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 09:12:00 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Global bond sell-off piles new pressure on UK borrowing costs before budget",
+    "desc": "<p>Rising cost of 10-year gilt to near 19-year high hikes upfront cost of government investment and limits chancellor’s room for manoeuvre</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p><p></p></li></ul><p>A global sell-off in government bonds has put fresh upward pressure on UK borrowing costs, before a tough budget for John Healey next month.</p><p>The yield – effectively the interest rate – on 10-year UK bonds, known as gilts, had risen to 5.38% by mid-morning on Thursday, approaching the 19-year high set last week.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+    "pubDate": "Thu, 24 Sep 2026 11:41:08 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "guardian",
+    "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – business live",
+    "desc": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
+    "pubDate": "Thu, 24 Sep 2026 11:29:15 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "guardian",
+    "title": "EU spends three times more on imports from China than bloc exports there",
+    "desc": "<p>Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in July</p><p>Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.</p><p>Customs data showed the gap between the EU’s imports from <a href=\"https://www.theguardian.com/world/china\">China</a> and exports to China, the trade deficit, ran at more than €1bn (£860m) a day in July.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+    "pubDate": "Tue, 22 Sep 2026 11:54:08 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Global leaders urged to join initiative to fight extreme inequality",
+    "desc": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
+    "pubDate": "Fri, 18 Sep 2026 06:00:11 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump says he wants to leave AI ‘exactly where it is’ ahead of Xi meeting",
+    "desc": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
+    "link": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
+    "pubDate": "Thu, 24 Sep 2026 11:48:36 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "ft",
+    "title": "Russia could attack Nato country within months, Denmark warns",
+    "desc": "Intelligence service cites ‘low but growing risk’ of troop movement into neighbouring country or attack on infrastructure",
+    "link": "https://www.ft.com/content/b4141b98-0118-4624-8cb0-5d158ba0751d?syn-25a6b1a6=1",
+    "pubDate": "Thu, 24 Sep 2026 10:44:08 GMT",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Acadia falls after mid-stage trial setback for Alzheimer&#x2019;s psychosis therapy",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646558-acadia-stock-falls-after-late-stage-trial-setback?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 08:03:08 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Upbound Group declares $0.39 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646561-upbound-group-declares-0_39-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 08:02:42 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "BMO's asset management unit launches autocallable ETF",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646556-bmos-asset-management-unit-launches-autocallable-etf?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 08:01:15 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Powerlaw Corp. declares $0.0812 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646559-powerlaw-corp-declares-0_0812-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 08:00:57 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "BlackBerry posts a beat-and-raise helped by QNX growth",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646549-blackberry-posts-beat-and-raise-helped-by-qnx-growth?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 07:57:34 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Five energy stocks with long-running Sell Quant ratings",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646552-five-energy-stocks-with-long-running-sell-quant-ratings?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 07:57:30 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "AXS Astoria Real Assets ETF declares $0.0683 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646555-axs-astoria-real-assets-etf-declares-0_0683-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 24 Sep 2026 07:55:48 -0400",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Solar Stocks",
+    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-solar-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Gold Stocks Right Now",
+    "desc": "The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you plan to diversify your portfolio in light of recent events, investing in gold stocks could be a good choice. Gold stocks not only track the movements of gold prices that tend to rise in uncertain times, but they also generally gain value in a rising stock market.&#160; Gold stocks could serve as a &#8230; Continued The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-gold-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks Under $10",
+    "desc": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#8230; Continued The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/stocks-under-10",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Tech Stocks Right Now",
+    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-tech-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks Under $5",
+    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/top-stocks-under-5",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Financial Stocks for the Week",
+    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Semiconductor Stocks",
+    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Biotech Stocks Right Now",
+    "desc": "The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Biotech stocks are in the eye of the storm as the world recovers from the global pandemic. Government institutions and professional traders are banking on biotech stocks to continually develop a vaccine and boosters that can eradicate COVID-19.&#160; Tilt your stock portfolio toward biotech companies now and you could stand to make substantial profits in &#8230; Continued The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-biotech-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Energy Stocks",
+    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-energy-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Oil Stocks Right Now",
+    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-oil-stocks",
+    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The runaway 10-year yield is triggering a bad memory for investors",
+    "desc": "An ominous sign on bonds.",
+    "link": "https://finance.yahoo.com/economy/article/the-runaway-10-year-yield-is-triggering-a-bad-memory-for-investors-094923324.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 09:49:23 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
+    "desc": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. The Trump-Xi summit is on tap.",
+    "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:58:29 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Bank Stocks That Concern Us",
+    "desc": "Banks use their capital and expertise to help businesses grow while offering consumers essential financial products like mortgages and credit cards. But worries about an economic slowdown and potential credit deterioration have kept sentiment in check, and over the past six months, the banking industry’s 8.2% return has trailed the S&P 500 by 10.2 percentage points.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-concern-us-114454897.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:44:54 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 Energy Stocks Worth Investigating and 1 We Find Risky",
+    "desc": "Even if they go mostly unnoticed, energy businesses are the backbone of our country, providing the energy we need to power our lives and businesses.But they are at the whim of volatile macroeconomic factors that influence capital spending (like interest rates and commodity prices), and the market seems convinced that demand will slow. Due to this bearish outlook, the industry has tumbled by 2.4% over the past six months. This performance is a stark contrast from the S&P 500’s 18.4% gain.",
+    "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-worth-investigating-112854155.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:28:54 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "If a Recession Is Coming, I'm Buying These 4 Top ETFs on the Dip",
+    "desc": "Each of these exchange-traded funds offers a different way to make a defensive pivot.",
+    "link": "https://www.fool.com/investing/2026/09/24/if-recession-coming-buying-these-4-top-etfs-dip/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:20:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up",
+    "desc": "Index inclusion and fresh capital reshape the backdrop for newcleo newcleo (NasdaqGS:NWCL) has just been added to the Nasdaq Composite Index, only days after closing a US$216 million private placement linked to its Nasdaq Global Select Market listing. Despite the high profile Nasdaq listing and index inclusion, newcleo’s recent trading has been weak, with the share price down 16.7% over the past week and 26.3% over the last month. This has contributed to a 23.1% decline in 1 year total...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/newcleo-nwcl-following-nasdaq-inclusion-111236777.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:12:36 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Buy 3 AI-Powered Medical Stocks to Strengthen Your Portfolio in Q4",
+    "desc": "AI adoption is reshaping medical devices, with ISRG, TEM and TMO leveraging AI to advance precision medicine and drug development.",
+    "link": "https://finance.yahoo.com/healthcare/articles/buy-3-ai-powered-medical-102200254.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 10:22:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "1 Bank Stock on Our Watchlist and 2 Facing Headwinds",
+    "desc": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Still, investors are uneasy as banks face challenges from credit quality concerns and potential regulatory changes. These doubts have certainly contributed to banking stocks’ recent underperformance - over the past six months, the industry’s 8.2% gain has fallen behind the S&P 500’s 18.4% rise.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-bank-stock-watchlist-2-115254257.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:52:54 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock futures fall as 30-year Treasury yield hits 2004 high",
+    "desc": "The odds of a Fed rate hike in October climbed above 75%, up from roughly 49% just a week ago",
+    "link": "https://qz.com/stock-futures-fall-treasury-yields-rate-hike-odds-092426?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:21:31 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Futures Drop as Surging Bond Yields Send a Shiver Through Markets",
+    "desc": "Stocks were on track to open lower on Thursday as investors continued to worry about the run-up in bond yields, which just surged to their highest level in nearly two decades. Nasdaq 100 futures dropped 1.3%. The selloff came as bond yields rose again.",
+    "link": "https://finance.yahoo.com/m/516657a2-6a15-34b0-9e0c-b8384a4b9d03/stock-futures-drop-as-surging.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 09:55:18 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Everpure Sees AI Demand Underpinning Revenue Growth. This Analyst Says Stock Price Could Double.",
+    "desc": "Everpure stock advances after the data-storage company says revenue growth will continue to accelerate in fiscal 2028.",
+    "link": "https://finance.yahoo.com/m/3438ee18-6764-33ef-9f68-4f64bde95131/everpure-sees-ai-demand.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:17:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "BlackBerry Posts Strong Earnings, Driven by Car Software. The Stock Jumps.",
+    "desc": "BlackBerry reports fiscal second-quarter earnings per share of 7 cents from sales of $163.3 million. Wall Street was looking for 4 cents and $142.5 million, respectively.",
+    "link": "https://finance.yahoo.com/m/db75900b-c5b5-3fa5-8146-70815a6a9c21/blackberry-posts-strong.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:14:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Rising Bond Yields, Oil Prices Pressure Wall Street Pre-Bell; Asia, Europe Off",
+    "desc": "Wall Street futures pointed moderately lower pre-bell Thursday as bond yields crept higher, while gl",
+    "link": "https://finance.yahoo.com/markets/articles/rising-bond-yields-oil-prices-111101722.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:11:01 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Aramco CEO Eyes \"Fourth & Fifth\" Oil Export Routes To Break Hormuz Chokehold",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Aramco CEO Eyes \"Fourth & Fifth\" Oil Export Routes To Break Hormuz Chokehold </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Brent crude futures <a href=\"https://www.zerohedge.com/markets/crude-benchmarks-gain-punchy-irgc-rhetoric-which-lifts-yields-multi-year-highs-us-china\">climbed back above</a> $104 a barrel early Thursday as Iran threatened to widen the Middle East conflict into the Indian Ocean and optimism surrounding yesterday's meetings between US and Iranian officials on the sidelines of the UN General Assembly faded.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1bd7fa44.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1bd7fa44.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bf0ce0cb-b434-43c6-bd8b-c8fbdb704c9e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1bd7fa44.png\" /></a></p> <p>A focal point this morning is <a href=\"https://asia.nikkei.com/spotlight/iran-tensions/iran-war/saudi-aramco-chief-says-any-interruption-can-be-fixed-within-days\">Nikkei Asia’s</a> interview with Saudi Aramco CEO Amin Nasser, who said Aramco is studying additional crude export routes to bypass the Strait of Hormuz.</p> <p>Nasser said Aramco is conducting engineering and feasibility work on <strong>“a fourth and a fifth route” for crude exports</strong>. He did not disclose their locations.</p> <p>He warned, \"<strong>This crisis is not really getting better. The situation will get worse because this interruption is significant. It's not a small interruption,\" adding, \"I don't think things are getting better</strong>.\"</p> <p>The plan for two more oil export routes builds on the current three primary routes, one of which passes through the Hormuz chokepoint that Iran has disrupted. This comes after drone attacks earlier this month disrupted Saudi Arabia's East-West pipeline to the Red Sea, but <a href=\"https://www.zerohedge.com/energy/developments-cant-be-ignored-brent-tumbles-iran-talks-saudi-pipeline-restart-hopes-ubs\">media reports</a> this week suggest the pipeline could restart soon at half capacity.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/gas_14.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/gas_14.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c69df4fd-5c96-4735-bc71-f2386da38235\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/gas_14.jpg\" /></a></p> <p>\"<strong>When people talk about the East-West [pipeline], they think it's one pipeline. It's not, it's multiple lines,\" he said. \"It's not easy to interrupt all the lines at the same time. So it gives us the flexibility to respond and cater to our customers</strong>.\"</p> <p>Beyond the Hormuz chokepoint and the East-West pipeline, <strong>Aramco can move crude north through Egypt's Sumed pipeline to the Mediterranean, Nasser said.</strong></p> <p>\"<strong>People think about interruptions in Hormuz, interruptions in Bab-el-Mandeb, [but] we never stopped. We continue to supply our customers,\" he said. \"The only thing you do [is] shift more vessels, one way or the other. ... We do have this multiple optionality that allows us to meet our customers' demand.\"</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-24_07-19-33.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-24_07-19-33.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"17ced17c-435f-485b-996f-fc1157f43d15\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-24_07-19-33.png\" /></a></p> <p>Last weekend, Qatari Energy Minister Saad Al-Kaabi blasted Treasury Secretary Scott Bessent for saying he was \"wrong\" to claim that the Hormuz chokepoint would be \"worthless\" to the oil industry in two years. </p> <p>\"<strong>I think this is completely wrong</strong>,\" Saad Al-Kaabi said at the Qatar Economic Forum in New York.</p> <p>Speaking to Fox Business's Larry Kudlow on the sidelines of the Group of 20 finance ministers' summit in North Carolina earlier this month, <strong>Bessent said the Hormuz maritime chokepoint, in about \"two years will be… a worthless piece of water,\" adding that oil \"will be going on pipelines across land.\"</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🚨𝗝𝗨𝗦𝗧 𝗜𝗡: 🇺🇸 Treasury Secretary Scott Bessent says<br /><br /> “In 2 years, the Strait of Hormuz will be like a worthless piece of water.” <a href=\"https://t.co/B94NIWtews\">pic.twitter.com/B94NIWtews</a></p> — DustyBC Crypto (@DustyBC) <a href=\"https://x.com/DustyBC/status/2094795161561673771?ref_src=twsrc%5Etfw\">September 1, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>Bessent has a point</strong>. Aramco's push for new export routes reinforces the outcome we first pointed out at the war's start: energy flows will reroute around Hormuz, <strong>gradually eroding Tehran's leverage</strong>. Iran's threat to widen the conflict may be an attempt to keep that leverage alive. And it won't be just the Saudis rewiring energy flows; it'll be all the Gulf allies with the capability to do so. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T11:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 07:45</span>",
+    "link": "https://www.zerohedge.com/geopolitical/aramco-ceo-eyes-fourth-fifth-oil-export-routes-break-hormuz-chokehold",
+    "pubDate": "Thu, 24 Sep 2026 11:45:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Judge Orders Trump To Temporarily Restore CNN, MS NOW, And Politico Access To White House",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Judge Orders Trump To Temporarily Restore CNN, MS NOW, And Politico Access To White House</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/judge-orders-trump-to-temporarily-restore-cnn-ms-now-and-politico-access-to-white-house-6094225?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Melanie Sun via The Epoch Times</a>,</em></p> <p>A federal judge has ordered President Donald Trump to temporarily restore White House access for CNN, MS NOW, and Politico while they challenge the revocation of their press passes in court.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-24_04-20-15.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-24_04-20-15.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"910553b5-e0b8-4e3a-8e51-37e1a46b38bf\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-24_04-20-15.jpg\" /></a></p> <p><strong>Federal Judge Timothy Kelly of the U.S. District Court for the District of Columbia <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.24.0_1.pdf\">issued</a> a temporary restraining order against the White House ban, reinstating hard pass access for CNN, MS NOW, and Politico in the early hours of Sept. 24.</strong></p> <p>Trump announced on Sept. 18 that he was <a href=\"https://www.theepochtimes.com/us/trump-bans-some-news-outlets-from-white-house-6090809?utm_source=partner&utm_campaign=ZeroHedge\">banning</a> the three news outlets from White House premises over their \"constant 'reporting' fake news.\"</p> <p>The White House revoked their access the following day.</p> <p>In letters to the outlets dated Sept. 22, the White House said the organizations had violated \"the standards of professionalism and decorum expected of those given access to the White House Complex, including by trafficking in verifiable falsehoods about national security and other issues, and publishing sensitive or classified information.\"</p> <p>The outlets subsequently filed for a temporary restraining order, and a remote hearing was <a href=\"https://www.theepochtimes.com/us/judge-declines-to-immediately-block-white-house-ban-of-3-news-outlets-6093984?utm_source=partner&utm_campaign=ZeroHedge\">held</a> on Sept. 23.</p> <p>The judge issued the order hours after the hearing, saying the court's decision was \"dictated by the application of well-known D.C. Circuit precedent that this Court must faithfully apply.\"</p> <p>Kelly pointed to two prior court decisions. A 2019 decision sided with reporter Brian Karem, whose White House press pass was restored because the government failed to provide prior notice.</p> <p><strong>The other decision was the landmark 1977 Sherrill v. Knight case, which held that once the White House makes press facilities available to bona fide journalists, it cannot deny access arbitrarily or for less than compelling reasons. Denied applicants are entitled to notice of the factual basis for the decision, a chance to respond, and a written statement of reasons.</strong></p> <p>The Trump administration has argued that these precedent cases were wrongly decided.</p> <p>Kelly said the media outlets and the three journalists listed as plaintiffs had shown that without the court's relief, they were likely to suffer irreparable harm, and that at a minimum, their procedural due process claim under the Fifth Amendment had a \"likelihood of success.\"</p> <p><strong>Plaintiffs are also likely to succeed in showing that their hard passes were revoked without constitutionally adequate due process.</strong></p> <p>They did not \"receive fair notice\" of either the \"conduct\" that would lead to a sanction or of \"the magnitude of the sanction that the White House might impose,\" Kelly said.</p> <p>Balance-of-hardships and public-interest arguments also favor the plaintiffs, Kelly said.</p> <p>In a filing after the hearing, the government submitted an MS NOW report dated Sept. 23 to support its case. The article claimed that unnamed administration officials were considering attaching Trump's name to Ford's Theatre in Washington.</p> <p>Trump dismissed the report as \"a ridiculous lie\" in a Sept. 24 post on Truth Social.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T11:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 07:20</span>",
+    "link": "https://www.zerohedge.com/political/judge-orders-trump-temporarily-restore-cnn-ms-now-and-politico-access-white-house",
+    "pubDate": "Thu, 24 Sep 2026 11:20:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Poland Suspects \"Hybrid Warfare\" After Starlink Station Fire As War Spillover Fears Mount",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Poland Suspects \"Hybrid Warfare\" After Starlink Station Fire As War Spillover Fears Mount</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>A fire erupted at a ground-based Starlink communications station in central Poland, raising new concerns about sabotage as spillover risks from the Russia-Ukraine war mount.</p> <p><a href=\"https://www.reuters.com/world/poland-suspects-fire-starlink-station-was-act-sabotage-2026-09-24/\">Reuters</a> reports that the fire broke out overnight Wednesday at the ground station's power equipment and generator. The report cited Deputy Prime Minister Krzysztof Gawkowski.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HS-XB2tWgAA8ztE.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HS-XB2tWgAA8ztE.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"08a6a453-9f98-436e-81ab-77a57ae1a775\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HS-XB2tWgAA8ztE.jpg\" /></a></p> <p>\"<strong>The fire engulfed the power station and the generator; it is clear that this act of sabotage was deliberately designed to disable the station, effectively cutting off the internet connection... and disrupting internet access for various institutions, including the Ukrainian military</strong>,\" Gawkowski said.</p> <p>Gawkowski added, \"<strong>While everything is operational today, we must recognise, as Prime Minister Tusk recently noted, that this is an element of hybrid warfare</strong>.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">NEW: A fire broke out at Starlink ground station in Wola Krobowska, Poland, with firefighters treating it as possible arson.<br /><br /> The fire damaged power infrastructure and a generator. Security agencies are investigating.<br /><br /> Digital Affairs Minister said the incident could be part of… <a href=\"https://t.co/QDx1EqpRLd\">pic.twitter.com/QDx1EqpRLd</a></p> — Conflict Radar (@Conflict_Radar) <a href=\"https://x.com/Conflict_Radar/status/2103040218391527690?ref_src=twsrc%5Etfw\">September 24, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Bad actors could've targeted the ground station because Ukraine's military relies heavily on Starlink for battlefield communications, coordinating units and supporting one-way attack drone operations. The internet service, which is repeated from Poland and elsewhere and then beamed down into Ukraine through a network of low Earth orbit satellites, has been critical to Kiev's war effort.</p> <p>Beyond Ukraine, US intelligence services warned this week of potential spillover risks from possible Russian operations using Geran long-range attack drones against targets in Spain, France or Italy, according to Euronews.</p> <p>There were numerous drone incidents targeting Germany's Leipzig/Halle Airport early last month, with a drone laden with explosives found on the tarmac.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T10:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 06:55</span>",
+    "link": "https://www.zerohedge.com/geopolitical/poland-suspects-hybrid-warfare-after-starlink-station-fire-war-spillover-fears-mount",
+    "pubDate": "Thu, 24 Sep 2026 10:55:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "60 Minutes' \"Pardon Economy\" Bombshell Ignored The Clintons... And Joe Biden",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">60 Minutes' \"Pardon Economy\" Bombshell Ignored The Clintons... And Joe Biden</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.realclearinvestigations.com/articles/2026/09/23/60_minutes_airs_misleading_report_on_trump_pardons_1207635.html\">Authored by Paul D. Thacker via RealClearInvestigations</a>,</em></p> <p><strong>When Bari Weiss was hired to lead CBS News last year</strong>, many of the network's star reporters feared the centrist founder of <a href=\"https://www.bariweiss.com/\">The Free Press</a> news site would turn the network into a mouthpiece for the Trump administration. Longtime \"60 Minutes\" correspondent Scott Pelley was fired after he accused Weiss of \"<a href=\"https://www.cbsnews.com/news/cbs-news-fires-60-minutes-correspondent-scott-pelley/\">murdering the show</a>.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/727256_6_.jpeg_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/727256_6_.jpeg_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"72346651-7a73-4f41-bf3b-464cfd7b0a3d\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/727256_6_.jpeg_80.jpg\" /></a></p> <p><strong>If the season premiere of \"60 Minutes\" is any indication, progressives have little to complain about.</strong> In a segment titled \"The Pardon Economy,\" veteran CBS reporter Lesley Stahl alleges that Trump has upended the way U.S. presidents have dispensed pardons for \"<a href=\"https://www.cbsnews.com/news/trump-pardon-economy-60-minutes-transcript/\">100 years</a> or more\" by creating a \"new system\" that involves lobbyists and high-priced \"pardon brokers.\"</p> <p>Stahl's report suggests that Trump has replaced the normal order - in which pardons typically go through an apolitical review by the Justice Department's Office of the Pardon Attorney - with a scheme that looks like \"pay-to-play.\" It has already led Democrats to vow they will investigate the issue if they retake the House in the November mid-term elections.</p> <p>To situate Trump in this \"pardon lobbyists\" narrative, Stahl links the White House to two convicted con artists who claim close ties to Trump without disclosing one critical detail: <strong>There is no evidence the two have ever succeeded in getting anyone a pardon.</strong> While their efforts suggest that some in Washington may be trying to capitalize on the narrative about Trump's alleged corruption - inspired, in part, by questionable pardons he has issued previously - \"60 Minutes\" offers no concrete proof connecting the administration to these money-making schemes.</p> <p>Stahl's report also ignored the long history of wrongdoers paying exorbitant fees for lobbyists to get their pardons viewed by the Oval Office - most famously Bill Clinton's brother, Roger, and Hillary's brothers, Hugh and Tony Rodham.</p> <p>Although Stahl's report quotes Trump officials denying her claims, a DOJ official who was outraged by her \"misleading\" report provided RealClearInvestigations with documents showing that well-connected D.C. insiders are routinely involved in the pardon process.</p> <h2>Leaked Documents</h2> <p>The DOJ documents shared with RCI involve the high-profile and controversial pre-emptive pardons issued by President Biden to Trump antagonists on his final day in office in 2025 - specifically top NIH official Anthony Fauci, U.S. Army Gen. Mark Milley, and former Congresswoman Liz Cheney.</p> <p>The release of pardon documents is highly unusual. Pardon documents are zealously guarded by the White House, in part because they can reveal lobbying and political considerations - the very matter Stahl's report insinuates is novel under Trump. The official shared them under the condition that screenshots of the documents not be made public out of concern they might anger Trump, who has pushed for criminal investigations of document leaks.</p> <p>The official noted that there is no evidence that \"pardon brokers\" put on camera by CBS have influenced the president and said that the documents were being released specifically to show that many pardon recipients retain expensive legal counsel to represent them. And despite the assertion in the \"60 Minutes\" report that pardons under prior administrations normally required admitting guilt, none of the three - or any of those pardoned by Biden, including his family members - has expressed the slightest contrition.</p> <p><strong>What the leaked documents - the letters Milley, Cheney and Fauci sent accepting the pardons - do show is that Fauci, Milley, and Cheney were all using the services of high-priced attorneys at politically connected law firms.</strong> They do not, however, provide any insight into how the pardons came about. Milley and Cheney's letters to Biden were sent through attorneys at Williams & Connolly, a top-tier, white-shoe law firm based in Washington, D.C., that has long represented a wide range of powerful Democrats and Republicans.</p> <p>Now a retired congressional investigator, Jason Foster helped to lead the House investigation of the Clinton pardon scandal. He said the Fauci, Milley, and Cheney pardon papers raise questions about when their attorneys first contacted the Justice Department and the Biden White House about the pardons.</p> <p>\"Based on my experience leading these investigations in the past, this is clearly not a first interaction their attorneys are having with the administration,\" Foster said. \"This doesn't mean they've done anything wrong, but there's no constitutional requirement that anyone go through the pardon attorney office.\"</p> <h2>First Contact?</h2> <p>Williams & Connolly attorneys did not respond to RCI's questions asking when they first contacted the Biden administration about pardons for retired General Milley and former Congresswoman Cheney. Nor did they answer questions regarding how much they charged for this work.</p> <p>Records show that Fauci also had an attorney, David Schertler, send the letter accepting the pardon. That letter, however, was addressed not to the Justice Department, but to Biden's White House Counsel.</p> <p>\"On behalf of Dr. Anthony S. Fauci, we appreciate the President's consideration and his action this morning on Dr. Fauci's behalf,\" reads the letter Schertler sent to Edward Siskel, Biden's top legal advisor. \"Dr. Fauci accepts the President's pardon.\"</p> <p>Fauci emailed the Hill and contacted reporters at Reuters and other outlets that same day, claiming that the White House approached <em>him</em> about the pardon a month prior and that he <a href=\"https://thehill.com/policy/healthcare/5095299-fauci-says-he-will-accept-preemptive-pardon-from-biden/\">did not ask</a> for one. He added, \"I have committed no crime and there are no possible grounds for any allegation or threat of criminal investigation or prosecution of me.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/723831_5_.jpeg_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/723831_5_.jpeg_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"e8830e28-d2fa-44e1-8d45-2cb91d91beea\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/723831_5_.jpeg_80.jpg\" /></a></p> <p>At a July Senate hearing, Senator Ashley Moody asked Fauci whether he spoke with President Biden and asked for the pardon. <strong>\"On the advice of counsel, I respectfully decline to answer based upon my rights under the Fifth Amendment to the Constitution,\"</strong> <a href=\"https://www.youtube.com/watch?v=tzqe_UKfPl8\">Fauci replied</a>. When asked multiple follow-up questions about how he got his pardon, Fauci again asserted his Fifth Amendment rights - as he did to every other question he was asked on a wide range of topics, including the color of his tie.</p> <p>RCI emailed David Schertler extensive questions, asking when he first contacted the Justice Department and the White House about Fauci's pardon. RCI also asked about his communications with attorneys in the pardon office and how much his firm charged Fauci for help with the pardon.</p> <p>Schertler did not respond to RCI's questions asking when he first contacted the Biden administration about Fauci's pardon and how much his firm charged the former NIH official for pardon work.</p> <h2>Hidden Cameras</h2> <p>The centerpiece of the \"60 Minutes\" \"pardon lobbyist\" segment was an undercover investigation of Jack Burkman and Jacob Wohl, two characters offering to secure pardons for $300,000. <strong>But almost every fact detailed by \"60 Minutes\" on Burkman and Wohl had already been reported <a href=\"https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html\">six months</a> earlier by The New York Times.</strong></p> <p>Burkman and Wohl are conservative activists who were convicted of felonies for a <a href=\"https://www.nytimes.com/2020/08/27/us/elections/deceptive-robocalls-try-to-frighten-detroit-residents-about-voting-by-mail.html\">robocall scheme</a> to frighten black people against voting by mail in the 2020 presidential election, the <a href=\"https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html\">Times reported</a>. The two now work as lobbyists who allege special access to Trump and influencers such as Laura Loomer. The Times reporting established that Burkman and Wohl were selling their alleged access to secure pardons. The newspaper, for example, <a href=\"https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html\">reported</a> on an audio recording in which Burkman said that he and Wohl \"use a combination of influencers and members of Congress,\" as well as going \"direct to the president, and I think that's a very good approach.\"</p> <p>White House spokeswoman Lauren Bis emailed RCI that the Trump administration has a \"robust pardon review process,\" and President Trump makes the final decision. \"Anyone spending money to lobby for pardons is foolishly wasting their money and the President doesn't even know who these so-called 'lobbyists' are.\"</p> <p>\"60 Minutes\" also regurgitated details first reported <a href=\"https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html\">last March</a> in the Times of Burkman's lobbying for pardons on behalf of nursing home owner Joseph Schwartz, who paid Burkman's firm almost $1 million, and the rapper Torrence Ivy Hatch Jr., known as Boosie BadAzz, who paid the pair $600,000.</p> <p>To create TV drama, \"60 Minutes\" worked with convicted felon Ammon Covino, who met with Burkman and Wohl at the Ritz-Carlton. \"60 Minutes\" recorded the interaction with hidden cameras. To make Burkman and Wohl look good, Stahl introduced them to listeners as purported accomplished \"pardon brokers.\"</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/727283_5_.jpeg_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/727283_5_.jpeg_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f33d4e29-c839-446f-a27f-980ea266179f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/727283_5_.jpeg_80.jpg\" /></a> <figcaption><em>Although he reportedly paid $600,000 to convicted felons, the rapper known as Boosie BadAzz has not received a presidential pardon.</em></figcaption></figure><p>\"They claim they got one for this owner of a nursing home chain convicted of massive tax fraud,\" Stahl said. \"He paid them nearly a million dollars for their promise to reach the president.\"</p> <p>This is misleading. <strong>The <a href=\"https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html\">Times reported</a> that nursing home owner Joseph Schwartz stopped paying Burkman and Wohl after they failed to get him a pardon</strong>, a detail \"60 Minutes\" seems to have ignored. In fact, there is no evidence that Burkman and Wohl have gotten a pardon for anyone. Instead, Burkman and Wohl make money off felons by promising pardons that never seem to materialize.</p> <p>RCI sent CBS News an extensive list of questions, noting apparent contradictions in their reporting, such as failing to note that two felons they recorded by hidden camera claiming they can get pardons have never actually gotten anyone a pardon. CBS News did not respond to these questions. A spokesperson sent this statement: \"60 MINUTES stands behind our reporting and the investigative work our team did to shed light on the pardons process.\"</p> <p>Instead of advancing a narrative about a \"new system\" of \"pardon lobbyists,\" \"60 Minutes\" seems to have recycled key findings from the Clinton pardon scandal of 2001, while claiming their reporting has uncovered something new and unique about pardons in the Trump administration.</p> <h2>Clinton Pardon Scandals</h2> <p>During his final hours in office, President Bill Clinton signed a flurry of pardons that led to a years-long scandal that found his own brother, Roger Clinton, had accepted hundreds of thousands of dollars to lobby for pardons, as did brothers of first lady Hillary Clinton and an <a href=\"https://www.nytimes.com/2001/02/23/us/clinton-pardons-lobbying-clinton-s-brother-pursued-clemency-bids-for-friends.html\">attorney</a> who worked on her Senate campaign that year.</p> <p>\"<a href=\"https://www.nytimes.com/2001/06/28/us/pardon-for-felon-considered-after-kin-paid-roger-clinton.html\">Pardon for Felon Considered After Kin Paid Roger Clinton</a>,\" reported the New York Times in 2001 regarding a $50,000 payment to Roger by the family of Rosario Gambino, a convicted heroin trafficker and reputed organized crime figure. Just as Burkman and Wohl make wild claims of pardon success but never seem to deliver, the Gambino family told the Times that Roger Clinton led them to believe that a pardon for Rosario was a \"lock.\"</p> <p>While Roger Clinton failed to get anyone a pardon, House investigators released a <a href=\"https://www.congress.gov/committee-report/107th-congress/house-report/454/1\">2002</a> report that found that he accepted hundreds of thousands of dollars to lobby for pardons. <strong>However, one person who did succeed in lobbying the Clinton administration for a pardon was Hillary Clinton's brother, Hugh Rodham.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/727287_5__80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/727287_5__80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"76a26d5e-c90d-45ed-bcc1-e06931401940\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/727287_5__80.jpg\" /></a></strong></p> <p>Two felons - a convicted drug dealer and a businessman who marketed a bogus baldness cure - paid Hugh Rodham a combined <a href=\"https://www.theguardian.com/world/2001/feb/23/usa.julianborger\">$400,000</a> to get them pardons, which included lobbying White House staff. House investigators found that Rodham's <a href=\"https://www.congress.gov/committee-report/107th-congress/house-report/454/1\">lobbying efforts</a> also involved telling White House staff that one of the pardons was \"very important\" to First Lady Clinton.</p> <p>The House investigation also detailed <a href=\"https://www.congress.gov/committee-report/107th-congress/house-report/454/1\">similar actions</a> by Hillary's other brother, Tony Rodham, who secured pardons over the objection of the Justice Department by lobbying his brother-in-law, President Bill Clinton: \"Tony Rodham lobbied President Clinton to grant pardons to Edgar and Vonna Jo Gregory while he was receiving substantial sums of money from the Gregorys.\"</p> <p>The findings that felons had hired both Bill and Hillary's family members to lobby the Clinton White House for pardons were widely covered by news outlets, including reporters at CBS News. Stahl joined the CBS News Washington bureau in the early 1970s and moved to \"60 Minutes\" in 1991, almost a decade before the Clinton scandal became national news. So it's hard to understand how she missed these details of the Clinton pardon scandal to now claim the Trump administration has created a new \"pardon economy,\" as \"60 Minutes\" calls its news segment.</p> <h2>More Trump Probes</h2> <p>Although Stahl's \"60 Minutes\" segment did not support its claim that Trump has created a unique new system for pardons, it is already prompting fresh partisan attacks against the president. In an online story that followed the \"60 Minutes\" piece, <a href=\"https://www.cbsnews.com/news/democrats-pledge-investigation-trump-pardon-brokers/\">CBS News</a> reported that Democrats were alarmed by the undercover video: \"Senior Democratic lawmakers vowed Monday to investigate the new market that has sprung up around President Trump's pardons, citing CBS News video of lobbyists offering to 'put pressure on the president' in exchange for a hefty fee from a convicted felon.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/635679_5_.jpeg_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/635679_5_.jpeg_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2da5b152-a19a-4ec9-ba5c-822d39da5a7c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/635679_5_.jpeg_80.jpg\" /></a></p> <p>Now the top Democrat on the House Judiciary Committee, Congressman Jamie Raskin will likely lead these investigations. Raskin told <a href=\"https://www.cbsnews.com/news/democrats-pledge-investigation-trump-pardon-brokers/\">CBS News</a> that pardons are \"kind of an underground market because not everybody knows how to get to it.\"</p> <p><strong>CBS News failed to report, however, that one of the people who benefited from this underground market was <a href=\"https://www.politico.com/live-updates/2025/01/17/congress/jamie-raskin-pardon-j6-00199291\">Raskin</a> himself</strong>, who Biden pardoned along with Liz Cheney on his final day in office.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T10:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 06:30</span>",
+    "link": "https://www.zerohedge.com/political/60-minutes-pardon-economy-bombshell-ignored-clintons-and-joe-biden",
+    "pubDate": "Thu, 24 Sep 2026 10:30:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Ligand Commits Upto $47 Mln To AvenCell Cancer Cell Therapy",
+    "desc": "(RTTNews) - Thursday, Ligand Pharmaceuticals Inc. (LGND) announced a financing agreement with AvenCell Therapeutics, Inc., a clinical-stage cell therapy company, for upto $47 million, helping advance the latter's pipeline, which includes AVC-201 for the treatment of relapsed/refr",
+    "link": "https://www.nasdaq.com/articles/ligand-commits-upto-47-mln-avencell-cancer-cell-therapy",
+    "pubDate": "Thu, 24 Sep 2026 11:48:07 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "If Kevin Warsh Keeps Rates Elevated, These 2 Stocks Are Built to Handle It",
+    "desc": "Key PointsAfter the Federal Reserve's latest interest rate hike, the market now thinks another one or two could be come before the year's end.",
+    "link": "https://www.nasdaq.com/articles/if-kevin-warsh-keeps-rates-elevated-these-2-stocks-are-built-handle-it",
+    "pubDate": "Thu, 24 Sep 2026 11:35:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "UK Stocks Mixed In Cautious Trade",
+    "desc": "(RTTNews) - U.K. stocks are turning in a mixed performance on Thursday with investors weighing the Middle East situation and rising oil prices amid a lack of meaningful progress in U.S.-Iran peace talks.",
+    "link": "https://www.nasdaq.com/articles/uk-stocks-mixed-cautious-trade",
+    "pubDate": "Thu, 24 Sep 2026 11:31:59 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SpaceX Stock Is Sliding. Should You Buy the Dip?",
+    "desc": "Key PointsThis year, SpaceX completed the biggest IPO ever and debuted as a trillion-dollar company.",
+    "link": "https://www.nasdaq.com/articles/spacex-stock-sliding-should-you-buy-dip",
+    "pubDate": "Thu, 24 Sep 2026 11:30:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Bank Of America To Hire 1,000 Apprentices, Invest $150 Mln In Workforce Development",
+    "desc": "(RTTNews) - Bank of America Corp. (BAC), a financial services company, on Thursday announced plans to hire 1,000 additional apprentices over the next two years.",
+    "link": "https://www.nasdaq.com/articles/bank-america-hire-1000-apprentices-invest-150-mln-workforce-development",
+    "pubDate": "Thu, 24 Sep 2026 11:28:47 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Darden Restaurants Reaffirms FY27 Outlook; Declares Dividend; Stock Down 5% - Update",
+    "desc": "(RTTNews) - While reporting financial results for the first quarter on Thursday, restaurant company Darden Restaurants, Inc. (DRI) reaffirmed its net earnings from continuing operations and sales guidance for the full-year 2027.",
+    "link": "https://www.nasdaq.com/articles/darden-restaurants-reaffirms-fy27-outlook-declares-dividend-stock-down-5-update",
+    "pubDate": "Thu, 24 Sep 2026 11:23:08 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
+    "desc": "Key PointsAMD is more diversified in AI chips than Intel.",
+    "link": "https://www.nasdaq.com/articles/amd-vs-intel-which-artificial-intelligence-ai-chip-stock-has-more-room-run",
+    "pubDate": "Thu, 24 Sep 2026 11:22:01 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "TD SYNNEX Corporation Profit Rises In Q3",
+    "desc": "(RTTNews) - TD SYNNEX Corporation (SNX) announced earnings for its third quarter that Increases, from last year",
+    "link": "https://www.nasdaq.com/articles/td-synnex-corporation-profit-rises-q3",
+    "pubDate": "Thu, 24 Sep 2026 11:20:40 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Vertiv To Acquire King Environmental Services, Expand Fluid Management In EMEA",
+    "desc": "(RTTNews) - Vertiv Holdings Co. (VRT), a provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments, announced on Thursday that it has agreed to acquire King Environmental Services Ltd., a Europe-based provider of",
+    "link": "https://www.nasdaq.com/articles/vertiv-acquire-king-environmental-services-expand-fluid-management-emea",
+    "pubDate": "Thu, 24 Sep 2026 11:12:56 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Darden Restaurants Inc. Reveals Decline In Q1 Bottom Line",
+    "desc": "(RTTNews) - Darden Restaurants Inc. (DRI) reported a profit for first quarter that Drops, from last year",
+    "link": "https://www.nasdaq.com/articles/darden-restaurants-inc-reveals-decline-q1-bottom-line",
+    "pubDate": "Thu, 24 Sep 2026 11:06:51 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Clarity Act Fails to Pass in Senate. Here's the Most Likely Scenario for the Crypto Industry in 2027.",
+    "desc": "Key PointsThe Clarity Act did not pass its procedural vote.",
+    "link": "https://www.nasdaq.com/articles/clarity-act-fails-pass-senate-heres-most-likely-scenario-crypto-industry-2027",
+    "pubDate": "Thu, 24 Sep 2026 11:05:00 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BlackBerry Q2 27 Earnings Conference Call At 8:00 AM ET",
+    "desc": "(RTTNews) - BlackBerry (BB.TO) will host a conference call at 8:00 AM ET on September 24, 2026, to discuss Q2 27 earnings results.",
+    "link": "https://www.nasdaq.com/articles/blackberry-q2-27-earnings-conference-call-8-00-am-et",
+    "pubDate": "Thu, 24 Sep 2026 11:03:17 +0000",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is aTyr Pharma stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-atyr-pharma-stock-rallying-today-93CH-4915220",
+    "pubDate": "2026-09-24 12:02:43",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Kyverna Therapeutics stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-kyverna-therapeutics-stock-surging-today-93CH-4915203",
+    "pubDate": "2026-09-24 11:58:12",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is ACADIA Pharmaceuticals stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-acadia-pharmaceuticals-stock-sliding-today-93CH-4915202",
+    "pubDate": "2026-09-24 11:57:54",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Wall Street sees Muse as Meta’s next big catalyst after Connect event",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wall-street-sees-muse-as-metas-next-big-catalyst-after-connect-event-4915180",
+    "pubDate": "2026-09-24 11:46:02",
+    "fetchedAt": "2026-09-24T12:06:29.790Z"
+  },
+  {
+    "source": "cnbc",
     "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
     "desc": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
     "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
@@ -5758,645 +6398,5 @@
     "link": "https://www.investing.com/news/stock-market-news/why-is-rapport-therapeutics-stock-sliding-today-93CH-4913783",
     "pubDate": "2026-09-23 19:33:11",
     "fetchedAt": "2026-09-23T20:01:40.214Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Fastly stock surges on Meta Muse traffic analysis",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/fastly-stock-surges-on-meta-muse-traffic-analysis-93CH-4913779",
-    "pubDate": "2026-09-23 19:29:50",
-    "fetchedAt": "2026-09-23T20:01:40.214Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Exclusive: National Vision CEO on traffic, ticket growth and the digital shift",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusive-national-vision-ceo-on-traffic-ticket-growth-and-the-digital-shift-4913774",
-    "pubDate": "2026-09-23 19:20:12",
-    "fetchedAt": "2026-09-23T20:01:40.214Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nasdaq 100 stalls at 31,093 supply zone: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-hits-overbought-resistance-at-30405-live-levels-93CH-4909309",
-    "pubDate": "2026-09-23 19:18:34",
-    "fetchedAt": "2026-09-23T20:01:40.214Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike",
-    "desc": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
-    "link": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
-    "pubDate": "Wed, 23 Sep 2026 18:46:49 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "New Social Security bill would lower retirement age to 60 for some workers",
-    "desc": "Rep. Haley Stevens introduced a bill that would let some workers in physically demanding jobs claim full Social Security retirement benefits at age 60.",
-    "link": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
-    "pubDate": "Wed, 23 Sep 2026 17:58:47 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-    "desc": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-    "link": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
-    "pubDate": "Wed, 23 Sep 2026 18:47:29 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
-    "desc": "McDonald's is following the lead of Amazon and Walmart as it starts its own media network.",
-    "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
-    "pubDate": "Wed, 23 Sep 2026 18:39:44 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
-    "desc": "Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.",
-    "link": "https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html",
-    "pubDate": "Wed, 23 Sep 2026 18:52:11 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
-    "desc": "A group that advocates for Epstein victims applauded the news that Richard Kahn and Darren Indyke are facing an investigation. No charges have been been filed.",
-    "link": "https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html",
-    "pubDate": "Wed, 23 Sep 2026 18:41:23 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Bond yields spike and stocks drop — plus, why Boeing is bucking the trend",
-    "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "link": "https://www.cnbc.com/2026/09/23/bond-yields-spike-and-stocks-drop-plus-why-boeing-is-bucking-the-trend.html",
-    "pubDate": "Wed, 23 Sep 2026 18:42:17 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-    "desc": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-    "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 21 Sep 2026 08:49:45 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why is the price of protein powder rising?",
-    "desc": "Why is the price of protein powder rising?",
-    "link": "https://www.bbc.co.uk/news/videos/cmq8j1nk2wnxo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:53:04 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "Exclusive-US drafted memo condemning UK over West Bank sanctions. It was never released",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/exclusiveus-drafted-memo-condemning-uk-over-west-bank-sanctions-it-was-never-released-4913759",
-    "pubDate": "2026-09-23 18:54:36",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Andean Precious Metals stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-andean-precious-metals-stock-sliding-today-93CH-4913758",
-    "pubDate": "2026-09-23 18:53:28",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "Moody’s cuts Campbell’s rating on weak earnings, high leverage",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/moodys-cuts-campbells-rating-on-weak-earnings-high-leverage-93CH-4913757",
-    "pubDate": "2026-09-23 18:53:26",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "S&P Global upgrades HealthEquity rating on strong performance",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sp-global-upgrades-healthequity-rating-on-strong-performance-93CH-4913756",
-    "pubDate": "2026-09-23 18:53:02",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "US diesel futures fall after report of export ban plan, which the White House denies",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/us-diesel-futures-fall-after-report-of-export-ban-plan-which-the-white-house-denies-4913755",
-    "pubDate": "2026-09-23 18:48:54",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "ECB not seeing any big wage response to surging inflation",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/ecb-not-seeing-any-big-wage-response-to-surging-inflation-4913705",
-    "pubDate": "2026-09-23 18:48:34",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wall Street falls as oil prices, Treasury yields rise",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/wall-st-futures-steady-with-focus-on-mideast-talks-uschina-summit-4912483",
-    "pubDate": "2026-09-23 18:42:56",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "Dominican leader urges UN to step up backing for Haiti mission",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/dominican-leader-urges-un-to-step-up-backing-for-haiti-mission-4913750",
-    "pubDate": "2026-09-23 18:42:36",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investing",
-    "title": "FirstEnergy stock hits 52-week low at 43.72 USD",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/firstenergy-stock-hits-52week-low-at-4372-usd-93CH-4913749",
-    "pubDate": "2026-09-23 18:42:29",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "&#x2018;It doesn&#x2019;t seem fair&#x2019;: I&#x2019;m retired and have plenty of money. Why can&#x2019;t I qualify for a retail credit card?",
-    "desc": "&#x201c;I draw from my IRA as needed for household repairs, trips and other larger expenses.&#x201d;",
-    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 19:00:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Here&#x2019;s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
-    "desc": "The federal government redrew flood maps across America this summer &#x2014; and it could mean bigger housing bills for homeowners who now live in newly designated flood zones.",
-    "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 18:55:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Palantir&#x2019;s stock is heading for its highest close of the year, in a dramatic comeback",
-    "desc": "Palantir&#x2019;s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
-    "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 18:31:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "The ingredients for a financial reckoning are all in place",
-    "desc": "A witch&#x2019;s brew of rising debt levels, higher costs of capital and contagion risks is bubbling.",
-    "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 18:24:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren&#x2019;t stopping the U.S. economy.",
-    "desc": "Expensive gas, higher inflation, a stalemate with Iran and rising interest rates &#x2014; no matter. The U.S. economy appears to have sped up in the early fall.",
-    "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 18:06:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "McDonald&#x2019;s is making a historic bet on chicken &#x2014; and AI &#x2014; to bring back customers",
-    "desc": "Investors aren&#x2019;t sold on plans to introduce new McNugget flavors, and an analyst recently noted that McDonald&#x2019;s has struggled to break through on chicken-related innovation.",
-    "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 18:02:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
-    "desc": "Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.",
-    "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-    "pubDate": "Wed, 23 Sep 2026 17:52:00 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-    "desc": "<p>Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.</p><p>The Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
-    "pubDate": "Fri, 18 Sep 2026 12:38:28 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-    "desc": "<p>Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.</p><p>The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
-    "pubDate": "Fri, 18 Sep 2026 07:14:13 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "guardian",
-    "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-    "desc": "<p>Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.</p><p>Politicians queued to shake his hand and take selfies. One described the speech as a historic moment. “Europe has extended a hand, and Canada has taken it,” said the German Green MEP Terry Reintke, who borrowed a Canadian ice hockey shirt for the occasion.</p> <a href=\"https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-    "pubDate": "Thu, 17 Sep 2026 15:46:15 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
-    "desc": "<p>This blog is now closed</p><p><strong>Andrew Griffith</strong> has delivered his speech, and he is now taking questions.</p><p><em>Q: You want the government to pause the <a href=\"https://www.gov.uk/government/collections/making-tax-digital-for-income-tax\">making tax digital programme</a>. Is that an admission that the last government got this wrong when it introduced it?</em></p><p>It is an admission that despite [good] intentions, the execution of that has left a lot to be desired.</p><p>In fact, coming to parliament from business, I can confess the law that we pass the most often is the law of unintended consequences. And I think making tax digital is a good example of that.</p><p>The truth is that Burnham and Miliband ignored the advice they were given – which was that if they were determined to sanction Israel, they should not do so before the Israeli election on 27 October.</p><p>It may not be surprising that this was the message from the Israeli foreign minister, Gideon Sa’ar, when Miliband called him on 11 August to warn sanctions were imminent. ‘He said postpone it until after the elections,’ a diplomatic source confirms. It was also the message the Israeli embassy in London – and its new chargé d’affaires Chris Cantor – was relaying to the Foreign Office. ‘Their message was clear: why do it now? Wait until after the elections, because something might change,’ a senior Labour figure says.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
-    "pubDate": "Thu, 17 Sep 2026 15:45:45 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "guardian",
-    "title": "The Bank of England is shaking up its bond sales – why does it matter?",
-    "desc": "<p>What the plan to sell £146bn in gilts back to the Treasury means for the public finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li></ul><p>Mixed in with the Bank of England’s decision on Thursday to <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">hold interest rates at 3.75%</a> was a surprise announcement that it was shaking up its programme of quantitative tightening.</p><p>So why is this apparently arcane change to QT important, and what does it mean for the public finances?</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
-    "pubDate": "Thu, 17 Sep 2026 15:45:42 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK government borrowing costs fall as Bank of England outlines new bond-selling plan – as it happened",
-    "desc": "<p>BoE lays out proposal to sell UK bonds back to the government, and wind up the asset purchase scheme launched after the GFC</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Newsflash: Britain’s economy has been more productive since Tony Blair’s first election win than previously thought.</strong></p><p>A new measure of measuring productivity, just released by the Office for National Statistics, shows that annual productivity growth since 1997 has been stronger than it had estimated in the past.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
-    "pubDate": "Thu, 17 Sep 2026 14:57:52 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "ft",
-    "title": "Zuckerberg to unveil new AI products as Meta’s Muse app tops charts",
-    "desc": "Social media group’s personal AI ‘agent’ that can shop and schedule has become most downloaded app in US",
-    "link": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1",
-    "pubDate": "Wed, 23 Sep 2026 16:35:21 GMT",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UltraShort Russell2000 declares quarterly distribution of $0.1784",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646249-ultrashort-russell2000-declares-quarterly-distribution-of-01784?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:57:24 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UltraShort MSCI Japan declares quarterly distribution of $0.2162",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646248-ultrashort-msci-japan-declares-quarterly-distribution-of-02162?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:56:00 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BP upgraded at J.P. Morgan after lagging rivals for years; TotalEnergies cut to Neutral",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646235-bp-upgraded-at-jp-morgan-after-lagging-rivals-for-years-totalenergies-cut-to-neutral?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:55:55 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UltraShort Nasdaq Biotechnology declares quarterly distribution of $0.1389",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646247-ultrashort-nasdaq-biotechnology-declares-quarterly-distribution-of-01389?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:55:05 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UltraShort Oil & Gas declares quarterly distribution of $0.0819",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646246-ultrashort-oil-gas-declares-quarterly-distribution-of-00819?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:54:16 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UltraShort QQQ declares quarterly distribution of $0.1740",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646245-ultrashort-qqq-declares-quarterly-distribution-of-01740?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:53:32 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "UltraShort Real Estate declares quarterly distribution of $0.3257",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646244-ultrashort-real-estate-declares-quarterly-distribution-of-03257?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 23 Sep 2026 14:52:37 -0400",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: US Equity Indexes Drop as Robust Output Growth Galvanizes Fed Rate-Increase Bets",
-    "desc": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph.",
-    "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-robust-185251446.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:52:51 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today; Small Caps Slapped, Biotech ETF Hit; Argenx Faces Test At 50-Day Average (Live Coverage)",
-    "desc": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set new highs Tuesday. Micron and Sandisk drop.",
-    "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3B-small.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:35:51 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Expedia Stock Is Among Today’s Worst in the S&P 500. Blame Meta’s Muse.",
-    "desc": "Meta’s Muse release has disrupted stocks of online travel booking platforms. Expedia was among those dropping on Wednesday.",
-    "link": "https://finance.yahoo.com/m/0ccd5160-67da-38b4-a8ec-b5b9c885e17b/expedia-stock-is-among.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:19:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-    "desc": "(Updates with latest market prices and developments.) US benchmark stock indexes fell intraday an",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-yields-surge-180218962.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:02:18 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It",
-    "desc": "Morgan Stanley has put a number on one of the AI boom’s most awkward constraints: the United States could face a roughly 33-gigawatt power shortfall through 2028 even after accounting for onsite generation and other accelerated power solutions. The bank’s September analysis points toward behind-the-meter generation and equipment suppliers as part of the bridge. Two […]",
-    "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-33-gw-184007932.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:40:07 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-    "desc": "Wall Street is revising assumptions about these S&P 500 stocks thanks to booming AI backlogs and transformed fundamentals.",
-    "link": "https://finance.yahoo.com/m/297b7387-d6e4-31fc-b9c6-a41434dada5e/why-wall-street-is.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:15:23 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Should You Buy Carnival Stock While Europe Sails Emptier?",
-    "desc": "Carnival Corporation (CCL) trades near $22, down about 26% over the past year, while the S&P 500 gained close to 18%. The easy read on a cruise line that cheap is that demand finally cracked. It has not. Carnival lowered its 2026 yield outlook after the Middle East conflict hit its European sailings, and part of that cut was its own choice to protect price rather than fill cabins.",
-    "link": "https://www.trefis.com/articles/616287/should-you-buy-carnival-stock-while-europe-sails-emptier/2026-09-23?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 17:57:29 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-    "desc": "(Updates with index/price moves, macroeconomic data, and comments from the first paragraph.) US",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-midday-175045108.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 17:50:45 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Paychex Stock Is Heading for Its Worst Day in More Than a Year",
-    "desc": "Paychex falls after reporting softening revenue growth and stagnant guidance in its fiscal first quarter.",
-    "link": "https://finance.yahoo.com/m/f59f8422-6be6-32e9-b155-419579783d8e/why-paychex-stock-is-heading.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 16:46:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 High-Yield Stocks Near Their 52-Week Lows That Dividend Income Investors Are Sleeping On",
-    "desc": "These industry leaders are now offering tempting yields.",
-    "link": "https://www.fool.com/investing/2026/09/23/high-yield-stocks-52-week-lows-income-investors/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:25:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
-    "desc": "Energy stocks climbed Wednesday afternoon with the NYSE Energy Sector Index rising 1.2% and the Stat",
-    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-180336346.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:03:36 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "McDonald’s Will Spend $8.5 Billion on Its NEXT Plan. Investors Aren’t Lovin’ It.",
-    "desc": "McDonald’s announced it will pour billions into its plan to upgrade menus, restaurants, and service. The stock was slipping Wednesday.",
-    "link": "https://finance.yahoo.com/m/6d68ef24-4492-3928-b53d-0d83fd1cb9b4/mcdonald%E2%80%99s-will-spend-%248.5.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 17:29:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Kalshi's $5,499 Question: Wash Trading, Or A Subsidized Volume Machine?",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Kalshi's $5,499 Question: Wash Trading, Or A Subsidized Volume Machine?</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Kalshi's Ethereum perpetual futures contract has a favorite trade size, and it's <strong>$5,499.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-09-23%20at%2010-31-47%20Tease%20Image%20Creation_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-09-23%20at%2010-31-47%20Tease%20Image%20Creation_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3040fa6d-b1fb-48c5-bd7b-cbef17d4d43d\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-09-23%20at%2010-31-47%20Tease%20Image%20Creation_0.png\" /></a></strong></p> <p>A CoinDesk <a href=\"https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows\">analysis</a> published Monday pulled 3,450 trades in the contract, a futures product with no expiry that tracks the spot price of ether, from 23 one-hour windows between September 17 and 20.<strong> Of those, 1,406 landed within $2 of $5,499.</strong> That's $7.7 million of the $13.5 million sampled, or 57% of the dollar volume. Bitcoin perpetuals showed the same thing with different numbers: trades near $2,500 and $5,000 made up 54% of the $8.5 million sampled. Going back to June 19, CoinDesk found a recurring size on 43 of 46 sampled days, with the magic number migrating from $4,999 to $9,999 to $3,999, $4,499 and $5,499.</p> <p><strong>The fight started when Beni, a pseudonymous quant and co-founder of Stealth Neolab, <a href=\"https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades\">posted</a> that Kalshi's ether perp was printing $539 million of 24-hour volume against $3.1 million of open interest, </strong>a ratio of 174 to one, and called the repeating $5,500 prints \"undeniable proof\" of wash trading. He also waved around an Artemis chart of prediction-market share, which is a different product from the perps, a mistake Kalshi's crypto chief was happy to point out.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Hey Beni,<br /><br /> Seems like a bunch of wires got crossed here so I just wanted to set the record straight. Your original claim was that Kalshi’s crypto prediction market volume was fake. The chart from Artemis shows prediction market volume share, not perps. We don’t do rebates for… <a href=\"https://t.co/RudV9qzDNn\">https://t.co/RudV9qzDNn</a> <a href=\"https://t.co/QSIpBu0Cm5\">pic.twitter.com/QSIpBu0Cm5</a></p> — IcoBeast.eth🦇🔊 (@icobeast) <a href=\"https://x.com/icobeast/status/2101695769786855678?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Kalshi's <a href=\"https://news.kalshi.com/p/the-facts-behind-kalshi-s-perpetuals-volume\">rebuttal</a> the next day was interesting. <strong>The exchange says the fixed-size prints come from one market maker resting orders of a set size and getting picked off by \"many takers.\" </strong>Its own numbers show the takers winning; in one hypothetical it walks through, the aggressors clear about $98,000. Self-trades are blocked at the matching engine, it runs surveillance for pre-arranged trades, and it has \"seen no evidence of collusion or wash trades.\"</p> <p><strong>Take all of that at face value and Kalshi has still described a market maker that loses money on every fill and keeps quoting anyway.</strong> The rebuttal explains why. Its example liquidity deal pays a firm $100,000 a month to keep bids and offers of at least $5,000 resting within 0.1% of each other, 95% of every hour. The money is for being on the book. A quote of exactly $5,000, or $5,499, is what a contract written that way produces.</p> <h2>The Subsidy Stack</h2> <p>Which raises the question Kalshi's rebuttal doesn't ask of itself: why does the market maker keep doing this?<strong> The answer is that Kalshi pays it to, through three separate programs.</strong></p> <p><strong>The resting-liquidity stipend is the first.</strong> <strong>The second is a fee rebate</strong>. A June 24 <a href=\"https://www.cftc.gov/filings/orgrules/rules0625267305.pdf\">filing</a> with the CFTC set up a temporary program that hands self-clearing members back all of their net maker and taker fees on perps each month, with two guardrails: no double-paying incentives on the same volume, and no trade may end up net-negative in fees once the maker and taker sides are combined. Free trading for the biggest accounts, but not paid trading.</p> <p><strong>The third would go further. </strong>A September 2 <a href=\"https://www.cftc.gov/filings/orgrules/rules09022622952.pdf\">filing</a> cuts the taker fee on crypto perps to 0.3 basis points, or 0.003%, and pays the maker a net rebate of the same 0.3 basis points. The filing makes that live \"upon Exchange notice, but not earlier than 5:00 PM ET on September 16, 2026.\" <strong>Kalshi says the notice hasn't gone out and the program isn't running</strong>, so it can't be what generated the September 17-20 tape. Nobody outside Kalshi can currently check that.</p> <p>Kalshi also runs a retail-facing <a href=\"https://help.kalshi.com/en/articles/13823850-what-is-the-kalshi-volume-incentive-program\">Volume Incentive Program</a> that splits a cashback pool by each trader's share of volume during reward periods. Market makers with existing agreements are excluded. Whether it touched the disputed markets isn't disclosed.</p> <p><strong>Put together, the stipend pays one side to post the $5,499 quote and the fee rebate makes it free for the other side to hit it.</strong> The repeating number is the incentive structure working as written.</p> <h2>The CFTC Wrote The Memo Five Weeks Early</h2> <p>On August 12 the CFTC's Division of Market Oversight put out a <a href=\"https://www.cftc.gov/csl/26-23/download\">staff advisory</a>, Letter 26-23, whose stated focus is \"incentive programs established in connection with prediction markets.\" It warns that <strong>\"volume-based rewards with steep tiers or threshold bonuses can encourage participants to trade solely to reach volume targets, heightening risks of wash-trading, pre-arranged trading,\"</strong> and, separately, that \"market-maker programs that guarantee net profits or cover participant losses through stipends and rebates may incentivize artificial strategies.\" Exchanges are told to build surveillance around the specific behavior each program invites.</p> <p><strong>The advisory names no exchange and finds nothing against anyone.</strong> Kalshi's response, that CME, Cboe and NYSE all pay for liquidity too, is true and beside the point. </p> <h2>Real Trades, Fake Signal</h2> <p>Rajiv Sethi, an economist at Barnard College, published the cleanest <a href=\"https://rajivsethi.substack.com/p/volume-inflation-without-wash-trading\">account</a> of the mechanism on Wednesday - and it doesn't necessarily point to cheating. <strong>In his reading, \"the volume rewards paid by Kalshi to the market maker are flowing in part to aggressive traders who are able to move before stale orders can be cancelled.</strong>\" The fee refund makes it worse, because refunding the taker's fee \"aggravates the adverse selection problem faced by liquidity providers.\" His verdict: \"By channeling funds to aggressive low latency traders through the market makers, the exchange is undoing the liquidity provision that the rewards were meant to boost.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T18:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 14:05</span>",
-    "link": "https://www.zerohedge.com/crypto/kalshis-5499-question-wash-trading-or-subsidized-volume-machine",
-    "pubDate": "Wed, 23 Sep 2026 18:05:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "More US Homebuyers Apply For Riskier Mortgages As Interest Rates Top 7%",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">More US Homebuyers Apply For Riskier Mortgages As Interest Rates Top 7%</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/more-us-homebuyers-apply-for-riskier-mortgages-as-interest-rates-top-7-percent-6093823?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Andrew Moran via The Epoch Times</a>,</em></p> <p>Higher interest rates pushed prospective homebuyers toward riskier mortgages last week, new industry data show.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2811%29_16.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2811%29_16.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"00ac621a-00ba-49e7-8c73-fa794c42f5b9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2811%29_16.jpg\" /></a></p> <p><strong>The total volume of mortgage applications declined almost 2 percent for the week ending Sept. 18,</strong> according to a report released by the Mortgage Bankers Association on Sept. 23. This represented the third consecutive weekly drop.</p> <p>Applications for a mortgage to purchase a home fell 1 percent and were down 11 percent from the same time a year ago. Refinancing applications also fell to their lowest levels since February 2025, down 3 percent monthly, and were 62 percent lower year over year.</p> <p><em><strong>\"Applications for both refinance and purchase loans declined further last week, noting that the comparison is to the week that included the Labor Day holiday,\"</strong></em> Mike Fratantoni, the group's senior vice president and chief economist, said in a news release.</p> <p>Last week's decline aligned with the sharp increase in interest rates.</p> <p>Because fixed-rate mortgage costs have accelerated in recent weeks, borrowers sought riskier adjustable-rate mortgages - also known as ARMs - Fratantoni added.</p> <p><strong>\"With fixed rates much higher, <u>more borrowers opted for ARMs</u>, with the ARM share reaching 9.8%, as rates for 5/1 ARMs were more than a percentage point lower than those for fixed rate loans,\" he said in a statement.</strong></p> <p>The average contract interest rate for 30-year fixed-rate mortgages rose to 7.12 percent, from 6.97 percent - the highest since May 2024.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_09-03-54.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_09-03-54.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"750e99ad-915e-49d0-9817-37ebb5fb1fdd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_09-03-54.jpg\" /></a></p> <p>Mortgage rates have increased by more than 100 basis points since the United States and Israel launched a joint military operation against Iran in late February. The conflict, approaching the seven-month mark, has sent Treasury bond yields surging.</p> <p><strong>The benchmark 10-year Treasury yield reached 5 percent again midweek, up from 3.96 percent before the war in Iran began.</strong> The mortgage market generally tracks government bond yields, resulting in higher borrowing costs for prospective buyers.</p> <p>ARMs start with a lower fixed rate for three to ten years, then change every six months or annually based on market conditions. This product saves borrowers money upfront but can swing higher or lower based on benchmark rates.</p> <p>Mortgage rates have ticked up slightly so far this week.</p> <p>As of Sept. 22, the average 30-year fixed rate was 7.17 percent, according to Mortgage News Daily.</p> <h2>Fueling Interest Rates</h2> <p>Global energy markets and inflation data have been the driving forces behind interest rates and will determine the Federal Reserve's next policy decision, says Jeff DerGurahian, head economist at loanDepot.</p> <p><strong>\"For now, rates appear to be standing at a fork in the road. Softer inflation and lower oil prices could provide relief, while continued energy pressure could keep mortgage rates near or above 7%,\" DerGurahian said in a note emailed to The Epoch Times.</strong></p> <p>Crude prices have fallen sharply this week, with U.S. oil down about 10 percent to around $91 per barrel. Brent, the international benchmark, returned above $100 midweek.</p> <p>As of Sept. 22, the national average for a gallon of diesel has risen to $6.52, according to the American Automobile Association.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6bb930d3-37c6-4f68-bbe0-15eb5632d729\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06_0.jpg\" /></a></p> <p>Meanwhile, the next major inflation report will be August's personal consumption expenditures (PCE) price index, the Fed's go-to inflation measure.</p> <p>After that, the September consumer price index report will be released in mid-October.</p> <p><strong>The Cleveland Fed projects annual headline consumer inflation will jump to 3.5 percent, but core inflation, which strips out volatile energy and food prices, will hold steady at 2.4 percent.</strong></p> <p>Until then, investors are leaning toward another quarter-point rate hike at the October Federal Open Market Committee policy meeting after the Fed followed through last week on the <a href=\"https://www.theepochtimes.com/business/fed-hikes-interest-rates-for-first-time-in-3-years-6088189?utm_source=partner&utm_campaign=ZeroHedge\">first increase</a> to the benchmark federal funds rate since July 2023.</p> <p><em>\"Those expectations are not set in stone though,\" DerGurahian said.</em></p> <p><em>\"If oil prices move lower or the September core inflation reading comes in softer than expected, the October hike could be pushed further out. Continued improvement could even cause markets to remove one of the three future hikes currently priced in.\"</em></p> <p>Fed Chairman Kevin Warsh will hold the next two-day meeting on Oct. 27 and 28.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T17:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 13:45</span>",
-    "link": "https://www.zerohedge.com/personal-finance/more-us-homebuyers-apply-riskier-mortgages-interest-rates-top-7",
-    "pubDate": "Wed, 23 Sep 2026 17:45:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "US Diesel Craters, EU Prices Skyrocket As Politico Reports White House Preparing Plan For 90-Day Export Ban",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">US Diesel Craters, EU Prices Skyrocket As Politico Reports White House Preparing Plan For 90-Day Export Ban</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Summary: </strong></p> <ul><li><em>New <strong>Politico Report Suggests</strong> White House Preparing For Diesel Export Ban</em></li> <li><em>\"<strong>Definitely Doesn't Work</strong>\": U.S. Energy Sec Rejects Diesel Export Ban, Risks Creating Bigger Supply-Squeeze Later</em></li> </ul><h2>Politico Reports White House Prepares Plan For 90-Day Diesel Exports Ban</h2> <p>Diesel is certainly top of mind in the White House as a <strong>global refining crisis</strong> has sent prices at the pump for the industrial fuel to record-high levels, so high that <strong>Apollo's chief economist, Torsten Slok, <a href=\"https://www.zerohedge.com/markets/apollo-warns-diesel-shock-core-inflation-shock\">warned</a> earlier that it could spark a core inflation shock</strong>.</p> <p>Policy maneuvering by the White House is limited, and what has been floated by Trump and some top Republicans is a diesel export ban, while top desks on Wall Street have warned that it's a terrible idea and <strong>could exacerbate prices around the world</strong>.</p> <p>Earlier, U.S. Energy Secretary Chris Wright was at odds with <a href=\"https://www.zerohedge.com/political/live-trump-takes-global-stage-un-declare-he-reshaping-world\">Trump's call for a diesel export ban</a>; Wright <a href=\"https://www.zerohedge.com/energy/definitely-doesnt-work-us-energy-sec-rejects-diesel-export-ban-risks-creating-bigger-supply\">said</a>, \"<strong>The blunt tool of banning diesel exports definitely doesn't work.\"</strong></p> <p>Around lunchtime in New York, a new <a href=\"https://www.politico.com/news/2026/09/23/white-house-ban-diesel-01089294\">Politico</a> report said the <u><strong>White House was preparing a potential 90-day ban on diesel exports ahead of November's midterm elections.</strong></u></p> <p>The report stated that the <strong>proposal remains under discussion</strong>, with its legal framework unresolved. Politico cited five people familiar with the talks.</p> <p>\"What has overpowered cooler heads [in the White House] is the absolutely, sky-is-falling, we-have-to-do-something concern about prices at the pump\" faction, said this person, who was granted anonymity to discuss conversations with White House officials. \"<strong>That camp has been swept aside by the political camp, which says, 'dammit, something has to happen.'\"</strong></p> <p><strong>AAA Diesel v. Gas at pump</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"51ba7886-d238-48bf-97a7-ec0680b233c4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06.jpg\" /></a></p> <p>A White House official commented on the report, <u><strong>calling it \"another fake news story from Politico.\"</strong></u></p> <p>The immediate price action in the fuel markets was:</p> <ul><li><em><strong>US DIESEL FUTURES SINK</strong> MORE THAN 7% TO INTRADAY LOW</em></li> <li><em><strong>EUROPEAN DIESEL FUTURES SURGE</strong> OVER 7% TO SESSION HIGH</em></li> </ul><p>Here's what happened:</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_13-20-50.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_13-20-50.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"06d9a2a8-ccf3-4f65-9ff3-c674c59f2de2\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_13-20-50.png\" /></a></p> <p>Last week, Barclays refining and midstream analyst Theresa Chen <a href=\"https://www.zerohedge.com/energy/barclays-warns-potential-us-diesel-export-ban-could-backfire\">warned</a> clients that a <strong>proposed U.S. diesel export ban would be \"detrimental to the US refining complex and unlikely to provide the intended price relief.\"</strong></p> <p>Chen outlined one major problem: <b>keeping diesel inside the country does not guarantee it can reach gas pumps.</b></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-09-16_07-53-16.png?itok=ODhM7PXw\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-09-16_07-53-16.png?itok=ODhM7PXw\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5afd320f-eafd-4e31-bc2d-587656a735ab\" data-responsive-image-style=\"inline_images\" height=\"240\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/2026-09-16_07-53-16.png?itok=ODhM7PXw\" width=\"500\" /></a></strong></p> <p>On Tuesday, Goldman Sachs energy analyst Nikhil Bhandari <a href=\"https://www.zerohedge.com/energy/goldman-warns-nightmare-refining-crisis-could-prolong-diesel-gas-price-pain-through-2027\">told clients</a> the <strong>global refining system will be stretched through 2027</strong>, with diesel and gas prices expected to remain elevated.</p> <p>The latest EIA data (2025) shows that Mexico is the largest buyer of U.S. diesel, followed by Chile, Brazil, the Netherlands, and the UK.</p> <ul><li><em><b>Mexico</b>: ~220,000 b/d (17% of total distillate exports). Still #1 but down ~18% from 2024. Mexico imports large volumes of U.S. refined products (gasoline and diesel) while sending heavier crude north.</em></li> <li><em><b>Chile</b>: Second-largest destination; volumes rose ~15–16k b/d from 2024.</em></li> <li><em><b>Brazil</b>: ~103,000 b/d (third). This is well below earlier peaks near 200k b/d; Brazil has taken more discounted Russian barrels since 2022 sanctions redirected Russian diesel away from Europe.</em></li> <li><em><b>Netherlands</b>: ~98,000 b/d (major European trading hub/re-export point).</em></li> <li><em><b>United Kingdom</b>: ~89,000 b/d (record annual average).</em></li> </ul><p><em>A case of resource nationalism? Or is the Politico report \"another fake news story,\" as a White House source cited in the report suggests?</em></p> <h2>\"Definitely Doesn't Work\": U.S. Energy Sec Rejects Diesel Export Ban, Risks Creating Bigger Supply-Squeeze Later</h2> <p><em>President Trump will not be pleased...</em></p> <p>U.S. Energy Secretary Chris Wright has publicly opposed calls for a ban on U.S. diesel exports, arguing on Wednesday that the measure would backfire by increasing gasoline and jet fuel prices.</p> <p><em><strong>\"The blunt ​tool of banning diesel exports definitely doesn't ‌work,\"</strong></em> ⁠Wright said at an event in New York, as reported by Reuters.</p> <p>Wright said restricting exports would leave refiners with excess diesel inventories, forcing them to cut refinery output.</p> <p>Lower refinery runs, he warned, would tighten supplies of other fuels, ultimately driving up costs for consumers and businesses.</p> <p><strong>His comments put him at odds with President Trump</strong>, who signaled support for the idea on Tuesday as diesel prices surge to record highs in the U.S. and Europe (and Treasury Secretary Bessent has been assigned to see \"if it's feasible.\"</p> <p>Trump's comments already sent European pries for the fuel surging.</p> <p>With flows from the region's top supplier at risk, Bloomberg reports that <strong>European diesel's premium to Brent crude jumped to more than $95 a barrel on Wednesday, a record in Bloomberg data going back to 2011</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-35-45.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-35-45.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7e390139-8cb7-4903-9058-f44bcfa31826\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-35-45.jpg\" /></a></p> <p>Known as crack spread, the indicator has been keenly watched by central bankers as they seek to tame inflation. The equivalent measure in the U.S., meanwhile, weakened.</p> <p>Trump's threat comes as Europe is already grappling with the loss of diesel shipments from the Middle East, and Russian export curbs have tightened the global fuel market further. The US has become Europe's main overseas supplier, with American exports of the workhorse fuel surging to a weekly record near 2 million barrels a day last month.</p> <p>A key U.S. oil industry group <a href=\"https://www.api.org/news-policy-and-issues/news/2026/09/22/a-diesel-export-ban-would-wreak-havoc-at-home-and-abroad-heres-why\">cautioned against the move</a>, saying it could lower American fuel production and damage the global economy.</p> <p><strong>Of the 8 million barrels of diesel traded globally by sea each day, the U.S. supplies about 1.5 million of them - about 20%</strong>. An export ban would remove the single largest source of global diesel from the market, and the consequences could be catastrophic.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-37-20.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-37-20.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0b96d6c9-b386-4167-a7ba-d3c9356ada63\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-37-20.jpg\" /></a></p> <p>\"Restricting exports is not a solution to high prices,\" the American Petroleum Institute says.</p> <p><em><strong>\"Removing US diesel from the market could instead result in reduced refinery runs, global economic damage and even higher US prices.\"</strong></em></p> <p>Indeed, as Bloomberg macro strategist, Michael Ball, write this morning,while The White House may be able to engineer a brief drop in U.S. diesel prices by limiting exports, it <strong>risks creating a bigger supply problem down the road</strong>.</p> <p>With <strong>distillate stocks at seasonally record lows</strong>...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-31-03_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-31-03_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"702790d2-64c9-4be0-a927-712f07275e13\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-31-03_0.jpg\" /></a></p> <p>...the appeal is obvious with U.S. <strong>diesel above $6.50 a gallon</strong>...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"51ba7886-d238-48bf-97a7-ec0680b233c4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-43-06.jpg\" /></a></p> <p>But <strong>a broad curb could strand as much as 1.5 million barrels a day, roughly 29% of U.S. diesel output</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-42-31.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-42-31.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"144ed2ac-a1c7-4e17-9730-095334db575b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_08-42-31.jpg\" /></a></p> <p>If enacted, Ball writes,<strong> the effects would be uneven across the U.S.</strong></p> <p>A surplus would build on the Gulf Coast, while pipeline, shipping and fuel-specification constraints limit how easily those barrels can reach tighter East and West Coast markets.</p> <p>Bloomberg Intelligence estimates Gulf Coast storage could only absorb about three weeks of net diesel exports before constraints bite.</p> <p><strong>The global impact would be worse.</strong></p> <p>Kpler argues there is no real replacement for U.S. export volumes, leaving Latin America and Northwest Europe particularly exposed and increasing competition for Indian barrels.</p> <p>China could compound the squeeze as domestic inventories fall and the risk of renewed export curbs rises.</p> <p><strong>The response from refiners would create a negative feedback loop. </strong></p> <p>If trapped barrels crush margins, refiners are incentivized to cut runs and undertake maintenance.</p> <p>S&P Global Energy estimates crude runs might need to fall by nearly 2 million barrels a day - more than 10% of the current production level - to clear the surplus.</p> <p><strong>That is the asymmetry</strong>: <em>lower U.S. diesel prices first, tighter global product markets follow, and potentially less U.S. fuel supply later. </em></p> <p><strong>The more aggressive the restriction, the greater the risk that today's price relief becomes tomorrow's supply problem.</strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T17:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 13:40</span>",
-    "link": "https://www.zerohedge.com/energy/definitely-doesnt-work-us-energy-sec-rejects-diesel-export-ban-risks-creating-bigger-supply",
-    "pubDate": "Wed, 23 Sep 2026 17:40:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Bonds Crash Most Since Liberation Day After Catastrophic 5Y Auction; 2nd Biggest Tail On Record",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Bonds Crash Most Since Liberation Day After Catastrophic 5Y Auction; 2nd Biggest Tail On Record</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Coming into today's 5Y auction, the bond market was collapsing, with yields across the curve soaring but <strong>especially the 5Y exploding a crazy 15bps heading into today's auction (of 5 Year treasuries), </strong>a massive concession which we thought would lead to \"<em>lots of </em>demand\" for today's offering. </p> <blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">*TREASURY 5-YEAR YIELD RISES 15 BASIS POINTS ON DAY TO 4.99%<br /><br /> At least there will be lots of demand for paper in today's 5Y auction</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2102802547664879802?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Boy, were we wrong: moments ago the Treasury published results from today's auction and there were absolutely disastrous.</p> <p>The sale of $70 billion priced at the first 5%+ yield since 2007, 5.033% to be specific <strong>(which means the first 5% cash coupon for today's buyers in 19 years)</strong>, up from 4.391%. But the kicker is that the When Issued traded at 5.001%, meaning the auction tailed by a massive 3.1bps, which is the 2nd highest tail on record.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/5Y%20tail%202nd%20b%20iggest%20ever.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/5Y%20tail%202nd%20b%20iggest%20ever.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2aa3d3cc-3af8-499e-898a-a76233c3ace4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/5Y%20tail%202nd%20b%20iggest%20ever.png\" /></a></p> <p>The bid to cover was ugly: down to 2.212 from 2.371, and the <strong>lowest since December 2018. </strong></p> <p>The internals were even worse: Indirects plunged to 54.31% from 61.51%, the lowest since the depths of covid, in March 2020. And withj Directs inexplicably jumping to 29.92%, the highest since December '25, Dealers were left holding 15.8% of the auction, the most since May 2024.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/5Y%20Sept%202026.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/5Y%20Sept%202026.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f402b971-465a-46c3-b6a2-641e2f269336\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/5Y%20Sept%202026.jpg\" /></a></p> <p>Overall this was a horrific auction, where demand simply was not there contrary to what the When Issued indicated, and the results sparked a fresh rout acorss the curve, with the 10Y last trading just shy of 5.13% in what is shaping up as the worst day for the bond market since Liberation Day.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/10y%20yield%201%20day.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/10y%20yield%201%20day.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f20b0598-7ac7-4220-ac4f-021a6edd28a6\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/10y%20yield%201%20day.png\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T17:31:43+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 13:31</span>",
-    "link": "https://www.zerohedge.com/markets/bonds-crash-most-liberation-day-after-catastrophic-5y-auction-2nd-biggest-tail-record",
-    "pubDate": "Wed, 23 Sep 2026 17:31:43 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets\">Authored by Ezra Reguerra via Cointelegraph</a>,</em></p> <p><strong>US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said financial markets should prepare for \"mass tokenization\" as regulators adapt existing frameworks for blockchain, artificial intelligence and onchain markets.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-big-executives-that-joined-cr.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-big-executives-that-joined-cr.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3ebc7015-a1a3-4857-b875-9654fbf8f9cd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-big-executives-that-joined-cr.jpg\" /></a></strong></p> <p>In remarks delivered Tuesday at the US Treasury Market Conference, Selig <a href=\"https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig11\">said</a> tokenization of real-world assets (RWAs) could become the foundation of a more efficient financial system, enabling near-instant settlement and real-time collateral movement between clearinghouses, intermediaries and users.</p> <p><strong>\"Just as the transition from hand signals to electronic trading advanced our financial system, I believe tokenization can do the same for all asset classes,\"</strong> Selig said, adding that the CFTC would pursue principles-based rules as tokenization and onchain finance evolve.</p> <p>Selig said in August that the <a href=\"https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress\">CFTC would move ahead with crypto rules</a> under its existing authority if Congress did not pass the CLARITY Act. The Senate <a href=\"https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act\">failed to advance the bill</a> on Sept. 15.</p> <p><strong>On Sept. 17, the CFTC <a href=\"https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review\">submitted a regulatory action</a> covering crypto asset transactions and markets for White House review.</strong> The filing is still at the \"prerule\" stage and does not detail the planned regulations.</p> <h2>SEC also moves to bring markets onchain</h2> <p>Officials at the US Securities and Exchange Commission (SEC) have also promoted the development of tokenized markets.</p> <p><strong>In a Bloomberg TV interview, the SEC's Division of Trading and Markets Director Jamie Selway <a href=\"https://x.com/secgov/status/2102509989172826343\">said</a> that tokenization and crypto have recently become politicized but are \"not naturally a politicized function.\"</strong></p> <p>Selway said US success in developing the markets should receive bipartisan support.</p> <p><strong>On Sept. 17, the SEC <a href=\"https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading\">granted a temporary \"Innovation Exemption\"</a> for tokenized US stock trading.</strong></p> <p>The exemption lets certain platforms trade digital versions of US-listed stocks under certain conditions.</p> <p>SEC Chair Paul Atkins said in February that such an exemption could facilitate onchain trading while regulators developed longer-term rules.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T17:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 13:00</span>",
-    "link": "https://www.zerohedge.com/crypto/cftc-chair-pushes-tokenization-sec-opens-door-onchain-stocks",
-    "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Brazil's Socialist Lula Cries 'Foreign Interference' At UN As Bolsonaro Ties Him In Runoff Polls",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Brazil's Socialist Lula Cries 'Foreign Interference' At UN As Bolsonaro Ties Him In Runoff Polls</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>\"<strong>Flávio Bolsonaro has moved marginally ahead of Lula in a potential run-off, with the race effectively tied</strong>,\" Daniel Lavarda, HSBC's head of Brazil macroeconomic research, wrote in a note to clients on Tuesday. </p> <p>Lavarda said, \"<strong>Worsening approval ratings weigh on Lula's prospects, reducing probability of re-election to 18% (per to our model</strong>),\" adding, \"<strong>With the race tied up, the outcome will hinge on late-campaign developments, turnout and ability to mobilize voters</strong>.\" </p> <p>Lavarda's latest note on the Brazilian election continues the theme that the right-wing challenger, Bolsonaro, has a real chance of defeating the unhinged socialist, President Luiz Inácio Lula da Silva. That <a href=\"https://www.zerohedge.com/political/right-wing-bolsonaro-overtakes-socialist-lula-polymarket-brazil-election-nears\">theme largely began</a> when Polymarket's election odds flipped to a Bolsonaro lead on September 10.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-08-28_14-20-20.png?itok=yydngcJz\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-08-28_14-20-20.png?itok=yydngcJz\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cb964dc7-8755-4f7f-b01f-281447b12391\" data-responsive-image-style=\"inline_images\" height=\"269\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/2026-08-28_14-20-20.png?itok=yydngcJz\" width=\"500\" /></a> <figcaption><em>Lula (Left); Bolsonaro (Right)</em></figcaption></figure><p>Now, the <a href=\"https://polymarket.com/event/brazil-presidential-election\">Polymarket bet</a>, with nearly $154 million traded, <strong>shows Bolsonaro leading at 59% versus Lula's 41%.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_07-21-27.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_07-21-27.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6a288aa4-d932-4aa2-ad7b-588ce2292734\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_07-21-27.png\" /></a></p> <p>On Tuesday at the United Nations General Assembly in New York, <strong>Lula cried foul, saying that countries shouldn't interfere in the internal affairs of other nations.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HS047RKbYAASAQE.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HS047RKbYAASAQE.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bc212d04-3248-4c25-9646-af0ad8767dc3\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HS047RKbYAASAQE.jpg\" /></a></p> <p>\"We will not allow the enemies of democracy, whether domestic or foreign, to undermine popular will. Brazilian democracy belongs to Brazilians. Brazil will continue to be a sovereign country,\" Lula said. \"Nobody will turn us away from this path.\"</p> <p><strong>Meanwhile ... </strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_07-19-48.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_07-19-48.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cfeaa64c-998b-452a-b517-df6ed3a26028\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-23_07-19-48.png\" /></a></p> <p>Lula's speech comes as the prospect of a <strong>Bolsonaro win has shifted foreign capital flows back to Brazil</strong>. <a href=\"https://www.zerohedge.com/markets/foreign-capital-returns-brazil-goldman-clients-see-20-stock-rally-bolsonaro-defeating\">Goldman analysts found</a>, after surveying 70 global investors, that EWZ, the US-listed Brazil equity ETF, could be set up for a 20% surge if the right-wing candidate wins.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_16b7d45b.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_16b7d45b.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"34995a0c-6a82-4b0d-83fe-c61402857963\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_16b7d45b.png\" /></a></p> <p><strong>Our technical analysts at <a href=\"https://www.zerohedge.com/premium\">The Market Ear</a></strong> see far greater upside in Brazilian stocks if a Bolsonaro win materializes early next month:</p> <ul><li><a href=\"https://www.zerohedge.com/the-market-ear/brazils-next-big-squeeze-54-upside\"><em>Brazil's Next Big Squeeze: Up To 54% Upside</em></a></li> </ul><p>A Bolsonaro win would <strong>cement a rightward shift across much of South America</strong> as millions reject nation-killing <a href=\"https://www.zerohedge.com/political/forget-reminding-young-people-about-boat-people-south-americas-rejection-socialism\">progressive experiments</a>.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T16:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 12:40</span>",
-    "link": "https://www.zerohedge.com/political/brazils-socialist-lula-cries-foreign-interference-un-bolsonaro-ties-him-runoff-polls",
-    "pubDate": "Wed, 23 Sep 2026 16:40:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Market Warning Signs And The 'Perfect' Hedge",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Market Warning Signs And The 'Perfect' Hedge</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://www.crescat.net/market-warning-signs/\"><em>Via Crescat Capital,</em></a></p> <p>We showed in <a href=\"https://www.crescat.net/investment-research/investor-letters/\">prior letters</a> that the US stock market has recently reached all-time high valuations across a variety of dimensions. Now, <strong>the market is flashing warning signals of a potential major market top based on a variety of divergent technical and cross-market indicators. </strong></p> <p>We show four of these in this letter:</p> <p><strong>New 52-week Highs vs. Lows Chart</strong></p> <p>Normally, when a stock market index moves up and down, the underlying stocks reaching new 52-week highs minus those hitting new 52-week lows go up and down, in sync. One can see that relationship most of the time in the NASDAQ Composite chart below over the last year. Recently, however, it’s been the opposite.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture100.png.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture100.png.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cfe40e1a-b5c5-4bee-ba1a-bccae3136ed0\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture100.png.jpg\" /></a></p> <p>This index just closed at a marginal new all-time high, while the underlying stocks hitting new lows have exceeded those hitting new highs for 17 days straight. Weak, non-confirming market internals can signal a major market top. In this case, a narrow group of large stocks has driven the overall index return to new highs without confirmation from its underlying components.</p> <p><strong>Widening CCC vs. BBB Credit Spreads</strong></p> <p>Credit markets are generally quicker to pick up on deteriorating corporate cash flows than equity markets. While the S&P 500 Index has been hitting new all-time highs over the past six months, US triple-C credit spreads relative to triple-B have widened significantly over the same time, another non-confirming divergence, which we show in the chart below.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture2-77.png.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture2-77.png.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"82ef50cd-cc5e-4a99-b6c7-79daa31d6017\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture2-77.png.jpg\" /></a></p> <p>Similar warning signals of a pending stock market downturn from this indicator can be seen in the same chart historically:</p> <ol><li>A divergence in credit spreads vs. the 2000 tech bubble and stock market top;</li> <li>Trends and levels consistent with the very beginning of the last two major stock market meltdowns and recessions: the 2008 Global Financial Crisis and the 2020 Covid recession; and</li> <li>Deterioration consistent with the 2022 bear market.</li> </ol><p><strong>Recent Negative Correlation of the Advance-Decline Line vs. S&P 500</strong></p> <p>The advance-decline line is a plot of the cumulative sum of daily differences between the number of issues advancing and those declining for a given market index. In capitalization-weighted stock indices, such as the S&P 500, price changes of larger market-cap stocks will have larger effects on index returns. The advance-decline line can provide insight regarding the number of individual stocks participating in a market rally or decline.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture3-77.png.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture3-77.png.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"faf26509-69aa-43f1-8a03-e5d2cf49688d\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture3-77.png.jpg\" /></a></p> <p>Divergence occurs when the underlying index moves in one direction and the advance-decline line for that index moves in the opposite direction. When the advance-decline line is moving down while the underlying index pushes higher, one begins to question the true health and direction of the market.</p> <p>Below is a chart showing the rolling 50-day correlation between the S&P 500 and its cumulative advance-decline line. Over 2026, we have seen their relationship weaken substantially and even turn negative. The last time we saw such divergence was during the peak of the Dotcom bubble.</p> <p><strong>S&P 500 Deterioration of Members Trading Above 200-day Moving Average</strong></p> <p>The percent of members in the S&P 500 trading above their 200-day averages has plunged over the past month, as we show in the chart below, even as the index itself has remained relatively flat, near all-time highs. This divergence points towards a breakdown in market breadth despite apparent top-line stability. Again, performance is becoming increasingly concentrated among a small group of megacaps.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture4-66.png.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture4-66.png.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"be94f1b3-a287-4a05-b941-a13ef3627488\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Picture4-66.png.jpg\" /></a></p> <p>As one can see in the chart, a similar setup emerged in the lead-up to Liberation Day (April 2nd, 2025), where technicals began to weaken before the broad market selloff. Selling pressure and risk reduction were already building beneath the surface ahead of the tariff announcement. The tariff announcement was the spark that lit the fire.</p> <p><strong>The Perfect Hedge</strong></p> <p>What do we see as the perfect hedge for today’s stock market? While no hedge is perfect, to us it means positioning for what we believe offers the strongest potential risk-adjusted outperformance, or alpha, relative to the S&P 500.</p> <p>Today, we believe that opportunity is in gold. More specifically, we see even greater alpha potential in Crescat’s diversified activist precious and critical metals exploration strategy. Junior mining exploration carries operational risks and market volatility, but we believe it offers substantially better value and long-term growth potential than gold itself. That is where our precious metals hedge funds are focused.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-23T16:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 09/23/2026 - 12:20</span>",
-    "link": "https://www.zerohedge.com/markets/market-warning-signs-and-perfect-hedge",
-    "pubDate": "Wed, 23 Sep 2026 16:20:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "2 Midstream Dividend Stocks With Growing Payouts -- One Yielding Over 6%",
-    "desc": "Key PointsEnergy Transfer carries a high yield and is a big beneficiary of the AI data center build-out.",
-    "link": "https://www.nasdaq.com/articles/2-midstream-dividend-stocks-growing-payouts-one-yielding-over-6",
-    "pubDate": "Wed, 23 Sep 2026 18:43:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "You Can't Retire Early if You Don't Solve This Piece of the Puzzle",
-    "desc": "Key PointsYou might assume that you can retire early if you have a lot of savings.",
-    "link": "https://www.nasdaq.com/articles/you-cant-retire-early-if-you-dont-solve-piece-puzzle",
-    "pubDate": "Wed, 23 Sep 2026 18:38:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Worthington (WOR) Q1 2027 Earnings Call Transcript",
-    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-    "link": "https://www.nasdaq.com/articles/worthington-wor-q1-2027-earnings-call-transcript",
-    "pubDate": "Wed, 23 Sep 2026 18:28:08 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "2 Space Stocks That Could Double in 2027 (Hint: Neither of Them Is SpaceX)",
-    "desc": "Key PointsRedwire is expanding into defense technology and commercial space manufacturing at its Huntsville campus.",
-    "link": "https://www.nasdaq.com/articles/2-space-stocks-could-double-2027-hint-neither-them-spacex",
-    "pubDate": "Wed, 23 Sep 2026 18:20:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "ATI Senior VP Timothy Harris Sells 16,500 Shares",
-    "desc": "Key PointsThe transaction was valued at approximately $3.5 million.",
-    "link": "https://www.nasdaq.com/articles/ati-senior-vp-timothy-harris-sells-16500-shares",
-    "pubDate": "Wed, 23 Sep 2026 18:15:01 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Major Averages Shed Ground As Geopolitical Uncertainty, Rate Concerns Weigh",
-    "desc": "(RTTNews) - U.S. stocks drifted lower on Wednesday as higher bond yields and oil's rebound amid uncertainty about Strait of Hormuz reopening rendered the mood weak. Prospects of another interest rate hike by the Federal Reserve weighed as well on sentiment.",
-    "link": "https://www.nasdaq.com/articles/major-averages-shed-ground-geopolitical-uncertainty-rate-concerns-weigh",
-    "pubDate": "Wed, 23 Sep 2026 18:14:12 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Could Retatrutide Be Worth $10 Billion to Eli Lilly?",
-    "desc": "Key PointsEli Lilly has a deep pipeline in its core therapeutic area.",
-    "link": "https://www.nasdaq.com/articles/could-retatrutide-be-worth-10-billion-eli-lilly",
-    "pubDate": "Wed, 23 Sep 2026 18:05:01 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "PC Connection Chairman Patricia Gallup Sells 14,284 Shares",
-    "desc": "Key PointsGallup sold 14,284 shares for a total transaction value of around $1.1 million.",
-    "link": "https://www.nasdaq.com/articles/pc-connection-chairman-patricia-gallup-sells-14284-shares",
-    "pubDate": "Wed, 23 Sep 2026 17:50:01 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's How ON Semiconductor Is Targeting a $213 Billion AI Power Opportunity",
-    "desc": "Key PointsON Semiconductor is shifting toward integrated AI power solutions in response to changes in its end markets.",
-    "link": "https://www.nasdaq.com/articles/heres-how-semiconductor-targeting-213-billion-ai-power-opportunity",
-    "pubDate": "Wed, 23 Sep 2026 17:50:00 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Why Trump banning diesel exports would upset the U.S. oil sector and upend global fuel markets — &#8216;the cure would be far worse than the disease&#8217;",
-    "desc": "An export ban likely would slow U.S. refining and eventually push up all fuel prices, including gasoline, jet fuel, and diesel.",
-    "link": "https://fortune.com/2026/09/23/trump-banning-diesel-exports-upset-oil-sector-upend-global-fuel/",
-    "pubDate": "Wed, 23 Sep 2026 18:04:38 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Trump calls AI oversight a &#8216;globalist scheme&#8217; as Amodei and Altman head to the UN to ask for it",
-    "desc": "The clash comes days before Trump meets Xi Jinping in New York.",
-    "link": "https://fortune.com/2026/09/23/trump-un-ai-globalist-scheme-altman-amodei-security-council/",
-    "pubDate": "Wed, 23 Sep 2026 17:35:30 +0000",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "US senators press for quick Chinese vehicle ban this week as Xi visits",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-senators-aim-to-fasttrack-chinese-vehicle-ban-this-week-as-xi-visits-4913581",
-    "pubDate": "2026-09-23 18:36:45",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Unity options flow shows overwhelming bullish positioning ahead of October expiry",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/unity-options-flow-shows-overwhelming-bullish-positioning-ahead-of-october-expiry-93CH-4913743",
-    "pubDate": "2026-09-23 18:35:18",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Bentley tests wealthy buyers’ interest in going electric with first EV",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bentley-tests-wealthy-buyers-interest-in-going-electric-with-first-ev-4913741",
-    "pubDate": "2026-09-23 18:31:32",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Vertex Pharma options analysis: heavy put activity signals near-term caution",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/vertex-pharma-options-analysis-heavy-put-activity-signals-nearterm-caution-93CH-4913736",
-    "pubDate": "2026-09-23 18:29:51",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Extendicare stock climbing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-extendicare-stock-climbing-today-93CH-4913735",
-    "pubDate": "2026-09-23 18:26:56",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "TSX top decliners on September 23: Endeavour Silver leads with a 12.2% drop",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/tsx-top-decliners-on-september-23-endeavour-silver-leads-with-a-122-drop-93CH-4913730",
-    "pubDate": "2026-09-23 18:20:55",
-    "fetchedAt": "2026-09-23T19:01:34.958Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
-    "desc": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
-    "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-    "pubDate": "Wed, 23 Sep 2026 17:25:26 GMT",
-    "fetchedAt": "2026-09-23T18:01:32.606Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
-    "desc": "The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.",
-    "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
-    "pubDate": "Wed, 23 Sep 2026 17:09:22 GMT",
-    "fetchedAt": "2026-09-23T18:01:32.606Z"
   }
 ]
