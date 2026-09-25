@@ -1,6 +1,278 @@
 [
   {
     "source": "cnbc",
+    "title": "Iran says it's up to U.S. to end war as China presses for de-escalation",
+    "desc": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+    "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+    "pubDate": "Fri, 25 Sep 2026 05:37:21 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
+    "desc": "Oxygen Forensics counted numerous U.S. government agencies among its customers but lied for years about who really controlled it, prosecutors allege.",
+    "link": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
+    "pubDate": "Fri, 25 Sep 2026 05:59:34 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
+    "desc": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
+    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 25 Sep 2026 05:42:45 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+    "desc": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+    "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Rolls-Royce signs 'multi-million' engine deal",
+    "desc": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
+    "link": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 10:14:47 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "bbc",
+    "title": "What's the smallest amount you'd ask a friend to pay back?",
+    "desc": "We ask New Yorkers to share the smallest amount they'd ask a friend to pay back.",
+    "link": "https://www.bbc.co.uk/news/videos/cm9w4n9lrr8eo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 25 Sep 2026 05:28:27 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "bbc",
+    "title": "What to think about when buying travel insurance",
+    "desc": "Consumer expert Harry Kind walks through what to do when buying travel insurance.",
+    "link": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 10:05:26 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Robinhood CEO Vladimir Tenev sells $30.1m of HOOD shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/robinhood-ceo-vladimir-tenev-sells-301m-of-hood-shares-93CH-4916642",
+    "pubDate": "2026-09-25 05:46:20",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Skye Bioscience director Andrew Schwab sells $239,555 in common stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/skye-bioscience-director-andrew-schwab-sells-239555-in-common-stock-93CH-4916641",
+    "pubDate": "2026-09-25 05:46:02",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sampo buys back 5.05 million shares in week 39",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/sampo-buys-back-505-million-shares-in-week-39-93CH-4916634",
+    "pubDate": "2026-09-25 05:35:58",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Japan’s SMBC in talks to raise VPBank stake to about 20%, Reuters reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/japans-smbc-in-talks-to-raise-vpbank-stake-to-about-20-reuters-reports-4916633",
+    "pubDate": "2026-09-25 05:32:54",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sampo repurchases 5 million shares in week 39",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/sampo-repurchases-5-million-shares-in-week-39-93CH-4916632",
+    "pubDate": "2026-09-25 05:32:35",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Airbus finds quality issue in A321neo fuselages; no safety risk - report",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/airbus-finds-quality-issue-in-a321neo-fuselages-no-safety-risk--report-93CH-4916630",
+    "pubDate": "2026-09-25 05:29:48",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Suzuki aims to slash vehicle development time to 24 months",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/suzuki-aims-to-slash-vehicle-development-time-to-24-months-93CH-4916629",
+    "pubDate": "2026-09-25 05:29:16",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump to wrap up Xi summit with a tour of US archives",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-to-wrap-up-xi-summit-with-a-tour-of-us-archives-4916620",
+    "pubDate": "2026-09-25 05:18:33",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sb financial director Richard Hardgrove sells $107,654 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/sb-financial-director-richard-hardgrove-sells-107654-in-stock-93CH-4916627",
+    "pubDate": "2026-09-25 05:15:56",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investing",
+    "title": "China’s Xi calls for cooperation with U.S. on AI",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/chinas-xi-calls-for-cooperation-with-us-on-ai-4916619",
+    "pubDate": "2026-09-25 05:10:31",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
+    "desc": "<p>IIF highlights challenges facing US, France, UK and Japan, while OECD and IMF also voice global concerns</p><p>Three heavyweight international bodies have issued stark warnings about the risks of rising debt levels and soaring borrowing costs across large economies.</p><p>The Paris-based Organisation for Economic Co-operation and Development (OECD), the International Monetary Fund (IMF) and the International Institute of Finance (IIF), the voice of global banking, on Wednesday highlighted the dangers of soaring interest rates on $365tn (£275tn) in global borrowing.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
+    "pubDate": "Wed, 23 Sep 2026 09:27:52 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "ft",
+    "title": "Japanese government bond yields hit new high as global sell-off continues",
+    "desc": "Sharp increase in interest rate expectations across advanced economies, says Capital Economics",
+    "link": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+    "pubDate": "Fri, 25 Sep 2026 05:41:20 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump raised weak yen with Takaichi, Japan finance minister says",
+    "desc": "Satsuki Katayama signals prospect of fresh currency intervention with US Treasury secretary Scott Bessent’s blessing",
+    "link": "https://www.ft.com/content/901ccfbc-6ddb-4fb3-b74d-1f337efca9ff?syn-25a6b1a6=1",
+    "pubDate": "Fri, 25 Sep 2026 04:58:32 GMT",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Oracle-Blue Owl project delay puts spotlight on AI financing - report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646962-oracle-blue-owl-project-delay-puts-spotlight-on-ai-financing---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 01:43:31 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Asian markets trade mixed amid yield volatility and lower U.S. futures",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646961-asian-markets-trade-mixed-amid-yield-volatility-and-lower-us-futures?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 01:35:40 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Goldman Sachs underweight hyperscalers amid debt flood",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646968-goldman-sachs-underweight-hyperscalers-amid-debt-flood?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 01:20:53 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Inspira Technologies Oxy GAAP EPS of -$0.14 misses by $0.26, revenue of $1.55M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646967-inspira-technologies-oxy-gaap-eps-of-014-misses-by-026-revenue-of-155m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 01:08:59 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "RAVE Restaurant GAAP EPS of $0.06, revenue of $3.4M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646965-rave-restaurant-gaap-eps-of-006-revenue-of-34m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 01:02:58 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Trio-Tech Non-GAAP EPS of $0.02, revenue of $14.9M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646964-trio-tech-non-gaap-eps-of-002-revenue-of-149m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 00:59:50 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "SoftBank to sell Meta's Ray-Ban Gen 3 glasses starting Sept. 25",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4646950-softbank-to-sell-metas-ray-ban-gen-3-glasses-starting-sept-25?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 25 Sep 2026 00:57:48 -0400",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "4 No-Brainer ETFs I'm Buying if the Stock Market Crashes in 2026",
+    "desc": "These fast-growing ETFs will likely be trading at attractive valuations after a market pullback.",
+    "link": "https://www.fool.com/investing/2026/09/25/4-no-brainer-etfs-im-buying-if-the-stock-market-cr/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 05:20:00 +0000",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Costco Just Showed Why It's a Better Buy Than Walmart",
+    "desc": "Key PointsCostco reported 6.7% comparable sales growth and beat estimates on the top and bottom lines in its earnings report.",
+    "link": "https://www.nasdaq.com/articles/costco-just-showed-why-its-better-buy-walmart",
+    "pubDate": "Fri, 25 Sep 2026 05:50:01 +0000",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "HelloFresh Sees Q3 Adj. EBITDA, Revenue Below Market View; Cuts FY26 Outlook",
+    "desc": "(RTTNews) - HelloFresh SE (HFG.DE, HLFFF), a German meal-kit company, announced that it expects third-quarter adjusted EBITDA and revenue below market expectations amid weak performance in the back-to-school period. Citing the issue, the company trimmed its outlook for the financ",
+    "link": "https://www.nasdaq.com/articles/hellofresh-sees-q3-adj-ebitda-revenue-below-market-view-cuts-fy26-outlook",
+    "pubDate": "Fri, 25 Sep 2026 05:08:47 +0000",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Meta Has Lost More Than $85 Billion on Its Glasses and Headsets. Here's What Would Stop It.",
+    "desc": "Key PointsReality labs has lost more than $85 billion since the end of 2020.",
+    "link": "https://www.nasdaq.com/articles/meta-has-lost-more-85-billion-its-glasses-and-headsets-heres-what-would-stop-it",
+    "pubDate": "Fri, 25 Sep 2026 04:54:01 +0000",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Indian Shares Struggle For Direction In Early Trade",
+    "desc": "(RTTNews) - Indian shares were little changed in early trade on Friday after falling sharply in the previous session on concerns over rising oil prices and bond yields in international markets.",
+    "link": "https://www.nasdaq.com/articles/indian-shares-struggle-direction-early-trade",
+    "pubDate": "Fri, 25 Sep 2026 04:30:35 +0000",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Explainer-The road ahead for Volkswagen’s restructuring",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/explainerthe-road-ahead-for-volkswagens-restructuring-4916617",
+    "pubDate": "2026-09-25 05:06:30",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nikkei 225 surges to 66,185 but stuck in range: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
+    "pubDate": "2026-09-25 05:02:03",
+    "fetchedAt": "2026-09-25T06:01:37.208Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
     "desc": "Oil fell Friday, following a report that U.S. and Iranian negotiators are discussing a phased deal to end the standoff in the Persian Gulf.",
     "link": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
@@ -6125,278 +6397,6 @@
     "desc": "<p>Rising cost of 10-year gilt to near 19-year high hikes upfront cost of government investment and limits chancellor’s room for manoeuvre</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p><p></p></li></ul><p>A global sell-off in government bonds has put fresh upward pressure on UK borrowing costs, before a tough budget for John Healey next month.</p><p>The yield – effectively the interest rate – on 10-year UK bonds, known as gilts, had risen to 5.38% by mid-morning on Thursday, approaching the 19-year high set last week.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
     "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
     "pubDate": "Thu, 24 Sep 2026 11:41:08 GMT",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – business live",
-    "desc": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
-    "pubDate": "Thu, 24 Sep 2026 11:29:15 GMT",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "guardian",
-    "title": "EU spends three times more on imports from China than bloc exports there",
-    "desc": "<p>Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in July</p><p>Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.</p><p>Customs data showed the gap between the EU’s imports from <a href=\"https://www.theguardian.com/world/china\">China</a> and exports to China, the trade deficit, ran at more than €1bn (£860m) a day in July.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-    "pubDate": "Tue, 22 Sep 2026 11:54:08 GMT",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Global leaders urged to join initiative to fight extreme inequality",
-    "desc": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
-    "pubDate": "Fri, 18 Sep 2026 06:00:11 GMT",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "ft",
-    "title": "Trump says he wants to leave AI ‘exactly where it is’ ahead of Xi meeting",
-    "desc": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
-    "link": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
-    "pubDate": "Thu, 24 Sep 2026 11:48:36 GMT",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "ft",
-    "title": "Russia could attack Nato country within months, Denmark warns",
-    "desc": "Intelligence service cites ‘low but growing risk’ of troop movement into neighbouring country or attack on infrastructure",
-    "link": "https://www.ft.com/content/b4141b98-0118-4624-8cb0-5d158ba0751d?syn-25a6b1a6=1",
-    "pubDate": "Thu, 24 Sep 2026 10:44:08 GMT",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Acadia falls after mid-stage trial setback for Alzheimer&#x2019;s psychosis therapy",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646558-acadia-stock-falls-after-late-stage-trial-setback?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 08:03:08 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Upbound Group declares $0.39 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646561-upbound-group-declares-0_39-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 08:02:42 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BMO's asset management unit launches autocallable ETF",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646556-bmos-asset-management-unit-launches-autocallable-etf?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 08:01:15 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Powerlaw Corp. declares $0.0812 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646559-powerlaw-corp-declares-0_0812-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 08:00:57 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BlackBerry posts a beat-and-raise helped by QNX growth",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646549-blackberry-posts-beat-and-raise-helped-by-qnx-growth?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 07:57:34 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Five energy stocks with long-running Sell Quant ratings",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646552-five-energy-stocks-with-long-running-sell-quant-ratings?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 07:57:30 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AXS Astoria Real Assets ETF declares $0.0683 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4646555-axs-astoria-real-assets-etf-declares-0_0683-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 24 Sep 2026 07:55:48 -0400",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Solar Stocks",
-    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-solar-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Gold Stocks Right Now",
-    "desc": "The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you plan to diversify your portfolio in light of recent events, investing in gold stocks could be a good choice. Gold stocks not only track the movements of gold prices that tend to rise in uncertain times, but they also generally gain value in a rising stock market.&#160; Gold stocks could serve as a &#8230; Continued The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-gold-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $10",
-    "desc": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#8230; Continued The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-under-10",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Tech Stocks Right Now",
-    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-tech-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $5",
-    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-stocks-under-5",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Financial Stocks for the Week",
-    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Semiconductor Stocks",
-    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Biotech Stocks Right Now",
-    "desc": "The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Biotech stocks are in the eye of the storm as the world recovers from the global pandemic. Government institutions and professional traders are banking on biotech stocks to continually develop a vaccine and boosters that can eradicate COVID-19.&#160; Tilt your stock portfolio toward biotech companies now and you could stand to make substantial profits in &#8230; Continued The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-biotech-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Energy Stocks",
-    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-energy-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Oil Stocks Right Now",
-    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-oil-stocks",
-    "pubDate": "Thu, 24 Sep 2026 11:12:46 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The runaway 10-year yield is triggering a bad memory for investors",
-    "desc": "An ominous sign on bonds.",
-    "link": "https://finance.yahoo.com/economy/article/the-runaway-10-year-yield-is-triggering-a-bad-memory-for-investors-094923324.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 09:49:23 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
-    "desc": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. The Trump-Xi summit is on tap.",
-    "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:58:29 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Bank Stocks That Concern Us",
-    "desc": "Banks use their capital and expertise to help businesses grow while offering consumers essential financial products like mortgages and credit cards. But worries about an economic slowdown and potential credit deterioration have kept sentiment in check, and over the past six months, the banking industry’s 8.2% return has trailed the S&P 500 by 10.2 percentage points.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-concern-us-114454897.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:44:54 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "2 Energy Stocks Worth Investigating and 1 We Find Risky",
-    "desc": "Even if they go mostly unnoticed, energy businesses are the backbone of our country, providing the energy we need to power our lives and businesses.But they are at the whim of volatile macroeconomic factors that influence capital spending (like interest rates and commodity prices), and the market seems convinced that demand will slow. Due to this bearish outlook, the industry has tumbled by 2.4% over the past six months. This performance is a stark contrast from the S&P 500’s 18.4% gain.",
-    "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-worth-investigating-112854155.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:28:54 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "If a Recession Is Coming, I'm Buying These 4 Top ETFs on the Dip",
-    "desc": "Each of these exchange-traded funds offers a different way to make a defensive pivot.",
-    "link": "https://www.fool.com/investing/2026/09/24/if-recession-coming-buying-these-4-top-etfs-dip/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:20:00 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up",
-    "desc": "Index inclusion and fresh capital reshape the backdrop for newcleo newcleo (NasdaqGS:NWCL) has just been added to the Nasdaq Composite Index, only days after closing a US$216 million private placement linked to its Nasdaq Global Select Market listing. Despite the high profile Nasdaq listing and index inclusion, newcleo’s recent trading has been weak, with the share price down 16.7% over the past week and 26.3% over the last month. This has contributed to a 23.1% decline in 1 year total...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/newcleo-nwcl-following-nasdaq-inclusion-111236777.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:12:36 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Buy 3 AI-Powered Medical Stocks to Strengthen Your Portfolio in Q4",
-    "desc": "AI adoption is reshaping medical devices, with ISRG, TEM and TMO leveraging AI to advance precision medicine and drug development.",
-    "link": "https://finance.yahoo.com/healthcare/articles/buy-3-ai-powered-medical-102200254.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 10:22:00 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Bank Stock on Our Watchlist and 2 Facing Headwinds",
-    "desc": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Still, investors are uneasy as banks face challenges from credit quality concerns and potential regulatory changes. These doubts have certainly contributed to banking stocks’ recent underperformance - over the past six months, the industry’s 8.2% gain has fallen behind the S&P 500’s 18.4% rise.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-bank-stock-watchlist-2-115254257.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:52:54 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock futures fall as 30-year Treasury yield hits 2004 high",
-    "desc": "The odds of a Fed rate hike in October climbed above 75%, up from roughly 49% just a week ago",
-    "link": "https://qz.com/stock-futures-fall-treasury-yields-rate-hike-odds-092426?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:21:31 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Futures Drop as Surging Bond Yields Send a Shiver Through Markets",
-    "desc": "Stocks were on track to open lower on Thursday as investors continued to worry about the run-up in bond yields, which just surged to their highest level in nearly two decades. Nasdaq 100 futures dropped 1.3%. The selloff came as bond yields rose again.",
-    "link": "https://finance.yahoo.com/m/516657a2-6a15-34b0-9e0c-b8384a4b9d03/stock-futures-drop-as-surging.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 09:55:18 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Everpure Sees AI Demand Underpinning Revenue Growth. This Analyst Says Stock Price Could Double.",
-    "desc": "Everpure stock advances after the data-storage company says revenue growth will continue to accelerate in fiscal 2028.",
-    "link": "https://finance.yahoo.com/m/3438ee18-6764-33ef-9f68-4f64bde95131/everpure-sees-ai-demand.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:17:00 +0000",
-    "fetchedAt": "2026-09-24T12:06:29.790Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "BlackBerry Posts Strong Earnings, Driven by Car Software. The Stock Jumps.",
-    "desc": "BlackBerry reports fiscal second-quarter earnings per share of 7 cents from sales of $163.3 million. Wall Street was looking for 4 cents and $142.5 million, respectively.",
-    "link": "https://finance.yahoo.com/m/db75900b-c5b5-3fa5-8146-70815a6a9c21/blackberry-posts-strong.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 11:14:00 +0000",
     "fetchedAt": "2026-09-24T12:06:29.790Z"
   }
 ]
