@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-05T13:07:01.490Z",
+  "lastRun": "2026-10-05T13:12:02.394Z",
   "fetched": 1,
   "failed": 13,
   "newItems": 0,
@@ -8,8 +8,9 @@
     {
       "id": "cnbc",
       "name": "CNBC",
-      "items": 30,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "bbc",
@@ -84,9 +85,8 @@
     {
       "id": "nasdaq",
       "name": "Nasdaq",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 15,
+      "added": 0
     },
     {
       "id": "fortune",
