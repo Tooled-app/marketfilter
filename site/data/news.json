@@ -1,6 +1,166 @@
 [
   {
     "source": "cnbc",
+    "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+    "desc": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+    "link": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+    "pubDate": "Mon, 05 Oct 2026 10:20:38 GMT",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump's nemesis in Europe: Why Spain's Sanchez is calling a snap election",
+    "desc": "Pedro Sánchez has been Europe's voice of dissent on U.S. foreign policy. Back home, the plight of an 87-year-old woman has ignited public anger.",
+    "link": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+    "pubDate": "Mon, 05 Oct 2026 10:50:40 GMT",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
+    "desc": "Cerebras stock climbed in premarket trading after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner.\"",
+    "link": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
+    "pubDate": "Mon, 05 Oct 2026 10:06:13 GMT",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+    "desc": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+    "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+    "pubDate": "Mon, 05 Oct 2026 10:42:51 GMT",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Three tax votes in November that will affect high earners",
+    "desc": "Voters will decide whether to raise or lower taxes on the wealthy in multiple states next month, with California leading the way with a potential wealth tax.",
+    "link": "https://www.cnbc.com/2026/10/05/three-tax-votes-in-november-that-will-affect-high-earners.html",
+    "pubDate": "Mon, 05 Oct 2026 10:00:02 GMT",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "ACLS Crosses Above Average Analyst Target",
+    "desc": "In recent trading, shares of Axcelis Technologies Inc (Symbol: ACLS) have crossed above the average analyst 12-month target price of $143.60, changing hands for $147.77/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgr",
+    "link": "https://www.nasdaq.com/articles/acls-crosses-above-average-analyst-target",
+    "pubDate": "Mon, 05 Oct 2026 10:51:04 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "MaxLinear Reaches Analyst Target Price",
+    "desc": "In recent trading, shares of MaxLinear Inc (Symbol: MXL) have crossed above the average analyst 12-month target price of $101.00, changing hands for $105.93/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valua",
+    "link": "https://www.nasdaq.com/articles/maxlinear-reaches-analyst-target-price",
+    "pubDate": "Mon, 05 Oct 2026 10:51:01 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Avnet Reaches Analyst Target Price",
+    "desc": "In recent trading, shares of Avnet Inc (Symbol: AVT) have crossed above the average analyst 12-month target price of $106.20, changing hands for $106.94/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuation",
+    "link": "https://www.nasdaq.com/articles/avnet-reaches-analyst-target-price",
+    "pubDate": "Mon, 05 Oct 2026 10:50:56 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Arrow Electronics Reaches Analyst Target Price",
+    "desc": "In recent trading, shares of Arrow Electronics, Inc. (Symbol: ARW) have crossed above the average analyst 12-month target price of $235.40, changing hands for $242.01/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrad",
+    "link": "https://www.nasdaq.com/articles/arrow-electronics-reaches-analyst-target-price",
+    "pubDate": "Mon, 05 Oct 2026 10:50:46 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "VECO Crosses Above Average Analyst Target",
+    "desc": "In recent trading, shares of Veeco Instruments Inc (Symbol: VECO) have crossed above the average analyst 12-month target price of $54.75, changing hands for $57.38/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade",
+    "link": "https://www.nasdaq.com/articles/veco-crosses-above-average-analyst-target",
+    "pubDate": "Mon, 05 Oct 2026 10:50:42 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
+    "desc": "Key PointsArtificial intelligence (AI) is driving increased index and tech sector concentration in semiconductor and hardware companies.",
+    "link": "https://www.nasdaq.com/articles/meet-low-cost-vanguard-etf-324-invested-nvidia-broadcom-micron-amd-intel-and-lam-research",
+    "pubDate": "Mon, 05 Oct 2026 10:50:00 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Vaxcyte's VAX-31 Meets Key Phase 3 Goals Against Prevnar 20 And Capvaxive; Stock Up",
+    "desc": "(RTTNews) - Monay, Vacyte (PCVX) reported positive topline results from its pivotal Phase 3 OPUS-1 trial, with VAX-31 meeting all prespecificed primary endpoints in adults.",
+    "link": "https://www.nasdaq.com/articles/vaxcytes-vax-31-meets-key-phase-3-goals-against-prevnar-20-and-capvaxive-stock",
+    "pubDate": "Mon, 05 Oct 2026 10:46:26 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AMD Has Promised OpenAI and Meta Up to 320 Million Shares for a Penny Each. Here's What That Does to the Share Count.",
+    "desc": "Key PointsAMD gave warrants to OpenAI and Meta for up to 160 million shares apiece at $0.01 a share, vesting as each buys up to 6 gigawatts of its AI chips.",
+    "link": "https://www.nasdaq.com/articles/amd-has-promised-openai-and-meta-320-million-shares-penny-each-heres-what-does-share-count",
+    "pubDate": "Mon, 05 Oct 2026 10:41:02 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Indian Shares Climb On Fading Fed October Hike Bets",
+    "desc": "(RTTNews) - Indian shares rose sharply on Monday as investors trimmed bets on an aggressive policy tightening cycle by the U.S. Federal Reserve.",
+    "link": "https://www.nasdaq.com/articles/indian-shares-climb-fading-fed-october-hike-bets",
+    "pubDate": "Mon, 05 Oct 2026 10:35:58 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Here's How Much You'd Need to Invest in VIG to Generate $1,000 per Month in Dividends",
+    "desc": "Key PointsThe Vanguard Dividend Appreciation ETF (VIG) is one of the best long-term dividend growth funds available.",
+    "link": "https://www.nasdaq.com/articles/heres-how-much-youd-need-invest-vig-generate-1000-month-dividends",
+    "pubDate": "Mon, 05 Oct 2026 10:35:00 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Cenovus Energy To Acquire Athabasca Oil",
+    "desc": "(RTTNews) - Cenovus Energy (CVE.TO, CVE) announced it has entered into a definitive arrangement agreement to acquire Athabasca Oil Corporation (ATH.TO) in a cash and stock transaction with an implied enterprise value of C$5.7 billion. Cenovus expects the acquisition to close in D",
+    "link": "https://www.nasdaq.com/articles/cenovus-energy-acquire-athabasca-oil",
+    "pubDate": "Mon, 05 Oct 2026 10:34:04 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DAX Down Marginally In Cautious Trade",
+    "desc": "(RTTNews) - German stocks turned in a mixed performance on Monday with investors closely following the developments on the geopolitical front in addition to digesting regional economic data.",
+    "link": "https://www.nasdaq.com/articles/dax-down-marginally-cautious-trade",
+    "pubDate": "Mon, 05 Oct 2026 10:26:20 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why SoFi Stock Dropped 12% in September",
+    "desc": "Key PointsSoFi added 1.1 million new customers in the second quarter, a 35% year-over-year increase.",
+    "link": "https://www.nasdaq.com/articles/why-sofi-stock-dropped-12-september",
+    "pubDate": "Mon, 05 Oct 2026 10:24:01 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Most Important Number in Robinhood's Business Isn't Revenue. It's This.",
+    "desc": "Key PointsRobinhood's opportunity goes beyond trading.",
+    "link": "https://www.nasdaq.com/articles/most-important-number-robinhoods-business-isnt-revenue-its",
+    "pubDate": "Mon, 05 Oct 2026 10:20:00 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What Trumpflation Data Reveals About Rising Prices and the Risk to Your Portfolio",
+    "desc": "Key PointsThe Fed has taken steps to combat inflation.",
+    "link": "https://www.nasdaq.com/articles/what-trumpflation-data-reveals-about-rising-prices-and-risk-your-portfolio",
+    "pubDate": "Mon, 05 Oct 2026 10:09:00 +0000",
+    "fetchedAt": "2026-10-05T11:01:56.134Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
     "desc": "Saudi Aramco's CEO warned it could take up to two years to rebuild global oil inventories, saying the squeeze could worsen as the U.S.-Iran war continues.",
     "link": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
@@ -6237,166 +6397,6 @@
     "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">This. Is. Madness...</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://modernity.news/2026/09/24/is-this-the-most-mental-admission-ever/\">Authored by Steve Watson via Modernity.news</a>,</em></p> <p><strong>The View co-host Sunny Hostin cited the Lindsay Clancy mistrial Tuesday to relate a celebratory story about how in 1991 she was a lone jury hold out who flipped for a cannibal killer who boiled a woman and literally served her as soup.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/sonny.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/sonny.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7d503ff1-c8e1-4fcf-a771-99a47b7ee294\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/sonny.jpg\" /></a></p> <p>While the panel chewed over the Clancy debacle, Hostin announced she had effectively blocked a guilty verdict for Daniel Rakowitz - the East Village drifter known as the Butcher of Tompkins Square Park.</p> <p>Hostin bragged that she walked the rest of that 1991 jury into an insanity acquittal, and called it justice.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">THIS IS INSANITY! Sunny Hostin brags she was the holdout juror who kept the Butcher of Tompkins Square Park out of prison.<br /><br /> He murdered a woman. Chopped her up. Boiled her body parts. Served them as soup to the \"unhoused.\"<br /><br /> And she still calls that justice.<br /><br /> This is the left's... <a href=\"https://t.co/wdswuc2GZQ\">pic.twitter.com/wdswuc2GZQ</a></p> — Brigitte Gabriel (@ACTBrigitte) <a href=\"https://x.com/ACTBrigitte/status/2102714126476722391?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <p>This is the same moral compass we've been documenting for weeks around Clancy: the killer becomes a cause, and anyone who wants a conviction becomes the villain.</p> <p>Hostin decided the real problem was the juror who would not acquit, stating \"The insanity defense has been around in Massachusetts for 182 years, so I think it's well established. And I thought absolutely she was not criminally responsible by reason of insanity,\" Hostin said of Clancy.</p> <p>She continued, \"The reason I felt that - I feel so strongly about this holdout juror is because I was a holdout juror in a case, in the Daniel Rakowitz case. I don't know if people remember it, The Butcher of Tompkins Square.\"</p> <p>Joy Behar: \"The guy who ate the victims?\"</p> <p>\"Yes,\" Hostin said.</p> <p>Alyssa Farah Griffin gasped, \"You were on that jury?\"</p> <p><strong>Hostin produced a February 23, 1991 <em>New York Times</em> clip. \"Several jurors questioned afterwards said one holdout juror was principally responsible for preventing them from returning a guilty verdict,\" she read, boasting \"That was me!\"</strong></p> <p>The same article quoted her under her birth name, Asuncion Cummings: \"We don't think he intended to kill her. But once he did, he dismembered her body in an effort to commit the perfect crime.\"</p> <p>She kept going. \"Clearly I saw he was psychotic, he was in psychosis, he did not mean to kill her and once he killed her he panicked. He chopped up her body parts, yes, boiled her body parts, tried to commit the perfect crime.\"</p> <p>Griffin stopped her: \"And you got this guy off?!\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">She's literally bragging that she set a man free who killed and ate people.<br /><br /> These are the dumbest bitches on TV.<a href=\"https://t.co/XAKGNMXZm0\">pic.twitter.com/XAKGNMXZm0</a></p> — Verbal Riot (@verbalriotshow) <a href=\"https://x.com/verbalriotshow/status/2102884437143023868?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Hostin's answer betrayed the ideology in one line. \"That's how much I believe in the insanity defense, and he fed her body parts to the unhoused.\"</p> <p>She added. \"We were sequestered for nine days, one juror threw a chair at me, they were so angry with me but one by one I picked them off and said 'what about this, what about that,' and we ended up, all 12, unanimously voting that he was not criminally responsible by reason of insanity.\"</p> <p>He is \"still in a mental institution being treated,\" she added, as if that closed the books.</p> <p>Rakowitz killed 26-year-old Swiss dance student Monika Beerle in their East Village apartment in August 1989. Accounts from the time describe a fight that ended with a punch to the throat hard enough to cut off her air. He dismembered her in the bathtub, boiled body parts on the stove, left her skull in a bucket of kitty litter at the Port Authority Bus Terminal, and - by the story that followed him into court - served remains as soup to homeless people in Tompkins Square Park. A witness testified the broth contained a human finger. Rakowitz bragged that he ate her brains.</p> <p><strong>On February 22, 1991, Hostin's jury found him not guilty by reason of insanity. He went to Kirby Forensic Psychiatric Center on Wards Island, later the Manhattan Psychiatric Center. He was never sent to prison as a convicted murderer. Beerle never got another outcome.</strong></p> <p>In Plymouth, eleven jurors accepted the Clancy postpartum-psychosis defense. One juror, Michael Desronvil, would not. He later said he \"didn't have any doubts\" Clancy was criminally responsible. \"Based on all the physical evidence, key witnesses and what the prosecution presents, I thought it was enough proof that she knew exactly what she was doing and planned it.\"</p> <p>When Hostin held out, she blocked a <em>conviction</em> and recruited the room to spare a butcher. When Desronvil held out, he blocked an <em>acquittal</em> for a woman who killed three children. One stubbornness is framed as legal courage. The other is framed as a crime against empathy.</p> <p>That is the same inversion at play with white liberal women on TikTok and a seven-figure GoFundMe to cast Clancy as the real victim while the murdered children recede into props.</p> <p><iframe frameborder=\"0\" height=\"530\" scrolling=\"no\" src=\"https://modernity.news/2026/08/18/why-are-white-liberal-women-identifying-with-a-child-murderer/embed/\" style=\"display:block\" title=\"Why Are White Liberal Women Identifying With A Child Murderer?\" width=\"600\"></iframe></p> <p>As we've highlighted, hundreds of women in pink gathered outside Plymouth Superior Court for a \"Stand in Peace\" rally, cheering a confessed child killer. Organizer Renee Kimball told cameras, \"I think that every one of us women believe that it could be any one of us.\" Another woman said, \"It could be me.\"</p> <p><iframe frameborder=\"0\" height=\"520\" scrolling=\"no\" src=\"https://modernity.news/2026/08/20/what-in-gods-name-are-these-women-doing/embed/\" style=\"display:block\" title=\"What In God's Name Are These Women Doing?\" width=\"600\"></iframe></p> <p>By September the cause had moved from identification to enforcement. Supporters smeared Patrick Clancy, the father of the murdered children, with baseless claims he was involved in the killings - this after Lindsay confessed and after Patrick testified for the prosecution and said he forgave her as ill rather than evil. His lawyer, Howard Cooper, said the family had been hit with \"a relentless, escalating and destructive defamation campaign\" and warned, \"Enough is enough.\"</p> <p><iframe frameborder=\"0\" height=\"540\" scrolling=\"no\" src=\"https://modernity.news/2026/09/09/lindsay-clancy-supporters-threaten-the-father-of-the-children-she-murdered/embed/\" style=\"display:block\" title=\"Lindsay Clancy Supporters Threaten The Father Of The Children She Murdered\" width=\"600\"></iframe></p> <p>Then the mob found the holdout's household. Relatives told the New York Post they could not leave home. \"They are leaving notes at my mother's house. They won't leave us alone, and we don't know anything,\" the juror's brother said.</p> <p><iframe frameborder=\"0\" height=\"530\" scrolling=\"no\" src=\"https://modernity.news/2026/09/16/tiktok-mob-now-stalks-clancy-holdout-jurors-family/embed/\" style=\"display:block\" title=\"TikTok Mob Now STALKS Clancy Holdout Juror's Family\" width=\"600\"></iframe></p> <p>This cult evolved further when on Oprah's stage, a doctor demanded \"the same passion for people who don't look like Lindsay,\" as if the scandal of three strangled children was an equity gap in pink-shirt energy. When a young woman in the audience said, \"I do believe she's a murderer,\" Oprah answered, \"After all you've heard today?\"</p> <p><iframe frameborder=\"0\" height=\"520\" scrolling=\"no\" src=\"https://modernity.news/2026/09/11/what-dimension-of-hell-is-this/embed/\" style=\"display:block\" title=\"What Dimension Of HELL Is This?\" width=\"600\"></iframe></p> <p>These people would rather a psycho killer leave criminal court as a patient than sit in a cell as a convict.</p> <p>They proved it in 1991 with a butcher. They are proving it now with a mother who killed three children, a father they slander, a juror's family they stalk, and a daytime host who still thinks flipping that old jury was the proudest duty of her life.</p> <p>A system that cannot say a murderer is a murderer will not protect anyone.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T17:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 13:40</span>",
     "link": "https://www.zerohedge.com/political/madness",
     "pubDate": "Thu, 24 Sep 2026 17:40:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Ugly 7Y Auction Tails As Foreign Demand Slides Despite Record High Yield",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Ugly 7Y Auction Tails As Foreign Demand Slides Despite Record High Yield</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>After yesterday's dismal 5Y aucton which pushed yields to multi-decade highs, moments ago the Treasury completed its last coupon auction of the week, selling $44 billion in 7Y paper. It was another ugly auction, if not quite as ugly as yesterday's shitshow.</p> <p>The sale stopped at a high yield of 5.085%, up from 4.512% a month ago and the highest yield on record for 7 Year paper!</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/7y%20high%20yield%20record.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/7y%20high%20yield%20record.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"07f72bb8-d81f-49b7-bcb2-9a82c0bdfafb\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/7y%20high%20yield%20record.png\" /></a></p> <p>It was tailed the When Issued 5.078% by 0.7bps, the highest tail since March.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/7Y%20tail%20sept%2026.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/7Y%20tail%20sept%2026.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"68039308-c53d-4dfc-b47c-4d60fa3d3399\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/7Y%20tail%20sept%2026.png\" /></a></p> <p>The internals were also poor as foreign demand slumped from 60.8% to 57.2%, the lowest since Nov '25. And with Directs jumping to 30.3%, one of the highest on record, Dealers were left holding 12.5%, in line with the recent average.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/7Y%20Sept%202026.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/7Y%20Sept%202026.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"fdccfe51-707a-4779-acfe-846687b59f84\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/7Y%20Sept%202026.jpg\" /></a></p> <p>Overall, this was a subpar auction yet it wasn't nearly as bad as yesterday's 5Y which as we noted at the time, was an absolute nuke. The lack of demand did nothing to help the secondary market and 10Y yields promptly pushed back near session highs, last trading at 5.15% and the highest going back almost 2 decades.</p> <p> </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T17:21:15+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 13:21</span>",
-    "link": "https://www.zerohedge.com/markets/ugly-7y-auction-tails-foreign-demand-slides-despite-record-high-yield",
-    "pubDate": "Thu, 24 Sep 2026 17:21:15 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Russia Hammers Kiev In Rare Daytime Attacks; Kremlin 'Appreciates' US G20 Invite",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Russia Hammers Kiev In Rare Daytime Attacks; Kremlin 'Appreciates' US G20 Invite</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>At a moment Ukrainian President Volodymyr Zelensky is still in New York City Thursday, attending meetings on the sidelines of the United Nations General Assembly, his capital of Kiev has been <strong>rocked by fresh Russian strikes</strong>,<strong> which killed at least two people and wounded over 40 more</strong>. The attacks began in the daytime on Wednesday, and appear to have persisted into Thursday.</p> <p>A missile alert first went out to city residents Wednesday, after which AFP journalists observed <strong>hearing over 20 blasts</strong>. \"Explosions in Kyiv. The capital is under ballistic missile attack. Remain in shelters!\" Mayor Vitaly Klitschko wrote on Telegram.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kievattacked.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kievattacked.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b516c697-1491-4673-9a6f-83368b479254\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/kievattacked.jpg\" /></a> <figcaption><em>Getty Images</em></figcaption></figure><p>And Zelensky himself wrote: \"Once again, the main targets of (the Russian) attack were Kyiv and civilian infrastructure – residential buildings, a maternity hospital, energy facilities and logistics. Two people are already known to have been killed.\"</p> <p>On Wednesday in addressing the UN assembly, Zelensky warned Western partners that they<strong> must not let up the sanctions and isolation pressure on Putin</strong>, in order to starve Russia's military machine.</p> <p>Zelensky on Thursday reiterated further on X that \"Russia will not end this war without pressure. As people were sleeping, flashes from explosions lit up the sky. Once again, the main targets of their strike were Kyiv and civilian infrastructure, residential buildings, a maternity hospital, energy infrastructure, and logistics.\"</p> <p>Other deadly overnight attacks occurred beyond the capital area. A Russian strike on a farm in Ukraine's eastern Kharkiv region <strong>killed six people</strong>, local officials said.</p> <p>Meanwhile efforts at getting the warring sides back to the peace table have still appeared stalled. But the Kremlin on Wednesday said it received an invitation from the United States for Putin to attend the December <a href=\"https://www.zerohedge.com/geopolitical/putin-comes-miami-it-could-happen-heres-how\">G20 summit in Miami</a>.</p> <p>Kremlin spokesman Dmitry Peskov <a href=\"https://www.themoscowtimes.com/2026/09/24/kremlin-weighs-us-invitation-for-putin-to-attend-g20-summit-in-miami-a93784\">said</a> that Moscow and Putin are <strong>\"grateful for and appreciative of this invitation</strong>.<strong>\" </strong>He said, \"We will make a decision and work through it via diplomatic channels.\"</p> <p>Washington confirmed that indeed the invitation was extended, no doubt to the consternation of European officials. Secretary of State Marco Rubio has explained: \"We've invited President Putin to the G20. We think it's an opportunity for him to engage not just with the president but with other world leaders. <strong>We hope that's an invitation he'll accept</strong>.\"</p> <p>So far the Kremlin has signaled that Putin is unlikely to be in Miami. We wrote at the start of the <a href=\"https://www.zerohedge.com/geopolitical/putin-plans-skip-miami-g20-prioritizing-china-trip-kremlin-officials\">week</a>:</p> <blockquote> <p><em>Both the Kremlin and the White House had <a href=\"https://www.zerohedge.com/geopolitical/putin-comes-miami-it-could-happen-heres-how\">recently signaled</a> <strong>mutual openness to the idea of President Putin actually attending the G20 Miami Summit </strong>which is set for December 14-15. Some reports have recently expressed optimism that some kind of grand Ukraine peace deal could emerge from such an engagement.</em></p> <p><em>However, <a data-wpel-link=\"external\" href=\"https://www.bloomberg.com/news/articles/2026-09-21/putin-plans-to-attend-xi-s-apec-summit-and-skip-g20-with-trump\" target=\"_blank\">Bloomberg</a> has poured cold water on this, reporting Monday that \"Vladimir Putin is <strong>set to travel to China for the Asia-Pacific Economic Cooperation summit hosted by President Xi Jinping</strong> but is likely to skip the Group of 20 in the U.S. with Donald Trump.\"</em></p> </blockquote> <p>He's previously also stated that he would only meet with Zelensky if a deal had been finalized and was ready to sign.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">An aerial attack on Kyiv is still underway, with an impact reported on non-residential infrastructure, city authorities said.<br /><br /> Mayor Vitali Klitschko confirmed that a drone crashed into a garage complex in Obolonskyi district, sending emergency crews to the scene. <a href=\"https://t.co/Fuw3M9Kv8o\">pic.twitter.com/Fuw3M9Kv8o</a></p> — KyivPost (@KyivPost) <a href=\"https://x.com/KyivPost/status/2103070832750952789?ref_src=twsrc%5Etfw\">September 24, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Trump and Putin last talked face-to-face in August 2025. But since then the war has only escalated, particularly given Ukraine's long-range strikes on Russian territory and its energy infrastructure, and industrial and retailer sites - with the help of targeting intelligence provided by NATO countries.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T17:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 13:15</span>",
-    "link": "https://www.zerohedge.com/geopolitical/russia-keeps-strikes-kiev-zelensky-ny-kremlin-appreciates-us-g20-invite",
-    "pubDate": "Thu, 24 Sep 2026 17:15:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Satellite Images Reveal Rapid Expansion At Seven Chinese Nuclear Sites",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Satellite Images Reveal Rapid Expansion At Seven Chinese Nuclear Sites</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://amgreatness.com/2026/09/24/satellite-images-reveal-rapid-expansion-at-seven-chinese-nuclear-sites/\">Authored by AG News Staff via American Greatness</a>,</em></p> <p>China is rapidly expanding infrastructure tied to its nuclear weapons program, with satellite images revealing major construction at seven sites as Beijing faces growing scrutiny over its expanding arsenal.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/20251106-trump-china-missiles.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/20251106-trump-china-missiles.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cb393f87-fd6c-48b5-9c76-41b89d2ac7d6\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/20251106-trump-china-missiles.jpg\" /></a></p> <p><strong><a href=\"https://www.telegraph.co.uk/world-news/china-secret-nuclear-weapon-sites-xi/\">An investigation published Wednesday</a> identified activity at Pingtong, Zitong, Lop Nur, Jiuquan, Mianyang, Jinta and Guangyuan.</strong> The satellite imagery documents substantial construction, although the images alone cannot establish precisely what work is occurring inside the facilities.</p> <p>At one location, villages and farms reportedly were cleared for a fusion research center where powerful lasers can help scientists study how materials behave under conditions associated with nuclear detonations.</p> <p>The expansion comes amid a dispute between Washington and Beijing over nuclear testing. U.S. officials have accused China of conducting a secret nuclear test at Lop Nur in 2020 and concealing its activities. China denies the allegation. Available seismic data have not conclusively established that a nuclear explosion occurred.</p> <p>U.S. Under Secretary of State for Arms Control and International Security Thomas DiNanno has accused China of using techniques designed to make nuclear testing more difficult to detect.</p> <p>Beijing, meanwhile, maintains a no-first-use nuclear policy and describes its nuclear posture as defensive. Chinese officials have rejected U.S. accusations about a growing nuclear threat and argued that the country's smaller arsenal makes trilateral arms negotiations with Washington and Moscow inappropriate.</p> <p><strong>The construction adds another national security issue to President Donald Trump's Thursday meeting with Chinese President Xi Jinping in Washington.</strong> Artificial intelligence and its growing military implications are also expected to be discussed.</p> <p>The nuclear question has taken on greater significance following the expiration of the New START Treaty in February. U.S. officials have argued that an arms-control framework focused only on Washington and Moscow no longer reflects a world in which China is substantially expanding its nuclear capabilities.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-09-24T17:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 09/24/2026 - 13:00</span>",
-    "link": "https://www.zerohedge.com/geopolitical/satellite-images-reveal-rapid-expansion-seven-chinese-nuclear-sites",
-    "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Google Is Taking a Major Step Forward Toward Space-Based AI Data Centers",
-    "desc": "Key PointsGoogle's experimental satellite will have the power of one data center server, and will answer simple AI queries for a year.",
-    "link": "https://www.nasdaq.com/articles/google-taking-major-step-forward-toward-space-based-ai-data-centers",
-    "pubDate": "Thu, 24 Sep 2026 19:23:35 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Berkshire Hathaway CEO Greg Abel Calls AI Data Center Demand a Significant Opportunity for Berkshire Energy. Here's What That Means for the Stock.",
-    "desc": "Key PointsGreg Abel joined Berkshire Hathaway when it acquired MidAmerican Energy, and he led its energy business before becoming vice chairman.",
-    "link": "https://www.nasdaq.com/articles/berkshire-hathaway-ceo-greg-abel-calls-ai-data-center-demand-significant-opportunity",
-    "pubDate": "Thu, 24 Sep 2026 19:20:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "5 AI Semiconductor Stocks to Buy and Hold Through 2031",
-    "desc": "Key PointsNvidia and Broadcom are poised to continue to see huge growth coming from AI chip demand over the next five years.",
-    "link": "https://www.nasdaq.com/articles/5-ai-semiconductor-stocks-buy-and-hold-through-2031",
-    "pubDate": "Thu, 24 Sep 2026 19:20:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Figma vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsFigma is a high-growth collaborative design leader that increased revenue by approximately 41% in FY 2025.",
-    "link": "https://www.nasdaq.com/articles/figma-vs-servicenow-which-technology-stock-better-buy-2026",
-    "pubDate": "Thu, 24 Sep 2026 19:16:08 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Elon Musk Has Left the Door Open to a Tesla-SpaceX Merger. Here's What Shareholders of Both Stocks Should Do.",
-    "desc": "Key PointsAlthough Elon Musk hasn't indicated it's inevitable, he certainly hasn't ruled the possibility out.",
-    "link": "https://www.nasdaq.com/articles/elon-musk-has-left-door-open-tesla-spacex-merger-heres-what-shareholders-both-stocks",
-    "pubDate": "Thu, 24 Sep 2026 19:05:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "This $267 Stock Could Be Your Ticket to Millionaire Status",
-    "desc": "Key PointsBloom&rsquo;s sales of SOFC systems will soar as the AI market expands.",
-    "link": "https://www.nasdaq.com/articles/267-stock-could-be-your-ticket-millionaire-status",
-    "pubDate": "Thu, 24 Sep 2026 19:00:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AtlasClear (ATCH) Q4 2026 Earnings Call Transcript",
-    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-    "link": "https://www.nasdaq.com/articles/atlasclear-atch-q4-2026-earnings-call-transcript",
-    "pubDate": "Thu, 24 Sep 2026 18:58:04 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Most Investors Are Chasing Flashy IPOs. CoreWeave Is the One I Predict Will Outperform by 2028.",
-    "desc": "Key PointsCoreWeave is expanding beyond cloud rental into inference, agentic AI, and enterprise services through its Weights &amp; Biases integration and Physical AI Field Engineering program.",
-    "link": "https://www.nasdaq.com/articles/most-investors-are-chasing-flashy-ipos-coreweave-one-i-predict-will-outperform-2028",
-    "pubDate": "Thu, 24 Sep 2026 18:54:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: NIO Is a Better Buy Than Lucid for the Next Decade",
-    "desc": "Key PointsNIO and Lucid both trade far below their all-time highs.",
-    "link": "https://www.nasdaq.com/articles/prediction-nio-better-buy-lucid-next-decade",
-    "pubDate": "Thu, 24 Sep 2026 18:50:00 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsAppLovin maintains exceptionally high net margins while expanding its software platform into new e-commerce markets.",
-    "link": "https://www.nasdaq.com/articles/applovin-vs-reddit-which-technology-stock-better-buy-2026-0",
-    "pubDate": "Thu, 24 Sep 2026 18:46:53 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The U.S. and China are quietly talking AI guardrails—even as Trump publicly rejects them",
-    "desc": "The U.S. and China just held their first AI dialogue, as Beijing courts the rest of the world with open-source AI.",
-    "link": "https://fortune.com/2026/09/24/us-china-ai-labs-converge-ai-guardrail-hotline/",
-    "pubDate": "Thu, 24 Sep 2026 19:13:33 +0000",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Tesla stalls below $381 resistance in tight squeeze: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/tesla-tests-381-resistance-confluence-live-levels-93CH-4909308",
-    "pubDate": "2026-09-24 19:18:42",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nasdaq 100 holds 30,371 support as momentum fades: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-hits-overbought-resistance-at-30405-live-levels-93CH-4909309",
-    "pubDate": "2026-09-24 19:18:37",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Alphabet C trapped in $334-$343 range: Live breakout levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/alphabet-tests-354-resistance-after-325-double-bottom-live-93CH-4909305",
-    "pubDate": "2026-09-24 19:18:35",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "S&P 500 caught in neutral zone with double top threat: Live",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sp-500-tests-7838-resistance-amid-bull-trap-warnings-live-93CH-4909306",
-    "pubDate": "2026-09-24 19:18:32",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Apple stuck in chop near $337.74 below ATH: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/apple-coils-below-ath-resistance-at-34457-live-levels-93CH-4909302",
-    "pubDate": "2026-09-24 19:18:12",
-    "fetchedAt": "2026-09-24T20:01:33.676Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Dollar Index overbought at 101.04 near key resistance: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-at-10009-in-bull-trap-danger-zone-live-93CH-4909312",
-    "pubDate": "2026-09-24 19:18:02",
     "fetchedAt": "2026-09-24T20:01:33.676Z"
   }
 ]
