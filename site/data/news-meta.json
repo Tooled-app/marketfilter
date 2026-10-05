@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-05T07:07:07.537Z",
-  "fetched": 11,
-  "failed": 3,
-  "newItems": 37,
+  "lastRun": "2026-10-05T08:02:29.998Z",
+  "fetched": 2,
+  "failed": 12,
+  "newItems": 5,
   "total": 800,
   "sources": [
     {
@@ -14,14 +14,16 @@
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 55,
-      "added": 1
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 10
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
@@ -33,26 +35,30 @@
     {
       "id": "guardian",
       "name": "The Guardian",
-      "items": 20,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "ft",
       "name": "Financial Times",
-      "items": 10,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
-      "items": 7,
-      "added": 7
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "benzinga",
       "name": "Benzinga",
-      "items": 10,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "yahoo",
@@ -71,26 +77,29 @@
     {
       "id": "wsj",
       "name": "WSJ Markets",
-      "items": 20,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 7
+      "added": 4
     },
     {
       "id": "fortune",
       "name": "Fortune",
-      "items": 10,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
-      "items": 10,
-      "added": 7
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     }
   ]
 }
