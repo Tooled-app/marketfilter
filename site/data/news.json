@@ -1,6 +1,574 @@
 [
   {
     "source": "cnbc",
+    "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
+    "desc": "The platform will now provide tags that indicate which election markets have low volumes.",
+    "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+    "pubDate": "Tue, 06 Oct 2026 18:34:49 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Young voters struggle to afford housing. But they don't expect help from political candidates",
+    "desc": "Pennsylvania's competitive U.S. House districts showcase how housing affordability challenges for young voters may play into control of the next Congress.",
+    "link": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
+    "pubDate": "Tue, 06 Oct 2026 18:11:51 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+    "desc": "Meta and OpenAI Chairman Bret Taylor’s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
+    "link": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+    "pubDate": "Tue, 06 Oct 2026 18:48:36 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "How event contract bundles are boosting volume on prediction markets",
+    "desc": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
+    "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+    "pubDate": "Tue, 06 Oct 2026 18:46:16 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Govt airs new ad after Trump says MAGA Inc. PAC will pay for controversial TV spots",
+    "desc": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+    "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+    "pubDate": "Tue, 06 Oct 2026 18:22:05 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
+    "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/06/what-marvells-rosy-long-term-guidance-means-for-our-ai-chip-stocks.html",
+    "pubDate": "Tue, 06 Oct 2026 18:51:01 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Treasury yields slide as surge to multiyear highs cools",
+    "desc": "U.S. Treasury yields were broadly lower on Tuesday morning after reaching fresh highs the previous day.",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "pubDate": "Tue, 06 Oct 2026 18:44:05 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Roll-out begins for passport-free airport e-gates",
+    "desc": "The system uses facial technology to check travellers against immigration and passport information.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 06 Oct 2026 17:38:29 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Five reasons India's stock market is sinking even when its economy is growing",
+    "desc": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 23:13:11 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The AI telling farmers when to harvest",
+    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The start-ups hoping to return battery making to the US",
+    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Spain battles climate change on several fronts",
+    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "My hometown shows that high streets have to change or die",
+    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Watch: Why has UK diesel price hit an all time high?",
+    "desc": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+    "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 02 Oct 2026 16:58:30 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why are minimum alcohol prices going up?",
+    "desc": "The minimum price of alcohol (MUP) in Wales has risen by 30%.",
+    "link": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 02 Oct 2026 08:23:31 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "US appeals court weighs block on Kennedy’s vaccine panel appointments",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/us-appeals-court-weighs-block-on-kennedys-vaccine-panel-appointments-4935088",
+    "pubDate": "2026-10-06 18:42:22",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Twist Bioscience stock plunging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-twist-bioscience-stock-plunging-today-93CH-4935087",
+    "pubDate": "2026-10-06 18:36:54",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "School protests sweeping France cause ’heaviest toll in decades’",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/france-braces-for-day-of-school-blockades-and-street-protests-4933597",
+    "pubDate": "2026-10-06 18:36:20",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Capital Power stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-capital-power-stock-rallying-today-93CH-4935085",
+    "pubDate": "2026-10-06 18:33:24",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Natera stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-natera-stock-sliding-today-93CH-4935080",
+    "pubDate": "2026-10-06 18:29:39",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "FAA proposes new rules to modernize space launch regulations",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/faa-proposes-new-rules-to-modernize-space-launch-regulations-93CH-4935079",
+    "pubDate": "2026-10-06 18:28:11",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Illumina stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-illumina-stock-sliding-today-93CH-4935078",
+    "pubDate": "2026-10-06 18:26:56",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is CoreWeave stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-rallying-today-93CH-4935077",
+    "pubDate": "2026-10-06 18:25:16",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Broadcom stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-rallying-today-93CH-4935075",
+    "pubDate": "2026-10-06 18:24:29",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investing",
+    "title": "’I’m getting fed up’: voters line up before dawn as early voting begins in Ohio",
+    "desc": "",
+    "link": "https://www.investing.com/news/politics-news/ohio-early-voting-begins-with-us-congress-control-on-the-line-4933836",
+    "pubDate": "2026-10-06 18:24:23",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;Trump accounts&#x2019; could force MAGA children to own New York Times stock",
+    "desc": "This is going to bring a lot of problems that almost anyone could have predicted",
+    "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+    "pubDate": "Tue, 06 Oct 2026 18:39:00 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Marvell just impressed Wall Street with &#x2018;good numbers plus a better story&#x2019;",
+    "desc": "Marvell&#x2019;s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+    "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+    "pubDate": "Tue, 06 Oct 2026 18:25:00 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "How Meta&#x2019;s stock can surge to $1,000, according to the biggest bull on Wall Street",
+    "desc": "A Wells Fargo analyst warns of a near-term profit hit from AI infrastructure spending and legal costs &#x2014; but thinks that will set up massive gains by 2028.",
+    "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
+    "pubDate": "Tue, 06 Oct 2026 18:20:00 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
+    "desc": "<p>Borrowing can be good, there is no such thing as the ‘nation’s credit card’, and, yes, you can buck the markets – as previous governments have shown</p><p>Andy Burnham does a nice line in nostalgia. His <a href=\"https://labour.org.uk/updates/stories/andy-burnhams-speech-to-labour-party-conference-2026/\">first party conference speech</a> as prime minister was full of fond memories for the Britain of the 1950s and 1960s, when working-class families could sense their lives steadily getting better. The underlying message of his address was that, given time, he could rekindle that optimism and return the country to how it was before Margaret Thatcher wrecked everything.</p><p>Much of what Burnham says is true. The 1980s was a decade of deindustrialisation, asset-stripping and financial deregulation that has shaped modern Britain – and not in a good way.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets",
+    "pubDate": "Thu, 01 Oct 2026 05:00:28 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
+    "desc": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+    "pubDate": "Wed, 30 Sep 2026 20:53:12 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+    "desc": "<p>Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates</p><p>An internal watchdog said the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.</p><p>For over a year, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has centered his attacks against the Fed and former chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> around the renovations, including a months-long Department of Justice criminal investigation that was <a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">dropped</a> in April.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+    "pubDate": "Wed, 30 Sep 2026 17:49:27 GMT",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Bank OZK stock dips after Citi's cautious view on RaDD modification project",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650672-bank-ozk-stock-dips-after-citis-cautious-view-on-radd-modification-project?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:55:32 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "RPM projects fiscal 2027 mid-single-digit sales and adjusted EBITDA growth as Q2 raw material inflation rises to 9%&#x2013;11%",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650675-rpm-projects-fiscal-2027-mid-single-digit-sales-and-adjusted-ebitda-growth-as-q2-raw-material?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:53:44 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Standard Nuclear started with Buy rating at Needham on early operating advantage",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650673-standard-nuclear-started-with-buy-rating-at-needham-on-early-operating-advantage?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:46:37 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "JPMorgan Chase, Capital One, and RBC top AI banks index",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650666-jpmorgan-chase-capital-one-rbc-top-ai-banks-index?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:45:48 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Waymo to start offering driverless rides in Detroit",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650670-waymo-to-start-offering-driverless-rides-in-detroit?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:45:02 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Lowe's shares snap six-day losing streak",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650674-lowes-shares-snap-six-day-losing-streak?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:43:34 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "OpenAI partners with Ironclad to train and improve AI agents",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650671-openai-partners-with-ironclad-to-train-and-improve-ai-agents?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 06 Oct 2026 14:28:45 -0400",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Dow Rises But Seagate Dives On This; Zebra, AI Stock Clear Entries (Live Coverage)",
+    "desc": "The Dow Jones index rises on the stock market today but Seagate falls on a report. AMD pops. Zebra and an AI stock test entries.",
+    "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:35:30 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Mag Seven Q3 Earnings Seen Underperforming Broader Market Performance This Season: Russell Investments",
+    "desc": "Analysts at Russell Investments project that the broader index will achieve faster profit growth than the \"Magnificent Seven\" in the third quarter, potentially sparking a wider stock market rally.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mag-seven-q3-earnings-seen-underperforming-broader-market-performance-this-season-russell-investments/cZDtQg0RBlh?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:30:18 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
+    "desc": "(Updates with index/price moves from the first paragraph.) US equity indexes advanced as big-tech",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-pushes-us-equity-182432745.html?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:24:32 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Only Four Trillion-Dollar Stocks Are Beating the S&P 500. What’s Next for the Megacaps?",
+    "desc": "Only four trillion-dollar companies, including Nvidia and Apple, have beaten the S&P 500 this year, but recent rallies have left several looking overbought.",
+    "link": "https://finance.yahoo.com/m/7003431f-36c8-336f-bf14-80d032b6a728/only-four-trillion-dollar.html?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:22:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Utilities Sector Goes Nuclear as AI Drives More Than Tech Higher",
+    "desc": "Tech wasn't the top sector performer during Tuesday's broad-based rally, but the AI trade was still among the top forces fueling new records.",
+    "link": "https://finance.yahoo.com/m/c30056ee-f1d3-3206-80ca-fce0e124eab6/the-utilities-sector-goes.html?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:04:35 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Are You Sure You Understand Lululemon Stock's Risk?",
+    "desc": "Lululemon Athletica (LULU) stock has lost about 47% over the past twelve months, while the S&P 500 returned about 16%. And on September 3, management lowered its revenue and earnings forecasts for the year. The stock now trades at 7.4 times earnings, against 21.5 for the S&P 500, and you might assume it has little left to lose. So how has Lululemon stock behaved when the whole market fell.",
+    "link": "https://www.trefis.com/articles/617686/are-you-sure-you-understand-lululemon-stocks-risk/2026-10-06?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:34:02 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Would You Have Needed To Notice In Applied Materials Stock?",
+    "desc": "Applied Materials (AMAT) stock returned 143.9% in the twelve months to October 5, 2026, against 17.1% for the S&P 500. The run turned out to be about artificial intelligence: chipmakers wanted far more of the machines Applied sells for making advanced chips. You may have watched from the sidelines and wondered whether anyone could have seen it coming. So what had Applied itself said before the run began.",
+    "link": "https://www.trefis.com/articles/617680/what-would-you-have-needed-to-notice-in-applied-materials-stock/2026-10-06?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:25:59 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why You Need To Pay Attention To Nike Stock",
+    "desc": "One business stands out at Nike (NKE): the performance business, its products for playing sports. Its sportswear business, which includes the Dunk sneaker, is where Nike has struggled. And the stock lost about 51% over the past twelve months, against about a 16% gain for the S&P 500. Nike has one growing business and a stock that has fallen far behind the market. So, how big is Nike's performance business.",
+    "link": "https://www.trefis.com/articles/617678/why-you-need-to-pay-attention-to-nike-stock/2026-10-06?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 17:42:15 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Corteva Stock Is Rocketing Higher Today",
+    "desc": "Is this agriculture stock sitting in the bargain bin? One firm thinks so.",
+    "link": "https://www.fool.com/investing/2026/10/06/why-corteva-stock-is-rocketing-higher-today/?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:44:14 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The TXSE Launched Monday. It Aims To Make 'Wall Street' Less Relevant.",
+    "desc": "Trading began this week for the first companies on the Texas Stock Exchange, an upstart rival to the Nasdaq and New York Stock Exchange.",
+    "link": "https://finance.yahoo.com/m/a0d2154b-4b5f-36ab-b5c9-1530da3c00f8/the-txse-launched-monday.-it.html?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:42:30 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Tech Stocks Punch Back at Bonds. Earnings Could Provide the Knockout Blow.",
+    "desc": "The tech rally could put surging bond yields on the ropes. What happens in the next few months will be crucial.",
+    "link": "https://finance.yahoo.com/m/583017f4-21b4-3760-8c9f-dd7504710e85/tech-stocks-punch-back-at.html?.tsrc=rss",
+    "pubDate": "Tue, 06 Oct 2026 17:11:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Growth Stocks to Buy Instead of SpaceX",
+    "desc": "Key PointsSandisk is one of the hottest stocks thanks to its memory products, and it's still among the cheapest.",
+    "link": "https://www.nasdaq.com/articles/3-growth-stocks-buy-instead-spacex",
+    "pubDate": "Tue, 06 Oct 2026 18:50:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why C.H. Robinson Stock Was Sliding Again Today",
+    "desc": "Key PointsWall Street is evaluating the RXO deal one day after the announcement.",
+    "link": "https://www.nasdaq.com/articles/why-ch-robinson-stock-was-sliding-again-today",
+    "pubDate": "Tue, 06 Oct 2026 18:40:16 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Magnificent AI Cloud Computing Stocks That Could Help Set You Up for Life",
+    "desc": "Key PointsMicrosoft's Azure cloud business is now running at a $100 billion annual pace, backed by a $678 billion contracted backlog.",
+    "link": "https://www.nasdaq.com/articles/3-magnificent-ai-cloud-computing-stocks-could-help-set-you-life",
+    "pubDate": "Tue, 06 Oct 2026 18:38:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Canadian Market Remains Positive, Looks Headed For Firm Close",
+    "desc": "(RTTNews) - The Canadian market remains firmly placed in positive territory Tuesday afternoon as lower oil prices and global bond yields help underpin sentiment.",
+    "link": "https://www.nasdaq.com/articles/canadian-market-remains-positive-looks-headed-firm-close",
+    "pubDate": "Tue, 06 Oct 2026 18:36:58 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why I Don't Think Meta's AI Strategy Will Be Successful",
+    "desc": "Key PointsUsers will need to trust AI agents in order for them to truly be useful.",
+    "link": "https://www.nasdaq.com/articles/why-i-dont-think-metas-ai-strategy-will-be-successful",
+    "pubDate": "Tue, 06 Oct 2026 18:30:02 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Would You Let an AI Agent Trade Crypto for You? Robinhood Thinks You Will.",
+    "desc": "Key PointsRobinhood is connecting its platform directly to AI models.",
+    "link": "https://www.nasdaq.com/articles/would-you-let-ai-agent-trade-crypto-you-robinhood-thinks-you-will",
+    "pubDate": "Tue, 06 Oct 2026 18:25:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The Odd One Out: Why One Mega-Cap Tech Giant Is a Sell While Two Others Are Buys",
+    "desc": "Key PointsPalantir has become priced for perfection.",
+    "link": "https://www.nasdaq.com/articles/odd-one-out-why-one-mega-cap-tech-giant-sell-while-two-others-are-buys",
+    "pubDate": "Tue, 06 Oct 2026 18:20:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "CrowdStrike Launches Global Cybersecurity Program With Amazon And NVIDIA",
+    "desc": "(RTTNews) - On Tuesday, CrowdStrike Holdings, Inc. (CRWD) announced its fourth annual Cybersecurity Startup Accelerator, a global program launched with Amazon Web Services (AWS) and NVIDIA (NVDA) to support startups developing cybersecurity solutions for the agentic era. Applicat",
+    "link": "https://www.nasdaq.com/articles/crowdstrike-launches-global-cybersecurity-program-amazon-and-nvidia",
+    "pubDate": "Tue, 06 Oct 2026 18:14:42 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Swiss Market Ends On Firm Note",
+    "desc": "(RTTNews) - The Switzerland market closed on a firm note on Tuesday, tracking global markets, as oil prices fell and bond yields dropped.",
+    "link": "https://www.nasdaq.com/articles/swiss-market-ends-firm-note-0",
+    "pubDate": "Tue, 06 Oct 2026 17:59:47 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Tuesday 10/6 Insider Buying Report: NXRT, ACCV",
+    "desc": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. At NexPoint Residential Trust, a filing with the SEC revealed that on Monday, Matt",
+    "link": "https://www.nasdaq.com/articles/tuesday-10-6-insider-buying-report-nxrt-accv",
+    "pubDate": "Tue, 06 Oct 2026 17:57:27 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Broadcom Stock Popped Tuesday Morning",
+    "desc": "Key PointsBroadcom stock rallied after Marvell's investor day presentation.",
+    "link": "https://www.nasdaq.com/articles/why-broadcom-stock-popped-tuesday-morning",
+    "pubDate": "Tue, 06 Oct 2026 17:55:26 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Markets Close Higher As Lower Oil Prices, Bond Yields Lift Sentiment",
+    "desc": "(RTTNews) - Despite largely weak regional economic data, and concerns over France's fiscal woes and political uncertainty, European markets closed mostly higher on Tuesday as lower crude oil prices and Euro zone bond yields helped lift sentiment.",
+    "link": "https://www.nasdaq.com/articles/european-markets-close-higher-lower-oil-prices-bond-yields-lift-sentiment",
+    "pubDate": "Tue, 06 Oct 2026 17:41:14 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "PepsiCo's Next Earnings Report on Oct. 8 2026 Could Send the Stock Plunging. Here's Why.",
+    "desc": "Key PointsPepsi is a Dividend King, having raised its dividend for 54 years in a row.",
+    "link": "https://www.nasdaq.com/articles/pepsicos-next-earnings-report-oct-8-2026-could-send-stock-plunging-heres-why",
+    "pubDate": "Tue, 06 Oct 2026 17:39:15 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Paramount Completes Acquisition of Warner Bros. Discovery. Here’s What Comes Next for Skydance (SKYD).",
+    "desc": "Key PointsSkydance now owns some of the top television networks, streaming platforms, franchises, and film studios in the world.",
+    "link": "https://www.nasdaq.com/articles/paramount-completes-acquisition-warner-bros-discovery-heres-what-comes-next-skydance-skyd",
+    "pubDate": "Tue, 06 Oct 2026 17:36:01 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Finding value from AI in big companies comes down to people, not technology",
+    "desc": "Big companies need to overcome 'learned helplessness' and risk aversion to find ROI from AI, futurist Amy Webb says",
+    "link": "https://fortune.com/2026/10/06/finding-value-from-ai-in-big-companies-comes-down-to-people-not-technology/",
+    "pubDate": "Tue, 06 Oct 2026 18:58:17 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Brands are fleeing TV for social. The agency that landed more than 50B views for brands like Perplexity and Universal Music sold for at least $100M",
+    "desc": "Exclusive: Get Engaged becomes a part of SAMY, a global social-first marketing company.",
+    "link": "https://fortune.com/2026/10/06/brands-fled-tv-for-tiktok-get-engaged-samy-acquisition-fortune-exclusive/",
+    "pubDate": "Tue, 06 Oct 2026 13:30:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Why Oura really pulled its IPO: Wall Street experts suspect valuation concerns, an insider cash-out, and an Apple-size threat",
+    "desc": "Oura blamed market “uncertainty,” but maybe investors just didn’t buy the story.",
+    "link": "https://fortune.com/2026/10/06/why-did-oura-pull-its-ipo/",
+    "pubDate": "Tue, 06 Oct 2026 07:00:00 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Exclusive: OpenAI is piloting a ‘mission interview’ for job candidates",
+    "desc": "The idea is to test how candidates think, and how they’ll contribute to the company’s goal of ensuring “that artificial general intelligence (AGI) benefits all of humanity.”",
+    "link": "https://fortune.com/2026/10/05/openai-piloting-mission-interview-for-job-candidates/",
+    "pubDate": "Tue, 06 Oct 2026 00:58:19 +0000",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Birchcliff Energy stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-birchcliff-energy-stock-rallying-today-93CH-4935074",
+    "pubDate": "2026-10-06 18:22:37",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Ciena stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-ciena-stock-surging-today-93CH-4935072",
+    "pubDate": "2026-10-06 18:20:44",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is WELL Health Technologies stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-well-health-technologies-stock-sliding-today-93CH-4935066",
+    "pubDate": "2026-10-06 18:13:55",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Discovery Mining stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-discovery-mining-stock-sliding-today-93CH-4935065",
+    "pubDate": "2026-10-06 18:13:30",
+    "fetchedAt": "2026-10-06T19:01:37.376Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
     "desc": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce.",
     "link": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
@@ -5830,573 +6398,5 @@
     "link": "https://www.investing.com/news/stock-market-news/up-57-since-june-this-aipicked-pharma-stock-keeps-climbing-4933262",
     "pubDate": "2026-10-06 02:16:28",
     "fetchedAt": "2026-10-06T03:01:36.137Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Hang Seng tests resistance at 24,365 under bearish trend: Live",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
-    "pubDate": "2026-10-06 02:02:09",
-    "fetchedAt": "2026-10-06T03:01:36.137Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
-    "desc": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
-    "link": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
-    "pubDate": "Tue, 06 Oct 2026 01:47:32 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
-    "desc": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
-    "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-    "pubDate": "Tue, 06 Oct 2026 01:55:50 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-    "desc": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
-    "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-    "pubDate": "Mon, 05 Oct 2026 15:29:13 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The job interview question you don't have to answer",
-    "desc": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-    "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 04 Oct 2026 23:22:07 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "UK diesel prices top £2 a litre for first time, RAC says",
-    "desc": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-    "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 15:50:05 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How India became dangerously addicted to Chinese imports",
-    "desc": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-    "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 05 Oct 2026 01:42:11 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Suppliers pile pressure on government over energy bills",
-    "desc": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 03 Oct 2026 08:58:44 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "desc": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 03 Oct 2026 04:38:31 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-    "desc": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 14:30:48 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-    "desc": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:00:06 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-    "desc": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-    "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:32:59 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-    "desc": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:00:05 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-    "desc": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 10:47:07 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why UK diesel prices have breached the £2 per litre mark",
-    "desc": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
-    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 13:38:22 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-    "desc": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-    "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:45:06 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "desc": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Thames Water apologises after £145,000 customer billing mistake",
-    "desc": "The firm has apologised to the family.",
-    "link": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 18:09:16 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-    "desc": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 18:38:22 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "bbc",
-    "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-    "desc": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 08:54:00 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "ft",
-    "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
-    "desc": "US president announces the move during a trip to the agricultural state of Nebraska",
-    "link": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 00:46:01 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "ft",
-    "title": "Hong Kong quizzes HSBC over Singapore AI hub decision",
-    "desc": "Monetary authority strives to bolster Chinese territory’s status as international financial capital",
-    "link": "https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 01:32:21 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "ft",
-    "title": "Trump says Maga Inc will pay for ads instead of taxpayers after backlash",
-    "desc": "US president reverses course after defending television spots that ran during National Football League games and ‘Saturday Night Live’",
-    "link": "https://www.ft.com/content/ee7796ef-f6ec-433c-866d-c50f91a25694?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 00:54:30 GMT",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Former World Chess Champion Kasparov Says US Warned Him About Kremlin Kill Plot",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Former World Chess Champion Kasparov Says US Warned Him About Kremlin Kill Plot</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/world/former-world-chess-champion-kasparov-says-us-warned-him-about-kremlin-kill-plot-6098683?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Chris Summers via The Epoch Times</a>,</em></p> <p>Former world chess champion <strong>Garry Kasparov has said the security services from both the United States and Lithuania have warned him that his life was in danger</strong>, after a Russian plot was discovered which allegedly targeted Kremlin critics living abroad.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kaspar.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kaspar.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c0276507-f8a5-45fd-843f-47307a1cecb1\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/kaspar.jpg\" /></a></p> <p>Last month the U.S. Department of Justice (DOJ) said five people had been charged with plotting, on behalf of Russian intelligence, to assassinate two opposition figures.</p> <p>One of the targets was in the United States, and the other in Lithuania.</p> <p><strong>DOJ did not identify Kasparov</strong> - who moved to the United States from Russia in 2013 and lives in New York - but in a Substack post the 63-year-old former chess grandmaster said he had been warned his life was in danger.</p> <p>He identified the other person as Ivan Tyutrin, the co-founder of the Free Russia Forum, who is based in Lithuania.</p> <p>\"<strong>Neither I nor Ivan have been told explicitly that we were the targets</strong> whose names are redacted in the indictment of the assassins,\" Kasparov said.</p> <p>\"We were, however, warned by security services in Lithuania and the United States that our lives were in danger and that we should take precautions, which I did and will continue to do.\"</p> <p>The Epoch Times reached out to the Free Russia Forum for comment, but did not receive a response by publication time.</p> <p>Kasparov - who was born in Baku in what is now Azerbaijan, when it was part of the Soviet Union - became famous when, at the age of 22, <strong>he beat Anatoly Karpov to become world chess champion</strong>, a title he held until 2000.</p> <p>Kasparov, an increasingly outspoken critic of Russian President Vladimir Putin, chairs the Renew Democracy Initiative, a nonprofit that describes itself as an \"intellectual home for the pro-democracy movement\" globally.</p> <p>In his The Next Move Substack, Kasparov said his friend and fellow opposition figure, Boris Nemtsov, was \"<strong>murdered in cold blood in front of the Kremlin</strong>\" in February 2015.</p> <h2>'I Will Not Hide': Kasparov</h2> <p>\"But I will not stop, and I will not hide, even if I thought it was possible to do so. I believe that the best defense is a good offense,\" Kasparov said.</p> <p>\"My family and I will not truly be safe as long as Putin is in power in Russia - a circumstance shared by millions.\"</p> <p><strong>The DOJ only referred to the targets of the alleged Russian intelligence plot as Victim-1, who lived in the United States, and Victim-2, who lived in Lithuania.</strong></p> <p>They said a U.S. national had been offered $40,000 to \"eliminate\" or \"disappear\" Victim-1.</p> <p>A U.S. citizen was also contacted about surveilling and murdering Victim-2, who was allegedly described by the plotters as a \"bad guy\" who was \"telling lies about Russia.\"</p> <p><strong>The Kremlin said last month it saw no reason to comment on the U.S. allegations</strong>, saying there was an absence of credible evidence and facts.</p> <p>Russia has previously denied conducting such plots on foreign soil.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-06T01:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/05/2026 - 21:45</span>",
-    "link": "https://www.zerohedge.com/geopolitical/former-world-chess-champion-kasparov-says-us-warned-him-about-kremlin-kill-plot",
-    "pubDate": "Tue, 06 Oct 2026 01:45:00 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "West Virginia Wants Nuclear's Benefits, Somebody Else Can Handle The Waste",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">West Virginia Wants Nuclear's Benefits, Somebody Else Can Handle The Waste</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>When West Virginia <a href=\"https://www.zerohedge.com/energy/west-virginia-joins-nuclear-campus-race-waste-storage-focus\">first announced</a> that they had joined the race to host Nuclear Lifecycle Innovation Campuses (NLICs), the central bargain was already clear: <strong>nuclear investment comes with responsibility for used fuel</strong>. </p> <p>We’ve <a href=\"https://www.zerohedge.com/energy/five-states-make-cut-50-billion-nuclear-campuseshttps://www.zerohedge.com/energy/five-states-make-cut-50-billion-nuclear-campuses\">covered this</a> concept a couple times now, highlighting states like Texas and New Mexico that back nuclear investment while fighting storage of out-of-state spent fuel.</p> <p>Now, West Virginia has joined the club of pro-nuclear pretenders.</p> <p>Governor Patrick Morrisey signed an <a href=\"https://wvpress.org/breaking-news/wv-touted-ability-to-fast-track-permits-listed-potential-sites-in-nuclear-campus-bid/\">exploratory agreement</a> with DOE and announced West Virginia's entry as the sixth contender in the first week of September. The governor claimed he and his staff went <strong>above and beyond to be considered</strong> for an NLIC.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Nuclear%20Fuel%20Cycle%20%281%29.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Nuclear%20Fuel%20Cycle%20%281%29.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7e903a7e-3dec-4c2e-afdf-9548e7e39fdd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Nuclear%20Fuel%20Cycle%20%281%29.png\" /></a></p> <p>It's not surprising, considering over half the states in the country applied for the program with the knowledge that the campuses could attract up to <strong>$50 billion in investment and create nearly 25,000 jobs, each</strong>.</p> <p>The frustrating part is that the expectation to take in used nuclear fuel wasn't some secret buried in the fine print. West Virginia's submitted NLIC <a href=\"https://www.ans.org/news/2026-09-30/article-8448/west-virginias-nlic-proposal-revealed-through-foia-request/\">proposal</a> made <strong>temporary used fuel storage a top priority</strong>, alongside research into longer-term disposal. Its September agreement explicitly anticipated addressing out-of-state spent fuel and other radioactive waste.</p> <p>This all only came to light on September 25th when the Charleston Gazette-Mail <a href=\"https://observerwv.com/gov-morriseys-nuclear-plan-draws-fire-in-jefferson-county-and-beyond/\">reported</a> what the administration had actually proposed, using documents obtained through a public-records request. The sales pitch suddenly had an inconveniently readable paper trail.</p> <p>Multiple lawmakers, even pro-nuclear Republicans, raised concerns about constituents being blindsided. <a href=\"https://wvmetronews.com/2026/09/28/administration-governors-vow-that-west-virginia-will-not-be-a-dumping-ground-overrides-first-pitch-to-feds/\">Delegate Josh Holstein said</a> Boone County's elected <strong>representatives had not been informed</strong> that the former Hobet mine was among the proposed sites.</p> <p>By September 27th, Morrisey put out a formal statement declaring a hard flip from his previous posturing: \"<em>West Virginia will not be a dumping ground for nuclear waste. Period.</em>\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">The Gazette got it wrong. This Friday’s story intentionally misrepresented my administration’s energy plans without giving me a chance to address their claims and slanted coverage. Here's the truth: We are pursuing nuclear generation and manufacturing to bring high-paying jobs to West Virginia. Our recent application to the U.S. Department of Energy was part of that effort. We want to build on our existing strengths in coal and natural gas to create more jobs and opportunity, stronger communities, and a higher standard of living. But West Virginia will not be a dumping ground for nuclear waste. Period. I have directed my Office of Energy to ensure that every site identified in our final Nuclear Campus application is considered only for nuclear generation or manufacturing - not as a dump. I will keep fighting for investments that can bring thousands of high-paying jobs to our state. I will also protect West Virginia’s beauty and heritage. We can pursue new opportunities without becoming a dumping ground. More energy jobs and manufacturing jobs are on the table. Nuclear waste dumps are not. We've had enough fake news.</p> — Governor Patrick Morrisey (@wvgovernor) <a href=\"https://x.com/wvgovernor/status/2104257712338989079?ref_src=twsrc%5Etfw\">September 27, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>By September 30th, the NLIC hosting deadline, state energy director Nicholas Preservati <a href=\"https://wvmetronews.com/2026/09/30/west-virginia-stands-down-on-pursuit-of-nuclear-energy-hub/\">told DOE</a> West Virginia was \"unable to execute the Hosting Agreement and commit fully to its requirements.\" The letter still surprisingly proclaimed support for a national nuclear renaissance.</p> <p>It’s just somebody else's responsibility, apparently. As with Texas and New Mexico, the enthusiasm looks considerably thinner once nuclear's less glamorous obligations enter the conversation.</p> <p>West Virginia has not banned nuclear development, but it has walked away from this attempt to connect the industry's benefits with its lifecycle responsibilities.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-06T01:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/05/2026 - 21:20</span>",
-    "link": "https://www.zerohedge.com/energy/west-virginia-wants-nuclears-benefits-somebody-else-can-handle-waste",
-    "pubDate": "Tue, 06 Oct 2026 01:20:00 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Pentagon Raises Combat Pay For First Time Since 2002 As Iran War Persists",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Pentagon Raises Combat Pay For First Time Since 2002 As Iran War Persists</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://news.antiwar.com/2026/10/04/pentagon-raises-combat-pay-for-the-first-time-since-2002-as-iran-war-continues/\"><em>Authored by Dave DeCamp via AntiWar.com,</em></a></p> <p>The Pentagon has <strong>raised combat pay for US troops for the first time since 2002</strong>, <a href=\"https://taskandpurpose.com/news/pentagon-combat-pay-raise-iran-war/\"><em>Task & Purpose</em> has reported</a>, as the Iran war continues and another round of escalation between the US and Iran appears to be coming.</p> <p>Pentagon spokesman Sean Parnell announced the pay increase last week. \"Our troops in harm’s way deserve compensation that reflects their risk. <strong>For the first time in over two decades, the Department of War is increasing Hostile Fire Pay and Imminent Danger Pay</strong>,\" <a href=\"https://x.com/SeanParnellASW/status/2105717407390052780\">he wrote on X</a>.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/marinec.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/marinec.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"60863c16-5b04-419f-88f4-dfa01f6440af\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/marinec.jpg\" /></a> <figcaption><em>Marine Corps file image</em></figcaption></figure><p>Parnell said that Hostile Fire Pay, which troops can receive if their base or unit comes under enemy fire, has been <strong>increased to $450 per month</strong>,<strong> double the previous amount</strong>.</p> <p>Imminent Danger Pay, provided to troops \"subject to the threat of physical harm or imminent danger,\" has increased to a maximum of $275 per month, up $50 from the previous rate. US troops can receive either Hostile Fire Pay or Imminent Danger Pay, but cannot receive both simultaneously.</p> <p>While increasing combat pay, the Pentagon is also reducing the maximum amount troops can receive in Hardship Duty Pay-Location from $150 to $100 per month. The benefit compensates troops stationed in areas with particularly difficult living conditions, rather than for exposure to combat.</p> <p>After the Iran war started, the <strong>Pentagon <a href=\"https://www.dfas.mil/MilitaryMembers/payentitlements/Pay-Tables/IDP-Areas/\">expanded the locations</a> that are eligible for Imminent Danger Pay</strong> <a href=\"https://www.dfas.mil/MilitaryMembers/payentitlements/Pay-Tables/IDP-Areas/\">to include</a> Arab states that host US bases, Turkey, Cyprus, the Greek island of Crete, the US base at Diego Garcia, and the waters of the Arabian Gulf, Arabian Sea, and Gulf of Oman.</p> <p>Throughout the war in Iran, US bases across the Middle East have been pounded by Iranian missiles and drones, resulting in a significant number of US casualties, which have been downplayed by the Pentagon.</p> <p>According to the Pentagon’s <a href=\"https://dcas.dmdc.osd.mil/dcas/conflictCasualties/oefu/wounded\">official numbers</a>, since the US and Israel started the war with a sneak attack on Iran on February 28, <strong>at least 19 US troops have been killed, and 861 have been wounded</strong>.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">——> Pentagon doubles combat pay for troops under fire • Hostile-fire pay jumps from $225 to $450 a month starting today • Imminent-danger pay rises to $275 as U.S. forces stay in Iran-related danger zones <a href=\"https://t.co/RxEXmaq53p\">https://t.co/RxEXmaq53p</a></p> — Odisus (@Odisus) <a href=\"https://x.com/Odisus/status/2105802713284136993?ref_src=twsrc%5Etfw\">October 1, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>According to a recent report <a href=\"https://archive.ph/iQWLc\">from <em>The Washington Post</em></a>, the Pentagon has not reported all of the US military deaths in the region since the conflict began. The report put the number of deaths of US service members at up to 23, though it said not all undisclosed deaths were directly tied to the conflict, and it also said that three civilian contractors have died.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-06T00:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/05/2026 - 20:55</span>",
-    "link": "https://www.zerohedge.com/military/pentagon-raises-combat-pay-first-time-2002-iran-war-persists",
-    "pubDate": "Tue, 06 Oct 2026 00:55:00 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Canada Has The Nuclear Technology. Why Buy The Dependency?",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Canada Has The Nuclear Technology. Why Buy The Dependency?</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Saskatchewan’s recent <a href=\"https://www.saskatchewan.ca/government/news-and-media/2026/september/29/saskatchewan-advances-nuclear-power-to-support-long-term-energy-security\">announcement</a> envisages two large reactors supplying more than <strong>2,000 MW in the northwest</strong>, potentially starting in 2042, plus at least 600 MW from small modular reactors near Estevan.</p> <p>The ambition makes sense. The willingness to acquire more foreign dependencies… <strong>does not</strong>.</p> <p>The list of potential vendors for large reactors is short:</p> <ul><li>Westinghouse and its AP1000</li> <li>AtkinsRealis and Canadian CANDU technology</li> </ul><p>Will Canada import Westinghouse and their <strong>American</strong> reactor technology, or keep everything <strong>in-house</strong> with AtkinsRealis and the CANDU?</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/CANDU-reactors.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/CANDU-reactors.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ee71b0c2-0f1c-4b3d-82da-4042d072c796\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/CANDU-reactors.jpg\" /></a></p> <p>In today's era of <a href=\"https://www.zerohedge.com/markets/national-energy-security-strategy\">national energy security</a>, it's not exactly clear why Canadian leadership is taking more than 3 seconds to make the logical choice.</p> <p>Saskatchewan is choosing between building their own homegrown reactor technology with an almost fully domesticated fuel and manufacturing supply chain, or instead, importing American nuclear technology and becoming reliant on US fuel and supply chain support for the next century.</p> <p><em>Decisions, decisions…</em></p> <p>While Westinghouse does wear a metaphorical red leaf on their collar (given their Canadian company ownership with Cameco and Brookfield), the AP1000 reactor technology is still American-based and is subject to export controls from the US.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-03%20at%2010.52.33%E2%80%AFPM.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-03%20at%2010.52.33%E2%80%AFPM.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d02efcf8-8558-4ccf-9ea0-6e4b52d58033\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-03%20at%2010.52.33%E2%80%AFPM.png\" /></a></p> <p>On top of that, one of the biggest dependencies Canada will find themselves with is an <strong>additional need for uranium enrichment</strong>. They've already incurred a small amount of this pain with the BWRX-300 project at Darlington, but otherwise, the country runs on natural uranium due to the design of the CANDU reactor fleet.</p> <p>One of the best features of the CANDU reactor is its heavy water moderator that allows it to use <strong>uranium enriched to as low as under 1% U-235</strong>, which is similar to the enrichment level of uranium that is pulled straight out of the ground. This allows the Canadian nuclear industry to largely <strong>skip the need for uranium enrichment</strong>, which is a <a href=\"https://www.zerohedge.com/energy/doe-demands-faster-uranium-enrichment-buildout-whos-answering-call\">painful bottleneck</a> which will likely hold back the nuclear renaissance both in the U.S. and abroad.</p> <p>The majority of the rest of the reactors in the world require the uranium that's used inside their cores to be enriched to somewhere between 3% and 5% U-235.</p> <p>Why voluntarily add a strategic bottleneck to a system that already avoids it?</p> <p>And while it's not exactly an apples-to-apples comparison, the recent history of major nuclear projects in the two countries is painful to look at side by side.</p> <p>The AP1000 reactors at Vogtle 3 and 4 in Georgia came in <strong>tens of billions of dollars over budget and years late</strong>. The sister project, VC Summer, wasn't even finished and was abandoned.</p> <p>Compare that to the recent nuclear mega project of heavily refurbishing four CANDU reactors at the Darlington site. The project <a href=\"https://www.opg.com/reporting/darlington-refurbishment-reports/news/darlington-refurbishment-performance-update-q1-2026/\">finished</a> <strong>4 months early and CAD$150m under budget</strong>. A similar refit at the Bruce site <a href=\"https://news.ontario.ca/en/release/1007558/ontario-delivers-record-setting-nuclear-refurbishment-at-bruce-ahead-of-schedule-and-under-budget\">finished</a> <strong>7 months early and also under budget</strong>.</p> <p>There may also be a political calculation here with the <a href=\"https://www.zerohedge.com/political/canada-us-trade-war-erupts-setting-new-50-tariffs-canadian-goods\">ongoing</a> tariff fight. Canadian leaders could see an AP1000 order as a way to keep Trump happy and buy some breathing room. Westinghouse’s Canadian ownership would help sell the decision at home, while its American reactor technology would give Trump an export victory to advertise.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-06T00:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/05/2026 - 20:30</span>",
-    "link": "https://www.zerohedge.com/energy/canada-has-nuclear-technology-why-buy-dependency",
-    "pubDate": "Tue, 06 Oct 2026 00:30:00 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Markets Notably Higher",
-    "desc": "(RTTNews) - The Australian stock market is notably higher on Tuesday, extending the gains in the previous two sessions, following the broadly positive cues from Wall Street overnight. The benchmark S&P/ASX 200 index is moving well above the 8,700 level, with gains in mining and t",
-    "link": "https://www.nasdaq.com/articles/australian-markets-notably-higher-0",
-    "pubDate": "Tue, 06 Oct 2026 01:43:54 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Higher Open Expected For Indonesia Stock Market",
-    "desc": "(RTTNews) - The Indonesia stock market has moved higher in two straight sessions, climbing almost 110 points or 1.6 percent in that span. The Jakarta Composite Index now sits just beneath the 6,120-point plateau and it's likely to open to the upside again on Tuesday.",
-    "link": "https://www.nasdaq.com/articles/higher-open-expected-indonesia-stock-market-0",
-    "pubDate": "Tue, 06 Oct 2026 01:31:20 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Hong Kong Stock Market May Extend Monday's Gains",
-    "desc": "(RTTNews) - The Hong Kong stock market has alternated between positive and negative finishes through the last five trading days since the end of the three-day slide in which it had given up almost 600 points or 2.5 percent. The Hang Seng now sits just above the 23,830-point plate",
-    "link": "https://www.nasdaq.com/articles/hong-kong-stock-market-may-extend-mondays-gains",
-    "pubDate": "Tue, 06 Oct 2026 01:01:20 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Exclusive: OpenAI is piloting a &#8216;mission interview&#8217; for job candidates",
-    "desc": "The idea is to test how candidates think, and how they'll contribute to the company's goal to 'to ensure that artificial general intelligence (AGI) benefits all of humanity.'",
-    "link": "https://fortune.com/2026/10/05/openai-piloting-mission-interview-for-job-candidates/",
-    "pubDate": "Tue, 06 Oct 2026 00:58:19 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Nvidia backs startup Reactor as buzz grows for world models",
-    "desc": "As world models find new uses in robot training and control, Reactor aims to supply the computing power and software needed to run them.",
-    "link": "https://fortune.com/2026/10/05/nvidia-backs-startup-reactor-buzz-grows-world-models/",
-    "pubDate": "Tue, 06 Oct 2026 00:42:01 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Sam Altman says the world should accept some ‘bad things’ happening with AI as the industry signs on to Trump’s voluntary safety pact",
-    "desc": "But Altman said “catastrophic risks” are not acceptable.",
-    "link": "https://fortune.com/2026/10/05/sam-altman-ai-risks-bad-things-benefits-trump-voluntary-safety-pact-openai-regulation/",
-    "pubDate": "Mon, 05 Oct 2026 19:55:18 +0000",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Exclusive-Accenture contractor removed from FBI following damaging data breach, sources say",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusiveaccenture-contractor-removed-from-fbi-following-damaging-data-breach-sources-say-4933183",
-    "pubDate": "2026-10-06 01:54:41",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is SoftBank stock declining today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-declining-today-93CH-4933227",
-    "pubDate": "2026-10-06 01:45:23",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "KKR to acquire Gen II Fund Services for $5.1 billion in private-markets push",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/kkr-to-acquire-gen-ii-fund-services-for-51-billion-in-privatemarkets-push-4933222",
-    "pubDate": "2026-10-06 01:37:26",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "U.S. stock futures steady after Nasdaq hits record on reduced Fed hike bets",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-hits-record-on-reduced-fed-hike-bets-4933219",
-    "pubDate": "2026-10-06 01:33:50",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "McDonald’s hit with class action alleging AI-powered menu price-fixing",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/mcdonalds-hit-with-class-action-alleging-aipowered-menu-pricefixing-4932870",
-    "pubDate": "2026-10-06 01:30:41",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Trump expands access to tax-exempt diesel fuel",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/trump-to-issue-order-expanding-access-to-taxexempt-diesel-fuel-sources-say-4932600",
-    "pubDate": "2026-10-06 01:30:24",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "US judge blocks Trump policy of fining migrants up to $1.8 million",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-judge-blocks-trump-policy-of-fining-migrants-up-to-18-million-4933185",
-    "pubDate": "2026-10-06 01:12:36",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "SK Hynix trapped below SMA20 in tight range: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-below-sma20-in-tight-range-live-levels-93CH-4933195",
-    "pubDate": "2026-10-06 01:06:21",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nikkei 225 prints Doji at 70,412 after 11% surge: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-    "pubDate": "2026-10-06 01:06:14",
-    "fetchedAt": "2026-10-06T02:01:40.778Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
-    "desc": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-    "link": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
-    "pubDate": "Mon, 05 Oct 2026 23:14:39 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
-    "desc": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
-    "link": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
-    "pubDate": "Mon, 05 Oct 2026 22:00:01 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
-    "desc": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
-    "link": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
-    "pubDate": "Mon, 05 Oct 2026 23:41:11 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    "desc": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "AI boom could trigger market shocks, Bank of England boss warns",
-    "desc": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-    "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 10:05:25 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "HMRC urged to scrutinise tax implications of Man City case",
-    "desc": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 18:21:22 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oil prices slip as traders weigh strong Mideast exports against Gulf tensions",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-prices-slip-as-traders-weigh-strong-mideast-exports-against-gulf-tensions-4933163",
-    "pubDate": "2026-10-06 00:42:22",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Cornell students stage anti-rape rally",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/cornell-students-stage-antirape-rally-4933137",
-    "pubDate": "2026-10-06 00:36:24",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Trump signs order allowing road use of tax-exempt dyed diesel",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/trump-signs-order-allowing-road-use-of-taxexempt-dyed-diesel-4933160",
-    "pubDate": "2026-10-06 00:36:13",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "KKR to buy fund administrator Gen II in $5.1 billion deal including debt",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/kkr-to-buy-fund-administrator-gen-ii-in-51-billion-deal-including-debt-4933145",
-    "pubDate": "2026-10-06 00:24:59",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Australia’s ABC rejects AI copyright carveout, believes already been scraped",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-4933144",
-    "pubDate": "2026-10-06 00:24:24",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "OpenAI in talks with UAE funds to anchor $30 bln funding round - Bloomberg",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/openai-in-talks-with-uae-funds-to-anchor-30-bln-funding-round--bloomberg-4933143",
-    "pubDate": "2026-10-06 00:24:16",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oil prices edge lower as markets weigh Aramco price cuts, M.East supplies",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
-    "pubDate": "2026-10-06 00:09:03",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "LIV Golf secures BC Partners ’ credit funding to support restructuring",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/liv-golf-secures-bc-partners--credit-funding-to-support-restructuring-4933123",
-    "pubDate": "2026-10-06 00:06:26",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
-    "desc": "<p>Money is needed now for a system that has left families including mine struggling their way unsupported and forgotten </p><p>As one of many hundreds of thousands of people in the UK with a parent with Alzheimer’s, the passage in Andy Burnham’s speech about social care moved me to tears.</p><p>My mother had not even been diagnosed when I watched Theresa May <a href=\"https://www.theguardian.com/politics/2017/may/18/theresa-may-launches-conservative-manifesto-for-community-and-country\">announce her 2017 general election manifesto</a> in a hall in Halifax – with care funding at its heart.</p> <a href=\"https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes",
-    "pubDate": "Sun, 04 Oct 2026 10:37:59 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
-    "desc": "<p>Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures</p><p>Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU.</p><p>The UK is an outlier in choosing not to put import taxes on Chinese vehicles, even as the US has <a href=\"https://www.theguardian.com/business/article/2024/may/14/joe-biden-tariff-chinese-made-electric-vehicles\">shut them out almost entirely</a>, and the EU imposes <a href=\"https://www.theguardian.com/business/2024/oct/04/eu-chinese-ev-tariffs-split-vote-germany-car-firms\">duties of up to 45%</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
-    "pubDate": "Sun, 04 Oct 2026 05:00:18 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
-    "desc": "<p>In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-ticking</p><p>Andy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on the brakes, kicking most reforms into the 2030s.</p><p>Local government reorganisation is on hold, along with an overhaul of the much-maligned water industry. Social care and significant welfare reform are matters to be resolved by the next government.</p> <a href=\"https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
-    "pubDate": "Sat, 03 Oct 2026 15:00:02 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
-    "desc": "<p>Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next election</p><p>The Conservatives are planning to make sweeping cuts beyond the <a href=\"https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search\">£47bn announced last year</a> if they win the next election, according to leaked comments by the shadow chancellor.</p><p>Speaking last year when he was shadow business secretary, Andrew Griffith told Conservative members he and fellow shadow cabinet ministers had discussed making further cuts in “every part of government”.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-    "pubDate": "Sat, 03 Oct 2026 15:00:01 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "‘There’s no such thing as democracy’: Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
-    "desc": "<p>Who is really in charge – the people or the markets? In the first episode of Radical Thinking, a new series from the Guardian, senior economics commentator Aditya Chakrabortty speaks to the former Greek finance minister Yanis Varoufakis about what it was like during the eurozone crisis when he went head to head with those who wanted to stop his reforms</p><p>Watch Radical Thinking with Aditya Chakrabortty <a href=\"https://www.youtube.com/@politicsweekly\">here</a>.</p> <a href=\"https://www.theguardian.com/news/audio/2026/oct/03/democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/news/audio/2026/oct/03/democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
-    "pubDate": "Sat, 03 Oct 2026 07:00:53 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
-    "desc": "<p>Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation project</p><p>The US ⁠justice department is not reopening a criminal investigation into former Federal Reserve chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> ⁠for cost overruns ⁠related ​to the central bank’s building renovation project, a department spokesperson said on Friday.</p><p>Attorney general <a href=\"https://www.theguardian.com/us-news/todd-blanche\">Todd ⁠Blanche</a> – in comments to <a href=\"https://www.bloomberg.com/news/articles/2026-10-02/doj-not-reopening-criminal-probe-into-fed-s-powell-blanche-says\">Bloomberg News</a>, which first reported the development – said he has not ruled out ⁠continuing to look into the project’s oversight and potentially take ​action if evidence of ‌wrongdoing came to ‌light.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
-    "pubDate": "Fri, 02 Oct 2026 22:32:21 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
-    "desc": "<p>US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\"><strong>US added just 29,000 jobs in September in sharp drop from last month’s gains</strong></a></p></li></ul><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-    "pubDate": "Fri, 02 Oct 2026 15:58:01 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
-    "desc": "<p>Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%</p><p>US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a sign of a cooling labor market in the final jobs report before the midterm election.</p><p>The numbers were under half of economists’ expectations of <a href=\"https://www.wsj.com/economy/jobs/adp-says-private-sector-hiring-picked-up-in-september-d8c0f59e\">just under 70,000 new jobs</a>. Most job gains were concentrated in the healthcare industry, which added 17,000 new jobs, while the information, financial and professional industries saw losses, according to the latest data from the US Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
-    "pubDate": "Fri, 02 Oct 2026 14:04:29 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "John Maynard Keynes: the cultured economist who governments turn to in a crisis",
-    "desc": "<p>A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich Hayek</p><p>The sound of guns from the advancing German armies could be heard clearly by John Maynard Keynes as his train trundled across northern France in the spring of 1918. The evidence of the struggle on the western front was everywhere but Keynes, then a Treasury official, was not heading to Paris on war business; he was off to buy some art.</p><p>Keynes made the risky trip to attend an auction of the studio of Edgar Degas, who had died the previous year. The man who would become the foremost economist of the 20th century returned to London with some impressionist treasures for the National Gallery, having successfully petitioned the chancellor of the exchequer to spend £20,000 at the sale.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
-    "pubDate": "Fri, 02 Oct 2026 14:00:09 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK diesel price hits record high of £2 a litre",
-    "desc": "<p>France proposes that EU nations and IEA release oil and diesel from reserves as Iran war drives up cost worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/21/diesel-global-supply-shortage-record-prices-iran-war-energy-crisis-brent-crude\">‘Half my day’s pay goes to filling up my car’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2 a litre.</p><p>The price of a litre at UK forecourts has risen 40.5% since late February, when the US-Israel war on Iran began disrupting supplies of crude and refined oil products from the Gulf, leading to cost increases across the economy.</p> <a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-    "pubDate": "Fri, 02 Oct 2026 13:41:04 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "There is a way to look after people, the planet – and Britain’s growth. It’s what we call the ‘wellbeing economy’ | Jamie Driscoll",
-    "desc": "<p>Imagine the UK with a 20-year investment plan, with green homes and fast transport. We already have the tools to make it happen</p><p>You’ve just left school. What’s your future?</p><p>I know a physics graduate making flat whites; a 30-year-old living in his childhood bedroom who feels like a failure; a lad in Blyth who turned down a job 15 miles away because there’s no bus, and for young people his age car insurance is almost £2,000 a year. Britain’s young people are our greatest resource, and we are failing them because capital markets won’t allocate investment where it is needed. Saying “hope” <a href=\"https://www.theguardian.com/politics/2026/sep/29/andy-burnham-unplugged-labour-conference-sketch\">in a conference speech</a> sounds warm. But people need a plan.</p><p>Jamie Driscoll is a Green party councillor on Newcastle city council and former North of Tyne mayor</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy",
-    "pubDate": "Fri, 02 Oct 2026 13:01:29 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "guardian",
-    "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-    "desc": "<p>Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading.</p><p>The threat of a renewed round of inflation from <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">the persistently high cost of oil</a> has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded.</p> <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-    "pubDate": "Thu, 01 Oct 2026 17:56:18 GMT",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Oil price floor likely rising to $70/bbl, ConocoPhillips chairman says",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 05 Oct 2026 20:22:58 -0400",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BP must make better use of investor capital, CEO O&#x2019;Neill says",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650396-bp-must-make-better-use-of-investor-capital-ceo-oneill-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 05 Oct 2026 20:05:43 -0400",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Review & Preview: Artificial Highs?",
-    "desc": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading.",
-    "link": "https://finance.yahoo.com/m/e58c053f-e869-304f-a891-acec3e7826f5/review-%26-preview%3A-artificial.html?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 23:55:00 +0000",
-    "fetchedAt": "2026-10-06T01:01:29.496Z"
   }
 ]
