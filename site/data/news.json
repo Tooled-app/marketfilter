@@ -1,6 +1,582 @@
 [
   {
     "source": "cnbc",
+    "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+    "desc": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+    "pubDate": "Wed, 07 Oct 2026 18:42:36 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+    "desc": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+    "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
+    "pubDate": "Wed, 07 Oct 2026 18:50:21 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+    "desc": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "pubDate": "Wed, 07 Oct 2026 18:47:30 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "desc": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "pubDate": "Wed, 07 Oct 2026 18:55:10 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
+    "desc": "Third-quarter earnings season kicks off this week and as results roll in they should reveal what the market is eagerly anticipating: blockbuster profits.",
+    "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+    "pubDate": "Wed, 07 Oct 2026 18:19:53 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
+    "desc": "So instead of buying QQQ outright and exposing your portfolio to severe downside risk, buying calls at current option prices is a smarter, capital-efficient way to stay long.",
+    "link": "https://www.cnbc.com/2026/10/07/strange-market-anomaly-is-creating-a-buying-opportunity-in-the-nasdaq-100.html",
+    "pubDate": "Wed, 07 Oct 2026 18:44:33 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+    "desc": "President Trump's order comes amid mounting political pressure to take action on surging diesel prices, with the midterm elections only a month away.",
+    "link": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
+    "pubDate": "Wed, 07 Oct 2026 18:09:33 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
+    "desc": "As affordability pressures mount, Americans are increasingly concerned about their financial future, the New York Fed's data shows.",
+    "link": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
+    "pubDate": "Wed, 07 Oct 2026 18:24:12 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks",
+    "desc": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+    "pubDate": "Wed, 07 Oct 2026 18:18:47 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Another Micron triple? Where we agree with this wildly bullish call and where we don't",
+    "desc": "Micron shares are too cheap. But the debate around the sustainability of the cycle isn't ending anytime soon.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/07/another-micron-triple-where-we-agree-with-this-wildly-bullish-call-and-where-we-dont.html",
+    "pubDate": "Wed, 07 Oct 2026 17:52:55 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+    "desc": "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
+    "link": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
+    "pubDate": "Wed, 07 Oct 2026 04:12:27 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sunrun options activity dominated by a single two-leg structure",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/sunrun-options-activity-dominated-by-a-single-twoleg-structure-93CH-4937352",
+    "pubDate": "2026-10-07 18:50:23",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Dollar rises as Fed minutes reinforce higher-for-longer rate outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+    "pubDate": "2026-10-07 18:43:34",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Gold down as Fed minutes showed policymakers see another rate hike by year end",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/gold-holds-gains-as-oil-flows-recover-treasury-yields-ease-4935492",
+    "pubDate": "2026-10-07 18:37:57",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Fifth Third names Darren King head of expanded Commercial Bank",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/fifth-third-names-darren-king-head-of-expanded-commercial-bank-93CH-4937347",
+    "pubDate": "2026-10-07 18:36:33",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Alamos Gold at John Tumazos conference: growth plan targets 1 million ounces",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/alamos-gold-at-john-tumazos-conference-growth-plan-targets-1-million-ounces-93CH-4937344",
+    "pubDate": "2026-10-07 18:31:32",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Saba Capital sells $239,193 of PIMCO Dynamic Income Strategy fund",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-239193-of-pimco-dynamic-income-strategy-fund-93CH-4937341",
+    "pubDate": "2026-10-07 18:31:02",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Saba Capital buys $16,649 of Gabelli Healthcare & WellnessRx trust",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/saba-capital-buys-16649-of-gabelli-healthcare--wellnessrx-trust-93CH-4937342",
+    "pubDate": "2026-10-07 18:31:02",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "S&P 500, Nasdaq ease from record highs as Treasury yields climb",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-yields-and-oil-rebound-fed-minutes-in-focus-4936151",
+    "pubDate": "2026-10-07 18:30:46",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investing",
+    "title": "Fed minutes show most policymakers see another rate hike by year end",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/fed-minutes-show-most-policymakers-see-another-rate-hike-by-year-end-4937310",
+    "pubDate": "2026-10-07 18:29:19",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+    "desc": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
+    "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 18:31:00 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Fed&#x2019;s minutes show no appetite for a series of interest-rate hikes",
+    "desc": "September&#x2019;s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+    "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 18:28:00 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "SpaceX may chase &#x2018;stunning&#x2019; AI returns by taking on a lot of debt to buy Nvidia chips",
+    "desc": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems.",
+    "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 18:22:00 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Washington and Wall Street chose to delay paying their bills &#x2014; and to put them on your tab",
+    "desc": "The polite word for what the government and Wall Street are doing is deferring payment, like opening a tab at a bar that somebody else will pay later.",
+    "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 17:36:00 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "The &#x2018;Magnificent Seven&#x2019; are now big enough to move the economy. Why that could be a problem.",
+    "desc": "Imagine a small group of companies whose value is greater than the entire economy of almost every single country in the world. By market value, that&#x2019;s roughly where the &#x201c;Magnificent Seven&#x201d; group of tech companies now stands.",
+    "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 17:32:00 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Worse than taking away your parents&#x2019; car keys? Taking away their cell phone. How to protect your aging parents.",
+    "desc": "Parental controls aren&#x2019;t just for kids anymore",
+    "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 17:27:00 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "ft",
+    "title": "SpaceX credit risk jumps on worries over its borrowing spree",
+    "desc": "Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips",
+    "link": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
+    "pubDate": "Wed, 07 Oct 2026 18:05:37 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "ft",
+    "title": "US government bonds steady after strong 10-year Treasury auction",
+    "desc": "French, Italian and UK government bonds under pressure in volatile trading",
+    "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+    "pubDate": "Wed, 07 Oct 2026 18:28:10 GMT",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Byrna Technologies Q3 2026 Earnings Preview",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651126-byrna-technologies-q3-2026-earnings-preview?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:56:50 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nexa Resources raised at Morgan Stanley on compelling valuation, Boliden tender offer",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651120-nexa-resources-raised-at-morgan-stanley-on-compelling-valuation-boliden-tender-offer?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:53:53 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "AngioDynamics Q1 2027 Earnings Preview",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651123-angiodynamics-q1-2027-earnings-preview?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:51:05 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Helen of Troy Q2 2027 Earnings Preview",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651122-helen-of-troy-q2-2027-earnings-preview?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:50:01 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Anthropic unveils low-cost Claude Haiku 5.5 model aimed at 'cost-sensitive tasks'",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651118-anthropic-unveils-low-cost-claude-haiku-55-model-aimed-at-cost-sensitive-tasks?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:46:04 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "OpenAI rolls out new interactive, visual features in GPT-6",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651121-openai-rolls-out-new-interactive-visual-features-in-gptminus-6?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:44:41 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Citi stays constructive on AI, calling the cycle early-to-middle stage",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651119-citi-stays-constructive-on-ai-calling-the-cycle-early-to-middle-stage?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 14:36:02 -0400",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Trump accounts may spark kids' interest in investing: Michael Dell",
+    "desc": "Dell Technologies (DELL) founder and CEO Michael Dell and his wife, Susan, donated $6.25 billion to go toward Trump Accounts, the administration's child savings initiative, in 2025. Now, their pledge will be adding $250 to every eligible child's account. Michael Dell joins Yahoo Finance Senior Reporter Jennifer Schonberger for a conversation about the significance of corporate stock donations into these accounts and how it will contribute to financial education.",
+    "link": "https://finance.yahoo.com/video/trump-accounts-may-spark-kids-184849675.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:48:49 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Nasdaq and S&P Hold Weekly Gains as Small Caps and Dow Slip Midweek",
+    "desc": "Stock Preachers Market Commentary - Major averages split this week as the Nasdaq Composite and S&P 500 held onto gains while the Dow Jones Industrial Average and Russell 2000 turned lower. The Nasdaq rose 1.05% for the week to 27,475.93, and the S&P 500 added 0.92% to 7,793.85, even as both indices fell on the latest session. The Dow slipped 0.06% for the week to 51,145.98, and the Russell 2000 dropped 1.42% to 2,792.80, underscoring a market where large-cap tech and biotech names are carrying t",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-hold-weekly-gains-181400139.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:14:00 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Indexes Fall, Treasury Yields Mixed Ahead of Fed Minutes",
+    "desc": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-treasury-175755567.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 17:57:55 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Intuitive Machines Falls 7% Despite Scaling Up Satellite Manufacturing; Rocket Lab and Redwire Drop 5%",
+    "desc": "Space stocks are selling off hard as a group while the broader market barely budges, and the gap between the two raises a pointed question about what is spooking investors in launch providers, spacecraft builders, and space infrastructure firms all at once.",
+    "link": "https://247wallst.com/investing/2026/10/07/intuitive-machines-falls-7-despite-scaling-up-satellite-manufacturing-rocket-lab-and-redwire-drop-5/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 17:54:14 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Trump Accounts are a 'complement' to Social Security: SSA commissioner explains",
+    "desc": "Yahoo Finance Fed Correspondent Jennifer Schonberger sits down with the CEO of the US Internal Revenue Service (IRS) and commissioner of the Social Security Administration (SSA), Frank Bisignano, to discuss recent changes made to the Trump Accounts program and how he sees the program expanding moving forward. Bisignano is also overseeing the growth phase of Trump Accounts.",
+    "link": "https://finance.yahoo.com/video/trump-accounts-complement-social-security-184839086.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:48:39 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "SCWorx Announces Resumption of Nasdaq Trading and Highlights Improved Operating Performance and Growth Strategy",
+    "desc": "Company Reports Significant Improvement in Gross Profit, Net Loss and Operating Cash Used for the First Half of 2026; Continues to Expand Healthcare Customer Base and AI-Enabled Data Management PlatformMIDDLETON, Mass., Oct. 07, 2026 (GLOBE NEWSWIRE) -- SCWorx Corp. (Nasdaq: WORX) (\"SCWorx\" or the \"Company\"), a provider of healthcare supply chain data management and analytics solutions, following the resumption of trading of its common stock today on The Nasdaq Capital Market, highlighted the Co",
+    "link": "https://finance.yahoo.com/healthcare/articles/scworx-announces-resumption-nasdaq-trading-182300243.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:23:00 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Retreat in Afternoon Trading",
+    "desc": "Energy stocks were lower Wednesday afternoon, with the NYSE Energy Sector Index down 0.7% and the St",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-retreat-afternoon-175410945.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 17:54:10 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "NOK Stock Increases 16.2% in Six Months: What Should Investors Do?",
+    "desc": "Nokia's AI & Cloud growth and expanding AI networking efforts support its outlook, but cyclical telecom spending and competition remain concerns.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nok-stock-increases-16-2-172500838.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 17:25:00 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "If the Fed Raises Interest Rates in October, History Says Investors Should Make This 1 Move",
+    "desc": "Key PointsThe Fed could raise its benchmark rates again this month.",
+    "link": "https://www.nasdaq.com/articles/if-fed-raises-interest-rates-october-history-says-investors-should-make-1-move",
+    "pubDate": "Wed, 07 Oct 2026 18:30:00 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Star Bulk Carriers Director Erhardt Koert Purchases 6,000 Shares. Is the Cargo Boom Set to Continue?",
+    "desc": "Key PointsThe transaction involved 6,000 shares for a total value of $169,620 on September 15, 2026.",
+    "link": "https://www.nasdaq.com/articles/star-bulk-carriers-director-erhardt-koert-purchases-6000-shares-cargo-boom-set-continue",
+    "pubDate": "Wed, 07 Oct 2026 18:28:01 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Chevron Is Offloading Hess Midstream and Taking a $3 Billion to $4 Billion Hit. Here's What It Means for CVX Stock.",
+    "desc": "Key PointsChevron has agreed to a new midstream services deal with Hess Midstream.",
+    "link": "https://www.nasdaq.com/articles/chevron-offloading-hess-midstream-and-taking-3-billion-4-billion-hit-heres-what-it-means",
+    "pubDate": "Wed, 07 Oct 2026 18:25:02 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Canadian Stocks Slide; TSX Down Sharply",
+    "desc": "(RTTNews) - The Canadian market, which slipped deeper into the red after a weak start, continues to languish in negative territory Wednesday afternoon, as stocks from materials, financials and industrials sectors reel under severe selling pressure.",
+    "link": "https://www.nasdaq.com/articles/canadian-stocks-slide-tsx-down-sharply",
+    "pubDate": "Wed, 07 Oct 2026 18:23:25 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Chewy vs. Coupang: Steady vs. Fluctuating Quarterly Revenue Trends",
+    "desc": "Key PointsCoupang currently appears stronger in absolute revenue volume, outperforming Chewy in every recorded quarter and establishing a consistently higher baseline of total sales over the eight-quarter tracking period shown in the provided financial data for both organizations",
+    "link": "https://www.nasdaq.com/articles/chewy-vs-coupang-steady-vs-fluctuating-quarterly-revenue-trends",
+    "pubDate": "Wed, 07 Oct 2026 18:20:02 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "5 Stocks to Buy That Have Raised Their Dividends Every Year Since 2000",
+    "desc": "Key PointsDividend yield is great, but if you want to build long-term wealth, it's more important to prioritize dividend growth.",
+    "link": "https://www.nasdaq.com/articles/5-stocks-buy-have-raised-their-dividends-every-year-2000",
+    "pubDate": "Wed, 07 Oct 2026 18:20:00 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Here's the Average Woman's Social Security Benefit From Ages 62 to 70 -- And How Women Can Squeeze More From the Program",
+    "desc": "Key PointsThe average woman's Social Security benefit was $1,872.43 as of December 2025 -- $409.85 less than the average man's benefit.",
+    "link": "https://www.nasdaq.com/articles/heres-average-womans-social-security-benefit-ages-62-70-and-how-women-can-squeeze-more",
+    "pubDate": "Wed, 07 Oct 2026 18:07:01 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is SpaceX About to Hand Nvidia a $40 Billion Payday? Here's What it Could Mean for Investors.",
+    "desc": "Key PointsSpaceX is in talks with banks and private equity companies to raise $40 billion.",
+    "link": "https://www.nasdaq.com/articles/spacex-about-hand-nvidia-40-billion-payday-heres-what-it-could-mean-investors",
+    "pubDate": "Wed, 07 Oct 2026 18:01:35 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SK Hynix vs. Taiwan Semiconductor Manufacturing: Which Computer Chip Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsSK Hynix is a dominant leader in high-bandwidth memory crucial for powering artificial intelligence hardware.",
+    "link": "https://www.nasdaq.com/articles/sk-hynix-vs-taiwan-semiconductor-manufacturing-which-computer-chip-stock-better-buy-2026",
+    "pubDate": "Wed, 07 Oct 2026 17:58:02 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Swiss Market Ends Marginally Up",
+    "desc": "(RTTNews) - Swiss stocks swung between gains and losses on Wednesday as elevated oil prices and bond yields amid rising concerns about Middle East tensions and France's fiscal woes rendered the mood cautious.",
+    "link": "https://www.nasdaq.com/articles/swiss-market-ends-marginally-1",
+    "pubDate": "Wed, 07 Oct 2026 17:56:43 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "ARM vs. Marvell Technology: What Revenue Trends for These Artificial Intelligence Companies Tell Investors",
+    "desc": "Key PointsMarvell Technology currently demonstrates a stronger overall revenue profile than ARM by consistently generating higher sales volume and maintaining a smoother upward growth trajectory across the eight evaluated reporting periods.",
+    "link": "https://www.nasdaq.com/articles/arm-vs-marvell-technology-what-revenue-trends-these-artificial-intelligence-companies-tell",
+    "pubDate": "Wed, 07 Oct 2026 17:55:21 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Netflix's Newest Rival Has Nearly $70 Billion in Annual Sales. It Also Carries About $82 Billion of Debt.",
+    "desc": "Key PointsSkydance, created when Paramount closed its purchase of Warner Bros. Discovery, has almost $70 billion in yearly revenue.",
+    "link": "https://www.nasdaq.com/articles/netflixs-newest-rival-has-nearly-70-billion-annual-sales-it-also-carries-about-82-billion",
+    "pubDate": "Wed, 07 Oct 2026 17:54:01 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Stocks Fall Amid Oil, Yields Rise On Mideast Tension",
+    "desc": "(RTTNews) - European stocks closed notably lower on Wednesday, as elevated oil prices and higher bond yields amid an escalation in Middle East tensions and concerns about France's fiscal outlook rendered the mood bearish.",
+    "link": "https://www.nasdaq.com/articles/european-stocks-fall-amid-oil-yields-rise-mideast-tension",
+    "pubDate": "Wed, 07 Oct 2026 17:40:45 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Four tribes partner with Kalshi to launch prediction apps–a move that undercuts Native American opposition to the industry",
+    "desc": "For tribes left out of the $46 billion casino boom, a disputed industry offers a different path.",
+    "link": "https://fortune.com/2026/10/07/tribes-partner-kalshi-launch-prediction-apps-native-american-opposition-industry/",
+    "pubDate": "Wed, 07 Oct 2026 18:42:47 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "America got rich and got sad. A top economist says 2020 broke something that hasn&#8217;t healed",
+    "desc": "It's not a mystery why everyone got sad in 2020. What is: the fact they never recovered. Sam Peltzman sees a \"segregated happiness society.\"",
+    "link": "https://fortune.com/2026/05/03/america-got-rich-and-got-sad-a-retired-legend-of-economics-sees-a-happiness-crash-of-2020/",
+    "pubDate": "Sun, 03 May 2026 11:00:00 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Trump says the U.S. is in ‘very deep discussions’ and will with speak &#8216;very soon&#8217; with Putin over a possible plague case in Russia",
+    "desc": "The World Health Organization said the risk outside Russia is “very low” as authorities investigate the death of an anti-plague institute worker",
+    "link": "https://fortune.com/2026/10/07/trump-putin-russia-possible-plague/",
+    "pubDate": "Wed, 07 Oct 2026 18:33:41 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The new K-shaped economy splits the rich from the ultra-rich: The top 0.1% averages more than $200 million—and is pulling away from the rest of the 1%",
+    "desc": "The top 0.1%'s wealth has more than doubled since 2019, compared with 68% growth for the rest of the top 1%, according to Federal Reserve data",
+    "link": "https://fortune.com/2026/10/07/the-new-k-shaped-economy-wealthy/",
+    "pubDate": "Wed, 07 Oct 2026 18:28:06 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Trump’s tariffs were meant to shrink the trade deficit— but the $106 billion gap just reached its widest since before &#8216;Liberation Day&#8217;",
+    "desc": "The Trump administration has called the trade deficit a “national emergency,” but economists say it’s actually a sign of a resilient American economy.",
+    "link": "https://fortune.com/2026/10/07/trump-tariffs-trade-deficit-widened-106-billion-highest-since-liberation-day-federal-deficit/",
+    "pubDate": "Wed, 07 Oct 2026 18:15:53 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Job-hopping got workers an 18% raise in 2022. Now it’s 8%—and Gen Z is hurt the most",
+    "desc": "The pay bump for switching jobs has shrunk to its smallest edge over staying put in seven years, just as more than half of Gen Z professionals say they’re ready to jump ship.",
+    "link": "https://fortune.com/2026/10/07/gen-z-job-hopping-pay-raise-shrinking-low-hire-low-fire-labor-market/",
+    "pubDate": "Wed, 07 Oct 2026 14:55:43 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Justin Casse passed on the family training business over 4:30 a.m. wake-ups. Now he owns stakes in about 100 racehorses across six countries",
+    "desc": "Casse built a global business spotting future champions—and learned that even the best judgment can’t guarantee a winning investment.",
+    "link": "https://fortune.com/2026/10/07/justin-casse-horse-racing-family-business-bloodstock-agent/",
+    "pubDate": "Wed, 07 Oct 2026 18:02:25 +0000",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is QXO stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-qxo-stock-sliding-today-93CH-4937338",
+    "pubDate": "2026-10-07 18:26:57",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Black Hills stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-black-hills-stock-surging-today-93CH-4937337",
+    "pubDate": "2026-10-07 18:23:58",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Spotify stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-spotify-stock-rallying-today-93CH-4937336",
+    "pubDate": "2026-10-07 18:20:23",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Lucid Group bull and bear case: upside potential against deep execution risk",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/lucid-group-bull-and-bear-case-upside-potential-against-deep-execution-risk-93CH-4937335",
+    "pubDate": "2026-10-07 18:20:09",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326",
+    "pubDate": "2026-10-07 18:14:01",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "US SEC will not charge top funds over climate concerns but warns of disclosure obligations",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-sec-will-not-pursue-charges-against-climate-group-warns-of-disclosure-obligations-4937029",
+    "pubDate": "2026-10-07 18:13:48",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stocks cut losses as oil turns lower, yields pare gains on strong auction",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-tech-rally-lifts-sp-500-nasdaq-to-records-4935463",
+    "pubDate": "2026-10-07 18:11:18",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Waste Connections stock climbing today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-waste-connections-stock-climbing-today-93CH-4937322",
+    "pubDate": "2026-10-07 18:08:06",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Americas Gold and Silver stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-americas-gold-and-silver-stock-sliding-today-93CH-4937321",
+    "pubDate": "2026-10-07 18:07:39",
+    "fetchedAt": "2026-10-07T19:01:39.140Z"
+  },
+  {
+    "source": "cnbc",
     "title": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
     "desc": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
     "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
@@ -5822,581 +6398,5 @@
     "link": "https://fortune.com/2026/10/07/ai-entertainment-china-technology/",
     "pubDate": "Wed, 07 Oct 2026 07:00:00 +0000",
     "fetchedAt": "2026-10-07T08:01:35.171Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Pennon shares drop 16% on £550 mln rights issue, dividend cut",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/pennon-to-raise-550-million-in-rights-issue-rebase-dividend-for-water-upgrade-4935666",
-    "pubDate": "2026-10-07 07:40:09",
-    "fetchedAt": "2026-10-07T08:01:35.171Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is NCC stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-ncc-stock-surging-today-93CH-4935715",
-    "pubDate": "2026-10-07 07:31:40",
-    "fetchedAt": "2026-10-07T08:01:35.171Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "This biotech stock is a top pick at Guggenheim",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/this-biotech-stock-is-a-top-pick-at-guggenheim-4935713",
-    "pubDate": "2026-10-07 07:30:04",
-    "fetchedAt": "2026-10-07T08:01:35.171Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Pennon stock plunging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-pennon-stock-plunging-today-93CH-4935712",
-    "pubDate": "2026-10-07 07:29:08",
-    "fetchedAt": "2026-10-07T08:01:35.171Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Informa stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-informa-stock-sliding-today-93CH-4935710",
-    "pubDate": "2026-10-07 07:27:19",
-    "fetchedAt": "2026-10-07T08:01:35.171Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-    "desc": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
-    "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-    "pubDate": "Wed, 07 Oct 2026 06:16:39 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Russian lab worker's suspected plague death leaves experts puzzled",
-    "desc": "Russian authorities say the situation is stable and there are no reports of secondary cases.",
-    "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
-    "pubDate": "Tue, 06 Oct 2026 15:23:41 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    "desc": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
-    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-    "pubDate": "Tue, 06 Oct 2026 16:19:10 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "desc": "Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.",
-    "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "pubDate": "Tue, 06 Oct 2026 15:06:53 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
-    "desc": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 23:01:13 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-    "desc": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-    "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 20:18:58 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Average five-year mortgage rate hits 6% for first time in three years",
-    "desc": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 05 Oct 2026 09:54:57 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Trump chooses top spy boss to run new AI taskforce",
-    "desc": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 05 Oct 2026 10:03:38 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why are data centres such a big deal in Scotland?",
-    "desc": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-    "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 05 Oct 2026 10:04:08 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How the oil capital of the US welcomed a solar power boom",
-    "desc": "Texas is now the country's biggest producer of solar-farmed electricity.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 23:12:22 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "I asked my husband to pay into my pension when we had a child - here's why",
-    "desc": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-    "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 10 Sep 2026 23:04:30 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why some experts increasingly fear AI will take over",
-    "desc": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-    "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 09 Sep 2026 23:17:33 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Should promotion depend on how workers use AI?",
-    "desc": "More companies are tying career progression to AI use: is that fair?",
-    "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:05:23 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-    "desc": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-    "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sat, 05 Sep 2026 23:20:00 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why the UK is dithering over what to do about e-scooters",
-    "desc": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
-    "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 22 Jul 2026 23:51:24 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Business Daily",
-    "desc": "Protests about 87-year-old Mariacarmen Abascal's eviction reignited the housing debate",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 01 Oct 2026 20:30:00 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "Japanese brewer shares fall after antitrust raids over suspected price cartel",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/japanese-brewer-shares-fall-after-antitrust-raids-over-suspected-price-cartel-4935674",
-    "pubDate": "2026-10-07 06:45:33",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "This French utility stock is a tactical opportunity into year-end: Morgan Stanley",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/this-french-utility-stock-is-a-tactical-opportunity-into-yearend-morgan-stanley-4935673",
-    "pubDate": "2026-10-07 06:43:23",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "Pennon to raise £550 million in rights issue, rebase dividend for water upgrade",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/pennon-to-raise-550-million-in-rights-issue-rebase-dividend-for-water-upgrade-4935666",
-    "pubDate": "2026-10-07 06:37:27",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "German industrial output rises more than expected in August",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/german-industrial-output-rises-more-than-expected-in-august-4935652",
-    "pubDate": "2026-10-07 06:36:21",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "Equinor expects Q3 marketing profit to beat guidance on strong refining, LNG trading",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/equinor-expects-q3-marketing-profit-to-beat-guidance-on-strong-refining-lng-trading-93CH-4935648",
-    "pubDate": "2026-10-07 06:21:56",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bridgepoint raises 2026 EBITDA guidance, sets new capital return framework",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bridgepoint-raises-2026-ebitda-guidance-sets-new-capital-return-framework-4935644",
-    "pubDate": "2026-10-07 06:18:45",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "IMF chief warns energy shock, growing debt and AI risks threaten global growth",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/imf-chief-warns-energy-shock-growing-debt-and-ai-risks-threaten-global-growth-4935635",
-    "pubDate": "2026-10-07 06:12:38",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investing",
-    "title": "Porsche braces for lower sales era, seeks lifeline from luxury",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/porsche-braces-for-lower-sales-era-seeks-lifeline-from-luxury-4935630",
-    "pubDate": "2026-10-07 06:12:19",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Apparent exodus of super-rich suggests UK is no longer billionaires’ playground",
-    "desc": "<p>If recent complaints are believed, London and the UK are no longer welcoming for ultra-high net worth individuals</p><p>London was once globally renowned as the “billionaires’ playground”, where the world’s super-rich could relax in the Georgian townhouses of Mayfair undisturbed by the grasping hand of the state.</p><p>But if recent complaints by fleeing ultra-high net worth individuals are to be believed, the city is no longer as welcoming for those who consider themselves to be Britain’s most-persecuted minority.</p> <a href=\"https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground",
-    "pubDate": "Wed, 07 Oct 2026 07:00:37 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "ft",
-    "title": "Germany’s spies face a fresh scandal",
-    "desc": "The BND intelligence agency had been seeking a return to the top table. Then prosecutors accused its ex-chief of treachery",
-    "link": "https://www.ft.com/content/0a64ce3b-d56a-4829-948c-4abc4978b1c9?syn-25a6b1a6=1",
-    "pubDate": "Wed, 07 Oct 2026 04:00:22 GMT",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Samsung&#x2019;s Q3 profit seen hitting 105T won on AI-driven chip demand - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650805-samsungs-q3-profit-seen-hitting-105t-won-on-ai-driven-chip-demand---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:56:39 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CRH to buy aggregate operations in Denmark, Finland",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650812-crh-to-buy-aggregate-operations-in-denmark-finland?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:45:58 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "VEON signs 10-year strategic IT modernization agreement with Amdocs",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650810-veon-signs-10-year-strategic-it-modernization-agreement-with-amdocs?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:44:05 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Japan&#x2019;s Rapidus faces uphill battle to fill its $15B chip factory",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650800-japans-rapidus-faces-uphill-battle-to-fill-its-15b-chip-factory?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:35:20 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Figure Technology posts 107% Y/Y surge in Q3 consumer loan marketplace volume to $5.12B",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650808-figure-technology-posts-107-yy-surge-in-q3-consumer-loan-marketplace-volume-to-512b?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:21:40 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Shell forecasts Q3 upstream output of up to 1.84M boed, $300M write-off",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650807-shell-sees-higher-q3-gas-production-and-refining-margins-300m-write-off?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:19:17 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Scage Future announces 1-for-15 reverse ADS ratio change",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650795-scage-future-announces-1-for-15-reverse-ads-ratio-change?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 02:08:38 -0400",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Microsoft Stock Is on Track to Trail the S&P 500 for a 3rd Straight Year. History Says What Happened After Its Last 2 Streaks.",
-    "desc": "The software giant's past two lagging streaks ended very differently. Which one does this one look like?",
-    "link": "https://www.fool.com/investing/2026/10/07/microsoft-stock-is-on-track-to-trail-the-s-and-p-500-for-a-3rd-straight-year-history-says-what-happened-after-its-last-2-streaks/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 06:37:02 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-    "desc": "U.S. stock futures were little changed early Wednesday as investors awaited the Federal Reserve’s September meeting minutes and weighed renewed geopolitical tensions surrounding the U.S.-Iran conflict. The Polymarket (CRYPTO: POL) crowd is leaning bullish for the Oct. 7 trading session....",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62208852/stock-market-will-sp-500-open-up-or-down-today-52?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 06:14:09 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "China In Large Russia-Hosted Drills Featuring 'Applied Lessons Of Ukraine War'",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">China In Large Russia-Hosted Drills Featuring 'Applied Lessons Of Ukraine War'</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Russia has just wrapped up hosting mass military drills involving troops and defense technology from eight countries which state media hailed as <strong>applying lessons learned from the Ukraine war</strong>.</p> <p>The Tsentr-2026, or Centre-2026, drills ran throughout all last week into Saturday, located in the central western Chelyabinsk region, which is situated in the southern Ural Mountains - with on Friday President Putin being on hand to observe the exercise.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/russchina.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/russchina.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6104c534-2223-444a-9e41-14aa6ba2434c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/russchina.jpg\" /></a> <figcaption><em>Dronies deployed during military drills in Chelyabinsk, Russia. Getty Images</em></figcaption></figure><p>Importantly, <strong>China's military took part</strong>, in addition to Belarus, Kazakhstan, Kyrgyzstan, Mongolia, Pakistan and Tajikistan.</p> <p>The Russian Ministry of Defense said of what were primarily strategic command-and-staff exercises that they \"applied\" combat lessons from the Ukraine war to <strong>\"repel external aggression in the Central Asian direction</strong>.<strong>\"</strong></p> <p><strong>Over 47,000 troops</strong> from across the different countries' militaries took part at the Chebarkul training ground, in drills that further featured rehearsal for long-distance deployment and joint operational planning as well as launching operations against an entrenched enemy.</p> <p>China Central Television (CCTV) indicated that the PLA troops came from the Central Theater Command, including members of the 82nd Group Army and a combined-arms brigade.</p> <p>Chinese regional sources further noted the PLA rolled out unmanned systems and practiced launching drone <a href=\"https://www.scmp.com/news/china/military/article/3369657/chinese-troops-line-russias-tsentr-2026-exercise-military-ties-tighten\">swarms</a>:</p> <blockquote> <p data-qa=\"Component-Component\" datatype=\"p\"><em>The PLA Daily said the drills’ operational planning and live-fire manoeuvres helped to “consolidate multilateral traditional friendship and improve joint action capabilities”, while allowing the Chinese military to test its logistical reach, troop deployment capability, and combined arms coordination in unfamiliar terrain.</em></p> <p data-qa=\"Component-Component\" datatype=\"p\"><em>According to Chinese state broadcaster CCTV, the PLA deployed a combination of Type 99A main battle tanks with drones, <strong>uncrewed ground vehicles and helicopters</strong>, during the exercise, showcasing its growing integration of crewed and unmanned systems.</em></p> <p data-qa=\"Component-Component\" datatype=\"p\"><em>The PLA deployed <strong>drone swarms to provide precise target data to ground combat groups</strong>, with tactical unmanned aerial vehicles, armed helicopters and unmanned ground combat vehicles coordinating strikes against targets, the report said.</em></p> </blockquote> <p data-qa=\"Component-Component\" datatype=\"p\">Another interesting note: <strong>\"The report also said that all the troops involved in the exercise were stationed underground to avoid drone strikes</strong>.<strong>\"</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🚨🌍 China &amp; Russia just performed joint Military Training Exercises with almost 50,000 Troops Almost like they’re preparing for something <a href=\"https://t.co/wbBnWw9cDg\">https://t.co/wbBnWw9cDg</a></p> — Concerned Citizen (@BGatesIsaPyscho) <a href=\"https://x.com/BGatesIsaPyscho/status/2106505551559700692?ref_src=twsrc%5Etfw\">October 3, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p data-qa=\"Component-Component\" datatype=\"p\">This has certainly become a reality of life along the front lines in Ukraine, with the battlefield having become transformed and fully automated - or something that looks straight out of Terminator 2 and Skynet - with unmanned aircraft hovering, looking for targets on the surface.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-07T06:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/07/2026 - 02:45</span>",
-    "link": "https://www.zerohedge.com/geopolitical/china-large-russia-hosted-drills-featuring-applied-lessons-ukraine-war",
-    "pubDate": "Wed, 07 Oct 2026 06:45:00 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Cowardly Europe Fears Dissent",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Cowardly Europe Fears Dissent</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.americanthinker.com/articles/2026/10/cowardly-europe-fears-dissent/\">Authored by J.B. Shurk via American Thinker</a>,</em></p> <p><strong><em>Orwellian brutes now govern Europe...</em></strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/yqj4owpcgjjcylse69w9_640.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/yqj4owpcgjjcylse69w9_640.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f62ac783-288e-4449-9a83-929285f17197\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/yqj4owpcgjjcylse69w9_640.jpg\" /></a></p> <p>Former-banker-turned-tiny-French-President Emmanuel Macron blasted what he called \"American free speech\" while <a href=\"https://www.rt.com/news/646623-macron-american-free-speech/\">speaking</a> to reporters last week. Defending the European Union's robust censorship policies, <em>le petit fromage</em> insisted that Europe's speech-policing Digital Services Act should censor information that governments consider false \"<strong>much more extensively, much faster, and much more forcefully.</strong>\"</p> <p>Macron then did his Orwellian best to condemn <em>free speech</em> as <em>oppression</em> and praise <em>censorship</em> as <em>liberation</em>: \"So-called American 'free speech' - at least as it exists today and has been promoted by some people - is the opposite of free speech.\" The terribly disliked French leader continued, \"My freedom cannot mean that I am free to...insult you or vandalize the public square that belongs to everyone. Yet that is some people's idea of 'free speech.'\"</p> <p>Then the little mouse of a man roared, \"<strong>Until we hold those who disseminate content on social media accountable, we will not be able to regulate it.</strong>\" Furthermore, if \"someone writes something\" that is \"false,\" then that person should be \"held accountable.\" Tough talk from an insecure man afraid of words.</p> <p>What is going on in Europe? Why is the whole continent so scared of public debate and dissent? If the political Establishment is unable to defend its ideas and policies without censoring the opposition, then its ideas and policies are absolute rubbish! The people who have willed their way to power across Europe apparently believe that they cannot win an argument unless they are the only ones permitted to speak!</p> <p><strong>That's a bit like a puny pugilist demanding that referees tie another boxer's hands behind his back before declaring himself world heavyweight champion!</strong></p> <p>Personally, I think mini-mouse Macron is just tired of people pointing out that he married his grandmother (or his grandfather, as the <a href=\"https://www.ndtv.com/world-news/french-president-emmanuel-macron-forced-to-prove-his-wife-brigitte-macron-is-not-a-man-explaining-the-bizarre-case-gender-conspiracy-9306016\">case might be</a>). We used to teach our children, \"Sticks and stones may break my bones, but words will never hurt me.\" Now Western leaders are so terrified of words that they'd rather imprison everyone with an opinion than learn to take a joke or hear a contrary point of view.</p> <p>Here's the truth that Macron and his fellow Euro-weenie censors refuse to understand: <strong>Free speech is <em>free</em> only when a speaker can say something offensive or controversial without fear of the State's wrath.</strong></p> <p>Although Macron wants to criminalize speech that he considers untrue, he spreads endless falsehoods of his own! While beseeching British Prime Minister Andy Burnham to betray the will of voters who chose to leave the European Union ten years ago, the Napoleon-complex-afflicted French president <a href=\"https://www.breitbart.com/europe/2026/10/02/macron-begs-britain-to-come-back-describes-brexit-as-biggest-lie-over-past-30-years/\">whined</a>, \"Brexit is the biggest lie of the last thirty years!\" That boast is absurdly false (or what European censors call criminal \"misinformation\"). The British people <em>did</em> vote to separate themselves from Queen Ursula von der Leyen's European empire.</p> <p>Even though Brexit fearmongers predicted imminent economic collapse should the British people choose to rule themselves - and despite the best efforts of Brexit saboteurs at home and abroad - the United Kingdom is currently outperforming France and other major European economies, having <strong>led the G7 in growth during the first half of 2026</strong>. One reason Brexiters voted to leave the E.U. in 2016 was because British citizens did not want their military to be swallowed into a European Army beyond their control - a prospect, ironically enough, which pro-E.U. stalwarts once called \"disinformation\" but which has proved increasingly prescient.</p> <p>Queen von der Leyen and her Brussels Eurocrats are working feverishly today to use the Russia-Ukraine War as an excuse to create increasingly centralized European defense structures.</p> <p>It's also worth remembering that European expansionists originally promoted the Union as an intergovernmental body meant to boost European economic markets and promised that the supranational institution would never directly usurp national sovereignties. <strong>That was a clear case of \"misinformation\" and certainly one of the biggest lies of the last half-century!</strong></p> <p>Speaking of lies that European leaders have promoted as \"truths,\" the Russia Collusion Hoax against President Trump (which British and Ukrainian intelligence agencies <a href=\"https://theconservativetreehouse.com/blog/2020/10/06/dni-john-ratcliffe-releases-underlying-documents-related-to-cia-director-brennan-briefing-white-house-on-2016-clinton-inspired-trump-russia-collusion-narrative/#more-201175\">helped</a> to propagate), the \"global warming\" apocalypse (which was scheduled to kill us all fourteen years ago), and the \"Reign of COVID Error\" (during which \"health experts\" lied about the virus arising from nature instead of a Chinese laboratory and then lied about fake \"vaccines\" being \"safe and effective\") are three of the biggest mass frauds and information warfare campaigns ever perpetrated by governments against the public.</p> <p>Macron has never called for these lies to be censored from social media platforms. He just doesn't like it when random Americans point out that the European Union is an undemocratic and totalitarian system of governance that should be burned to the ground. And he really doesn't like it when commoners correctly point out that his old high school teacher - and abusive wife - sometimes <a href=\"https://nypost.com/2025/05/28/world-news/lip-reader-reveals-what-french-president-emmanuel-macrons-wife-brigitte-said-moments-after-shoving-him-in-the-face/\">slaps him around</a>.</p> <p><strong>Unfortunately, Macron's inability to understand the importance of free speech is a European-wide learning disability.</strong></p> <p>In the U.K., a member of the public has filed a <a href=\"https://www.westernjournal.com/monty-python-star-john-cleese-doubles-muslims-try-get-arrested-comments-islam/\">Prevent referral</a> against eighty-six-year-old comedy legend John Cleese because he continues to make fun of Islam's love for rape and murder. The complaint argues that Cleese should be considered a \"moderate to high risk\" for \"radicalisation, communal tension, and hate incidents\" for writing, among other things, \"I personally prefer a culture that does not approve of FGM, Child Marriage and Killing Infidels.\"</p> <p>The complaint accuses Cleese of \"anti-Muslim hate\" and seeks further scrutiny of the cultural icon. In response to news of the referral, the Monty Python alum wrote, \"The Islamic male ego becomes so bloated by its lack of restraint that it believes any criticism is blasphemy,\" and, \"I look forward to being arrested.\" Later, he declared his targeting \"<strong>One of the proudest moments of my life.</strong>\"</p> <p>Meanwhile, a retired police officer was recently <a href=\"https://modernity.news/2026/08/17/blasphemy-law-is-back-retired-police-officer-fined-for-islam-joke/\">fined</a> more than £1,000 under the U.K.'s Communications Act for reposting a bacon joke ridiculing Islam. As one free speech advocate rightly observed, \"No-one making a similar joke about Jesus would face prosecution.\"</p> <p><strong>At the same time that it targets retired cops for having a sense of humor, the British government continues to hand out \"skilled worker sponsorship licenses\" to Islamic bookstores</strong> that sell <a href=\"https://modernity.news/2026/07/28/uk-hands-skilled-visa-powers-to-islamic-bookshops-selling-jihad-texts-wife-beating-guides/\">books on jihad</a>!</p> <p>An Islamic preacher in London encourages Muslim men to <a href=\"https://www.zerohedge.com/geopolitical/london-mosque-pushes-wife-beating-throwing-gays-tall-buildings\">beat their wives</a> if they refuse to obey. The same Islamic cleric describes \"acceptable\" execution methods for gay men, including throwing them off tall buildings and pummeling their bodies with rocks. These sermons are available on YouTube.</p> <p><strong>Nevertheless, the mosque still enjoys charitable status in the U.K.</strong> Islamic jihadists preach violence and murder, and law enforcement agencies ignore their threats, just as they ignored - for decades - <a href=\"https://theconservativetreehouse.com/blog/2026/06/16/british-mp-rupert-lowe-releases-rape-gang-inquiry-report-an-evil-has-fallen-upon-great-britain/\">Islamic men raping</a> tens of thousands of young girls across Britain.</p> <p>However, when a comedian and a retired police officer mock Islam's penchant for violence, the British government scrutinizes their speech as \"threats.\" That should be no surprise when U.K. police forces instruct officers that Nigel Farage's immigration beliefs are \"<a href=\"https://www.zerohedge.com/geopolitical/police-islamophobia-training-equates-farages-wrods-hate-crime\">Islamophobic hate crimes</a>\" and encourage non-Muslim staff to fast during Ramadan in \"<a href=\"https://modernity.news/2026/08/03/uk-police-force-invites-non-muslim-staff-to-fast-during-ramadan-as-act-of-solidarity/\">solidarity</a>\" with their Islamic conquerors.</p> <p>Two-tiered \"free speech\" is official government policy. Furthermore, a Home Office-linked unit has been recording social media criticism of the government's Prevent program, including 77 observations concerning people and organizations criticizing Prevent on X and Reddit. <a href=\"https://www.zerohedge.com/political/uk-officials-are-keeping-list-brits-who-question-government-policy\">Documents</a> show that government-linked officials are monitoring and recording the speech of people who publicly challenge this controversial counter-extremism policy.</p> <p>Orwellian brutes now govern Europe. Need further proof? The Green Party in the U.K. wants to <a href=\"https://www.zerohedge.com/political/far-left-uk-green-party-wants-words-mother-and-father-erased\">replace</a> \"mother\" and \"father\" with more \"inclusive\" terms. <strong>Meanwhile, the Germans just <a href=\"https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180\">awarded</a> the Westphalian Peace Prize to NATO's military alliance.</strong></p> <p>Parents are strangers. War is peace. Free speech is violence. Censorship promotes liberty.</p> <p><strong>In truth, freedom in Europe is dead.</strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-07T06:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/07/2026 - 02:00</span>",
-    "link": "https://www.zerohedge.com/geopolitical/cowardly-europe-fears-dissent",
-    "pubDate": "Wed, 07 Oct 2026 06:00:00 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Silicon Labs Expands AI Developer Platform With New Offerings",
-    "desc": "(RTTNews) - Silicon Laboratories Inc. (SLAB), a fabless semiconductor company, Tuesday announced a set of developer initiatives that makes it easier to build, extend, and operate increasingly capable IoT devices which it unveiled at the company's seventh annual Works With Summit.",
-    "link": "https://www.nasdaq.com/articles/silicon-labs-expands-ai-developer-platform-new-offerings",
-    "pubDate": "Wed, 07 Oct 2026 06:17:27 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "How Investing in This 1 Cryptocurrency Could Make You a Millionaire",
-    "desc": "Key PointsVenice Token is up more than 1,700% this year, making it one of the top-performing cryptocurrencies of 2026.",
-    "link": "https://www.nasdaq.com/articles/how-investing-1-cryptocurrency-could-make-you-millionaire",
-    "pubDate": "Wed, 07 Oct 2026 05:50:00 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Apple, LG Reportedly Team Up On Smart Home Devices Including Doorbell, Lock, Thermostat",
-    "desc": "(RTTNews) - Apple Inc. (AAPL) is expanding its smart home lineup with a range of devices being developed in partnership with South Korea's LG Electronics Inc. (066570.KS), Bloomberg reported, citing people familiar with the matter.",
-    "link": "https://www.nasdaq.com/articles/apple-lg-reportedly-team-smart-home-devices-including-doorbell-lock-thermostat",
-    "pubDate": "Wed, 07 Oct 2026 05:47:44 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Lunnon Metals Notes BHP Deal To Sell Kambalda Nickel Concentrator To Gold Fields",
-    "desc": "(RTTNews) - Lunnon Metals Ltd. (LM8), a mining company, on Wednesday announced that it noted BHP Group's agreement to sell the Kambalda Nickel Concentrator to Gold Fields Ltd. (GFI).",
-    "link": "https://www.nasdaq.com/articles/lunnon-metals-notes-bhp-deal-sell-kambalda-nickel-concentrator-gold-fields",
-    "pubDate": "Wed, 07 Oct 2026 05:43:03 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Ballard Secures 4.8MW Order From Siemens Mobility To Power Romanian Hydrogen Trains",
-    "desc": "(RTTNews) - Ballard Power Systems Inc. (BLDP), a manufacturer of proton exchange membrane fuel cell products, Wednesday announced that it has secured an order for 24 x FCrail 200 kW fuel cell modules from Siemens Mobility GmbH, the rail automation and electrification division of",
-    "link": "https://www.nasdaq.com/articles/ballard-secures-48mw-order-siemens-mobility-power-romanian-hydrogen-trains",
-    "pubDate": "Wed, 07 Oct 2026 05:39:24 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "fortune",
-    "title": "A $443 million memecoin frenzy dissolves into nothing—Robinhood and Circle are latest to taste the memecoin boom-and-bust cycle",
-    "desc": "Robinhood Chain saw a brief surge in memecoin trading before volumes dropped 96%.",
-    "link": "https://fortune.com/2026/10/06/443-million-memecoin-frenzy-robinhood-circle-latest-memecoin-boom-bust/",
-    "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.22%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-022-4935628",
-    "pubDate": "2026-10-07 06:05:03",
-    "fetchedAt": "2026-10-07T07:02:31.607Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
-    "desc": "Lake Balaton in south-west Hungary has been a popular vacation destination for decades, but average transaction prices are falling.",
-    "link": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
-    "pubDate": "Wed, 07 Oct 2026 05:00:01 GMT",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'Wear more clothes if it's cold,' schools told as energy bills rise",
-    "desc": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-    "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 05:33:43 GMT",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Landlord's heartbreak as pub shuts down",
-    "desc": "A pub landlord forced to close down says more venues face similar closures without more tax cuts.",
-    "link": "https://www.bbc.co.uk/news/articles/c6p3gnq1752po?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 05:12:40 GMT",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "Intel to continue working on Musk’s Terafab despite TSMC talks - Bloomberg",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/intel-to-continue-working-on-musks-terafab-despite-tsmc-talks--bloomberg-4935617",
-    "pubDate": "2026-10-07 05:51:05",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "India stocks dip after RBI hikes rates for first time in nearly 4 yrs",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/india-stocks-dip-after-rbi-hikes-rates-for-first-time-in-nearly-4-yrs-4935616",
-    "pubDate": "2026-10-07 05:45:08",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "Brussels looks to capture Big Tech through tax on large corporations, FT reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/brussels-looks-to-capture-big-tech-through-tax-on-large-corporations-ft-reports-4935615",
-    "pubDate": "2026-10-07 05:36:36",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "Once shunned, Myanmar’s military-backed leader set for Malaysian red carpet",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/once-shunned-myanmars-militarybacked-leader-set-for-malaysian-red-carpet-4935614",
-    "pubDate": "2026-10-07 05:36:23",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "Hedge fund group warns BoE gilt repo reforms could hurt liquidity - report",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/hedge-fund-group-warns-boe-gilt-repo-reforms-could-hurt-liquidity--report-4935612",
-    "pubDate": "2026-10-07 05:32:12",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.09%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-009-4935611",
-    "pubDate": "2026-10-07 05:30:04",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-despite-wall-street-records-as-rising-oil-yields-weigh-4935558",
-    "pubDate": "2026-10-07 05:24:45",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "investing",
-    "title": "RBI hikes rates for first time in nearly 4 years, opens door to more hikes",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/rbi-raises-repo-rate-25-bps-as-inflation-outlook-worsens-amid-global-risks-4935591",
-    "pubDate": "2026-10-07 05:21:14",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-    "desc": "Constellation&#x2019;s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
-    "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-    "pubDate": "Tue, 06 Oct 2026 20:24:00 GMT",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "desc": "&#x201c;For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.&#x201d;",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "pubDate": "Tue, 06 Oct 2026 18:30:00 GMT",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Asia markets slip amid softening Chinese reserves and persistent energy cost pressures",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650792-asia-markets-slip-amid-softening-chinese-reserves-and-persistent-energy-cost-pressures?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:52:17 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Japanese nominal wages keep pace above 3% in August; foreign reserves shrink to $1.18T",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650803-japanese-nominal-wages-keep-pace-above-3-in-august-foreign-reserves-shrink-to-118t?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:31:59 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Vaxcyte prices $500M equity offering and $500M convertible notes",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650793-vaxcyte-prices-500m-equity-offering-and-500m-convertible-notes?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:24:55 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Boston Dynamics taps former Amazon executive Rohit Prasad as CEO",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650798-boston-dynamics-taps-former-amazon-executive-rohit-prasad-as-ceo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:18:55 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Grupo Aeroportuario del Pac&#xED;fico September passengers down 7.3% to 4.08M amid capacity cuts",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650796-grupo-aeroportuario-del-pacifico-september-passengers-down-73-to-408m-amid-capacity-cuts?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:06:21 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Intel stays on Musk&#x2019;s Terafab project despite TSM talks: CEO",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650791-intel-stays-on-musks-terafab-project-despite-tsm-talks-ceo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:03:50 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Skydance restructures WBD debt after completing acquisition",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650802-skydance-restructures-wbd-debt-after-completing-acquisition?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 01:02:58 -0400",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Shares Likely To Open On Cautious Note Ahead Of Fed Minutes",
-    "desc": "(RTTNews) - European stocks are seen opening slightly lower on Wednesday as oil prices climbed and yields rebounded on fears Iran is stepping up attacks on tankers in the Strait of Hormuz.",
-    "link": "https://www.nasdaq.com/articles/european-shares-likely-open-cautious-note-ahead-fed-minutes",
-    "pubDate": "Wed, 07 Oct 2026 05:32:04 +0000",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
-    "desc": "Key PointsQualcomm signed two new data center AI chip customers this fall, Amazon in a deal worth up to $60 billion and ByteDance for custom AI chips.",
-    "link": "https://www.nasdaq.com/articles/prediction-1000-investment-qualcomm-today-could-be-worth-much-2030-ai-moves-edge",
-    "pubDate": "Wed, 07 Oct 2026 05:20:00 +0000",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Intact Financial Projects Total Pre-tax Catastrophe Losses Of About C$660 Mln In Q3",
-    "desc": "(RTTNews) - Intact Financial Corp. (IFC.TO), a provider of property and casualty insurance, late Tuesday issued an update regarding catastrophe events in the third quarter of 2026.",
-    "link": "https://www.nasdaq.com/articles/intact-financial-projects-total-pre-tax-catastrophe-losses-about-c-660-mln-q3",
-    "pubDate": "Wed, 07 Oct 2026 05:15:31 +0000",
-    "fetchedAt": "2026-10-07T06:01:36.616Z"
   }
 ]
