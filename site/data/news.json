@@ -1,6 +1,406 @@
 [
   {
     "source": "cnbc",
+    "title": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
+    "desc": "His comments come as rising Middle East crude exports and an emergency G7 stockpile release appear to have helped to ease supply fears.",
+    "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
+    "pubDate": "Wed, 07 Oct 2026 08:46:11 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Treasury yields rise ahead of closely-watched 10-year auction and FOMC minutes",
+    "desc": "U.S. Treasury yields climbed early Wednesday after retreating in the previous session, as investors awaited a closely watched 10-year note auction.",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "pubDate": "Wed, 07 Oct 2026 08:31:25 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
+    "desc": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
+    "link": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
+    "pubDate": "Tue, 06 Oct 2026 12:59:10 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "bbc",
+    "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+    "desc": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+    "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "desc": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+    "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 16:13:21 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Would you buy branded clothing from your favourite tech firm?",
+    "desc": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 23:18:47 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Can Europe recharge its battery industry?",
+    "desc": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Fears coastal town road closure could leave Watchet 'desolate'",
+    "desc": "Businesses in Watchet are concerned by the closure of the main road into Watchet.",
+    "link": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:22:54 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Barclays raises Pembina Pipeline stock price target on pipeline outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/barclays-raises-pembina-pipeline-stock-price-target-on-pipeline-outlook-93CH-4935888",
+    "pubDate": "2026-10-07 08:52:55",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Gold slips as dollar firms; Fed minutes awaited",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/gold-holds-gains-as-oil-flows-recover-treasury-yields-ease-4935492",
+    "pubDate": "2026-10-07 08:52:12",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "European shares, euro fall as energy shock, fiscal worries bite",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/asia-shares-weaker-oil-up-investors-weigh-saudihouthi-escalation-4935555",
+    "pubDate": "2026-10-07 08:48:50",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Goldman upgrades Reckitt as emerging markets, new products drive growth",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-upgrades-reckitt-as-emerging-markets-new-products-drive-growth-4935882",
+    "pubDate": "2026-10-07 08:48:43",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Barclays raises Coinbase stock price target on trading volume uptick",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/barclays-raises-coinbase-stock-price-target-on-trading-volume-uptick-93CH-4935881",
+    "pubDate": "2026-10-07 08:47:05",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Deutsche Bank says weakness in Swedish krona is due to fundamentals",
+    "desc": "",
+    "link": "https://www.investing.com/news/forex-news/deutsche-bank-says-weakness-in-swedish-krona-is-due-to-fundamentals-93CH-4935861",
+    "pubDate": "2026-10-07 08:38:55",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil prices rise amid concerns over Mideast, U.S. supply disruptions",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-supply-jitters-persist-4935465",
+    "pubDate": "2026-10-07 08:37:11",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investing",
+    "title": "Transsion seeks up to $428 million in Hong Kong share sale as memory costs weigh",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/transsion-seeks-up-to-428-million-in-hong-kong-share-sale-as-memory-costs-weigh-4935858",
+    "pubDate": "2026-10-07 08:36:24",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "A popular tech fund is now overbought. That&#x2019;s no reason to sell, history shows.",
+    "desc": "A surge to record highs for technology stocks has pushed them to what is considered by technical analysts to be overbought levels, but history shows investors should not use that as reason to cut their exposure.",
+    "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 08:01:00 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "ft",
+    "title": "SpaceX looks to raise $40bn to buy Nvidia chips",
+    "desc": "Blockbuster debt deal is the latest sign of the vast spending on chips and other infrastructure underpinning AI",
+    "link": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+    "pubDate": "Tue, 06 Oct 2026 22:28:55 GMT",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Ray Dalio: We're close to the point where AI bubble could burst",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650813-ray-dalio-were-close-to-the-point-where-ai-bubble-could-burst?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:53:31 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Musk says we will &#x201C;build and run&#x201D; Terafab, TSMC may sublease space",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650818-musk-says-we-will-build-and-run-terafab-tsmc-may-sublease-space?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:46:41 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Shorting airlines is really a bet on oil, S3 says",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650825-shorting-airlines-is-really-a-bet-on-oil-s3-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:44:56 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Stock index futures mixed ahead of FOMC minutes",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650824-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:39:48 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Digital Realty prices &#x20AC;1B of guaranteed notes due 2036",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650823-digital-realty-prices-1b-of-guaranteed-notes-due-2036?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:21:08 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650804-tesla-uses-pr-push-and-flawed-safety-data-in-eu-fsd-drive-reuters-reports?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:08:03 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Europe markets in red as renewed oil gains weigh on sentiment",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650817-europe-markets-in-red-as-renewed-oil-gains-weigh-on-sentiment?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 04:06:05 -0400",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after tech rally",
+    "desc": "US stock futures were little changed on Wednesday morning as investors awaited minutes from the Fed's September meeting.",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:02:41 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures Fall After S&P 500 Hits High; Astera, GE Vernova, Arista Lead Buys, But These Stocks Slammed",
+    "desc": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
+    "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures-fall-after.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:53:12 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "History Says There Are $8.44 Trillion Reasons the Trump Bull Market Is Running on Borrowed Time",
+    "desc": "Money market fund investors are telling a chilling tale of what may come for a historically expensive stock market.",
+    "link": "https://www.fool.com/investing/2026/10/07/history-says-8-trillion-reasons-trump-bull-market-running-on-borrowed-time/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:26:01 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Magnificent Stocks Near 52-Week Lows to Buy in October",
+    "desc": "These growing businesses are trading at reasonable valuations.",
+    "link": "https://www.fool.com/investing/2026/10/07/3-magnificent-stocks-52-week-lows-buy-october/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:25:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Firm Services And Inflation Jitters",
+    "desc": "The Morning Bull - US Market Morning Update Wednesday, Oct, 7 2026 US stock futures are pointing higher this morning, with key contracts on the S&P 500 and Nasdaq up around 0.2% to 0.6% as investors digest strong service sector readings and fresh inflation worries. The ISM Services PMI came in at 54.9 for September, which signals expanding activity and indicates that demand for things like travel, healthcare and business services is still solid. A broader scorecard, the US Composite PMI,...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081149765.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:11:49 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Top AI Stocks to Watch in October: They May Set the Tone for the Rest of the Market.",
+    "desc": "They may offer us important clues about what’s next for AI.",
+    "link": "https://www.fool.com/investing/2026/10/07/3-top-ai-stocks-to-watch-in-october-they-may-set-the-tone-for-the-rest-of-the-market/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:10:02 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market News for Oct 7, 2026",
+    "desc": "Wall Street ended higher on Tuesday as easing concerns over oil supply helped support market sentiment, while strong import demand pointed to resilient economic activity and kept inflation and Fed policy expectations in focus.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-7-074400333.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 07:44:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Bank Stocks with Warning Signs",
+    "desc": "Banks play a critical role in the financial system, providing everything from commercial loans to wealth management and payment processing services. But worries about an economic slowdown and potential credit deterioration have kept sentiment in check, and over the past six months, the banking industry’s 2.5% return has trailed the S&P 500 by 15 percentage points.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-warning-signs-084047653.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:40:47 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "World stocks fall back despite latest earnings-driven rally on Wall Street",
+    "desc": "World shares retreated Wednesday after U. stocks hit all-time highs, lifted by expectations of fat corporate earnings.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-fall-back-040409320.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 04:04:09 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Interventionism Created Spain's Housing Crisis And Is A Warning To America",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Interventionism Created Spain's Housing Crisis And Is A Warning To America</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.dlacalle.com/en/interventionism-created-spains-housing-crisis-and-is-a-warning-to-america/\">Authored by Daniel Lacalle via dlacalle.com</a>,</em></p> <p><em><strong>Socialist Americans are promising affordable housing through rent controls and government intervention. The evidence shows that these policies deliver the opposite.</strong></em></p> <p><em><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2868%29_12.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2868%29_12.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"02ef8f82-c4b8-487d-adc1-a10227ac821b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2868%29_12.jpg\" /></a></strong></em></p> <p>Spain's housing crisis is presented by socialists as proof that they must impose tougher rent controls, higher taxes on owners, tighter restrictions on investors, and broader intervention in the rental market. The evidence shows the opposite. <strong>Spain's excessive intervention, regulation, and taxation have created a destructive combination of exploding demand, chronically insufficient construction, hostility toward private rental supply, and growing legal uncertainty for owners.</strong></p> <p>Spain's socialist housing intervention has delivered the exact opposite of what it promised. Rents are up by more than 50% since Pedro Sanchez entered the government and started imposing interventionist policies; around 300,000 homes have vanished from the long-term rental market, and the government's pledge to provide 270,000 public homes became a mirage. This is an indictment of a policy that punishes owners, hurts investment, elevates legal uncertainty, and then acts surprised when scarcity becomes permanent.</p> <p><strong>The result is not affordable housing.</strong> It is fewer homes available to rent, higher prices for the homes that remain, and a widening gap between housing demand and supply.</p> <p>America should take these issues seriously. If the United States responds to its housing shortage by accelerating migrant demand while discouraging construction, investment, and property rights, it risks reproducing Spain's failure on a much larger scale.</p> <p>The Spanish housing crisis is entirely supply-driven. Between 2021 and 2025, Spain added approximately 1.2 million households but completed only 474,000 homes, including subsidized housing. That implies a cumulative deficit of at least 734,000 in just four years.</p> <p>However, the problem has worsened. According to CaixaBank Research, Spain granted permits for 162,200 homes in 2025 with a net household formation of 226,000. The country continued to fall behind by more than 64,000 homes in one year, and <strong>completions are expected to remain below 100,000 units in 2026</strong>, according to the same report.</p> <p>The Bank of Spain has estimated that the accumulated national shortage is around 750,000 homes. More concerning, the shortfall could rise above one million homes by 2028 if current policies remain in place. This is not merely a national average problem.</p> <p><strong>More than half of the gap between homes built and new households is concentrated in six provinces</strong>, Madrid, Barcelona, Alicante, Valencia, Murcia, and Málaga, with the largest cities showing the largest gap.</p> <p>Housing demand does not disappear because governments publish a decree or law with an allegedly social title.</p> <p>Land-use restrictions, slow approvals, high construction costs, and regulatory limits have made it harder to build. <strong>The Bank of Spain has identified land shortages, delays in urban-development projects, and planning-management constraints among the factors limiting construction.</strong> No amount of rhetoric against landlords changes that arithmetic.</p> <p>Instead of concentrating on expanding supply, the socialist government's housing policy has increasingly focused on attacking owners and investors. The 2023 Housing Law created the framework for declaring \"stressed\" rental zones and imposing restrictions on rents in designated areas. These zones may be declared when housing costs exceed 30% of average household income or when housing prices have risen at least three percentage points more than inflation over the previous five years. Supply of long-term rentals fell between 40% and 50% due to these laws, according to Idealista.</p> <p>The political trick is evident. When rent is unaffordable, the government promises to limit it. But the price of a rental home is not an arbitrary number created by owner greed. It reflects the shortage of available homes, taxes, financing costs, maintenance, renovation, insurance, expected vacancy, legal risks, and the value of the capital invested in the property.</p> <p><strong>A cap only limits the advertised price of some existing homes in the short term, but it does not create a single additional apartment.</strong> It reduces the incentive to place homes on the long-term rental market, invest in maintenance, or finance new rental developments.</p> <p>That is the rent-control paradox. It does not control rent. It makes housing scarcer and more expensive for the majority. One tenant may benefit if he or she is already living in a regulated property. However, the availability of homes in the regulated market disappears, and all other prospective tenants, including young workers, students, and new families, face soaring prices and a smaller pool of available homes.</p> <p>The available evidence from Spain already shows this supply response. <strong>The long-term rental market has shrunk sharply.</strong> Estimates from the Observatorio del Alquiler indicate that the supply of long-term rental properties fell from about 813,850 homes in 2023 to 660,993 by the second quarter of 2026. That is a decline of 18.8%, or approximately 153,000 homes.</p> <p>Other studies point to an even larger deterioration, with more than 300,000 homes disappearing from the conventional long-term rental market. Socialist laws have demolished rental supply just when demand is rising.</p> <p>Owners faced with tighter rent controls, escalating regulatory requirements, risk of delayed eviction, and uncertainty over future rules have a rational incentive to sell, leave units vacant, lease seasonally, or seek more flexible forms of tenancy. The more governments restrict long-term renting, the more they make alternatives comparatively attractive.</p> <p><strong>Spain's long-term rental listings reportedly fell by around 20% over three years, while seasonal-rental listings more than doubled.</strong> Just after the socialist Housing Law was approved, listings fell by 15% between the first quarters of 2023 and 2024. This is what happens when you penalize housing supply.</p> <p>The left tries to make the housing crisis a conflict between tenants and financial investors. The reality is entirely different.</p> <p><strong>In Spain, about 92% of market-rate primary rental homes belong to individual owners</strong> rather than large institutional funds or wealthy owners of multiple properties. Most are retirees supplementing their pension and households that saved for years to buy an investment property.</p> <p>When governments impose caps, extend mandatory contracts, shift costs to owners, delay the enforcement of contracts, or make evictions legally and politically difficult, they do not target \"speculators.\" They raise the risk of renting for ordinary people.</p> <p>The consequences are especially negative for those that the socialists pretend to defend. Those with the weakest bargaining position. A well-paid tenant with a stable employment record may still obtain one of the few available properties. A young person, immigrant, self-employed worker, single parent, student, or low-income household will find it almost impossible to rent.</p> <p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Hu-68Zji1I4\" title=\"Global Macro Slowdown, Energy Risk, and Rate Hike Mistake\" width=\"560\"></iframe></p> <p><strong>Rent controls are not pro-tenant. They are anti-tenant.</strong> The people who most need mobility and access to housing are left competing for a vanishing supply.</p> <p>Socialist policies have also demolished legal certainty. Housing supply requires long-term capital. A developer may need years to acquire land, secure permits, finance a project, construct homes, and sell or rent them. A private owner who leases a property is also making a long-term economic decision based on the expectation that contracts will be enforceable and that property can be recovered if legal obligations are not met.</p> <p><strong>When the state weakens legal security, it raises the cost of housing.</strong></p> <p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/hHoKN7KMY3c\" title=\"Canada may join the European Union as Associate: The Triumph of Big Government?\" width=\"560\"></iframe></p> <p>Spain's socialist policy direction has increasingly included extended intervention in rental contracts, rent-increase limitations, stronger barriers to eviction, and additional restrictions on property transactions and institutional purchasers. These measures may be politically popular because they appear to protect tenants in the short term. However, they impose a cost on owners and investors that worsens the situation.</p> <p>If a household needs protection from eviction or emergency accommodation, the state should fund that protection from the public budget. <strong>What it should not do is treat an individual property owner as an unpaid social services department.</strong></p> <p>The same principle applies to squatters and \"ocupación,\" the unlawful occupation of property. Any society can and should establish proportionate safeguards for vulnerable people, but it cannot normalize the idea that a private owner may face eternal uncertainty, costs, and delayed judicial remedies when someone occupies a property without permission. The more uncertain and expensive recovery becomes, the higher the risk premium embedded in rental decisions. Some owners will demand higher rents. Others will simply decline to rent.</p> <p><strong>America's housing problem differs from Spain's in scale and institutional structure, but the economic mechanism is the same.</strong> In many U.S. metropolitan areas, demand has outpaced supply for years because restrictive zoning, lengthy permitting, inadequate infrastructure, limited buildable land, construction costs, and local opposition have prevented enough homes from being built.</p> <p>The wrong lesson from rising rents is that private property, investment, and market pricing are the problem. They are signals of a supply shortage created by intervention and regulation.</p> <p>If the United States follows the socialist Spanish path, increasing population by incentivizing migration without adequate construction, rent caps instead of new homes, hostility toward investors, higher taxes on owners, and weakening legal certainty, it will not make housing more accessible. <strong>It will create a smaller and more expensive rental market.</strong></p> <p>The solution is not to defend unaffordable housing. It is to build enough housing so that affordability does not depend on rationing. That means faster approvals, predictable regulation, more developable land where demand is strongest, lower barriers to construction, better infrastructure, and targeted public support for genuinely vulnerable households.</p> <p>Spain's experience shows that socialism always hurts those it pretends to defend. Socialism does not create affordable housing; it worsens it. The result is not more housing justice. It is less housing and more scarcity.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-07T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/07/2026 - 03:30</span>",
+    "link": "https://www.zerohedge.com/political/interventionism-created-spains-housing-crisis-and-warning-america",
+    "pubDate": "Wed, 07 Oct 2026 07:30:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Social Security COLA Projections Are Slipping: What Retirees Need to Know Now",
+    "desc": "Key PointsThe official 2027 Social Security COLA will be announced on Oct. 14.",
+    "link": "https://www.nasdaq.com/articles/social-security-cola-projections-are-slipping-what-retirees-need-know-now",
+    "pubDate": "Wed, 07 Oct 2026 08:44:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Asian Shares Retreat Amid Middle East Concerns",
+    "desc": "(RTTNews) - Asian stocks ended broadly lower in cautious trade on Wednesday as oil prices climbed and yields rebounded on fears Iran is stepping up attacks on tankers in the Strait of Hormuz.",
+    "link": "https://www.nasdaq.com/articles/asian-shares-retreat-amid-middle-east-concerns",
+    "pubDate": "Wed, 07 Oct 2026 08:38:59 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "5 Stocks That Have Doubled Their Dividend in the Last 7 Years to Buy in October",
+    "desc": "Key PointsWilliams-Sonoma, Domino's Pizza, TJX, Lowe's, and Costco have more than doubled their dividend since 2019.",
+    "link": "https://www.nasdaq.com/articles/5-stocks-have-doubled-their-dividend-last-7-years-buy-october",
+    "pubDate": "Wed, 07 Oct 2026 08:35:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is Micron a Buy After Its Latest Explosive Earnings Report? Here Are the Bull and Bear Cases.",
+    "desc": "Key PointsMicron sells the memory and storage that are essential for AI to function.",
+    "link": "https://www.nasdaq.com/articles/micron-buy-after-its-latest-explosive-earnings-report-here-are-bull-and-bear-cases",
+    "pubDate": "Wed, 07 Oct 2026 08:22:01 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Marvell Now Sees as Much as $90 Billion in Annual Sales by Fiscal 2031. Here's Why It's a Chip Stock to Buy.",
+    "desc": "Key PointsMarvell sees revenue of around $20 billion for fiscal 2028 and $70 billion to $90 billion for fiscal 2031.",
+    "link": "https://www.nasdaq.com/articles/marvell-now-sees-much-90-billion-annual-sales-fiscal-2031-heres-why-its-chip-stock-buy",
+    "pubDate": "Wed, 07 Oct 2026 08:03:01 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "1 Number That Might Explain Why Netflix (NFLX) Stock Is Down 27% in 2026",
+    "desc": "Key PointsNetflix's management team believes revenue will increase by 13.3% (at the midpoint) this year.",
+    "link": "https://www.nasdaq.com/articles/1-number-might-explain-why-netflix-nflx-stock-down-27-2026",
+    "pubDate": "Wed, 07 Oct 2026 07:55:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "The $500 Billion Question Causing Waves Across Every AI Stock: How Much Are Nvidia GPUs Actually Worth?",
+    "desc": "Key PointsNvidia is partnering with Wall Street banks to offer $500 billion in capital to its customers.",
+    "link": "https://www.nasdaq.com/articles/500-billion-question-causing-waves-across-every-ai-stock-how-much-are-nvidia-gpus-actually",
+    "pubDate": "Wed, 07 Oct 2026 07:37:00 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Regulators Cleared a Small Modular Reactor for Construction. It Isn't a NuScale Design.",
+    "desc": "Key PointsThe Nuclear Regulatory Commission granted a construction permit on Sept. 29 for a GE Vernova reactor on the Tennessee Valley Authority's Clinch River site.",
+    "link": "https://www.nasdaq.com/articles/regulators-cleared-small-modular-reactor-construction-it-isnt-nuscale-design",
+    "pubDate": "Wed, 07 Oct 2026 07:29:01 +0000",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.74%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-074-4935856",
+    "pubDate": "2026-10-07 08:35:04",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Space Exploration Technologies stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4935855",
+    "pubDate": "2026-10-07 08:34:31",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "UBS sees more gains for European stocks despite higher rates and energy prices",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ubs-sees-more-gains-for-european-stocks-despite-higher-rates-and-energy-prices-4935847",
+    "pubDate": "2026-10-07 08:32:41",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Wealthy investors view rates and yields as the biggest growth risk, says Deutsche Bank",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wealthy-investors-view-rates-and-yields-as-the-biggest-growth-risk-says-deutsche-bank-4935844",
+    "pubDate": "2026-10-07 08:30:57",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "IEA to meet Wednesday over proposed release of oil, diesel stocks, two EU diplomats say",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/iea-to-meet-wednesday-over-proposed-release-of-reserves-say-two-eu-diplomats-4935702",
+    "pubDate": "2026-10-07 08:30:39",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Dutch state to cut ABN Amro stake to 10.5% from 20.7% via trading plan",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dutch-state-to-cut-abn-amro-stake-to-105-from-207-via-trading-plan-93CH-4935827",
+    "pubDate": "2026-10-07 08:26:26",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is BE Semiconductor Industries stock tumbling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-be-semiconductor-industries-stock-tumbling-today-93CH-4935820",
+    "pubDate": "2026-10-07 08:21:08",
+    "fetchedAt": "2026-10-07T09:01:34.731Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
     "desc": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
     "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
@@ -5998,405 +6398,5 @@
     "link": "https://www.nasdaq.com/articles/yieldboost-powi-16-152-using-options",
     "pubDate": "Tue, 06 Oct 2026 15:43:32 +0000",
     "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Boeing vs. Space Exploration Technologies: Which Industrials Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsBoeing holds a dominant position in the commercial aviation market with a massive backlog and critical defense contracts.",
-    "link": "https://www.nasdaq.com/articles/boeing-vs-space-exploration-technologies-which-industrials-stock-better-buy-2026",
-    "pubDate": "Tue, 06 Oct 2026 15:40:02 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's Why SpaceX's AI Infrastructure in Space \"Moonshot\" Won't Uproot Neocloud Companies",
-    "desc": "Key PointsSpaceX just launched a test satellite with Google TPUs to see how well they perform in space.",
-    "link": "https://www.nasdaq.com/articles/heres-why-spacexs-ai-infrastructure-space-moonshot-wont-uproot-neocloud-companies",
-    "pubDate": "Tue, 06 Oct 2026 15:40:00 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.",
-    "desc": "Key PointsSome of the most popular semiconductor stocks are the company's building GPUs and memory solutions for artificial intelligence (AI).",
-    "link": "https://www.nasdaq.com/articles/not-nvidia-not-micron-if-i-could-buy-and-hold-only-1-artificial-intelligence-ai-chip-stock",
-    "pubDate": "Tue, 06 Oct 2026 15:35:00 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cash Dividend On The Way From Wabash National (WNC)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/8/26, Wabash National Corp (Symbol: WNC) will trade ex-dividend, for its quarterly dividend of $0.08, payable on 10/29/26. As a percentage of WNC's recent stock price of $14.20, this dividend works out to app",
-    "link": "https://www.nasdaq.com/articles/cash-dividend-way-wabash-national-wnc",
-    "pubDate": "Tue, 06 Oct 2026 15:34:12 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "WSBF Ex-Dividend Reminder - 10/8/26",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/8/26, Waterstone Financial Inc (Symbol: WSBF) will trade ex-dividend, for its quarterly dividend of $0.17, payable on 11/2/26. As a percentage of WSBF's recent stock price of $19.89, this dividend works out t",
-    "link": "https://www.nasdaq.com/articles/wsbf-ex-dividend-reminder-10-8-26",
-    "pubDate": "Tue, 06 Oct 2026 15:34:06 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Intuit About To Put More Money In Your Pocket (INTU)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/8/26, Intuit Inc (Symbol: INTU) will trade ex-dividend, for its quarterly dividend of $1.38, payable on 10/16/26. As a percentage of INTU's recent stock price of $287.27, this dividend works out to approximat",
-    "link": "https://www.nasdaq.com/articles/intuit-about-put-more-money-your-pocket-intu",
-    "pubDate": "Tue, 06 Oct 2026 15:34:01 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dreyfus High Yield Strategies Fund About To Put More Money In Your Pocket (DHF)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/8/26, Dreyfus High Yield Strategies Fund (Symbol: DHF) will trade ex-dividend, for its monthly dividend of $0.0175, payable on 10/23/26. As a percentage of DHF's recent stock price of $2.21, this dividend wor",
-    "link": "https://www.nasdaq.com/articles/dreyfus-high-yield-strategies-fund-about-put-more-money-your-pocket-dhf",
-    "pubDate": "Tue, 06 Oct 2026 15:33:55 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "LOAN Ex-Dividend Reminder - 10/8/26",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/8/26, Manhattan Bridge Capital, Inc. (Symbol: LOAN) will trade ex-dividend, for its quarterly dividend of $0.11, payable on 10/15/26. As a percentage of LOAN's recent stock price of $3.91, this dividend works",
-    "link": "https://www.nasdaq.com/articles/loan-ex-dividend-reminder-10-8-26",
-    "pubDate": "Tue, 06 Oct 2026 15:33:41 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Pennymac Mortgage Investment Trust About To Put More Money In Your Pocket (PMT)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/8/26, Pennymac Mortgage Investment Trust (Symbol: PMT) will trade ex-dividend, for its quarterly dividend of $0.40, payable on 10/23/26. As a percentage of PMT's recent stock price of $7.90, this dividend wor",
-    "link": "https://www.nasdaq.com/articles/pennymac-mortgage-investment-trust-about-put-more-money-your-pocket-pmt",
-    "pubDate": "Tue, 06 Oct 2026 15:33:31 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Interesting NVDA Call Options For September 2028",
-    "desc": "Investors in NVIDIA Corp (Symbol: NVDA) saw new options begin trading today, for the September 2028 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 710 days until expiration the newly trading contract",
-    "link": "https://www.nasdaq.com/articles/interesting-nvda-call-options-september-2028",
-    "pubDate": "Tue, 06 Oct 2026 15:32:26 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "PCOR December 2027 Options Begin Trading",
-    "desc": "Investors in Procore Technologies Inc (Symbol: PCOR) saw new options become available today, for the December 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 437 days until expiration the newly availa",
-    "link": "https://www.nasdaq.com/articles/pcor-december-2027-options-begin-trading",
-    "pubDate": "Tue, 06 Oct 2026 15:32:06 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Wall Street marches higher, S&P 500 scales first record high since mid-August",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-hits-record-on-reduced-fed-hike-bets-4933219",
-    "pubDate": "2026-10-06 15:37:25",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Poland stocks higher at close of trade; WIG30 up 1.69%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-169-4934954",
-    "pubDate": "2026-10-06 15:35:04",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Texas AG Paxton probes Fruit of the Loom, Hanes over potential toxic chemicals in children’s underwear",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/texas-ag-paxton-probesfruit-of-the-loom-hanes-over-potential-toxic-chemicals-in-childrens-underwear-4934949",
-    "pubDate": "2026-10-06 15:30:46",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Turkey stocks lower at close of trade; BIST 100 down 0.56%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-056-4934948",
-    "pubDate": "2026-10-06 15:30:31",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.32%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-032-4934943",
-    "pubDate": "2026-10-06 15:30:04",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is BWX Technologies stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-bwx-technologies-stock-surging-today-93CH-4934942",
-    "pubDate": "2026-10-06 15:29:45",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Xanadu Quantum Technologies stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-xanadu-quantum-technologies-stock-surging-today-93CH-4934941",
-    "pubDate": "2026-10-06 15:29:38",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Applied Digital stock climbing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-applied-digital-stock-climbing-today-93CH-4934940",
-    "pubDate": "2026-10-06 15:29:18",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "JPMorgan hires veteran dealmaker Rob Sweeney amid investment banking expansion",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-hires-veteran-dealmaker-rob-sweeney-amid-investment-banking-expansion-4934935",
-    "pubDate": "2026-10-06 15:24:19",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Applied Digital climbs on securing 1GW power site for European AI campus",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/applied-digital-climbs-on-securing-1gw-power-site-for-european-ai-campus-4934934",
-    "pubDate": "2026-10-06 15:22:35",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
-    "desc": "Google DeepMind Chief AI Readiness Officer Lila Ibrahim may be the only person with that title, and as intelligence risks rise, she takes it very seriously.",
-    "link": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
-    "pubDate": "Tue, 06 Oct 2026 14:00:01 GMT",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "ft",
-    "title": "German far right secures first regional parliament president",
-    "desc": "Tobias Rausch wins secret support from four mystery backers from established parties",
-    "link": "https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 14:35:30 GMT",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "ft",
-    "title": "California’s oligarch tax would change America",
-    "desc": "The goal of its framers is political rather than budgetary",
-    "link": "https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 11:01:53 GMT",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "ft",
-    "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-    "desc": "Wall Street’s blue-chip index touches fresh peak but rally increasingly reliant on handful of tech stocks",
-    "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 14:03:55 GMT",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "ft",
-    "title": "Paramount closes $111bn takeover of Warner Bros",
-    "desc": "Heavy cuts expected as boss David Ellison seeks to deliver $6bn of cost savings at combined group to be known as Skydance",
-    "link": "https://www.ft.com/content/93756433-eb78-422d-8ac3-30e8cc243a00?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 12:52:57 GMT",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Skydance targets more than $10B of free cash flow by 2030",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650550-skydance-targets-more-than-10b-of-free-cash-flow-by-2030?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:54:28 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BridgeBio nabs Priority Review for infigratinib for achondroplasia",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650580-bridgebio-nabs-priority-review-infigratinib-achondroplasia?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:53:05 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "S&P 500 hits a record; These $20B stocks still need 200% to break even",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650581-sp-500-hits-a-record-these-20b-stocks-still-need-200-to-break-even?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:50:47 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "U.S. high-yield credit stress mounts as CCC spreads hit 4-year highs",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650575-u-s-high-yield-credit-stress-mounts-as-ccc-spreads-hit-4-year-highs?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:49:12 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "FedEx Dataworks and Stripe partner to make funding more accessible to SMBs",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650570-fedex-dataworks-and-stripe-partner-to-make-funding-more-accessible-to-smbs?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:41:32 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Agentic AI drives up CPU demand; Mizuho ups targets on AMD, Intel",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650561-agentic-ai-drives-up-cpu-demand-mizuho-ups-targets-on-amd-intel?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:39:52 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Paramount-WBD deal closes; here are top quant-rated entertainment stocks",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650577-paramount-wbd-deal-closes-here-are-top-quant-rated-entertainment-stocks?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 10:39:30 -0400",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The 3 tech stocks accounting for over 20% of the S&P 500",
-    "desc": "Nvidia (NVDA), Microsoft (MSFT), and Apple (AAPL) are lifting the S&P 500 (^GSPC) to record levels as the index grows increasingly concentrated in these three tech giants. Yahoo Finance Executive Editor Brian Sozzi shares his take on these concentration trends.",
-    "link": "https://finance.yahoo.com/video/3-tech-stocks-accounting-over-141000052.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:10:00 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Nvidia, Apple, and Microsoft are keeping the stock market afloat",
-    "desc": "The S&P 500 has never been more concentrated in just three stocks than it is today.",
-    "link": "https://finance.yahoo.com/markets/article/nvidia-apple-and-microsoft-are-keeping-the-stock-market-afloat-140845362.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:08:45 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Stocks to Buy and Hold Even if the Stock Market Falls 10% in October",
-    "desc": "If October gets rocky, these three consumer stocks sell the kind of stuff people keep buying no matter what the market is doing.",
-    "link": "https://www.fool.com/investing/2026/10/06/3-stocks-to-buy-and-hold-even-if-the-stock-market/?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:50:00 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "BC-Most Active Stocks",
-    "desc": "NEW YORK (AP) — prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change Freight Technologies Inc.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017648.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:30:17 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "321 Reasons to Buy AI Stocks Right Now",
-    "desc": "The future revenue opportunity could be big.",
-    "link": "https://www.fool.com/investing/2026/10/06/321-reasons-to-buy-ai-stocks-right-now/?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:25:02 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Dow Rises As Oil Firms Fall; Chip Players, Tesla Shares Rally (Live Coverage)",
-    "desc": "The Dow Jones index rises Tuesday as oil prices and yields fall. AMD, Nvidia and Tesla rally.",
-    "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:21:42 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Wall Street Expects the S&P 500's Earnings Growth Rate to at Least Get Cut in Half in 2027. Should Investors Be Worried?",
-    "desc": "S&P 500 earnings are poised to rise this year at the fastest rate since 2021, when earnings soared after recovering from the pandemic.",
-    "link": "https://www.fool.com/investing/2026/10/06/wall-street-expects-sp-500s-earnings-growth-rate/?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:20:00 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "S&P 500 hits record high as oil prices and yields fall",
-    "desc": "The broad index climbed 0.5% to a new all-time intraday high above 7,820, lifted by gains in chipmakers and a drop in crude prices",
-    "link": "https://qz.com/sp500-record-high-oil-treasury-yields-100626?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:01:41 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons FHB is Risky and 1 Stock to Buy Instead",
-    "desc": "Since April 2026, First Hawaiian Bank has been in a holding pattern, posting a small loss of 1.8% while floating around $25.04. The stock also fell short of the S&P 500’s 16.8% gain during that period.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fhb-risky-1-140034406.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:00:34 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Are Palantir Stock Bulls Not Worried About?",
-    "desc": "Palantir Technologies (PLTR) stock has returned 46% over the three months through October 5, 2026, against 3.9% for the S&P 500. Buyers at this price appear to expect the company's sales to businesses to keep growing as fast as they have. But Palantir is no longer alone in chasing those customers, and its own management described one such contest on its latest earnings call. So who is Palantir now up against.",
-    "link": "https://www.trefis.com/articles/617673/what-are-palantir-stock-bulls-not-worried-about/2026-10-06?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:34:18 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Would It Take For Apple Stock To Move Higher?",
-    "desc": "Apple (AAPL) stock trades at 37.8 times earnings, against 21.5 for the S&P 500. Buyers at that price appear to expect more growth than Apple has reported so far. A Barron's article on October 1, 2026, reported an analyst's view that the shares may lack a clear catalyst to move meaningfully higher in the near term. Yet management pointed to a possible new source of revenue on its July 30 earnings call. So what is Apple planning.",
-    "link": "https://www.trefis.com/articles/617679/what-would-it-take-for-apple-stock-to-move-higher/2026-10-06?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:26:32 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Starbucks Faces Suit Over “Sugar Free” Claims",
-    "desc": "Starbucks (NASDAQ: SBUX) faces a lawsuit over how it describes some of its food. According to Reuters, the suit cites a federal regulation. “Federal law prohibits Starbucks from using “sugar-free” to describe beverages containing more than ​0.5 grams of sugar per 12-ounce serving, the complaint said.” Customers say “sugar-free” is incorrect because of lactose. Starbucks […]",
-    "link": "https://247wallst.com/investing/2026/10/06/starbucks-faces-suit-over-sugar-free-claims/?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:24:38 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "How Has Micron's Story Changed?",
-    "desc": "Micron Technology (MU) stock is priced at 9 times its fiscal 2026 sales, against 3.0 for the S&P 500. Shareholders paying that price need to know what they are buying, and Micron's priorities have changed. In December 2024, on its fiscal Q1 2025 call, management was explaining near-term issues and an impact it said was mostly limited to its consumer-oriented segments. Now it leads with something else. So what is it.",
-    "link": "https://www.trefis.com/articles/617672/how-has-microns-story-changed/2026-10-06?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:18:43 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons CINF is Risky and 1 Stock to Buy Instead",
-    "desc": "Cincinnati Financial has been treading water for the past six months, holding steady at $160.32. The stock also fell short of the S&P 500’s 16.8% gain during that period.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-cinf-risky-1-140834921.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:08:34 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Could Lift ISRG Stock?",
-    "desc": "Intuitive Surgical (ISRG) stock has lost 8.2% over the past twelve months, while the S&P 500 returned 17.1%. If you own it, you have watched the market move on without you, and if you do not, the lower price may look tempting. Either way, you are counting on the business behind the da Vinci systems. So what would Intuitive have to sell more of for the stock to climb again.",
-    "link": "https://www.trefis.com/articles/617687/what-could-lift-isrg-stock/2026-10-06?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:02:37 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Thermo Fisher Scientific (TMO): Strong Q3 Guidance and Broadening Demand Support Multi-Year Outlook",
-    "desc": "ClearBridge Investments, a global equity manager, recently published third-quarter 2026 commentary for its “Large Cap Growth Strategy”. The letter can be downloaded here. In the third quarter, leadership among large growth stocks shifted from high-momentum semiconductor names to companies with clearer AI monetization paths. The ClearBridge Large Cap Growth Strategy outperformed its Russell 1000 Growth Index […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-tmo-strong-142908160.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:29:08 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Meta Platforms (META) Advances Following Record Launch of Muse Personal AI Agent",
-    "desc": "ClearBridge Investments, a global equity manager, recently published third-quarter 2026 commentary for its “Large Cap Growth Strategy”. The letter can be downloaded here. In the third quarter, leadership among large growth stocks shifted from high-momentum semiconductor names to companies with clearer AI monetization paths. The ClearBridge Large Cap Growth Strategy outperformed its Russell 1000 Growth Index […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-advances-following-142225738.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 14:22:25 +0000",
-    "fetchedAt": "2026-10-06T15:01:35.898Z"
   }
 ]
