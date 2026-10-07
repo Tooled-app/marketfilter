@@ -1,6 +1,430 @@
 [
   {
     "source": "cnbc",
+    "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    "desc": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday.",
+    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+    "pubDate": "Wed, 07 Oct 2026 09:43:05 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+    "desc": "Finland has emerged as a key location for data centers amid the AI boom.",
+    "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+    "pubDate": "Wed, 07 Oct 2026 09:26:02 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
+    "desc": "France is facing a fresh political crisis, as its debt levels and borrowing costs continue to rise.",
+    "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
+    "pubDate": "Wed, 07 Oct 2026 09:57:23 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
+    "desc": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
+    "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
+    "pubDate": "Wed, 07 Oct 2026 09:18:30 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Royal Mail plans to cut 2,500 head office jobs",
+    "desc": "The postal service firm wants to cut the head office and other jobs by the end of 2027.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:55:07 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Japan beer giants raided over alleged price-fixing cartel",
+    "desc": "Asahi and Kirin confirmed their premises were searched by Japanese competition authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:45:56 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Mohawk Industries stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-mohawk-industries-stock-sliding-today-93CH-4936015",
+    "pubDate": "2026-10-07 09:56:06",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Musk welcomes German backing for Tesla driver assistance tech as group chases EU approval",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/musk-welcomes-german-backing-for-tesla-driver-assistance-tech-as-group-chases-eu-approval-4936014",
+    "pubDate": "2026-10-07 09:55:15",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Investors pick new darlings and duds as selloff rocks Europe’s bond market",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/investors-pick-new-darlings-and-duds-as-selloff-rocks-europes-bond-market-4935915",
+    "pubDate": "2026-10-07 09:55:01",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Renault stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-renault-stock-rallying-today-93CH-4936011",
+    "pubDate": "2026-10-07 09:54:57",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "BTIG cuts ArriVent BioPharma stock price target on trial results",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/btig-cuts-arrivent-biopharma-stock-price-target-on-trial-results-93CH-4936012",
+    "pubDate": "2026-10-07 09:54:57",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Piper Sandler raises Marvell stock price target on revenue outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-raises-marvell-stock-price-target-on-revenue-outlook-93CH-4936010",
+    "pubDate": "2026-10-07 09:54:49",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Intel stock gaining today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-gaining-today-93CH-4936008",
+    "pubDate": "2026-10-07 09:50:04",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wells Fargo raises Marvell stock price target on chip momentum",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-marvell-stock-price-target-on-chip-momentum-93CH-4936007",
+    "pubDate": "2026-10-07 09:48:59",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wells Fargo cuts Booking Holdings stock price target on travel demand concerns",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-booking-holdings-stock-price-target-on-travel-demand-concerns-93CH-4936005",
+    "pubDate": "2026-10-07 09:48:53",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wells Fargo cuts Expedia stock price target on bookings concerns",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-expedia-stock-price-target-on-bookings-concerns-93CH-4936006",
+    "pubDate": "2026-10-07 09:48:53",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "AMD&#x2019;s chief executive is planning to invest &#x2018;tens of billions&#x2019; as Asian tour addresses supply-chain chokepoints",
+    "desc": "AMD&#x2019;s CEO has been meeting executives in Taiwan and South Korea.",
+    "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 09:37:00 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
+    "desc": "Investors are &#x201c;underestimating the scale and scope&#x201d; of the AI spending wave, said Dan Ives as he laid out five stocks to own.",
+    "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 09:33:00 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;He grew up wealthy&#x2019;: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
+    "desc": "&#x201c;I keep thinking about giving each child $750,000 toward a house.&#x201d;",
+    "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 09:15:00 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
+    "desc": "Elon Musk&#x2019;s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
+    "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 09:15:00 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
+    "desc": "Actor Josh Brolin has sold his lavish Sandy Springs, Ga., estate for $4 million&#x2014;a final sale price falling just under $1 million less than the original asking price of $4.999 million.",
+    "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 09:05:00 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
+    "desc": "Boasting breathtaking views of the Pacific Ocean, the charming 4-bedroom home is located on a triangular 0.4-acre oceanfront lot with direct access to a sandy beach via a wooden staircase.",
+    "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
+    "pubDate": "Wed, 07 Oct 2026 09:01:00 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "ft",
+    "title": "How much longer can the world absorb the Iran shock?",
+    "desc": "The disruption to oil supply, oil prices and the world economy has been surprisingly manageable so far",
+    "link": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
+    "pubDate": "Wed, 07 Oct 2026 04:00:12 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "ft",
+    "title": "AI agents could cost banks $500bn — by winning savers better rates",
+    "desc": "Banks will gain from AI as well as lose",
+    "link": "https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1",
+    "pubDate": "Wed, 07 Oct 2026 08:51:55 GMT",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Aramco weighs gas monetization options as Jafurah output grows - report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650822-aramco-weighs-gas-monetization-options-as-jafurah-output-grows---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:53:08 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax Ultra Option Income Strategy ETF announces weekly distribution of $0.3016 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650844-yieldmax-ultra-option-income-strategy-etf-announces-weekly-distribution-of-03016-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:51:46 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax Ultra Short Option Income Strategy ETF announces weekly distribution of $0.2157",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650843-yieldmax-ultra-short-option-income-strategy-etf-announces-weekly-distribution-of-02157?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:50:17 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax&#xAE; S&P 500 0DTE Covered Call ETF announces weekly distribution of $0.164",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650840-yieldmax-sp-500-0dte-covered-call-etf-announces-weekly-distribution-of-0164?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:48:12 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax&#xAE; R2000 0DTE Covered Call ETF announces weekly distribution of $0.2467",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650839-yieldmax-r2000-0dte-covered-call-etf-announces-weekly-distribution-of-02467?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:44:45 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax&#xAE; Nasdaq 100 0DTE Covered Call ETF announces weekly distribution of $0.2389",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650838-yieldmax-nasdaq-100-0dte-covered-call-etf-announces-weekly-distribution-of-02389?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:42:33 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax Strat Metals & Mining Portfolio Opt Inc ETF announces weekly distribution of $0.209",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4650837-yieldmax-strat-metals-mining-portfolio-opt-inc-etf-announces-weekly-distribution-of-0209?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 07 Oct 2026 05:38:52 -0400",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "S&P 500, Nasdaq hit records — but 'the breadth of the rally has narrowed': Chart of the Day",
+    "desc": "The major averages are at all-time highs, but market breadth is deteriorating.",
+    "link": "https://finance.yahoo.com/markets/article/sp-500-nasdaq-hit-records--but-the-breadth-of-the-rally-has-narrowed-chart-of-the-day-100000341.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 10:00:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures Fall, Yields Rise After S&P 500 Hits High; Astera, GE Vernova, Arista Lead Buys",
+    "desc": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
+    "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures-fall%2C.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:53:18 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy",
+    "desc": "The Oracle of Omaha’s under-the-radar portfolio has over $149 million put to work in two index funds that consistently print profits for long-term investors.",
+    "link": "https://www.fool.com/investing/2026/10/07/warren-buffett-863-million-secret-portfolio-dump-alphabet-broadcom-has-over-17-invested-in-proven-moneymaking-strategy/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:26:01 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The S&P 500 Just Had One of Its Strangest Months in Years. History Says This Usually Doesn't Last.",
+    "desc": "The S&P 500 experienced a historic breadth divergence. It's possible that it doesn't end soon.",
+    "link": "https://www.fool.com/investing/2026/10/07/sp-500-one-strangest-months-years-history-says/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:12:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "1 Healthcare Stock with Competitive Advantages and 2 We Find Risky",
+    "desc": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Players catalyzing medical advancements have benefited from elevated demand, and their momentum is only rising as the industry has posted a 36.4% gain over the past six months, beating the S&P 500 by 18.9 percentage points.",
+    "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-competitive-advantages-085647379.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 08:56:47 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 Vanguard ETFs Outpacing the S&P 500 and Nasdaq-100 This Year but Facing Near-Term Tests",
+    "desc": "Both the Vanguard Energy ETF and the Vanguard FTSE Pacific ETF are beating the S&P 500 and the Nasdaq-100 this year, but the paths to near-term upside may be bumpy.",
+    "link": "https://www.fool.com/investing/2026/10/07/vanguard-etf-outpacing-sp-500-nasdaq-100-vde/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:50:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "2 S&P 500 Stocks Worth Investigating and 1 We Turn Down",
+    "desc": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-093647374.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:36:47 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Futures Edge Lower Ahead of FOMC Minutes as Constellation Brands Reports Results: Dow Jones, S&P, Nasdaq, Wall Street",
+    "desc": "US stock futures moved slightly lower on Wednesday as investors awaited minutes from the Federal Reserve’s September policy meeting, while corporate developments at SpaceX, Constellation Brands and Levi Strauss were also in focus. At 06:56 GMT, Dow futures were down 108 points, or 0.",
+    "link": "https://investorshub.advfn.com/market-news/article/37601/us-futures-edge-lower-ahead-of-fomc-minutes-as-constellation-brands-reports-results-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 09:28:11 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Sandisk Is Up 613% in 2026 and Micron Isn't Far Behind. Which AI Memory Stock Has More Room to Run?",
+    "desc": "Key PointsSanDisk is up more than 613% in 2026, but its growth is heavily reliant on pricing.",
+    "link": "https://www.nasdaq.com/articles/sandisk-613-2026-and-micron-isnt-far-behind-which-ai-memory-stock-has-more-room-run",
+    "pubDate": "Wed, 07 Oct 2026 09:35:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "1 Stat That Makes Tesla Hard to Ignore Before Oct. 21",
+    "desc": "Key PointsTesla's Q3 vehicle deliveries meaningfully exceeded Wall Street's forecast.",
+    "link": "https://www.nasdaq.com/articles/1-stat-makes-tesla-hard-ignore-oct-21",
+    "pubDate": "Wed, 07 Oct 2026 09:25:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Shares Slide On France's Fiscal Worries",
+    "desc": "(RTTNews) - European shares drifted lower on Wednesday, with renewed Middle East tensions and France's deepening fiscal crisis keeping investors on edge.",
+    "link": "https://www.nasdaq.com/articles/european-shares-slide-frances-fiscal-worries",
+    "pubDate": "Wed, 07 Oct 2026 09:22:51 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year. History Says This Will Happen Next.",
+    "desc": "Key PointsMicron and Sandisk shares have soared this year amid strong demand for memory chips created by the AI boom.",
+    "link": "https://www.nasdaq.com/articles/ai-stocks-micron-and-sandisk-are-460-and-1190-past-year-history-says-will-happen-next",
+    "pubDate": "Wed, 07 Oct 2026 09:08:02 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "10-Year Treasuries Yield 5.3%; Schwab's Dividend ETF Yields 3.4%. Which One Should Income Investors Buy?",
+    "desc": "Key PointsInvestors have an opportunity to lock in the highest yield on Treasury bonds in decades.",
+    "link": "https://www.nasdaq.com/articles/10-year-treasuries-yield-53-schwabs-dividend-etf-yields-34-which-one-should-income",
+    "pubDate": "Wed, 07 Oct 2026 09:05:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Warren Buffett's Favorite Valuation Indicator Blew Past the Level He Warned Was \"Playing With Fire.\" Here Are 3 Stocks Still Cheap Enough to Buy.",
+    "desc": "Key PointsEnterprise Products Partners benefits from the driving force behind the stock market boom.",
+    "link": "https://www.nasdaq.com/articles/warren-buffetts-favorite-valuation-indicator-blew-past-level-he-warned-was-playing-fire",
+    "pubDate": "Wed, 07 Oct 2026 09:04:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Meet the Dividend King That's Down 50% and Yields More Than It Has in Years",
+    "desc": "Key PointsHormel Foods' stock lost more than half its value over the past five years.",
+    "link": "https://www.nasdaq.com/articles/meet-dividend-king-thats-down-50-and-yields-more-it-has-years",
+    "pubDate": "Wed, 07 Oct 2026 08:50:00 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Bayer&#8217;s CEO cut managers by 70%. Now comes the hard part",
+    "desc": "Also: All the news and watercooler chat from Fortune.",
+    "link": "https://fortune.com/2026/10/07/bayer-ceo-bill-anderson-flat-reduced-managers-growth/",
+    "pubDate": "Wed, 07 Oct 2026 09:02:11 +0000",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stock futures dip after S&P 500, Nasdaq hit records; Fed minutes awaited",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-tech-rally-lifts-sp-500-nasdaq-to-records-4935463",
+    "pubDate": "2026-10-07 09:48:30",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Copper rally faces near-term risks despite long-term gains",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/copper-rally-faces-nearterm-risks-despite-longterm-gains-93CH-4936001",
+    "pubDate": "2026-10-07 09:43:39",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why Barclays says the bull market is \"running on tighter margins\"",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-barclays-says-the-bull-market-is-running-on-tighter-margins-4935998",
+    "pubDate": "2026-10-07 09:42:55",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Morgan Stanley sees selective value in French utilities after bond spread rise",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-selective-value-in-french-utilities-after-bond-spread-rise-4935995",
+    "pubDate": "2026-10-07 09:41:18",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Tanker captains earn $100,000 a month for Hormuz transits",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tanker-captains-earn-100000-a-month-for-hormuz-transits-93CH-4935994",
+    "pubDate": "2026-10-07 09:40:50",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Caribou Biosciences stock collapsing today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-caribou-biosciences-stock-collapsing-today-93CH-4935993",
+    "pubDate": "2026-10-07 09:40:12",
+    "fetchedAt": "2026-10-07T10:01:34.810Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
     "desc": "His comments come as rising Middle East crude exports and an emergency G7 stockpile release appear to have helped to ease supply fears.",
     "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
@@ -5974,429 +6398,5 @@
     "link": "https://www.nasdaq.com/articles/why-centrus-stock-popped-tuesday",
     "pubDate": "Tue, 06 Oct 2026 16:35:18 +0000",
     "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "History Says This 1 Move Will Determine Whether Your Investments Survive a Bear Market",
-    "desc": "Key PointsBear markets occur every seven or eight years, on average, but that can vary quite a bit.",
-    "link": "https://www.nasdaq.com/articles/history-says-1-move-will-determine-whether-your-investments-survive-bear-market",
-    "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tuesday's ETF with Unusual Volume: EMOP",
-    "desc": "The AB Emerging Markets Opportunities ETF is seeing unusually high volume in afternoon trading Tuesday, with over 405,000 shares traded versus three month average volume of about 58,000. Shares of EMOP were up about 0.1% on the day. Components of that ETF with the highest volu",
-    "link": "https://www.nasdaq.com/articles/tuesdays-etf-unusual-volume-emop",
-    "pubDate": "Tue, 06 Oct 2026 16:22:21 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Xanadu Quantum Technologies Stock Jumped 17% Today",
-    "desc": "Key PointsXanadu stock jumped about 17% after announcing a multi-year manufacturing deal with GlobalFoundries.",
-    "link": "https://www.nasdaq.com/articles/why-xanadu-quantum-technologies-stock-jumped-17-today",
-    "pubDate": "Tue, 06 Oct 2026 16:21:01 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Applied Materials vs. Nvidia: Which Chip Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsApplied Materials' revenue rose 25% year over year to $9.1 billion in the quarter ended July 26, 2026, and management guided for about $10.25 billion in its fiscal fourth quarter.",
-    "link": "https://www.nasdaq.com/articles/applied-materials-vs-nvidia-which-chip-stock-better-buy-2026",
-    "pubDate": "Tue, 06 Oct 2026 16:20:02 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's the Average Social Security Benefit at Age 70",
-    "desc": "Key PointsThe average Social Security benefit at age 70 is $2,274.68 as of December 2025.",
-    "link": "https://www.nasdaq.com/articles/heres-average-social-security-benefit-age-70",
-    "pubDate": "Tue, 06 Oct 2026 16:20:02 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: $500 a Month Invested in Nvidia Stock Will Be Worth This Much by Year-end 2030",
-    "desc": "Key PointsNvidia is worth $5.6 trillion, making it the most valuable company in the world.",
-    "link": "https://www.nasdaq.com/articles/prediction-500-month-invested-nvidia-stock-will-be-worth-much-year-end-2030",
-    "pubDate": "Tue, 06 Oct 2026 16:20:00 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dow Analyst Moves: SHW",
-    "desc": "The latest tally of analyst opinions from the major brokerage houses shows that among the 30 stocks making up the Dow Jones Industrial Average, Sherwin-Williams is the #10 analyst pick. Sherwin-Williams also comes in above the median of analyst picks among the broader S&amp;P 5",
-    "link": "https://www.nasdaq.com/articles/dow-analyst-moves-shw",
-    "pubDate": "Tue, 06 Oct 2026 16:20:00 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Daily Dividend Report: PFE,WS,LW,MMS",
-    "desc": "Pfizer today announced that its board of directors declared a $0.43 fourth-quarter 2026 dividend on the company's common stock, payable December 7, 2026, to holders of the Common Stock of record at the close of business on November 6, 2026. The board of directors of Worthington",
-    "link": "https://www.nasdaq.com/articles/daily-dividend-report-pfewslwmms",
-    "pubDate": "Tue, 06 Oct 2026 16:19:40 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tuesday's ETF Movers: NLR, ARKG",
-    "desc": "In trading on Tuesday, the VanEck Uranium and Nuclear ETF is outperforming other ETFs, up about 6.4% on the day. Components of that ETF showing particular strength include shares of Constellation Energy WH, up about 14% and shares of Centrus Energy, up about 12.4% on the day.",
-    "link": "https://www.nasdaq.com/articles/tuesdays-etf-movers-nlr-arkg",
-    "pubDate": "Tue, 06 Oct 2026 16:19:13 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tuesday Sector Laggards: Medical Instruments & Supplies, Advertising Stocks",
-    "desc": "In trading on Tuesday, medical instruments &amp; supplies shares were relative laggards, down on the day by about 1.2%. Helping drag down the group were shares of 10x Genomics, down about 13.1% and shares of Quanterix off about 7.9% on the day. Also lagging the market Tuesday",
-    "link": "https://www.nasdaq.com/articles/tuesday-sector-laggards-medical-instruments-supplies-advertising-stocks",
-    "pubDate": "Tue, 06 Oct 2026 16:18:25 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tuesday Sector Leaders: Construction, Construction Materials & Machinery Stocks",
-    "desc": "In trading on Tuesday, construction shares were relative leaders, up on the day by about 2.8%. Leading the group were shares of MYR Group, up about 7.4% and shares of Sterling Infrastructure up about 6.8% on the day. Also showing relative strength are construction materials &a",
-    "link": "https://www.nasdaq.com/articles/tuesday-sector-leaders-construction-construction-materials-machinery-stocks",
-    "pubDate": "Tue, 06 Oct 2026 16:18:12 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Qualcomm vs. SK hynix: Which Technology Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsQUALCOMM maintains a dominant position in mobile connectivity and is expanding into automotive and AI data center networking.",
-    "link": "https://www.nasdaq.com/articles/qualcomm-vs-sk-hynix-which-technology-stock-better-buy-2026",
-    "pubDate": "Tue, 06 Oct 2026 16:15:02 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Taiwan opens Phoenix office as $265 billion chip investment in Arizona grows, over China&#8217;s objections",
-    "desc": "Taiwan is turning Phoenix into a bigger hub for its chip industry with a new office and TSMC's investments",
-    "link": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/",
-    "pubDate": "Tue, 06 Oct 2026 16:19:44 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Zambia to sign revised U.S. health deal without patient data and specimen-sharing clauses",
-    "desc": "The U.S. has signed new bilateral health agreements with around two dozen African nations since last year, but some have pushed back on requirements to provide patient data.",
-    "link": "https://fortune.com/2026/10/06/zambia-3-6-billion-health-deal-specimen-sharing/",
-    "pubDate": "Tue, 06 Oct 2026 16:10:51 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "As AI reshapes the consumer journey, L’Oréal is rethinking its marketing engine",
-    "desc": "Underneath the ads, TikTok campaigns, and virtual try-ons lies an increasingly complex infrastructure of data, technology, and AI. To succeed today, marketers need to understand the “pipes and plumbing”, says L’Oréal’s Asmita Dubey.",
-    "link": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/",
-    "pubDate": "Tue, 06 Oct 2026 15:14:43 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;It’s been a very strange year on LIV&#8217;: LIV Golf to get $300 million investment to help the circuit emerge from bankruptcy",
-    "desc": "The financing by funds advised on the BC Partners Credit platform requires bankruptcy court approval.",
-    "link": "https://fortune.com/2026/10/06/liv-golf-300-million-investment-bankruptcy/",
-    "pubDate": "Tue, 06 Oct 2026 15:50:28 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Trillions of ‘ghost particles’ pass through your body every second. The scientist who hunts them just won the Nobel Prize",
-    "desc": "Francis Halzen turned Antarctic ice into a giant detector for elusive neutrinos, with sensors buried 8,200 feet below the surface.",
-    "link": "https://fortune.com/2026/10/06/francis-halzen-nobel-physics-neutrinos/",
-    "pubDate": "Tue, 06 Oct 2026 14:57:33 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Gen Z&#8217;s new American Dream: Skip the mortgage, book the flight",
-    "desc": "Young Americans are trading square footage, new cars and even moving out for plane tickets, even as airfares jump more than 20%.",
-    "link": "https://fortune.com/2026/10/06/gen-z-new-american-dream-skip-the-mortgage-book-the-flight/",
-    "pubDate": "Tue, 06 Oct 2026 15:28:32 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "After housing protests turned violent, Spain will tax seasonal rentals to build a 10 billion euro fund into first-home loans",
-    "desc": "Spain passed 21 housing measures after tends of thousands protested the country's housing affordability crisis and ahead of snap elections",
-    "link": "https://fortune.com/2026/10/06/spain-housing-crisis-protests-tax-rentals/",
-    "pubDate": "Tue, 06 Oct 2026 15:17:18 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Elon Musk is a trillionaire again—and he&#8217;d still be the richest person on the planet even if he gave everyone $90",
-    "desc": "Musk could buy everyone on the planet a pair of Apple AirPods, a three-course dinner, or a nice pair of Levi’s jeans, and he’d still be the world’s richest with $298 billion.",
-    "link": "https://fortune.com/2026/10/06/elon-musk-trillionaire-again-still-be-richest-person-on-planet-gave-everyone-90/",
-    "pubDate": "Tue, 06 Oct 2026 15:17:01 +0000",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "European shares rise as retreating bond yields and oil prices boost risk appetite",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-gain-as-genmab-jumps-bond-yields-retreat-4933561",
-    "pubDate": "2026-10-06 16:48:22",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Vistra options activity surges on $4.2B DOE nuclear loan commitment",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/vistra-options-activity-surges-on-42b-doe-nuclear-loan-commitment-93CH-4935003",
-    "pubDate": "2026-10-06 16:36:05",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Venture Global shares rise amid report Chinese buyers eye expanded U.S. LNG deals",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/venture-global-shares-rise-amid-report-chinese-buyers-eye-expanded-us-lng-deals-4935002",
-    "pubDate": "2026-10-06 16:35:23",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Walmart options activity: large call spread targets $115–$125 by November",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/walmart-options-activity-large-call-spread-targets-115125-by-november-93CH-4935001",
-    "pubDate": "2026-10-06 16:31:35",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Marvell Technology options show call-heavy positioning as stock rises 4.7%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/marvell-technology-options-show-callheavy-positioning-as-stock-rises-47-93CH-4934998",
-    "pubDate": "2026-10-06 16:29:19",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "McDonald’s stock gains 0.3% despite franchisee pushback over store upgrades",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/mcdonalds-stock-gains-03-despite-franchisee-pushback-over-store-upgrades-4934996",
-    "pubDate": "2026-10-06 16:28:06",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Google launches EmbeddingGemma 2 for on-device multimodal search",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/google-launches-embeddinggemma-2-for-ondevice-multimodal-search-93CH-4934995",
-    "pubDate": "2026-10-06 16:25:02",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "General Medicine raises $120 million to expand healthcare store",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/general-medicine-raises-120-million-to-expand-healthcare-store-93CH-4934993",
-    "pubDate": "2026-10-06 16:24:43",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "S&P upgrades Cushman & Wakefield to ’BB’ on leverage progress",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-cushman--wakefield-to-bb-on-leverage-progress-4934992",
-    "pubDate": "2026-10-06 16:21:32",
-    "fetchedAt": "2026-10-06T17:01:36.487Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-    "desc": "British Airways is ripping out coach class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
-    "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-    "pubDate": "Tue, 06 Oct 2026 15:52:33 GMT",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "High diesel prices may put 'another squeeze' on the consumer, economist says",
-    "desc": "The impact of soaring diesel prices is less evident to consumers than that of gasoline.",
-    "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
-    "pubDate": "Tue, 06 Oct 2026 15:45:52 GMT",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
-    "desc": "UBS CEO Sergio Ermotti warned that \"hard measures\" are needed to tackle France's spiraling debt crisis.",
-    "link": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
-    "pubDate": "Tue, 06 Oct 2026 15:13:04 GMT",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "ft",
-    "title": "Vitol chief warns of tanker shortage and risk of $200-a-barrel oil",
-    "desc": "Head of world’s largest independent oil trader says shipping squeeze is creating new bottleneck despite increased Gulf flows",
-    "link": "https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197?syn-25a6b1a6=1",
-    "pubDate": "Tue, 06 Oct 2026 13:39:08 GMT",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Midday Need to Know: Uber buys ezCater, Marvell raises outlook & more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650634-midday-need-to-know-uber-buys-ezcater-marvell-raises-outlook-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:57:50 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Countries should monitor hedge funds' leverage and interconnections, IMF says",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650627-countries-should-monitor-hedge-funds-leverage-and-interconnections-imf-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:54:23 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Apogee forecasts FY2027 sales of $1.46B-$1.5B and adjusted EPS of $3-$3.40 while adding Groglass",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650636-apogee-forecasts-fy2027-sales-of-1_46b-1_5b-and-adjusted-eps-of-3-3_40-while-adding-groglass?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:53:31 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Eli Lilly-backed TRex Bio targets up to $133M in U.S. IPO",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650633-lilly-backed-trex-bio-targets-133m-in-us-ipo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:49:49 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Oil and fuel supply buffers thinning as Middle East war drags on, Chevron CEO says",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650629-oil-and-fuel-supply-buffers-thinning-as-middle-east-war-drags-on-chevron-ceo-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:49:09 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "If you think U.S. debt had a rough year, don&#x2019;t look at France",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650630-if-you-think-u-s-debt-had-a-rough-year-don-t-look-at-france?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:47:40 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BASF holding internal talks on raising Evonik bid closer to &#x20AC;11B - Bloomberg",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4650626-basf-holding-internal-talks-on-raising-evonik-bid-closer-to-11b---bloomberg?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 06 Oct 2026 11:41:26 -0400",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230; Continued The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/myro-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:21 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap (CAKE) has long &#8230; Continued The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:20 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a &#8230; Continued The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/algorand-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:19 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Hedera Hashgraph &#8230; Continued The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:18 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8230; Continued The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:18 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a &#8230; Continued The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:17 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a &#8230; Continued The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:16 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a &#8230; Continued The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/polkadot-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:15 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
-    "desc": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been &#8230; Continued The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/filecoin-price-prediction",
-    "pubDate": "Tue, 06 Oct 2026 14:13:14 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nasdaq 100 Movers: STX, CEG",
-    "desc": "In early trading on Tuesday, shares of Constellation Energy topped the list of the day's best performing components of the Nasdaq 100 index, trading up 12.1%. Year to date, Constellation Energy has lost about 15.1% of its value. And the worst performing Nasdaq 100 component th",
-    "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-stx-ceg",
-    "pubDate": "Tue, 06 Oct 2026 15:46:23 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "S&P 500 Movers: STX, CEG",
-    "desc": "In early trading on Tuesday, shares of Constellation Energy topped the list of the day's best performing components of the S&amp;P 500 index, trading up 12.1%. Year to date, Constellation Energy has lost about 15.1% of its value. And the worst performing S&amp;P 500 component",
-    "link": "https://www.nasdaq.com/articles/sp-500-movers-stx-ceg",
-    "pubDate": "Tue, 06 Oct 2026 15:45:21 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dow Movers: NKE, HONIV",
-    "desc": "In early trading on Tuesday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Dow component thus far o",
-    "link": "https://www.nasdaq.com/articles/dow-movers-nke-honiv",
-    "pubDate": "Tue, 06 Oct 2026 15:44:40 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "YieldBoost POWI From 1.6% To 15.2% Using Options",
-    "desc": "Shareholders of Power Integrations Inc. (Symbol: POWI) looking to boost their income beyond the stock's 1.6% annualized dividend yield can sell the June 2027 covered call at the $75 strike and collect the premium based on the $5.10 bid, which annualizes to an additional 13.6% ra",
-    "link": "https://www.nasdaq.com/articles/yieldboost-powi-16-152-using-options",
-    "pubDate": "Tue, 06 Oct 2026 15:43:32 +0000",
-    "fetchedAt": "2026-10-06T16:01:40.555Z"
   }
 ]
