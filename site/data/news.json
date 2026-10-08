@@ -1,6 +1,630 @@
 [
   {
     "source": "cnbc",
+    "title": "Treasury yields are 'really, really high,' but can come down soon, Bessent's new adviser says",
+    "desc": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
+    "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+    "pubDate": "Thu, 08 Oct 2026 19:38:14 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+    "desc": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+    "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+    "pubDate": "Thu, 08 Oct 2026 18:04:08 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "New data shows Starbucks turnaround is working, but Chipotle takeover report slams shares",
+    "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/new-data-shows-starbucks-turn-is-working-but-chipotle-takeover-report-slams-shares.html",
+    "pubDate": "Thu, 08 Oct 2026 19:08:07 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "White House blocks Microsoft from foreign worker hiring program",
+    "desc": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:57:04 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Adidas sues Australian label White Fox over four stripes design",
+    "desc": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 18:17:28 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "New electric car 'make or break for Jaguar'",
+    "desc": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 05:08:56 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+    "desc": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:10:06 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Hygiene poverty at tipping point, charity warns",
+    "desc": "The BBC hears people \"you would not expect\" can no longer afford items to be clean and healthy.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyv502k441o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 05:05:42 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "bbc",
+    "title": "New vape tax made me swap e-cigs for dartboards",
+    "desc": "The Vaping Product Duty will be imposed at a rate of £2.20 per 10ml of e-liquid from April 2027.",
+    "link": "https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 05:18:53 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Apple names insider Steve Smith as new M&A chief, memo shows",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/apple-names-insider-steve-smith-as-new-ma-chief-memo-shows-4939661",
+    "pubDate": "2026-10-08 19:48:18",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-jumps-as-middle-east-supply-concerns-persist-amid-shipping-attacks-4938452",
+    "pubDate": "2026-10-08 19:43:32",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Explainer-The skilled foreign tech workers’ green card program under attack from Trump",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/explainerthe-skilled-foreign-tech-workers-green-card-program-under-attack-from-trump-4939632",
+    "pubDate": "2026-10-08 19:43:16",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "EU exec rejects Greek, Italian requests for more fiscal rules flexibility",
+    "desc": "",
+    "link": "https://www.investing.com/news/economic-indicators/eu-exec-rejects-greek-italian-requests-for-more-fiscal-rules-flexibility-4939640",
+    "pubDate": "2026-10-08 19:42:47",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Brazil finance minister calls Bolsonaro trade a ’hollow illusion’",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/brazil-finance-minister-calls-bolsonaro-trade-a-hollow-illusion-4939666",
+    "pubDate": "2026-10-08 19:42:30",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Michael O’Connor sells $94,375 of Rainmaker Worldwide stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/michael-oconnor-sells-94375-of-rainmaker-worldwide-stock-93CH-4939659",
+    "pubDate": "2026-10-08 19:31:08",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "NANO Nuclear Energy at TD Nuclear Roundtable: licensing path firms",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/nano-nuclear-energy-at-td-nuclear-roundtable-licensing-path-firms-93CH-4939656",
+    "pubDate": "2026-10-08 19:26:19",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "French students keep up protest pressure with some demonstrations hit by violence",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
+    "pubDate": "2026-10-08 19:24:25",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Canada bond yields edge higher as investors assess rate outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/canada-bond-yields-edge-higher-as-investors-assess-rate-outlook-4939655",
+    "pubDate": "2026-10-08 19:24:09",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investing",
+    "title": "Canadian dollar gains as oil rally, narrower yield gap support loonie",
+    "desc": "",
+    "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
+    "pubDate": "2026-10-08 19:22:09",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "How to downsize like a pro &#x2014; and free yourself from being a &#x2018;prisoner of your possessions&#x2019;",
+    "desc": "Seven tips for painlessly moving in retirement.",
+    "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 19:47:00 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Florida is voting on whether to slash property taxes. Here&#x2019;s who it would benefit &#x2014; and hurt.",
+    "desc": "Amendment 3&#x2019;s passage could add momentum to other states&#x2019; efforts to slash property taxes",
+    "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 19:41:00 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Bond yields fall as the Treasury market passes a crucial test of investor confidence",
+    "desc": "The 30-year Treasury bond still matters, as it can be a measure of trust in the U.S. government.",
+    "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 18:19:00 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "ft",
+    "title": "China races to build data centres in bid for AI supremacy",
+    "desc": "Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia",
+    "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 00:15:04 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "ft",
+    "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
+    "desc": "Banks’ trading businesses are booming, but post-crisis regulation means it is no longer them placing the bets",
+    "link": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 04:00:09 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "ft",
+    "title": "Real men don’t do climate change",
+    "desc": "Research on the gender differences in how people think about global warming suggests campaigns and communications may need a rethink",
+    "link": "https://www.ft.com/content/61118fd6-b5d2-4ce1-9a78-4535a0ef3ead?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 04:00:16 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "ft",
+    "title": "US bans Microsoft from sponsoring foreign workers for US residency",
+    "desc": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
+    "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 19:45:47 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "ft",
+    "title": "US adds torture charges to case against former Venezuelan president",
+    "desc": "New York federal prosecutors allege Nicolás Maduro and his wife Cilia Flores conspired to commit torture of American citizens",
+    "link": "https://www.ft.com/content/19a73ec7-a014-4776-bef7-4aa34e5b543a?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 19:03:46 GMT",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax Short NVDA Option Income Strategy ETF declares $0.1963 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651558-yieldmax-short-nvda-option-income-strategy-etf-declares-0_1963-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:57:08 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax CVNA Option Income Strategy ETF declares $0.2007 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651557-yieldmax-cvna-option-income-strategy-etf-declares-0_2007-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:56:39 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax Short TSLA Option Income Strategy ETF declares $0.1627 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651556-yieldmax-short-tsla-option-income-strategy-etf-declares-0_1627-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:56:13 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax CRCL Option Income Strategy ETF declares $0.1795 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651555-yieldmax-crcl-option-income-strategy-etf-declares-0_1795-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:55:49 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax COIN Option Income Strategy ETF declares $0.2222 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651554-yieldmax-coin-option-income-strategy-etf-declares-0_2222-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:55:26 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax BRK.B Option Income Strategy ETF declares $0.1008 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651553-yieldmax-brk-b-option-income-strategy-etf-declares-0_1008-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:55:00 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "YieldMax BABA Option Income Strategy ETF declares $0.042 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651552-yieldmax-baba-option-income-strategy-etf-declares-0_042-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 15:54:39 -0400",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Indexes Drop as Sharp Sell-Off in Semiconductor Heavyweights Sinks Technology While Crude Oil Surges",
+    "desc": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-sharp-193942601.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:39:42 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The S&P 500 Would Be Green Without Tech",
+    "desc": "Tech led the S&P 500's decline on Thursday and without the sector's contributions the index would have been rising.",
+    "link": "https://finance.yahoo.com/m/8239235b-3def-3a90-a2ed-81f7f7133117/the-s%26p-500-would-be-green.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:26:21 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Warren Buffett Warns Investors Are Headed for a Cold, Hard Reality Check. History Says He's Right.",
+    "desc": "Some investors may be taking on unnecessary risk, according to Buffett.",
+    "link": "https://www.fool.com/investing/2026/10/08/warren-buffett-warns-some-investors-are-headed-for/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:20:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Schwab flags the overlooked risk in skipping foreign stocks",
+    "desc": "Your portfolio may be making a bet you never chose to make.",
+    "link": "https://www.thestreet.com/investing/stocks/schwab-international-stocks-outperform-us-2026?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:47:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Nasdaq Slumps Amid Tech Rout; This Medical Name Pops (Live Coverage)",
+    "desc": "The Dow Jones index declines Thursday after Trump's latest Iran comments. Treasury yields and oil prices surge.",
+    "link": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:19:07 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Tech stocks drop after report that OpenAI’s revenue is lower than expected",
+    "desc": "Tech stocks dropped on Thursday after a news report that OpenAI’s annualized revenue is about $20 billion less than previously reported.",
+    "link": "https://www.cnn.com/2026/10/08/investing/openai-nasdaq-stocks?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:07:13 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Was The Run In Target Stock Hiding In Plain Sight?",
+    "desc": "Target (TGT) stock returned 76.5% in the twelve months to October 7, 2026. By comparison, the S&P 500 returned 17.1%. During this stretch, shoppers returned to the retailer, and its sales grew again after a long decline. Yet when the run began, Target had posted falling sales in its three most recent financial reports. So what was there to see in those reports.",
+    "link": "https://www.trefis.com/articles/617964/was-the-run-in-target-stock-hiding-in-plain-sight/2026-10-08?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 18:43:18 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Does a Chipotle-Starbucks Merger Make Sense?",
+    "desc": "Starbucks has explored acquiring Chipotle, the Financial Times reported.",
+    "link": "https://finance.yahoo.com/m/6b37dbe9-8427-3b36-b773-bd5c0a42db22/does-a-chipotle-starbucks.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:19:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Pepsi earnings setting off alarm bells? Putting in the extra work to be AI literate",
+    "desc": "Is PepsiCo's (PEP) earnings and cut forecasts indicative of any systemic risks? Is a tie-up between Starbucks (SBUX) and Chipotle (CMG) imminent? And what does your consumer profile on Amazon (AMZN) say about your spending habits? The Market Hang panel discusses these questions and more. Today's panel consists of Business Insider Today executive editor Dan DeFrancesco, Yahoo Finance's Julie Hyman, StockBrokers.com director of investor research Jessica Inskip, and Argent Capital Management portfolio manager Jed Ellerbroek.",
+    "link": "https://finance.yahoo.com/video/is-pepsi-earnings-setting-off-alarm-bells-putting-in-the-extra-work-to-be-ai-literate-180410728.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 18:04:10 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Microreactors Rack Up Wins With Grid-Scale Plants Stuck At Planning Meetings",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Microreactors Rack Up Wins With Grid-Scale Plants Stuck At Planning Meetings</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>At the smaller end of the nuclear industry, tangible progress is becoming easier to find every week. Equipment is getting manufactured and delivered, safety reviews are being completed, and uranium is being <a href=\"https://www.zerohedge.com/energy/four-fourth-criticality-goal-met-and-exceeded\">split apart</a>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-07-03-image-17.jpeg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-07-03-image-17.jpeg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"511b062a-fe9a-4080-83a3-14c8dd6affc4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-07-03-image-17.jpeg\" /></a></p> <p>This is painfully contrasted against what the grid-scale reactor side of the house has to show for the past couple years of the American nuclear renaissance: <em>big announcements about fancy plans</em>…</p> <p>Start with Idaho National Laboratory’s (INL) MARVEL reactor. INL <a href=\"https://inl.gov/news-release/marvel-reactor-gets-federal-safety-approval-as-its-primary-vessel-arrives-in-idaho/\">announced</a> DOE approval of the final safety analysis covering zero-power criticality. Its primary coolant system has arrived, and <strong>criticality is anticipated in December</strong>.</p> <p>MARVEL is the sodium-cooled microreactor design that the reactor being commercialized by Aalo Atomics is based on.</p> <p>Last Energy <a href=\"https://www.lastenergy.com/news-press/last-energy-receives-doe-approval-of-pilot-reactor-documented-safety-analysis\">followed</a> up the MARVEL news the next day with DOE approval of the final safety analysis for its Texas A&M reactor pilot. The project now advances into the <strong>final stages of preparation before startup</strong> authorization. Its full-scale core and conventional low-enriched uranium fuel connect the experiment directly to the company’s commercial design.</p> <p>Deep Fission, the reactor company placing their <strong>pressurized water design underground</strong>, <a href=\"https://www.deepfission.com/newsroom/press-releases/detail/119/deep-fission-publishes-doe-approved-nuclear-safety-design-agreement-for-gravity-pilot-reactor-demonstrating-commitment-to-transparency\">received</a> DOE approval of its nuclear safety design agreement in August.</p> <p>The company also <a href=\"https://www.deepfission.com/newsroom/press-releases/detail/118/deep-fission-installs-and-retrieves-full-scale-reactor-canister-using-off-the-shelf-drilling-equipment\">lowered and retrieved</a> a prototype canister simulating their reactor design. The test reached 100 feet, well short of the proposed mile-deep reactor deployment, but it tested actual hardware.</p> <p>Even if they have nothing to show for getting an AP1000 actually deployed, Westinghouse wasn’t to be left out of the headlines. They’ve been making progress with their eVinci microreactor program, having <a href=\"https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone\">recently completed</a> <strong>high-temperature criticality experiments</strong> in September.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/DOME-wide-shot-1920x1280.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/DOME-wide-shot-1920x1280.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d1b33352-22cb-4206-9f07-31a0535e363b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/DOME-wide-shot-1920x1280.png\" /></a></p> <p>Radiant Nuclear at least deserves a place on the watchlist with their gas-cooled Kaleidos reactor installed at INL’s DOME. The company could <a href=\"https://radiantnuclear.com/news/kaleidos-has-left-the-building\">announce</a> <strong>criticality on their test reactor</strong> by the end of the year. </p> <p>Now compare all of this to what the grid-scale reactors have been up to. Even the most recent $120 billion U.S.-Korea <a href=\"https://www.zerohedge.com/political/trumps-200bn-korean-investment-gas-plant-no-customers-eight-reactors-no-sites-and\">framework</a> is <strong>relatively hollow</strong>: the terms are non-binding and sites haven’t even been selected…</p> <p>The demand for nuclear energy has never been stronger, but it's not a demand for greenfield projects. Hyperscalers are in the process of contracting every single existing nuclear megawatt they can find.</p> <p><strong>Existing, not new</strong>. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Power generation comps: nat gas still cheapest but grid queue now up to 5 years. Restart and uprates of nuclear more expensive but wait time much less. <a href=\"https://t.co/EI9F9GbrLE\">https://t.co/EI9F9GbrLE</a></p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2107485619853430931?ref_src=twsrc%5Etfw\">October 6, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The only new megawatts data centers seem to be interested in are the ones they can squeeze from already operating plants.The <a href=\"https://www.zerohedge.com/energy/google-plugs-constellations-nuclear-reactors-pjms-bring-your-own-power-era-arrives\">recent deal</a> between Google and Constellation could lead to as much power from a collection of uprates as an entirely new reactor plant being built.</p> <p>We’re even <a href=\"https://www.zerohedge.com/markets/nextera-secures-19bn-loan-dept-energy-restart-duane-arnold-nuclear-power-plant-iowa\">seeing</a> tech companies more interested in <strong>resurrecting dead plants</strong> than building new ones.</p> <p>It's not an apples-to-apples comparison when it comes to microreactors and gigawatt-scale plants like the AP1000. But, it is disappointing to see the lack of serious and specific project announcements for restoring reliability to the national grid.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T19:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 15:20</span>",
+    "link": "https://www.zerohedge.com/energy/microreactors-rack-wins-grid-scale-plants-stuck-planning-meetings",
+    "pubDate": "Thu, 08 Oct 2026 19:20:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Hurricane Shuts 63% Of US Gulf Oil Output, Threatens Refineries; Jefferies Warns Of \"Fuel Supply Event\"",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Hurricane Shuts 63% Of US Gulf Oil Output, Threatens Refineries; Jefferies Warns Of \"Fuel Supply Event\" </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Summary:</strong></p> <ul><li><em>Hurricane Isaias Landfall Forecasted For Late Friday/early Saturday </em></li> <li><strong><em>Major US Refineries In Hurricane's Projected Path </em></strong></li> <li><em><strong>63% Of US Offshore Gulf Oil Output Shut </strong></em></li> <li><em>25% Of US Offshore Gulf Oil Output Shut As Hurricane Isaias Nears, Threatens Refineries</em></li> </ul><h2>Hurricane Isaias Shutters 63% of US Gulf Oil Production</h2> <p>Bloomberg cites data from the Marine Minerals Administration showing US Gulf offshore oil producers have halted about 1.28 million barrels per day, equivalent to shutting in 63% of regional output.</p> <p>Natural gas shut-ins reached 1.127 billion cubic feet a day, equivalent to 57% of the region's production.</p> <p>By noon Central Time, workers from 121 offshore platforms had evacuated, while four rigs had moved outside Hurricane Isaias' cone of uncertainty.</p> <p>This is a massive temporary hit to US crude supply. For NatGas, the national production impact is much smaller.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_fcf6230.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_fcf6230.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"092bc9f8-d45c-48aa-89c2-4003926a208f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_fcf6230.png\" /></a></p> <p>The next big issue is that refineries may see a decline in crude supply as offshore platforms reduce flows. Any refinery outage from storm-related damage would reduce fuel product production as a global refining crisis deepens.</p> <p><strong>Major Refineries In Crosshairs</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_fd42f50.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_fd42f50.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"271f4b3b-8e80-4ac5-8d30-5e8df365417c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_fd42f50.png\" /></a></p> <p>Jefferies consumer staples analyst Kaumil Gajrawala warned clients ealrier today: \"<strong>Hurricane Isaias is a fuel supply event hitting a system already stretched by the Iran war. ~25% of Gulf crude output is shut in (~4% of US production), but fuel inventories are low and diesel is $6.30 vs. $3.68 a year ago. A small disruption now has outsized price consequences. The second-order effect is freight cost, which favors asset-light models like KO (Buy), where bottlers carry the fleet and fuel exposure</strong>.\" </p> <p>As we noted earlier today, any abrupt westward shift in the hurricane's cone of uncertainty would put major refineries at risk, including Chevron's Pascagoula refinery on Mississippi's Gulf Coast. It refines 369,000 barrels of crude a day into gasoline, diesel, jet fuel, and premium base oils.</p> <p>Landfall impacts for portions of Louisiana, Mississippi, Alabama, and the Florida Panhandle are expected late Friday into Saturday morning.</p> <h2>25% Of US Offshore Gulf Oil Output Shut As Hurricane Isaias Nears, Threatens Refineries</h2> <p>Hurricane Isaias forced offshore oil and natural gas producers in the Gulf of America to halt a sizable amount of production as the Atlantic's first hurricane of the season churned toward the coast, with potential landfall impacts across portions of Louisiana, Mississippi, Alabama, and the Florida Panhandle.</p> <p>Isaias had sustained winds of 75 miles per hour and was about 460 miles south-southwest of the Mississippi River mouth overnight, according to the National Hurricane Center.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUGNIOpX0AAjBzU.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUGNIOpX0AAjBzU.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"13acf1eb-4090-4e40-9d9b-7a6ae885c74f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUGNIOpX0AAjBzU.png\" /></a></p> <p>Producers with offshore rigs have already shuttered 25% of crude output and 16% of NatGas production and evacuated workers from eight platforms and two rigs.</p> <p>Models increasingly point to landfall late Friday night or early Saturday morning east of major energy assets onshore and offshore in Mississippi and Louisiana. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUE7vhDWQAAJ_Th.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUE7vhDWQAAJ_Th.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a4b9614e-918a-4605-883f-fd13ae43a09e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUE7vhDWQAAJ_Th.jpg\" /></a></p> <p>An abrupt westward shift in the hurricane's cone of uncertainty would put major refineries at risk, including Chevron's Pascagoula refinery on Mississippi's Gulf Coast. It refines 369,000 barrels of crude a day into gasoline, diesel, jet fuel, and premium base oils.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_e0d38ea.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_e0d38ea.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"95c974d4-2960-4b74-be34-7dbf19c9eccb\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_e0d38ea.png\" /></a></p> <p>The disruption to offshore oil and NatGas rigs comes as a <a href=\"https://www.zerohedge.com/energy/goldman-warns-nightmare-refining-crisis-could-prolong-diesel-gas-price-pain-through-2027\">global refining crisis deepens</a>, and there is little room for error in the US, as refineries operate near full capacity.</p> <p>Enki Research risk modeler Chuck Watson said that oil and NatGas outages would likely last no more than a week if the forecast track holds.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T19:17:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 15:17</span>",
+    "link": "https://www.zerohedge.com/weather/25-us-offshore-gulf-oil-output-shut-hurricane-isaias-nears-threatens-refineries",
+    "pubDate": "Thu, 08 Oct 2026 19:17:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Trump Treasury Blocks $175 Million In Federal Payments To Dead Recipients",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Treasury Blocks $175 Million In Federal Payments To Dead Recipients</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://amgreatness.com/2026/10/07/trump-treasury-blocks-175-million-in-federal-payments-to-dead-recipients/\">Authored by AG News Staff via American Greatness</a>,</em></p> <p>The Treasury Department blocked $175 million in federal payments <a href=\"https://www.foxnews.com/politics/millions-saved-blocking-dead-people-payouts-trump-treasury-drops-hammer-federal-fraud\">from going to deceased recipients in fiscal year 2026</a> as the Trump administration expanded efforts to prevent fraud and improper government spending.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/tsy.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/tsy.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"e2fa8db9-2f72-450e-9644-d46f006f3807\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/tsy.jpg\" /></a></p> <p><strong>Treasury screened more than 1.1 billion federal payments totaling approximately $3.7 trillion during the fiscal year</strong>, identifying and returning about 13,500 payments that otherwise would have gone to people listed as deceased, according to the department.</p> <p>The results represent another step in President Donald Trump's push to tighten safeguards around taxpayer money. Access to Treasury's \"Do Not Pay\" system expanded from roughly 4 percent of federal programs at the end of fiscal 2025 to 99 percent in fiscal 2026.</p> <p>\"<strong>Treasury continues to transform how the federal government protects taxpayer dollars by using better data, stronger controls, and advanced technology to stop fraud and improper payments before money goes out the door</strong>,\" Treasury Secretary Scott Bessent said.</p> <p>The administration's efforts received praise from Sen. John Kennedy, R-La., who spent years pushing legislation giving Treasury permanent access to Social Security death records.</p> <p>\"<strong>Unless you were playing Frisbee in the quad during Econ 101, you know the federal government shouldn't be sending taxpayer money to dead people</strong>,\" Kennedy said.</p> <p>Congress advanced legislation to permanently authorize the Social Security Administration to share its full Death Master File with Treasury's Do Not Pay system, giving federal agencies more complete death information when determining eligibility for payments.</p> <p>Treasury has also added safeguards to verify bank account ownership and Taxpayer Identification Numbers associated with federal payments. Those capabilities became fully operational Sept. 30, allowing Treasury to flag payments that fail verification before the money leaves government coffers.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T19:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 15:05</span>",
+    "link": "https://www.zerohedge.com/political/trump-treasury-blocks-175-million-federal-payments-dead-recipients",
+    "pubDate": "Thu, 08 Oct 2026 19:05:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Citi Calls Aerospace, Defense Stocks \"Close To Major Tactical Bottom\" After Brutal Selloff",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Citi Calls Aerospace, Defense Stocks \"Close To Major Tactical Bottom\" After Brutal Selloff</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>US aerospace and defense stocks have been tracking lower as Polymarket odds assign Democrats a higher chance of taking the Senate.</p> <p>The chart below shows the S&P 500 Aerospace & Defense index approaching bear-market territory, down roughly 20% from its summer high, as Polymarket's implied probability of Democratic Senate control topped 64%.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_eb163d5.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_eb163d5.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3cf63fa4-e5ba-497f-965a-8e5d65cd92c7\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_eb163d5.png\" /></a></p> <p>A nearly 20% slide in aerospace and defense stocks is drawing interest from trading desks looking to buy the dip, though stepping in now risks catching a proverbial falling knife.</p> <p>Citi aerospace and defense analyst John Godyn sees an opportunity to begin adding exposure. In a note Wednesday, his team outlined that many of these stocks are \"<strong>close enough to a major tactical bottom.</strong>\" </p> <p>\"Both aerospace and defense have simultaneously experienced major pullbacks and, while 3Q26 is set up to be a volatile EPS season, we think that we are close enough to a major tactical bottom in many stocks to again advocate for buying the dip selectively: Opening Positive Catalyst Watch on RTX,\" Godyn said.</p> <p>The market's big disconnect is that Polymarket odds are weighing on these names, as fears of a Democratic sweep in the midterms early next month could cloud the outlook for military spending. But as Godyn pointed out, all of this uncertainty is happening while <strong>the proposed military spending pipeline keeps expanding.</strong></p> <p>The analyst continued, \"Within defense, prefer SMID-cap defense stocks aligned with the highest growth multi-year megatrends through 3Q26 earnings: Opening Positive Catalyst Watch on HII today and revisiting others post AUSA.\" </p> <p>\"As usual, we conducted a supplier survey (sample size of 100) to validate company commentary and build conviction: Our top OE-levered pick remains HWM, where we have a pre-existing Positive Catalyst Watch,\" he added. </p> <p>Godyn shows that aerospace and defense stocks in his coverage universe have taken a beating:</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-28-23.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-28-23.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a7cc605e-e3a9-4408-8feb-b06828779dcf\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-28-23.png\" /></a></p> <p>He notes that market positioning is more positive in aerospace names than in defense names.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-28-43.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-28-43.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"503af85d-4a4d-478e-ad35-5b0534b2c7c0\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-28-43.png\" /></a></p> <p>For defense stocks, Godyn says the \"outlook is strong,\" but the funding debate still rages on.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-29-14.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-29-14.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4c79da18-af60-4237-86b5-a5262886a76a\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-29-14.png\" /></a></p> <p><a href=\"https://www.zerohedge.com/signup/professional-membership-year\"><em>Professional subscribers</em></a><em> can read more on aerospace and defense here at our new </em><a href=\"https://marketdesk.ai/\"><em>Marketdesk.ai</em></a><em> portal. </em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T18:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 14:40</span>",
+    "link": "https://www.zerohedge.com/markets/citi-calls-aerospace-defense-stocks-close-major-tactical-bottom-after-brutal-selloff",
+    "pubDate": "Thu, 08 Oct 2026 18:40:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "From Force Majeure To Forced Haulage: Oracle Is Now Trucking Natural Gas To Its AI Data Centers",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">From Force Majeure To Forced Haulage: Oracle Is Now Trucking Natural Gas To Its AI Data Centers</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Two weeks ago, Oracle <a href=\"https://www.zerohedge.com/markets/oracles-massive-project-jupiter-data-center-declares-force-majeure-jeopardizing-entire-us\">told the world </a>that Project Jupiter, its massive 2.45GW New Mexico mega-campus for OpenAI, was \"on schedule.\" It also sent a force majeure notice to the developer.</p> <p>Today we found out how it plans to square that circle: <b>with a lot of trucks.</b></p> <p><b><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/volta%20grid%20truck.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/volta%20grid%20truck.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"87ea14e9-b4f1-4f81-b75f-b7610a7cd09a\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/volta%20grid%20truck.jpg\" /></a></b></p> <p>According to <a href=\"https://www.bloomberg.com/news/articles/2026-10-08/oracle-moves-gas-by-trucks-to-avoid-data-center-power-delays\">Bloomberg</a>, Oracle has been quietly keeping several data centers on track by <strong>hauling compressed natural gas (CNG) by road straight to the server farms, and is now weighing the same stopgap for Project Jupiter</strong>, <strong>where the gas pipeline that is supposed to feed the campus is running late and threatening the timeline. </strong>The plan would let Oracle bring the early phases online before the pipe enters service.</p> <p>Oracle shares slid about 5.5% on the report...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ORCL%202026-10-08_14-11-05.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ORCL%202026-10-08_14-11-05.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c8e3572c-e03b-40a7-b3de-f497b491791f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ORCL%202026-10-08_14-11-05.jpg\" /></a></p> <p>.... while Bloom Energy (BE), which happens to have a <b>2.4GW fuel cell contract for Project Jupiter</b> (fuel cells which, last we checked, run on natural gas), tumbled 8%</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BE%202026-10-08_14-11-33.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BE%202026-10-08_14-11-33.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"416659b7-10dc-4107-be5b-e0223a050fde\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/BE%202026-10-08_14-11-33.jpg\" /></a></p> <h2>Regular Readers Will Recall...</h2> <p>Back on Sept 24, we <a href=\"https://www.zerohedge.com/markets/oracles-massive-project-jupiter-data-center-declares-force-majeure-jeopardizing-entire-us\">reported </a>that Oracle had sent a force majeure notice to Blue Owl's Stack Infrastructure unit over Jupiter, citing potential power delays, and that Oracle and Bloom immediately launched a reassurance tour insisting everything was fine. Our take at the time: <b>companies don't issue force majeure notices because everything is going fantastically.</b></p> <p>Today's story suggests we were, if anything, too polite.</p> <p>The root of the problem is a pipeline. Energy Transfer (ET) had to reroute the line that will ultimately power Jupiter after state regulators rejected the proposed route (per DCD, the rejection came in July after an initial application was denied in March), <b>pushing the in-service date from this summer to <i>next year</i>.</b> Meanwhile, Oracle has also put out an RFP for 2GW of new renewables in New Mexico, which tells you just how many backup plans the \"on schedule\" project now requires.</p> <h2>The \"Virtual Pipeline\"</h2> <p>And it's not just New Mexico. Per Bloomberg, trucked gas kept an Oracle data center outside Salt Lake City moving for <b>more than a year</b> while it waited for its pipeline, with Superior Plus's Certarus doing the hauling. Oracle is also using it for initial work at its OpenAI campus in Shackelford County, Texas, where VoltaGrid is the supplier.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/oracle%20project%20jupiter_1.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/oracle%20project%20jupiter_1.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"dee7ec88-3e19-4028-8e63-e6f36ad44f14\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/oracle%20project%20jupiter_1.jpg\" /></a> <figcaption><em>Oracle's massive Project Jupiter data center in New Mexico.</em></figcaption></figure><p>A small cottage industry of CNG haulers has spotted the opportunity and is now pitching \"virtual pipeline\" services to hyperscalers desperate to start generating compute before the actual pipes show up. Oracle, for its part, seemed thrilled, publicly thanking VoltaGrid on X for its \"cost-effective power solutions\" shortly after Bloomberg came asking questions.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Shoutout to the Voltagrid team for finding cost-effective power solutions to ensure our customers can access OCI capacity on schedule. We're moving at the speed of AI, which requires innovation, flexibility, and an unwavering commitment to success.</p> — Oracle (@Oracle) <a href=\"https://x.com/Oracle/status/2107988192397803949?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>About that \"cost-effective\" part.</p> <p>East Daley Analytics' Jack Weixel told Bloomberg that once you add up labor, specialized equipment and the diesel to move the trucks themselves, <b>delivered CNG costs roughly four times the price of gas at a major pipeline hub.</b> The process is about as elegant as it sounds: gas is pulled off a pipeline, compressed into a trailer, driven for hours to the site, then decompressed to feed the generators. Even a modest AI data center needs trucks arriving constantly around the clock. <i>Diversification at its finest.</i></p> <p>There is a reason this approach has historically been reserved for remote mines and oil rigs far from the grid, not for the crown jewels of the AI buildout.</p> <h2>The Napkin Math Gets Ugly Fast</h2> <p>The real question is scale. SemiAnalysis energy analyst Ellie Holbrook told Bloomberg that if Oracle ran just 100MW of Jupiter (roughly 4% of its eventual 2.45GW) on trucked gas, <b>each large trailer would supply only about 40 minutes of electricity.</b></p> <p>Let's do the (approximate) math:</p> <ul><li>100MW at 40 minutes per trailer = <b>~36 trailers a day</b>, or one every 40 minutes, 24/7/365.</li> <li>Scale that to the full 2.45GW and you need roughly <b>880 trailers a day</b>, or one pulling up to the gate <b>every 90 seconds or so</b>... forever.</li> </ul><p>Put differently, <i><b>trucking can get the lights on in the lobby, not power a gigawatt-scale AI campus.</b></i> It's a bridge, and a very expensive one, to a pipeline that New Mexico regulators have already sent back to the drawing board once.</p> <p>And Oracle can hardly afford expensive bridges right now: as Bloomberg notes, the company's <b>free cash flow is negative and expected to stay that way</b> until more of its AI data centers are completed, while it has staked billions (and its reputation) on delivering capacity for OpenAI on time. Paying a 4x premium on fuel to keep the schedule intact is exactly the kind of cost that never shows up in the investor-day slides, right up until it shows up in the margins.</p> <h2>Bottom Line</h2> <p>As we have argued for a long time, the binding constraint on the AI boom isn't GPUs, <strong>it's power</strong>, and the \"solution\" of building on-site gas generation only works if the gas actually arrives. <b>When the gas comes by truck at four times the price, the \"behind the meter\" model starts to look a lot like \"behind the 18-wheeler.\"</b></p> <p>Oracle insists Jupiter remains on schedule, and maybe it does. But when the fallback plan for a $165 billion, 2.45GW campus is an around-the-clock convoy of CNG trailers, the more likely outcome is the one hinted at by the force majeure notice: <b>delays, higher costs, or both</b>, with Bloom, Blue Owl and the rest of the Jupiter financing chain along for the ride.</p> <p><i>Then again, nothing says \"AI supercycle\" quite like a trucking dispatch schedule.</i></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T18:21:31+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 14:21</span>",
+    "link": "https://www.zerohedge.com/technology/force-majeure-forced-haulage-oracle-now-trucking-natural-gas-its-ai-data-centers",
+    "pubDate": "Thu, 08 Oct 2026 18:21:31 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "'Bunker Mode': OpenAI's Jaw-Dropping Math Blitz Draws Boycott, Warning Over Crypto Wallets",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">'Bunker Mode': OpenAI's Jaw-Dropping Math Blitz Draws Boycott, Warning Over Crypto Wallets</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><strong>OpenAI just unleashed hundreds of AI-generated mathematical papers in a single release</strong>, which include breakthroughs on problems that have frustrated researchers for generations. The pace of discovery here has started to freak out mathematicians - <strong>who are now calling for a boycott</strong> - while top minds in crypto are raising a chilling question: could AI eventually undermine the mathematics protecting digital wallets <em>before</em> quantum computing?</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/9a2947d7-7435-46a9-b471-c3b53e6d459c_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/9a2947d7-7435-46a9-b471-c3b53e6d459c_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1ac371d9-196b-4cc6-b098-c442121d5041\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/9a2947d7-7435-46a9-b471-c3b53e6d459c_80.jpg\" /></a></p> <p><strong>On October 6, the company <a href=\"https://openai.com/index/sharing-ai-progress-in-mathematics/\">published</a> 722 manuscripts covering 372 groups of related findings</strong>, all generated by an internal AI model that has not been released to the public. The papers appeared in a public <a href=\"https://github.com/openai/math\">GitHub repository</a>. OpenAI says<strong> the work emerged from testing the model on roughly 4,000 research problems</strong>, with each result in the final collection using, on average, computing power equivalent to about three hours of ChatGPT Pro's thinking mode. The collection includes claims about prime numbers, geometry and the mathematics underlying computing, touching problems that have resisted some of the world's best minds for decades.</p> <p>Perhaps the most startling claim concerns the <a href=\"https://github.com/openai/math/blob/main/lean/docs/003.md\">Riemann hypothesis</a>, a mathematical puzzle dating to 1859 that deals with the hidden patterns governing prime numbers - the building blocks from which every whole number greater than one can be made.</p> <p><em>For math nerds: </em></p> <p>Mathematicians study those patterns through a special mathematical function, looking in particular at the points where it equals zero. The full Riemann hypothesis predicts that all the important zeros fall along one precise line. OpenAI's model has <em>not</em> proved that. <strong>Instead, it claims to have ruled out zeros across an enormous, permanently defined region where previous proofs offered a much narrower guarantee.</strong> If the claim holds up, it would be a major advance toward understanding one of mathematics' most famous unsolved problems.</p> <p>For specialists, the dividing line in the new claim is a value of 7/8, while the full hypothesis would require 1/2. The related equations are known as the Riemann zeta function and Dirichlet L-functions. For everyone else, the point is simpler: <strong>the AI claims to have established a far stronger limit on where these crucial mathematical points can appear, without claiming to have settled the entire puzzle.</strong></p> <p><strong>Other OpenAI papers claim progress on the Hodge conjecture</strong> - which concerns the structure of complex geometric shapes - though only for a class of objects called CM abelian varieties.</p> <p><em>Math nerds rejoice? Or panic?</em></p> <p>Rutgers mathematician Alex Kontorovich was emphatic in his response to OpenAI's announcement:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Quasi-RH?!?!???! Are you kidding me? If a human did this, it would be an instant Fields Medal, no questions asked.<br /><br /> RH says zeta has no zeros in Re(s)>1/2. The best we had until a second ago was a region that got thinner and thinner the higher up the imaginary axis you go. I thought maybe they'd fatten that up a bit, that'd be a massive breakthrough. But no. They got a zero free strip!!!! Insane</p> — Alex Kontorovich (@AlexKontorovich) <a href=\"https://x.com/AlexKontorovich/status/2107609087902941646?ref_src=twsrc%5Etfw\">October 6, 2026</a></blockquote> <p>The release follows OpenAI's <a href=\"https://openai.com/index/navier-stokes-solution/\">September 8 announcement</a> claiming to have solved the Navier-Stokes problem, which concerns the mathematical laws governing moving fluids. That earlier announcement had already sparked disputes over verification and who should receive credit for the work.</p> <p><strong>The backlash is about more than whether the proofs are correct. </strong>On October 7, the <a href=\"https://www.ahmath.org/statements\">Association for Human Mathematics</a> (AHM) urged researchers to stop working with OpenAI, arguing that <strong>the company had disregarded scientific norms by using a proprietary model to tackle advanced mathematics</strong> and then releasing the results on an unprecedented scale.</p> <p><strong>\"Releasing over 700 files at once is not a demonstration of scholarship, but a demonstration of power,\"</strong> the group said. Its statement rejects OpenAI's assertion that the release advances the field and calls for a return to research centered on human understanding.</p> <p>AHM is separate from the independent <a href=\"https://agmai.org/\">Advisory Group</a> on Mathematics and Artificial Intelligence (AGMAI), whose recommendations OpenAI says informed the release. In <a href=\"https://agmai.org/general-sep29/\">guidelines</a> issued September 29, that group explicitly asked AI laboratories to stop testing advanced mathematical problems on proprietary models inaccessible to the research community. But it also laid out a process for responsibly publishing results already generated, including proper citations, formal verification where feasible, independent repositories and support for human researchers trying to understand the work.</p> <p>After the release, AGMAI emphasized that consultation did not mean endorsement of OpenAI's approach. It treated the publication as the beginning of scientific scrutiny, not the end. Researchers are arguing over who gets to set the scientific agenda, who can access the most powerful tools and what counts as responsible publication - not simply whether computers should be allowed to do mathematics.</p> <p>Mathematician and commentator Eric Weinstein responded with a sharply different interpretation, accusing scientists of standing in the way of progress:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Exactly what I have been screaming.<br /><br /> Yes, I know it is hard to imagine.<br /><br /> But I was simply telling you a truth.<br /><br /> Even if it was hidden by all.<br /><br /> Until now.<br /><br /> Precarious scientists hold back science.<br /><br /> You had to pay these people properly.<br /><br /> And they are now openly against progress.</p> — Eric Weinstein (@ericweinstein) <a href=\"https://x.com/ericweinstein/status/2108161948626075907?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <h2>Game Over, Man?</h2> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/game%20over%20.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/game%20over%20.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"248c15ef-ace6-471c-8bd0-1b3e0671164f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/game%20over%20.png\" /></a></p> <p><strong>The implications are reaching beyond university mathematics departments.</strong></p> <p>On October 7, <strong>Ethereum Foundation researcher <a href=\"https://x.com/drakefjustin/status/2107837081313505768\">Justin Drake</a> urged the cryptocurrency industry to begin preparing for what he called \"bunker mode.\" </strong>His concern is that AI could eventually discover a mathematical shortcut for breaking the digital signatures used to protect Bitcoin, Ethereum and other assets - potentially before the powerful quantum computers that security researchers have long worried about arrive.</p> <p>Every conventional cryptocurrency wallet relies on a secret <em>private key</em> to authorize transactions and a related <em>public key</em> to verify them. Finding the public key from the private one is easy; reversing the process is designed to be practically impossible. Drake fears an advanced AI could discover a shortcut that makes that reversal feasible on ordinary computing hardware. <strong>In a worst-case scenario, he suggested that the widely used ECDSA signature system could become vulnerable in months rather than years.</strong> He offered that as a possibility to prepare for, not a demonstrated breach.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.</p> — Justin Drake (@drakefjustin) <a href=\"https://x.com/drakefjustin/status/2107837081313505768?ref_src=twsrc%5Etfw\">October 7, 2026</a></blockquote> <p><em>Entire tweet below.</em></p> <p><strong>For some Bitcoin address types, an unused address conceals its public key behind a cryptographic hash until its funds are spent - </strong>so Drake recommends <em>a gradual move to fresh addresses</em>, particularly by large holders whose public keys have already been exposed. <strong>He repeatedly warned against rushing</strong>: moving money incorrectly can be more dangerous than the hypothetical attack the move is meant to prevent. His advice is not a universal fix for every wallet or address format.</p> <p>The warning drew sharply different reactions. Ethereum co-founder <a href=\"https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007\">Vitalik Buterin</a> agreed that rapid advances in AI-powered mathematics deserve serious attention, but cautioned that botched wallet migrations can cause real losses. <a href=\"https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021\">Yehuda Lindell</a>, Coinbase's head of cryptography, went further, saying there was \"no evidence whatsoever\" that the mathematical foundations of elliptic-curve security had been weakened. Drake went further still, noting the \"striking under-representation of cryptographic breakthroughs\" among OpenAI's results and alleging he has seen the US government censor academic quantum cryptanalysis first-hand - \"backroom interventionism is my base case.\" He offered no direct evidence of intervention in this release.</p> <p><strong>Back to the OpenAI release (which doesn't suggest a crypto compromise) - </strong>it has seen a few corrections. According to OpenAI's own <a href=\"https://github.com/openai/math/blob/main/history.md\">revision history</a>, a sign error in one paper's proof invalidated it along with two papers built on its construction, and all three - involving Weil classes and K3 surfaces - were withdrawn on October 7. Those withdrawals are distinct from the separately listed claim about CM abelian varieties. The company also revised 14 other manuscripts to repair proofs, correct statements or clarify assumptions, and updated references in 13 more. Its repository now lists 719 manuscripts.</p> <p><strong>OpenAI says the main results in 300 of the remaining 719 papers - about 42% - have been translated into Lean</strong>, specialized software that checks whether each step of a mathematical proof follows logically from the assumptions. The software checks the statement it is given, but mathematicians still (for now!) have to determine whether that statement captures what the paper claims to prove. And for results without such computer checks, OpenAI itself acknowledges that some may contain mistakes.</p> <p><strong>The model that produced the work is still a black box controlled by OpenAI</strong>. The company has released selected reasoning summaries and promised to support workshops and further verification, but the broader mathematical community still faces the task of sorting durable advances from claims that will need revision - or withdrawal.</p> <p>That leaves two questions hanging over the release. <strong>Can independent mathematicians verify discoveries arriving faster than they can reasonably review them? </strong>And if increasingly powerful AI begins changing fields as consequential as cryptography, <strong>who gets to decide how that knowledge is tested, shared and put to use?</strong></p> <p><em>Drake's entire tweet: </em></p> <blockquote> <p>Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.</p> <p>Holders, starting with large and sophisticated ones, should consider moving the bulk of their funds to addresses that have never signed a transaction. And when they do sign one, they should also move remaining funds to a new address (possibly generated from the same seed phrase).</p> <p>Don't rush. While I believe there is cause for action a rushed migration would do more harm than good. Don't panic either. Moving assets to protected addresses is a simple, preventative step which does not require new cryptography or new wallets.</p> <p>IMO it is now reasonable to brace for the possibility that ECDSA breaks before qday, in the worst case in months not years. By \"break\" I mean fast private key recovery (e.g. in one week) on available hardware (e.g. a large GPU cluster).</p> <p>Recent days have been humbling for human mathematical intuition. Long-held, unquestioned hypotheses have fallen. This includes the n log(n) bound for integer multiplication and the 3SUM conjecture. In hindsight, May's unexpected disproof of the Erdős unit distance conjecture was our warning shot.</p> <p>Yesterday's OpenAI drop made it clear that mathematical superintelligence is upon us. They say there are weeks where decades happen. We are about to live through weeks where centuries of mathematical progress happen. Could our magic 64-byte ECDSA signatures be too good to be true? Was it just security through obscurity all this time?</p> <p>Elliptic curves feel especially vulnerable to superintelligence. Curves carry rich structure, with room for fancy tricks like Schoof, Frobenius, pairings. (By contrast, hashes are designed to minimise algebraic structure.)</p> <p>Separately, as Ewin Tang can attest, an efficient quantum algorithm sometimes foreshadows an efficient classical one. We should be open to the possibility of a classical counterpart to Shor that breaks elliptic curves and RSA at once.</p> <p>Also noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.</p> <p>I urge large, sophisticated actors to lead by example. Project11's \"risq list\" (bitcoin-risq-list.projecteleven[.]com) is a great tracker of exposed BTC pubkeys. Binance, Bitbank, Robinhood, Bitfinex, and Tether have an opportunity to harden their cold storage. Next month I'll address institutions in London in a live Q&A (forum.ethereuminstitutional[.]org/london-2026).</p> <p>Again, please do not rush. Wallets holding under 50 BTC enjoy partial cover from \"Satoshi's shield\", i.e. his 20K exposed addresses that hold 50 BTC each. Load-bearing signers like oracles and L2 security councils should consider rotating ECDSA pubkeys with every signed message and/or multi-signing with a hash-based schemes like SPHINCS.</p> <p>Exiting bunker mode safely will require post-AI cryptography. My inclination is to go all-in on hash-based cryptography and avoid structured mathematical assumptions entirely, whether from curves, lattices, or isogenies. A single battle-tested hash (e.g. from the SHA or BLAKE families) yields plausible post-AI security.</p> <p>The Ethereum roadmap on strawmap[.]org fully embraces hash-based cryptography with end-to-end formal verification as a response to the quantum threat. Those timelines must now be revisited and accelerated in light of mathematical superintelligence. I'll be pushing for maximum defensive acceleration.</p> </blockquote> </article><script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p> </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T17:50:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 13:50</span>",
+    "link": "https://www.zerohedge.com/political/bunker-mode-openais-jaw-dropping-math-blitz-draws-boycott-warning-over-crypto-wallets",
+    "pubDate": "Thu, 08 Oct 2026 17:50:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Mediocre 30Y Auction Prices At Highest Yield Since August 2000",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Mediocre 30Y Auction Prices At Highest Yield Since August 2000</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>After a subpar 3Y auction on Tuesday, and a stellar 10Y yesterday, moments ago the Treasury concluded the week's final coupon sale when it sold $22BN in 30Y paper in an average auction. </p> <p>The 30Y sale priced just after 1pm, stopping out at a 5.618% high yield, up sharply from 5.308% in September, <strong>and the highest since August 2000!</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/30Y%20high%20yield%202000.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/30Y%20high%20yield%202000.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0d487497-e32a-4cc6-9c74-9acac6dbf7a7\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/30Y%20high%20yield%202000.jpg\" /></a></p> <p>The high yield stopped through the When Issued by 0.1bps: good, but not as good as last month's amazing 2.7bps stop through.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/30y%20tail%20oct_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/30y%20tail%20oct_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"673ceb5a-765e-4241-96de-d757b9c05b88\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/30y%20tail%20oct_0.jpg\" /></a></p> <p>The bid to cover was 2.542, a drop from last month's 2.612 but above the recent average of 2.411.</p> <p>The internals were also average: indirects dropped from last month's near-record 79.5% to 72.3%, but that was also above the recent average of 69.1%. Directs took down 20.9%, up from 18.3% and in line with the recent average of 20.6%. And while not nearly as low as yesterday's record low, the Dealers award was 6.8%, one of the lowest on record but a rebound from September's record low 2.2%.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/30%20Year%20Oct%202026.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/30%20Year%20Oct%202026.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"73a54845-3606-47be-a9d1-d58a2e1dc28e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/30%20Year%20Oct%202026.jpg\" /></a></p> <p>Overall this was a good auction, but would have been much better if the market had some time to digest the news that OpenAI's revenue was, in fact, much lower than it had previously disclosed (imagine that) which has helped send yields sharply lower as the Treasury market suddenly realizes it may not have to compete with the AI bubble for paper much longer... </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T17:39:02+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 13:39</span>",
+    "link": "https://www.zerohedge.com/markets/average-30y-auction-prices-highest-yield-august-2000",
+    "pubDate": "Thu, 08 Oct 2026 17:39:02 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Yes, The Public Education System Is Broken",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Yes, The Public Education System Is Broken</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://pjmedia.com/amy-denton/2026/10/07/yes-the-public-education-system-is-broken-n4958046\">Authored by Amy Denton via PJ Media</a>,</em></p> <p>I have been in education for a long time. My first teaching job came two weeks after my younger nephew was born. His birthday is next week, and he'll be 29. Take out the five years when I was working in retail and going to graduate school, and I've been a teacher for 24 years. There is not enough money in the world to tempt me back into public education. I'd rather stay poor, thank you. I keep hearing about a teacher shortage. That's incorrect. <strong>There's not a teacher shortage; there's a <em>people willing to be treated like dirt</em> shortage.</strong> Why? How did public education come to this sad state? Jonathan Turley's opinion piece in The Hill speaks to the problem and nails it right to the wall.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/0ed48b47-5995-4c79-83d3-54f45070.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/0ed48b47-5995-4c79-83d3-54f45070.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b412e047-e9be-4d23-b09e-55e32919ed5e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/0ed48b47-5995-4c79-83d3-54f45070.jpg\" /></a></p> <p>His opinion piece titled <a href=\"https://thehill.com/opinion/education/6126269-education-cartel-threatens-students/\">\"The Blue-State Model for Education has Failed, and the Public has Caught On\"</a> states early on that one of the reasons the public schools have gone down the drain is because of the teachers' unions. Early in the article, Turley states, \"New polling shows that <a href=\"https://pjmedia.com/victoria-taft/2026/08/21/west-coast-messed-coastharry-and-meghan-think-california-schools-suck-too-n4956380\">K-12 education</a> has now reached a record low in the number of people who are even \"somewhat satisfied\" with the state of education in the U.S.\" He then talks about the \"education cartel,\" a self-sustaining, self-perpetuating alliance between unions and politicians. The cartel has rendered families and students irrelevant.</p> <p>How is that possible? people ask. <strong>Without the students, there is no school system. It doesn't matter to the cartel.</strong> As long as the money keeps coming, which it does through dues, the cartel continues to operate. Personally, I have very little experience with the teachers' unions. I joined the American Federation of Teachers briefly so I could get some legal help regarding the principal at the high school where I taught. I was a second-year teacher, and he had determined that I needed to go. He was black, and I was white. The AFT pointed me to the union steward at my high school, a government teacher who was also one of the basketball coaches. He told me that there was nothing the principal could do to force me from the building. I had to leave on my own. I'm a stubborn soul, so I was determined that the principal was going to leave first. He did, two years later.</p> <p>Was the advice I got worth the annual membership? Absolutely. But that was twenty years ago. I dropped my membership the next year. Today, I wouldn't join any teachers' union because at their very core, they are about representing the teachers, not the students. The unions protect every teacher, even the teachers who have no business being anywhere <em>near</em> a classroom. In the states where teachers are required to join a union, the power is tenfold over the states that give teachers a choice, the right-to-work states.</p> <p>In states where union membership is required, even if the teacher is able to quit the union, the union will still take a deduction from the teacher's paycheck unless the teacher stands up and says \"No.\" In 2018, the U.S. Supreme Court in <em>Janus vs. AFSCME</em> (American Federation of State, County and Municipal Employees) said that taking dues from non-union members was a violation of the First Amendment. This had an effect on union membership, which dropped by 10% after the ruling. However, the <a href=\"https://pjmedia.com/john-stossel/2026/09/09/a-better-labor-day-n4957071\">unions</a> are not letting the decision slow them down. <strong>One year after the <em>Janus</em> ruling, a full 52% of teachers surveyed did not know they could leave the union without paying a fee.</strong> We are now eight years after the <em>Janus</em> decision, and the deep blue Democrat states with powerful teachers' unions are working to make it easy to join a union but very hard to leave.</p> <p>Aren't unions supposed to protect workers and allow them to negotiate on a level playing field with their bosses? During the time of the Robber Barons in the early 1900s, yes. Today, most unions serve no purpose other than to enrich their heads. Both the head of the National Education Association (NEA) and the American Federation of Teachers (AFT) make six figures. The head of the Chicago Teachers Union makes six figures. Their salaries come from dues. Fewer dues-paying members, lower salaries. If the unions actually promoted better teaching and better practices, I would have no problem with them, but they don't. The problem? Money. As long as the money keeps flowing to the unions, they can do whatever they want.</p> <p><strong>While the <a href=\"https://pjmedia.com/eric-florack/2026/09/06/its-time-to-examine-the-union-mythology-n4956944\">NEA, the AFT</a>, and state and city teachers' unions rake in the money, the students suffer.</strong> Children do not learn basic math and reading skills when they should and are simply passed along, because holding a child back today makes the school and the school district look bad. As I stated in another article, public schools are all about making things look good without any actual work being done. It's the Gilded Age all over again, but in public education.</p> <p>Teachers are not allowed to give grades below 50 even if the student has never done any work. The teachers who question the policy are labeled as \"difficult\" or \"troublemakers.\" Anything that makes the schools and school districts look less than perfect is seen as a problem. Rather than correcting the problem, schools cover it up. The \"troublemakers\" are given poor evaluations, denied the renewal of their teaching contracts, or even fired from the school and the district because they dare to question the system.</p> <p>Students who graduate from high school with barely the basics struggle in college. Faculty at Harvard have been reduced to teaching high school math to incoming freshmen because the freshmen have no knowledge base. They never received it. This past May, the University of California reported an alarming lack of math knowledge among incoming students. The University of California, San Diego, faculty report showed a 30-fold increase since 2020 of incoming students whose math abilities fell below the high school level. Guess which political party most of the college professors in California vote for? California also has a very strong <a href=\"https://pjmedia.com/rick-moran/2026/09/18/the-teachers-unions-are-at-war-with-learning-n4957376\">teachers' union</a>. Ninety percent of teachers in California are union members. <strong>They are voting for their own destruction.</strong></p> <p>It's not just math that high school students are doing poorly in. The Los Angeles Times reported in 2023 that most California students cannot read or do math on grade level. How is that possible? When the people running the system don't care what the students can or can't do, it makes it easy to ignore the problems. It's not just California with poor test scores; the deep blue Democrat states have the biggest problems. It's not like they care.</p> <p>What is the solution? Is there a solution? <strong>Turley states that school vouchers appear to be the only way to take control from the education cartel, by introducing real competition based on academic performance.</strong> I agree with him. I am 100% pro-school choice. Like him, I believe in the public schools. My parents, I, my siblings, and their children went to public schools, but what's going on today in the public school system is not acceptable.</p> <p><strong>School systems cannot simply keep churning out people who do not have the basic skills needed to survive in life. </strong>School vouchers, which allow parents to choose which school their children attend, take care of the biggest problem in public education: money. The less money the school systems get, the less there is to waste. When parents have a choice of schools to send their children to, very few choose to send their children to substandard schools.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T17:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 13:15</span>",
+    "link": "https://www.zerohedge.com/political/yes-public-education-system-broken",
+    "pubDate": "Thu, 08 Oct 2026 17:15:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Nasdaq Tumbles After FT Reports OpenAI Revenues Disappointing",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Nasdaq Tumbles After FT Reports OpenAI Revenues Disappointing</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>...and just like that, the massive AI CapEx boom \"excess demand\" narrative is in doubt...</p> <p><a href=\"https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a\">The Financial Times reports</a> that OpenAI’s annualised revenue is about $20bn less than has been previously signalled, according to financial documents shared with investors, a massive gap likely to damp optimism about the growth of AI demand.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/08848aad-4cdf-4c4b-93bb-1b3abb2a2073_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/08848aad-4cdf-4c4b-93bb-1b3abb2a2073_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a88ddd3a-55f6-46db-bda3-5f5bae011eeb\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/08848aad-4cdf-4c4b-93bb-1b3abb2a2073_80.jpg\" /></a></p> <p>The company has recently told investors its revenues were approaching $50bn on an annualized basis at the end of September, <strong>far short of the $70bn reported by the FT and other media outlets late last month based on information that was provided to investors.</strong></p> <p>The most immediate reaction was in Nasdaq which tumbled over 1%...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-54-28.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-54-28.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"610baeb8-5de1-41cc-968c-ef3fffdbd8ba\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-54-28.jpg\" /></a></p> <p>The Broad AI basket is getting whacked...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-58-50.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-58-50.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"41155fee-e9b1-4282-86ee-82f4b86c1449\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-58-50.jpg\" /></a></p> <p>Who could have seen that coming with Token Costs plumbing new lows?</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-03-22.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-03-22.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c379b211-0388-44e6-9767-f7a6dce7ac53\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-03-22.jpg\" /></a></p> <p><strong>And in the tokenized stock market for OpenAI (PreStocks), things aren't looking great: </strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-13-16.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-13-16.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c1173b44-b5bd-447a-bd7f-b6ede633e364\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_10-13-16.png\" /></a></strong></p> <p>How many more of the prior statements are about to be proved false?</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">It appears that total token usage was not, in fact, growing far faster than the token price is dropping. And no, the Frontier models did not \"model\" that...</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2108243336809033743?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Evidence of how leveraged the entire tech sector is to OpenAI &amp; Anthropic: an FT story about OpenAI's revenue's being less than initially reported is spurring a more than 5% drop in Oracle shares, exacerbating losses from Nvidia and AMD to Microsoft <a href=\"https://t.co/8rhQ9dvxXM\">https://t.co/8rhQ9dvxXM</a>. <a href=\"https://t.co/ydwuORW6Cj\">https://t.co/ydwuORW6Cj</a></p> — Lisa Abramowicz (@lisaabramowicz1) <a href=\"https://x.com/lisaabramowicz1/status/2108242872470319492?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>The entire shell-game is based on the 'demand'</strong>... and if revenues are that big a miss from expectations, there is an even bigger disconnect relative to liabilities...</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Guess there was no \"excess demand\"</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2108240146412052651?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>That's ok, OpenAI only has <a href=\"https://x.com/zerohedge/status/2108241123047047530?s=20\"><strong>$1.5 trillion in commitments</strong></a> to... checks circular financing diagram... <strong>EVERYONE...</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUH6GTcWMAAn-L3.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUH6GTcWMAAn-L3.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"41ad6e15-e26c-4d88-b371-efd3ee3fcca2\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUH6GTcWMAAn-L3.jpg\" /></a></p> <p>How long before the spins and denials?</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">What I don’t entirely understand and honestly find pretty hilarious is that the $70B OpenAI ARR figure was released on Dev Day, on September 29 How did we go 9 days without anyone from OpenAI coming out and correcting the figure? For over a week now they’ve let people believe ARR was $20 billion higher than it really is. What does that say about OAI?</p> — Negligible Capital (@negligible_cap) <a href=\"https://x.com/negligible_cap/status/2108241493219754200?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p> </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T17:00:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 13:00</span>",
+    "link": "https://www.zerohedge.com/markets/nasdaq-tumbles-after-ft-reports-openai-revenues-disappointing",
+    "pubDate": "Thu, 08 Oct 2026 17:00:13 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Apple CEO Ternus Faces First Big Test As Bernstein Finds Soft US iPhone 18 Pro Demand",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Apple CEO Ternus Faces First Big Test As Bernstein Finds Soft US iPhone 18 Pro Demand </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>John Ternus' first big test at Apple is launching the premium iPhone 18 lineup and the likely delayed iPhone Duo, which reportedly faces production difficulties ahead of its October launch.</p> <p>The latest sign of iPhone demand came Monday from Bernstein technology analyst Mark Newman, who said global iPhone sales rose in August, extending an 18-month streak of annual volume growth, though early demand indications for the new premium 18 Pro lineup softened in the US and several other major markets.</p> <p>\"<strong>Initial market feedback on iPhone 18 Pro & Pro Max is mixed vs. the 17 lineup</strong>. <strong>In the US, Pro & Pro Max demand is down low single digits YoY with Pro waiting times shorter vs. Pro Max were longer. China, however, saw launch week sales up 12% YoY. Other regions were mixed</strong>,\" Newman wrote in the note.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUDiU5wXsAABlNU.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUDiU5wXsAABlNU.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1e4f5afb-d36b-4af0-bb7c-93d3ba4b9da9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HUDiU5wXsAABlNU.jpg\" /></a></p> <p>Global iPhone sales rose 7% from a year earlier, while revenue increased 13%, supported by a 6% increase in average selling prices, Newman said. Volume growth slowed from 14% in July.</p> <p>Newman's new figures show the <strong>iPhone 17 cycle remains robust</strong>. The lineup sold about 174 million units in the 12 months through August, roughly 18% more than the previous model over the same period.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-25-42.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-25-42.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7f87eaec-a461-4a70-b1ec-9a16fb816f40\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-25-42.png\" /></a></p> <p>China provided a stronger result, with launch-week sales of the new Pro models rising 12%. India's first three days of sales jumped 19%, while early demand appeared softer in Japan, South Korea and the United Arab Emirates.</p> <p>Newman said<strong> Apple's fourth-quarter shipments tracked modestly below historical patterns through August</strong>. Combined July and August shipments totaled 33 million units, 57% of the quarter's consensus forecast of 58.2 million, versus a historical average of 60%.</p> <p><strong>The delayed launch of the base iPhone 18 until spring 2027 will certainly weigh on volume</strong>. <a href=\"https://www.macrumors.com/2026/09/29/iphone-duo-reportedly-facing-production-problems/\">MacRumors</a> also reported potential iPhone Duo launch delays due to production woes. A greater proportion of <strong>premium models at higher prices due to a chip shortage has weighed on consumer demand</strong>, but that demand may return next year when the base model debuts.</p> <p>Newman noted of the US market, \"<strong>We expect robust demand for the DUO</strong>, which opens for pre-order on Oct 16, and ships Oct 23; early hands-on reviews are largely positive, and Counterpoint estimated ~6mn units to be sold in 2026, supply permitting.\"</p> <p>Newman adds more color:</p> <p><strong><em>For the rest of Apple's supply chain: the late shipment of iPhone Duo and delayed launch of iPhone 18 base model weighed on near-term demand for Apple suppliers such as Largan. </em></strong></p> <p><em>However, the Apple supply chain continues to outperform the Android ecosystem, and we believe the upcoming product cycles, including the iPhone 18 launch in 1H27 and the 20th-anniversary iPhone lineup in 2H27, should sustain investor sentiment and underpin valuations. </em></p> <p>Newman maintained his \"<strong>Outperform</strong>\" rating on Apple and a 12-month price target of $370, citing the strength of the existing iPhone cycle and upcoming product launches.</p> <p>Among Wall Street analysts tracked by Bloomberg, 58% (about 33 analysts) rate Apple a \"Buy,\" 30% (about 17 analysts) rate it \"Neutral,\" and six rate it a \"Sell.\" The average 12-month price target among the analysts tracked is around $334.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_e9ac677.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_e9ac677.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2fd87091-c365-4bb0-803e-252f5223c673\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_e9ac677.png\" /></a></p> <p><a href=\"https://www.zerohedge.com/technology/jefferies-flags-power-indicator-soft-iphone-18-demand-china\">Jefferies</a> and Bank of America analysts have also noted soft iPhone 18 demand in various major markets, as it appears that <strong>chip shortages pushing handset prices to unaffordable levels</strong> are weighing on consumer demand. Then again, there's also buy-now-pay-later, or, like many folks these days, consumers can take out longer-term loans for their phones.</p> <p><em><a href=\"https://www.zerohedge.com/signup/professional-membership-year\">Professional subscribers</a> can read the full note <a href=\"https://marketdesk.ai/library/browse/r4DLzdwsfbN\">here</a> at our new </em><a href=\"https://marketdesk.ai\"><em>Marketdesk.ai</em></a><em> portal. </em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T16:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 12:40</span>",
+    "link": "https://www.zerohedge.com/technology/ceo-ternus-faces-first-big-test-apple-bernstein-finds-soft-us-iphone-18-pro-demand",
+    "pubDate": "Thu, 08 Oct 2026 16:40:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "US Government Moves $1BN In Seized Bitcoin After $770MM Transfers",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">US Government Moves $1BN In Seized Bitcoin After $770MM Transfers</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>By <a href=\"https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction\">Cointelegraph</a></em></p> <p>The US government completed another major transaction involving seized cryptocurrency hours after moving a significant amount of Bitcoin to a Coinbase Prime wallet.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-the-united-states-turns-its-a.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-the-united-states-turns-its-a.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"13b43aa6-176f-4822-ab5a-f70262236561\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-the-united-states-turns-its-a.jpg\" /></a></p> <p>Blockchain data from Wednesday <a href=\"https://arkm.com/explorer/tx/9194d9de95703bd6d43997e0f1341896314e6586650a6ae179371f2dc10dfd3d\" rel=\"nofollow noopener\" target=\"_blank\">showed</a> that a wallet associated with crypto seized by the US government had transferred more than 12,267 Bitcoin (BTC), worth more than $1 billion at the time of publication. The move came just hours <a href=\"https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase\">after similar transfers from the government</a> totaling $770 million in BTC to a Coinbase Prime wallet.</p> <p>Arkham Research linked the wallet moving the Bitcoin to the recovery of funds from the 2016 Bitfinex hack, in which hackers stole 119,756 BTC. The identity of the owner of the recipient address was unknown at the time of publication.</p> <blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">This is insane!<br /><br /> The U.S. government just transferred out another 12,267 <a href=\"https://x.com/search?q=%24BTC&src=ctag&ref_src=twsrc%5Etfw\">$BTC</a> ($1.01B).<a href=\"https://t.co/esJntewKzz\">https://t.co/esJntewKzz</a><a href=\"https://t.co/sLXScezBrB\">https://t.co/sLXScezBrB</a> <a href=\"https://t.co/U64EA8AJwp\">pic.twitter.com/U64EA8AJwp</a></p> — Lookonchain (@lookonchain) <a href=\"https://x.com/lookonchain/status/2108203900105113988?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Cointelegraph reached out to the US Marshals and the Department of Justice for comment on the Coinbase Prime transfers but did not receive an immediate response.</p> <p>Estimates suggest the US government held 328,372 BTC as of 2026, resulting from seized assets in criminal cases and investigations. US President Donald Trump signed an executive order in March 2025 establishing a strategic Bitcoin and crypto reserve, but lawmakers are still <a href=\"https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee\">attempting to codify</a> the order into law.</p> <p>Previous movements from the government-labeled wallet have sparked <strong>speculation about potential liquidations, but a sale would conflict with US President Donald Trump’s March 2025 executive order, which specified that seized Bitcoin should not be sold and should become part of the country’s <a href=\"https://cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step\">Strategic Bitcoin Reserve</a>.</strong></p> <p>In July, the US government <a href=\"https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime\">moved $297 million</a> in Bitcoin and Ether (ETH) to Coinbase Prime, with funds originating from high-profile US government crypto seizures.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T16:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 12:25</span>",
+    "link": "https://www.zerohedge.com/markets/us-government-moves-1bn-seized-bitcoin-after-770mm-transfers",
+    "pubDate": "Thu, 08 Oct 2026 16:25:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Trump Declares He Won't Attack Iran Before Midterm Elections, Oil Plunges",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Declares He Won't Attack Iran Before Midterm Elections, Oil Plunges</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><h2>Summary</h2> <ul><li><strong>Oil plunged after Trump said on Truth Social the US will not attack Iran</strong> before the November midterms.</li> <li><strong>Late Wednesday reports said Pentagon was ordered to prepare Iran attack options</strong> for before midterms.</li> <li><strong>Iran expanded tanker attacks beyond the Strait of Hormuz</strong> into the Persian Gulf and Gulf of Oman.</li> <li><strong>In Saudi Arabia, Riyadh airport suffers direct missile attack</strong> from Iran-aligned Houthis.</li> </ul><script type=\"application/ld+json\"> <!--//--><![CDATA[// ><!-- <!--//--><![CDATA[// ><!-- <!--//--><![CDATA[// ><!-- { \"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"US announces end of Iranian blockade by October 31, 2026?\", \"description\": \"Prediction market: Yes 22% · No 79% on Polymarket.\", \"url\": \"https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080\", \"publisher\": { \"@type\": \"Organization\", \"name\": \"Polymarket\", \"url\": \"https://polymarket.com\" } } //--><!]]]]]]><![CDATA[><![CDATA[> //--><!]]]]><![CDATA[> //--><!]]> </script><figure aria-label=\"Polymarket prediction market: US announces end of Iranian blockade by October 31, 2026?\" class=\"polymarket-embed\" id=\"polymarket-us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696\" itemscope=\"\" itemtype=\"https://schema.org/WebPage\" style=\"position:relative;display:inline-block;margin:0\"><iframe allowtransparency=\"true\" frameborder=\"0\" height=\"300\" src=\"https://embed.polymarket.com/market?market=us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696&height=300\" title=\"US announces end of Iranian blockade by October 31, 2026? — Polymarket Prediction Market\" width=\"400\"></iframe> <figcaption style=\"position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0\"><strong>US announces end of Iranian blockade by October 31, 2026?</strong><br /> Yes 22% · No 79%<br /><a href=\"https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080\">View full market & trade on Polymarket </a></figcaption></figure><h2>Oil Plunges As Trump Says No Attacks Before Midterms</h2> <p>President Trump just issued a new Truth Social Post Thursday just after noon time (eastern), wherein he declared <strong>\"we will not be attacking Iran at any time prior to the Midterm Elections\" in November</strong>. Oil dropped on the statement (though is still up on the day)...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-19-30.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-19-30.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f605072a-7dba-4633-b2b4-5962a737aa23\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-08_09-19-30.png\" /></a></p> <p>The full Trump post below, wherein Trump also claims that active discussions with the Iranians are still happening, and that oil is \"flowing in record numbers\"...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2817%29_11.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2817%29_11.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3af221e4-80d8-408a-a1cd-3f8b9205bf92\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2817%29_11.png\" /></a></p> <p data-flatplan-dropcap=\"true\" data-flatplan-paragraph=\"true\">Quick Iranian rection:</p> <blockquote> <p data-flatplan-dropcap=\"true\" data-flatplan-paragraph=\"true\">U.S. and Israeli officials say Iranian leaders are <strong>deeply suspicious of Trump's statements</strong>. The officials said Iranian leaders <strong>want to avoid a third surprise attack</strong>, reports <em>Axios</em>.</p> </blockquote> <p data-flatplan-dropcap=\"true\" data-flatplan-paragraph=\"true\">To recall, <em>The Atlantic </em>reported late Wednesday that the Pentagon is preparing strike options for the Commander-in-Chief to consider, and that Trump may actually pull the trigger before the midterm elections - though the report emphasizes that the decision was still being <a href=\"https://www.theatlantic.com/national-security/2026/10/trump-iran-strike-midterms/688910/\">debated</a>:</p> <blockquote> <p data-flatplan-dropcap=\"true\" data-flatplan-paragraph=\"true\"><em>After months of on-again, off-again fighting, the United States hasn’t struck Iran in several weeks. The stretch of relative tranquility is coinciding with the final phase of the midterm-election campaign, and the assumption has been that President Trump will want to keep it going through November 3 so as not to remind voters of an unpopular war that is dragging Republican candidates down nationwide.</em></p> <p data-flatplan-paragraph=\"true\"><em>But that may not be what happens. <strong>The White House has asked the Pentagon to develop strike options against Iranian targets that could be exercised ahead of the midterms, according to two administration officials</strong>. The planning underscores <strong>just how much the president wants to reduce gas prices</strong> and demonstrate progress in the conflict before the vote, administration officials told us.</em></p> </blockquote> <p data-flatplan-paragraph=\"true\">And yet a renewed outbreak of direct bombing would likely actually serve to do the opposite, given oil prices have tended to shoot up on headlines of major direct escalation.</p> <p data-flatplan-paragraph=\"true\">Reports out of Iran confirmed earlier Wednesday that negotiations are 'stalemated' - also as the Iranians have ramped up targeting tankers with drones in the Strait of Hormuz over the last week.</p> <h2>Iran Expands Tanker Assaults Beyond Narrow Confines Of Strait Of Hormuz</h2> <p>Iran has significantly widened its maritime operations by shifting attacks beyond the narrow confines of the Strait of Hormuz into the broader waters of the Persian Gulf and the Gulf of Oman. Over a recent <strong>24-hour window</strong>, the Islamic Revolutionary Guard Corps (IRGC) <strong>may have</strong> <strong>struck two commercial ships outside traditional chokepoints</strong>, including a vessel off Qatar, as well as a Very Large Crude Carrier near the United Arab Emirates. The latter instance has less confirmation at this point.</p> <p>This escalation indicates a tactical shift, given the <strong>IRGC is no longer waiting for vessels to explicitly violate its designated maritime enforcement corridors</strong>. Instead, any ship suspected of trying to bypass Iranian blockades now faces active targeting across the entire regional waterway. This at least is what Tehran is likely seeking to demonstrate to Washington and its Gulf allies, and comes after record numbers of vessels have been making it through so far this month under US naval watch and protocol.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/qatar-tanker-attack-ukmto.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/qatar-tanker-attack-ukmto.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3bf758f2-8b59-4208-af46-a997e3b019fe\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/qatar-tanker-attack-ukmto.jpg\" /></a> <figcaption><em>Source: UKMTO</em></figcaption></figure><p>The first of these incidents, which was widely reported overnight and is now being given greater confirmation Thursday, occurred 51 nautical miles north of Madinat ash Shamal, Qatar. The vessel was struck multiple times, in what <strong>appears an effort to specifically to kill crew members</strong>. An unknown amount of casualties has been <a href=\"https://www.seatrade-maritime.com/security/crew-casualties-in-attack-on-tanker-off-qatar\">reported</a>:</p> <blockquote> <p><em>It said there were multiple casualties as a result of the attack. The extent of the casualties is unknown, however, in <strong>previous UKMTO warnings the word “casualties” has been used to describe seafarer deaths rather than injuries</strong>.</em></p> </blockquote> <p><em>The Guardian </em>details further of the unusual location of <a href=\"https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price\">the attack</a>:</p> <blockquote> <p><em><strong>The vessel was in the Gulf, about 500km (300 miles) west of the strait of Hormuz, when it reported being struck “by multiple projectiles”</strong>, the UK Maritime Trade Operations said on Wednesday. The UK authority did not specify the origin of the ship.</em></p> <p><em>Wednesday’s attack comes as strikes on tankers sailing through the strait of Hormuz hit their ⁠highest weekly level since the <a data-component=\"auto-linked-tag\" data-link-name=\"in body link\" href=\"https://www.theguardian.com/world/iran\">Iran</a> war began, according to maritime security firms, as oil prices climbed above $100 per barrel.</em></p> </blockquote> <p>Oil Price <a href=\"https://oilprice.com/Latest-Energy-News/World-News/First-Deep-Gulf-Tanker-Attack-in-Nearly-a-Month-Hits-Vessel-off-Qatar.html\">writes</a>, \"A tanker has been struck by multiple projectiles north of Qatar’s tip in the first such attack deep within the Persian Gulf in nearly a month.\" Not only have drone and missile attacks on vessels picked up over the last nearly two weeks, but casualties as well.</p> <p>\"In the ‌week to 5 October, there were at least 12 attacks ‌on oil, liquefied natural gas and liquefied petroleum gas tankers around the strait, according to data from three security sources,\" continues <em>The Guardian</em>. \"On Tuesday, India’s ​foreign ministry said <strong>12 crew members were injured</strong> after an attack on a Panama-flagged oil tanker passing through the strait of Hormuz.\"</p> <h2>Tanker Fire Off UAE: Second Vessel Attacked?</h2> <p>The second of these events, off UAE, <strong>has been less confirmed</strong>. Newsquawk notes:</p> <blockquote> <p><em>Oil tanker assembly site reportedly explodes near UAE, Mizan reports; \"Ocean sources reported the detection of a fire in the Gulf of Oman, approximately 30 nautical miles east of Fujairah\"</em></p> </blockquote> <p>And via DropSite News:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Possibly second vessel hit near UAE’s Fujairah bypass port.</p> — Drop Site (@DropSiteNews) <a href=\"https://x.com/DropSiteNews/status/2107997502389522844?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Maritime and satellite open source channels have been observing a fire, with potential US military assets circling the area, at the below location:</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/firegulfofoman.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/firegulfofoman.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5824ab93-bc93-4f97-be5b-b3a9434dbf40\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/firegulfofoman.jpg\" /></a></p> <p>If this second attack is confirmed, it marks a serious escalation in terms of Iran's efforts to extend its own blockade and 'answer' to so many ships getting through under the US Navy's protocol.</p> <h2>Houthis Attacking Saudi Airports</h2> <p>From bad to worse in the Saudi-Houthi war...</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">WATCH: Footage confirms a Houthi strike hit a stationary aircraft at Riyadh Airport, Saudi Arabia. <a href=\"https://t.co/0FLJXDyA4U\">https://t.co/0FLJXDyA4U</a></p> — Clash Report (@clashreport) <a href=\"https://x.com/clashreport/status/2108225846683095496?ref_src=twsrc%5Etfw\">October 8, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><h2>More Latest Regional Developments</h2> <p><em>via Newsquawk</em></p> <ul><li>The White House has asked the Pentagon to develop strike options against Iranian targets that could be exercised ahead of the midterms, according to two administration officials. The planning underscores just how much the president wants to reduce gas prices and demonstrate progress in the conflict before the vote. The Atlantic</li> <li>The US military has been ordered to be ready for possible Iran strikes as President Trump weighs the timing, with the Pentagon said to have instructed CENTCOM several days ago to conclude preparations for resuming major combat operations in Iran; any campaign is expected to be a joint US-Israeli one including large bombing of Iranian energy, infrastructure and nuclear targets. Axios</li> <li>US President Trump stated that he doesn't think an Iran deal is something he wants to do. It was separately reported that Trump said the Iranians are ready to offer us anything to stop what's happening, even though an agreement with them is not the option he truly wants, while Trump was also reported to say that Witkoff is now working on reaching an agreement with Iran and is making very good progress, according to Al Jazeera.</li> <li>The US military has been ordered to be ready for possible Iran strikes as President Trump weighs the timing, with the Pentagon said to have instructed US CENTCOM several days ago to conclude preparations for resuming major combat operations in Iran, according to Axios. The directive didn't include a specific date for launching strikes and President Trump hasn't made any final decisions, although US and Israeli sources said it could happen before the US midterm election. Furthermore, it was stated that if major combat operations resume, they are likely to be a joint US and Israeli campaign and expected to include large bombing of Iranian energy, infrastructure and nuclear targets.</li> <li>US President Trump and his national security team have discussed possibly resuming large-scale US military operations in Iran in the coming weeks, including the option of launching strikes before the midterm elections next month, according to NBC.</li> <li>The US is stepping up preparations and has completed operational plans in case President Trump orders strikes against Iran, i24 News reported citing sources. The report added that forces at Fort Bragg are ready to deploy to any theatre within 18 hours.</li> <li>Iran's working assumption is that there will be a US attack, according to Jerusalem Post's Stein, citing two regional diplomats, while the debate in Tehran is if they should attack first.</li> <li>US CENTCOM rejected IRGC claims that the Strait of Hormuz is closed and that Iran has full control over it, while it stated that traffic is flowing through the strait carrying commercial goods and energy supplies, including 20mln bbls of crude.</li> <li> Iran's Foreign Ministry spokesperson Baghaei said Iran's considerations and conditions for ending the war on all fronts and restoring security to the Persian Gulf region and the Strait have been clearly and firmly explained, and the necessary response to US proposals will be provided through mediators. He also stated that Iran will continue its efforts to strengthen trust and interaction between regional countries, while he stated that Tehran has spared no effort, in consultation with Oman as another coastal state, to restore security to the Strait of Hormuz, and the two sides had agreed on the geographical coordinates for safe transit routes and on how the agreement will be presented internationally, while the agreement between Iran and Oman on the safe routes of Hormuz will soon be reflected in international references.</li> <li>Iranian intelligence services are reportedly targeting the US Ramstein and Spangdahlem air bases in Germany, WiWo reported. The report added that Iranian intelligence services are reportedly also targeting other US bases in Europe and planning complex attacks, with the UK also said to be a potential target.</li> <li>Pakistan's Army Chief said they are working to reduce the differences between the US and Iran, according to Nour News.</li> <li>Reports of explosions heard and fires visible in Riyadh, Saudi Arabia, according to Sabereen News. Satellite images also showed smoke rising from the Abqaiq oil facilities in Saudi Arabia, and a fire at both Abqaiq facilities and Tanjib gas plant.</li> <li>Oil tanker assembly site reportedly exploded near UAE, Mizan reported; \"Ocean sources reported the detection of a fire in the Gulf of Oman, approximately 30 nautical miles east of Fujairah.\"</li> <li> Yemen's Houthis said they attacked King Khalid International Airport in Riyadh with a ballistic missile and stated Saudi airspace will be a target of operations except over Mecca and Medina.</li> <li>Syria officially denied reports of sending troops to Yemen, with its presidential media advisor stating the reports are lies with no truth, and affirmed that Syria stands with Saudi Arabia's security.</li> </ul></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T16:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 12:25</span>",
+    "link": "https://www.zerohedge.com/geopolitical/iran-expands-tanker-assault-beyond-narrow-confines-hormuz-rare-escalation",
+    "pubDate": "Thu, 08 Oct 2026 16:25:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Golden Naked Trump Statue Unveiled At European Parliament",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Golden Naked Trump Statue Unveiled At European Parliament</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>A golden statue of a naked Donald Trump is on display at the European Parliament in Strasbourg, France, <strong>at one of the busiest intersections connecting two of the Parliament's buildings</strong>, and is scheduled to stay until Thursday. Named Orange Plague, the 8.5-foot sculpture shows the US president holding justice scales and a long golf club, its ball made to look like the world, while sitting on the shoulders of a smaller, clothed man. Text on the plinth reads: \"I am sitting on the back of a man. He is sinking under my burden. I will do anything to help him. Except stepping down from his back.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-112704_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-112704_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"25087064-73a9-4b61-b85e-fa04e2d25107\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-112704_80.jpg\" /></a></p> <p>Jens Galschiot, the Danish artist who created the sculpture, said: \"Trump represents one of the greatest threats to the rules-based world order, democratic values and our common effort to solving the climate crisis.\"</p> <p>\"We must address this issue and stand together against such destructive influence.\"</p> <p>Galschiot said the statue, covered in 23-carat gold leaf, was inspired by the story of <em>The Emperor's New Clothes</em>, in which a vain leader parades naked through the street, believing he is dressed in the finest clothes.</p> <p>In the fairytale, no one tells him that he is naked out of fear and flattery until a child points out his nudity and the emperor becomes a figure of ridicule.</p> <p>Per Clausen, a Left-wing Danish European Parliament member, invited the artist to exhibit the statue in the building.</p> <p>He said that he was not worried about a potential reaction from Trump, adding: \"If someone is so thin-skinned that they cannot tolerate this sculpture being exhibited in the European Parliament, then they have no place on the world stage.\"</p> <p><strong>The statue was previously on display during the 30th United Nations Climate Change Conference (COP30)</strong>, which was held in Brazil last year. It also made an appearance in Germany during this year's Munich Security Conference.</p> <p>Worth <a href=\"https://www.telegraph.co.uk/world-news/2026/10/07/golden-naked-donald-trump-statue-european-parliament/\">reading in full</a> over at <em>The Telegraph</em>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-7_80%281%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-7_80%281%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a88ad695-42e5-4f49-8381-04a2f23d6c4f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-7_80%281%29.jpg\" /></a></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T14:35:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 10:35</span>",
+    "link": "https://www.zerohedge.com/political/golden-naked-trump-statue-unveiled-european-parliament",
+    "pubDate": "Thu, 08 Oct 2026 14:35:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Nuclear Energy Stocks Down 40% or More From Their Highs -- Only 1 Is a Real Opportunity Right Now.",
+    "desc": "Key PointsNuScale and Oklo could shake up the nuclear energy market, but they haven&rsquo;t deployed any commercial reactors yet.",
+    "link": "https://www.nasdaq.com/articles/3-nuclear-energy-stocks-down-40-or-more-their-highs-only-1-real-opportunity-right-now",
+    "pubDate": "Thu, 08 Oct 2026 19:25:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Noteworthy Thursday Option Activity: SLS, KODK, AAOI",
+    "desc": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in SELLAS Life Sciences Group Inc (Symbol: SLS), where a total of 55,187 contracts have traded so far, representing approximately 5.5 million underlying shares. That amount",
+    "link": "https://www.nasdaq.com/articles/noteworthy-thursday-option-activity-sls-kodk-aaoi",
+    "pubDate": "Thu, 08 Oct 2026 19:20:51 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Notable Thursday Option Activity: GLIBK, HUM, MSTR",
+    "desc": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Liberty Capital Corp (Symbol: GLIBK), where a total of 7,505 contracts have traded so far, representing approximately 750,500 underlying shares. That amounts to about 23",
+    "link": "https://www.nasdaq.com/articles/notable-thursday-option-activity-glibk-hum-mstr",
+    "pubDate": "Thu, 08 Oct 2026 19:20:47 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Notable Thursday Option Activity: AMZN, GOOGL, AVGO",
+    "desc": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Amazon.com Inc (Symbol: AMZN), where a total of 546,566 contracts have traded so far, representing approximately 54.7 million underlying shares. That amounts to about 15",
+    "link": "https://www.nasdaq.com/articles/notable-thursday-option-activity-amzn-googl-avgo",
+    "pubDate": "Thu, 08 Oct 2026 19:20:44 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Treasuries Recover From Early Slump On Strong Thirty-Year Bond Auction",
+    "desc": "(RTTNews) - After coming under pressure early in the session, treasuries have shown a significant turnaround over the course of the trading day on Thursday.",
+    "link": "https://www.nasdaq.com/articles/treasuries-recover-early-slump-strong-thirty-year-bond-auction",
+    "pubDate": "Thu, 08 Oct 2026 19:20:39 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Noteworthy Thursday Option Activity: COST, DELL, APEI",
+    "desc": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Costco Wholesale Corp (Symbol: COST), where a total volume of 28,991 contracts has been traded thus far today, a contract volume which is representative of appro",
+    "link": "https://www.nasdaq.com/articles/noteworthy-thursday-option-activity-cost-dell-apei",
+    "pubDate": "Thu, 08 Oct 2026 19:20:38 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Notable Thursday Option Activity: UNH, FCEL, HD",
+    "desc": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in UnitedHealth Group Inc (Symbol: UNH), where a total volume of 39,004 contracts has been traded thus far today, a contract volume which is representative of appro",
+    "link": "https://www.nasdaq.com/articles/notable-thursday-option-activity-unh-fcel-hd",
+    "pubDate": "Thu, 08 Oct 2026 19:20:36 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What Is the Stock Market? Here's the One Index Fund I'd Buy to Beat It.",
+    "desc": "Key PointsThe stock market facilitates the buying and selling of stocks, which gives people ownership in companies.",
+    "link": "https://www.nasdaq.com/articles/what-stock-market-heres-one-index-fund-id-buy-beat-it-0",
+    "pubDate": "Thu, 08 Oct 2026 19:11:31 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Park Aerospace Q2 27 Earnings Conference Call At 5:00 PM ET",
+    "desc": "(RTTNews) - Park Aerospace Corp (PKE) will host a conference call at 5:00 PM ET on October 8, 2026, to discuss Q2 27 earnings results.",
+    "link": "https://www.nasdaq.com/articles/park-aerospace-q2-27-earnings-conference-call-5-00-pm-et",
+    "pubDate": "Thu, 08 Oct 2026 19:03:08 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "EPR Properties' Series C Preferred Shares Cross 6% Yield Mark",
+    "desc": "In trading on Thursday, shares of EPR Properties's 5.75% Series C Cumulative Convertible Preferred Shares (Symbol: EPR.PRC) were yielding above the 6% mark based on its quarterly dividend (annualized to $1.4375), with shares changing hands as low as $23.95 on the day. This co",
+    "link": "https://www.nasdaq.com/articles/epr-properties-series-c-preferred-shares-cross-6-yield-mark",
+    "pubDate": "Thu, 08 Oct 2026 18:56:30 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Chimera Investment's Series A Preferred Stock Crosses Above 10.5% Yield Territory",
+    "desc": "In trading on Thursday, shares of Chimera Investment Corp's 8.00% Series A Cumulative Redeemable Preferred Stock (Symbol: CIM.PRA) were yielding above the 10.5% mark based on its quarterly dividend (annualized to $2.00), with shares changing hands as low as $17.94 on the day.",
+    "link": "https://www.nasdaq.com/articles/chimera-investments-series-preferred-stock-crosses-above-105-yield-territory",
+    "pubDate": "Thu, 08 Oct 2026 18:55:34 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SpaceX's Google AI Pact Is Worth Up to $29 Billion, but Investors Shouldn't Bank on It",
+    "desc": "Key PointsAlphabet started paying SpaceX for compute capacity this month in a 32-month deal that could be worth as much as $29 billion.",
+    "link": "https://www.nasdaq.com/articles/spacexs-google-ai-pact-worth-29-billion-investors-shouldnt-bank-it",
+    "pubDate": "Thu, 08 Oct 2026 18:54:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Smart Contracts Are Coming Soon to Dogecoin. Is It Time to Reconsider the World's Most Popular Meme Coin?",
+    "desc": "Key PointsA new platform, DogeOS, will soon add smart contract capabilities to Dogecoin.",
+    "link": "https://www.nasdaq.com/articles/smart-contracts-are-coming-soon-dogecoin-it-time-reconsider-worlds-most-popular-meme-coin",
+    "pubDate": "Thu, 08 Oct 2026 18:53:00 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The Facebook whistleblower behind ‘The Social Reckoning’ says Zuckerberg is ‘playing with fire’ on AI",
+    "desc": "The real Frances Haugen on the new Sorkin film, Meta’s AI spending spree, and why a pause won’t work.",
+    "link": "https://fortune.com/2026/10/08/the-facebook-whistleblower-behind-the-social-reckoning-says-zuckerberg-is-playing-with-fire-on-ai/",
+    "pubDate": "Thu, 08 Oct 2026 18:44:52 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Mark Cuban on why AI is the wrong job-killer target: it’s the healthcare costs, stupid",
+    "desc": "It’s far easier to blame AI than it is to blame Healthcare costs,” the billionaire and founder of Cost Plus Drugs said. The math makes his point.",
+    "link": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
+    "pubDate": "Thu, 08 Oct 2026 19:16:29 +0000",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Tesla consolidates at $372 above key support: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tesla-reclaims-200ma-eyes-386-resistance-hourly-levels-93CH-4932452",
+    "pubDate": "2026-10-08 19:19:08",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Alphabet C stuck in $335-$350 chop zone: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-c-consolidates-332350-breakout-levels-live-93CH-4932453",
+    "pubDate": "2026-10-08 19:19:07",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Dow Jones rejects resistance at 51,860: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dow-jones-squeezed-at-51328-with-bears-in-control-live-levels-93CH-4932455",
+    "pubDate": "2026-10-08 19:19:06",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nasdaq 100 rejects all-time highs with bearish engulfing: Live",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-31281-resistance-near-double-top-live-levels-93CH-4932456",
+    "pubDate": "2026-10-08 19:19:04",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "S&P 500 breaks below MAs, eyes 7,778 support: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/sp-500-trapped-near-ath-in-lowmomentum-chop-zone-live-levels-93CH-4932454",
+    "pubDate": "2026-10-08 19:18:53",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Dollar Index consolidates at 101.91 below resistance: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dollar-index-overbought-at-10212-with-rsi-at-71-live-levels-93CH-4932451",
+    "pubDate": "2026-10-08 19:18:38",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "SanDisk below 200 SMA at $1,601.99: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/sandisk-consolidates-above-key-support-at-1695-live-levels-93CH-4932447",
+    "pubDate": "2026-10-08 19:18:27",
+    "fetchedAt": "2026-10-08T20:01:33.437Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
     "desc": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
     "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
@@ -5774,629 +6398,5 @@
     "link": "https://www.investing.com/news/stock-market-news/why-is-argenx-stock-plunging-today-93CH-4938025",
     "pubDate": "2026-10-08 07:34:51",
     "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "UK watchdog fines Deloitte £6.05 mln over Go-Ahead audit failures",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/uk-watchdog-fines-deloitte-605-mln-over-goahead-audit-failures-93CH-4938023",
-    "pubDate": "2026-10-08 07:31:56",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Seven & i operating profit falls 11% in second quarter",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/seven--i-operating-profit-falls-11-in-second-quarter-4938019",
-    "pubDate": "2026-10-08 07:30:34",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Opmobility stock cratering today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-opmobility-stock-cratering-today-93CH-4938018",
-    "pubDate": "2026-10-08 07:29:59",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Imperial Brands stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-rallying-today-93CH-4938017",
-    "pubDate": "2026-10-08 07:28:13",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "OPmobility plunges after cutting jobs, lowering 2026 targets amid market slump",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/opmobility-cuts-jobs-and-lowers-2026-targets-amid-market-slump-93CH-4937295",
-    "pubDate": "2026-10-08 07:27:57",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Unite stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-unite-stock-sliding-today-93CH-4938006",
-    "pubDate": "2026-10-08 07:25:05",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Manus raises more than $500 million after Meta exit",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/manus-raises-more-than-500-million-after-meta-exit-4938004",
-    "pubDate": "2026-10-08 07:24:21",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asian currencies rangebound as dollar holds 18-month high, euro under pressure",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
-    "pubDate": "2026-10-08 07:24:06",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is ALK-Abelló stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-alkabello-stock-surging-today-93CH-4938003",
-    "pubDate": "2026-10-08 07:24:04",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "ft",
-    "title": "What is the real price of oil any more?",
-    "desc": "Crude futures are no longer a reliable guide to the inflationary impact of fuel prices",
-    "link": "https://www.ft.com/content/5cad1f95-b06d-4ee1-b1c7-0244999337d4?syn-25a6b1a6=1",
-    "pubDate": "Thu, 08 Oct 2026 04:00:16 GMT",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CME Group's international ADV rises 22% in Q3",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651230-cme-groups-international-adv-rises-22-in-q3?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 03:53:24 -0400",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Trump plays down Iran deal as U.S. military prepares for possible strikes",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651219-trump-plays-down-iran-deal-as-us-military-prepares-for-possible-strikes?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 03:42:31 -0400",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AI bubble could burst within two years, triggering severe market crash, strategist warns",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651225-ai-bubble-could-burst-within-two-years-triggering-severe-market-crash-strategist-warns?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 03:30:32 -0400",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Germanium Mining announces C$250K private placement",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651216-germanium-mining-announces-c250k-private-placement?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 03:23:53 -0400",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Michael Novogratz: AI is in the biggest bubble of our lifetime",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651222-michael-novogratz-ai-is-in-the-biggest-bubble-of-our-lifetime?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 03:11:06 -0400",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Hedera Hashgraph &#8230; Continued The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:18 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a &#8230; Continued The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/algorand-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:18 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8230; Continued The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:17 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a &#8230; Continued The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:16 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a &#8230; Continued The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:15 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a &#8230; Continued The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/polkadot-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:14 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
-    "desc": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been &#8230; Continued The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/filecoin-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:13 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Michael Burry Warns Anthropic’s Valuation Could Buy 78 Profitable S&P 500 Companies: ‘Fun Game in Times Like These’",
-    "desc": "“The Big Short” Investor Michael Burry on Wednesday highlighted that the valuation of startup Anthropic equals the value of 78 companies in the S&P 500 index. The “Fun Game” Burry took to social media to highlight the stark contrast between...",
-    "link": "https://www.benzinga.com/markets/equities/26/10/62237790/michael-burry-warns-anthropics-valuation-could-buy-78-profitable-sp-500-companies-fun-game-in-times-like-these?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 07:45:13 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "U.S. stock futures fall after Wall St pullback as bond yields, oil surge",
-    "desc": "Investing.com-- U.S. stock futures edged lower in Asian trading Thursday after Wall Street retreated from record highs, as long-dated U.S. Treasury yields resumed their climb, reviving concerns about inflation, government debt and the outlook for interest rates.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-wall-014253582.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 01:42:53 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Comex Gold, Silver Settle Lower",
-    "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-    "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "DeepSeek Won't Sink U.S. AI Titans",
-    "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Financial Services Roundup: Market Talk",
-    "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-    "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
-    "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
-    "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
-    "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Natural Gas Falls on Shifting Weather Forecasts",
-    "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
-    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
-    "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
-    "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
-    "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
-    "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What's New This Tax Season That Can Save You Money",
-    "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
-    "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Chinese Investors With Few Options Turn to Dividends",
-    "desc": "Companies with good payouts are now the hottest bet in China markets.",
-    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
-    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
-    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
-    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
-    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
-    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
-    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Heard on the Street's Stock-Picking Series",
-    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
-    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
-    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
-    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
-    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
-    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
-    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
-    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "wsj",
-    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
-    "desc": "The story of home affordability in the U.S. told from a single front porch.",
-    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Riot Platforms Shouldn't Be Worth More Than Cipher Digital",
-    "desc": "Key PointsCipher Digital has 3.3 more gigawatts in its portfolio than Riot Platforms.",
-    "link": "https://www.nasdaq.com/articles/riot-platforms-shouldnt-be-worth-more-cipher-digital",
-    "pubDate": "Thu, 08 Oct 2026 07:52:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: The Number That Will Move Intel Stock in October Isn't Revenue",
-    "desc": "Key PointsIntel forecast an adjusted gross margin of around 42% for the third quarter, just over the second quarter's 41.8%.",
-    "link": "https://www.nasdaq.com/articles/prediction-number-will-move-intel-stock-october-isnt-revenue",
-    "pubDate": "Thu, 08 Oct 2026 07:39:01 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The 2027 Social Security COLA May Disappoint - Even if It’s as Big as the Experts Say It’ll Be",
-    "desc": "Key PointsExperts anticipate a 3.5% to 3.6% COLA in 2027.",
-    "link": "https://www.nasdaq.com/articles/2027-social-security-cola-may-disappoint-even-if-its-big-experts-say-itll-be",
-    "pubDate": "Thu, 08 Oct 2026 07:21:01 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FDA Accepts Bayer's Filing To Expand KERENDIA Use In CKD Without Diabetes",
-    "desc": "(RTTNews) - Thursday, Bayer (BYR.L) announced that the U.S. FDA has accepted its supplemental New Drug Application (sNDA) for KERENDIA (finerenone) to treat adults with non-diabetic chronic kidney disease (CKD).",
-    "link": "https://www.nasdaq.com/articles/fda-accepts-bayers-filing-expand-kerendia-use-ckd-without-diabetes",
-    "pubDate": "Thu, 08 Oct 2026 07:15:27 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 Dividend Stocks to Buy in October and Hold for 20 Years",
-    "desc": "Key PointsKimberly-Clark is funding a $48.7 billion acquisition of Kenvue while continuing its 54-year streak of dividend increases.",
-    "link": "https://www.nasdaq.com/articles/3-dividend-stocks-buy-october-and-hold-20-years",
-    "pubDate": "Thu, 08 Oct 2026 07:05:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Fast Retailing FY Profit Rises",
-    "desc": "(RTTNews) - Fast Retailing Co. (FRCOY) reported that, for the fiscal year ended August 31, 2026, profit attributable to owners of the parent company grew 25.3% to 542.52 billion yen, compared with 433.01 billion yen in the prior year. Diluted earnings per share was 1,765.70 yen c",
-    "link": "https://www.nasdaq.com/articles/fast-retailing-fy-profit-rises",
-    "pubDate": "Thu, 08 Oct 2026 06:51:07 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Trump keeps changing who gets his $5,000 dividend, and only 21% of voters believe he&#8217;ll actually pay it",
-    "desc": "Who is getting the cash: all U.S. citizens or only American adults?",
-    "link": "https://fortune.com/2026/10/08/trump-changing-5000-dividend-21-voters-pay/",
-    "pubDate": "Thu, 08 Oct 2026 07:05:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The ultrawealthy are buying nearby homes to keep staff close—and Larry Ellison and Mark Zuckerberg are two examples",
-    "desc": "Ellison spent nearly $10 million on homes for his staff near his Florida estate, while Zuckerberg has spent more than $110 million buying up his Palo Alto block.",
-    "link": "https://fortune.com/2026/10/08/ultrawealthy-buying-nearby-homes-to-keep-staff-close-larry-ellison-mark-zuckerberg/",
-    "pubDate": "Thu, 08 Oct 2026 07:04:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Financial insiders are buying their own stock at the slowest pace in nearly 23 years—a ‘negative data point’ just as bank earnings kick off",
-    "desc": "VerityData’s Ben Silverman says the data suggests insiders are “skittish” about valuations.",
-    "link": "https://fortune.com/2026/10/08/financial-insiders-stock-buying-slows-bank-earnings-q3/",
-    "pubDate": "Thu, 08 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Move over DINKs: SPLITs are the new financial power couple—they have two incomes, no kids yet and no joint bank account",
-    "desc": "DINKs out-earn parents by $42,000 a year. SPLITs get the same two-income benefits and, a financial planner says, skip a lot of money fights.",
-    "link": "https://fortune.com/2026/10/08/splits-new-financial-power-couple-two-incomes-no-kids-yet-and-no-joint-bank-account-dinks/",
-    "pubDate": "Thu, 08 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Meta VP: AI in advertising and the rise of single-person billion-dollar company",
-    "desc": "Businesses must stop using AI to optimize old processes and start reimagining how they compete.",
-    "link": "https://fortune.com/2026/10/08/agentic-ai-business-transformation-mindset/",
-    "pubDate": "Thu, 08 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Valneva stock falling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-valneva-stock-falling-today-93CH-4938042",
-    "pubDate": "2026-10-08 07:58:47",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Next 15 shares drop 10% after half-year revenue falls, pre-tax loss",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/next-15-shares-drop-10-after-halfyear-revenue-falls-pretax-loss-93CH-4938041",
-    "pubDate": "2026-10-08 07:57:27",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Valneva stock falls after UK revokes Ixchiq vaccine approval",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/valneva-stock-falls-after-uk-revokes-ixchiq-vaccine-approval-93CH-4938040",
-    "pubDate": "2026-10-08 07:57:19",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Zealand Pharma falls 3% despite positive mid-stage obesity drug results",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/zealand-pharma-falls-3-despite-positive-midstage-obesity-drug-results-4938038",
-    "pubDate": "2026-10-08 07:54:55",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Wise dips as FT reports company to pay customers’ tax bills after errors",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/wise-dips-as-ft-reports-company-to-pay-customers-tax-bills-after-errors-4938036",
-    "pubDate": "2026-10-08 07:49:58",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Standard Life stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-standard-life-stock-sliding-today-93CH-4938035",
-    "pubDate": "2026-10-08 07:48:51",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "European shares dip as banks hit over 3-month low, oil prices weigh",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-banks-hit-over-3month-low-oil-prices-weigh-4938033",
-    "pubDate": "2026-10-08 07:42:40",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Argenx shares plunge 16% after Sjögren’s drug trial halted",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/argenx-shares-plunge-16-after-sjogrens-drug-trial-halted-4938026",
-    "pubDate": "2026-10-08 07:39:29",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-    "desc": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
-    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-    "pubDate": "Thu, 08 Oct 2026 06:59:59 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
-    "desc": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
-    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
-    "pubDate": "Thu, 08 Oct 2026 06:50:42 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-    "desc": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
-    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-    "pubDate": "Wed, 07 Oct 2026 13:46:28 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The AI telling farmers when to harvest",
-    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The start-ups hoping to return battery making to the US",
-    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Spain battles climate change on several fronts",
-    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "My hometown shows that high streets have to change or die",
-    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Watch: Why has UK diesel price hit an all time high?",
-    "desc": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
-    "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 02 Oct 2026 16:58:30 GMT",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Yandex data center hit by drone strike in Ryazan region",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/yandex-data-center-hit-by-drone-strike-in-ryazan-region-93CH-4937973",
-    "pubDate": "2026-10-08 06:52:30",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "German exports fall unexpectedly in August",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/german-exports-unexpectedly-fall-in-august-4937941",
-    "pubDate": "2026-10-08 06:48:24",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tencent shares fall as company weighs up to $5 billion bond sale, Bloomberg says",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/tencent-shares-fall-as-company-weighs-up-to-5-billion-bond-sale-bloomberg-says-4937972",
-    "pubDate": "2026-10-08 06:47:37",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tesco lifts low end of profit guidance as first-half profit rises 6.5%",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/tesco-lifts-low-end-of-profit-guidance-as-firsthalf-profit-rises-65-4937971",
-    "pubDate": "2026-10-08 06:43:45",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Uniqlo operator Fast Retailing posts 32% rise in full-year profit",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/uniqlo-operator-fast-retailing-posts-32-rise-in-fullyear-profit-4937970",
-    "pubDate": "2026-10-08 06:42:22",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Forvia receives €500 million in orders for EnergyCore solutions",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/forvia-receives-500-million-in-orders-for-energycore-solutions-93CH-4937969",
-    "pubDate": "2026-10-08 06:40:00",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Sesterce plans €10 billion data center in Finland",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sesterce-plans-10-billion-data-center-in-finland-93CH-4937968",
-    "pubDate": "2026-10-08 06:37:44",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
-    "desc": "",
-    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
-    "pubDate": "2026-10-08 06:37:24",
-    "fetchedAt": "2026-10-08T07:04:44.496Z"
   }
 ]
