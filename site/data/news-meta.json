@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-08T04:02:06.505Z",
+  "lastRun": "2026-10-08T04:06:17.390Z",
   "fetched": 1,
   "failed": 13,
-  "newItems": 8,
+  "newItems": 0,
   "total": 800,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "name": "CNBC",
       "items": 0,
       "added": 0,
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "id": "bbc",
@@ -86,7 +86,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 8
+      "added": 0
     },
     {
       "id": "fortune",
