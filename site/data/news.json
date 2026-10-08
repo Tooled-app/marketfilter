@@ -1,6 +1,334 @@
 [
   {
     "source": "cnbc",
+    "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+    "desc": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+    "pubDate": "Thu, 08 Oct 2026 06:59:59 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+    "desc": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+    "pubDate": "Thu, 08 Oct 2026 06:50:42 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+    "desc": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
+    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+    "pubDate": "Wed, 07 Oct 2026 13:46:28 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The AI telling farmers when to harvest",
+    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The start-ups hoping to return battery making to the US",
+    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Spain battles climate change on several fronts",
+    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "bbc",
+    "title": "My hometown shows that high streets have to change or die",
+    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Watch: Why has UK diesel price hit an all time high?",
+    "desc": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+    "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 02 Oct 2026 16:58:30 GMT",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Yandex data center hit by drone strike in Ryazan region",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/yandex-data-center-hit-by-drone-strike-in-ryazan-region-93CH-4937973",
+    "pubDate": "2026-10-08 06:52:30",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "German exports fall unexpectedly in August",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/german-exports-unexpectedly-fall-in-august-4937941",
+    "pubDate": "2026-10-08 06:48:24",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Tencent shares fall as company weighs up to $5 billion bond sale, Bloomberg says",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tencent-shares-fall-as-company-weighs-up-to-5-billion-bond-sale-bloomberg-says-4937972",
+    "pubDate": "2026-10-08 06:47:37",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Tesco lifts low end of profit guidance as first-half profit rises 6.5%",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/tesco-lifts-low-end-of-profit-guidance-as-firsthalf-profit-rises-65-4937971",
+    "pubDate": "2026-10-08 06:43:45",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Uniqlo operator Fast Retailing posts 32% rise in full-year profit",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/uniqlo-operator-fast-retailing-posts-32-rise-in-fullyear-profit-4937970",
+    "pubDate": "2026-10-08 06:42:22",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Forvia receives €500 million in orders for EnergyCore solutions",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/forvia-receives-500-million-in-orders-for-energycore-solutions-93CH-4937969",
+    "pubDate": "2026-10-08 06:40:00",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Sesterce plans €10 billion data center in Finland",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/sesterce-plans-10-billion-data-center-in-finland-93CH-4937968",
+    "pubDate": "2026-10-08 06:37:44",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
+    "desc": "",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
+    "pubDate": "2026-10-08 06:37:24",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "Drones hit Yandex data centre in first major attack on Russian data hub",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/drones-hit-yandex-data-centre-in-first-major-attack-on-russian-data-hub-4937966",
+    "pubDate": "2026-10-08 06:36:45",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investing",
+    "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965",
+    "pubDate": "2026-10-08 06:36:26",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "U.S. and Russia discuss reopening path for Russian gas sales to Germany - report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651221-us-and-russia-discuss-reopening-path-for-russian-gas-sales-to-germany---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 02:58:20 -0400",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Pacific Booker Minerals upsizes non-brokered financing to C$12M",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651215-pacific-booker-minerals-upsizes-non-brokered-financing-to-c12m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 02:40:26 -0400",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Coinbase to custody USDC as Samsung Wallet's default stablecoin",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651205-coinbase-to-custody-usdc-as-samsung-wallets-default-stablecoin?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 02:24:10 -0400",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Germany&#x2019;s trade surplus narrows in August as exports dip",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651220-germanys-trade-surplus-narrows-in-august-as-exports-dip?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 02:09:38 -0400",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Euro Manganese announces departure of CEO Martina Blahova",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651217-euro-manganese-announces-departure-of-ceo-martina-blahova?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 02:09:04 -0400",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+    "desc": "U.S. stock futures are trending slightly lower early Thursday as investors digest hawkish inflation survey data, rising Treasury yields, and reports that the Pentagon is preparing for potential military strikes in Iran. The Polymarket (CRYPTO: POL) crowd is nearly evenly...",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62236979/stock-market-will-sp-500-open-up-or-down-today-53?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 06:12:35 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Golden Naked Trump Statue Unveiled At European Parliament",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Golden Naked Trump Statue Unveiled At European Parliament</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>A golden statue of a naked Donald Trump is on display at the European Parliament in Strasbourg, France, <strong>at one of the busiest intersections connecting two of the Parliament's buildings</strong>, and is scheduled to stay until Thursday. Named Orange Plague, the 8.5-foot sculpture shows the US president holding justice scales and a long golf club, its ball made to look like the world, while sitting on the shoulders of a smaller, clothed man. Text on the plinth reads: \"I am sitting on the back of a man. He is sinking under my burden. I will do anything to help him. Except stepping down from his back.\"</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-112704_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-112704_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"25087064-73a9-4b61-b85e-fa04e2d25107\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-112704_80.jpg\" /></a></p> <p>Jens Galschiot, the Danish artist who created the sculpture, said: \"Trump represents one of the greatest threats to the rules-based world order, democratic values and our common effort to solving the climate crisis.\"</p> <p>\"We must address this issue and stand together against such destructive influence.\"</p> <p>Galschiot said the statue, covered in 23-carat gold leaf, was inspired by the story of <em>The Emperor's New Clothes</em>, in which a vain leader parades naked through the street, believing he is dressed in the finest clothes.</p> <p>In the fairytale, no one tells him that he is naked out of fear and flattery until a child points out his nudity and the emperor becomes a figure of ridicule.</p> <p>Per Clausen, a Left-wing Danish European Parliament member, invited the artist to exhibit the statue in the building.</p> <p>He said that he was not worried about a potential reaction from Trump, adding: \"If someone is so thin-skinned that they cannot tolerate this sculpture being exhibited in the European Parliament, then they have no place on the world stage.\"</p> <p><strong>The statue was previously on display during the 30th United Nations Climate Change Conference (COP30)</strong>, which was held in Brazil last year. It also made an appearance in Germany during this year's Munich Security Conference.</p> <p>Worth <a href=\"https://www.telegraph.co.uk/world-news/2026/10/07/golden-naked-donald-trump-statue-european-parliament/\">reading in full</a> over at <em>The Telegraph</em>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-7_80%281%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-7_80%281%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a88ad695-42e5-4f49-8381-04a2f23d6c4f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-7_80%281%29.jpg\" /></a></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T06:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 02:45</span>",
+    "link": "https://www.zerohedge.com/political/golden-naked-trump-statue-unveiled-european-parliament",
+    "pubDate": "Thu, 08 Oct 2026 06:45:00 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Germany's Political Firewall Against The AfD Party Is Crumbling",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Germany's Political Firewall Against The AfD Party Is Crumbling</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://rmx.news/article/germany-after-afd-politician-wins-state-speaker-position-in-historic-vote-he-confirms-he-won-with-the-help-of-the-cdu/\">Authored by Remix News Staff via Remix</a>,</em></p> <p><em><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-at-3.10.44-PM-1024x582_80_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-at-3.10.44-PM-1024x582_80_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"16bd7e7c-88d6-4313-b1aa-fedcf3124ae6\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot-2026-10-07-at-3.10.44-PM-1024x582_80_0.jpg\" /></a></em></p> <p>After yesterday's vote in the Saxony-Anhalt Landtag, the Alternative for Germany (AfD) now holds the office of state parliament president for the first time in any German state. After winning the role, which is similar to a speaker position, 35-year-old Tobias Rausch sent shockwaves through the German political establishment when he confirmed he won with the support of Christian Democratic Union (CDU) votes. The backing of four CDU lawmakers could be one of the most concrete signs that the political firewall against the AfD is crumbling.</p> <p>The newly elected president of Saxony-Anhalt's state parliament said Wednesday that members of the conservative CDU voted for him. <strong>Perhaps even more importantly, he said that four CDU lawmakers have agreed to back the AfD's candidate for state premier in December</strong>, which means Ulrich Siegmund could soon be the first AfD politician leading a state government.</p> <p><strong>Rausch gave a direct \"yes\" when Nius editor-in-chief Julian Reichelt asked on \"Nius Live\" whether CDU deputies had helped elect him</strong>. Asked whether Tuesday's result signaled that AfD candidate Ulrich Siegmund would safely take office as minister-president in December, Rausch replied, \"That is to be assumed.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"de\" xml:lang=\"de\" xml:lang=\"de\">BREAKING NIUS: Bei NIUS Live bestätigt AfD-Landtagspräsident Tobias Rausch, dass er von CDU-Abgeordneten ins Amt gewählt wurde. Es habe dazu klare Absprachen zwischen AfD und CDU gegeben, und die vier CDU-Abgeordneten werden im Dezember auch für Ulrich Siegmund als Ministerpräsident stimmen und ihm damit die notwendige Mehrheit sichern.</p> — Julian Reichelt (@jreichelt) <a href=\"https://x.com/jreichelt/status/2107740498404286770?ref_src=twsrc%5Etfw\">October 7, 2026</a></blockquote> <p>He told the German press agency dpa that there were agreements with four CDU members of parliament for Siegmund's election.</p> <p>He added that more might become clear at a CDU state party conference on Dec. 5, but declined to elaborate. Acting state premier and CDU floor leader Sven Schulze did not comment on the claims when asked by dpa.</p> <p>Rausch was elected Tuesday in the constitutive session of the 83-seat Landtag in Magdeburg with 48 votes, 29 against and five abstentions. It was the first time the AfD, parts of which are classified as extremist by German domestic intelligence, has held the presidency of a state parliament since the party was founded in 2013.</p> <p>The AfD holds 39 seats after winning 43.8% of the vote in the Sept. 6 state election, three short of a majority. The five lawmakers of the Sahra Wagenknecht Alliance had said in advance they would support Rausch, accounting for 44 votes. <strong>The additional four came in a secret ballot.</strong> SPD, Green and Left lawmakers had said they would vote no. The CDU leadership had recommended that its members abstain; 14 of the party's 15 deputies were present, but only five abstentions were recorded in the chamber.</p> <p>The speaker chairs sessions, oversees the parliamentary administration and represents the Landtag externally, including at ceremonial events. However, the far more consequential vote is expected in December, when lawmakers choose a minister-president. Siegmund needs at least 42 votes, and so far, the BSW has not committed to supporting him for that post.</p> <p>Meanwhile, Schulze of the CDU remains acting premier until a successor is chosen.</p> <p>Later Tuesday, AfD lawmaker Hans-Thomas Tillschneider was elected a vice president with 44 votes to 38, even though the BSW said its members would not support him because of statements he had made on armaments policy.</p> <p>CDU lawmaker Carsten Borchert was chosen as another deputy president with 64 votes in favor and 17 against. SPD candidate Armin Willingmann received 33 votes and failed.</p> <p>AfD national co-leaders Alice Weidel and Tino Chrupalla congratulated the party and described the result as an end to the \"firewall\" that mainstream parties have maintained against cooperation with the AfD. However, the national CDU is not happy about the outcome in Saxony-Anhalt. CDU/CSU parliamentary group chairman Thorsten Frei said, \"The fact that this is the case is, in my view, extremely concerning and worrying.\"</p> </article><script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T06:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 02:00</span>",
+    "link": "https://www.zerohedge.com/geopolitical/germany-after-afd-politician-wins-state-speaker-position-historic-vote-he-confirms-he",
+    "pubDate": "Thu, 08 Oct 2026 06:00:00 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Tesco Plc H1 Profit Climbs; Lifts Share Buyback, FY27 Outlook",
+    "desc": "(RTTNews) - British retail major Tesco Plc (TSCO.L) reported Thursday strong first-half results and raised its fiscal 2027 profit outlook on the back of resilient consumer demand and operational improvements. Further, the firm raised share buyback program.",
+    "link": "https://www.nasdaq.com/articles/tesco-plc-h1-profit-climbs-lifts-share-buyback-fy27-outlook",
+    "pubDate": "Thu, 08 Oct 2026 06:30:20 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Aberdeen Announces Result Of Secondary Placing In Standard Life",
+    "desc": "(RTTNews) - Aberdeen (ABDN.L) announced it has sold an aggregate of 52 million ordinary shares in Standard Life plc, representing approximately 5.2% of Standard Life's issued share capital, at a price of 839 pence per share, raising aggregate gross sale proceeds of approximately",
+    "link": "https://www.nasdaq.com/articles/aberdeen-announces-result-secondary-placing-standard-life",
+    "pubDate": "Thu, 08 Oct 2026 06:23:07 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Here's 1 of the Best AI Stocks Investors Should Consider Buying in October With $1,000",
+    "desc": "Key PointsAlphabet trades at a forward price-to-earnings ratio of less than 23, despite being one of the highest-quality companies on Earth.",
+    "link": "https://www.nasdaq.com/articles/heres-1-best-ai-stocks-investors-should-consider-buying-october-1000",
+    "pubDate": "Thu, 08 Oct 2026 06:21:00 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "HP Expands Local AI From GB300 AI Workstations To RTX Spark Windows PCs",
+    "desc": "(RTTNews) - HP Inc. (HPQ), a major IT company, said that it has expanded its portfolio of local AI solutions, spanning RTX Spark-powered consumer Windows PCs through workstation-class AI systems powered by NVIDIA GB300.",
+    "link": "https://www.nasdaq.com/articles/hp-expands-local-ai-gb300-ai-workstations-rtx-spark-windows-pcs",
+    "pubDate": "Thu, 08 Oct 2026 06:11:19 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Galderma's Nemluvio Shows Sustained Benefits In Inflammatory Skin Diseases Through 3 Years",
+    "desc": "(RTTNews) - Thursday, Galderma (GALD.SW) presented new three-year data from the ARCADIA long-term extension study showing sustained improvements with Nemluvio (nemolizumab) in patients with atopic dermatitis (AD).",
+    "link": "https://www.nasdaq.com/articles/galdermas-nemluvio-shows-sustained-benefits-inflammatory-skin-diseases-through-3-years",
+    "pubDate": "Thu, 08 Oct 2026 05:46:57 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Hydro One Submits C$37 Bln 5-Year Investment Plan To Ontario Energy Board",
+    "desc": "(RTTNews) - Hydro One Limited (H.TO), an electricity transmission and distribution company, said its unit Hydro One Networks Inc. has submitted its 2028-2032 Joint Rate Application to the Ontario Energy Board, proposing an approximately C$37 billion five-year investment plan.",
+    "link": "https://www.nasdaq.com/articles/hydro-one-submits-c-37-bln-5-year-investment-plan-ontario-energy-board",
+    "pubDate": "Thu, 08 Oct 2026 05:44:34 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Shares Seen Lower At Open",
+    "desc": "(RTTNews) - European stocks may drift lower at open on Thursday, with technology stocks likely to be in focus after the Wall Street Journal reported that SpaceX, Broadcom and Oracle were looking to raise money to buy AI chips, leaving investors worried about whether the expected",
+    "link": "https://www.nasdaq.com/articles/european-shares-seen-lower-open",
+    "pubDate": "Thu, 08 Oct 2026 05:34:15 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Amazon Reportedly Cuts Around 1,000 Jobs In Retail, Stores",
+    "desc": "(RTTNews) - E-commerce major Amazon.com, Inc. (AMZN) has implemented further job cuts affecting around 1,000 white-collar workers globally, primarily across its retail and Stores business units, media reported.",
+    "link": "https://www.nasdaq.com/articles/amazon-reportedly-cuts-around-1000-jobs-retail-stores",
+    "pubDate": "Thu, 08 Oct 2026 05:29:17 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Live Nation Prices $730 Mln, €600 Mln Senior Notes At 100% To Refinance 2027 Debt",
+    "desc": "(RTTNews) - Live Nation Entertainment, Inc. (LYV), an entertainment and e-commerce company, on Wednesday announced that it has priced a private offering of $730 million in aggregate principal amount of 7.125% senior notes due 2032 and &euro;600 million of 6.125% senior notes due 2032.",
+    "link": "https://www.nasdaq.com/articles/live-nation-prices-730-mln-eu600-mln-senior-notes-100-refinance-2027-debt",
+    "pubDate": "Thu, 08 Oct 2026 05:16:55 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "General Dynamics Promotes President Danny Deep To CEO",
+    "desc": "(RTTNews) - General Dynamics Corporation (GD), an aerospace and defense company, Wednesday announced that it has appointed its President Danny Deep to be Chief Executive Officer of the company, effective January 1, 2027.",
+    "link": "https://www.nasdaq.com/articles/general-dynamics-promotes-president-danny-deep-ceo",
+    "pubDate": "Thu, 08 Oct 2026 05:12:04 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Pfizer's TUKYSA Gets FDA Nod For Front-Line HER2+ Breast Cancer Maintenance",
+    "desc": "(RTTNews) - Pfizer Inc. (PFE) announced that the U.S. Food and Drug Administration (FDA) approved TUKYSA in combination with trastuzumab and pertuzumab for maintenance treatment of adults with unresectable, locally advanced, or metastatic human epidermal growth factor 2-positive",
+    "link": "https://www.nasdaq.com/articles/pfizers-tukysa-gets-fda-nod-front-line-her2-breast-cancer-maintenance",
+    "pubDate": "Thu, 08 Oct 2026 05:01:27 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Glaukos' Epioxa Shows Durable Three-Year Results In Keratoconus",
+    "desc": "(RTTNews) - Glaukos Corp. (GKOS) on Wednesday reported three-year results from a Phase 3 extension study evaluating Epioxa, its epithelium-on corneal cross-linking therapy for keratoconus.",
+    "link": "https://www.nasdaq.com/articles/glaukos-epioxa-shows-durable-three-year-results-keratoconus",
+    "pubDate": "Thu, 08 Oct 2026 05:00:49 +0000",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is One MobiKwik Systems stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-one-mobikwik-systems-stock-sliding-today-93CH-4937959",
+    "pubDate": "2026-10-08 06:29:42",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Tencent stock falling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-tencent-stock-falling-today-93CH-4937958",
+    "pubDate": "2026-10-08 06:29:39",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Daimler Truck Q3 sales climb 26% on North America rebound; EVs slide",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/daimler-truck-q3-sales-climb-26-on-north-america-rebound-evs-slide-4937954",
+    "pubDate": "2026-10-08 06:25:13",
+    "fetchedAt": "2026-10-08T07:04:44.496Z"
+  },
+  {
+    "source": "cnbc",
     "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
     "desc": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
     "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
@@ -6069,334 +6397,6 @@
     "desc": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap (CAKE) has long &#8230; Continued The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this.",
     "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
     "pubDate": "Wed, 07 Oct 2026 14:13:19 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Hedera Hashgraph &#8230; Continued The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:18 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a &#8230; Continued The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/algorand-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:18 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8230; Continued The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:17 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a &#8230; Continued The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:16 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a &#8230; Continued The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:15 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a &#8230; Continued The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/polkadot-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:14 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
-    "desc": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been &#8230; Continued The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/filecoin-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:13 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Comex Gold, Silver Settle Lower",
-    "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-    "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "DeepSeek Won't Sink U.S. AI Titans",
-    "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Financial Services Roundup: Market Talk",
-    "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-    "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
-    "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
-    "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
-    "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Natural Gas Falls on Shifting Weather Forecasts",
-    "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
-    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
-    "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
-    "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
-    "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
-    "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What's New This Tax Season That Can Save You Money",
-    "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
-    "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Chinese Investors With Few Options Turn to Dividends",
-    "desc": "Companies with good payouts are now the hottest bet in China markets.",
-    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
-    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
-    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
-    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
-    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
-    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
-    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Heard on the Street's Stock-Picking Series",
-    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
-    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
-    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
-    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
-    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
-    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
-    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
-    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "wsj",
-    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
-    "desc": "The story of home affordability in the U.S. told from a single front porch.",
-    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Qualcomm vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsQualcomm maintains a strong presence in the global smartphone market while successfully expanding its reach into artificial intelligence and automotive sectors.",
-    "link": "https://www.nasdaq.com/articles/qualcomm-vs-taiwan-semiconductor-manufacturing-which-technology-stock-better-buy-2026",
-    "pubDate": "Wed, 07 Oct 2026 14:40:01 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CFG February 2027 Options Begin Trading",
-    "desc": "Investors in Citizens Financial Group Inc (Symbol: CFG) saw new options become available today, for the February 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 135 days until expiration the newly ava",
-    "link": "https://www.nasdaq.com/articles/cfg-february-2027-options-begin-trading",
-    "pubDate": "Wed, 07 Oct 2026 14:38:54 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "December 18th Options Now Available For Frontline (FRO)",
-    "desc": "Investors in Frontline plc (Symbol: FRO) saw new options begin trading today, for the December 18th expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 72 days until expiration the newly trading contracts repr",
-    "link": "https://www.nasdaq.com/articles/december-18th-options-now-available-frontline-fro",
-    "pubDate": "Wed, 07 Oct 2026 14:38:51 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "March 2027 Options Now Available For Huntington Bancshares (HBAN)",
-    "desc": "Investors in Huntington Bancshares Inc (Symbol: HBAN) saw new options become available today, for the March 2027 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 163 days until expiration the newly ava",
-    "link": "https://www.nasdaq.com/articles/march-2027-options-now-available-huntington-bancshares-hban",
-    "pubDate": "Wed, 07 Oct 2026 14:38:38 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nike's Dividend Yield Surges to a Record 4.8%. Is the Dow Component the Ultimate Turnaround Dividend Stock or a Yield Trap?",
-    "desc": "Key PointsEven Nike&rsquo;s iconic Jordan brand is seeing double-digit sales declines.",
-    "link": "https://www.nasdaq.com/articles/nikes-dividend-yield-surges-record-48-dow-component-ultimate-turnaround-dividend-stock-or",
-    "pubDate": "Wed, 07 Oct 2026 14:35:00 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "McDonald's Has Fallen More Than 30% From Its Peak Before. Here's What History Says Happens Next.",
-    "desc": "Key PointsMcDonald's stock has fallen more than 30% from its peak twice before, in 2003 and 2015, and both times it more than doubled within a couple of years of committing to a real turnaround.",
-    "link": "https://www.nasdaq.com/articles/mcdonalds-has-fallen-more-30-its-peak-heres-what-history-says-happens-next",
-    "pubDate": "Wed, 07 Oct 2026 14:35:00 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wednesday 10/7 Insider Buying Report: PSUS, NXH",
-    "desc": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. On Tuesday, Pershing Square's Chief Investment Officer, Ryan Israel, made a $9.62M",
-    "link": "https://www.nasdaq.com/articles/wednesday-10-7-insider-buying-report-psus-nxh",
-    "pubDate": "Wed, 07 Oct 2026 14:34:21 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Aperture AC Names Leo Lin CEO Of Atlantic, Succeeding Jacqueline Jiang",
-    "desc": "(RTTNews) - On Wednesday, Aperture AC (APUR), a special purpose acquisition company, and Atlantic HPC Group Inc., a U.S.-based digital infrastructure company, announced that Leo Lin has been appointed CEO of Atlantic, effective October 1, 2026.",
-    "link": "https://www.nasdaq.com/articles/aperture-ac-names-leo-lin-ceo-atlantic-succeeding-jacqueline-jiang",
-    "pubDate": "Wed, 07 Oct 2026 14:28:30 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nasdaq 100 Movers: ALAB, HONIV",
-    "desc": "In early trading on Wednesday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Nasdaq 100 component thus f",
-    "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-alab-honiv-0",
-    "pubDate": "Wed, 07 Oct 2026 14:25:04 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Billionaire Bill Ackman Has 11% of His Hedge Fund in Visa and Mastercard. 3 Reasons Why the Famed Investor Is Bullish on These S&P 500 Stocks",
-    "desc": "Key PointsVisa and Mastercard possess network effects, sizable growth runways, and incredible financials.",
-    "link": "https://www.nasdaq.com/articles/billionaire-bill-ackman-has-11-his-hedge-fund-visa-and-mastercard-3-reasons-why-famed",
-    "pubDate": "Wed, 07 Oct 2026 14:20:00 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "S&P 500 Movers: COHR, HONIV",
-    "desc": "In early trading on Wednesday, shares of Honeywell International topped the list of the day's best performing components of the S&amp;P 500 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing S&amp;P 500 component thus",
-    "link": "https://www.nasdaq.com/articles/sp-500-movers-cohr-honiv-1",
-    "pubDate": "Wed, 07 Oct 2026 14:19:54 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dow Movers: CAT, HONIV",
-    "desc": "In early trading on Wednesday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Dow component thus far",
-    "link": "https://www.nasdaq.com/articles/dow-movers-cat-honiv",
-    "pubDate": "Wed, 07 Oct 2026 14:19:02 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Ex-Div Reminder for Ennis (EBF)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/9/26, Ennis Inc (Symbol: EBF) will trade ex-dividend, for its quarterly dividend of $0.2625, payable on 11/6/26. As a percentage of EBF's recent stock price of $22.39, this dividend works out to approximately",
-    "link": "https://www.nasdaq.com/articles/ex-div-reminder-ennis-ebf",
-    "pubDate": "Wed, 07 Oct 2026 14:16:46 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cash Dividend On The Way From General Dynamics (GD)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/9/26, General Dynamics Corp (Symbol: GD) will trade ex-dividend, for its quarterly dividend of $1.59, payable on 11/13/26. As a percentage of GD's recent stock price of $330.29, this dividend works out to app",
-    "link": "https://www.nasdaq.com/articles/cash-dividend-way-general-dynamics-gd",
-    "pubDate": "Wed, 07 Oct 2026 14:16:08 +0000",
-    "fetchedAt": "2026-10-07T15:01:53.460Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Ex-Div Reminder for American Express (AXP)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/9/26, American Express Co. (Symbol: AXP) will trade ex-dividend, for its quarterly dividend of $0.95, payable on 11/10/26. As a percentage of AXP's recent stock price of $300.54, this dividend works out to ap",
-    "link": "https://www.nasdaq.com/articles/ex-div-reminder-american-express-axp",
-    "pubDate": "Wed, 07 Oct 2026 14:16:03 +0000",
     "fetchedAt": "2026-10-07T15:01:53.460Z"
   }
 ]
