@@ -1,6 +1,758 @@
 [
   {
     "source": "cnbc",
+    "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+    "desc": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+    "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+    "pubDate": "Thu, 08 Oct 2026 20:56:52 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+    "desc": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
+    "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+    "pubDate": "Thu, 08 Oct 2026 20:06:31 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
+    "desc": "Major League Baseball proposed a return to a shorter 154-game regular season schedule as it attempts to convince players to approve a salary cap.",
+    "link": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
+    "pubDate": "Thu, 08 Oct 2026 20:16:21 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Costco's sales resilience is giving Cramer a reason to feel better about the stock",
+    "desc": "Jim Cramer is feeling better about the wholesaler following its September report",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/costco-sales-resilience-is-giving-cramer-a-reason-to-feel-better-about-the-stock.html",
+    "pubDate": "Thu, 08 Oct 2026 19:51:47 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The AI telling farmers when to harvest",
+    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The start-ups hoping to return battery making to the US",
+    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Spain battles climate change on several fronts",
+    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "bbc",
+    "title": "My hometown shows that high streets have to change or die",
+    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "After-Hours Movers: T, VZ, TMUS, SPCX, HUM, ALHC, CVS, CLOV, UNH, AXP",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-t-vz-tmus-spcx-hum-alhc-cvs-clov-unh-axp-432SI-4939818",
+    "pubDate": "2026-10-08 20:53:02",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Raymond James initiates Odyssey Therapeutics stock coverage with outperform rating",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-initiates-odyssey-therapeutics-stock-coverage-with-outperform-rating-93CH-4939820",
+    "pubDate": "2026-10-08 20:52:54",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Palisade Bio stock initiated at Outperform by Raymond James",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/palisade-bio-stock-initiated-at-outperform-by-raymond-james-93CH-4939819",
+    "pubDate": "2026-10-08 20:52:39",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
+    "pubDate": "2026-10-08 20:48:20",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Raymond James reiterates Liquidia stock rating amid legal filings",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-liquidia-stock-rating-amid-legal-filings-93CH-4939814",
+    "pubDate": "2026-10-08 20:46:45",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oklo general counsel sells $10,739 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/oklo-general-counsel-sells-10739-in-stock-93CH-4939811",
+    "pubDate": "2026-10-08 20:45:51",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Humana soars, Alignment Healthcare on Medicare rating changes",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/humana-soars-alignment-healthcare-on-medicare-rating-changes-4939804",
+    "pubDate": "2026-10-08 20:42:45",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Calix stock jumps 5% on $100M buyback program expansion",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
+    "pubDate": "2026-10-08 20:36:22",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil-Dri shares move higher on record quarterly revenue",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/oildri-shares-move-higher-on-record-quarterly-revenue-93CH-4939794",
+    "pubDate": "2026-10-08 20:35:59",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Worse than taking away your parents&#x2019; car keys? Taking away their cell phone. How to protect your aging parents.",
+    "desc": "Parental controls aren&#x2019;t just for kids anymore",
+    "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 20:55:00 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "A big AI super PAC tried to follow crypto&#x2019;s playbook to influence the midterms. Critics say it&#x2019;s not working out.",
+    "desc": "The political action committee says it&#x2019;s &#x201c;continuing to build a durable coalition that wants America to remain the global leader in AI development.&#x201d;",
+    "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 20:44:00 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Should I put my nest egg in a 30-year Treasury bond?",
+    "desc": "Risk comes in many forms, even with &#x201c;safe&#x201d; investments.",
+    "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 20:32:00 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "With mortgage rates soaring above 7.5%, the smart money rents in America",
+    "desc": "If buying a home right now is such a great idea, why doesn&#x2019;t Wall Street want to do it?",
+    "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 20:30:00 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "These decisions you make in your 20s &#x2014; not your income &#x2014; determine whether you&#x2019;ll spend decades in debt or retire comfortably",
+    "desc": "Don&#x2019;t just focus on stock picks when you&#x2019;re thinking of building retirement wealth",
+    "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 20:25:00 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "ft",
+    "title": "Repeated US Treasury interventions risk an erosion of credibility",
+    "desc": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
+    "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 14:30:04 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "ft",
+    "title": "Microsoft banned from sponsoring foreign workers for US residency",
+    "desc": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
+    "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 19:45:47 GMT",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "MaxLinear tumbles 13% after extended run",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651591-maxlinear-tumbles-13-after-extended-run?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:57:23 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Pacira BioSciences jumps 44% on Viatris acquisition deal",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651590-pacira-biosciences-jumps-44-percent-on-viatris-acquisition-deal?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:51:55 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Kopin receives additional $18.6M U.S. Army contract",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651589-kopin-receives-additional-186m-us-army-contract?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:46:22 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Bitdeer AI enters 8-year data center services pact for A103 facility",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651588-bitdeer-ai-enters-8-year-data-center-services-pact-for-a103-facility?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:44:51 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Weatherford wins Equinor offshore completions award, extends frame agreements",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651587-weatherford-wins-equinor-offshore-completions-award-extends-frame-agreements?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:42:38 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Shell partially restarts Pearl gas-to-liquids plant in Qatar after attacks",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651574-shell-partially-restarts-pearl-gas-to-liquids-plant-in-qatar-after-attacks?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:32:47 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Glassmaker Encirc selects Powerfleet's Unity Portfolio to strengthen on-site safety",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651575-glassmaker-encirc-selects-powerfleets-unity-portfolio-to-strengthen-on-site-safety?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 16:32:14 -0400",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a &#8230; Continued The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/algorand-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:36 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Hedera Hashgraph &#8230; Continued The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:35 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8230; Continued The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:34 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a &#8230; Continued The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:34 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a &#8230; Continued The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:33 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a &#8230; Continued The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/polkadot-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:30 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+    "desc": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been &#8230; Continued The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/filecoin-price-prediction",
+    "pubDate": "Thu, 08 Oct 2026 14:14:29 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Equities Mixed at Close as Crude Rallies",
+    "desc": "(Updates with market moves at the end of the day, and other changes, if any.) US benchmark equity",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-close-crude-rallies-204216817.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:42:16 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How major US stock indexes fared Thursday 10/8/2026",
+    "desc": "Some sharp reversals kept financial markets unsteady, as oil prices rose and U.5% Thursday, its second straight loss after setting an all-time high.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202004175.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:20:04 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "RoboStrategy to Host Robotics Founders Forum and Ring the Nasdaq Closing Bell with Dyna Robotics Humanoid on October 13",
+    "desc": "Founders from RoboStrategy’s private portfolio companies will gather in New York City for an afternoon of candid discussions, 1-1 interviews, and live robot interactions RoboStrategy CEO Andrew Kang will ring the Nasdaq Closing Bell alongside Dyna Robotics’ Taku NEW YORK, Oct. 08, 2026 (GLOBE NEWSWIRE) -- RoboStrategy, Inc. (Nasdaq: BOT), a registered closed end fund providing exposure to private companies in robotics and physical AI, today announced it will host a robotics founders forum on Tue",
+    "link": "https://finance.yahoo.com/technology/ai/articles/robostrategy-host-robotics-founders-forum-200500795.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:05:00 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Market Storylines: Oil Swings, Rising Global Yields, AI Selloff + Earnings Ahead",
+    "desc": "Michael Reinking, Senior Market Strategist at the NYSE, reviews a volatile week as the S&P 500 hit a record Tuesday before rising oil and global yields weighed on stocks. Oil swung over 5% on Strait of Hormuz attacks before easing after President Trump said no Iran strike would come before the midterms. A sharp selloff in AI stocks late Thursday sent the ICE semi index down ~4% and lifted the equal-weight S&P 500 ahead of its cap-weighted peer. Friday’s soft jobs report was read as goldilocks, while FOMC minutes showed broad support for September’s hike. Looking ahead, inflation data, retail sales and the start of bank earnings take center stage next week.",
+    "link": "https://finance.yahoo.com/video/market-storylines-oil-swings-rising-195316677.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:53:16 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Nasdaq Slumps On AI Revenue Fears; Nvidia Slides As Chevron Gains",
+    "desc": "The Dow Jones index declines Thursday after Trump's latest Iran comments. Treasury yields and oil prices surge.",
+    "link": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:49:19 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Where Could Walmart's Next Growth Come From?",
+    "desc": "Walmart (WMT) stock currently trades at 39.0 times earnings, well above the 21.5 multiple for the S&P 500. Investors typically assign that kind of premium to rapid growth, yet Walmart reported a modest 5.9% revenue increase in its latest quarter. This valuation suggests the market expects profit to outpace sales by a wide margin, and selling more groceries alone may not be enough to justify it. So what does Walmart have that can grow faster than its stores.",
+    "link": "https://www.trefis.com/articles/617950/where-could-walmarts-next-growth-come-from/2026-10-08?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:34:16 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Should You Buy Airbnb Stock For Its Cash?",
+    "desc": "Over the last twelve months, Airbnb (ABNB) generated free cash flow equal to 5.1% of its market value, outpacing the 4.5% median for companies in the S&P 500. A yield above the typical company's can send a mixed signal. It suggests either the stock is undervalued relative to the cash it generates, or investors anticipate a shrinking business. So what would you actually own if you bought Airbnb for its cash.",
+    "link": "https://www.trefis.com/articles/617936/should-you-buy-airbnb-stock-for-its-cash/2026-10-08?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:25:06 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names.",
+    "desc": "OpenAI told investors its annualized revenue hit about $50 billion at the end of September, lower than the $68 billion reported last month.",
+    "link": "https://www.ibtimes.com/openais-revenue-was-lower-previously-reported-stocks-dropped-dragged-ai-names-3808393?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:21:29 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Is Procter & Gamble Stock's Biggest Opportunity?",
+    "desc": "Procter & Gamble (PG) stock has returned 1.2% over the past twelve months, compared to 17.1% for the S&P 500. Revenue grew a modest 1.5% in the latest quarter from a year earlier. Yet on its July 29, 2026 earnings call, management put a specific dollar figure on the growth it still sees ahead. So where does P&G expect to find that growth.",
+    "link": "https://www.trefis.com/articles/617953/what-is-procter-gamble-stocks-biggest-opportunity/2026-10-08?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 20:08:10 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+    "desc": "Energy stocks were higher late Thursday afternoon, with the NYSE Energy Sector Index rising 3% and t",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195732427.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 19:57:32 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Comex Gold, Silver Settle Lower",
+    "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Financial Services Roundup: Market Talk",
+    "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+    "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+    "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+    "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+    "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Natural Gas Falls on Shifting Weather Forecasts",
+    "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+    "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+    "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+    "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+    "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "What's New This Tax Season That Can Save You Money",
+    "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+    "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Chinese Investors With Few Options Turn to Dividends",
+    "desc": "Companies with good payouts are now the hottest bet in China markets.",
+    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Heard on the Street's Stock-Picking Series",
+    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
+    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
+    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
+    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
+    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "wsj",
+    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+    "desc": "The story of home affordability in the U.S. told from a single front porch.",
+    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Interactive Brokers Group Moves Up In Market Cap Rank, Passing Prudential Financial",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Interactive Brokers Group Inc - Class A (Symbol: IBKR) has taken over the #263 spot from Prudential Financial Inc (Symbol: PRU), according to The Online Investor. Mar",
+    "link": "https://www.nasdaq.com/articles/interactive-brokers-group-moves-market-cap-rank-passing-prudential-financial",
+    "pubDate": "Thu, 08 Oct 2026 20:43:47 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Williams Sonoma Moves Up In Market Cap Rank, Passing Halliburton",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Williams Sonoma Inc (Symbol: WSM) has taken over the #316 spot from Halliburton Company (Symbol: HAL), according to The Online Investor. Market capitalization is an i",
+    "link": "https://www.nasdaq.com/articles/williams-sonoma-moves-market-cap-rank-passing-halliburton",
+    "pubDate": "Thu, 08 Oct 2026 20:42:54 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Oversold Conditions For Unicredito Italiano (UNCFF)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/oversold-conditions-unicredito-italiano-uncff",
+    "pubDate": "Thu, 08 Oct 2026 20:42:36 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BridgeBio Pharma Becomes Oversold (BBIO)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/bridgebio-pharma-becomes-oversold-bbio",
+    "pubDate": "Thu, 08 Oct 2026 20:41:51 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Noah Holdings is Now Oversold (NOAH)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/noah-holdings-now-oversold-noah",
+    "pubDate": "Thu, 08 Oct 2026 20:41:47 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Cardinal Infrastructure Group is Now Oversold (CDNL)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/cardinal-infrastructure-group-now-oversold-cdnl",
+    "pubDate": "Thu, 08 Oct 2026 20:41:43 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Stevanato Group is Now Oversold (STVN)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/stevanato-group-now-oversold-stvn",
+    "pubDate": "Thu, 08 Oct 2026 20:41:34 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Qnity Electronics Now #314 Largest Company, Surpassing Dollar General",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Qnity Electronics Inc (Symbol: Q) has taken over the #314 spot from Dollar General Corp (Symbol: DG), according to The Online Investor. Market capitalization is an im",
+    "link": "https://www.nasdaq.com/articles/qnity-electronics-now-314-largest-company-surpassing-dollar-general",
+    "pubDate": "Thu, 08 Oct 2026 20:41:27 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Cardinal Health Takes Over #213 Spot From Realty Income",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Cardinal Health, Inc. (Symbol: CAH) has taken over the #213 spot from Realty Income Corp (Symbol: O), according to The Online Investor. Market capitalization is an im",
+    "link": "https://www.nasdaq.com/articles/cardinal-health-takes-over-213-spot-realty-income",
+    "pubDate": "Thu, 08 Oct 2026 20:41:17 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Marathon Petroleum Moves Up In Market Cap Rank, Passing Bristol Myers Squibb",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Marathon Petroleum Corp. (Symbol: MPC) has taken over the #89 spot from Bristol Myers Squibb Co. (Symbol: BMY), according to The Online Investor. Market capitalizatio",
+    "link": "https://www.nasdaq.com/articles/marathon-petroleum-moves-market-cap-rank-passing-bristol-myers-squibb",
+    "pubDate": "Thu, 08 Oct 2026 20:41:16 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "US Bancorp Now #129 Largest Company, Surpassing Robinhood Markets",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, US Bancorp (Symbol: USB) has taken over the #129 spot from Robinhood Markets Inc (Symbol: HOOD), according to The Online Investor. Market capitalization is an importa",
+    "link": "https://www.nasdaq.com/articles/us-bancorp-now-129-largest-company-surpassing-robinhood-markets",
+    "pubDate": "Thu, 08 Oct 2026 20:40:18 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Park Aerospace Corp. Reveals Advance In Q2 Profit",
+    "desc": "(RTTNews) - Park Aerospace Corp. (PKE) reported earnings for its second quarter that Increased, from last year",
+    "link": "https://www.nasdaq.com/articles/park-aerospace-corp-reveals-advance-q2-profit",
+    "pubDate": "Thu, 08 Oct 2026 20:35:13 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Marvell Stock Rocketed Higher Last Month",
+    "desc": "Key PointsMarvell CEO Matt Murphy said last month that his company is the \"Switzerland\" of the semiconductor industry because it works with everybody.",
+    "link": "https://www.nasdaq.com/articles/why-marvell-stock-rocketed-higher-last-month",
+    "pubDate": "Thu, 08 Oct 2026 20:33:52 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "CQQQ Crosses Critical Technical Indicator",
+    "desc": "In trading on Thursday, shares of the Invesco China Technology ETF (Symbol: CQQQ) entered into oversold territory, changing hands as low as $42.91 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to",
+    "link": "https://www.nasdaq.com/articles/cqqq-crosses-critical-technical-indicator-0",
+    "pubDate": "Thu, 08 Oct 2026 20:29:13 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Amplify Seymour Cannabis Getting Very Oversold",
+    "desc": "In trading on Thursday, shares of the Amplify Seymour Cannabis ETF (Symbol: CNBS) entered into oversold territory, changing hands as low as $24.41 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to",
+    "link": "https://www.nasdaq.com/articles/amplify-seymour-cannabis-getting-very-oversold",
+    "pubDate": "Thu, 08 Oct 2026 20:29:03 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘Lipstick on a pig’: Trump’s red-dyed diesel plan is more midterms appeal than gas price solution, experts say—and even truckers are calling his bluff",
+    "desc": "As the Iran war keeps diesel prices above $6 per gallon, analysts say the only way to lower costs is to ease geopolitical tensions.",
+    "link": "https://fortune.com/2026/10/08/trump-red-dyed-diesel-midterm-elections-gas-prices-iran-war/",
+    "pubDate": "Thu, 08 Oct 2026 16:42:55 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Trump presents national medal to Microsoft CEO after suspending its H-1B visas and alleging &#8216;foreign indentured servants&#8217; replaced domestic workers",
+    "desc": "Of the six tech leaders who received an award for scientific and technological achievement from the president, five came from abroad.",
+    "link": "https://fortune.com/2026/10/08/trump-national-medal-microsoft-ceo-visas-foreign/",
+    "pubDate": "Thu, 08 Oct 2026 20:13:52 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "fortune",
+    "title": "NFL urges Supreme Court to back state gambling rules—breaking with other leagues on prediction markets",
+    "desc": "The league wants clarity “before another NFL season goes by” to preserve game integrity.",
+    "link": "https://fortune.com/2026/10/08/nfl-supreme-court-state-gambling-rules-leagues-prediction-markets/",
+    "pubDate": "Thu, 08 Oct 2026 20:12:56 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Trump admin suspends green cards to Microsoft as Vance accuses the company of replacing laid-off workers with ‘foreign indentured servants’",
+    "desc": "Such programs have frequently been targeted by some Trump supporters who argue they undercut American students and workers.",
+    "link": "https://fortune.com/2026/10/08/trump-admin-green-card-microsoft-domestic-workers/",
+    "pubDate": "Thu, 08 Oct 2026 20:09:41 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "fortune",
+    "title": "FBI says it seized phishing tools used by Chinese hackers in &#8216;indiscriminate and reckless&#8217; cyber operation",
+    "desc": "The latest operation has rendered the tools inoperable in what FBI and Justice Department officials said was a blow to the hacking operation.",
+    "link": "https://fortune.com/2026/10/08/fbi-seized-phishing-microscan-fishhub-chinese-hackers/",
+    "pubDate": "Thu, 08 Oct 2026 19:48:03 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "fortune",
+    "title": "&#8216;We don’t feel good&#8217;: PepsiCo plans price hike on Doritos, Ruffles, SunChips and sodas after offsetting costs with $178 million tariff refund",
+    "desc": "Yet there are risks for U.S. companies that raise prices in the current economic environment, with so many American households already stretched financially.",
+    "link": "https://fortune.com/2026/10/08/pepsico-price-hike-doritos-ruffles-sodas-178-million-tariff-refund/",
+    "pubDate": "Thu, 08 Oct 2026 19:42:09 +0000",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Telecom stocks tumble on SpaceX spectrum acquisition news",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/telecom-stocks-tumble-on-spacex-spectrum-acquisition-news-4939776",
+    "pubDate": "2026-10-08 20:33:24",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.10%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
+    "pubDate": "2026-10-08 20:31:01",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "SpaceX to acquire spectrum that enables Starlink Mobile services",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
+    "pubDate": "2026-10-08 20:30:34",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.30%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
+    "pubDate": "2026-10-08 20:30:31",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Brazil stocks higher at close of trade; Bovespa up 0.94%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-094-4939777",
+    "pubDate": "2026-10-08 20:30:04",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Coca-Cola looks to sell Costa Coffee, Semafor reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/cocacola-looks-to-sell-costa-coffee-semafor-reports-4939724",
+    "pubDate": "2026-10-08 20:24:52",
+    "fetchedAt": "2026-10-08T21:01:32.897Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Treasury yields are 'really, really high,' but can come down soon, Bessent's new adviser says",
     "desc": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
     "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
@@ -5646,757 +6398,5 @@
     "link": "https://www.investing.com/news/earnings/applied-digital-posts-topline-beat-in-q1-amid-data-center-growth-4937518",
     "pubDate": "2026-10-08 09:52:34",
     "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wells Fargo raises Applied Digital stock price target on execution",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-applied-digital-stock-price-target-on-execution-93CH-4938288",
-    "pubDate": "2026-10-08 09:51:00",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wells Fargo cuts Levi Strauss stock price target on revenue miss",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-levi-strauss-stock-price-target-on-revenue-miss-93CH-4938286",
-    "pubDate": "2026-10-08 09:50:55",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wells Fargo cuts BlackRock stock price target on lower earnings outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-blackrock-stock-price-target-on-lower-earnings-outlook-93CH-4938287",
-    "pubDate": "2026-10-08 09:50:55",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investing",
-    "title": "BofA cuts Levi Strauss stock price target on choppy DTC performance",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-levi-strauss-stock-price-target-on-choppy-dtc-performance-93CH-4938284",
-    "pubDate": "2026-10-08 09:44:56",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: Tesco H1 2026 profit growth lifts shares 4.6%",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesco-h1-2026-profit-growth-lifts-shares-46-93CH-4938283",
-    "pubDate": "2026-10-08 09:44:48",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Samsung just did something no tech company has ever done, and investors still aren&#x2019;t satisfied",
-    "desc": "Since the stock peaked in June, Samsung shareholders have been unimpressed with record profits and shareholder return programs.",
-    "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
-    "pubDate": "Thu, 08 Oct 2026 09:50:00 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
-    "desc": "The S&P 500 moves on days oil prices have gained 3% may come as a surprise.",
-    "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
-    "pubDate": "Thu, 08 Oct 2026 09:33:00 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "French bonds are suffering through their worst decade since 1803 &#x2014; and investors are bracing for more pain",
-    "desc": "The spread between France&#x2019;s 10-year government bond and Germany&#x2019;s equivalent reached its widest last week in available Bloomberg data, dating back to 1990.",
-    "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-    "pubDate": "Thu, 08 Oct 2026 09:32:00 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "I&#x2019;m a 68-year-old widow. My two adult children keep asking me for money. Are they taking advantage of me?",
-    "desc": "&#x201c;I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.&#x201d;",
-    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-    "pubDate": "Thu, 08 Oct 2026 09:15:00 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Simone Biles and Jonathan Owens find a buyer for $1.2 million Texas home&#x2014;in less than a week",
-    "desc": "Olympic gymnast Simone Biles and her NFL star husband, Jonathan Owens, have landed a buyer for their sprawling Texas property&#x2014;just days after listing the home they resided in while finishing up their custom mansion.",
-    "link": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
-    "pubDate": "Thu, 08 Oct 2026 09:03:00 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "ft",
-    "title": "French bond sell-off prompts ‘bottom fishing’ across Europe",
-    "desc": "Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say",
-    "link": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1",
-    "pubDate": "Thu, 08 Oct 2026 04:00:26 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "ft",
-    "title": "Germany’s ex-spymaster admits holding files but denies treason",
-    "desc": "August Hanning’s lawyer says his client was ‘in possession’ of confidential documents but never paid for them or passed them on to foreign powers",
-    "link": "https://www.ft.com/content/572b899b-0e36-4a90-aadc-776818e339c3?syn-25a6b1a6=1",
-    "pubDate": "Thu, 08 Oct 2026 08:56:16 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "ft",
-    "title": "Back me or face crisis, warns Meloni ahead of secret vote over electoral overhaul",
-    "desc": "Italian prime minister has threatened to resign if wary lawmakers reject her fiercely contested redesign of the country’s voting system in a secret ballot",
-    "link": "https://www.ft.com/content/ba171091-839a-4d78-86af-8e93a7013d6c?syn-25a6b1a6=1",
-    "pubDate": "Thu, 08 Oct 2026 04:00:26 GMT",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AM Markets Need to Know: Trump weighs Iran conflict, AI trade faces reversal, and more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651246-am-markets-need-to-know-trump-weighs-iran-conflict-ai-trade-faces-reversal-and-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:55:41 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BYD puts U.S. passenger-car plans on hold amid geopolitical uncertainty - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651236-byd-puts-us-passenger-car-plans-on-hold-amid-geopolitical-uncertainty---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:53:54 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Seven & i Holdings GAAP EPS of &#xA5;54.25, revenue of &#xA5;5460.27B; reaffirms full-year outlook",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651243-seven-i-holdings-gaap-eps-of-5425-revenue-of-546027b-reaffirms-full-year-outlook?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:24:58 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Fast Retailing GAAP EPS of &#xA5;1765.70, revenue of &#xA5;3963.39B; gives FY2027 outlook",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651242-fast-retailing-gaap-eps-of-176570-revenue-of-396339b-gives-fy2027-outlook?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:22:03 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Year-ahead U.S. inflation expectations hit highest since May 2023",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651241-year-ahead-us-inflation-expectations-hit-highest-since-may-2023?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:20:58 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Financial insider buying hits lowest level in nearly 23 years",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651238-financial-insider-buying-hits-lowest-level-in-nearly-23-years?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:12:48 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Biggest stock movers Thursday: MRVL, APLD, and more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651235-biggest-stock-movers-thursday-mrvl-apld-and-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 05:01:11 -0400",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Venture capital funding just blew past 2025 by 53% — here's why that's good for you",
-    "desc": "The deep bench of private companies has only grown thanks to copious VC investment. That's a pipeline to the future of the stock market, and a reason strategists are bullish.",
-    "link": "https://finance.yahoo.com/markets/article/venture-capital-funding-just-blew-past-2025-by-53--heres-why-thats-good-for-you-100000412.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 10:00:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Jeff Bezos Says He Usually Tells Retired Investors To Buy The Same Thing, And It’s Not Just AI Stocks",
-    "desc": "When Fox News asked Jeff Bezos what a retiree should own in an age of AI hype, his answer surprised the anchor and left a single word doing all the heavy lifting.",
-    "link": "https://247wallst.com/personal-finance/2026/10/08/jeff-bezos-says-he-usually-tells-retired-investors-to-buy-the-same-thing-and-its-not-just-ai-stocks/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 09:43:16 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Industrials Stock with Impressive Fundamentals and 2 We Turn Down",
-    "desc": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the market seems to be baking in a prolonged downturn as the industry has shed 2.6% over the past six months. This performance is a noticeable divergence from the S&P 500’s 15.2% return.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-impressive-fundamentals-092809256.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 09:28:09 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Market May Finally Be Waking Up to Scary Bond Yields",
-    "desc": "Good morning and it’s a chilly one, both in my office and across markets.",
-    "link": "https://finance.yahoo.com/m/4ab0f5b5-b188-34a4-a0aa-200be5cbde80/the-market-may-finally-be.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:12:59 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Best ETF to Buy and Hold for the Next 20 Years",
-    "desc": "Growth investors seeking a long-term portfolio cornerstone should consider the Vanguard Morningstar Growth ETF.",
-    "link": "https://www.fool.com/investing/2026/10/08/best-etf-buy-and-hold-for-next-20-years-vug/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 09:05:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Where Will Ethereum Be in 2030?",
-    "desc": "Key PointsEthereum is planning a series of bold technological upgrades through the year 2030.",
-    "link": "https://www.nasdaq.com/articles/where-will-ethereum-be-2030",
-    "pubDate": "Thu, 08 Oct 2026 09:31:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Is Nvidia, at Bargain Levels Right Now, a Buy? Here Are the Bull and Bear Cases.",
-    "desc": "Key PointsNvidia offers a product that&rsquo;s crucial to the AI story: the AI chip.",
-    "link": "https://www.nasdaq.com/articles/nvidia-bargain-levels-right-now-buy-here-are-bull-and-bear-cases",
-    "pubDate": "Thu, 08 Oct 2026 09:30:02 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Warren Buffett's Biggest Mistake Has Now Cost Berkshire Hathaway Up to $112 Billion (but I Don't Blame Him)",
-    "desc": "Key PointsWarren Buffett retired on Dec. 31, handing the keys to the trillion-dollar conglomerate he built to his prot&eacute;g&eacute;, Greg Abel.",
-    "link": "https://www.nasdaq.com/articles/warren-buffetts-biggest-mistake-has-now-cost-berkshire-hathaway-112-billion-i-dont-blame",
-    "pubDate": "Thu, 08 Oct 2026 09:26:02 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "97 Billion Nvidia Partners Just Got a Strong Buy Endorsement (Hint: It's Not Palantir or Micron)",
-    "desc": "Key PointsSynopsys's chip design software is becoming essential as AI makes chips more complex, fueling the company's growth.",
-    "link": "https://www.nasdaq.com/articles/97-billion-nvidia-partners-just-got-strong-buy-endorsement-hint-its-not-palantir-or-micron",
-    "pubDate": "Thu, 08 Oct 2026 09:25:50 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should You Buy SpaceX Stock In October?",
-    "desc": "Key PointsElon Musk's space industrial giant is growing at a rapid clip as it tries to dominate both the space and AI opportunities.",
-    "link": "https://www.nasdaq.com/articles/should-you-buy-spacex-stock-october-0",
-    "pubDate": "Thu, 08 Oct 2026 09:20:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tesla Delivered 486,532 Vehicles in Q3. Here's the Margin Math That Will Decide the Earnings Reaction.",
-    "desc": "Key PointsThe EV maker&rsquo;s total deliveries saw a slight sequential improvement over Q2&rsquo;s number.",
-    "link": "https://www.nasdaq.com/articles/tesla-delivered-486532-vehicles-q3-heres-margin-math-will-decide-earnings-reaction",
-    "pubDate": "Thu, 08 Oct 2026 09:17:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Finally, Ford Is Free of the Overhang That Caused It to Lose Billions",
-    "desc": "Key PointsFord has officially recovered from a supplier fire that drastically hindered the automaker's ability to get aluminum sheeting.",
-    "link": "https://www.nasdaq.com/articles/finally-ford-free-overhang-caused-it-lose-billions",
-    "pubDate": "Thu, 08 Oct 2026 08:50:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Taiwan Semiconductor Manufacturing Could Have Big News on Oct. 15",
-    "desc": "Key PointsTSMC is the only chip foundry capable of producing the high-processing power chips its clients need at scale.",
-    "link": "https://www.nasdaq.com/articles/taiwan-semiconductor-manufacturing-could-have-big-news-oct-15",
-    "pubDate": "Thu, 08 Oct 2026 08:45:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Want to fix the broken university model in the age of AI? Look to tradition",
-    "desc": "Colleges should stop policing AI use and start testing whether students can defend their reasoning.",
-    "link": "https://fortune.com/2026/10/08/is-college-worth-it-higher-education/",
-    "pubDate": "Thu, 08 Oct 2026 09:00:00 +0000",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Drones hit Yandex site in first major attack on Russian data hub",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/drones-hit-yandex-data-centre-in-first-major-attack-on-russian-data-hub-4937966",
-    "pubDate": "2026-10-08 09:42:22",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Bernstein upgrades Continental on post-deal valuation discount to peers",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bernstein-upgrades-continental-on-postdeal-valuation-discount-to-peers-4938275",
-    "pubDate": "2026-10-08 09:38:55",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Mycelx Technologies stock plunges 22% after revenue warning",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/mycelx-technologies-stock-plunges-22-after-revenue-warning-4938273",
-    "pubDate": "2026-10-08 09:35:47",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "+61% upside: Profits are surging for this AI-picked asset manager at 52-week lows",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/61-upside-profits-are-surging-for-this-aipicked-asset-manager-at-52week-lows-4938269",
-    "pubDate": "2026-10-08 09:32:42",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "JPMorgan sees strong Q3 for EU oil and gas, favors these major stocks",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-sees-strong-q3-for-eu-oil-and-gas-favors-these-major-stocks-4938263",
-    "pubDate": "2026-10-08 09:29:39",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Citi sees balanced battery market downcycle with selective picks",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/citi-sees-balanced-battery-market-downcycle-with-selective-picks-93CH-4938262",
-    "pubDate": "2026-10-08 09:25:48",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Pfizer to cut around 330 jobs in Italy, unions say",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/pfizer-to-cut-around-330-jobs-in-italy-unions-say-4938254",
-    "pubDate": "2026-10-08 09:18:23",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Truist sees marine industry challenges at boat trade show",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/truist-sees-marine-industry-challenges-at-boat-trade-show-93CH-4938253",
-    "pubDate": "2026-10-08 09:18:01",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Campari chairman faces trial request over alleged €1.29 bln tax evasion - report",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/campari-chairman-faces-trial-request-over-alleged-129-bln-tax-evasion--report-93CH-4938244",
-    "pubDate": "2026-10-08 09:16:04",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Xerox stock dropping 2% today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-xerox-stock-dropping-2-today-93CH-4938243",
-    "pubDate": "2026-10-08 09:15:36",
-    "fetchedAt": "2026-10-08T10:01:35.526Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-    "desc": "Russian internet giant Yandex paused operations inside one of its data centers after a drone attack as Ukraine continues to hit the country's infrastructure.",
-    "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
-    "pubDate": "Thu, 08 Oct 2026 08:17:47 GMT",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "France to release diesel reserves in a bid to calm student protests",
-    "desc": "Students are taking to the streets over underfunding in education as the government seeks to find budget cuts to appease bond markets.",
-    "link": "https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html",
-    "pubDate": "Thu, 08 Oct 2026 08:32:44 GMT",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-    "desc": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-    "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oil prices surge amid Mideast shipping attacks, U.S. Gulf coast disruptions",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
-    "pubDate": "2026-10-08 08:41:18",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Piper Sandler initiates LCNB stock at Neutral, sets $20 target",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-lcnb-stock-at-neutral-sets-20-target-93CH-4938166",
-    "pubDate": "2026-10-08 08:38:51",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "European gas rallies as Persian Gulf shipping strikes counter storage injection",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/european-gas-rallies-as-persian-gulf-shipping-strikes-counter-storage-injection-4938077",
-    "pubDate": "2026-10-08 08:36:42",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Fed’s Waller: More hikes needed, but there is ’flexibility’ about the pace",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/feds-waller-more-hikes-needed-but-there-is-flexibility-about-the-pace-4938165",
-    "pubDate": "2026-10-08 08:36:26",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Goldman Sachs sees China petrochemical oil demand decline reversing",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-china-petrochemical-oil-demand-decline-reversing-93CH-4938164",
-    "pubDate": "2026-10-08 08:35:29",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Resources Connection stock sinks 12% as lower project volumes drive Q1 loss",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/resources-connection-stock-tumbles-10-as-lower-project-volumes-drive--q1-loss-4937491",
-    "pubDate": "2026-10-08 08:34:37",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Levi Strauss lifts outlook after Q3 profit beat; shares edge lower",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/levi-strauss-beats-profit-forecasts-shares-edge-higher-4937468",
-    "pubDate": "2026-10-08 08:33:12",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.53%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-153-4938150",
-    "pubDate": "2026-10-08 08:30:04",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Volution reports 15% EPS growth despite weak UK housing market",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/volution-reports-15-eps-growth-despite-weak-uk-housing-market-93CH-4938145",
-    "pubDate": "2026-10-08 08:28:47",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Levi Strauss stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-levi-strauss-stock-sliding-today-93CH-4938117",
-    "pubDate": "2026-10-08 08:25:09",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "SEC warns investors on reporting obligations after 2021 climate push at Exxon",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651224-sec-warns-investors-on-reporting-obligations-after-2021-climate-push-at-exxon?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:48:38 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Getlink&#x2019;s LeShuttle reports 8% surge in September truck traffic",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651231-getlinks-leshuttle-reports-8-surge-in-september-truck-traffic?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:31:34 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651232-samsung-q3-profit-seen-surging-nearly-nine-fold-as-ai-chip-demand-soars?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:24:54 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Europe markets retreat as higher oil prices and bond yields weigh",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651227-europe-market-retreat-as-higher-oil-prices-and-bond-yields-weigh?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:19:29 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Stock futures lower as Iran deal prospects fade",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651234-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:17:32 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tencent weighs $5B bond sale to fund AI expansion: report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651233-tencent-weighs-5b-bond-sale-to-fund-ai-expansion-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:13:32 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Michael Burry says Microsoft uses spending metrics &#x2018;as a lever&#x2019; to get its way",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651209-michael-burry-says-microsoft-uses-spending-metrics-as-a-lever-to-get-its-way?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 04:03:45 -0400",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
-    "desc": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looking for alternative avenues for growth. Meme tokens &#8230; Continued The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:21 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230; Continued The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/myro-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:20 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
-    "desc": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap (CAKE) has long &#8230; Continued The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
-    "pubDate": "Wed, 07 Oct 2026 14:13:19 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as oil rises, reviving inflation worries",
-    "desc": "The market was caught in a tug-of-war between earnings optimism and revived inflation concerns.",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:05:37 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Bank Stocks We Approach with Caution",
-    "desc": "Banks use their capital and expertise to help businesses grow while offering consumers essential financial products like mortgages and credit cards. Still, investors are uneasy as banks face challenges from credit quality concerns and potential regulatory changes. These doubts have caused the industry to lag recently as banking stocks have collectively shed 1.7% over the past six months. This performance is a noticeable divergence from the S&P 500’s 15.2% return.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-approach-caution-084809577.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:48:09 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement",
-    "desc": "The Fed chair’s comments on stabilizing prices leave no room for interpretation.",
-    "link": "https://www.fool.com/investing/2026/10/08/fed-chair-kevin-warsh-fire-back-donald-trump-interest-rate-critique-blunt-9-word-statement/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:26:01 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Stock Market Today: S&P 500 Futures Hold Flat As Trade Deficit Worries Return",
-    "desc": "The Morning Bull - US Market Morning Update Thursday, Oct, 8 2026 US Market stock futures are essentially flat, with E-mini S&P 500 contracts edging up only fractionally as investors weigh strong demand for imported goods against early signs of improving sentiment. The US trade deficit widened to a 17 month high of $105.6b in August, with imports hitting a record $420.8b. That points to solid consumer and business appetite, yet it can also add to price pressures through higher costs on...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081128112.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:11:28 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Prediction: The S&P 500 Will Hit 10,000 in 2027",
-    "desc": "The S&P 500 is within shouting distance of a big milestone.",
-    "link": "https://www.fool.com/investing/2026/10/08/prediction-the-sp-500-will-hit-10000-in-2027/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:10:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Zacks Analyst Blog Highlights Chime Financial, Marqeta and Kronos",
-    "desc": "Chime Financial, Marqeta and Kronos are included in this Analyst Blog.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-chime-064900474.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 06:49:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Should You Buy Stocks in October? History’s Answer is Strikingly Clear.",
-    "desc": "Some of the worst market events occurred in the month of October.",
-    "link": "https://www.fool.com/investing/2026/10/08/should-you-buy-stocks-in-october-history-s-answer-is-strikingly-clear/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:22:02 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Are Nasdaq, Dow Futures Falling Premarket? MU, TSM, APLD, IONQ, HOOD, BULL, SLS In Focus",
-    "desc": "Retail investors have not turned bearish on the broader market yet. On Stocktwits, retail sentiment toward SPY and QQQ has stayed ‘extremely bullish.’",
-    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-falling-premarket-mu-tsm-apld-ionq-hood-bull-sls-in-focus/cZDUfTgRBNT?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 08:45:53 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Macron Goes Full Orwell",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Macron Goes Full Orwell</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://jonathanturley.org/2026/10/07/marcon-goes-full-orwell/\">Authored by Jonathan Turley via JonathanTurley.org</a>,</em></p> <p>French President Emmanuel Macron went full Orwell this week. While long the <a href=\"https://jonathanturley.org/2018/04/29/europes-invasive-species-we-should-keep-macrons-oak-and-send-back-his-speech-limits/\">darling of Western media</a>, Macron has been one of the most anti-free-speech leaders in the world. This week, he <a href=\"https://foxnews.com/politics/macron-trashes-american-free-speech-riots-grip-france-internet-unloads-enormous-fool\">declared</a> that \"The so-called American 'free speech' today, which some people have promoted, is the opposite of free speech.\" Having Emmanuel Macron holding forth on free speech is akin to <a href=\"https://www.youtube.com/watch?v=4taWj4ZEvqc\">Joey Chestnut</a> proselytizing on veganism.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2871%29_13.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2871%29_13.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a1121d28-1060-47d2-8b23-78727443a5ca\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2871%29_13.jpg\" /></a></p> <p><strong><a href=\"https://jonathanturley.org/2019/07/08/france-emerges-as-one-of-the-worlds-greatest-threats-to-free-speech/\">France has been in a headlong plunge</a> into censorship and speech criminalization.</strong> These laws criminalize speech under vague standards referring to \"inciting\" or \"intimidating\" others based on race or religion.</p> <p>For example, fashion designer John Galliano has been found guilty in a French court on charges of making anti-Semitic comments in a Paris bar.</p> <p>In another case, the father of French conservative presidential candidate Marine Le Pen was fined because he had called people from the Roma minority \"smelly.\" A French teenager <a href=\"https://jonathanturley.org/2020/02/05/french-teenager-forces-free-speech-debate-over-her-calling-islam-a-religion-of-hate/\">was charged for criticizing Islam</a> as a \"religion of hate.\"</p> <p>Many of us were <a href=\"https://jonathanturley.org/2025/12/28/french-president-macron-praises-brigitte-bardots-life-of-freedom-after-decades-of-censuring-her-speech/\">disgusted</a> recently when Macron celebrated Brigitte Bardot's life as someone who \"embodied a life of freedom.\" <strong>As <a href=\"https://jonathanturley.org/2021/11/05/famed-actress-brigitte-bardot-charged-again-with-hate-speech/\">discussed</a> on this blog, the French government repeatedly prosecuted Bardot for speaking about her views.</strong></p> <p>Macron's praise for Bardot's \"life of freedom\" is <a href=\"https://jonathanturley.org/2015/02/06/charlies-false-friends/\">reminiscent of the reaction of French officials</a> to the massacre of editors at Charlie Hebdo, a satirical magazine. After hounding the victims for years with criminal investigations, the French government organized a march for free speech. As predicted, it then used the killing by Islamic extremists to further crack down on free speech.</p> <p><strong>In my book <a href=\"https://www.amazon.com/exec/obidos/ASIN/1668047047\"><em>The Indispensable Right</em></a>, I discuss how France has careened down the slippery slope of censorship for decades, and the desire to silence others has now become an insatiable appetite.</strong></p> <p>Macron has supported figures like his anti-free-<a href=\"https://thehill.com/opinion/civil-rights/5663912-we-are-the-free-world-now-europe-declares-war-on-free-speech-in-the-us/\">speech ally Thierry Breton</a> in globalizing the reach of the infamous Digital Services Act (DSA) to curtail speech, including Americans and American companies.</p> <p>In his latest pitch for censorship, Macron pulls out an old saw that if everyone can speak freely, no one can speak freely.</p> <p>Macron declared that \"<strong>There is no freedom if there is no limit to my freedom, which begins with the freedom of others and respect for a common framework.</strong> I know this when I walk down the street: my freedom cannot mean hitting you, insulting you or trashing the public space we all share.\"</p> <p>That line is remarkably telling. It captures how even \"insulting\" language is treated as a crime in France.</p> <p>Since then, <a href=\"https://jonathanturley.org/2019/07/08/france-emerges-as-one-of-the-worlds-greatest-threats-to-free-speech/\">France has been a leader in the rollback of</a> free speech in the West, with ever-widening laws curtailing free speech. France regularly charges people for political and religious speech, including comedians and those <a href=\"https://jonathanturley.org/2019/04/23/france-launches-investigation-into-protesters-insulting-police/\">criticizing the police</a>.</p> <p><strong>Macron's visceral reaction to free speech is shared by many in the European Union.</strong></p> <p>I <a href=\"https://jonathanturley.org/2025/03/24/a-new-world-order-with-european-values-the-unholy-union-of-globalism-and-anti-free-speech-measures/\">spoke in Berlin</a> at the World Forum, which boasted the slogan, \"A New World Order with European Values.\" Bill and Hillary Clinton and other Americans cheered on the European efforts.</p> <p>The Digital Services Act bars speech that is viewed as \"disinformation\" or \"incitement.\" When it was passed over the condemnations of many of us in the free speech community, European Commission Executive Vice President Margrethe Vestager celebrated by declaring that it is \"not a slogan anymore - that what is illegal offline should also be seen and dealt with as illegal online. Now it is a real thing. Democracy's back.\"</p> <p><strong>Despite his unpopularity in France, Macron remains a favorite of the establishment and the media in the United States.</strong> I was <a href=\"https://jonathanturley.org/2018/04/29/europes-invasive-species-we-should-keep-macrons-oak-and-send-back-his-speech-limits/\">appalled</a> years ago when he came to Congress to spread his anti-free speech gospel. Macron called for a joint war against \"fake news\" and <a href=\"https://www.washingtonpost.com/news/the-fix/wp/2018/04/25/french-president-macron-said-fake-news-and-everyone-heard-their-own-definition/\">declared</a>, \"Democracy is about true choices and rational decisions. The corruption of information is an attempt to corrode the very spirit of our democracies.\"</p> <p>Our representatives applauded like seals with little recognition that he was referencing censorship. Macron believes that he should be able to dictate which views are \"corrosive\" to the spirit of democracy.</p> <p>The claim that more speech means less speech is an oxymoronic talking point of the anti-free speech movement. As I discussed in my book, there has not been a single censorship system in history that has worked to kill a single idea or movement. Instead, it has given more power to politicians like Macron to silence critics and intimidate opponents.</p> <p><strong>In the end, the only true solution to bad speech is better speech.</strong> The public can sort out their own values and weigh opposing views without the strict guidance of the government. Free speech serves as its own disinfectant.</p> <p>Ultimately, allowing people not just free inquiry but free expression bends the arch of humanity toward truth. Hate and prejudice are inherently flawed values that tend to collapse when exposed to full, robust debate.</p> <p>That does not mean that it will eliminate racism, sexism, or other forms of hate. Neither censorship nor free speech can make everyone better people. <strong>However, what Macron is peddling is the same tired, dishonest claim that free speech is harmful and the government must control what people see and say in public discourse.</strong></p> <p>This is a nation that still echoes the cry of Liberty, Equality, and Fraternity (\"liberté, égalité, fraternité\"). However, in today's France, \"liberté\" remains a declining value. Individual rights of religion and speech are routinely sacrificed in the name of \"equity\" and \"fraternity.\"</p> <p><em>Jonathan Turley is a law professor and the New York Times best-selling author of \"<a href=\"https://www.amazon.com/Rage-Republic-Unfinished-American-Revolution/dp/1668205025\">Rage and the Republic: The Unfinished Story of the American Revolution</a>.\"</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 05:00</span>",
-    "link": "https://www.zerohedge.com/political/macron-goes-full-orwell",
-    "pubDate": "Thu, 08 Oct 2026 09:00:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Ebola Patient Dies As Disease Spreads To Kenya",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Ebola Patient Dies As Disease Spreads To Kenya</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>A Kenyan man who had lived in Congo for seven years tested positive for Ebola caused by the Bundibugyo virus, Kenyan authorities said on Oct. 6. He traveled by vehicle to Kampala, Uganda, flew into Nairobi on Saturday, was isolated at a city hospital on arrival, and died Monday, the first Ebola death in Kenya's history.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100010-GettyImages-2298244469-1080x720_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100010-GettyImages-2298244469-1080x720_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"964eb520-e51d-46da-a2bf-89a4b4283b16\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100010-GettyImages-2298244469-1080x720_80.jpg\" /></a> <figcaption><em>Kenyan Secretary of Health Aden Duale briefs reporters on an Ebola case identified in Kenya, after the patient died, in Nairobi, Kenya, on Oct. 6, 2026. Simon Maina/AFP via Getty Images</em></figcaption></figure><p><strong>Twenty-eight people, including relatives and healthcare workers, had contact with him before his death</strong>, Health Minister Aden Duale said, and another 27 flew on the same plane. Contacts will be isolated for 21 days, the length of Ebola's incubation window.</p> <p>As <a href=\"https://www.theepochtimes.com/world/ebola-spreads-to-kenya-patient-dies-6100009?utm_source=partner&utm_campaign=ZeroHedge\">the Epoch Times</a> notes further, Kenyan officials said they already had heightened screening in place for incoming flights from Congo and asked travelers to be truthful when answering questions during the screening so any additional cases can be identified and treated quickly.</p> <p>More than 650,000 people entering the country have been screened so far, according to Duale.</p> <p><strong>Of the 267 samples tested thus far, only one test, from the man who died, returned positive.</strong></p> <p>Officials said they're working with the World Health Organization, the Africa Centers for Disease Control and Prevention, and other entities. They said the situation is under control.</p> <p>\"I wish to reassure the public not to panic, as all systems are in place to mitigate the spread of the disease,\" Duale said in a statement.</p> <p>People should frequently wash their hands and avoid close contact with sick individuals who have recently come from any countries where Ebola is actively transmitting, he added.</p> <p>People who experience symptoms should go to a medical facility for treatment, and healthcare workers should be vigilant and maintain procedures aimed at preventing infection.</p> <p>An outbreak caused by the Bundibugyo virus has been ongoing in Congo for months. <strong>In their last update, authorities there reported 8,544 cumulative confirmed cases, 824 patients currently hospitalized, and 4,114 deaths.</strong></p> <p>It's the second-largest Ebola outbreak in world history.</p> <p>Historically, outbreaks caused by the Bundibugyo virus kill 30 to 40 percent of confirmed patients, according to the U.S. Centers for Disease Control and Prevention.</p> <p>The outbreak has mostly been contained in Congo, apart from previous cases in Uganda and a handful of patients who flew to European countries. Uganda discharged its last Ebola patient in July.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 04:15</span>",
-    "link": "https://www.zerohedge.com/medical/ebola-patient-dies-disease-spreads-kenya",
-    "pubDate": "Thu, 08 Oct 2026 08:15:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Spain's Government Revives Rent Cap Decrees Ahead Of Snap Election",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Spain's Government Revives Rent Cap Decrees Ahead Of Snap Election</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://www.theepochtimes.com/world/spains-government-revives-rent-cap-decrees-ahead-of-snap-election-6100630?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Owen Evans via The Epoch Times</a>,</em></p> <p>Spain's Socialist-led government on Tuesday reapproved two housing decree laws that Parliament rejected last week, a defeat that prompted Prime Minister Pedro Sánchez to dissolve the country's Legislature and call a snap election.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281251%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281251%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9f8177d6-a73d-4bc6-adb9-9977d9eec6bd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281251%29.jpg\" /></a> <figcaption><em>Spanish Prime Minister Pedro Sánchez, who is also a leader of the ruling Socialist Party, holds a news conference after a meeting at the party's headquarters in Madrid, on June 16, 2025. Nacho Doce/Reuters</em></figcaption></figure><p>The measures include rent caps, a temporary ban on evictions, and limits on corporate purchases of residential property, moves that followed protests triggered by the forced removal of an 87-year-old woman from her home.</p> <p>Sánchez, the head of Spain's main socialist party, said on Monday he was bringing forward an election on Nov. 29 previously scheduled for 2027.</p> <p>\"We need to mobilise and win a much larger progressive majority in parliament, one that will allow us to overcome vested interests, deliver new social advances and continue transforming Spain,\" Sánchez said in a televised address.</p> <p><strong>By calling the election, Sánchez shifted approval of the new rules from the full Congress to a smaller caretaker body</strong> where his allies hold a narrow majority.</p> <p>The measures will come into effect temporarily when the decree is published in the official government journal, the Boletín Oficial del Estado, but must then be sent for approval by the caretaker lawmakers who remain in place after Parliament is dissolved, Sánchez said.</p> <p>Spain's government approved two decrees on Sept. 29 to <a href=\"https://www.theepochtimes.com/world/spain-freezes-evictions-by-investment-fund-landlords-after-protests-over-87-year-old-tenant-6096780?utm_source=partner&utm_campaign=ZeroHedge\">pause</a> evictions from investment-fund-owned properties until 2030. The measures also included rules for small landlords, allowing tenants whose leases expire before the end of 2028 to stay for up to two additional years and capping rent increases at 2 percent through 2027.</p> <p>The decrees failed after lawmakers from Catalan separatist party Junts, which was supporting the left-wing government, joined the opposition in voting it down, arguing that the proposals would reduce housing supply.</p> <p>Junts parliamentary spokesperson Miriam Nogueras said the decrees would have the opposite effect of their stated aims.</p> <p>\"<strong>Finding housing will become more difficult every day.</strong> Our responsibility is to provide certainty, not uncertainty,\" she said.</p> <p>The opposition People's Party also voted against the measures.</p> <p>\"Housing doesn't become more affordable through decrees; it becomes more affordable by building more homes,\" said PP lawmaker Juan Bravo. \"We're not going to lie to you - it's not going to be easy, and it's not going to happen quickly.\"</p> <p>Pedro's government has reissued decrees that largely maintain the substance of the measures rejected by Parliament.</p> <p>It also includes value-added tax on tourist flats, tax deductions for tenants, tax incentives for landlords who lower rents, help for first-time homebuyers, protections for the state housing stock, and a reduction in value-added tax on protected housing.</p> <p><strong>The interventionist measures will only serve to drive away the investment needed to increase supply</strong>, said Carolina Roca, president of the Association of Property Developers of Madrid.</p> <p>\"The legal uncertainty inherent in both decrees will result in a sharp slowdown in the limited investment secured to date in the construction of affordable housing,\" she said.</p> <p>The attempted eviction of 87-year-old Maricarmen Abascal in Madrid triggered nationwide protests.</p> <p><strong>Police evicted Abascal on Sept. 23 from her Madrid home of more than seven decades</strong>. The apartment in the capital's affluent Retiro neighborhood was bought by investment fund Urbagestion, which sought a significant rent increase that Abascal could not afford.</p> <p>\"I've lived here for 71 years, and I don't want to leave,\" Abascal told reporters on the eve of the eviction.</p> <p>Abascal's lawyer told the BBC on Sept. 30 that she can now return to the property.</p> <p>Beatriz Duro said at a press conference there had been \"goodwill from both parties\" and that she would pay a similar amount of rent under a new contract and not pay the increased amount.</p> <p>On Sept. 23, Bank of Spain Deputy Gov. Soledad Núñez <a href=\"https://www.theepochtimes.com/world/spain-freezes-evictions-by-investment-fund-landlords-after-protests-over-87-year-old-tenant-6096780?utm_source=partner&utm_campaign=ZeroHedge\">said</a> that since 2021, an estimated shortfall of about 755,000 homes has built up, and that the gap could widen by another 300,000 between 2026 and 2028.</p> <p><em>Reuters contributed to this report.</em></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 03:30</span>",
-    "link": "https://www.zerohedge.com/geopolitical/spains-government-revives-rent-cap-decrees-ahead-snap-election",
-    "pubDate": "Thu, 08 Oct 2026 07:30:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Shares Retreat After Oil Price Spike",
-    "desc": "(RTTNews) - Asian stocks ended mostly lower on Thursday as technology stocks retreated on concerns over a surge in AI-related corporate debt.",
-    "link": "https://www.nasdaq.com/articles/asian-shares-retreat-after-oil-price-spike",
-    "pubDate": "Thu, 08 Oct 2026 08:45:14 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 Chip Stocks Up Over 6,000% in a Decade: 2 to Buy Now and 1 to Avoid",
-    "desc": "Key PointsNvidia still has a huge opportunity ahead, having transformed itself into a complete AI infrastructure company.",
-    "link": "https://www.nasdaq.com/articles/3-chip-stocks-over-6000-decade-2-buy-now-and-1-avoid",
-    "pubDate": "Thu, 08 Oct 2026 08:35:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "3 Dividend Stocks Down Between 23% and 30% to Buy Right Now and Hold for a Decade",
-    "desc": "Key PointsThe slowing housing market hurts the swimming pool industry, but Pool Corp. still has a healthy business model.",
-    "link": "https://www.nasdaq.com/articles/3-dividend-stocks-down-between-23-and-30-buy-right-now-and-hold-decade",
-    "pubDate": "Thu, 08 Oct 2026 08:25:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If You Had Invested $10,000 in Apple Stock 10 Years Ago, Here's How Much You'd Have Today",
-    "desc": "Key PointsApple shareholders have profited from a trailing-10-year total return of 1,190%.",
-    "link": "https://www.nasdaq.com/articles/if-you-had-invested-10000-apple-stock-10-years-ago-heres-how-much-youd-have-today",
-    "pubDate": "Thu, 08 Oct 2026 08:15:00 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Richardson Q1 Profit Surges, Sees Profitable Growth In FY27; But Stock Drops",
-    "desc": "(RTTNews) - Richardson Electronics Ltd. (RELL), an engineering solutions company, announced a significant increase in profit for the first quarter of fiscal 2027, supported by higher sales across all business units. Looking ahead, the company said it projects fiscal 2027 to be an",
-    "link": "https://www.nasdaq.com/articles/richardson-q1-profit-surges-sees-profitable-growth-fy27-stock-drops",
-    "pubDate": "Thu, 08 Oct 2026 07:47:53 +0000",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Samsung passes Nvidia quality tests for new memory chip",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/samsung-passes-nvidia-quality-tests-for-new-memory-chip-93CH-4938179",
-    "pubDate": "2026-10-08 08:52:03",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Nova stock sliding 3% today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-nova-stock-sliding-3-today-93CH-4938178",
-    "pubDate": "2026-10-08 08:51:44",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Shein Global stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-shein-global-stock-surging-today-93CH-4938176",
-    "pubDate": "2026-10-08 08:49:12",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Rocket Pharmaceuticals stock up 3% today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-rocket-pharmaceuticals-stock-up-3-today-93CH-4938175",
-    "pubDate": "2026-10-08 08:48:58",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "European shares slip as banks drop to 3-month low, oil prices weigh",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-banks-hit-over-3month-low-oil-prices-weigh-4938033",
-    "pubDate": "2026-10-08 08:48:17",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is NXP Semiconductors stock sliding 2.5% today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-nxp-semiconductors-stock-sliding-25-today-93CH-4938172",
-    "pubDate": "2026-10-08 08:43:58",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Universal Display stock sliding 3% today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-universal-display-stock-sliding-3-today-93CH-4938171",
-    "pubDate": "2026-10-08 08:43:18",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Up +32% MTD: As the tech rally spills over into these AI-picked restaurant plays",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/up-32-mtd-as-the-tech-rally-spills-over-into-these-aipicked-restaurant-plays-4938167",
-    "pubDate": "2026-10-08 08:40:14",
-    "fetchedAt": "2026-10-08T09:01:45.739Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
-    "desc": "Outside the U.S., India is the biggest destination for Venezuelan oil, with Reliance Industries purchasing the bulk of it.",
-    "link": "https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html",
-    "pubDate": "Thu, 08 Oct 2026 07:41:51 GMT",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The wildlife winners set to appear on your banknotes revealed",
-    "desc": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 23:01:30 GMT",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is argenx stock plunging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-argenx-stock-plunging-today-93CH-4938025",
-    "pubDate": "2026-10-08 07:34:51",
-    "fetchedAt": "2026-10-08T08:01:34.364Z"
   }
 ]
