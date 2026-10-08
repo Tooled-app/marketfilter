@@ -1,6 +1,550 @@
 [
   {
     "source": "cnbc",
+    "title": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
+    "desc": "In an amicus brief supporting New Jersey regulators in their battle against Kalshi, the NFL argues sports prediction contracts are effectively gambling",
+    "link": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
+    "pubDate": "Thu, 08 Oct 2026 10:50:45 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
+    "desc": "CNBC's Financial Advisor 100 ranks the best financial advisors and top firms for 2026. Here's how to pick the best financial planner for you and your family.",
+    "link": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
+    "pubDate": "Thu, 08 Oct 2026 10:07:13 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
+    "desc": "Pepsi's North American business continues to lag behind its international markets.",
+    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+    "pubDate": "Thu, 08 Oct 2026 10:38:59 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
+    "desc": "Fourteen of the 20 biggest donor groups CNBC analyzed are Republican-aligned as crypto, AI and betting money reshapes 2026 midterm spending.",
+    "link": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
+    "pubDate": "Thu, 08 Oct 2026 10:00:02 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
+    "desc": "Howland Capital Management came in at No. 1 on CNBC's list of the top 100 financial advisors in the U.S. for 2026.",
+    "link": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
+    "pubDate": "Thu, 08 Oct 2026 10:56:47 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Asos hackers took more personal details than first revealed, BBC finds",
+    "desc": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+    "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 10:24:26 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Erste Group initiates SpaceX stock with hold on AI growth outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/erste-group-initiates-spacex-stock-with-hold-on-ai-growth-outlook-93CH-4938463",
+    "pubDate": "2026-10-08 10:56:54",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Erste Group downgrades Morgan Stanley stock rating to hold",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/erste-group-downgrades-morgan-stanley-stock-rating-to-hold-93CH-4938462",
+    "pubDate": "2026-10-08 10:56:53",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Jefferies cuts Solventum stock price target to $34 on de-rating",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-solventum-stock-price-target-to-34-on-derating-93CH-4938460",
+    "pubDate": "2026-10-08 10:56:49",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Raymond James upgrades Unity Software stock rating on Google partnership",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-upgrades-unity-software-stock-rating-on-google-partnership-93CH-4938461",
+    "pubDate": "2026-10-08 10:56:49",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Exclusive-US farm debt is at a record. Official data might be undercounting it",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/exclusiveus-farm-debt-is-at-a-record-official-data-might-be-undercounting-it-4938327",
+    "pubDate": "2026-10-08 10:55:51",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wall St futures slide as rising oil, yields dampen mood",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-rising-oil-yields-dampen-mood-4938454",
+    "pubDate": "2026-10-08 10:55:36",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Helen of Troy stock surges 8% on strong earnings beat, raised outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/helen-of-troy-stock-surges-8-on-strong-earnings-beat-raised-outlook-4938453",
+    "pubDate": "2026-10-08 10:55:25",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil jumps as Middle East supply concerns persist amid shipping attacks",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-jumps-as-middle-east-supply-concerns-persist-amid-shipping-attacks-4938452",
+    "pubDate": "2026-10-08 10:55:17",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "Explainer-Data centers’ ’flexible’ power usage could save the grid billions. Can they scale?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/explainerdata-centers-flexible-power-usage-could-save-the-grid-billions-can-they-scale-4938451",
+    "pubDate": "2026-10-08 10:54:45",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investing",
+    "title": "US bank investors to focus on impact of higher rates, deals outlook in Q3 earnings",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/us-bank-investors-to-focus-on-impact-of-higher-rates-deals-outlook-in-q3-earnings-4938365",
+    "pubDate": "2026-10-08 10:54:29",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here&#x2019;s where he&#x2019;s looking now.",
+    "desc": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
+    "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 10:55:00 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "A true &#x2018;nuclear renaissance&#x2019; is taking shape, and these stocks could be big winners",
+    "desc": "The nuclear-energy industry has been having a moment, but analysts say some companies look better positioned than others to capitalize on a wave of AI-fueled demand.",
+    "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 10:30:00 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Beware rightwing economic myths such as ‘maxing out the nation’s credit card’ | Letters",
+    "desc": "<p>Readers respond to an article in which Larry Elliott argues that Andy Burnham must challenge neoliberal nostrums</p><p>Larry Elliott’s column on the rightwing economic myths constraining Andy Burnham’s government should be required reading before <a href=\"https://www.parliament.uk/about/how/role/check-and-approve-government-spending-and-taxation/the-budget-and-parliament/\">John Healey’s budget</a> (<a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes, 1 October</a>).</p><p>I spent 20 years trading bonds, and agree that the household budget analogy bears no relation to how the UK state finances itself. Parliament votes on the spending, the Treasury instructs the Bank of England, and the Bank credits accounts in the private sector. Taxes withdraw money afterwards.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card",
+    "pubDate": "Wed, 07 Oct 2026 17:01:00 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Labour could oversee worst parliament on record for living standards, study warns",
+    "desc": "<p>Energy and housing costs threaten biggest decline in modern times unless bold action taken, says thinktank</p><p>Soaring energy and housing costs mean Labour is on course to preside over the worst parliament for living standards in modern times, a stark analysis warns.</p><p>Three weeks ahead of John Healey’s budget, the Joseph Rowntree Foundation said Britain faces a “dire” outlook unless the government takes “bold policy action”.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
+    "pubDate": "Wed, 07 Oct 2026 16:30:55 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
+    "desc": "<p>Money is needed now for a system that has left families including mine struggling their way unsupported and forgotten </p><p>As one of many hundreds of thousands of people in the UK with a parent with Alzheimer’s, the passage in Andy Burnham’s speech about social care moved me to tears.</p><p>My mother had not even been diagnosed when I watched Theresa May <a href=\"https://www.theguardian.com/politics/2017/may/18/theresa-may-launches-conservative-manifesto-for-community-and-country\">announce her 2017 general election manifesto</a> in a hall in Halifax – with care funding at its heart.</p> <a href=\"https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes",
+    "pubDate": "Sun, 04 Oct 2026 10:37:59 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+    "desc": "<p>Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures</p><p>Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU.</p><p>The UK is an outlier in choosing not to put import taxes on Chinese vehicles, even as the US has <a href=\"https://www.theguardian.com/business/article/2024/may/14/joe-biden-tariff-chinese-made-electric-vehicles\">shut them out almost entirely</a>, and the EU imposes <a href=\"https://www.theguardian.com/business/2024/oct/04/eu-chinese-ev-tariffs-split-vote-germany-car-firms\">duties of up to 45%</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+    "pubDate": "Sun, 04 Oct 2026 05:00:18 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+    "desc": "<p>In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-ticking</p><p>Andy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on the brakes, kicking most reforms into the 2030s.</p><p>Local government reorganisation is on hold, along with an overhaul of the much-maligned water industry. Social care and significant welfare reform are matters to be resolved by the next government.</p> <a href=\"https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+    "pubDate": "Sat, 03 Oct 2026 15:00:02 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+    "desc": "<p>Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next election</p><p>The Conservatives are planning to make sweeping cuts beyond the <a href=\"https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search\">£47bn announced last year</a> if they win the next election, according to leaked comments by the shadow chancellor.</p><p>Speaking last year when he was shadow business secretary, Andrew Griffith told Conservative members he and fellow shadow cabinet ministers had discussed making further cuts in “every part of government”.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+    "pubDate": "Sat, 03 Oct 2026 15:00:01 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "‘There’s no such thing as democracy’: Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
+    "desc": "<p>Who is really in charge – the people or the markets? In the first episode of Radical Thinking, a new series from the Guardian, senior economics commentator Aditya Chakrabortty speaks to the former Greek finance minister Yanis Varoufakis about what it was like during the eurozone crisis when he went head to head with those who wanted to stop his reforms</p><p>Watch Radical Thinking with Aditya Chakrabortty <a href=\"https://www.youtube.com/@politicsweekly\">here</a>.</p> <a href=\"https://www.theguardian.com/news/audio/2026/oct/03/democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/03/democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
+    "pubDate": "Sat, 03 Oct 2026 07:00:53 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+    "desc": "<p>Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation project</p><p>The US ⁠justice department is not reopening a criminal investigation into former Federal Reserve chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> ⁠for cost overruns ⁠related ​to the central bank’s building renovation project, a department spokesperson said on Friday.</p><p>Attorney general <a href=\"https://www.theguardian.com/us-news/todd-blanche\">Todd ⁠Blanche</a> – in comments to <a href=\"https://www.bloomberg.com/news/articles/2026-10-02/doj-not-reopening-criminal-probe-into-fed-s-powell-blanche-says\">Bloomberg News</a>, which first reported the development – said he has not ruled out ⁠continuing to look into the project’s oversight and potentially take ​action if evidence of ‌wrongdoing came to ‌light.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+    "pubDate": "Fri, 02 Oct 2026 22:32:21 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
+    "desc": "<p>US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\"><strong>US added just 29,000 jobs in September in sharp drop from last month’s gains</strong></a></p></li></ul><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
+    "pubDate": "Fri, 02 Oct 2026 15:58:01 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "ft",
+    "title": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz",
+    "desc": "Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
+    "link": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 10:46:10 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "ft",
+    "title": "Houthi attacks on Saudi airports kill three people",
+    "desc": "Strikes are latest escalation in conflict between Saudi Arabia and Iran-backed militants in Yemen",
+    "link": "https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 09:44:41 GMT",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "PepsiCo in Charts: LatAm Foods & Asia Pacific continue to fuel global momentum in Q3",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651279-pepsico-in-charts-latam-foods-asia-pacific-continue-to-fuel-global-momentum-in-q3?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:57:20 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Buckle September net sales rose 2.2% Y/Y",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651278-buckle-september-net-sales-rose-22-yy?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:56:56 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Movado unloads the EBEL business to focus on its core portfolio",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651273-movado-unloads-the-ebel-business-to-focus-on-its-core-portfolio?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:56:39 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Argenx falls after ending late-stage trial for Sj&#xF6;gren's disease therapy",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651268-argenx-stock-falls-late-stage-trial-setbac?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:51:48 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Helen of Troy reports mixed Q2 results; updates FY27 outlook",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651277-helen-of-troy-reports-mixed-q2-results-updates-fy27-outlook?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:51:15 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "PepsiCo sees stronger results globally than in North America",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651269-pepsico-sees-stronger-results-globally-than-in-north-america?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:48:58 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Hallador Energy signs nearly $700M power deals, lifts forward sales to $3B",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651271-hallador-energy-signs-nearly-700m-power-deals-lifts-forward-sales-to-3b?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 06:48:08 -0400",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best Stocks to Day Trade",
+    "desc": "The post Best Stocks to Day Trade by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Day trading might seem like a fast-paced and exciting way to make money, but the truth is more mundane. Day trading is a grind, requiring participants to spend long hours in front of screens watching the market or studying data. Selecting the right stocks is Paramount to success, so day traders look for certain characteristics &#8230; Continued The post Best Stocks to Day Trade by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-stocks-to-day-trade",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Monthly Dividend ETFs",
+    "desc": "The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. The rising popularity of monthly dividend ETFs has prompted major hedge fund firms to offer a large selection. Investors have numerous options, but knowing the factors to analyze in monthly dividend ETFs is key to making the right investment. We have explored the best assets, detailing their features and benefits as you search every stock &#8230; Continued The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-monthly-dividend-etfs",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing High Short Interest Stocks",
+    "desc": "The post Top Performing High Short Interest Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all short interest stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. The great thing about the market is that you can make money whether stocks are bullish or bearish. Some stocks have surged, and it may be too late for a long position. &#8230; Continued The post Top Performing High Short Interest Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-high-short-interest-stocks",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Forex Analysis: What it is &#038; Best Analysis for Trading",
+    "desc": "The post Forex Analysis: What it is &#038; Best Analysis for Trading by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this. Are you looking to make informed trading decisions and stay ahead of the crowd operating in the forex market? If so, forex analysis is your key to success.&#160; By evaluating market trends and predicting future movements, forex analysis empowers traders like you to maximize profits and minimize risk. This article will explore the topic of &#8230; Continued The post Forex Analysis: What it is &#038; Best Analysis for Trading by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-method-of-analysis-forex-trading",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Stocks",
+    "desc": "The post Top Performing Stocks by Zaheer Anwari appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. If you want to see other top-performing stocks broken down by price: Stocks to Watch Benzinga Featured Stock Picks to Watch Below are stocks Benzinga will be closely monitoring. IceCure Medical Ltd. Incorporated 2006 and &#8230; Continued The post Top Performing Stocks by Zaheer Anwari appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/stocks-to-buy-now",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Platinum Stocks",
+    "desc": "The post Top Performing Platinum Stocks by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this. The global push for green energy has also spurred the growth of emerging technologies that make considerable use of platinum group metals (PGMs). This has the potential to make platinum mining stocks a great long-term investment. For example, electric vehicles (EVs) require PGMs for their lithium-ion batteries. Furthermore, another application for PGMs has recently emerged &#8230; Continued The post Top Performing Platinum Stocks by Jay and Julie Hawk appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-platinum-stocks",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Pet Insurance Stocks",
+    "desc": "The post Top Performing Pet Insurance Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all pet insurance stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Loving your pet means providing the best medical care for them. The last thing you want to experience is a dire situation of not being able to nurture them back to health. &#8230; Continued The post Top Performing Pet Insurance Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/pet-insurance-stocks",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Top Performing Green Penny Stocks",
+    "desc": "The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this. Stay up to date on all green penny stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Investors concerned about greenhouse gas emissions may prefer investing in companies that follow environmentally friendly practices. Governments have imposed restrictions on carbon emissions, making some polluting companies less desirable investments.&#160; As a &#8230; Continued The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-green-penny-stocks",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Artificial Intelligence Stocks Under $10",
+    "desc": "The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial untelligence (AI) stocks under $10 are publicly traded companies developing or applying AI technologies, with stock prices below $10 per share. These lower-priced AI stocks can present promising investment opportunities due to the AI industry&#8217;s rapid growth and transformative potential. As AI continues to revolutionize various sectors, these stocks could experience significant appreciation in &#8230; Continued The post Artificial Intelligence Stocks Under $10 by Benzinga Contributors appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/artificial-intelligence-stocks-under-10",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Best AI Stocks",
+    "desc": "The post Best AI Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Artificial intelligence has been a scorching hot investment trend during this bull market run. And while some AI winners have slowed a bit this summer, investors and analysts remain bullish about the long-term potential of this innovative technology. AI stocks have been volatile lately, but volatility can also present opportunities to get stocks at a &#8230; Continued The post Best AI Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/best-artificial-intelligence-stocks",
+    "pubDate": "Thu, 08 Oct 2026 10:12:22 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Glorious Growth Stocks to Buy Hand Over Fist if the Stock Market Crashes",
+    "desc": "The stock market is on a collision course with an increasing number of headwinds.",
+    "link": "https://www.fool.com/investing/2026/10/08/3-growth-stocks-buy-hand-fist-stock-market-crashes/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 10:24:00 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Stock Futures Fall as AI Debt Financing, Rising Bond Yields and Oil Prices Weigh on Markets: Dow Jones, S&P, Nasdaq, Wall Street",
+    "desc": "US stock futures declined on Thursday as investors assessed rising government bond yields, renewed concerns about Middle East energy supplies and reports of substantial borrowing plans linked to artificial intelligence infrastructure. Attention also turned to quarterly results from Applied Digital (NASDAQ:APLD), preliminary earnings from Samsung Electronics (USOTC:SSNHZ) and minutes from the Federal Reserve’s September monetary policy meeting.",
+    "link": "https://investorshub.advfn.com/market-news/article/37680/us-stock-futures-fall-as-ai-debt-financing-rising-bond-yields-and-oil-prices-weigh-on-markets-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 09:48:53 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Sprout Social Reaches Analyst Target Price",
+    "desc": "In recent trading, shares of Sprout Social Inc (Symbol: SPT) have crossed above the average analyst 12-month target price of $10.40, changing hands for $10.56/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on val",
+    "link": "https://www.nasdaq.com/articles/sprout-social-reaches-analyst-target-price",
+    "pubDate": "Thu, 08 Oct 2026 10:22:57 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "American Well Reaches Analyst Target Price",
+    "desc": "In recent trading, shares of American Well Corp (Symbol: AMWL) have crossed above the average analyst 12-month target price of $12.80, changing hands for $12.95/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on v",
+    "link": "https://www.nasdaq.com/articles/american-well-reaches-analyst-target-price",
+    "pubDate": "Thu, 08 Oct 2026 10:22:54 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Here's the Average Social Security Benefit at 62 vs. 70",
+    "desc": "Key PointsThe average 62-year-old claimant received $1,424 per month from Social Security as of December 2025, while the average 70-year-old received $2,275 per month.",
+    "link": "https://www.nasdaq.com/articles/heres-average-social-security-benefit-62-vs-70",
+    "pubDate": "Thu, 08 Oct 2026 10:20:02 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "You Have Less Than 3 Months to Complete Your 2026 RMD: 3 Big Mistakes to Avoid",
+    "desc": "Key PointsMost RMDs must be made by Dec. 31 to avoid penalties.",
+    "link": "https://www.nasdaq.com/articles/you-have-less-3-months-complete-your-2026-rmd-3-big-mistakes-avoid",
+    "pubDate": "Thu, 08 Oct 2026 10:18:00 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AngioDynamics Inc. Q1 Loss Declines",
+    "desc": "(RTTNews) - AngioDynamics Inc. (ANGO) announced Loss for first quarter of -$7.10 million",
+    "link": "https://www.nasdaq.com/articles/angiodynamics-inc-q1-loss-declines",
+    "pubDate": "Thu, 08 Oct 2026 10:12:20 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Pepsico Inc Q3 Income Climbs",
+    "desc": "(RTTNews) - Pepsico Inc (PEP) released a profit for its third quarter that Increases, from the same period last year",
+    "link": "https://www.nasdaq.com/articles/pepsico-inc-q3-income-climbs",
+    "pubDate": "Thu, 08 Oct 2026 10:10:42 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "My Top Dividend Stock to Buy in October Yields 6% and Cuts Shareholders a Monthly Check",
+    "desc": "Key PointsRealty Income stock has undergone a considerable sell-off in the last month.",
+    "link": "https://www.nasdaq.com/articles/my-top-dividend-stock-buy-october-yields-6-and-cuts-shareholders-monthly-check",
+    "pubDate": "Thu, 08 Oct 2026 10:05:00 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Supermicro Has Record AI Demand. Here's What Matters Next",
+    "desc": "Supermicro (NASDAQ: SMCI) is scaling rapidly into the AI infrastructure boom, with record orders and new opportunities in liquid cooling and rack-scale systems. The next upside driver is not simply more revenue. It is whether that scale can produce stronger margins, better workin",
+    "link": "https://www.nasdaq.com/articles/supermicro-has-record-ai-demand-heres-what-matters-next",
+    "pubDate": "Thu, 08 Oct 2026 09:53:33 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "2 Stocks to Buy Hand Over Fist in October",
+    "desc": "Key PointsNutex Health is seeing tremendous revenue and EPS growth.",
+    "link": "https://www.nasdaq.com/articles/2-stocks-buy-hand-over-fist-october",
+    "pubDate": "Thu, 08 Oct 2026 09:50:00 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Dutch Bros Stock Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
+    "desc": "Key PointsDutch Bros is on track to benefit from a rapid regional-to-national expansion.",
+    "link": "https://www.nasdaq.com/articles/dutch-bros-stock-spotlight-all-right-reasons-heres-why-its-buy-now",
+    "pubDate": "Thu, 08 Oct 2026 09:42:00 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Shares Decline As Inflation, Rate Worries Mount",
+    "desc": "(RTTNews) - European stocks drifted lower on Thursday as a broad global bond sell-off and surging oil prices revived inflation and interest-rate worries.",
+    "link": "https://www.nasdaq.com/articles/european-shares-decline-inflation-rate-worries-mount",
+    "pubDate": "Thu, 08 Oct 2026 09:38:45 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "fortune",
+    "title": "As Trump eyes a new round of major combat operations in Iran, rising oil prices and European bond contagion risk spark global stock selloff",
+    "desc": "Everything you need to know before you reach the office this morning.",
+    "link": "https://fortune.com/2026/10/08/trump-iran-oil-prices-europe-france-bond-contagion-risk/",
+    "pubDate": "Thu, 08 Oct 2026 10:16:09 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Whole Foods CEO says grocery will turn Amazon from the &#8216;everything store&#8217; into the &#8216;everyday store&#8217;",
+    "desc": "Also: All the news and watercooler chat from Fortune.",
+    "link": "https://fortune.com/2026/10/08/whole-foods-ceo-jason-buechel-amazon-grocery/",
+    "pubDate": "Thu, 08 Oct 2026 09:25:19 +0000",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "European shares drift to 4-month lows on mega-debt swaps, and French debt woes",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
+    "pubDate": "2026-10-08 10:53:29",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Constellation Brands stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-constellation-brands-stock-sliding-today-93CH-4938438",
+    "pubDate": "2026-10-08 10:51:28",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "TSX futures edge lower amid bond market woes, higher oil prices",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-amid-bond-market-woes-higher-oil-prices-4938432",
+    "pubDate": "2026-10-08 10:50:08",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is PepsiCo stock climbing today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-pepsico-stock-climbing-today-93CH-4938428",
+    "pubDate": "2026-10-08 10:49:26",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Exclusive-Italian prosecutors seek trial for Campari chairman over alleged tax evasion",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/exclusiveitalian-prosecutors-seek-trial-for-campari-chairman-over-alleged-tax-evasion-4938239",
+    "pubDate": "2026-10-08 10:42:44",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Deutsche Bank sees earnings growth sustaining at record levels in Q3",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-earnings-growth-sustaining-at-record-levels-in-q3-4938407",
+    "pubDate": "2026-10-08 10:42:29",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Generac stock climbing today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-generac-stock-climbing-today-93CH-4938403",
+    "pubDate": "2026-10-08 10:40:03",
+    "fetchedAt": "2026-10-08T11:01:30.157Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
     "desc": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
     "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
@@ -5854,549 +6398,5 @@
     "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-constellation-brands-stock-price-target-on-weaker-secondhalf-outlook-93CH-4937291",
     "pubDate": "2026-10-07 17:42:56",
     "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investing",
-    "title": "Deere bull and bear case: recovery priced in at $660",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/deere-bull-and-bear-case-recovery-priced-in-at-660-93CH-4937288",
-    "pubDate": "2026-10-07 17:39:01",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tropical Storm Isaias forecast to hit US Gulf coast as hurricane early Saturday",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/tropical-stormisaias-forecast-to-hit-us-gulf-coast-as-hurricane-early-saturday-4937254",
-    "pubDate": "2026-10-07 17:37:18",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investing",
-    "title": "Caterpillar bull and bear case: valuation vs. growth story",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/caterpillar-bull-and-bear-case-valuation-vs-growth-story-93CH-4937285",
-    "pubDate": "2026-10-07 17:34:05",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investing",
-    "title": "France to release 10m barrels of diesel from reserves to lower fuel prices",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/france-to-release-10m-barrels-of-diesel-from-reserves-to-lower-fuel-prices-4937284",
-    "pubDate": "2026-10-07 17:31:50",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investing",
-    "title": "San Francisco imposes temporary ban on new data centers",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/san-francisco-imposes-temporary-ban-on-new-data-centers-4937278",
-    "pubDate": "2026-10-07 17:27:29",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investing",
-    "title": "W P Carey stock hits 52-week low at 63.08 USD",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/w-p-carey-stock-hits-52week-low-at-6308-usd-93CH-4937279",
-    "pubDate": "2026-10-07 17:27:29",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
-    "desc": "<p>Banks and building societies raise prices as turmoil in bond markets increases expectations of base rate rise</p><p>The average cost of a five-year fixed-rate mortgage has hit the 6% barrier for the first time in three years, as jitters in the money markets make the loans more expensive for lenders to offer.</p><p>Figures from financial information provider Moneyfacts show the average is now 6.00%, its highest point since September 2023, while the average two-year fixed rate is not far behind at 5.98%, its highest since December of the same year.</p> <a href=\"https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
-    "pubDate": "Mon, 05 Oct 2026 11:39:37 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "guardian",
-    "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
-    "desc": "<p>Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK is reviewing whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in new legislation designed to protect the European manufacturing sectors including autos and chemicals.</p><p>It is understood the EU has raised the question of tariffs with the UK as part of the discussions on the <a href=\"https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans\">“Made in Europe” legislation</a>, known as the Industrial Accelerator Act.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-    "pubDate": "Mon, 05 Oct 2026 11:37:46 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Euro falls to 17-month low against dollar amid French debt fears",
-    "desc": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
-    "pubDate": "Mon, 05 Oct 2026 11:18:20 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Trump’s recent statements on the economy are even more bonkers than usual | Steven Greenhouse",
-    "desc": "<p>Our ‘genius’ president is revealing his ignorance of economics, fueling concerns about the threat he poses to the world</p><p>Donald Trump recently made a bold claim about his abilities, <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117269745153543631\">writing on Truth Social</a>: “The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!”</p><p>But in the days before and after that post, Trump made one mind-boggling statement after another, including one that <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117213056648777213\">raised the possibility of cutting off all trade</a> with dozens of the US’s trading partners. The president’s statements had many experts questioning not just his intelligence, but also whether he – and the outlandish policies he was proposing – were a clear and present danger to both the US economy and the world economy. Public respect for Trump’s economic sense has fallen so low that just 7% of Americans think he should take the lead in regulating AI, according to <a href=\"https://prod-i.a.dj.com/public/resources/documents/Redacted_WSJ_Poll_Sept_2026.pdf\">a recent WSJ poll</a>.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
-    "pubDate": "Mon, 05 Oct 2026 10:00:53 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "ft",
-    "title": "China slaps down EU request for voluntary curbs on hybrid car exports",
-    "desc": "European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict",
-    "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
-    "pubDate": "Wed, 07 Oct 2026 16:56:00 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "ft",
-    "title": "SEC warns asset managers against collaborating on activist campaigns",
-    "desc": "US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members",
-    "link": "https://www.ft.com/content/20557850-9cd1-4685-8238-f292023afc1f?syn-25a6b1a6=1",
-    "pubDate": "Wed, 07 Oct 2026 17:07:33 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "ft",
-    "title": "Ex-Barclays traders’ rate-rigging convictions quashed",
-    "desc": "Court of Appeal ruling comes after Tom Hayes’s guilty verdict was overturned last year",
-    "link": "https://www.ft.com/content/9c61d1a4-c982-41d5-a96e-f06df406c7e9?syn-25a6b1a6=1",
-    "pubDate": "Wed, 07 Oct 2026 13:03:54 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "ft",
-    "title": "Kirkland & Ellis to stop disclosing financial performance",
-    "desc": "World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking",
-    "link": "https://www.ft.com/content/7380c978-9b65-4a07-8ce3-bdf88f2484d1?syn-25a6b1a6=1",
-    "pubDate": "Wed, 07 Oct 2026 17:30:02 GMT",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Target turns to another fan favorite to boost sales",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651100-target-turns-to-another-fan-favorite-to-boost-sales?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:56:37 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Constellation brands reiterates FY 2027 comparable EPS of $11.20-$11.90 as it targets the high end on sustained September trends",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651110-constellation-brands-reiterates-fy-2027-comparable-eps-of-11_20-11_90-as-it-targets-the-high?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:53:37 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Butler National boosts share buyback authorization to $11.9M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651106-butler-national-boosts-share-buyback-authorization-to-119m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:52:11 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Kurv SpaceX Enhanced Income ETF declares $0.52 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651109-kurv-spacex-enhanced-income-etf-declares-0_52-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:51:38 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Stocks at highs, junk bonds at lows: history says the next quarter lags",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651108-stocks-at-highs-junk-bonds-at-lows-history-says-the-next-quarter-lags?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:47:10 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Kurv Yield Premium Strategy Tesla TSLA ETF declares $0.32 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651105-kurv-yield-premium-strategy-tesla-tsla-etf-declares-0_32-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:41:35 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Kurv High Income ETF declares $0.10 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651103-kurv-high-income-etf-declares-0_10-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 13:41:09 -0400",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Update: Equities Fall Intraday Ahead of Fed Minutes",
-    "desc": "(Updates with latest market prices and developments.) US benchmark equity indexes were lower intr",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-ahead-fed-173608797.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 17:36:08 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Strong 10-Year Auction Doesn't Do Much for Stocks",
-    "desc": "Stocks pared heavier losses seen earlier in the session, but were still in the red Wednesday afternoon.",
-    "link": "https://finance.yahoo.com/m/af21e6cf-7145-355e-9818-2802b46a007c/strong-10-year-auction.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 17:33:05 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Wall Street elites will pocket windfall from record $46 billion profits",
-    "desc": "Wall Street firms saw profits jump more than 50% in the first half of the year, and their bonuses will reflect it.",
-    "link": "https://www.thestreet.com/markets/wall-street-elites-will-pocket-windfall-from-record-46-billion-profits?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 17:17:00 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Dow Cuts Sharp Losses As Some Techs Rally; AbbVie Breaks Out (Live Coverage)",
-    "desc": "The Dow Jones index drops 500 points Wednesday as Treasury yields jump. The Fed minutes are due later in the day.",
-    "link": "https://finance.yahoo.com/m/06a29f87-8869-33a5-8fbe-90d7976fe7e3/stock-market-today%3A-dow-cuts.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 16:58:54 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Midday, Oct. 7: Rising Treasury Yields Pressure Stocks, Caterpillar tumbles over 6%",
-    "desc": "On Oct. 7, 2026, major indices pull back as bond yields surge and oil prices rise again.",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/07/stock-market-midday-oct-7-rising-treasury-yields-pressure-stocks-caterpillar-tumbles-over-6/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 16:56:33 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Is Constellation Energy Stock a Good Fit For Your Portfolio Risk?",
-    "desc": "Shares of Constellation Energy (CEG) rose 13.5% over the past five sessions, comfortably outpacing a 1.9% gain for the S&P 500. The company signed a nuclear power deal with Google during this stretch. Whether you currently own the stock or are preparing to buy it, the position likely sits beside index funds that follow the broader market, either adding to their risk or offsetting it. What does Constellation do to the rest of your money when the market rises or falls.",
-    "link": "https://www.trefis.com/articles/617823/is-constellation-energy-stock-a-good-fit-for-your-portfolio-risk/2026-10-07?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 17:33:11 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Should You Worry That Verizon Stopped Leading With This One Metric?",
-    "desc": "Verizon Communications (VZ) stock trades at 11.9 times earnings, compared to 21.5 for the S&P 500. Investors tempted by even that modest valuation still need to understand the underlying business, and the company has recently shifted its focus. Back in July 2025, executives highlighted wireless service revenue, its revenue from mobile service, as their key metric. Today, they emphasize a different figure. So which number does Verizon want you to watch now.",
-    "link": "https://www.trefis.com/articles/617830/should-you-worry-that-verizon-stopped-leading-with-this-one-metric/2026-10-07?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 16:57:11 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Centene's Operations Improve: Does the 12.34X P/E Make it a Buy?",
-    "desc": "CNC's improving Medicaid margins, stronger Marketplace profitability and earnings recovery support its valuation, but sustainability remains the key test.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/centenes-operations-improve-does-12-162400162.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 16:24:00 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Corona and Modelo Are Shrinking While Pacifico and Victoria Are Booming. Here's What That Means for Constellation Brands Stock.",
-    "desc": "Key PointsShipments in the quarter jumped, primarily due to distributor restocking.",
-    "link": "https://www.nasdaq.com/articles/corona-and-modelo-are-shrinking-while-pacifico-and-victoria-are-booming-heres-what-means",
-    "pubDate": "Wed, 07 Oct 2026 17:49:03 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The Fed Is Embarking on a Rate-Hike Cycle. History Says This Is How the Market Will React.",
-    "desc": "Key PointsThe market's reaction may depend on the pace of the hikes.",
-    "link": "https://www.nasdaq.com/articles/fed-embarking-rate-hike-cycle-history-says-how-market-will-react",
-    "pubDate": "Wed, 07 Oct 2026 17:43:00 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: Here's What a $5,000 Investment in Joby Aviation Will Be Worth in 3 Years",
-    "desc": "Key PointsJoby Aviation has made significant progress in 2026, from flight demonstrations to acquisitions.",
-    "link": "https://www.nasdaq.com/articles/prediction-heres-what-5000-investment-joby-aviation-will-be-worth-3-years-0",
-    "pubDate": "Wed, 07 Oct 2026 17:35:00 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wednesday 10/7 Insider Buying Report: HRL, AGMB",
-    "desc": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. On Monday, Hormel Foods's Director, William A. Newlands, made a $201,000 buy of HRL",
-    "link": "https://www.nasdaq.com/articles/wednesday-10-7-insider-buying-report-hrl-agmb",
-    "pubDate": "Wed, 07 Oct 2026 17:33:35 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Banco Bradesco Executive Leading Digital Retail Purchases ~$1 Million in Shares. Is the Brazil Bank Now a Buy?",
-    "desc": "Key PointsThe transaction involved 55,444 shares acquired at $17.98 per share for a total value of ~$996,883.",
-    "link": "https://www.nasdaq.com/articles/banco-bradesco-executive-leading-digital-retail-purchases-1-million-shares-brazil-bank-now",
-    "pubDate": "Wed, 07 Oct 2026 17:28:02 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wednesday's ETF with Unusual Volume: FTXR",
-    "desc": "The First Trust Nasdaq Transportation ETF is seeing unusually high volume in afternoon trading Wednesday, with over 1.5 million shares traded versus three month average volume of about 164,000. Shares of FTXR were off about 1.4% on the day. Components of that ETF with the high",
-    "link": "https://www.nasdaq.com/articles/wednesdays-etf-unusual-volume-ftxr",
-    "pubDate": "Wed, 07 Oct 2026 17:27:10 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wednesday's ETF Movers: PJP, URA",
-    "desc": "In trading on Wednesday, the Invesco Pharmaceuticals ETF is outperforming other ETFs, up about 1.7% on the day. Components of that ETF showing particular strength include shares of Eli Lilly, up about 3.3% and shares of Amgen, up about 2.5% on the day. And underperforming othe",
-    "link": "https://www.nasdaq.com/articles/wednesdays-etf-movers-pjp-ura",
-    "pubDate": "Wed, 07 Oct 2026 17:26:26 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wednesday Sector Laggards: Construction, Metals & Mining Stocks",
-    "desc": "In trading on Wednesday, construction shares were relative laggards, down on the day by about 4.8%. Helping drag down the group were shares of IES Holdings, off about 11.1% and shares of Sterling Infrastructure down about 8% on the day. Also lagging the market Wednesday are me",
-    "link": "https://www.nasdaq.com/articles/wednesday-sector-laggards-construction-metals-mining-stocks",
-    "pubDate": "Wed, 07 Oct 2026 17:24:29 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Wednesday Sector Leaders: Education & Training Services, Hospital & Medical Practitioners",
-    "desc": "In trading on Wednesday, education &amp; training services shares were relative leaders, up on the day by about 1.3%. Leading the group were shares of Gaotu Techedu, up about 9.1% and shares of Chegg up about 2% on the day. Also showing relative strength are hospital &amp; med",
-    "link": "https://www.nasdaq.com/articles/wednesday-sector-leaders-education-training-services-hospital-medical-practitioners",
-    "pubDate": "Wed, 07 Oct 2026 17:24:14 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Daily Dividend Report: MET,NPB,AVNT,GLW,MUR",
-    "desc": "MetLife announced that its board of directors has declared a fourth quarter 2026 common stock dividend of $0.5925 per share. The dividend will be payable on December 8, 2026, to shareholders of record as of November 3, 2026. Northpointe Bancshares, the holding company of Northp",
-    "link": "https://www.nasdaq.com/articles/daily-dividend-report-metnpbavntglwmur",
-    "pubDate": "Wed, 07 Oct 2026 17:23:13 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dow Analyst Moves: PG",
-    "desc": "The latest tally of analyst opinions from the major brokerage houses shows that among the 30 stocks making up the Dow Jones Industrial Average, Procter &amp; Gamble is the #15 analyst pick. Within the broader S&amp;P 500, when components were ranked in terms of analyst favorite",
-    "link": "https://www.nasdaq.com/articles/dow-analyst-moves-pg-0",
-    "pubDate": "Wed, 07 Oct 2026 17:22:28 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
-    "desc": "Key PointsBroadcom currently demonstrates stronger overall revenue performance than Qualcomm by a considerable margin, leading the comparison in all recent comparable periods.",
-    "link": "https://www.nasdaq.com/articles/broadcom-vs-qualcomm-rapid-growth-vs-flat-revenue",
-    "pubDate": "Wed, 07 Oct 2026 17:20:02 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "SpaceX Reportedly Wants $40 Billion to Buy Artificial Intelligence (AI) Chips. Here's Why That's Huge News for Nvidia Investors.",
-    "desc": "Key PointsArtificial intelligence (AI) hyperscalers have been issuing debt to fund infrastructure build-outs.",
-    "link": "https://www.nasdaq.com/articles/spacex-reportedly-wants-40-billion-buy-artificial-intelligence-ai-chips-heres-why-thats",
-    "pubDate": "Wed, 07 Oct 2026 17:20:00 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Kraken Robotics Is Down 62%. Here's What a $5,000 Investment Could Be Worth if It Recovers to Its High.",
-    "desc": "Key PointsRising NATO demand for seabed security has boosted demand for Kraken Robotics' offerings.",
-    "link": "https://www.nasdaq.com/articles/kraken-robotics-down-62-heres-what-5000-investment-could-be-worth-if-it-recovers-its-high",
-    "pubDate": "Wed, 07 Oct 2026 17:20:00 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Broker Darlings of the Dow: Procter & Gamble Ranks As a Top 15 Analyst Pick",
-    "desc": "A study of analyst recommendations at the major brokerages shows that Procter &amp; Gamble Company (Symbol: PG) is the #15 broker pick, on average, out of the 30 stocks making up the Dow Jones Industrial Average, according to ETF Channel. Within the broader S&amp;P 500, when co",
-    "link": "https://www.nasdaq.com/articles/broker-darlings-dow-procter-gamble-ranks-top-15-analyst-pick",
-    "pubDate": "Wed, 07 Oct 2026 17:15:55 +0000",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Jefferies highlights 1.6T transition ahead of OCP Summit",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/jefferies-highlights-16t-transition-ahead-of-ocp-summit-93CH-4937300",
-    "pubDate": "2026-10-07 17:50:42",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Farm equipment stocks after the FTC and USDA joint inquiry: AGCO, Deere and CNH compared",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/farm-equipment-stocks-after-the-ftc-and-usda-joint-inquiry-agco-deere-and-cnh-compared-93CH-4937277",
-    "pubDate": "2026-10-07 17:26:29",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Webull stock drops after congressional report flags China ties as security risk",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/webull-stock-drops-after-congressional-report-flags-china-ties-as-security-risk-93CH-4937276",
-    "pubDate": "2026-10-07 17:25:56",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "FireFly Robotics files for Nasdaq direct listing",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/firefly-robotics-files-for-nasdaq-direct-listing-4937275",
-    "pubDate": "2026-10-07 17:24:50",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Yum Brands vs Restaurant Brands International: a valuation and pairs trade comparison",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/yum-brands-vs-restaurant-brands-international-a-valuation-and-pairs-trade-comparison-93CH-4937272",
-    "pubDate": "2026-10-07 17:22:51",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Cruise sector outlook: Carnival, Royal Caribbean and Norwegian compared",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/cruise-sector-outlook-carnival-royal-caribbean-and-norwegian-compared-93CH-4937271",
-    "pubDate": "2026-10-07 17:22:37",
-    "fetchedAt": "2026-10-07T18:01:44.044Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-    "desc": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
-    "link": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-    "pubDate": "Wed, 07 Oct 2026 16:32:30 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Disney+ to stream upcoming Super Bowl",
-    "desc": "Disney+ will also air two Monday Night Football games leading up to the championship game.",
-    "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
-    "pubDate": "Wed, 07 Oct 2026 16:36:26 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-    "desc": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
-    "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
-    "pubDate": "Wed, 07 Oct 2026 16:40:50 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-    "desc": "Why a growing number of parents are opening pensions for their children.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 08:16:11 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Lego fraudster among last year's most high-profile insurance scammers",
-    "desc": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-    "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 07:03:35 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-    "desc": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 06:53:17 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Last call for the mall? How shopping centres are reinventing themselves",
-    "desc": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 05:28:37 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-    "desc": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-    "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 05 Oct 2026 10:25:36 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why Gen Z are planning for life without a state pension",
-    "desc": "Many younger people do not believe the state pension will exist when they are older",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How much is your salary?",
-    "desc": "And would you reveal it in a job interview?",
-    "link": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 05 Oct 2026 05:33:59 GMT",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "Amaroq admits 147,879 shares to trading on London Stock Exchange",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/amaroq-admits-147879-shares-to-trading-on-london-stock-exchange-93CH-4937236",
-    "pubDate": "2026-10-07 16:52:42",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "General Dynamics partners with Primordial Labs on vehicle control",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/general-dynamics-partners-with-primordial-labs-on-vehicle-control-93CH-4937235",
-    "pubDate": "2026-10-07 16:52:39",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "Biman Bangladesh Airlines orders 10 Airbus aircraft",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/biman-bangladesh-airlines-orders-10-airbus-aircraft-93CH-4937234",
-    "pubDate": "2026-10-07 16:49:29",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "Exclusive-Apollo submits non-binding bid for German energy firm Uniper, sources say",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusiveapollo-submits-nonbinding-bid-for-german-energy-firm-uniper-sources-say-4936283",
-    "pubDate": "2026-10-07 16:49:25",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "acglo stock hits 52-week low at 18.05 USD",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/acglo-stock-hits-52week-low-at-1805-usd-93CH-4937233",
-    "pubDate": "2026-10-07 16:49:14",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Fresenius Medical Care ADR stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-fresenius-medical-care-adr-stock-sliding-today-93CH-4937231",
-    "pubDate": "2026-10-07 16:48:29",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "Fresenius Medical Care tumbles on CEO transition announcement",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/fresenius-medical-care-tumbles-on-ceo-transition-announcement-4937226",
-    "pubDate": "2026-10-07 16:45:01",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investing",
-    "title": "NHI stock hits 52-week low at 64.51 USD",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/nhi-stock-hits-52week-low-at-6451-usd-93CH-4937225",
-    "pubDate": "2026-10-07 16:42:28",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
   }
 ]
