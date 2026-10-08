@@ -1,6 +1,382 @@
 [
   {
     "source": "cnbc",
+    "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+    "desc": "Russian internet giant Yandex paused operations inside one of its data centers after a drone attack as Ukraine continues to hit the country's infrastructure.",
+    "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
+    "pubDate": "Thu, 08 Oct 2026 08:17:47 GMT",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "France to release diesel reserves in a bid to calm student protests",
+    "desc": "Students are taking to the streets over underfunding in education as the government seeks to find budget cuts to appease bond markets.",
+    "link": "https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html",
+    "pubDate": "Thu, 08 Oct 2026 08:32:44 GMT",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
+    "desc": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil prices surge amid Mideast shipping attacks, U.S. Gulf coast disruptions",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
+    "pubDate": "2026-10-08 08:41:18",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Piper Sandler initiates LCNB stock at Neutral, sets $20 target",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-lcnb-stock-at-neutral-sets-20-target-93CH-4938166",
+    "pubDate": "2026-10-08 08:38:51",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "European gas rallies as Persian Gulf shipping strikes counter storage injection",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/european-gas-rallies-as-persian-gulf-shipping-strikes-counter-storage-injection-4938077",
+    "pubDate": "2026-10-08 08:36:42",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Fed’s Waller: More hikes needed, but there is ’flexibility’ about the pace",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/feds-waller-more-hikes-needed-but-there-is-flexibility-about-the-pace-4938165",
+    "pubDate": "2026-10-08 08:36:26",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Goldman Sachs sees China petrochemical oil demand decline reversing",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-china-petrochemical-oil-demand-decline-reversing-93CH-4938164",
+    "pubDate": "2026-10-08 08:35:29",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Resources Connection stock sinks 12% as lower project volumes drive Q1 loss",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/resources-connection-stock-tumbles-10-as-lower-project-volumes-drive--q1-loss-4937491",
+    "pubDate": "2026-10-08 08:34:37",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Levi Strauss lifts outlook after Q3 profit beat; shares edge lower",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/levi-strauss-beats-profit-forecasts-shares-edge-higher-4937468",
+    "pubDate": "2026-10-08 08:33:12",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.53%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-153-4938150",
+    "pubDate": "2026-10-08 08:30:04",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Volution reports 15% EPS growth despite weak UK housing market",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/volution-reports-15-eps-growth-despite-weak-uk-housing-market-93CH-4938145",
+    "pubDate": "2026-10-08 08:28:47",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Levi Strauss stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-levi-strauss-stock-sliding-today-93CH-4938117",
+    "pubDate": "2026-10-08 08:25:09",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "SEC warns investors on reporting obligations after 2021 climate push at Exxon",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651224-sec-warns-investors-on-reporting-obligations-after-2021-climate-push-at-exxon?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:48:38 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Getlink&#x2019;s LeShuttle reports 8% surge in September truck traffic",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651231-getlinks-leshuttle-reports-8-surge-in-september-truck-traffic?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:31:34 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651232-samsung-q3-profit-seen-surging-nearly-nine-fold-as-ai-chip-demand-soars?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:24:54 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Europe markets retreat as higher oil prices and bond yields weigh",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651227-europe-market-retreat-as-higher-oil-prices-and-bond-yields-weigh?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:19:29 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Stock futures lower as Iran deal prospects fade",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651234-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:17:32 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Tencent weighs $5B bond sale to fund AI expansion: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651233-tencent-weighs-5b-bond-sale-to-fund-ai-expansion-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:13:32 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Michael Burry says Microsoft uses spending metrics &#x2018;as a lever&#x2019; to get its way",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651209-michael-burry-says-microsoft-uses-spending-metrics-as-a-lever-to-get-its-way?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 04:03:45 -0400",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
+    "desc": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looking for alternative avenues for growth. Meme tokens &#8230; Continued The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
+    "pubDate": "Wed, 07 Oct 2026 14:13:21 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230; Continued The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/myro-price-prediction",
+    "pubDate": "Wed, 07 Oct 2026 14:13:20 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap (CAKE) has long &#8230; Continued The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
+    "pubDate": "Wed, 07 Oct 2026 14:13:19 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as oil rises, reviving inflation worries",
+    "desc": "The market was caught in a tug-of-war between earnings optimism and revived inflation concerns.",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:05:37 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Bank Stocks We Approach with Caution",
+    "desc": "Banks use their capital and expertise to help businesses grow while offering consumers essential financial products like mortgages and credit cards. Still, investors are uneasy as banks face challenges from credit quality concerns and potential regulatory changes. These doubts have caused the industry to lag recently as banking stocks have collectively shed 1.7% over the past six months. This performance is a noticeable divergence from the S&P 500’s 15.2% return.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-approach-caution-084809577.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:48:09 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement",
+    "desc": "The Fed chair’s comments on stabilizing prices leave no room for interpretation.",
+    "link": "https://www.fool.com/investing/2026/10/08/fed-chair-kevin-warsh-fire-back-donald-trump-interest-rate-critique-blunt-9-word-statement/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:26:01 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Stock Market Today: S&P 500 Futures Hold Flat As Trade Deficit Worries Return",
+    "desc": "The Morning Bull - US Market Morning Update Thursday, Oct, 8 2026 US Market stock futures are essentially flat, with E-mini S&P 500 contracts edging up only fractionally as investors weigh strong demand for imported goods against early signs of improving sentiment. The US trade deficit widened to a 17 month high of $105.6b in August, with imports hitting a record $420.8b. That points to solid consumer and business appetite, yet it can also add to price pressures through higher costs on...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081128112.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:11:28 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Prediction: The S&P 500 Will Hit 10,000 in 2027",
+    "desc": "The S&P 500 is within shouting distance of a big milestone.",
+    "link": "https://www.fool.com/investing/2026/10/08/prediction-the-sp-500-will-hit-10000-in-2027/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:10:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Zacks Analyst Blog Highlights Chime Financial, Marqeta and Kronos",
+    "desc": "Chime Financial, Marqeta and Kronos are included in this Analyst Blog.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-chime-064900474.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 06:49:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Should You Buy Stocks in October? History’s Answer is Strikingly Clear.",
+    "desc": "Some of the worst market events occurred in the month of October.",
+    "link": "https://www.fool.com/investing/2026/10/08/should-you-buy-stocks-in-october-history-s-answer-is-strikingly-clear/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:22:02 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Are Nasdaq, Dow Futures Falling Premarket? MU, TSM, APLD, IONQ, HOOD, BULL, SLS In Focus",
+    "desc": "Retail investors have not turned bearish on the broader market yet. On Stocktwits, retail sentiment toward SPY and QQQ has stayed ‘extremely bullish.’",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-falling-premarket-mu-tsm-apld-ionq-hood-bull-sls-in-focus/cZDUfTgRBNT?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 08:45:53 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Macron Goes Full Orwell",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Macron Goes Full Orwell</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://jonathanturley.org/2026/10/07/marcon-goes-full-orwell/\">Authored by Jonathan Turley via JonathanTurley.org</a>,</em></p> <p>French President Emmanuel Macron went full Orwell this week. While long the <a href=\"https://jonathanturley.org/2018/04/29/europes-invasive-species-we-should-keep-macrons-oak-and-send-back-his-speech-limits/\">darling of Western media</a>, Macron has been one of the most anti-free-speech leaders in the world. This week, he <a href=\"https://foxnews.com/politics/macron-trashes-american-free-speech-riots-grip-france-internet-unloads-enormous-fool\">declared</a> that \"The so-called American 'free speech' today, which some people have promoted, is the opposite of free speech.\" Having Emmanuel Macron holding forth on free speech is akin to <a href=\"https://www.youtube.com/watch?v=4taWj4ZEvqc\">Joey Chestnut</a> proselytizing on veganism.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2871%29_13.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2871%29_13.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a1121d28-1060-47d2-8b23-78727443a5ca\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%2871%29_13.jpg\" /></a></p> <p><strong><a href=\"https://jonathanturley.org/2019/07/08/france-emerges-as-one-of-the-worlds-greatest-threats-to-free-speech/\">France has been in a headlong plunge</a> into censorship and speech criminalization.</strong> These laws criminalize speech under vague standards referring to \"inciting\" or \"intimidating\" others based on race or religion.</p> <p>For example, fashion designer John Galliano has been found guilty in a French court on charges of making anti-Semitic comments in a Paris bar.</p> <p>In another case, the father of French conservative presidential candidate Marine Le Pen was fined because he had called people from the Roma minority \"smelly.\" A French teenager <a href=\"https://jonathanturley.org/2020/02/05/french-teenager-forces-free-speech-debate-over-her-calling-islam-a-religion-of-hate/\">was charged for criticizing Islam</a> as a \"religion of hate.\"</p> <p>Many of us were <a href=\"https://jonathanturley.org/2025/12/28/french-president-macron-praises-brigitte-bardots-life-of-freedom-after-decades-of-censuring-her-speech/\">disgusted</a> recently when Macron celebrated Brigitte Bardot's life as someone who \"embodied a life of freedom.\" <strong>As <a href=\"https://jonathanturley.org/2021/11/05/famed-actress-brigitte-bardot-charged-again-with-hate-speech/\">discussed</a> on this blog, the French government repeatedly prosecuted Bardot for speaking about her views.</strong></p> <p>Macron's praise for Bardot's \"life of freedom\" is <a href=\"https://jonathanturley.org/2015/02/06/charlies-false-friends/\">reminiscent of the reaction of French officials</a> to the massacre of editors at Charlie Hebdo, a satirical magazine. After hounding the victims for years with criminal investigations, the French government organized a march for free speech. As predicted, it then used the killing by Islamic extremists to further crack down on free speech.</p> <p><strong>In my book <a href=\"https://www.amazon.com/exec/obidos/ASIN/1668047047\"><em>The Indispensable Right</em></a>, I discuss how France has careened down the slippery slope of censorship for decades, and the desire to silence others has now become an insatiable appetite.</strong></p> <p>Macron has supported figures like his anti-free-<a href=\"https://thehill.com/opinion/civil-rights/5663912-we-are-the-free-world-now-europe-declares-war-on-free-speech-in-the-us/\">speech ally Thierry Breton</a> in globalizing the reach of the infamous Digital Services Act (DSA) to curtail speech, including Americans and American companies.</p> <p>In his latest pitch for censorship, Macron pulls out an old saw that if everyone can speak freely, no one can speak freely.</p> <p>Macron declared that \"<strong>There is no freedom if there is no limit to my freedom, which begins with the freedom of others and respect for a common framework.</strong> I know this when I walk down the street: my freedom cannot mean hitting you, insulting you or trashing the public space we all share.\"</p> <p>That line is remarkably telling. It captures how even \"insulting\" language is treated as a crime in France.</p> <p>Since then, <a href=\"https://jonathanturley.org/2019/07/08/france-emerges-as-one-of-the-worlds-greatest-threats-to-free-speech/\">France has been a leader in the rollback of</a> free speech in the West, with ever-widening laws curtailing free speech. France regularly charges people for political and religious speech, including comedians and those <a href=\"https://jonathanturley.org/2019/04/23/france-launches-investigation-into-protesters-insulting-police/\">criticizing the police</a>.</p> <p><strong>Macron's visceral reaction to free speech is shared by many in the European Union.</strong></p> <p>I <a href=\"https://jonathanturley.org/2025/03/24/a-new-world-order-with-european-values-the-unholy-union-of-globalism-and-anti-free-speech-measures/\">spoke in Berlin</a> at the World Forum, which boasted the slogan, \"A New World Order with European Values.\" Bill and Hillary Clinton and other Americans cheered on the European efforts.</p> <p>The Digital Services Act bars speech that is viewed as \"disinformation\" or \"incitement.\" When it was passed over the condemnations of many of us in the free speech community, European Commission Executive Vice President Margrethe Vestager celebrated by declaring that it is \"not a slogan anymore - that what is illegal offline should also be seen and dealt with as illegal online. Now it is a real thing. Democracy's back.\"</p> <p><strong>Despite his unpopularity in France, Macron remains a favorite of the establishment and the media in the United States.</strong> I was <a href=\"https://jonathanturley.org/2018/04/29/europes-invasive-species-we-should-keep-macrons-oak-and-send-back-his-speech-limits/\">appalled</a> years ago when he came to Congress to spread his anti-free speech gospel. Macron called for a joint war against \"fake news\" and <a href=\"https://www.washingtonpost.com/news/the-fix/wp/2018/04/25/french-president-macron-said-fake-news-and-everyone-heard-their-own-definition/\">declared</a>, \"Democracy is about true choices and rational decisions. The corruption of information is an attempt to corrode the very spirit of our democracies.\"</p> <p>Our representatives applauded like seals with little recognition that he was referencing censorship. Macron believes that he should be able to dictate which views are \"corrosive\" to the spirit of democracy.</p> <p>The claim that more speech means less speech is an oxymoronic talking point of the anti-free speech movement. As I discussed in my book, there has not been a single censorship system in history that has worked to kill a single idea or movement. Instead, it has given more power to politicians like Macron to silence critics and intimidate opponents.</p> <p><strong>In the end, the only true solution to bad speech is better speech.</strong> The public can sort out their own values and weigh opposing views without the strict guidance of the government. Free speech serves as its own disinfectant.</p> <p>Ultimately, allowing people not just free inquiry but free expression bends the arch of humanity toward truth. Hate and prejudice are inherently flawed values that tend to collapse when exposed to full, robust debate.</p> <p>That does not mean that it will eliminate racism, sexism, or other forms of hate. Neither censorship nor free speech can make everyone better people. <strong>However, what Macron is peddling is the same tired, dishonest claim that free speech is harmful and the government must control what people see and say in public discourse.</strong></p> <p>This is a nation that still echoes the cry of Liberty, Equality, and Fraternity (\"liberté, égalité, fraternité\"). However, in today's France, \"liberté\" remains a declining value. Individual rights of religion and speech are routinely sacrificed in the name of \"equity\" and \"fraternity.\"</p> <p><em>Jonathan Turley is a law professor and the New York Times best-selling author of \"<a href=\"https://www.amazon.com/Rage-Republic-Unfinished-American-Revolution/dp/1668205025\">Rage and the Republic: The Unfinished Story of the American Revolution</a>.\"</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 05:00</span>",
+    "link": "https://www.zerohedge.com/political/macron-goes-full-orwell",
+    "pubDate": "Thu, 08 Oct 2026 09:00:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Ebola Patient Dies As Disease Spreads To Kenya",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Ebola Patient Dies As Disease Spreads To Kenya</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>A Kenyan man who had lived in Congo for seven years tested positive for Ebola caused by the Bundibugyo virus, Kenyan authorities said on Oct. 6. He traveled by vehicle to Kampala, Uganda, flew into Nairobi on Saturday, was isolated at a city hospital on arrival, and died Monday, the first Ebola death in Kenya's history.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100010-GettyImages-2298244469-1080x720_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100010-GettyImages-2298244469-1080x720_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"964eb520-e51d-46da-a2bf-89a4b4283b16\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100010-GettyImages-2298244469-1080x720_80.jpg\" /></a> <figcaption><em>Kenyan Secretary of Health Aden Duale briefs reporters on an Ebola case identified in Kenya, after the patient died, in Nairobi, Kenya, on Oct. 6, 2026. Simon Maina/AFP via Getty Images</em></figcaption></figure><p><strong>Twenty-eight people, including relatives and healthcare workers, had contact with him before his death</strong>, Health Minister Aden Duale said, and another 27 flew on the same plane. Contacts will be isolated for 21 days, the length of Ebola's incubation window.</p> <p>As <a href=\"https://www.theepochtimes.com/world/ebola-spreads-to-kenya-patient-dies-6100009?utm_source=partner&utm_campaign=ZeroHedge\">the Epoch Times</a> notes further, Kenyan officials said they already had heightened screening in place for incoming flights from Congo and asked travelers to be truthful when answering questions during the screening so any additional cases can be identified and treated quickly.</p> <p>More than 650,000 people entering the country have been screened so far, according to Duale.</p> <p><strong>Of the 267 samples tested thus far, only one test, from the man who died, returned positive.</strong></p> <p>Officials said they're working with the World Health Organization, the Africa Centers for Disease Control and Prevention, and other entities. They said the situation is under control.</p> <p>\"I wish to reassure the public not to panic, as all systems are in place to mitigate the spread of the disease,\" Duale said in a statement.</p> <p>People should frequently wash their hands and avoid close contact with sick individuals who have recently come from any countries where Ebola is actively transmitting, he added.</p> <p>People who experience symptoms should go to a medical facility for treatment, and healthcare workers should be vigilant and maintain procedures aimed at preventing infection.</p> <p>An outbreak caused by the Bundibugyo virus has been ongoing in Congo for months. <strong>In their last update, authorities there reported 8,544 cumulative confirmed cases, 824 patients currently hospitalized, and 4,114 deaths.</strong></p> <p>It's the second-largest Ebola outbreak in world history.</p> <p>Historically, outbreaks caused by the Bundibugyo virus kill 30 to 40 percent of confirmed patients, according to the U.S. Centers for Disease Control and Prevention.</p> <p>The outbreak has mostly been contained in Congo, apart from previous cases in Uganda and a handful of patients who flew to European countries. Uganda discharged its last Ebola patient in July.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 04:15</span>",
+    "link": "https://www.zerohedge.com/medical/ebola-patient-dies-disease-spreads-kenya",
+    "pubDate": "Thu, 08 Oct 2026 08:15:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Spain's Government Revives Rent Cap Decrees Ahead Of Snap Election",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Spain's Government Revives Rent Cap Decrees Ahead Of Snap Election</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://www.theepochtimes.com/world/spains-government-revives-rent-cap-decrees-ahead-of-snap-election-6100630?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Owen Evans via The Epoch Times</a>,</em></p> <p>Spain's Socialist-led government on Tuesday reapproved two housing decree laws that Parliament rejected last week, a defeat that prompted Prime Minister Pedro Sánchez to dissolve the country's Legislature and call a snap election.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281251%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281251%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9f8177d6-a73d-4bc6-adb9-9977d9eec6bd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281251%29.jpg\" /></a> <figcaption><em>Spanish Prime Minister Pedro Sánchez, who is also a leader of the ruling Socialist Party, holds a news conference after a meeting at the party's headquarters in Madrid, on June 16, 2025. Nacho Doce/Reuters</em></figcaption></figure><p>The measures include rent caps, a temporary ban on evictions, and limits on corporate purchases of residential property, moves that followed protests triggered by the forced removal of an 87-year-old woman from her home.</p> <p>Sánchez, the head of Spain's main socialist party, said on Monday he was bringing forward an election on Nov. 29 previously scheduled for 2027.</p> <p>\"We need to mobilise and win a much larger progressive majority in parliament, one that will allow us to overcome vested interests, deliver new social advances and continue transforming Spain,\" Sánchez said in a televised address.</p> <p><strong>By calling the election, Sánchez shifted approval of the new rules from the full Congress to a smaller caretaker body</strong> where his allies hold a narrow majority.</p> <p>The measures will come into effect temporarily when the decree is published in the official government journal, the Boletín Oficial del Estado, but must then be sent for approval by the caretaker lawmakers who remain in place after Parliament is dissolved, Sánchez said.</p> <p>Spain's government approved two decrees on Sept. 29 to <a href=\"https://www.theepochtimes.com/world/spain-freezes-evictions-by-investment-fund-landlords-after-protests-over-87-year-old-tenant-6096780?utm_source=partner&utm_campaign=ZeroHedge\">pause</a> evictions from investment-fund-owned properties until 2030. The measures also included rules for small landlords, allowing tenants whose leases expire before the end of 2028 to stay for up to two additional years and capping rent increases at 2 percent through 2027.</p> <p>The decrees failed after lawmakers from Catalan separatist party Junts, which was supporting the left-wing government, joined the opposition in voting it down, arguing that the proposals would reduce housing supply.</p> <p>Junts parliamentary spokesperson Miriam Nogueras said the decrees would have the opposite effect of their stated aims.</p> <p>\"<strong>Finding housing will become more difficult every day.</strong> Our responsibility is to provide certainty, not uncertainty,\" she said.</p> <p>The opposition People's Party also voted against the measures.</p> <p>\"Housing doesn't become more affordable through decrees; it becomes more affordable by building more homes,\" said PP lawmaker Juan Bravo. \"We're not going to lie to you - it's not going to be easy, and it's not going to happen quickly.\"</p> <p>Pedro's government has reissued decrees that largely maintain the substance of the measures rejected by Parliament.</p> <p>It also includes value-added tax on tourist flats, tax deductions for tenants, tax incentives for landlords who lower rents, help for first-time homebuyers, protections for the state housing stock, and a reduction in value-added tax on protected housing.</p> <p><strong>The interventionist measures will only serve to drive away the investment needed to increase supply</strong>, said Carolina Roca, president of the Association of Property Developers of Madrid.</p> <p>\"The legal uncertainty inherent in both decrees will result in a sharp slowdown in the limited investment secured to date in the construction of affordable housing,\" she said.</p> <p>The attempted eviction of 87-year-old Maricarmen Abascal in Madrid triggered nationwide protests.</p> <p><strong>Police evicted Abascal on Sept. 23 from her Madrid home of more than seven decades</strong>. The apartment in the capital's affluent Retiro neighborhood was bought by investment fund Urbagestion, which sought a significant rent increase that Abascal could not afford.</p> <p>\"I've lived here for 71 years, and I don't want to leave,\" Abascal told reporters on the eve of the eviction.</p> <p>Abascal's lawyer told the BBC on Sept. 30 that she can now return to the property.</p> <p>Beatriz Duro said at a press conference there had been \"goodwill from both parties\" and that she would pay a similar amount of rent under a new contract and not pay the increased amount.</p> <p>On Sept. 23, Bank of Spain Deputy Gov. Soledad Núñez <a href=\"https://www.theepochtimes.com/world/spain-freezes-evictions-by-investment-fund-landlords-after-protests-over-87-year-old-tenant-6096780?utm_source=partner&utm_campaign=ZeroHedge\">said</a> that since 2021, an estimated shortfall of about 755,000 homes has built up, and that the gap could widen by another 300,000 between 2026 and 2028.</p> <p><em>Reuters contributed to this report.</em></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 03:30</span>",
+    "link": "https://www.zerohedge.com/geopolitical/spains-government-revives-rent-cap-decrees-ahead-snap-election",
+    "pubDate": "Thu, 08 Oct 2026 07:30:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Asian Shares Retreat After Oil Price Spike",
+    "desc": "(RTTNews) - Asian stocks ended mostly lower on Thursday as technology stocks retreated on concerns over a surge in AI-related corporate debt.",
+    "link": "https://www.nasdaq.com/articles/asian-shares-retreat-after-oil-price-spike",
+    "pubDate": "Thu, 08 Oct 2026 08:45:14 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Chip Stocks Up Over 6,000% in a Decade: 2 to Buy Now and 1 to Avoid",
+    "desc": "Key PointsNvidia still has a huge opportunity ahead, having transformed itself into a complete AI infrastructure company.",
+    "link": "https://www.nasdaq.com/articles/3-chip-stocks-over-6000-decade-2-buy-now-and-1-avoid",
+    "pubDate": "Thu, 08 Oct 2026 08:35:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Dividend Stocks Down Between 23% and 30% to Buy Right Now and Hold for a Decade",
+    "desc": "Key PointsThe slowing housing market hurts the swimming pool industry, but Pool Corp. still has a healthy business model.",
+    "link": "https://www.nasdaq.com/articles/3-dividend-stocks-down-between-23-and-30-buy-right-now-and-hold-decade",
+    "pubDate": "Thu, 08 Oct 2026 08:25:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "If You Had Invested $10,000 in Apple Stock 10 Years Ago, Here's How Much You'd Have Today",
+    "desc": "Key PointsApple shareholders have profited from a trailing-10-year total return of 1,190%.",
+    "link": "https://www.nasdaq.com/articles/if-you-had-invested-10000-apple-stock-10-years-ago-heres-how-much-youd-have-today",
+    "pubDate": "Thu, 08 Oct 2026 08:15:00 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Richardson Q1 Profit Surges, Sees Profitable Growth In FY27; But Stock Drops",
+    "desc": "(RTTNews) - Richardson Electronics Ltd. (RELL), an engineering solutions company, announced a significant increase in profit for the first quarter of fiscal 2027, supported by higher sales across all business units. Looking ahead, the company said it projects fiscal 2027 to be an",
+    "link": "https://www.nasdaq.com/articles/richardson-q1-profit-surges-sees-profitable-growth-fy27-stock-drops",
+    "pubDate": "Thu, 08 Oct 2026 07:47:53 +0000",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Samsung passes Nvidia quality tests for new memory chip",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/samsung-passes-nvidia-quality-tests-for-new-memory-chip-93CH-4938179",
+    "pubDate": "2026-10-08 08:52:03",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Nova stock sliding 3% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-nova-stock-sliding-3-today-93CH-4938178",
+    "pubDate": "2026-10-08 08:51:44",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Shein Global stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-shein-global-stock-surging-today-93CH-4938176",
+    "pubDate": "2026-10-08 08:49:12",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Rocket Pharmaceuticals stock up 3% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-rocket-pharmaceuticals-stock-up-3-today-93CH-4938175",
+    "pubDate": "2026-10-08 08:48:58",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "European shares slip as banks drop to 3-month low, oil prices weigh",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-banks-hit-over-3month-low-oil-prices-weigh-4938033",
+    "pubDate": "2026-10-08 08:48:17",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is NXP Semiconductors stock sliding 2.5% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-nxp-semiconductors-stock-sliding-25-today-93CH-4938172",
+    "pubDate": "2026-10-08 08:43:58",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Universal Display stock sliding 3% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-universal-display-stock-sliding-3-today-93CH-4938171",
+    "pubDate": "2026-10-08 08:43:18",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Up +32% MTD: As the tech rally spills over into these AI-picked restaurant plays",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/up-32-mtd-as-the-tech-rally-spills-over-into-these-aipicked-restaurant-plays-4938167",
+    "pubDate": "2026-10-08 08:40:14",
+    "fetchedAt": "2026-10-08T09:01:45.739Z"
+  },
+  {
+    "source": "cnbc",
     "title": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
     "desc": "Outside the U.S., India is the biggest destination for Venezuelan oil, with Reliance Industries purchasing the bulk of it.",
     "link": "https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html",
@@ -6022,381 +6398,5 @@
     "link": "https://fortune.com/2026/10/07/drone-threats-critical-infrastructure-risk/",
     "pubDate": "Wed, 07 Oct 2026 16:38:15 +0000",
     "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The great Boomer hoard: Americans 55 and over hold $140 trillion, roughly three-quarters of total net worth",
-    "desc": "Older households' net worth rose more than 20% in two years on the back of an AI-fueled stock rally, and boomers hold most of it.",
-    "link": "https://fortune.com/2026/10/07/how-wealthy-baby-boomers-140-trillion-55-and-older-bank-of-america/",
-    "pubDate": "Wed, 07 Oct 2026 16:12:18 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Gen Z’s bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cups to skincare",
-    "desc": "Brands are leveraging young women's increasing spending power by jumping on the sparkly maximalism bandwagon.",
-    "link": "https://fortune.com/2026/08/28/gen-z-bedazzling-era-lipstick-index-youths-gems-coffee-skincare/",
-    "pubDate": "Fri, 28 Aug 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Dropbox&#8217;s CTO wants every employee at the cloud-storage company to use AI. He&#8217;s letting them find their own ways to use it",
-    "desc": "Dropbox CTO Ali Dasdan has focused on making AI tools widely available and empowering employees to experiment, rather than mandating usage from the top.",
-    "link": "https://fortune.com/2026/10/07/cio-intelligence-dropbox-cto/",
-    "pubDate": "Wed, 07 Oct 2026 16:36:43 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "AI is a power tool. People are essential for using it",
-    "desc": "For new graduates, AI fluency paired with sound judgment can be a competitive advantage.",
-    "link": "https://fortune.com/2026/10/07/ai-fluency-new-graduates-career-skills/",
-    "pubDate": "Wed, 07 Oct 2026 16:35:00 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Meet the two cofounders who went on a 10-month trip before starting their $350 million business. They say you should, too",
-    "desc": "They trekked through China, Colombia, and the Philippines—and it made their bond stronger.",
-    "link": "https://fortune.com/2026/10/07/two-cofounders-10-month-trip-350-million-business/",
-    "pubDate": "Wed, 07 Oct 2026 14:37:54 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Iraq devalued its currency as the Iran war squeezes its oil exports",
-    "desc": "The devaluation gives Baghdad more dinars for every export dollar but risks making imported goods costlier for households and businesses",
-    "link": "https://fortune.com/2026/10/07/iraq-devalues-currency-iran-war-exports/",
-    "pubDate": "Wed, 07 Oct 2026 16:10:31 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "fortune",
-    "title": "‘We all chip in’: America&#8217;s $40 billion private jet boom is taking off, and taxpayers are helping billionaires foot the bill",
-    "desc": "Private flyers get tax breaks and taxpayer-funded airport projects while contributing relatively little to air traffic infrastructure",
-    "link": "https://fortune.com/2026/10/01/billionaires-private-jet-taxes-lobby/",
-    "pubDate": "Thu, 01 Oct 2026 07:02:00 +0000",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "TD Cowen names top trucking and logistics stocks amid rising costs",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-trucking-and-logistics-stocks-amid-rising-costs-4937213",
-    "pubDate": "2026-10-07 16:30:32",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "FTSE 100 today: Stocks end lower as gilt yields near 6%, banks, miners slide",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-us-bond-yields-climb-miners-drag-4935692",
-    "pubDate": "2026-10-07 16:23:08",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Google expands SynthID Detector tool globally to identify AI content",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/google-expands-synthid-detector-tool-globally-to-identify-ai-content-93CH-4937199",
-    "pubDate": "2026-10-07 16:11:55",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.76%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-076-4937198",
-    "pubDate": "2026-10-07 16:09:38",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 1.71%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-171-4937197",
-    "pubDate": "2026-10-07 16:09:11",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Spain stocks lower at close of trade; IBEX 35 down 1.68%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-168-4937196",
-    "pubDate": "2026-10-07 16:08:44",
-    "fetchedAt": "2026-10-07T17:03:56.564Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-    "desc": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
-    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-    "pubDate": "Wed, 07 Oct 2026 15:46:21 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
-    "desc": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "link": "https://www.cnbc.com/investingclub/2026/10/07/jim-cramers-key-to-wednesday-market-plus-relief-for-intel-after-a-concerning-report.html",
-    "pubDate": "Wed, 07 Oct 2026 15:38:22 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump hedges on paying back government for ads that already aired",
-    "desc": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
-    "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-    "pubDate": "Tue, 06 Oct 2026 21:32:32 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-    "desc": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
-    "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-    "pubDate": "Tue, 06 Oct 2026 22:23:01 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Boots sold in £7bn deal to Canadian billionaire family",
-    "desc": "The sale of the High Street chain was announced on Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:57:43 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "bbc",
-    "title": "What can I do to protect myself after 'Asos hacked' message?",
-    "desc": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 10:23:37 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Amazon wins global rights to stream Emmys in six-year deal",
-    "desc": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
-    "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 06 Oct 2026 19:08:21 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "desc": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 25 Sep 2026 08:31:56 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Explainer-The status of Iran’s uranium enrichment programme",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/explainerthe-status-of-irans-uranium-enrichment-programme-4937173",
-    "pubDate": "2026-10-07 15:48:22",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "MustGrow Biologics at 20th iif: sales grow as Bayer backs pipeline",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/mustgrow-biologics-at-20th-iif-sales-grow-as-bayer-backs-pipeline-93CH-4937172",
-    "pubDate": "2026-10-07 15:45:53",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is AGCO stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-agco-stock-sliding-today-93CH-4937171",
-    "pubDate": "2026-10-07 15:45:50",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is CNH Industrial stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-cnh-industrial-stock-sliding-today-93CH-4937170",
-    "pubDate": "2026-10-07 15:45:47",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Essential Properties Realty Trust stock hits 52-week low at $25.37",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/essential-properties-realty-trust-stock-hits-52week-low-at-2537-93CH-4937168",
-    "pubDate": "2026-10-07 15:44:30",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "CQS New City High Yield Fund issues 1 million shares at 50.3p",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/cqs-new-city-high-yield-fund-issues-1-million-shares-at-503p-93CH-4937166",
-    "pubDate": "2026-10-07 15:43:05",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Costa Rica’s Grynspan ahead in race to be next UN chief, sources say",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/costa-ricas-grynspan-ahead-in-race-to-be-next-un-chief-sources-say-4937165",
-    "pubDate": "2026-10-07 15:42:59",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Deere & Company stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-deere--company-stock-sliding-today-93CH-4937164",
-    "pubDate": "2026-10-07 15:41:39",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "investing",
-    "title": "Silver plunge sends Canadian miners lower as metals rout deepens",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/silver-plunge-sends-canadian-miners-lower-as-metals-rout-deepens-93CH-4937163",
-    "pubDate": "2026-10-07 15:38:06",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "More college students have to use credit cards just to cover basic living expenses. Here&#x2019;s what it&#x2019;s costing them.",
-    "desc": "Nearly 9 out of every 10 students who use credit cards report doing so to pay for basic living expenses such as food, housing and gas.",
-    "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
-    "pubDate": "Wed, 07 Oct 2026 15:35:00 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "&#x2018;People in the U.S. need to wake up&#x2019;: As a mortgage loan officer, I rejected applications from wealthy couples. Here&#x2019;s why.",
-    "desc": "&#x201c;People in the U.S. need to wake up.&#x201d;",
-    "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-    "pubDate": "Wed, 07 Oct 2026 14:29:00 GMT",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Sibanye-Stillwater confirms wage deal, strike end at U.S. mining operations",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651073-sibanye-stillwater-confirms-wage-deal-strike-end-at-us-mining-operations?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:58:06 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Zeta Global's deals for Senso, Digital Audience to boost omni-channel presence: RBC",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651074-zeta-globals-deals-for-senso-digital-audience-to-boost-omni-channel-presence-rbc?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:49:25 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Real estate shows seasonal strength in midterm years",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651072-real-estate-shows-seasonal-strength-in-midterm-years?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:48:51 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tishman Speyer strikes a deal for control of the Chrysler Building",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651062-tishman-speyer-strikes-deal-for-control-of-the-chrysler-building?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:46:02 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Rocket Pharma updates progress on RP-A501 for Danon disease",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651069-rocket-pharma-updates-progress-rp-a501-danon-disease?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:44:22 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Midday Need to Know: Treasury yields surge, Nestl&#xE9; lands NBA deal & more",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651071-midday-need-to-know-treasury-yields-surge-nestle-lands-nba-deal-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:37:25 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Pharma lobby group sues Trump administration over MFN pricing",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651070-pharma-lobby-sues-trump-administration-over-mfn-pricing?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 07 Oct 2026 11:34:59 -0400",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Nvidia and Micron are about to dominate earnings season",
-    "desc": "Nvidia and Micron are poised to throw their earnings weight around this reporting season.",
-    "link": "https://finance.yahoo.com/markets/article/nvidia-and-micron-are-about-to-dominate-earnings-season-150631365.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:06:31 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'",
-    "desc": "Wall Street analysts aren't hiding how excited they are about the AI-related profit parade.",
-    "link": "https://finance.yahoo.com/markets/article/wall-streets-ai-earnings-excitement-spills-into-2027-but-risks-market-air-pocket-144308239.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:43:08 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons to Avoid GTES and 1 Stock to Buy Instead",
-    "desc": "Gates Industrial Corporation’s 25.4% return over the past six months has outpaced the S&P 500 by 7.9%, and its stock price has climbed to $28.24 per share. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-gtes-1-155247119.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:52:47 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stratasys (SSYS): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "While the S&P 500 is up 17.5% since April 2026, Stratasys (currently trading at $8.57 per share) has lagged behind, posting a return of 6.8%. This may have investors wondering how to approach the situation.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-buy-sell-hold-153647154.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:36:47 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Warren Buffett's Berkshire Compounded at 19.9% a Year Over 60 Years as CEO, Nearly Double the S&P 500's Return. Can Investors Still Expect That Playbook Today?",
-    "desc": "Berkshire Hathaway is already a $1 trillion company.",
-    "link": "https://www.fool.com/investing/2026/10/07/warren-buffetts-berkshire-compounded-nearly-double/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:35:00 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons to Sell HAYW and 1 Stock to Buy Instead",
-    "desc": "Over the past six months, Hayward’s shares (currently trading at $12.31) have posted a disappointing 9.1% loss, well below the S&P 500’s 17.5% gain. This might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-hayw-1-152847393.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:28:47 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point",
-    "desc": "Dow Jones AI giant Nvidia stock has rallied to new highs this week, breaking out above a buy point and into buy range.",
-    "link": "https://finance.yahoo.com/m/fdec2ba0-0866-38b0-a7ad-793b74ca1cbf/dow-jones-ai-giant-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:19:16 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Acadia Healthcare (ACHC): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Acadia Healthcare trades at $28.83 and has moved in lockstep with the market. Its shares have returned 13.5% over the last six months while the S&P 500 has gained 17.5%.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/acadia-healthcare-achc-buy-sell-152047661.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:20:47 +0000",
-    "fetchedAt": "2026-10-07T16:01:51.525Z"
   }
 ]
