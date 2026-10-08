@@ -1,6 +1,438 @@
 [
   {
     "source": "cnbc",
+    "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
+    "desc": "Traders digested comments from a top Federal Reserve official while awaiting another long-dated bond auction.",
+    "link": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+    "pubDate": "Thu, 08 Oct 2026 17:28:01 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+    "desc": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
+    "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+    "pubDate": "Thu, 08 Oct 2026 00:51:23 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+    "desc": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+    "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 07:11:14 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+    "desc": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+    "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 23:00:55 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+    "desc": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 23:50:29 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "AI chip boom pushes Samsung profits to record $80bn",
+    "desc": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+    "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 01:59:54 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "X-planes: Are they needed in the new era of drones?",
+    "desc": "Where do America's X-plane projects fit in an era of cheap drones?",
+    "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 23:03:53 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The virtual worlds where robots are trained",
+    "desc": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+    "desc": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+    "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 17:58:25 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "Apple names veteran Steve Smith as new M&A chief",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/apple-names-veteran-steve-smith-as-new-ma-chief-4939572",
+    "pubDate": "2026-10-08 17:49:38",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "IonQ stock advances to DARPA final quantum benchmarking phase",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/ionq-stock-advances-to-darpa-final-quantum-benchmarking-phase-93CH-4939571",
+    "pubDate": "2026-10-08 17:48:56",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "US 30-year fixed-rate mortgage rate hits 7.40%, likely to further erode housing demand",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/us-30year-fixedrate-mortgage-rate-jumps-to-740-4939500",
+    "pubDate": "2026-10-08 17:48:38",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
+    "pubDate": "2026-10-08 17:48:24",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "Hurricane Isaias forces Gulf oil and gas production shutdowns",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
+    "pubDate": "2026-10-08 17:44:16",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "East Asian tech stocks: where the discounts are in Japan, Korea, Taiwan and China",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
+    "pubDate": "2026-10-08 17:40:41",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "Samsung analysis: record Q3 profit, but growth pace slows",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/samsung-analysis-record-q3-profit-but-growth-pace-slows-93CH-4939564",
+    "pubDate": "2026-10-08 17:40:33",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "Starlink financial outlook: revenue, subscribers, and valuation scenarios to 2030",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/starlink-financial-outlook-revenue-subscribers-and-valuation-scenarios-to-2030-93CH-4939563",
+    "pubDate": "2026-10-08 17:40:20",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "GlobalFoundries stock analysis: TSMC deal, fundamentals, and what comes next",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/globalfoundries-stock-analysis-tsmc-deal-fundamentals-and-what-comes-next-93CH-4939562",
+    "pubDate": "2026-10-08 17:40:10",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investing",
+    "title": "Nvidia-backed data center firm Firmus Grid to postpone Australia IPO - report",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-data-center-firm-firmus-grid-to-postpone-australia-ipo--report-4939561",
+    "pubDate": "2026-10-08 17:37:11",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+    "desc": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+    "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 17:45:00 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+    "desc": "&#x201c;Both properties will be solely in his name.&#x201d;",
+    "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
+    "desc": "President says Washington and Tehran are having ‘productive discussions’",
+    "link": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
+    "pubDate": "Thu, 08 Oct 2026 17:05:24 GMT",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Neurogene is a new Overweight at J.P. Morgan on Rett syndrome therapy",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651485-neurogene-stock-new-overweight-jp-morgan?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:31:38 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Venti M&A: A Starbucks-Chipotle deal would smash restaurant sector records",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651474-venti-ma-a-starbucks-chipotle-deal-would-smash-restaurant-sector-records?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:23:42 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Oracle uses trucked natural gas to keep AI data centers on track: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651487-oracle-uses-trucked-natural-gas-to-keep-ai-data-centers-on-track-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:22:56 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Delta Air Lines Q3 setup: Revenue strength vs. EPS cuts, fuel costs",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651417-delta-air-lines-q3-setup-revenue-strength-vs-eps-cuts-fuel-costs?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:14:10 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Roblox set to snap six straight sessions of gains; down more than 2%",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651488-roblox-set-to-snap-six-straight-sessions-of-gains-down-more-than-2?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:13:47 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "JPMorgan&#x2019;s AI basket represents 49% of the S&P 500",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651484-jpmorgans-ai-basket-represents-49-of-the-sp-500?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:09:59 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "General Fusion surges after claiming fusion energy milestone",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651486-general-fusion-surges-after-claiming-fusion-energy-milestone?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 08 Oct 2026 13:05:47 -0400",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Rise Thursday Afternoon",
+    "desc": "Energy stocks were higher Thursday afternoon, with the NYSE Energy Sector Index rising 2.8% and the",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-175217724.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 17:52:17 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stocks Sink After OpenAI Report Sours AI Trade",
+    "desc": "The Nasdaq Composite took a sharp dive on Thursday afternoon after a report on OpenAI's recurring revenue rattled the AI trade.",
+    "link": "https://finance.yahoo.com/m/3e003936-6fe4-375c-99cf-748a773e4776/stocks-sink-after-openai.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 17:35:18 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Timken (TKR): Buy, Sell, or Hold Post Q2 Earnings?",
+    "desc": "While the S&P 500 is up 15.2% since April 2026, Timken (currently trading at $114.83 per share) has lagged behind, posting a return of 8.5%. This might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/timken-tkr-buy-sell-hold-165609847.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 16:56:09 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons LNN is Risky and 1 Stock to Buy Instead",
+    "desc": "Since April 2026, Lindsay has been in a holding pattern, posting a small return of 4.6% while floating around $113.43. The stock also fell short of the S&P 500’s 15.2% gain during that period.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-lnn-risky-1-164809454.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 16:48:09 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Stock Market Is Fine. Just Don't Look Too Closely.",
+    "desc": "Stocks were falling on Thursday, but the S&P 500 was only down 0.4% from its record high hit earlier in the week.",
+    "link": "https://finance.yahoo.com/m/5df0f171-4d2a-31e2-aae6-71383f4a4a52/the-stock-market-is-fine..html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 16:37:25 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Buffett Bet $1 Million That an S&P 500 Fund Would Beat Hedge Funds. He Won by Nearly 5 Points a Year",
+    "desc": "Warren Buffett once staked $1 million on a bet that shook the entire hedge fund industry, and the way he won exposes a hidden cost that most retirement investors are paying right now without realizing it.",
+    "link": "https://247wallst.com/personal-finance/2026/10/08/buffett-bet-1-million-that-an-sp-500-fund-would-beat-hedge-funds-he-won-by-nearly-5-points-a-year/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 17:26:33 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Can Synopsys Stock Drop From Here?",
+    "desc": "Over the past month, stock in chip design software maker Synopsys (SNPS) has returned 28%, significantly outpacing the 1.4% return for the S&P 500. Part of that gain arrived after September 30, when the company outlined updated long-term growth targets at its Investor Day. On the same day, Synopsys struck a deal with OpenAI to develop an AI model for chip design work. Buyers appear to be betting that growth will speed up. A target is a forecast, however, and not a result. So how fast are Synopsy",
+    "link": "https://www.trefis.com/articles/617811/can-synopsys-stock-drop-from-here/2026-10-08?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 16:56:11 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The AI Trade Is Alive and Well as Bond Yields Keep Rising",
+    "desc": "The spike in the 10-Year Treasury is alarming. But investors can take solace in the fact that AI spending will lead to strong earnings for chips and other tech companies.",
+    "link": "https://finance.yahoo.com/m/dee4c0f3-0067-36bd-b32b-e5e034a45d61/the-ai-trade-is-alive-and.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 17:53:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How the 2026 Midterms Could Shake Up Your Stock Portfolio",
+    "desc": "The 2026 midterms could reshape Congress and markets. Learn how election outcomes might affect your portfolio and whether it's time to adjust your strategy.",
+    "link": "https://moneylion.com/trending/money/how-2026-midterms-could-shake-up-your-stock-portfolio?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 17:00:25 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "SCHF vs. SCHE: Which International ETF Is the Better Buy?",
+    "desc": "SCHF's lower costs and higher dividend yield make it attractive for cost-conscious investors seeking developed market exposure.",
+    "link": "https://www.fool.com/coverage/etfs/2026/10/08/schf-vs-sche-which-international-etf-is-the-better-buy/?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 16:53:01 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Chipotle, Starbucks, Palantir, Intel, SpaceX, Wolfspeed, and More Stocks That Explain Today’s Market",
+    "desc": "Chipotle trades higher following a report that Starbucks had looked into a possible takeover of the burrito chain.",
+    "link": "https://finance.yahoo.com/m/b361f1db-c32b-3b1d-8f3f-7d6523484abf/chipotle%2C-starbucks%2C.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 16:38:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "\"You've Got Mail\": China Got Its Hands On F-35 Stealth Parts Because A UPS Worker Missed An Email",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"You've Got Mail\": China Got Its Hands On F-35 Stealth Parts Because A UPS Worker Missed An Email</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Forget hackers, honey traps and photon-counting lasers. China's latest haul of F-35 secrets apparently came courtesy of an <b>unread email</b>.</p> <p>According to a <a href=\"https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts\">new Bloomberg report</a>, the F-35 cockpit canopy and weapons-bay door that ended up in Beijing's possession were routed through Hong Kong because a United Parcel Service (UPS) employee <i><b>missed an email warning not to send the shipment through Hong Kong</b></i>. The email, from freight forwarder DSV (working on behalf of Lockheed Martin ), said the parts must not transit certain countries under the US International Traffic in Arms Regulations (ITAR), the rules designed precisely to keep American weapons tech away from American adversaries.</p> <p>Regular readers will recall that we have been following this saga since it first <a href=\"https://www.zerohedge.com/military/us-shipment-f-35s-goes-mia-shocking-detour-hong-kong\">went \"MIA\" on the way to Hong Kong</a> last month. What started as a mysterious detour has now been traced to the most mundane failure imaginable. <i>Below we lay out what the Pentagon just told Congress, why the parts matter more than anyone in an official capacity is willing to admit, and what it means for UPS, which was already the market's least favorite parcel name.</i></p> <h2>Late, Rerouted, Gone</h2> <p>The new details were laid out by Pentagon officials on Sept. 29 in a roughly hour-long closed-door meeting with staff from the House Foreign Affairs and Armed Services committees, according to a person briefed on the incident. Here's the sequence, per Bloomberg:</p> <ul><li>The shipment, from an Australian F-35A and bound for the US \"for possible repair or disposal,\" was supposed to travel to San Francisco <b>via South Korea and Taiwan</b>, both US defense partners.</li> <li>It was <b>late leaving Australia</b>, and so it was \"mistakenly routed via Hong Kong in an effort to speed up delivery.\"</li> <li>DSV had sent the ITAR email \"as required by US regulations,\" but it \"<b>may have been sent through a different IT system than the one used by the UPS agent</b>.\"</li> </ul><p>In other words, <i><b>an ITAR-controlled stealth component was rerouted through Chinese jurisdiction to save a few days, because the warning not to do exactly that was sitting in the wrong inbox</b></i>. Somewhere a compliance officer is quietly updating the \"lessons learned\" slide deck.</p> <p>And so, a shipment that was \"late\" in May is now, five months later, in Beijing. Which is one way to fix a delivery delay.</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20F-35%20parts%20saga%20timeline%20-%202026-10-07.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20F-35%20parts%20saga%20timeline%20-%202026-10-07.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8a5cd480-2c59-4a72-a0f9-6623bcac69b9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20F-35%20parts%20saga%20timeline%20-%202026-10-07.png\" /></a></figure><p>Hong Kong, for those keeping score, is not some neutral way station: Washington has long since stopped treating the territory separately from mainland China under US export controls, which is precisely why the DSV email existed in the first place.</p> <h2>\"Unserviceable\"... And Coated In Radar-Absorbing Material</h2> <p>From day one, the official line has been to shrug. The Pentagon called the parts \"unserviceable.\" Lockheed's Australian arm said they were \"unserviceable and <b>deemed low risk for exploitation</b>.\" Australia's defense minister Richard Marles insisted that \"we're not talking about sensitive equipment here or sensitive parts.\" US Transportation Command took the time to issue a statement that \"it was not involved in the transportation or coordination of the shipment in question.\" <i>Very reassuring.</i></p> <p>The problem is what the parts actually are. As Bloomberg first reported <a href=\"https://www.bloomberg.com/news/articles/2026-09-23/china-is-holding-sensitive-f-35-parts-diverted-to-hong-kong\">on Sept 23</a>, both the canopy and the weapons-bay door were <b>coated with radar-absorbing material</b> that enhances stealth, and the Chinese government took possession of them and has not given them back. We flagged it in real time:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">*CHINA IS HOLDING SENSITIVE F-35 PARTS DIVERTED TO HONG KONG *PENTAGON SAYS IT'S WORKING TO RETRIEVE STEALTHY JET PARTS</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2102858469330346292?ref_src=twsrc%5Etfw\">September 23, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"Unserviceable\" describes whether a part can go back on a jet; it says nothing about what it reveals. On a stealth fighter, the canopy is part of the radar cross-section, with coatings that keep the cockpit from lighting up on radar while staying optically clear, and the weapons-bay door is a large moving panel that must seal flush and open in flight without breaking stealth. Two parts are not a blueprint for an F-35; they are, however, a free tutorial in two of its hardest low-observable engineering problems.</p> <p>The Government Accountability Office, which actually audits the program, isn't buying the shrug either. Diana Maurer, who oversees GAO's F-35 support reviews, called the loss \"<b>a big deal</b>\":</p> <blockquote>\"I'm sure the Chinese celebrated and then <b>they got busy trying to reverse engineer it and figure out how to counter it with their own technical capabilities</b>. I'm sure that's what they were up to once they got those things.\"</blockquote> <p>We've seen this movie before. In May, we asked whether <a href=\"https://www.zerohedge.com/military/did-iran-get-its-hands-us-stealth-missile-jassm-er-wreckage-sparks-reverse-engineering\">Iran got its hands on a US stealth missile</a> after JASSM-ER wreckage turned up near Arak, a reminder that Tehran claimed to have copied the RQ-170 drone it captured in 2011. The difference: Iran had to shoot something down first. China just had to wait for the package.</p> <p>Nor is this the first time the F-35's supply chain has leaked like a sieve. As we noted when <a href=\"https://www.zerohedge.com/political/cotton-calls-military-supply-chain-security-review-after-f-35-parts-diverted-hong-kong\">Senate Intelligence chair Tom Cotton demanded a supply-chain security review</a>, a 2023 GAO audit found that one F-35 prime contractor had recorded <b>more than 1 million spare parts worth over $85 million as lost</b> since May 2018, and the program office reviewed the circumstances behind less than 2% of those losses. <i>Diversification at its finest.</i></p> <h2>\"Did China Have A Plan All Along?\"</h2> <p>Washington, which was reportedly briefed on the diversion back in June and then sat on it until Politico's Sept 18 scoop, is now very, very concerned. Cotton wants a review of chain-of-custody rules, shipment tracking, route-change approvals and \"safeguards against military materiel transiting through or being diverted to China.\" Senate Intel's ranking Democrat Mark Warner demanded the Pentagon briefing. And Sen. Kevin Cramer (R-N.D.), who chairs the Armed Services panel investigating the incident, has asked the obvious question: \"<b>Did China have a plan all along to intercept this?</b>\"</p> <p>Bloomberg's sourcing so far points to incompetence rather than conspiracy, though the two are not mutually exclusive: Beijing didn't need a plan to intercept the shipment, just a plan for when one landed in its lap. China's foreign ministry, for its part, said it was \"not aware of the situation\", the kind of non-answer that tends to precede actual answers, or even more non-answers.</p> <p>The timing has been exquisitely awkward from the start. Bloomberg's original scoop broke as Xi Jinping arrived for a state visit with President Trump, prompting Sen. Elissa Slotkin to quip that \"the Chinese are holding some of our most sensitive technology, and <b>we are rolling out the red carpet for their president</b>.\" Meanwhile, the State Department's Directorate of Defense Trade Controls is investigating, and the Pentagon's deputy assistant secretary for logistics, Erica Plath, told congressional staff she has assembled a team to prevent a repeat. Asked what that team is actually doing, a Pentagon spokesman said the department would have \"nothing more to provide.\"</p> <p>Lockheed, which manages much of the global spare-parts pool for the US and 19 other F-35 nations, said last month that \"our logistics decisions are not made unilaterally.\" Presented with the new details on Wednesday, it said it had \"nothing to add or correct.\" Translation: <i>it wasn't us, but we're not disputing it either.</i></p> <p>All of this as Washington races to sell even more F-35s abroad, including a possible deal to Saudi Arabia approved just three weeks ago:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">*US APPROVES POSSIBLE F-35 SALE TO SAUDI ARABIA OF UP TO $24.3B</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2100644531444068441?ref_src=twsrc%5Etfw\">September 17, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Each new customer is another set of spare parts that has to cross the world, sometimes late, sometimes in a hurry. If two \"unserviceable\" panels from Australia could end up in Beijing because of a missed email, the global sustainment network serving 20 countries is <b>only as secure as its least attentive freight agent</b>.</p> <h2>UPS: Already The Market's Least Favorite Parcel Name</h2> <p>UPS shares turned negative after the report, though the decline was less than 1%, which tells you the market treats this as a reputational bruise rather than a business problem. UPS doesn't break out aerospace and defense revenue, though it has made a strategic push into the sector. A State Department ITAR probe is not the kind of reference that wins defense logistics contracts.</p> <p>It also lands on a stock that was already struggling. Per Goldman's transport analyst Jordan Alliger in his latest <a href=\"https://marketdesk.ai/standalone/YYYD1BzZxHS\">Valuation Tracker</a> (<i><a href=\"https://www.zerohedge.com/signup/professional-membership-year\">available to pro subs</a></i>), parcels were the <b>worst-performing transport subsector in September, down 12% on average</b> (FedEx -13%, UPS -10%), versus a mere -0.5% for the S&P 500. Year-to-date through September, UPS was down 6%, <b>among the three worst performers</b> in Goldman's entire transport coverage, while the S&P rose 12%.</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Transports%20September%20performance%20-%202026-10-07.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Transports%20September%20performance%20-%202026-10-07.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0214b0bd-707b-402c-87eb-5025f84b63d2\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Transports%20September%20performance%20-%202026-10-07.png\" /></a></figure><p>Positioning tells the same story. Goldman's Industrials desk (<i><a href=\"https://www.zerohedge.com/signup/professional-membership-year\">available to pro subs</a></i>) wrote this morning that while transports remain \"more crowded generally with hopes of another reacceleration in spot rates,\" the group's notable underweights include \"<b>UPS</b>, Canadian rails, WERN, ODFL.\" In other words, the people paid to own transports had already decided they didn't want UPS, <i>and that was before the stealth canopy turned up in China.</i></p> <h2>Bottom Line</h2> <p>The Pentagon says it is \"actively working with U.S. authorities and industry partners to retrieve these components, investigate the incident, and place safeguards to avoid a future occurrence.\" Good luck with the first part: there is roughly zero chance Beijing returns a radar-absorbent canopy it has had for months, at least not before it has measured, scanned and sliced it.</p> <p>Which brings us back to a point we made <a href=\"https://cms.zerohedge.com/military/china-says-it-can-spot-f-35-laser-38-miles-night-simulation\">just last weekend</a>, when a Chinese missile academy claimed it could find the F-35 with a laser: the real threats to the jet are the boring ones. We warned back in 2021 that the F-35 was <a href=\"https://www.zerohedge.com/geopolitical/f-35-stealth-jet-risk-falling-behind-china-and-russia-defenses-panel-says\">at risk of falling behind Chinese and Russian defenses</a>, and that risk is real, but it is arriving through heat-seekers, cargo manifests and now spam filters. China has spent years hacking, spying and reverse-engineering its way toward the world's most advanced fighter. <b>It turns out it just needed to wait for someone not to read their email.</b></p> <p>Then again, it's hard to think of a cheaper counter-stealth program than a parcel service in a hurry.</p> <p><i>Much more in the full Goldman \"<a href=\"https://marketdesk.ai/standalone/YYYD1BzZxHS\">Americas Transportation: Valuation Tracker</a>\" note and the Goldman Industrials desk note, both available to <a href=\"https://www.zerohedge.com/signup/professional-membership-year\">pro subs</a>.</i></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T10:25:31+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/08/2026 - 06:25</span>",
+    "link": "https://www.zerohedge.com/technology/youve-got-mail-china-got-its-hands-f-35-stealth-parts-because-ups-worker-missed-email",
+    "pubDate": "Thu, 08 Oct 2026 10:25:31 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "1 Stat That Makes Roblox Hard to Ignore Right Now",
+    "desc": "Key PointsRoblox's daily active user count grew 10% year over year in the second quarter.",
+    "link": "https://www.nasdaq.com/articles/1-stat-makes-roblox-hard-ignore-right-now",
+    "pubDate": "Thu, 08 Oct 2026 17:45:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
+    "desc": "Key PointsPalantir uses a consulting strategy to sell its Artificial Intelligence Platform (AIP).",
+    "link": "https://www.nasdaq.com/articles/palantir-looks-consulting-company-its-numbers-tell-different-story",
+    "pubDate": "Thu, 08 Oct 2026 17:35:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Stocks Settle Weak As Oil's Surge Fuels On Inflation, Rate Worries",
+    "desc": "(RTTNews) - European stocks closed weak on Thursday, with several markets dropping to multi-month lows, as concerns about inflation and interest rates amid rising oil prices and bond yields hurt sentiment.",
+    "link": "https://www.nasdaq.com/articles/european-stocks-settle-weak-oils-surge-fuels-inflation-rate-worries",
+    "pubDate": "Thu, 08 Oct 2026 17:34:21 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Is SoFi Stock a Buy in October 2026?",
+    "desc": "Key PointsSoFi&rsquo;s stock was cut in half over the past year.",
+    "link": "https://www.nasdaq.com/articles/sofi-stock-buy-october-2026",
+    "pubDate": "Thu, 08 Oct 2026 17:30:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "NFT Prices Direct Offering Of 1 Mln Units At $1.00/Unit",
+    "desc": "(RTTNews) - On Thursday, NFT Ltd. (MI), an electronic online platform for artists, announced the pricing of a direct offering of 1 million units at a price of $1.00 per units.",
+    "link": "https://www.nasdaq.com/articles/nft-prices-direct-offering-1-mln-units-100-unit",
+    "pubDate": "Thu, 08 Oct 2026 17:26:23 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "General Motors vs. Tesla: What Revenue Growth Trends Tell Investors About These Automotive Giants",
+    "desc": "Key PointsGeneral Motors currently maintains a clear lead over Tesla in absolute revenue scale, consistently generating higher total quarterly sales across all eight periods up to the quarter ended June 2026.",
+    "link": "https://www.nasdaq.com/articles/general-motors-vs-tesla-what-revenue-growth-trends-tell-investors-about-these-automotive",
+    "pubDate": "Thu, 08 Oct 2026 17:25:09 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Looking to Generate Passive Income From Stocks? 3 Unstoppable Dividend Stocks to Buy Now.",
+    "desc": "Key PointsTarget is in the midst of a comeback, and it has continued to raise its dividend despite challenges.",
+    "link": "https://www.nasdaq.com/articles/looking-generate-passive-income-stocks-3-unstoppable-dividend-stocks-buy-now-0",
+    "pubDate": "Thu, 08 Oct 2026 17:20:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Thirty-Year Bond Auction Attracts Above Average Demand",
+    "desc": "(RTTNews) - Finishing off this week's series of announcements of the results of its long-term securities auctions, the Treasury Department revealed on Thursday that this month's auction of $22 billion worth of thirty-year bonds attracted above average demand.",
+    "link": "https://www.nasdaq.com/articles/thirty-year-bond-auction-attracts-above-average-demand-0",
+    "pubDate": "Thu, 08 Oct 2026 17:08:45 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Nvidia Will Buy Back $235 Billion of Its Stock by January 2028. Does That Make the Stock a Buy?",
+    "desc": "Key PointsNvidia is seeing free cash flow boom as AI spending continues to climb higher.",
+    "link": "https://www.nasdaq.com/articles/nvidia-will-buy-back-235-billion-its-stock-january-2028-does-make-stock-buy",
+    "pubDate": "Thu, 08 Oct 2026 17:05:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "fortune",
+    "title": "&#8216;Everybody knows you&#8217;re out of touch&#8217;: Palantir CEO Alex Karp says his own exec told him to stop hyping Foundry",
+    "desc": "Karp told a room of CEOs that his best ideas are the ones his team says can't work, and that VCs once asked him: \"Where's the parasite?\"",
+    "link": "https://fortune.com/2026/10/08/everybody-knows-youre-out-of-touch-palantir-ceo-alex-karp-says-his-own-exec-told-him-to-stop-hyping-foundry/",
+    "pubDate": "Thu, 08 Oct 2026 17:20:00 +0000",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Palantir stock: Goldman upgrades to Buy with $230 target as growth accelerates",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/palantir-stock-goldman-upgrades-to-buy-with-230-target-as-growth-accelerates-93CH-4939558",
+    "pubDate": "2026-10-08 17:35:38",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Applied Digital earnings analysis: questions answered and next catalysts",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/applied-digital-earnings-analysis-questions-answered-and-next-catalysts-93CH-4939557",
+    "pubDate": "2026-10-08 17:35:33",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Levi Strauss earnings analysis: questions answered and next catalysts",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/levi-strauss-earnings-analysis-questions-answered-and-next-catalysts-93CH-4939556",
+    "pubDate": "2026-10-08 17:35:24",
+    "fetchedAt": "2026-10-08T18:01:32.224Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Trump says U.S. will not attack Iran before midterm election",
     "desc": "",
     "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
@@ -5966,437 +6398,5 @@
     "link": "https://fortune.com/2026/10/08/standard-chartered-taking-on-banking-industry-class-problem/",
     "pubDate": "Thu, 08 Oct 2026 04:50:04 +0000",
     "fetchedAt": "2026-10-08T06:01:46.864Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Paytm, MobiKwik shares fall as UPI MDR rollout may be delayed: CNBC-TV18",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/paytm-mobikwik-shares-fall-as-upi-mdr-rollout-may-be-delayed-cnbctv18-4937920",
-    "pubDate": "2026-10-08 05:50:15",
-    "fetchedAt": "2026-10-08T06:01:46.864Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "India denies bias in satellite internet approvals after Musk’s ’oligarchs’ jab",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/india-denies-bias-in-satellite-internet-approvals-after-musks-oligarchs-jab-4937901",
-    "pubDate": "2026-10-08 05:12:42",
-    "fetchedAt": "2026-10-08T06:01:46.864Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Gold steadies after nine-week low as Hormuz tensions lift Fed hike bets",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/gold-holds-near-nineweek-low-as-hormuz-tensions-raise-fed-hike-bets-4937808",
-    "pubDate": "2026-10-08 05:12:09",
-    "fetchedAt": "2026-10-08T06:01:46.864Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-    "desc": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
-    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-    "pubDate": "Thu, 08 Oct 2026 03:29:29 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Oil gains as Middle East hostilities, potential escalation stoke supply worries",
-    "desc": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.",
-    "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-    "pubDate": "Thu, 08 Oct 2026 04:07:51 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
-    "desc": "The SALT deduction limit is $40,400 for 2026. Experts cover how to maximize the tax break before year-end.",
-    "link": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
-    "pubDate": "Wed, 07 Oct 2026 12:15:01 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "ICE came to town and left behind weakened economies",
-    "desc": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
-    "link": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
-    "pubDate": "Wed, 07 Oct 2026 12:24:32 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'Come all the way' back to EU, French finance minister tells UK",
-    "desc": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-    "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 08 Oct 2026 04:02:26 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-    "desc": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 13:52:13 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Funding to help more people access healthy food",
-    "desc": "Local authorities in Hull and Lincolnshire have each been given £220,000.",
-    "link": "https://www.bbc.co.uk/news/articles/c9zrd7k38k8lo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 08 Oct 2026 05:00:09 GMT",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Shanghai Allist Pharmaceuticals stock crashing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-shanghai-allist-pharmaceuticals-stock-crashing-today-93CH-4937880",
-    "pubDate": "2026-10-08 04:48:15",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Gap director William Fisher sells $22.07 million in company stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/gap-director-william-fisher-sells-2207-million-in-company-stock-93CH-4937879",
-    "pubDate": "2026-10-08 04:46:19",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Core Scientific officer Todd Duchene sells $163,055 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/core-scientific-officer-todd-duchene-sells-163055-in-stock-93CH-4937878",
-    "pubDate": "2026-10-08 04:46:18",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Ibotta CEO Bryan Leach sells $627k in shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/ibotta-ceo-bryan-leach-sells-627k-in-shares-93CH-4937877",
-    "pubDate": "2026-10-08 04:46:06",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Nvidia-backed Firmus closes IPO bookbuilding as investor support falter -Bloomberg",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-firmus-closes-ipo-bookbuilding-as-investor-support-falter-bloomberg-4937873",
-    "pubDate": "2026-10-08 04:42:19",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/morning-bid-sovereign-bonds-shouldered-aside-as-ai-takes-their-turf-4937872",
-    "pubDate": "2026-10-08 04:42:16",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Hormuz transits at lowest in over two months after attacks, data shows",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
-    "pubDate": "2026-10-08 04:36:37",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Musk accuses ’certain oligarchs’ of blocking Starlink launch in India",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/musk-accuses-certain-oligarchs-of-blocking-starlink-launch-in-india-4937871",
-    "pubDate": "2026-10-08 04:31:13",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is CIG ShangHai stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-cig-shanghai-stock-sliding-today-93CH-4937870",
-    "pubDate": "2026-10-08 04:29:09",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investing",
-    "title": "Encroaching energy, mine concessions threaten protected ecosystems, research shows",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/encroaching-energy-mine-concessions-threaten-protected-ecosystems-research-shows-4937868",
-    "pubDate": "2026-10-08 04:18:37",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651210-sk-hynixs-solidigm-selects-goldman-morgan-stanley-to-lead-100b-us-listing-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 00:41:29 -0400",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Broadcom in talks for $50B+ financing deal to fund OpenAI's custom chips",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651203-broadcom-in-talks-for-50b-financing-deal-to-fund-openais-custom-chips?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 00:25:44 -0400",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B&#x2013;$50B valuation: report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651208-deepmind-spinout-isomorphic-labs-in-talks-to-raise-funds-at-40b50b-valuation-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 00:21:19 -0400",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Musk alleges Indian 'oligarchs' are blocking Starlink roll-out",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651206-musk-alleges-indian-oligarchs-are-blocking-starlink-roll-out?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 00:07:44 -0400",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Pine Cliff Energy declares CAD 0.00125 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651207-pine-cliff-energy-declares-cad-000125-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 00:06:02 -0400",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Thursday&#x2019;s Economic Calendar",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651091-thursdays-economic-calendar?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 08 Oct 2026 00:00:00 -0400",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Michael Burry Calls Anthropic's Valuation a Bubble Worth 78 S&P 500 Companies",
-    "desc": "Michael Burry says Anthropic's valuation could buy 78 S&P 500 companies, and he compares it with UPS's 1990s pre-IPO peak.",
-    "link": "https://beincrypto.com/burry-anthropic-valuation-bubble-78-companies/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 04:02:00 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow, S&P 500, Nasdaq Futures Mixed As Long-Term Yields Pull Back From Multi-Decade Highs: APLD, BULL, WOLF, NLST In Focus",
-    "desc": "Long-dated bond yields soared to multi-decade highs on Wednesday, weighing on equity markets as all three U.S. benchmark indexes closed in the red.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-long-term-yields-pull-back-from-multi-decade-highs-apld-bull-wolf-nlst-in-focus/cZDUP1eRBZ1?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 03:24:01 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Amgen (AMGN) and Johnson & Johnson (JNJ) Catch Jim Cramer’s Eye for Different Reasons",
-    "desc": "During the October 1 episode of Mad Money, Jim Cramer discussed Amgen Inc. (NASDAQ:AMGN) while reviewing the Dow Jones Industrial Average’s third-quarter performance. He then shifted his attention to Johnson & Johnson (NYSE:JNJ), as he said: In the end, I think the best lessons from the third quarter came from the 30 stocks in the […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amgen-amgn-johnson-johnson-jnj-034526795.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 03:45:26 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "The Founding Fathers Never Would Have Tolerated Multiculturalism",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The Founding Fathers Never Would Have Tolerated Multiculturalism</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://alt-market.us/the-founding-fathers-never-would-have-tolerated-multiculturalism/\"><em>Authored by Brandon Smith via Alt-Market.us</em></a></p> <p>Multiculturalism as a subversive movement is the defining political schism of our time. Is is the fulcrum point for numerous civilization changing events and a direct trigger for the exponential decline of the western world. Anyone who ignores the effects of multiculturalism will be oblivious to the many disruptions coming to our lives today and in the near future.</p> <p>In 1992, Bill Clinton’s Deputy Secretary of State, Strobe Talbott (a member of the globalist Council On Foreign Relations) wrote an essay for Time Magazine called <a href=\"https://content.time.com/time/subscriber/article/0,33009,976015-1,00.html\">“The Birth Of The Global Nation.”</a> In that article, he outlined the globalist view of national sovereignty as temporary and cultural boundaries as obstacles that could be subdued by luring countries into economic interdependency.</p> <p>Talbott dismissed cultural distinctions as arbitrary and cited the incoming formation of the European Union as an example of supranational governance over otherwise separate and unique cultural identities.</p> <p>However, the globalists ran into some problems. Westerners might have been able to create supranational ties because of shared cultural roots, but they were not going to open their borders to the rest of the world without being forced. From around 2012 onward, a program of multiculturalism was introduced with mass immigration as the primary weapon.</p> <p>We have seen disastrous results ever since. Portions of Europe are facing societal collapse, and this was by design. Keep in mind, globalism does not necessarily need borders to fully disappear, but it does need national identities and loyalties to disappear. Specifically, western societies must be diluted and their heritage erased for the globalist “New World Order” to move forward.</p> <p>The fastest way to do that is to overwhelm western demographics with mass movements of people who hold completely contrary ideals . In light of the plague of riots in France this past week led by mobs of migrants and Marxist activists (globalist pawns), I thought it might be important to once again clarify why the third world should never be allowed to settle in the western world. The threat is not just from globalists; it also comes from the same migrants that globalists use as a battering ram against the west.</p> <p>Like the great catastrophes of the past, from the Bronze Age collapse to the fall of Rome and the near destruction of Europe in the Middle Ages, mass immigration of certain groups (often aided by corrupt governments) annihilates progress, cripples security and erases cultural stability.</p> <p>Unlike Europe, the US under the Trump Administration has seen major successes this year in blocking illegal (and “legal”) immigration from third world enclaves (Muslim immigration <a href=\"https://www.cato.org/blog/legal-immigration-majority-muslim-nations-was-cut-96-2024\">has plunged by 96%</a>). So much so that leftists (and some libertarians) are outraged over the epic drop in Muslim and Hindu migrants. Their argument in favor of the multicultural agenda? They claim that America was founded with the intention of open immigration of ALL peoples.</p> <p>This is simply not so. In fact, the Founders were highly selective about who they allowed into the US. Our constitutional heritage is often used as a justification for multiculturalism. However, these claims are based on deception and a deliberate misrepresentation of our roots.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/NaturalizationAct1.jpeg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/NaturalizationAct1.jpeg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"db332ecb-773d-4408-be49-8ca61f4d9d26\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/NaturalizationAct1.jpeg\" /></a></p> <p>The United States was never a migrant “melting pot”. This idea has been perpetuated over the past several decades in popular media and political discourse until it became sacrosanct in the minds of many Americans, but it’s not real – It has always been a fantasy fabricated by Hollywood and the political left.</p> <p>There has also been a comprehensive effort among “independent” organizations to misrepresent the intentions of the Founders. The motive is to sell conservatives and independent voters on the notion that third-world immigration is perfectly in line with the constitutional framework of our nation.</p> <p>I see this claim often among more left-leaning libertarian activists as much as I see it among progressives; the idea that borders are somehow contrary to the American virtues of freedom. These people simply don’t know their history, or they are ignoring history in favor of their own narratives. If the Founders’ original system was in place today, America would look dramatically different and far less liberal.</p> <p>At the very beginning of America’s national history, the Founding Fathers established the Naturalization Act of 1790, allowing only “free white people of good moral character” to immigrate as legal citizens. The standard remained in place in one form or another for hundreds of years and did not officially end until 1952 with the Immigration and Nationality Act.</p> <p>Then came the Hart-Celler Act of 1965 under Lyndon B. Johnson (Johnson’s liberal policies have become an enduring nightmare for the US ever since his presidency). The Hart-Celler Act ended the National Origins quota of the 1920s, which required that the vast majority of immigrants come from European nations and restricted migrants from third-world countries.</p> <p>The argument that the Founders imagined America as a sprawling buffet for every malcontent in the world is utterly fabricated. They did not view the US as an open air bazaar welcoming any culture from any backwater location to take advantage of what our ancestors built over the course of centuries. The vast majority of migrants up until the 1960s were from western nations with similar cultural foundations. The melting pot claim is a lie.</p> <p>The Founders did not intend for cultures with completely incompatible religious and ideological beliefs to take root in the US. And if these people did immigrate, assimilation was expected and required. While the Founders argued in favor of religious freedom, they understood that certain groups exist as an antithesis to the western ideal.</p> <p>For example, Thomas Jefferson bought a Qur’an in 1765 mainly as a legal and historical text and later used Islam as an example of a religion that, in his view, stifled freedom of thought and relied on coercion.</p> <p>John Adams once listed Muhammad among “sober inquirers after truth,” yet in other writings he described him as a military fanatic (this is usually the case after people go deeper into Islam and learn the ugly details).</p> <p>Contemporary Protestant writers of the era commonly considered Islam an ideology spread by the sword and as a political system more than a religious system. Back then they still hadn’t forgotten the horrors of the Muslim invasions into Europe; invasions that led to the Crusades. America’s very first war overseas was an executive action without the approval of congress against the Barbary Pirates – Fanatics backed by Muslim governments that had been terrorizing European ships for centuries.</p> <p>Hinduism and other Asian or African traditions received less detailed comment from the Founders and were usually grouped under “pagan” or “Gentoo.” The presence of these groups was sparse or non-existent in the US until the mid-1900s. Most slaves who practiced native religions ultimately converted to Christianity, or their children did.</p> <p>The US banned the importation of slaves in 1808 under a law signed by Thomas Jefferson.</p> <p>Many Founding Fathers including Jefferson, Madison and Monroe wanted to deport slaves back to Africa to a colony under American protection rather than continue the institution – Not just because they had misgivings about the practice, but because they were concerned that the slaves, even if they were freed, would ultimately be incompatible with western culture and that conflicts would arise.</p> <p>Jefferson laid this out clearly in “Notes on the State of Virginia” (Query XIV, 1785). He called slavery a moral and political evil and favored gradual emancipation, but argued that freed blacks and whites could not live together peacefully. In other words, even Jefferson, a staunch defender of personal liberty, understood that certain cultures will inevitably clash if kept in proximity and in large numbers.</p> <p>This is not to say that black people can’t function in the US or Europe, many clearly do just fine. But it is also clear according to the crime rates (13% of the population and 50% of the violent crime) and political stats (87% supporting leftist policies) that Jefferson was right to be concerned.</p> <p>The Founders were realists who respected practical limits on society for the sake of stability; they were not anarchists. That is to say, they understood than not all freedoms are good and some restrictions must be applied, including borders and logical cultural discrimination. I would argue that if their rules were still in place today, America would be far better off. Specifically their limits on immigration.</p> <p>Before the 1960s, about 84% of the foreign-born population in the U.S. had migrated from Europe or Canada. Latin American inflows existed (especially from Mexico) but were much smaller in scale than they have been in recent years.</p> <p>The Hart-Cellars Act abolished country-specific quotas and replaced them with a system emphasizing family immigration. This opened legal pathways from Asia, Latin America, Africa, and elsewhere. New immigrant flows then shifted rapidly: By the 1970s, the majority of arriving immigrants came from Latin America and Asia rather than Europe.</p> <p>Immigration from Europe and Canada fell from 84% in 1960 to 42% by 1980 and only 13% in recent years. Latin America and Asia became the dominant regions of origin for new citizens. It is not a coincidence that from the mid-1960s onward the US suffered increasing economic and social instability, along with skyrocketing crime rates.</p> <p>It was not until Donald Trump took office in 2025 that illegal border crossings plummeted back to 1960s levels and third world migrant populations have <a href=\"https://cis.org/Report/Overall-ForeignBorn-Population-Down-22-Million-January-July\">actually started shrinking</a>.</p> <p>The establishment of LBJ’s unprecedented welfare rollout combined with surging immigration led to an intense strain on US debt and infrastructure. It’s not surprising that the dollar was decoupled from gold only a few years later; it was the only way to artificially increase the money pool to pay for so many federal subsidies. As in Europe, the majority of third world migrants in the US <a href=\"https://cis.org/Report/Welfare-Use-Immigrants-and-USBorn-2024\">utilize welfare as soon as they arrive</a>.</p> <p>As I noted in my article <a href=\"https://alt-market.us/pillagers-vs-producers-theres-only-two-ways-to-save-the-western-world/\">“Pillagers vs Producers: There’s Only Two Ways To Save The Western World”</a>, there is an inherent instinct among certain cultures to either build wealth and resources, or steal wealth and resources. The third world is largely rooted in pillaging; we have seen proof of this time and time again.</p> <p>Is some cases this is because they operate on tribal methods that have not changed for thousands of years. In other cases, it is because people from undeveloped nations are conditioned to accept and even defend socialism and authoritarianism – modernized forms of pillaging. They have never lived any other way and western ideals of self reliance, independence, free markets and meritocracy are completely alien to them. The government is mother and father and if they want something they must beg the government for it, or loot it.</p> <p>Pillagers cannot live peacefully with producers. It’s impossible. And for the leftists who claim that the west is “the biggest pillager of all”, the facts say otherwise. When European colonists came to the Americas, or to Africa or India, what they found was perpetually warring tribes, human sacrifice, cannibalism, genocide, slavery and little semblance of long term infrastructure. These places were wastelands.</p> <p>They left these countries with the most modern technology and infrastructure of the age. And what did these people do with that inherited wealth? Nothing. They let it decay, or stripped it for temporary gains at the expense of long term stability. One need only look at what happened to South Africa in the last 30 years to see that westerners produce, and third worlders pillage.</p> <p>According to polling data and voting data, third worlders <a href=\"https://www.pewresearch.org/short-reads/2025/07/21/muslim-americans-share-political-attitudes-with-both-the-democratic-and-republican-parties/\">lean overwhelmingly left</a> when it comes to government power and open borders. Muslim respondents maintain some fundamentalist social beliefs which are considered conservative, but generally favor bigger government (71%), immigration openness (82%), and believe racial and ethnic diversity “strengthens” the U.S. (82%). Indian/Hindu migrants poll very close to the same numbers. Meaning, immigrants will always perpetuate more immigrants, especially when immigration is made easy and they don’t have to work hard to earn citizenship.</p> <p>Is the lack of multiculturalism the same as “ethno-nationalism”? Not exactly. Ethnic dominance is not the same as cultural dominance, though the Founding Fathers envisioned both for America. At bottom, third world cultures should be largely removed from the US, or at the very least, limited enough that they are not able to organize into sprawling ethnic communities which prevent assimilation.</p> <p>This is not just to thwart the machinations of globalism, it’s also to protect the west from predatory invasions.</p> <p>There is nothing in the birth of this nation that requires us to tolerate foreign influx. America is not a piece of clay for them to mold as they please. It is not an “economic zone” for them to pilfer. It is a nation and a culture built by western adventurers, settlers, conquerors and their descendants. No one else is entitled to live here and if they get the chance, they should feel lucky.</p> <p><em>We publish a variety of perspectives. Nothing written here is to be construed as representing the views of ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T03:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/07/2026 - 23:00</span>",
-    "link": "https://www.zerohedge.com/political/founding-fathers-never-would-have-tolerated-multiculturalism",
-    "pubDate": "Thu, 08 Oct 2026 03:00:00 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Iowa City Council Meeting Opens With \"Hail Satan\" Invocation",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iowa City Council Meeting Opens With \"Hail Satan\" Invocation</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>A former city council member opened Tuesday's Ottumwa, Iowa, council meeting with a satanic prayer that ended in \"Hail Satan,\" and the city says it had no legal way to stop him. <strong>The invocation fell within a policy the council itself adopted on Jan. 20</strong>, according to the <a href=\"https://www.ottumwacourier.com/news/local_news/satanic-invocation-causes-uproar-at-city-council-meeting/article_47fecb72-be23-4269-a71a-4c95ed596413.html\">Ottumwa Courier</a>. <em>In other news, Ottumwa residents had a Satanist on their city council.</em></p> <p>Matt Dalbey, a resident and former council member, delivered the prayer at City Hall. Dalbey told the paper in a private message that the prayer is used by the Satanic Temple of Iowa, of which he is a member, and that it \"has nothing to do with the belief in a satanic deity.\"</p> <p>The invocation, from the city's official recording of the Oct. 6 meeting:</p> <iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/GhnHU8YTitU?start=15\" title=\"Ottumwa City Council - October 06 2026 - Regular Meeting\" width=\"560\"></iframe> <p>Soon after the Pledge of Allegiance, New Life Center pastor Rick Bick spoke out of turn, asking the room to \"reverse this curse that was put on our city.\" Council member Cara Galloway told him to wait for the public-comment portion of the meeting. Mayor Benjamin Foote instead called a 30-second moment of silence, and Galloway objected that it was time to move forward before the mayor overruled her.</p> <p>The council approved the <a href=\"https://cms2.revize.com/revize/ottumwaia/Documents/Government/Res%2018-2026%20Invocation%20Policy.pdf?t=202601271112210\">invocation policy</a> on Jan. 20, with Galloway the only vote against. It says the city respects the diversity of religious denominations and beliefs, including the lack of them, among its residents.</p> <p>The city said on Facebook that it \"cannot discriminate against a denomination,\" that it is not told ahead of time what an invocation will say, and that it does not automatically endorse what a speaker says. It added that it had been fielding calls all day, some cordial and many \"rude and full of profanities.\"</p> <p>Galloway, who has never stood for an invocation, restated her objection at the end of the meeting. <strong>She said opening with an invocation means allowing viewpoints that may not reflect the council's own, and warned of \"a financial liability on the taxpayers\"</strong> if the city responds to one.</p> <p>City Administrator Philip Rath said on KBIZ that the policy's openness leaves the city in a vacuum. \"You have to be open to allow people to express their different beliefs,\" he said. Rath said the policy could be revisited, but that its openness currently protects the city from legal challenges, and that amending it \"could open it up for a potential suit down the road.\"</p> <p>The meeting video had been viewed more than 9,500 times on YouTube in the 24 hours after it went live on the city's channel. Dalbey is also scheduled to give the invocation at the Nov. 3 council meeting.</p> </article><script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-08T02:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/07/2026 - 22:30</span>",
-    "link": "https://www.zerohedge.com/political/ottumwa-city-council-opens-hail-satan-invocation",
-    "pubDate": "Thu, 08 Oct 2026 02:30:00 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Applied Materials vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-    "desc": "Key PointsApplied Materials generates higher total revenue than Marvell Technology on an absolute basis, maintaining a clear lead and securing the top position across all eight comparable quarters.",
-    "link": "https://www.nasdaq.com/articles/applied-materials-vs-marvell-technology-what-revenue-trends-tell-investors-about-these",
-    "pubDate": "Thu, 08 Oct 2026 03:59:07 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "SpaceX Reportedly Wants to Borrow $40 Billion for Nvidia Chips Despite a $100 Billion Cash Pile",
-    "desc": "Key PointsSpaceX is reportedly seeking around $10 billion in bank loans and $30 billion in investment-grade debt to buy Nvidia chips.",
-    "link": "https://www.nasdaq.com/articles/spacex-reportedly-wants-borrow-40-billion-nvidia-chips-despite-100-billion-cash-pile",
-    "pubDate": "Thu, 08 Oct 2026 03:43:02 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Nvidia’s secret to retaining staff? No org charts, a flat structure, and two extra days off every quarter",
-    "desc": "Over 19 years, Nvidia has evolved from a graphics-chip maker into one of the world’s most valuable companies. HR director Febe Punsalan says, despite these changes, the company is keeping its mission-driven, employee-led culture intact.",
-    "link": "https://fortune.com/2026/10/08/nvidia-secret-to-retaining-staff-no-org-charts-a-flat-structure-two-extra-days-off-every-quarter/",
-    "pubDate": "Thu, 08 Oct 2026 04:44:38 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "fortune",
-    "title": "How Siemens Healthineers is helping its international staff feel at home",
-    "desc": "Liza Follert, head of people attraction for Europe, the Middle East and Africa, explains how employee feedback has shaped Siemens Healthineers’ approach to inclusion, retention and recruitment",
-    "link": "https://fortune.com/2026/10/08/siemens-healthineers-is-helping-international-staff-feel-at-home/",
-    "pubDate": "Thu, 08 Oct 2026 04:33:44 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "fortune",
-    "title": "How Marriott’s leadership pipeline is helping it navigate Europe’s hospitality talent shortfall",
-    "desc": "Marriott International, ranked 15th on Fortune’s 100 Best Companies to Work For – Europe list, focuses on employee development to attract and retain talent.",
-    "link": "https://fortune.com/2026/10/08/how-marriott-leadership-pipeline-helping-navigate-europe-hospitality-talent-shortfall/",
-    "pubDate": "Thu, 08 Oct 2026 04:32:46 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Hilton is betting on people in an industry that can&#8217;t afford to lose them",
-    "desc": "A focus on purpose and retaining a people-centric approach in the age of AI has helped Hilton claim the top spot on Fortune 100 Best Companies to Work For — Europe list.",
-    "link": "https://fortune.com/2026/10/08/hilton-betting-on-people-in-an-industry-that-cant-afford-to-lose-them/",
-    "pubDate": "Thu, 08 Oct 2026 04:31:56 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Wealthy Gen Zers’ quiet love of art collecting, revealed: They’re outspending boomers and millennials—but keeping their collections off Instagram",
-    "desc": "Gen Z is on track to be the \"largest, wealthiest, and highest-spending generation to date,\" according to Art Basel and UBS.",
-    "link": "https://fortune.com/2026/10/08/wealthy-gen-z-art-collection-quiet-luxury/",
-    "pubDate": "Thu, 08 Oct 2026 04:01:00 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Gen Z is spending more on art than ever before. It’s a key piece of the Great Wealth Transfer, UBS says",
-    "desc": "Gen Z, whose oldest members are just 29, made up nearly half of high-net-worth collectors who purchased artwork priced about $1 million.",
-    "link": "https://fortune.com/2026/10/08/gen-z-is-spending-more-on-art-than-ever-before-its-a-key-piece-of-the-great-wealth-transfer-ubs-says/",
-    "pubDate": "Thu, 08 Oct 2026 04:01:00 +0000",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Asia stocks fall as surging oil, yields weigh; Samsung slips despite record profit",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-surging-oil-yields-weigh-samsung-slips-despite-record-profit-4937861",
-    "pubDate": "2026-10-08 04:14:02",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is SK Hynix stock gaining today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-gaining-today-93CH-4937860",
-    "pubDate": "2026-10-08 04:03:24",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Gift Nifty 50 trapped in downtrend below 22875: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-downtrend-intact-near-key-resistance-live-levels-93CH-4930996",
-    "pubDate": "2026-10-08 04:02:47",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Six AI-picked stocks are up 50%+; the top IT name has gained 33%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/six-aipicked-stocks-are-up-50-the-top-it-name-has-gained-33-4937850",
-    "pubDate": "2026-10-08 03:40:47",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Standard Chartered stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-standard-chartered-stock-sliding-today-93CH-4937847",
-    "pubDate": "2026-10-08 03:40:10",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is HSBC stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-hsbc-stock-sliding-today-93CH-4937845",
-    "pubDate": "2026-10-08 03:36:03",
-    "fetchedAt": "2026-10-08T05:01:36.617Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Market Extends Early Losses In Mid-market",
-    "desc": "(RTTNews) - The Australian market is extending its early losses in mid-market moves on Thursday, adding to the losses in the previous three sessions, following the broadly negative cues from Wall Street overnight. The benchmark S&P/ASX 200 is falling well below the 8,700 level, w",
-    "link": "https://www.nasdaq.com/articles/australian-market-extends-early-losses-mid-market-2",
-    "pubDate": "Thu, 08 Oct 2026 03:34:24 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "VersaBank's 2026 Outlook: U.S. Expansion Targets $300 Million in Annual Funding",
-    "desc": "Key PointsVersaBank is scaling its digital U.S. lending business through proprietary AI-enabled technology.",
-    "link": "https://www.nasdaq.com/articles/versabanks-2026-outlook-us-expansion-targets-300-million-annual-funding",
-    "pubDate": "Thu, 08 Oct 2026 03:27:24 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Markets Track Wall Street Lower",
-    "desc": "(RTTNews) - Asian markets are trading mostly lower on Thursday, following the broadly negative cues from Wall Street overnight, as rising volatility in crude oil prices, global currency and bond yields continue to weigh on market sentiment. Technology stocks are also dragging the",
-    "link": "https://www.nasdaq.com/articles/asian-markets-track-wall-street-lower-0",
-    "pubDate": "Thu, 08 Oct 2026 03:21:51 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Fed Minutes Suggest That More Interest Rate Hikes Could Be Necessary to Calm Persistent Inflation",
-    "desc": "Key PointsForecasts of a Fed rate hike in October have fallen sharply.",
-    "link": "https://www.nasdaq.com/articles/fed-minutes-suggest-more-interest-rate-hikes-could-be-necessary-calm-persistent-inflation",
-    "pubDate": "Thu, 08 Oct 2026 03:19:51 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Applied Digital Corporation Q1 Loss Increases",
-    "desc": "(RTTNews) - Applied Digital Corporation (APLD) reported Loss for its first quarter of -$237.08 million",
-    "link": "https://www.nasdaq.com/articles/applied-digital-corporation-q1-loss-increases",
-    "pubDate": "Thu, 08 Oct 2026 03:15:12 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Chewy vs. Uber Technologies: Which Consumer Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsChewy dominates the online pet supplies market through its high-engagement Autoship subscription model.",
-    "link": "https://www.nasdaq.com/articles/chewy-vs-uber-technologies-which-consumer-stock-better-buy-2026-1",
-    "pubDate": "Thu, 08 Oct 2026 03:14:54 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Levi Strauss Q3 Income Drops",
-    "desc": "(RTTNews) - Levi Strauss (LEVI) released a profit for third quarter that Drops, from the same period last year",
-    "link": "https://www.nasdaq.com/articles/levi-strauss-q3-income-drops",
-    "pubDate": "Thu, 08 Oct 2026 03:01:30 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Firan Technology Group Corporation Announces Increase In Q3 Bottom Line",
-    "desc": "(RTTNews) - Firan Technology Group Corporation (FTG.TO) revealed a profit for its third quarter that Increases, from last year",
-    "link": "https://www.nasdaq.com/articles/firan-technology-group-corporation-announces-increase-q3-bottom-line",
-    "pubDate": "Thu, 08 Oct 2026 02:38:38 +0000",
-    "fetchedAt": "2026-10-08T04:02:06.505Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-    "desc": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
-    "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-    "pubDate": "Thu, 08 Oct 2026 02:55:34 GMT",
-    "fetchedAt": "2026-10-08T03:01:53.054Z"
   }
 ]
