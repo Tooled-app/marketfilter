@@ -1,5 +1,237 @@
 [
   {
+    "source": "cnbc",
+    "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+    "desc": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
+    "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+    "pubDate": "Fri, 09 Oct 2026 06:16:19 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+    "desc": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features, and upgraded design warrant a higher price tag.",
+    "link": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+    "pubDate": "Thu, 08 Oct 2026 14:51:27 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction",
+    "desc": "Calling a bottom in the nonstop U.S. Treasury bond sell-off might seem crazy, but a handful of options traders look increasingly willing to do it.",
+    "link": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
+    "pubDate": "Thu, 08 Oct 2026 13:29:52 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "desc": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "pubDate": "Thu, 08 Oct 2026 11:49:39 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+    "desc": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+    "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 04:06:23 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'You cannot build this car anywhere else in the world'",
+    "desc": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 05:11:49 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Derry firm becomes one of UK's biggest car park operators after buying NCP",
+    "desc": "The Martin Group has become one of the UK's biggest car park operators after buying NCP out of administration.",
+    "link": "https://www.bbc.co.uk/news/articles/c693z8dz1kq4o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 12:20:37 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Industry leaders discuss island high value scheme",
+    "desc": "More than 260 industry leaders met to discuss the role wealthy residents play in Jersey's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 05:29:43 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The Bottom Line",
+    "desc": "What's going wrong with the largest economy in Europe?",
+    "link": "https://www.bbc.co.uk/sounds/play/m0032fqq?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 11:30:00 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "Take Five: Bangkok blues",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/take-five-bangkok-blues-4940280",
+    "pubDate": "2026-10-09 06:48:57",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "Firmus $5 billion float failure deals blow to Australia’s shrinking share market",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/firmus-5-billion-float-failure-deals-blow-to-australias-shrinking-share-market-4940292",
+    "pubDate": "2026-10-09 06:48:41",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "Asia stocks turn higher, tech recovers as OpenAI revenue fears ease",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+    "pubDate": "2026-10-09 06:48:15",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "Barclays turns bullish on Swedish stocks in Nordic bank ratings shake-up",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/barclays-turns-bullish-on-swedish-stocks-in-nordic-bank-ratings-shakeup-4940291",
+    "pubDate": "2026-10-09 06:47:29",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "SailPoint general counsel sells $888,955 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/sailpoint-general-counsel-sells-888955-in-stock-93CH-4940290",
+    "pubDate": "2026-10-09 06:46:13",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "Atrium Ljungberg reports nine-month rental income rise",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/atrium-ljungberg-reports-ninemonth-rental-income-rise-93CH-4940282",
+    "pubDate": "2026-10-09 06:42:44",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investing",
+    "title": "OpenAI says it has fired three researchers for violating sensitive information policy",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/openai-says-it-has-fired-three-researchers-for-violating-sensitive-information-policy-4940278",
+    "pubDate": "2026-10-09 06:36:35",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
+    "desc": "<p>Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in November</p><p><strong>Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.</strong></p><p>We’re seeing a dip in oil prices this morning, with <strong>Brent crude </strong>down about<strong> </strong>1% at<strong> $103 per barrel</strong>, following another momentary pause in US attacks on Iran.</p><p><br> We are having productive discussions with the Islamic Republic of Iran. I want to make it clear to everybody that, while Iran is in very bad condition, both Economically and Militarily, and while the Blockade will remain in full force and effect, with Oil flowing in Record Numbers of Barrels through the Hormuz Strait (22 Million Barrels, last night alone, with not one barrel coming from, or going to, Iran!), we will not be attacking Iran at any time prior to the Midterm Elections to be held in the United States on November 3rd. IRAN WILL NOT HAVE A NUCLEAR WEAPON!</p><p>9am BST: Italian Industrial production</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+    "pubDate": "Fri, 09 Oct 2026 06:52:20 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "ft",
+    "title": "Manchester City: too big to fail?",
+    "desc": "The sport is still shaped by the club’s acquisition in 2008",
+    "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
+    "pubDate": "Fri, 09 Oct 2026 04:00:22 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "ft",
+    "title": "Syria funnels assets from Assad cronies into secretive $50bn fund",
+    "desc": "The Syrian Sovereign Fund has taken control of a sprawling web of holdings and is seeking to entice Gulf investors",
+    "link": "https://www.ft.com/content/7dd72c96-70dc-4d91-ad1c-eff13a54d6c5?syn-25a6b1a6=1",
+    "pubDate": "Fri, 09 Oct 2026 04:00:22 GMT",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Apple cuts iPhone 18 Pro component orders by ~15% on chip costs: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651652-apple-cuts-iphone-18-pro-component-orders-by-15-on-chip-costs-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 02:38:06 -0400",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nasdaq CEO: Tokenization could unlock tens of billions in trapped capital",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651647-nasdaq-ceo-tokenization-could-unlock-tens-of-billions-in-trapped-capital?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 02:06:18 -0400",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's What $1,000 in These 6 Energy Dividend Stocks Could Pay You in a Year",
+    "desc": "If you are looking to generate income from the energy sector, these six dividend stocks will likely show up on your screens.",
+    "link": "https://www.fool.com/investing/2026/10/09/heres-what-1000-in-these-6-energy-dividend-stocks/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:35:00 +0000",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Skanska Wins $136 Mln Railroad Improvement Contract In Northeast USA",
+    "desc": "(RTTNews) - Skanska AB (SKA-B.ST, SKSBF), a construction and project development company, on Friday announced that it has signed a contract with a public client for a railroad improvement project in the northeastern United States.",
+    "link": "https://www.nasdaq.com/articles/skanska-wins-136-mln-railroad-improvement-contract-northeast-usa",
+    "pubDate": "Fri, 09 Oct 2026 06:14:05 +0000",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Lundin Q3 Gold Output Climbs; Backs Annual Production Outlook",
+    "desc": "(RTTNews) - Lundin Gold Inc. (LUG.ST, LUG.TO), a Canadian miner, reported a rise in gold production for the third quarter from its Fruta del Norte gold mine in southeast Ecuador, driven by higher than-planned grades and strong mill throughput.",
+    "link": "https://www.nasdaq.com/articles/lundin-q3-gold-output-climbs-backs-annual-production-outlook",
+    "pubDate": "Fri, 09 Oct 2026 06:08:26 +0000",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "American Express Gets $350 Mln Fine For Lapses In Anti-money Laundering Compliance Program",
+    "desc": "(RTTNews) - Integrated payments technology company American Express Co. (AXP) has been hit with a $350 million fine for deficiencies in its affiliated bank's Bank Secrecy Act or BSA and anti-money laundering or AML compliance program.",
+    "link": "https://www.nasdaq.com/articles/american-express-gets-350-mln-fine-lapses-anti-money-laundering-compliance-program",
+    "pubDate": "Fri, 09 Oct 2026 05:59:57 +0000",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
+    "desc": "Key PointsBroadcom has been partnering with Alphabet on chip design for years and projects that its AI semiconductor revenue will more than triple year over year in its fiscal third quarter.",
+    "link": "https://www.nasdaq.com/articles/3-stocks-poised-gain-google-brings-its-ai-chips-market",
+    "pubDate": "Fri, 09 Oct 2026 05:57:00 +0000",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "DCC Energy to sell Nexora unit for $725 mln",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/dcc-energy-to-sell-nexora-unit-for-725-mln-4940277",
+    "pubDate": "2026-10-09 06:36:08",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "SSP on track for FY26 earnings despite Middle East conflict, £50 mln buyback",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ssp-on-track-for-fy26-earnings-despite-middle-east-conflict-50-mln-buyback-4940270",
+    "pubDate": "2026-10-09 06:25:43",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Apple cuts iPhone18 Pro component orders amid sluggish demand- Nikkei",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/apple-cuts-iphone18-pro-component-orders-amid-sluggish-demand-nikkei-4940267",
+    "pubDate": "2026-10-09 06:21:18",
+    "fetchedAt": "2026-10-09T07:01:54.510Z"
+  },
+  {
     "source": "bbc",
     "title": "White House blocks Microsoft from foreign worker hiring programme",
     "desc": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
@@ -6165,238 +6397,6 @@
     "desc": "",
     "link": "https://seekingalpha.com/news/4651404-myriad-sophia-partner-astrazeneca-use-prostate-cancer-technology?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
     "pubDate": "Thu, 08 Oct 2026 10:48:44 -0400",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3 Reasons LOCO is Risky and 1 Stock to Buy Instead",
-    "desc": "Since April 2026, El Pollo Loco has been in a holding pattern, posting a small return of 1.6% while floating around $14.24. The stock also fell short of the S&P 500’s 15.2% gain during that period.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-loco-risky-1-144009917.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:40:09 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "BC-Most Active Stocks",
-    "desc": "NEW YORK (AP) — prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change Stardust Power Inc.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143029861.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:30:29 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Nasdaq Sinks As Trump's War Talk Stokes Oil; Broadcom Slides (Live Coverage)",
-    "desc": "The Dow Jones index declines Thursday after Trump's latest Iran comments. Treasury yields and oil prices surge.",
-    "link": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:16:52 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Warren Buffett's Top Strategy for Navigating a Market Crash",
-    "desc": "Stocks can have some of their best days when the outlook is most pessimistic.",
-    "link": "https://www.fool.com/investing/2026/10/08/warren-buffetts-top-strategy-for-navigating-a-mark/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:05:00 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Meta’s (META) AI Strategy Gains Momentum with Muse",
-    "desc": "Suncoast Equity Management, an SEC-registered Investment Advisory (RIA), released its Q3 2026 investor letter for “U.S. Equity Large Cap Select Growth Strategy.” The letter can be downloaded here. The strategy advanced 4.2% after fees in Q3, compared to 2.3% for the S&P 500, marking a potential shift in market leadership. Despite lagging the S&P 500 […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-ai-strategy-gains-144459494.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:44:59 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Amphenol’s (APH) Exceptional Earnings Momentum Backed by Datacenter and Industrial Demand",
-    "desc": "Suncoast Equity Management, an SEC-registered Investment Advisory (RIA), released its Q3 2026 investor letter for “U.S. Equity Large Cap Select Growth Strategy.” The letter can be downloaded here. The strategy advanced 4.2% after fees in Q3, compared to 2.3% for the S&P 500, marking a potential shift in market leadership. Despite lagging the S&P 500 […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amphenol-aph-exceptional-earnings-momentum-143636571.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:36:36 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Is AMD Stock Paying You Enough For The Swings?",
-    "desc": "Advanced Micro Devices (AMD) eclipsed $1 trillion in market value in September, and you may hold it alongside funds that simply track the broader market. A single stock exposes investors to sharper price swings than a diversified fund, and the returns must justify that extra risk. Over the years, has AMD paid its holders more for each jolt than the plain index has.",
-    "link": "https://www.trefis.com/articles/617987/is-amd-stock-paying-you-enough-for-the-swings/2026-10-08?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:32:49 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "GoDaddy (GDDY): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "GoDaddy has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 19.7% to $96.72 per share while the index has gained 15.2%.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/godaddy-gddy-buy-sell-hold-143209621.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:32:09 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Hamilton Lane (HLNE): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Over the last six months, Hamilton Lane’s shares have sunk to $85.26, producing a disappointing 12.2% loss - a stark contrast to the S&P 500’s 15.2% gain. This may have investors wondering how to approach the situation.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-hlne-buy-sell-142409118.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:24:09 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Should Carnival Stock Investors Be Watching Now?",
-    "desc": "Shares of Carnival Corporation (CCL) rose more than 12% on September 29, 2026, after third-quarter results beat Wall Street estimates. However, the stock has still lost 8.7% over twelve months, trailing behind the S&P 500 and its 17.1% return. A single strong quarter may not have resolved the underlying worry that weighed on the shares since August: one cost that Carnival does not control. Which cost is it, and how much has it weighed on the earnings outlook.",
-    "link": "https://www.trefis.com/articles/617948/what-should-carnival-stock-investors-be-watching-now/2026-10-08?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:23:19 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Astrana Health (ASTH): Buy, Sell, or Hold Post Q2 Earnings?",
-    "desc": "Astrana Health’s 35.1% return over the past six months has outpaced the S&P 500 by 19.8%, and its stock price has climbed to $37.03 per share. This run-up might have investors contemplating their next move.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/astrana-health-asth-buy-sell-141609730.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:16:09 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Uber Technologies (UBER): Strong Operational Growth Offset by Soft Guidance",
-    "desc": "Suncoast Equity Management, an SEC-registered Investment Advisory (RIA), released its Q3 2026 investor letter for “U.S. Equity Large Cap Select Growth Strategy.” The letter can be downloaded here. The strategy advanced 4.2% after fees in Q3, compared to 2.3% for the S&P 500, marking a potential shift in market leadership. Despite lagging the S&P 500 […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-strong-operational-141051947.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:10:51 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "2 Reasons to Watch TBBK and 1 to Stay Cautious",
-    "desc": "Over the past six months, The Bancorp’s stock price fell to $48.67. Shareholders have lost 15.4% of their capital, which is disappointing considering the S&P 500 has climbed by 15.2%. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-tbbk-1-140809270.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:08:09 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Andrew Hill Investment Fund Likes ONEOK (OKE) as U.S. Energy Demand Rises",
-    "desc": "Andrew Hill Investment Advisors recently released its third-quarter 2026 investor letter. A copy of the letter can be downloaded here. The fund navigated a mixed third-quarter investment environment in which rising oil prices, higher interest rates, and persistent inflation created headwinds for equities and bonds, although strong corporate earnings and continued AI investment helped support […]",
-    "link": "https://finance.yahoo.com/energy/articles/andrew-hill-investment-fund-likes-140110543.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:01:10 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Garmin (GRMN) Is More Diversified Than Many Investors Realize: Here’s Why",
-    "desc": "Andrew Hill Investment Advisors recently released its third-quarter 2026 investor letter. A copy of the letter can be downloaded here. The fund navigated a mixed third-quarter investment environment in which rising oil prices, higher interest rates, and persistent inflation created headwinds for equities and bonds, although strong corporate earnings and continued AI investment helped support […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-more-diversified-many-140044932.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:00:44 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Arista Networks (ANET) Could Be a Key Winner From the AI Infrastructure Boom",
-    "desc": "Andrew Hill Investment Advisors recently released its third-quarter 2026 investor letter. A copy of the letter can be downloaded here. The fund navigated a mixed third-quarter investment environment in which rising oil prices, higher interest rates, and persistent inflation created headwinds for equities and bonds, although strong corporate earnings and continued AI investment helped support […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-could-key-140032511.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:00:32 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Exiting Aon plc (AON) Following Middle Market M&A",
-    "desc": "Suncoast Equity Management, an SEC-registered Investment Advisory (RIA), released its Q3 2026 investor letter for “U.S. Equity Large Cap Select Growth Strategy.” The letter can be downloaded here. The strategy advanced 4.2% after fees in Q3, compared to 2.3% for the S&P 500, marking a potential shift in market leadership. Despite lagging the S&P 500 […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exiting-aon-plc-aon-following-140032301.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:00:32 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Palantir Stock Has a Secret Weapon in the AI Boom, Goldman Sachs Says",
-    "desc": "Goldman Sachs upgrades Palantir Technologies to Buy from Neutral, citing an explosion of demand for sovereign and bespoke AI.",
-    "link": "https://finance.yahoo.com/m/47c3d90f-e604-3205-9633-a033a8da1007/palantir-stock-has-a-secret.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:10:00 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Tilray Brands Sinks 4% as Record Revenue Masks Shrinking Cannabis Sales; Canopy Growth and Aurora Cannabis Ease",
-    "desc": "Tilray Brands just posted a first-quarter revenue record, yet investors are selling the stock hard this morning. The reason hiding inside the headline number explains why Canopy Growth and Aurora Cannabis are watching from a safe distance.",
-    "link": "https://247wallst.com/investing/2026/10/08/tilray-brands-sinks-4-as-record-revenue-masks-shrinking-cannabis-sales-canopy-growth-and-aurora-cannabis-ease/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:09:52 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CRH November 27th Options Begin Trading",
-    "desc": "Investors in CRH plc (Symbol: CRH) saw new options become available today, for the November 27th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the CRH options chain for the new November 27th contracts and identified one put and one call co",
-    "link": "https://www.nasdaq.com/articles/crh-november-27th-options-begin-trading",
-    "pubDate": "Thu, 08 Oct 2026 14:38:37 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "November 27th Options Now Available For Select Sector SPDR Trust - State Street Energy Select Sector SPDR ETF (XLE)",
-    "desc": "Investors in Select Sector SPDR Trust - State Street Energy Select Sector SPDR ETF (Symbol: XLE) saw new options become available today, for the November 27th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the XLE options chain for the new",
-    "link": "https://www.nasdaq.com/articles/november-27th-options-now-available-select-sector-spdr-trust-state-street-energy-select",
-    "pubDate": "Thu, 08 Oct 2026 14:38:35 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Interesting XLY Put And Call Options For November 27th",
-    "desc": "Investors in Select Sector SPDR Trust - State Street Consumer Discretionary Select Sector SPDR ETF (Symbol: XLY) saw new options become available today, for the November 27th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the XLY options ch",
-    "link": "https://www.nasdaq.com/articles/interesting-xly-put-and-call-options-november-27th",
-    "pubDate": "Thu, 08 Oct 2026 14:38:32 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "November 27th Options Now Available For Devon Energy (DVN)",
-    "desc": "Investors in Devon Energy Corp. (Symbol: DVN) saw new options become available today, for the November 27th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the DVN options chain for the new November 27th contracts and identified one put and",
-    "link": "https://www.nasdaq.com/articles/november-27th-options-now-available-devon-energy-dvn",
-    "pubDate": "Thu, 08 Oct 2026 14:38:31 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Interesting M Put And Call Options For November 27th",
-    "desc": "Investors in Macy's Inc (Symbol: M) saw new options begin trading today, for the November 27th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the M options chain for the new November 27th contracts and identified one put and one call contra",
-    "link": "https://www.nasdaq.com/articles/interesting-m-put-and-call-options-november-27th",
-    "pubDate": "Thu, 08 Oct 2026 14:38:26 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Palantir Stock Popped on Thursday",
-    "desc": "Key PointsGoldman Sachs analyst Gabriela Borges upgraded Palantir stock to \"buy\" with a $230 price target this morning.",
-    "link": "https://www.nasdaq.com/articles/why-palantir-stock-popped-thursday",
-    "pubDate": "Thu, 08 Oct 2026 14:34:34 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-    "desc": "Key PointsCathie Wood's Ark Invest was a buyer of Archer Aviation, Joby Aviation, and WeRide on Wednesday.",
-    "link": "https://www.nasdaq.com/articles/cathie-wood-goes-bargain-hunting-3-stocks-she-just-bought-6",
-    "pubDate": "Thu, 08 Oct 2026 14:31:47 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nucor To Invest $105 Mln To Expand Indiana Utility Towers Facility",
-    "desc": "(RTTNews) - U.S. steelmaker Nucor Corp. (NUE), announced on Thursday that it will invest $105 million to expand production at its Nucor Towers & Structures facility in Crawfordsville, Indiana, adding capacity to manufacture utility poles and related products.",
-    "link": "https://www.nasdaq.com/articles/nucor-invest-105-mln-expand-indiana-utility-towers-facility",
-    "pubDate": "Thu, 08 Oct 2026 14:28:05 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: Johnson & Johnson Will Be a Faster-Growing Company by 2030 Than Most Investors Expect",
-    "desc": "Key PointsJohnson &amp; Johnson&rsquo;s decision to separate from its consumer health segment could help raise top-line growth over the medium term.",
-    "link": "https://www.nasdaq.com/articles/prediction-johnson-johnson-will-be-faster-growing-company-2030-most-investors-expect",
-    "pubDate": "Thu, 08 Oct 2026 14:25:00 +0000",
-    "fetchedAt": "2026-10-08T15:01:31.594Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Ex-Div Reminder for Oracle (ORCL)",
-    "desc": "Looking at the universe of stocks we cover at Dividend Channel, on 10/9/26, Oracle Corp (Symbol: ORCL) will trade ex-dividend, for its quarterly dividend of $0.50, payable on 10/23/26. As a percentage of ORCL's recent stock price of $141.34, this dividend works out to approxima",
-    "link": "https://www.nasdaq.com/articles/ex-div-reminder-oracle-orcl",
-    "pubDate": "Thu, 08 Oct 2026 14:24:09 +0000",
     "fetchedAt": "2026-10-08T15:01:31.594Z"
   }
 ]
