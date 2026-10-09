@@ -1,6 +1,502 @@
 [
   {
     "source": "cnbc",
+    "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
+    "desc": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+    "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+    "pubDate": "Fri, 09 Oct 2026 20:16:58 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    "desc": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:32:42 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "desc": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+    "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 19:32:50 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "bbc",
+    "title": "White House blocks Microsoft from foreign worker hiring programme",
+    "desc": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 21:37:35 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "bbc",
+    "title": "'You cannot build this car anywhere else in the world'",
+    "desc": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 05:11:49 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+    "desc": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+    "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 09 Oct 2026 07:14:30 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Derry firm becomes one of UK's biggest car park operators after buying NCP",
+    "desc": "The Martin Group has become one of the UK's biggest car park operators after buying NCP out of administration.",
+    "link": "https://www.bbc.co.uk/news/articles/c693z8dz1kq4o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 12:20:37 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "RBC reports semiconductor short interest rises 1% in late September",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/rbc-reports-semiconductor-short-interest-rises-1-in-late-september-93CH-4941716",
+    "pubDate": "2026-10-09 20:48:47",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
+    "pubDate": "2026-10-09 20:36:57",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.83%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691",
+    "pubDate": "2026-10-09 20:31:11",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.48%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-148-4941688",
+    "pubDate": "2026-10-09 20:30:38",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Brazil stocks higher at close of trade; Bovespa up 1.38%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-138-4941679",
+    "pubDate": "2026-10-09 20:30:06",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Wall Street ends higher, Nasdaq and Dow post weekly gains as oil eases",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+    "pubDate": "2026-10-09 20:15:47",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Hunterbrook discloses Meta short position as alternative data signals Muse cooling",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/hunterbrook-discloses-meta-short-position-as-alternative-data-signals-muse-cooling-4941655",
+    "pubDate": "2026-10-09 20:08:20",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is AGCO stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-agco-stock-sliding-today-93CH-4941634",
+    "pubDate": "2026-10-09 19:59:25",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is CNH Industrial stock sliding today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-cnh-industrial-stock-sliding-today-93CH-4941633",
+    "pubDate": "2026-10-09 19:53:51",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
+    "desc": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+    "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+    "pubDate": "Fri, 09 Oct 2026 20:51:00 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Here&#x2019;s how Treasury yields could rise to 6% &#x2014; even without market upheaval",
+    "desc": "The bond market will be closed on Monday for Columbus Day, but the stock market will operate normally.",
+    "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+    "pubDate": "Fri, 09 Oct 2026 20:03:00 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
+    "desc": "<p>The Tory leader’s proposal to slash the tax would shovel £6bn of taxpayer money to the already-wealthy</p><p>Kemi Badenoch’s <a href=\"https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech\">inheritance tax gambit</a> is a Conservative classic. After all, it was George Osborne’s high-profile pledge to “take the family home out of inheritance tax” in 2007 that put Gordon Brown off calling a snap general election.</p><p>In practice, Osborne’s plan involved a £1m threshold for inheritance tax – and given the global financial crisis had blown a hole in the public finances by the time the Conservative-Lib Dem coalition came to power in 2010, it never came to pass.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
+    "pubDate": "Wed, 07 Oct 2026 17:16:52 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Apparent exodus of super-rich suggests UK is no longer billionaires’ playground",
+    "desc": "<p>If recent complaints are believed, London and the UK are no longer welcoming for ultra-high net worth individuals</p><p>London was once globally renowned as the “billionaires’ playground”, where the world’s super-rich could relax in the Georgian townhouses of Mayfair undisturbed by the grasping hand of the state.</p><p>But if recent complaints by fleeing ultra-high net worth individuals are to be believed, the city is no longer as welcoming for those who consider themselves to be Britain’s most-persecuted minority.</p> <a href=\"https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground",
+    "pubDate": "Wed, 07 Oct 2026 07:00:37 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "guardian",
+    "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+    "desc": "<p>Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese imports</p><p>EU trade negotiators are heading to China for two days of crunch talks aimed at sealing a breakthrough deal tackling Beijing’s record £1bn-a-day trade surplus by curbing its exports of cheap hybrid electric cars into Europe.</p><p>Trade commissioner Maroš Šefčovič and his team fly out on Wednesday and will be negotiating up to the wire in talks scheduled to start the following day and continue late into Friday.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+    "pubDate": "Wed, 07 Oct 2026 04:00:34 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
+    "desc": "<p>In the second article in a series on the Polish economy, we look at how the country is forging closer ties with its neighbours</p><p>Two miles off the coast of Gdańsk, the white steel piles of Poland’s first offshore gas terminal rise from the slate-grey Baltic. Installed at a height eight metres above the waves, the floating cranes and construction vessels here are on the frontline of Europe’s push for energy security.</p><p>Since the taps were turned off on Russian gas after Vladimir Putin’s invasion of Ukraine four years ago, Poland has turned to the global energy market for supplies. But while conditions are far from ideal as the Middle East war drives oil and gas prices to stratospheric levels, strengthening the diversity of the country’s energy mix remains a top priority for Poland, its Baltic neighbours, and the EU at large.</p> <a href=\"https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
+    "pubDate": "Wed, 07 Oct 2026 04:00:33 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "ft",
+    "title": "The rightwing rapper taking on Pedro Sánchez in Spain",
+    "desc": "Angie Corine’s Vox-inspired satire has made her a symbol of the vitriol directed at the prime minister during the election",
+    "link": "https://www.ft.com/content/ec5cf1f8-e4cf-4b87-ae89-276ab9532856?syn-25a6b1a6=1",
+    "pubDate": "Fri, 09 Oct 2026 10:00:12 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "ft",
+    "title": "JD Vance casts doubt on Pentagon’s plan to livestream execution",
+    "desc": "Split reveals an emerging schism in the Republican Party over plan to broadcast killing of Fort Hood shooter",
+    "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
+    "pubDate": "Fri, 09 Oct 2026 20:29:45 GMT",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Moderna gains 14% to set fresh 52-week high",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651887-moderna-gains-14-to-set-fresh-52-week-high?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:58:51 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "T-Mobile US plunges 13% to new 52-week low amid new competitive threat",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651873-t-mobile-us-plunges-13-to-new-52-week-low-amid-new-competitive-threat?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:51:21 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "CCC Intelligent Solutions jumps on report GTCR, Elliott near takeover",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651885-ccc-intelligent-solutions-jumps-on-report-gtcr-elliott-near-takeover?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:47:11 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "The emerging threat landscape for agentic AI in cybersecurity",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651773-the-emerging-threat-landscape-for-agentic-ai-in-cybersecurity?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:43:38 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nasdaq to suspend trading in Pomdoctor securities following non-compliance",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651876-nasdaq-to-suspend-trading-in-pomdoctor-securities-following-non-compliance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:41:24 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "CytoMed Therapeutics receives Nasdaq notice over minimum bid price deficiency",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651884-cytomed-therapeutics-receives-nasdaq-notice-over-minimum-bid-price-deficiency?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:40:48 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "QTREX receives Nasdaq non-compliance notice",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4651882-qtrex-receives-nasdaq-non-compliance-notice?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 09 Oct 2026 16:39:49 -0400",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "S&P 500 Posts Weekly Gain, Led by Consumer Staples, Utilities",
+    "desc": "The Standard & Poor's 500 index rose 1.2% this week as the consumer staples and utilities sectors le",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204547272.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:45:47 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
+    "desc": "Despite some chop, the S&P 500 and Nasdaq are near highs. ASML and Nvidia chipmaker Taiwan Semi earnings may decide if the AI stock pullback is bullish.",
+    "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:44:20 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Dow Pops As Indexes Finish Week In The Black; Big Bank Earnings Up Ahead",
+    "desc": "The Dow Jones index rises Friday even as Apple stock sells off in morning trading. SpaceX jumps on a Starlink move.",
+    "link": "https://finance.yahoo.com/m/28cc6e84-55ef-3400-a6d0-5194e315d2cb/stock-market-today%3A-dow-pops.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:28:44 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "US Equity Indexes Rise This Week as Broad-Based Rally Helps Offset Tech Declines While Treasury Yields Remain Elevated",
+    "desc": "US equity indexes rose this week as a broad-based rally outweighed weakness in technology amid eleva",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-week-202315082.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:23:15 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How major US stock indexes fared Friday 10/9/2026",
+    "desc": "stocks rose to close out a record-setting week, even as other financial markets remained indecisive.6% Friday and came close to topping its all-time high set three days earlier.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201628920.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:16:28 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stocks Recovered From an AI-Fueled Drop To End The Week Despite Higher Oil Prices And Bond Yields",
+    "desc": "Elsewhere, consumer sentiment hit a five-month low in October after dropping further over the first days of the month.",
+    "link": "https://www.ibtimes.com/stocks-recovered-ai-fueled-drop-end-week-despite-higher-oil-prices-bond-yields-3808439?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:05:10 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Nasdaq Announces End-of-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date September 30, 2026",
+    "desc": "NEW YORK, Oct. 09, 2026 (GLOBE NEWSWIRE) -- At the end of the settlement date of September 30, 2026, short interest in 3,885 Nasdaq Global MarketSM securities totaled 18,657,486,300 shares compared with 18,116,572,644 shares in 3,862 Global Market issues reported for the prior settlement date of September 15, 2026. The September short interest represents 3.19 days compared with 3.55 days for the prior reporting period. Short interest in 1,667 securities on The Nasdaq Capital MarketSM totaled 4,4",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-announces-end-month-open-200500396.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:05:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "A Once-in-a-Decade Opportunity: 2 Magnificent Dividend Stocks Down 34% to 52% I'm Buying Right Now",
+    "desc": "Whether you want a higher 3% dividend yield or a quickly growing dividend that yields 1.2%, these two stocks look like rare opportunities.",
+    "link": "https://www.fool.com/investing/2026/10/09/a-once-in-a-decade-opportunity-2-magnificent-divid/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:05:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "S&P 500 Closes Just Off Record High. Here Come the Earnings.",
+    "desc": "Stocks finished strong with all three major indexes ending the week higher.",
+    "link": "https://finance.yahoo.com/m/9521a27b-638d-3114-b400-ecb4afb4f660/s%26p-500-closes-just-off.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:02:33 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "From Trimming To Doubling Down: Why We Pressed Cybersecurity Stocks",
+    "desc": "Having the flexibility to alert course made an oversized position pay off.",
+    "link": "https://finance.yahoo.com/m/17587b4b-2466-349a-96f2-8e4820e333e3/from-trimming-to-doubling.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:47:11 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Indexes Rise as Mega-Cap Technology Advances Amid Broad-Based Market Rally",
+    "desc": "(Updates with index/price moves, macroeconomic data, and economist comments from the first paragraph",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-mega-203657948.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:36:57 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "QTREX Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Requirement",
+    "desc": "Shares back above $1.00 for 6 consecutive trading days Ness Ziona, Israel, Oct. 09, 2026 (GLOBE NEWSWIRE) -- QTREX Quantum Ltd. (Nasdaq: QTEX) (“QTREX” or the “Company”), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, announced today that on October 5, 2026 it received a written notification from the Listing Qualifications Department of The Nasdaq Stock Market LLC (“Nasdaq”) indicating that, for the 30 consecutive business days fr",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/qtrex-announces-receipt-nasdaq-notification-203000197.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:30:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "CytoMed Therapeutics Limited Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Deficiency",
+    "desc": "SINGAPORE, Oct. 09, 2026 (GLOBE NEWSWIRE) -- CytoMed Therapeutics Limited (the “Company”) (NASDAQ: GDTC), a Singapore-based clinical stage biopharmaceutical company focused on harnessing its proprietary technologies to develop novel affordable donor-derived, cell-based allogeneic immunotherapies, today announced that on October 6, 2026, the Company received a notice from the staff of the Nasdaq Listing Qualifications department of The Nasdaq Stock Market LLC (“Nasdaq”) stating that for the last",
+    "link": "https://finance.yahoo.com/healthcare/articles/cytomed-therapeutics-limited-announces-receipt-203000888.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:30:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "VULCAN DECLARES QUARTERLY DIVIDEND ON COMMON STOCK",
+    "desc": "The Board of Directors of Vulcan Materials Company (NYSE: VMC) today declared a quarterly cash dividend of $0.52 per share on its common stock. The dividend will be payable on November 24, 2026, to shareholders of record at the close of business on November 9, 2026.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vulcan-declares-quarterly-dividend-common-201900546.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:19:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "This Stock Is Up More than 560% This Year, but It Could Drop by 38%, According to Wall Street",
+    "desc": "Have Moderna’s shares risen too much, too fast?",
+    "link": "https://www.fool.com/investing/2026/10/09/this-stock-is-up-more-than-560-this-year-but-it-could-drop-by-36-according-to-wall-street/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:20:02 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Should American Airlines Stock Investors Be Watching Now?",
+    "desc": "American Airlines (AAL) posted record quarterly revenue for the second quarter of fiscal 2026, growing sales 16.3% from a year earlier. Yet this top-line expansion has not translated to market success. The stock has lost 25% over the three months to October 8, 2026, while the S&P 500 gained 2.8%. A single cost at American is expanding far faster than overall sales, and executives spent much of their July 2026 earnings call addressing it. So what is that cost, and how big has it become.",
+    "link": "https://www.trefis.com/articles/618168/what-should-american-airlines-stock-investors-be-watching-now/2026-10-09?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:08:11 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+    "desc": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index increasing 0.1% an",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200021174.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:00:21 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "If I Could Tell All Long-Term Investors Just 1 Thing Right Now, It's This",
+    "desc": "Key PointsCompound earnings occur when the interest you earn on investments begins to earn interest on itself.",
+    "link": "https://www.nasdaq.com/articles/if-i-could-tell-all-long-term-investors-just-1-thing-right-now-its",
+    "pubDate": "Fri, 09 Oct 2026 20:35:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Here's What $1,000 Invested in Nebius Could Be Worth by 2030",
+    "desc": "Key PointsNebius&rsquo; stock has soared over the past two years.",
+    "link": "https://www.nasdaq.com/articles/heres-what-1000-invested-nebius-could-be-worth-2030",
+    "pubDate": "Fri, 09 Oct 2026 20:30:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Canadian Stocks Rally As Weaker-Than-Expected Jobs Data Eases Rate Hike Concerns",
+    "desc": "(RTTNews) - After ending the previous session moderately higher, Canadian stocks showed a more significant move to the upside during trading on Friday.",
+    "link": "https://www.nasdaq.com/articles/canadian-stocks-rally-weaker-expected-jobs-data-eases-rate-hike-concerns",
+    "pubDate": "Fri, 09 Oct 2026 20:27:34 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Relative Strength Alert For Thor Industries",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/relative-strength-alert-thor-industries",
+    "pubDate": "Fri, 09 Oct 2026 20:22:58 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Nexa Resources Breaks Above 200-Day Moving Average - Bullish for NEXA",
+    "desc": "In trading on Friday, shares of Nexa Resources SA (Symbol: NEXA) crossed above their 200 day moving average of $12.82, changing hands as high as $13.30 per share. Nexa Resources SA shares are currently trading up about 5.4% on the day. The chart below shows the one year perfor",
+    "link": "https://www.nasdaq.com/articles/nexa-resources-breaks-above-200-day-moving-average-bullish-nexa",
+    "pubDate": "Fri, 09 Oct 2026 20:22:42 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Fair Isaac Becomes Oversold (FICO)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/fair-isaac-becomes-oversold-fico",
+    "pubDate": "Fri, 09 Oct 2026 20:22:16 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "LGI Homes Enters Oversold Territory (LGIH)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/lgi-homes-enters-oversold-territory-lgih",
+    "pubDate": "Fri, 09 Oct 2026 20:22:12 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Liberty Capital Enters Oversold Territory (GLIBK)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/liberty-capital-enters-oversold-territory-glibk",
+    "pubDate": "Fri, 09 Oct 2026 20:22:07 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Oversold Conditions For Park Aerospace (PKE)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/oversold-conditions-park-aerospace-pke",
+    "pubDate": "Fri, 09 Oct 2026 20:22:04 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "EAF Makes Bullish Cross Above Critical Moving Average",
+    "desc": "In trading on Friday, shares of GrafTech International Ltd (Symbol: EAF) crossed above their 200 day moving average of $9.02, changing hands as high as $9.31 per share. GrafTech International Ltd shares are currently trading up about 2.3% on the day. The chart below shows the",
+    "link": "https://www.nasdaq.com/articles/eaf-makes-bullish-cross-above-critical-moving-average",
+    "pubDate": "Fri, 09 Oct 2026 20:22:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "I Know I'll Get Some Social Security in Retirement. Here's Why I'm Planning Like I Won't.",
+    "desc": "Key PointsSocial Security is six years away from a funding shortfall.",
+    "link": "https://www.nasdaq.com/articles/i-know-ill-get-some-social-security-retirement-heres-why-im-planning-i-wont",
+    "pubDate": "Fri, 09 Oct 2026 20:20:00 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "U.S. Stocks Show Notable Move Back To The Upside, Closing Higher For The Week",
+    "desc": "(RTTNews) - After coming under pressure over the course of the previous session, stocks showed a notable move back to the upside during trading on Friday. The major averages all finished the day firmly in positive territory.",
+    "link": "https://www.nasdaq.com/articles/us-stocks-show-notable-move-back-upside-closing-higher-week",
+    "pubDate": "Fri, 09 Oct 2026 20:15:54 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "BlackRock Resources & Commodities Strategy Trust (BCX) Shares Cross Above 200 DMA",
+    "desc": "In trading on Friday, shares of BlackRock Resources &amp; Commodities Strategy Trust (Symbol: BCX) crossed above their 200 day moving average of $12.15, changing hands as high as $12.25 per share. BlackRock Resources &amp; Commodities Strategy Trust shares are currently trading",
+    "link": "https://www.nasdaq.com/articles/blackrock-resources-commodities-strategy-trust-bcx-shares-cross-above-200-dma",
+    "pubDate": "Fri, 09 Oct 2026 20:11:16 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "DG Makes Bullish Cross Above Critical Moving Average",
+    "desc": "In trading on Friday, shares of Dollar General Corp (Symbol: DG) crossed above their 200 day moving average of $126.57, changing hands as high as $127.95 per share. Dollar General Corp shares are currently trading up about 2.6% on the day. The chart below shows the one year pe",
+    "link": "https://www.nasdaq.com/articles/dg-makes-bullish-cross-above-critical-moving-average",
+    "pubDate": "Fri, 09 Oct 2026 20:08:15 +0000",
+    "fetchedAt": "2026-10-09T21:01:32.985Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
     "desc": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
@@ -5902,501 +6398,5 @@
     "link": "https://seekingalpha.com/news/4651666-industrial-logistics-properties-declares-010-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
     "pubDate": "Fri, 09 Oct 2026 04:24:54 -0400",
     "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Service Properties Trust declares $0.05 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651664-service-properties-trust-declares-005-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 04:15:47 -0400",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Cmb.Tech NV declares $0.64 interim dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651663-cmbtech-nv-declares-064-interim-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 04:12:31 -0400",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Enterprise Products Partners declares $0.56 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651662-enterprise-products-partners-declares-056-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 04:07:03 -0400",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why Are Nasdaq Futures Surging Premarket? SPCX, ASTS, AAPL, TMUS, VZ, NVDA, MU, LITE Stocks In Focus",
-    "desc": "On Stocktwits, retail sentiment toward SPY and QQQ has remained ‘extremely bullish’ this week.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-surging-premarket-spcx-asts-aapl-tmus-vz-nvda-mu-lite-stocks-in-focus/cZD6jb4RBVM?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 08:38:57 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "2 Financials Stocks Worth Your Attention and 1 We Find Risky",
-    "desc": "Financial providers use their expertise in capital allocation and risk assessment to help facilitate economic growth while offering consumers and businesses essential financial services. But uncertainty about fiscal and monetary policy has tempered enthusiasm, limiting the industry’s gains to 6.6% over the past six months. This return lagged the S&P 500’s 14.3% climb.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/2-financials-stocks-worth-attention-082710172.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 08:27:10 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Stock Market Today: S&P 500 Futures Dip As Higher Inflation Expectations Lift Rate Fears",
-    "desc": "The Morning Bull - US Market Morning Update Friday, Oct, 9 2026 US stocks are set for a softer open, with sentiment tilted toward risk off as inflation expectations push higher again. The single driver this morning is a renewed focus on interest rates after fresh survey data. Median US inflation expectations for the year ahead sit at 3.9% for September 2026, the highest since May 2023. Fed minutes also show most officials see a likely need for another 25 bps hike to a range of 3.75% to 4% by...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081118848.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 08:11:18 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil prices fall, tech recovers",
-    "desc": "US stock futures rose fractionally on Friday as oil prices fell and tech stocks rebounded.",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 08:01:48 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Democrats Have a 93% Chance of Retaking at Least One House of Congress on Nov. 3 -- History Says That's Bad News for Stocks",
-    "desc": "There’s a silver lining to even the direst stock market forecasts.",
-    "link": "https://www.fool.com/investing/2026/10/09/democrats-93-chance-retaking-at-least-one-house-congress-nov-3-history-says-bad-news-for-stocks/?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 08:26:02 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "OpenAI revenue reports; Delta Air Lines to report - what’s moving markets",
-    "desc": "Investing.com - Futures linked to the main U.S. indices inch up, as investors assess the outlook for the artificial intelligence boom following a series of media reports about revenues at ChatGPT-maker OpenAI. Delta Air Lines is due to unveil its latest quarterly earnings, as the carrier grapples with an uptick in fuel costs. A fresh survey of U.S. consumer sentiment could provide some insight into the mindset of U.S. households prior to the holiday shopping season.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/openai-revenue-reports-delta-air-082223700.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 08:22:23 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "World shares are mostly higher and crude prices fall after an unsettled day on Wall St",
-    "desc": "Shares were mostly higher Friday in Europe and Asia, while oil prices fell back from recent gains. In early European trading, the German DAX rose 0.",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-crude-prices-045311568.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 04:53:11 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Shares Rise As Oil Prices And Bond Yields Dip",
-    "desc": "(RTTNews) - Asian stocks ended mostly higher in thin trade on Friday, with markets in South Korea and Taiwan closed for a holiday.",
-    "link": "https://www.nasdaq.com/articles/asian-shares-rise-oil-prices-and-bond-yields-dip",
-    "pubDate": "Fri, 09 Oct 2026 08:39:33 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's Where Palantir and 4 Other AI Software Stocks Could Be in 5 Years",
-    "desc": "Key PointsPalantir and CrowdStrike are already proving that AI drives revenue, but both trade at valuations that leave little room for disappointment.",
-    "link": "https://www.nasdaq.com/articles/heres-where-palantir-and-4-other-ai-software-stocks-could-be-5-years",
-    "pubDate": "Fri, 09 Oct 2026 08:35:00 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
-    "desc": "Key PointsAI stocks continue to climb amid strong demand for AI products and services.",
-    "link": "https://www.nasdaq.com/articles/michael-burry-betting-against-artificial-intelligence-ai-heres-case-and-against-and-one",
-    "pubDate": "Fri, 09 Oct 2026 08:22:00 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Why Do Interactive Brokers' Customers Hold So Much More Money Than Robinhood's?",
-    "desc": "Key PointsInteractive Brokers' 5.6 million client accounts had around $965 billion at the end of September.",
-    "link": "https://www.nasdaq.com/articles/why-do-interactive-brokers-customers-hold-so-much-more-money-robinhoods",
-    "pubDate": "Fri, 09 Oct 2026 08:01:01 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Airwallex expands from cross-border payments to autonomous finance—though president Lucy Liu says it’s still ‘not the best time’ for an IPO",
-    "desc": "In late June, Airwallex raised $320 million in a Series H funding round led by Addition, which valued the cross-border payments platform at $11 billion",
-    "link": "https://fortune.com/article/airwallex-fundraise-lucy-liu-ai-fintech-ipo-08-20-2026/",
-    "pubDate": "Thu, 20 Aug 2026 21:00:00 +0000",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "4 steel stocks to buy as pullback creates a buying opportunity: UBS",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/4-steel-stocks-to-buy-as-pullback-creates-a-buying-opportunity-ubs-4940408",
-    "pubDate": "2026-10-09 08:38:03",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "RBC downgrades Pennon Group on challenging AMP8 outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/rbc-downgrades-pennon-group-on-challenging-amp8-outlook-4940405",
-    "pubDate": "2026-10-09 08:32:48",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Global watchdog urges authorities to close gaps in emergency funding for failing banks",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/global-watchdog-urges-authorities-to-close-gaps-in-emergency-funding-for-failing-banks-4940249",
-    "pubDate": "2026-10-09 08:30:47",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.90%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-090-4940402",
-    "pubDate": "2026-10-09 08:30:03",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Citi upgrades Bureau Veritas, sees 2027 margin above consensus; shares up 2%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/citi-upgrades-bureau-veritas-sees-2027-margin-above-consensus-shares-up-2-4940396",
-    "pubDate": "2026-10-09 08:16:05",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is ArcelorMittal stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-arcelormittal-stock-rallying-today-93CH-4940392",
-    "pubDate": "2026-10-09 08:13:18",
-    "fetchedAt": "2026-10-09T09:01:34.136Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
-    "desc": "OpenAI has defended its decision to fire three safety researchers for what the AI lab has described as a \"significant breach of trust\"",
-    "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
-    "pubDate": "Fri, 09 Oct 2026 07:57:46 GMT",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Contribution of high value residents discussed",
-    "desc": "More than 260 industry leaders met to discuss the role wealthy residents play in Jersey's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 09 Oct 2026 05:29:43 GMT",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Trainline stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-trainline-stock-rallying-today-93CH-4940354",
-    "pubDate": "2026-10-09 07:51:27",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Heidelberg Materials stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-heidelberg-materials-stock-rallying-today-93CH-4940353",
-    "pubDate": "2026-10-09 07:51:04",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "OMV shares fall as weaker chemicals, Mideast liftings weigh on Q3",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/omv-shares-fall-as-weaker-chemicals-mideast-liftings-weigh-on-q3-4940352",
-    "pubDate": "2026-10-09 07:50:00",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "European majors’ strong earnings growth expected to have continued in Q3",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-majors-strong-earnings-growth-expected-to-have-continued-in-q3-4940351",
-    "pubDate": "2026-10-09 07:48:19",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "Evonik stock jumps on reports BASF may make new offer; Citi discusses numbers",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/evonik-stock-jumps-on-reports-basf-may-make-new-offer-citi-discusses-numbers-4940350",
-    "pubDate": "2026-10-09 07:47:09",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "French yields pause near peak as markets fret over Paris’s record debt load",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
-    "pubDate": "2026-10-09 07:46:13",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
-    "pubDate": "2026-10-09 07:43:44",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Banca Generali stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-banca-generali-stock-surging-today-93CH-4940349",
-    "pubDate": "2026-10-09 07:43:39",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wealthy Gen Z collectors spend more on art than older buyers, report shows",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/wealthy-gen-z-collectors-spend-more-on-art-than-older-buyers-report-shows-4940348",
-    "pubDate": "2026-10-09 07:43:29",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Nvidia-backed Firmus eyes $3B funding after scrapping $5B IPO: report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651658-nvidia-backed-firmus-eyes-3b-funding-after-scrapping-5b-ipo-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:57:58 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Trinity Capital Q3 originations hit $880M, pushing 2026 total to $2B",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651646-trinity-capital-q3-originations-hit-880m-pushing-2026-total-to-2b?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:56:55 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "European markets in green as falling bond yields support sentiment",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651656-european-markets-in-green-as-falling-bond-yields-support-sentiment?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:51:35 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Fomento Economico Mexicano declares $1.78 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651657-fomento-economico-mexicano-declares-1_78-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:43:17 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Innovative Industrial Properties prices 9.25% preferred shares at $25 per share",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651649-innovative-industrial-properties-prices-925-preferred-shares-at-25-per-share?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:40:37 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Maverick Gold and Silver announces C$1.1M non-brokered private placement",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651645-maverick-gold-and-silver-announces-c11m-non-brokered-private-placement?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:37:50 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "TRexBio prices $117M IPO at $14 per share",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4651648-trexbio-prices-117m-ipo-at-14-per-share?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Fri, 09 Oct 2026 03:24:13 -0400",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "U.S. stock futures rise after Nasdaq slide as OpenAI revenue concerns ease",
-    "desc": "Investing.com-- U.S. stock futures rose in Asian trading Friday as concerns over OpenAI’s revenue outlook eased after a Bloomberg report that the ChatGPT maker expects annualized revenue to reach or exceed $70 billion by year-end.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-nasdaq-010640302.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 01:06:40 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stocktwits Passport Portfolio: Wall Street Outpaces Asia As AI Trade Wobbles And Bond Yields Climb",
-    "desc": "The S&P 500 and Dow Jones Industrial Average are headed for marginal gains this week, even as South Korea, Japan, and Taiwan are poised to end lower.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-passport-portfolio-wall-street-outpaces-asia-as-ai-trade-wobbles-and-bond-yields-climb/cZD60nORBVY?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 07:08:45 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Small-Cap Stocks Could Be Ready to Rebound",
-    "desc": "Positioning has turned very bearish on small-caps, with traders falling over themselves to short Russell 2000 futures. That suggests that the group could jump if sentiment does improve.",
-    "link": "https://finance.yahoo.com/m/89fad887-4759-3c60-a013-95995085ed0d/small-cap-stocks-could-be.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 07:30:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "How Pros Are Investing Now in a World of Higher Interest Rates",
-    "desc": "Investment pros say investors shouldn’t abandon bonds, but instead focus on those with shorter maturities.",
-    "link": "https://finance.yahoo.com/m/baaace8b-1249-35b3-a47a-787f3f121ea5/how-pros-are-investing-now-in.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "These Are The World's Biggest Military Drone Exporters",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">These Are The World's Biggest Military Drone Exporters</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><strong>The U.S. and Iran supplied 86% of the 16,822 military drones exported worldwide from 2022 to 2025</strong>, according to SIPRI's arms-transfer data: 7,593 from the U.S. and 6,800 from Iran, out of 14 exporting countries.</p> <p>U.S. exports climbed from 1,010 in 2022 to 3,219 in 2024, then fell to 402 in 2025, while Iran kept delivering about 2,000 a year. Türkiye exported only 381 drones but sold to 28 countries, more than any other supplier.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Military-Drone-Exports-1_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Military-Drone-Exports-1_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"79635542-26aa-4972-8700-2bab7ee00bd3\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Military-Drone-Exports-1_80.jpg\" /></a></p> <p>As <a href=\"https://www.visualcapitalist.com/ranked-countries-exporting-most-military-drones/\">Visual Capitalist</a> explains further, this graphic ranks the 14 countries that exported military drones over 2022-2025, using data from the <a href=\"https://www.sipri.org/databases/armstransfers\">SIPRI Arms Transfers Database</a>.</p> <p>SIPRI counts drone aircraft weighing at least 150 kg, plus one-way attack drones and loitering munitions, which are built to strike once and be destroyed. The figures include drones sent as aid or built in the buyer's country under license, but largely exclude small FPV and commercial drones.</p> <h2>U.S. and Iran Supply 86% of All Exported Military Drones</h2> <p>The U.S. exported 7,593 military drones and Iran 6,800, each more than six times as many as third-ranked Germany (1,000). <strong>Nearly all went to a single war: 95% of U.S. drones went to Ukraine, while 99% of Iran's went to Russia.</strong></p> <p>The table below shows how many military drones each country exported from 2022 to 2025, along with its share of the global total:</p> <table><thead><tr><th>Rank</th> <th>Exporter</th> <th>Drones Supplied (2022-2025)</th> <th>Share of Global Total (%)</th> </tr></thead><tbody><tr><td>1</td> <td>U.S.</td> <td>7,593</td> <td>45.1</td> </tr><tr><td>2</td> <td>Iran</td> <td>6,800</td> <td>40.4</td> </tr><tr><td>3</td> <td>Germany</td> <td>1,000</td> <td>5.9</td> </tr><tr><td>4</td> <td>Poland</td> <td>690</td> <td>4.1</td> </tr><tr><td>5</td> <td>Türkiye</td> <td>381</td> <td>2.3</td> </tr><tr><td>6</td> <td>Israel</td> <td>205</td> <td>1.2</td> </tr><tr><td>7</td> <td>China</td> <td>64</td> <td>0.4</td> </tr><tr><td>8</td> <td>Czechia</td> <td>32</td> <td>0.2</td> </tr><tr><td>9</td> <td>Belarus</td> <td>20</td> <td>0.1</td> </tr><tr><td>9</td> <td>UK</td> <td>20</td> <td>0.1</td> </tr><tr><td>11</td> <td>Portugal</td> <td>7</td> <td><0.1</td> </tr><tr><td>12</td> <td>Austria</td> <td>5</td> <td><0.1</td> </tr><tr><td>13</td> <td>Italy</td> <td>3</td> <td><0.1</td> </tr><tr><td>14</td> <td>Sweden</td> <td>2</td> <td><0.1</td> </tr><tr><td> </td> <td>Global Total</td> <td>16,822</td> <td>100.0</td> </tr></tbody></table><p>Almost all of these drones were built for a single use. One-way attack drones and loitering munitions make up 97% of the global total, which helps explain how a few wartime transfers can add up to thousands of units. Every drone the U.S. sent to Ukraine during this period was of this type.</p> <p>Nearly all of Iran's exports were Shahed-136 drones that Russia also assembled and produced under license, which SIPRI still counts as Iranian exports. Iran built up its drone industry in response to a <a href=\"https://www.sipri.org/commentary/topical-backgrounder/2026/role-imported-arms-iran-war-qa-zain-hussain-and-pieter-wezeman\">UN arms embargo</a> that tightened over time before expiring in 2020.</p> <p>Below the top two, exports drop off quickly. Only Germany (1,000) and Poland (690) delivered more than 500 drones, while the bottom seven exporters, from Czechia to Sweden, delivered 89 combined.</p> <h2>U.S. Military Drone Exports Fell Sharply in 2025</h2> <p>Drone export patterns for the two largest suppliers shifted sharply in 2025. U.S. exports climbed from 1,010 in 2022 to 3,219 in 2024, then fell to 402 in 2025, the same year new U.S. military aid to Ukraine <a href=\"https://www.kielinstitut.de/publications/news/ukraine-support-after-4-years-of-war-europe-steps-up/\">came to a halt</a>.</p> <p>Iran, meanwhile, continued delivering about 2,000 drones a year from 2023 through 2025, making it the largest exporter in 2025 by a wide margin.</p> <p>The table below shows how many military drones the U.S. and Iran exported each year from 2022 to 2025:</p> <table><thead><tr><th>Country (Military Drones Exported)</th> <th>2022</th> <th>2023</th> <th>2024</th> <th>2025</th> </tr></thead><tbody><tr><td>U.S.</td> <td>1,010</td> <td>2,962</td> <td>3,219</td> <td>402</td> </tr><tr><td>Iran</td> <td>735</td> <td>2,031</td> <td>2,032</td> <td>2,002</td> </tr></tbody></table><p>Most U.S. drones shipped in 2025 went to Taiwan, which received 291 loitering munitions and ranks third among all <a href=\"https://www.visualcapitalist.com/ranked-countries-importing-most-military-drones/\">military drone importers</a> from 2022 to 2025. Ukraine received 100 U.S.-made loitering munitions that year, paid for by the UK.</p> <p>Europe partly filled the gap left by the U.S. in Ukraine. All 1,000 of Germany's drone exports, consisting of loitering munitions sent to Ukraine as aid, were delivered in 2025.</p> <h2>Türkiye Sells Military Drones to More Countries Than Anyone Else</h2> <p>Türkiye ranks fifth by number of drones exported, but no country has more customers. <strong>It supplied 28 countries from 2022 to 2025, more than half of the 54 countries that imported military drones</strong> and nearly three times as many as the U.S. or China, with 10 each.</p> <p>Those buyers are spread across the globe. Twelve are in Africa, while the rest range from NATO members such as Poland and Romania to Pakistan, Kuwait, and Ukraine.</p> <p>Türkiye also sells a different kind of drone. About three-quarters of its exports were larger aircraft such as the Bayraktar TB2, which can fly mission after mission. It supplied 281 of the 486 larger drone aircraft exported worldwide, or 58%.</p> <p>That difference is why SIPRI also measures arms transfers using a second metric, the <a href=\"https://www.sipri.org/databases/armstransfers/sources-and-methods\">trend-indicator value</a> (TIV). Instead of counting units, it assigns each weapon a standardized value based on the production cost of comparable weapons, so one large armed drone counts for far more than a single-use one. TIV reflects the military capability transferred rather than the price paid, and <strong>by this measure Türkiye was the largest drone exporter of the period.</strong></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-09T06:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Fri, 10/09/2026 - 02:45</span>",
-    "link": "https://www.zerohedge.com/military/ranked-worlds-biggest-military-drone-exporters",
-    "pubDate": "Fri, 09 Oct 2026 06:45:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Why Is A British Charity Telling Migrants Not To Be 'Deceived' By Underage Girls?",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Why Is A British Charity Telling Migrants Not To Be 'Deceived' By Underage Girls?</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://www.spiked-online.com/2026/10/07/why-is-a-charity-telling-migrants-not-to-be-deceived-by-underage-girls/\">Authored by James Dixon via Spiked</a>,</em></p> <p>Three words in a <a href=\"https://www.facebook.com/watch/?v=966499006512064\">video</a> that did the rounds last month made my skin crawl:<strong> 'Don't be deceived.'</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Why-is-a-charity-telling-migrants-not-to-be-E2-80-98deceived-by-underage-girls-A-Scottish-charity-has-been-treating-male-asylum-seekers-as-potential-victims-of-teenage-girls.-A-Scottish-charity-has-_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Why-is-a-charity-telling-migrants-not-to-be-E2-80-98deceived-by-underage-girls-A-Scottish-charity-has-been-treating-male-asylum-seekers-as-potential-victims-of-teenage-girls.-A-Scottish-charity-has-_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"466b5a37-a0f2-42de-ac15-f62224bc4907\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Why-is-a-charity-telling-migrants-not-to-be-E2-80-98deceived-by-underage-girls-A-Scottish-charity-has-been-treating-male-asylum-seekers-as-potential-victims-of-teenage-girls.-A-Scottish-charity-has-_80.jpg\" /></a></p> <p>They might sound perfectly innocent at first pass, but in context, they are chilling.<strong> The footage in question comes from a recorded session apparently run by the Aberdeen-based Mamacita Foundation, a charity that works with asylum seekers</strong>. The subject in question is sexual consent - more specifically, the age of consent.</p> <p>In the footage, the seminar leader, herself an immigrant, asks the men present what age someone must be before they can approach them for 'anything sexual, intimacy'. At one point, she even seems to admit surprise that the age of consent is 16 throughout the UK - she herself had believed up until that very moment, apparently, that it was 18. She establishes the correct answer there and then, while reading from her notes.</p> <p>Can we not admit that this is already quite a strange spectacle? Adult men are sitting in Britain, being taught the legal age at which they can have sex with British teenagers. But then it gets quite a lot worse.</p> <p>'Please, this is very, very essential', the seminar leader says (trying to make herself heard over the chatter of the bored participants). 'Because we've had young men fall for these things that could be preventable.' <em>Fall for these things.</em> She then goes on to advise the men to ask young people their age and even request identification, before coming in with the extraordinary warning: <strong>'Don't be deceived, we have young persons growing bigger than their age.'</strong> Twelve and 14-year-olds, she explains, can be taller than she is.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">A consent session for migrants in Aberdeen reportedly took a bizarre turn when the facilitator got England’s age of consent wrong &amp; an attendee suggested it was 14. They said it was important because young men “fall for these things” I can’t believe this <a href=\"https://t.co/Td5yWUOZaN\">https://t.co/Td5yWUOZaN</a></p> — Anna McGovern (@AnnaMcGovernUK) <a href=\"https://x.com/AnnaMcGovernUK/status/2100979883388076233?ref_src=twsrc%5Etfw\">September 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>It should really go without saying, but a 13-year-old girl who happens to look older than 13 (as many do) is not <em>deceiving</em> anybody. She is simply existing in the body she happens to have, as it has naturally developed. A child (for that is what she is) does not trick a grown man by being tall for her age or developing early. She should also be able to dress and do her makeup how she likes, or how her parents agree for her to, without fear of advances or attack. Nor does a grown man who has sexual contact with a child 'fall for' her supposed wiles.</p> <p>The language employed here is very revealing. It shows us quite plainly the assumptions underpinning the consent seminar. <strong>The men are accorded less moral agency than their potential victims.</strong> They are seemingly seen as being at risk of an unfortunate misunderstanding, or worse still, of being sexually manipulated by children. What they are not seen as is adults with clear legal and moral responsibilities.</p> <p><strong>It's absurd and grotesque.</strong> But perhaps most disturbing is the reduction of the whole question to the age of consent.</p> <p>There is nothing inherently objectionable about teaching newcomers the laws, including the age of the consent, of the country in which they now live (though the fact that it's deemed necessary should be a bit of a red flag). Yet the law represents the minimum standard of conduct enforced by the state<strong>. It does not exhaust our moral expectations of one another. Far from it.</strong></p> <p>If the principal lesson an adult man can take from training courses like this is that 16 is the magic number, something (or plenty) has gone badly wrong. Most Western adults understand that legality is not the only consideration governing relations between adults and teenagers. A middle-aged man propositioning a girl who turned 16 two months ago will not escape moral opprobrium by claiming he was following the rules. There are norms beyond the letter of the law, and norms that cannot be taught so quickly in a simple seminar (especially one in which none of the attendees seems to be listening).</p> <p><strong>The Mamacita footage is particularly unsettling</strong> because its language is so protective of the men in the room. Be careful, check ID, don't be deceived. Where is the corresponding concern for the girls? Imagine being a 14-year-old girl hearing a grown woman telling grown men that girls your age 'sometimes grow bigger than their age', and that men should therefore avoid being 'deceived'. You would think that you and your behavior are the problem.</p> <p><strong>We have spent decades trying to drive precisely this thinking out of discussions about sexual misconduct. </strong>We were so close to doing away with victim-blaming and slut-shaming - with asking whether she <em>led him on</em> or <em>looked older</em>. We recognize these as ways of shifting responsibility from aggressor to victim, from the adult who acts to the girl who is acted on. This principle should not disappear simply because immigration enters the conversation.</p> <p>I'm not smearing migrants when I say this. I'm talking about who should hold individual responsibility in any given situation, and saying that, generally speaking, it should be the adult. He is the moral actor responsible for obeying the moral norms in the society in which he lives. <strong>If someone comes to Britain, he should be treated as a moral adult.</strong> That means granting him the dignity of agency - and demanding the responsibility accompanying it. If he commits a sexual offense, responsibility belongs to him, not to licentious Western culture (because nobody is ever asking for it), and certainly not to a teenage girl who has the misfortune to look older than her years in a man's eyes.</p> <p>Girls do not 'deceive' grown men simply by growing up.</p> <p><em>James Dixon is a Glasgow-based novelist, poet and playwright.</em></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-09T06:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Fri, 10/09/2026 - 02:00</span>",
-    "link": "https://www.zerohedge.com/political/why-charity-telling-migrants-not-be-deceived-underage-girls",
-    "pubDate": "Fri, 09 Oct 2026 06:00:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: Earnings Growth Will Push Coca-Cola Stock to $100 Before 2028",
-    "desc": "Key PointsCoca-Cola stock is up about 26% in 2026, a few dollars under the record close it set in August.",
-    "link": "https://www.nasdaq.com/articles/prediction-earnings-growth-will-push-coca-cola-stock-100-2028",
-    "pubDate": "Fri, 09 Oct 2026 07:37:01 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If the Experts Are Correct, Here’s How Much Your Social Security Checks Might Rise in 2027",
-    "desc": "Key PointsSocial Security's 2027 COLA should be announced next week.",
-    "link": "https://www.nasdaq.com/articles/if-experts-are-correct-heres-how-much-your-social-security-checks-might-rise-2027",
-    "pubDate": "Fri, 09 Oct 2026 07:29:02 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FLS Wins DKK 175 Mln Order For Copper Mine Expansion Project In Chile",
-    "desc": "(RTTNews) - FLSmidth & Co. A/S (FLS.CO, FLIDY), a full flowsheet technology and service supplier, on Friday announced that it has received an order worth approximately DKK 175 million to supply grinding technologies for a copper mine expansion project in Chile.",
-    "link": "https://www.nasdaq.com/articles/fls-wins-dkk-175-mln-order-copper-mine-expansion-project-chile",
-    "pubDate": "Fri, 09 Oct 2026 07:23:59 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Silex Microsystems CFO Maria Engström To Leave, Appoints Karin Rosenthal As Successor",
-    "desc": "(RTTNews) - Silex Microsystems AB (SILEX.ST), a semiconductor technology company, on Friday announced that CFO Maria Engstr&ouml;m has decided to leave the company.",
-    "link": "https://www.nasdaq.com/articles/silex-microsystems-cfo-maria-engstrom-leave-appoints-karin-rosenthal-successor",
-    "pubDate": "Fri, 09 Oct 2026 07:05:26 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Hexagon To Buy Rocscience For $535 Mln",
-    "desc": "(RTTNews) - Hexagon AB (HEXA-B.ST), a Swedish industrial technology company, said on Friday that it has signed a deal to acquire Rocscience, a Canadian provider of geotechnical and engineering analysis software, from TA Associates and Rocscience's founders, for $535 million on a",
-    "link": "https://www.nasdaq.com/articles/hexagon-buy-rocscience-535-mln",
-    "pubDate": "Fri, 09 Oct 2026 06:46:09 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;You decided to evade them&#8217;: Former HSBC banker &#8216;clearly in a financial position to pay&#8217; banned from finance for dodging $7,800 in fares",
-    "desc": "Joseph Molloy was banned not only from working in regulated financial services but also from the railway operator.",
-    "link": "https://fortune.com/2026/10/09/former-hsbc-banker-finance-ban-fare-evasion/",
-    "pubDate": "Fri, 09 Oct 2026 07:10:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Gwynne Shotwell’s $300 million SpaceX pledge to Trump Accounts shows billionaires a tax-smart way to give away their own company’s stock",
-    "desc": "New Treasury rules let the ultrawealthy send shares of their own companies to millions of kids, as long as the gift goes through a charity.",
-    "link": "https://fortune.com/2026/10/09/gwynne-shotwell-300-million-spacex-pledge-to-trump-accounts-billionaire-tax-smart-new-way-to-give-away-their-own-company-stock/",
-    "pubDate": "Fri, 09 Oct 2026 07:04:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Sweden’s startups will raise $5 billion in 2026. Our secret sauce is 150 years old",
-    "desc": "The precedents run so far back that we even have a Swedish word for inventor-founded firms of the late 19th century: snilleföretag or \"genius companies.\"",
-    "link": "https://fortune.com/2026/10/09/why-sweden-will-raise-5-billion-venture-capital-secret-sauce/",
-    "pubDate": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Disney offered a 13-year-old $2 million to sing in The Lion King—his mom took $100k plus royalties instead. He’s still getting paid 32 years later",
-    "desc": "Jason Weaver's mom once backed Aretha Franklin. She bet on royalties over Disney's cash—and it's paid more than the $2 million he gave up",
-    "link": "https://fortune.com/2026/10/09/disney-offered-13-year-old-2-million-to-sing-in-the-lion-king-mom-rejected-royalties-jason-weaver-simba/",
-    "pubDate": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "fortune",
-    "title": "‘The gap was not the awareness’: The company phishing trainings you loathe aren’t enough when nearly 1 in 4 security pros say their MFA is optional",
-    "desc": "Most security pros surveyed call their company secure, yet 44% say an AI-driven phishing attack got through last year.",
-    "link": "https://fortune.com/2026/10/09/mfa-optional-phishing-attacks-company-trainings/",
-    "pubDate": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Paramount to develop Cyberpunk 2077 film, lifting CD Projekt RED’s shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/paramount-to-develop-cyberpunk-2077-film-lifting-cd-projekt-reds-shares-4940347",
-    "pubDate": "2026-10-09 07:42:28",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "SIG shares rise 8.4% as CFO Kesterton named next CEO",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sig-shares-rise-84-as-cfo-kesterton-named-next-ceo-93CH-4940345",
-    "pubDate": "2026-10-09 07:40:42",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is The Beauty Tech Group stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-the-beauty-tech-group-stock-sliding-today-93CH-4940343",
-    "pubDate": "2026-10-09 07:40:26",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Jefferies Names its Top Pick in China Internet Sector",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/jefferies-names-its-top-pick-in-china-internet-sector-4940342",
-    "pubDate": "2026-10-09 07:40:20",
-    "fetchedAt": "2026-10-09T08:01:28.795Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
-    "desc": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
-    "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
-    "pubDate": "Fri, 09 Oct 2026 06:16:19 GMT",
-    "fetchedAt": "2026-10-09T07:01:54.510Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
-    "desc": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features, and upgraded design warrant a higher price tag.",
-    "link": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-    "pubDate": "Thu, 08 Oct 2026 14:51:27 GMT",
-    "fetchedAt": "2026-10-09T07:01:54.510Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction",
-    "desc": "Calling a bottom in the nonstop U.S. Treasury bond sell-off might seem crazy, but a handful of options traders look increasingly willing to do it.",
-    "link": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
-    "pubDate": "Thu, 08 Oct 2026 13:29:52 GMT",
-    "fetchedAt": "2026-10-09T07:01:54.510Z"
   }
 ]
