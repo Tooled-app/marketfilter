@@ -6,6 +6,14 @@
     "filings": [
       {
         "form": "4",
+        "filed": "2026-10-08",
+        "accession": "0001140361-26-039158",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-10-06",
+        "items": ""
+      },
+      {
+        "form": "4",
         "filed": "2026-10-05",
         "accession": "0001140361-26-038674",
         "primaryDoc": "xslF345X06/form4.xml",
@@ -35,53 +43,6 @@
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-10-01",
         "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-10-02",
-        "accession": "0001958244-26-000636",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
-        "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-10-02",
-        "accession": "0001959173-26-007235",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
-        "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-10-02",
-        "accession": "0001969223-26-001055",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-01",
-        "accession": "0001140361-26-038307",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-09-29",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Alphabet Inc.",
-    "cik": "0001652044",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-10-02",
-        "accession": "0001193125-26-412669",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-09-30",
-        "items": ""
       }
     ]
   },
@@ -106,65 +67,19 @@
     "cik": "0001326801",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-10-07",
+        "accession": "0000950103-26-015324",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-10-05",
+        "items": ""
+      },
+      {
         "form": "144",
         "filed": "2026-10-05",
         "accession": "0001921094-26-001069",
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Tesla, Inc.",
-    "cik": "0001318605",
-    "filings": [
-      {
-        "form": "8-K",
-        "filed": "2026-10-02",
-        "accession": "0001628280-26-064366",
-        "primaryDoc": "tsla-20261002.htm",
-        "reportDate": "2026-10-02",
-        "items": "2.02,9.01"
-      }
-    ]
-  },
-  {
-    "ticker": "JPM",
-    "title": "JPMORGAN CHASE & CO",
-    "cik": "0000019617",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-10-01",
-        "accession": "0001225208-26-008053",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-09-30",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-01",
-        "accession": "0001225208-26-008052",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-09-30",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-01",
-        "accession": "0001225208-26-008051",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-09-30",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-01",
-        "accession": "0001225208-26-008050",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-09-30",
         "items": ""
       }
     ]
