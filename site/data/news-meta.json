@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-10T02:01:42.450Z",
-  "fetched": 14,
-  "failed": 0,
-  "newItems": 9,
+  "lastRun": "2026-10-10T03:01:43.869Z",
+  "fetched": 12,
+  "failed": 2,
+  "newItems": 1,
   "total": 800,
   "sources": [
     {
@@ -14,14 +14,16 @@
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 52,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 1
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
@@ -57,13 +59,13 @@
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 3
+      "added": 0
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 4
+      "added": 0
     },
     {
       "id": "wsj",
