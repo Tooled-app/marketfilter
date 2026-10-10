@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-10T10:01:49.343Z",
-  "fetched": 13,
-  "failed": 1,
-  "newItems": 33,
+  "lastRun": "2026-10-10T11:01:40.337Z",
+  "fetched": 14,
+  "failed": 0,
+  "newItems": 32,
   "total": 800,
   "sources": [
     {
@@ -21,13 +21,13 @@
       "id": "investing",
       "name": "Investing.com",
       "items": 10,
-      "added": 10
+      "added": 4
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
       "items": 10,
-      "added": 0
+      "added": 2
     },
     {
       "id": "guardian",
@@ -39,7 +39,7 @@
       "id": "ft",
       "name": "Financial Times",
       "items": 12,
-      "added": 4
+      "added": 0
     },
     {
       "id": "seekingalpha",
@@ -50,15 +50,14 @@
     {
       "id": "benzinga",
       "name": "Benzinga",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 10
     },
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 5
+      "added": 3
     },
     {
       "id": "zerohedge",
@@ -76,7 +75,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 10
+      "added": 9
     },
     {
       "id": "fortune",
