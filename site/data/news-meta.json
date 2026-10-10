@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-10T07:28:25.876Z",
-  "fetched": 2,
-  "failed": 12,
-  "newItems": 2,
+  "lastRun": "2026-10-10T08:04:28.387Z",
+  "fetched": 1,
+  "failed": 13,
+  "newItems": 0,
   "total": 800,
   "sources": [
     {
@@ -98,8 +98,9 @@
     {
       "id": "investingeuro",
       "name": "Investing Europe",
-      "items": 10,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     }
   ]
 }
