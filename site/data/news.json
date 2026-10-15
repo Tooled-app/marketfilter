@@ -1,6 +1,502 @@
 [
   {
     "source": "cnbc",
+    "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+    "desc": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+    "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+    "pubDate": "Thu, 15 Oct 2026 19:53:41 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+    "desc": "Big Tech gave millions to Trump's White House ballroom, documents show",
+    "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+    "pubDate": "Thu, 15 Oct 2026 19:43:40 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
+    "desc": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
+    "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+    "pubDate": "Thu, 15 Oct 2026 19:53:29 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "desc": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
+    "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
+    "pubDate": "Thu, 15 Oct 2026 19:53:49 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
+    "desc": "A historian explains why housing, investing and budgeting advice has changed over time — and what that can teach you about money today.",
+    "link": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
+    "pubDate": "Thu, 15 Oct 2026 19:30:53 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Here's our monthly update on our 32 stocks, including 2 more names to buy",
+    "desc": "Jim Cramer identified two of his favorite stocks to buy and the names he's not willing to touch just yet.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/15/heres-our-monthly-update-on-our-32-stocks-including-2-more-names-to-buy.html",
+    "pubDate": "Thu, 15 Oct 2026 19:08:05 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+    "desc": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+    "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sat, 05 Sep 2026 23:20:00 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why the UK is dithering over what to do about e-scooters",
+    "desc": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
+    "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 22 Jul 2026 23:51:24 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Actelis Networks at the ThinkEquity Conference: recovery and federal push",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/actelis-networks-at-the-thinkequity-conference-recovery-and-federal-push-93CH-4952510",
+    "pubDate": "2026-10-15 19:38:34",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/anthropic-grants-ai-evaluator-metr-employeelevel-access-to-its-models-4952420",
+    "pubDate": "2026-10-15 19:38:19",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Explainer-Why CoreWeave’s troubles are rattling the AI boom",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500",
+    "pubDate": "2026-10-15 19:37:49",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "KFC to sign Coca-Cola on as beverage partner, ditching PepsiCo, WSJ reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
+    "pubDate": "2026-10-15 19:37:36",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Global Net Lease stock hits 52-week low at $7.48",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/global-net-lease-stock-hits-52week-low-at-748-93CH-4952504",
+    "pubDate": "2026-10-15 19:33:51",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Reinsurance Group of America stock hits all-time high at 265.27 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/reinsurance-group-of-america-stock-hits-alltime-high-at-26527-usd-93CH-4952503",
+    "pubDate": "2026-10-15 19:33:24",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is NexGen Energy stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-nexgen-energy-stock-rallying-today-93CH-4952502",
+    "pubDate": "2026-10-15 19:32:44",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investing",
+    "title": "Saba Capital Management sells $43,070 in PIMCO Dynamic Income Strategy fund",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-43070-in-pimco-dynamic-income-strategy-fund-93CH-4952501",
+    "pubDate": "2026-10-15 19:31:09",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "CoreWeave&#x2019;s polarizing stock rebounds as Wall Street squares off about AI spending",
+    "desc": "Wall Street&#x2019;s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+    "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 19:26:00 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "This one governor&#x2019;s race could derail the AI trade that&#x2019;s powered the stock market",
+    "desc": "Here&#x2019;s the Nov. 3 contest that &#x201c;presents the biggest election-specific risk,&#x201d; analysts say.",
+    "link": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "ft",
+    "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks",
+    "desc": "CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns",
+    "link": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1",
+    "pubDate": "Thu, 15 Oct 2026 19:12:29 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "ft",
+    "title": "Anthropic tells investors its quarterly revenue jumped 50%",
+    "desc": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
+    "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+    "pubDate": "Thu, 15 Oct 2026 00:59:36 GMT",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Diamondback, Expand Energy among top E&P picks at Scotiabank",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653582-diamondback-expand-energy-among-top-ep-picks-at-scotiabank?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:59:12 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Former PepsiCo property KFC is switching to Coca-Cola products in the U.S.",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653580-former-pepsico-property-kfc-may-be-switching-to-coca-cola-products-in-the-us?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:35:14 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nasdaq resolves network disruption that affected some equities markets (update)",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653516-nasdaq-network-disruption-affects-some-equities-markets?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:33:45 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Par Pacific plunges as Goldman Sachs downgrades after catalysts play out",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653578-par-pacific-plunges-as-goldman-sachs-downgrades-after-catalysts-played-out?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:33:41 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "First Horizon outlines ~$4.5B mortgage loan sale and targets ~4% 2027 EPS accretion while expecting NIM in the 3.50s",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653579-first-horizon-outlines-4_5b-mortgage-loan-sale-and-targets-4-percent-2027-eps-accretion-while?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:25:48 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Karman Holdings rallies 11% after three-session slide",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653571-karman-holdings-rallies-11-after-three-session-slide?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:19:54 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "AI infrastructure stocks tumble amid inflation, debt worries",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653576-ai-infrastructure-stocks-tumble-amid-inflation-debt-worries?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 15:18:09 -0400",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
+    "desc": "Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the latest market and sector action, highlighting what the sell-off in CoreWeave (CRWV) and chip stocks means for the rest of the market.",
+    "link": "https://finance.yahoo.com/video/as-chip-stocks-fall-investors-are-turning-elsewhere-in-the-market-chart-of-the-day-194625976.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 19:46:25 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Freshworks, Braze, Procore Technologies, and Guidewire Software Shares Are Soaring, What You Need To Know",
+    "desc": "A number of stocks jumped in the afternoon session after software-as-a-service and broader technology equities rebounded as falling Treasury yields attracted dip-buyers back into the market following a sharp, AI-driven sell-off in previous sessions.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/freshworks-braze-procore-technologies-guidewire-194709187.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 19:47:09 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Nasdaq Higher As Yields Plunge; Dell Triggers Sell Signals (Live Coverage)",
+    "desc": "The Dow Jones index rises Thursday while the Nasdaq erases early losses",
+    "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 19:36:28 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Changed In eBay's Story?",
+    "desc": "Investors are paying a premium for eBay (EBAY). The stock currently trades at 4.3 times its sales over the past twelve months, compared to 3.1 for the S&P 500. Justifying that valuation requires tracking a recent shift in corporate messaging. Back in April 2025, during the fiscal Q1 2025 call, management emphasized the uncertainty that tariffs and trade policy changes created for eBay's sellers and buyers. That rhetoric has faded. So what has management been talking up instead.",
+    "link": "https://www.trefis.com/articles/618864/what-changed-in-ebays-story/2026-10-15?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 19:24:33 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Boston Scientific Stock Riskier Than It Was A Year Ago?",
+    "desc": "Investors in Boston Scientific (BSX) hold stakes in a medical device maker that grew revenue 13.5% over the twelve months to June 2026. Yet the shares have lost 54.7% over the past year, trailing a 17.3% gain for the S&P 500. In August, a cyberattack disrupted the company's manufacturing and order shipments. So has the risk in holding Boston Scientific shares gone up or down over the past year.",
+    "link": "https://www.trefis.com/articles/618866/is-boston-scientific-stock-riskier-than-it-was-a-year-ago/2026-10-15?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 19:18:07 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "First Merchants Corporation Announces Cash Dividend on Its Preferred Stock",
+    "desc": "MUNCIE, Ind., Oct. 15, 2026 (GLOBE NEWSWIRE) -- First Merchants Corporation has declared a quarterly cash dividend of $46.88 per share on its 7.50% Non-Cumulative Perpetual Preferred Stock Series A, represented by depositary shares (NASDAQ: FRMEP) each representing a 1/100th interest in a share of the Series A preferred stock. Holders of depositary shares will receive $0.4688 per depositary share. The dividend will be payable on November 16, 2026, to stockholders of record on October 30, 2026. A",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/first-merchants-corporation-announces-cash-190500787.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 19:05:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Time's Up! DOJ To Seek 'Emergency Relief' Against California Over Suspected Non-Citizen Voters",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Time's Up! DOJ To Seek 'Emergency Relief' Against California Over Suspected Non-Citizen Voters</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/doj-gives-california-48-hours-to-review-suspected-noncitizen-voters-6104115?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Tom Gantert via The Epoch Times</a>,</em></p> <p><strong>The U.S. Department of Justice on Oct. 13 sent letters to California election officials demanding a review within 48 hours</strong> of registered voters it suspects are noncitizens and asking officials to set aside their mail ballots until their citizenship status can be determined.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-15T095017.618.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-15T095017.618.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2abc3ff6-4106-475c-b936-cf68eae1a82a\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-15T095017.618.jpg\" /></a></p> <p>If the prescribed course of action wasn't followed by Oct. 15 at noon ET, the letter stated the federal government would seek \"emergency relief.\"</p> <p><strong>\"This should not be controversial, as the criminal statute is clear: Only American citizens may vote in federal elections.</strong> It is a federal crime for noncitizens to vote in U.S. elections, and the DOJ is asking California to ensure that is not occurring,\" a DOJ spokesperson said in an email to The Epoch Times.</p> <p>The DOJ claims there are thousands of potential foreign nationals not eligible to vote that have been identified as registered voters in California.</p> <p>Dean Logan, registrar for Los Angeles County, posted a copy of the DOJ's letter on the county clerk website.</p> <p><strong>In the letter to Los Angeles County, the DOJ stated that Department of Homeland Security Secretary Markwayne Mullin informed the California secretary of state</strong> that there are \"likely numerous noncitizens\" registered to vote in the federal election in California.</p> <p>\"Accompanying this letter is a password-protected thumb drive with a list of names of people the Federal Government believes are likely noncitizens who were sent a vote-by-mail ballot from California to participate in the November election,\" the letter stated.</p> <p>The letter requested that L.A. County review the list within 48 hours. <strong>For any individuals the county could not independently verify as citizens, the letter requested election officials be instructed to \"segregate - not cancel\" those vote-by-mail ballots</strong> until their citizenship status could be determined.</p> <p>If the county didn't comply with the DOJ request, the letter stated, \"the United States will have no choice but to seek emergency relief.\"</p> <p>Logan said his office has not accessed the drive because doing so would conflict with \"established data privacy and information security protocols.\" He said his office does not consider the device a secure medium and said the letter does not specify the number of individuals involved or describe the information contained in the records.</p> <p>\"Maintaining accurate voter registration records is a fundamental responsibility of our office,\" Logan said in a statement. \"<strong>Federal and state laws are clear on how voter eligibility is established - and any action to remove a voter from eligibility must be based on verifiable information, not assertions of unconfirmed data matching.</strong>\"</p> <p>Logan said that with the 2026 general election underway, his department is focused on administering a safe, secure, accurate, and transparent election.</p> <p><strong>\"We will continue following established legal requirements and verification procedures while protecting the rights of every eligible voter,\"</strong> Logan stated.</p> <p>Gov. Gavin Newsom's press office posted Wednesday on X in response to the letter.</p> <p><strong>\"With this letter, the Trump administration is demanding that California election officials voluntarily violate federal law enshrined by Congress.</strong> Completely unacceptable and inappropriate for the feds to do - especially with their track record,\" the statement said, not specifying what federal law would be violated.</p> <p>The California Secretary of State also criticized the DOJ's letter in a response on X.</p> <p>\"The US DOJ's relentless efforts to unlawfully gain access to states' protected voter data and purge voter rolls serve only to cause chaos and fuel public distrust in our elections,\" the statement said. \"California has robust state law requirements that only U.S. citizens can register to vote and that any non-eligible registrants are removed from the State's voter rolls.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T19:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 15:20</span>",
+    "link": "https://www.zerohedge.com/political/times-doj-seek-emergency-relief-against-california-over-suspected-non-citizen-voters",
+    "pubDate": "Thu, 15 Oct 2026 19:20:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "RFK Jr. Removes 189,000 Improper Health Care Enrollments",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">RFK Jr. Removes 189,000 Improper Health Care Enrollments</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://amgreatness.com/2026/10/15/rfk-jr-removes-189000-improper-health-care-enrollments/\">Authored by AG News Staff via American Greatness</a>,</em></p> <p>Health and Human Services Secretary Robert F. Kennedy Jr. <a href=\"https://justthenews.com/politics-policy/rfk-jr-announces-purge-189k-dead-or-duplicate-enrollees-subsidized-healthcare\">announced Wednesday</a> that the Trump administration has <strong>eliminated 189,000 improper government-subsidized health care enrollments, a move expected to save American taxpayers as much as $1.5 billion annually.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/RFK-Jr_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/RFK-Jr_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bb962141-2741-4edd-a8ed-495a85e1ac05\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/RFK-Jr_0.jpg\" /></a></p> <p>The Centers for Medicare and Medicaid Services (CMS) identified duplicate enrollments and coverage associated with deceased individuals across Medicare, Medicaid and the Children's Health Insurance Program (CHIP).</p> <p><strong>The sweeping cleanup is part of the administration's broader effort to eliminate wasteful government spending and prevent taxpayer dollars from flowing to insurance companies through improper subsidies.</strong></p> <blockquote> <p><em>\"In 2026, CMS identified 189,000 subsidized enrollments involving duplicate Medicare, Medicaid, or CHIP coverage on record showing the enrollee has died,\" <a href=\"https://x.com/RichSementa/status/2110375845449593304\">Kennedy said during a news conference</a>.</em></p> <p><em>\"CMS acted to remove improper subsidies in all these cases.\"</em></p> </blockquote> <p><strong>According to Kennedy, the action will save taxpayers approximately $738 million in 2026, with projected annual savings reaching $1.5 billion in subsequent years.</strong></p> <p>The HHS secretary emphasized that the improper payments benefited insurance companies rather than Americans receiving medical care.</p> <p><strong>\"Each of those figures represents a payment that would otherwise have gone to an insurance company, not to an American citizen,\" Kennedy said.</strong></p> <p>To safeguard against wrongful removal, CMS contacted affected enrollees or their estates and provided a 30-day window to correct potential errors before subsidies were terminated.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T18:50:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 14:50</span>",
+    "link": "https://www.zerohedge.com/political/rfk-jr-removes-189000-improper-health-care-enrollments",
+    "pubDate": "Thu, 15 Oct 2026 18:50:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "New DRAM Demand Source Could Surge 20-Fold By 2030",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">New DRAM Demand Source Could Surge 20-Fold By 2030 </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Last month, Jason Chen, chairman and CEO of Taiwanese PC maker Acer, offered some relief from the memory shortage, saying chip prices could <a href=\"https://www.zerohedge.com/markets/supply-shortage-problem-has-disappeared-acer-ceo-says-memory-prices-decline-2027-cxmt\">begin falling in the second half of next year</a>. That <a href=\"https://www.zerohedge.com/markets/supply-shortage-problem-has-disappeared-acer-ceo-says-memory-prices-decline-2027-cxmt\">outlook</a> challenges the memory <s>cartel</s>, pardon, the Big Three's claims that prices will keep rising well beyond 2027.</p> <p>Meanwhile, Chinese memory-chip manufacturer ChangXin Memory Technologies, better known as CXMT, recently said it had <a href=\"https://www.zerohedge.com/technology/worlds-largest-pc-makers-start-using-memory-chips-chinas-cxmt\">begun mass production</a> of advanced memory chips. Goldman analysts are <a href=\"https://www.zerohedge.com/markets/memory-remains-epicenter-micron-tumbles-blwo-1000-kospi-catches-down-and-cxmt-shrinks-dram\">now looking</a> to Samsung's Oct. 29 earnings report for indications of whether the company expects tight memory-market conditions to persist in 2028.</p> <p>AI hyperscalers have soaked up the world's high-bandwidth memory (HBM) for the data center buildout, sending prices soaring and pressuring consumer electronics companies such as Apple, which was forced to raise prices for the new <a href=\"https://www.zerohedge.com/markets/apple-slides-after-report-says-iphone-18-pro-component-orders-slashed-signaling-early\">iPhone 18 premium lineup</a> and foldable Duo.</p> <p>But with CXMT's supply coming online and major memory giants still warning of tight conditions through next year, we may soon see whether that narrative holds after Samsung's earnings call. <strong>A new source of memory demand could also emerge, this time outside data centers and in physical AI.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-12_11-48-07.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-12_11-48-07.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ec879388-d1ab-41fd-a546-bd716f50938b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-12_11-48-07.png\" /></a></strong></p> <p>Counterpoint Research forecasts that <strong>DRAM demand could surge with the coming wave of humanoid robot deliveries</strong>, expected to begin next year and continue through the decade.</p> <p>South Korean newspaper <a href=\"https://www.chosun.com/english/industry-en/2026/10/11/5SDEOOLNXRDHNNY66BJ25HL5UU/\">The Chosun Daily</a> first cited Counterpoint's note, which said <strong>DRAM demand for humanoid robots could explode to 172,000 terabits in 2030 from roughly 8,300 terabits this year.</strong></p> <p>Average DRAM capacity per humanoid robot is set to <strong>roughly double, from 19 gigabytes to 39 gigabytes</strong>, over the same period.</p> <p>More sophisticated AI models have increasingly larger and larger memory requirements, and we're sure those requirements could rise even further. These complex bots process images, video and sound simultaneously and use \"world models\" to anticipate changes in the surrounding environment, requiring faster processing and greater memory capacity.</p> <p>Beyond humanoid robotics, <strong>memory demand will likely surge for highly autonomous vehicles</strong>, which typically require over 200 GB of memory and several terabytes of storage.</p> <p>Global memory firms are eyeing the robot market. Sanjay Mehrotra, Micron CEO, recently said, <strong>\"Level 4 or higher autonomous vehicles typically require over 200 GB of memory and several terabytes of storage. Humanoid robots will likely need similar levels of memory and storage.\"</strong></p> <p>On the demand side of humanoid robotics, Eric Sheridan, managing director and internet/e-commerce equity analyst at Goldman, recently <strong><a href=\"https://www.zerohedge.com/markets/goldman-upgrades-humanoid-forecast-4-times-warehouses-become-ground-zero-deployments\">raised his base-case forecast</a></strong> to 75,000 humanoid shipments in 2026, 890,000 in 2030, and 6.5 million in 2035, versus previous estimates of 51,000, 256,000, and 1.4 million, respectively.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-08-31_12-57-05.png?itok=2lwsZpKb\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-08-31_12-57-05.png?itok=2lwsZpKb\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3c4c07f0-1c61-45ee-a990-fee1691e34cb\" data-responsive-image-style=\"inline_images\" height=\"229\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/2026-08-31_12-57-05.png?itok=2lwsZpKb\" width=\"500\" /></a></p> <p>\"<strong>We are raising our humanoid robot market forecast. The global market is now projected to reach approximately 890,000 units by 2030 and 6.5 million units by 2035 (representing a $138 billion market opportunity),</strong>\" Sheridan told clients in late August.</p> <p><a data-image-external-href=\"\" data-image-href=\"/s3/files/inline-images/2026-08-31_13-20-32.png?itok=SPgYuCms\" data-link-option=\"0\" href=\"https://cms.zerohedge.com/s3/files/inline-images/2026-08-31_13-20-32.png?itok=SPgYuCms\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3592f6d1-7b60-4d0a-a439-81d534469e36\" data-responsive-image-style=\"inline_images\" height=\"638\" src=\"https://cms.zerohedge.com/s3/files/styles/inline_image_mobile/public/inline-images/2026-08-31_13-20-32.png?itok=SPgYuCms\" width=\"500\" /></a></p> <p>It's not just data centers that will drive memory demand. <strong>Physical AI could become the next major source of demand.</strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T18:35:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 14:35</span>",
+    "link": "https://www.zerohedge.com/technology/new-dram-demand-source-could-surge-20-fold-2030",
+    "pubDate": "Thu, 15 Oct 2026 18:35:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Bitcoin Will Become \"Less Volatile\" And Larger Than Gold: 'The Bitcoin Standard' Author",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Bitcoin Will Become \"Less Volatile\" And Larger Than Gold: 'The Bitcoin Standard' Author</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author\">Authored by Zoltan Vardai via CoinTelegraph.com</a>,</em></p> <p>Saifedean Ammous, the author of the 2018 academic book \"The Bitcoin Standard,\" said that Bitcoin already functions as a medium of exchange and that volatility's effect on that is likely to diminish.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-why-the-crypto-market-is-fall.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-why-the-crypto-market-is-fall.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cf366eb1-6f5e-485c-b0f4-9a35d9ec9dcd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-why-the-crypto-market-is-fall.jpg\" /></a></p> <p><strong>Bitcoin (BTC) can serve as a medium of exchange as it becomes less volatile than gold while surpassing the market capitalization of the largest precious metal</strong>, wrote Ammous in a Tuesday X <a href=\"https://x.com/saifedean/status/2110011066834899030\">post</a>.</p> <blockquote> <p><em>\"Holding Bitcoin is using Bitcoin as money, and its lack of widespread use as a method of payment is no evidence against its monetization unfolding,\" added Ammous.</em></p> </blockquote> <p><strong>The remarks come in response to a passage in Professor Lawrence H. White's <a href=\"https://www.mercatus.org/hayekprogram/research/books/better-money-gold-fiat-or-bitcoin\">book</a>, \"Better Money: Gold, Fiat, or Bitcoin?,\" which argued that Bitcoin's fixed supply makes it too volatile to serve as a medium of exchange.</strong></p> <blockquote> <p><em>\"With no supply response to demand swings, BTC's price is too volatile for people who want a reliable medium of exchange,\" wrote White in a Monday X <a href=\"https://x.com/lawrencehwhite1/status/2109405085751275617\">post</a>, referencing chapter six of his book. </em></p> <p><em>He added that the lack of supply response was the reason stablecoins have \"eaten BTC's lunch transaction volume.\"</em></p> </blockquote> <p>Other industry watchers have also predicted that Bitcoin would eventually surpass gold. In May 2025, Bitwise's head of European research, André Dragosch, told Cointelegraph that their in-house prediction forecasts a <a href=\"https://cointelegraph.com/news/bitcoin-one-million-2029-etf-government-demand-bitwise\">$1 million Bitcoin</a> price by 2029, which would make Bitcoin match gold's market capitalization.</p> <p>However, Bitcoin's current $1.6 trillion market capitalization would need to grow by at least 18-fold to surpass <strong>Gold's near $29 trillion market cap</strong> to become the leading global asset.</p> <p>In April 2025, Blockstream CEO Adam Back predicted <a href=\"https://cointelegraph.com/news/bitcoin-may-rival-gold-as-inflation-hedge-adam-back\">Bitcoin will start</a> rivaling gold's use cases as a monetary hedge, due to global financial instability and rising fiat inflation.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T18:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 14:20</span>",
+    "link": "https://www.zerohedge.com/crypto/bitcoin-will-become-less-volatile-and-larger-gold-bitcoin-standard-author",
+    "pubDate": "Thu, 15 Oct 2026 18:20:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Pentagon Eyes 'Mother Of All Bombs' For Future Iran Strikes",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Pentagon Eyes 'Mother Of All Bombs' For Future Iran Strikes</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Anonymous Trump admin officials are apparently once again 'leaking' Iran war military plans to the media. The newest claim is that among potential<strong> Pentagon 'options' for a new bombing campaign against the Islamic Republic include deploying the \"mother of all bombs\"</strong>.</p> <p>Prior mainstream media reports suggested President Trump is <strong>mulling the resumption of a bombing campaign possibly even before the November midterm elections</strong>. But the president's public statements have <strong>indicated otherwise</strong>.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/moabfile_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/moabfile_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2e55feed-7f8c-4b6f-b436-404a0914a1f1\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/moabfile_0.jpg\" /></a> <figcaption><em>via Reuters</em></figcaption></figure><p>There now seems a keen and much-belated awareness at the general unpopularity of this war among the US public on the part of the administration. After all, top White House officials including Trump himself had repeatedly promised at the outset of Operation Epic Fury that it would be a <strong>swift and decisive campaign</strong>.</p> <p>Officials like Rubio went from saying it could take 'days' to then offering 'four to six weeks' or else saying a couple months. But now we are seven months in, and the end-goal or <strong>point that might mark a 'mission accomplished' exit moment has never really been defined</strong>. It all along has seemed like a bombing campaign in search of a strategy.</p> <p>In the meantime, outlets like CNN are running with headlines of Washington's next 'threat' against a defiant and intransigent Iranian leadership, which is busy attacking shipping in the Strait of Hormuz at levels never seen <a href=\"https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran\">before</a>:</p> <blockquote> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8jp8lc00023b6rixu3543x@published\"><em>The US military has developed new strike plans that include potentially using the so-called <strong>“mother of all bombs” to target Iranian energy infrastructure and nuclear sites</strong> should <a href=\"https://www.cnn.com/politics/president-donald-trump-47\">President Donald Trump</a> give the order to resume combat operations either before or after the midterm elections, according to multiple US officials familiar with the matter.</em></p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8q10da000d3b6rawquqcru@published\"><em>Using the <strong>GBU-43/B Massive Ordnance Air Blast Bomb or MOAB</strong>, the <a href=\"https://www.cnn.com/2017/04/13/politics/afghanistan-isis-moab-bomb\">largest non-nuclear bomb </a>in the US arsenal, for the first time in the conflict with Iran would mark a notable escalation, even though there are doubts over how effective it would be in accomplishing any of Trump’s stated strategic objectives or <strong>tipping the balance of the war</strong>, multiple sources familiar with internal military planning discussions about potentially deploying the weapon said.</em></p> </blockquote> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8q10da000e3b6rloier9h3@published\">CNN does also note that \"Trump is facing pressure to bring an end to the <a href=\"https://www.cnn.com/2026/09/22/politics/cnn-poll-donald-trump-foreign-affairs-iran-war\">deeply unpopular war</a> — as <strong>Republicans brace for potential political backlash from voters</strong> in the upcoming <a href=\"https://www.cnn.com/election/2026\">midterm elections</a> and there is little indication the two countries are close to a negotiated resolution after more than six months of US bombing.\"</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8q10da000f3b6r7rp8nnku@published\">One wonders what the aim or purpose of such headlines touting the use of the \"mother of all bombs\" is. The Iranians have not changed their position. Their Ayatollah and many top officials have already been assassinated, and Tehran is signaling readiness for a prolonged war.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8q10da000f3b6r7rp8nnku@published\">Iranian Parliament Speaker Mohammed Bagher Ghalibaf in a televised speech on Wednesday <strong>invoked the Iran-Iraq War, which lasted from 1980 to 1988</strong>, when speaking about what his country is ready to endure with the United States.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8q10da000f3b6r7rp8nnku@published\">This suggests Iran is ready to resist for years if necessary, despite the cratering wartime economy amid sweeping Washington sanctions and unprecedented isolation from energy markets.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8q10da000f3b6r7rp8nnku@published\"><a data-image-external-href=\"https://store.zerohedge.com/products/congressional-trading-club-tee-members-only?utm_source=zerohedge&utm_medium=banner&utm_campaign=zh_store_20261012&utm_content=02-congressional-tee-nice-trades\" data-image-href=\"https://store.zerohedge.com/products/congressional-trading-club-tee-members-only?utm_source=zerohedge&utm_medium=banner&utm_campaign=zh_store_20261012&utm_content=02-congressional-tee-nice-trades\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/congressional-trading-club-tee-members-only?utm_source=zerohedge&utm_medium=banner&utm_campaign=zh_store_20261012&utm_content=02-congressional-tee-nice-trades\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6d7d2854-c24e-44b8-bb4b-80a1e39a5dbf\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/02-congressional-tee-nice-trades-1000x520%284%29.png\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T18:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 14:05</span>",
+    "link": "https://www.zerohedge.com/geopolitical/pentagon-eyes-mother-all-bombs-future-iran-strikes",
+    "pubDate": "Thu, 15 Oct 2026 18:05:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Think Rates Are Peaking? Consider Mortgage-Backed Securities",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Think Rates Are Peaking? Consider Mortgage-Backed Securities</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://realinvestmentadvice.com/resources/blog/think-rates-are-peaking-consider-mortgage-backed-securities/\">Authored by Michael Lebowitz via RealInvestmentAdvice.com</a>,</em></p> <p><strong>Think interest rates are peaking? If so, agency mortgage-backed securities (MBS) deserve a look.</strong> Think rates have further to climb? MBS may still earn a place in your fixed-income allocation, potentially offering more yield than Treasuries and essentially no credit risk.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/riambs.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/riambs.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b2e6c5fa-f2a8-4d4c-b02a-629bec747ae8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/riambs.jpg\" /></a></p> <p>Here is the twist. In 2022 and 2023, MBS investors learned a painful lesson. As rates surged, homeowners stopped refinancing, and MBS durations rose at the worst possible time. Today, that dynamic has largely run its course. With 30-year mortgage rates at 7.25% and nearly 80% of homeowners holding a rate below 6%, refinancing has all but stopped, leaving MBS durations little room to extend further. The feature that hurt MBS investors in 2022 and 2023 has little room for further harm.</p> <p><strong>MBS are a unique type of bond because mortgagees can prepay part or all of their mortgage at any time without penalty.</strong> Thus, MBS investors, who have essentially lent mortgagees money, are, inherently, short a prepayment option. The prepayment option accounts for much of the extra yield MBS offer over Treasuries, as well as their greater interest rate risk. But when the risks are limited, MBS holders are often in an advantageous position.</p> <p>In this article, we weigh the pros and cons of MBS at current yields, explain what will drive future returns, and share how individual investors can gain exposure.</p> <h2>Setting The Stage</h2> <p>Mortgage rates and Treasury yields have moved sharply higher over the last six months. Per Freddie Mac, the average 30-year fixed mortgage rate was 7.28% as of October 1, the highest since November 2023, and up from 6.34% a year ago.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-165.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-165.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"318eeb5c-b036-4ec8-9185-5c18b8f634e3\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-165.jpg\" /></a></p> <p><em>Source: Freddie Mac Primary Mortgage Market Survey, via Real Investment Advice</em></p> <p>The graph above shows that virtually all mortgages originated from the early 2000s have a rate below the current rate. Accordingly, refinancing activity has dried up. To wit, the Mortgage Bankers Association (MBA) reported that its refinance index is <strong>over 50% below the same level a year ago</strong>. Per Joel Kan of the MBA:</p> <p><em>Mortgage rates jumped to their highest level in almost three years, pushing borrowers to the sidelines.</em></p> <p>The iShares MBS ETF (MBB), a reasonable proxy for the agency MBS index, holds securities with a weighted average coupon of 3.63%, roughly 3.50% below the current mortgage rate. With most mortgages at least 2% below current rates, very few homeowners have an economic reason to refinance.</p> <p><strong>In bond terminology, their prepayment option is worth little.</strong> To better understand why this matters for MBS investors, let's focus on MBS duration.</p> <h2>Understanding MBS Duration</h2> <p>Duration measures a bond's price sensitivity to changes in interest rates. A bond with a duration of seven years should lose about 7% of its value if yields rise by 1% and gain about 7% if yields fall by 1%. For Treasury, municipal, and corporate bonds, duration is fairly predictable because their interest and principal cash flows are fixed.</p> <p>MBS investor cash flows depend on when and by how much homeowners pay down their mortgages, which depends largely on interest rates. Therefore, changes in interest rates have a much more profound impact on MBS durations than Treasury and corporate durations.</p> <p><strong>MBS investors track effective duration, a model-based duration estimate that accounts for how prepayments are expected to change as rates move.</strong></p> <ul><li>When rates rise, refinancing slows, cash flows are pushed further into the future, and duration lengthens.</li> <li>When rates fall, refinancing accelerates, principal comes back sooner, and duration shortens.</li> </ul><p>The graph below shows a hypothetical comparison of MBS and Treasury duration for a range of Treasury yield levels. Note how quickly MBS duration changes when rates are between 4% and 6%. At the same time, note the relatively flat, downward-sloping Treasury duration once rates are above 6%. The lower graph shows that refinancing activity is highly sensitive to rate changes when 10-year Treasury yields are in the 4% to 6% range.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-166_1.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-166_1.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"dd2cd82c-7fad-40cc-8c7e-7be3f3e85e11\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-166_1.jpg\" /></a></p> <p><em>Source: Real Investment Advice (illustrative model, not market data)</em></p> <h2>Coping With Duration Shifts - Negative Convexity</h2> <p><strong>The graph above shows that MBS rate exposure tends to shift in the wrong direction at the wrong time for investors.</strong> For instance:</p> <ul><li>Duration increases when yields rise, so price losses are greater than they would have been if duration had remained constant.</li> <li>Duration declines when falling rates would otherwise produce larger price gains had duration remained constant.</li> </ul><p>Those negative consequences are called negative convexity.</p> <p><strong>This all means that the stated duration of an MBS or portfolio of MBS is a snapshot, not a constant.</strong> Investors should expect it to change as rates change and watch where current mortgage rates sit relative to the point at which homeowners can profitably refinance.</p> <h2>Extension Risk Is Largely Spent</h2> <p>Extension risk, or rising duration, has been harming MBS investors since rates started rising in late 2021. As rates rise, refinancing slows, the expected life of the mortgage pool lengthens, and duration increases precisely when investors least want more duration. MBS holders acutely felt the negative convexity in 2022 and 2023.</p> <p><strong>Today, despite the recent rate increase, much of that extension has already occurred.</strong> When a mortgage pool is deeply out of the money, or not economically refinanceable, as many are today, prepayments are driven almost entirely by factors unrelated to interest rates such as:</p> <ul><li>Home sales.</li> <li>Scheduled amortization of principal.</li> <li>Defaults, which, for agency MBS, return principal at par.</li> <li>Cash-out refinancing, which is limited at current rates.</li> </ul><p>These and other sources of principal repayment create a floor under prepayment speeds.</p> <p><strong>Today, prepayments can't slow much more; thus, further rate increases would not extend duration much.</strong> Put differently, MBS investors buying today are taking on duration that is relatively capped on the upside. Accordingly, the risk/reward for MBS looks more balanced than it did a few years ago.</p> <h2>The Con: The Double Whammy If Rates Fall</h2> <p>The flip side of limited duration extension risk is the MBS problem when rates decline. If mortgage rates fall meaningfully, higher-coupon pools face two penalties at once:</p> <ul><li>Principal earning higher rates returned through prepayments must be reinvested at lower rates.</li> <li>Duration shortens. As refinancing accelerates, the expected life of the MBS declines, capping price appreciation relative to a comparable Treasury.</li> </ul><p><strong>This is the cost of the prepayment option MBS investors essentially sold to homeowners.</strong> The extra yield they earn over Treasuries is the premium they are paid for bearing it.</p> <h2>The Silver Lining To The Double Whammy</h2> <p>Within the double whammy, i.e., negative convexity, lies a potential reward in today's market. If mortgage rates fall by almost 2.5% to 5%, over two-thirds of mortgages, as we share below, have no financial incentive to refinance.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-167_3.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-167_3.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"62f5141b-5793-428c-be35-9c22504d2b23\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-167_3.jpg\" /></a></p> <p><em>Source: Redfin analysis of FHFA National Mortgage Database (Q3 2025); Freddie Mac PMMS, via Real Investment Advice</em></p> <p><strong>For most of the MBS market, falling rates in the recent environment are a good thing:</strong></p> <ul><li>Because refinancing will be slow to kick in, duration declines should be minimal; investors can capture a large amount of the price benefit of lower yields.</li> <li>Faster prepayments become a gain. Lower rates tend to boost home sales, and every sale pays off a loan at par. For MBS trading below par, each dollar returned early is profit pulled forward.</li> </ul><p>Bear in mind it's not just the low number of high-rate loans that will likely limit prepays when rates fall. Refinancing takes months for borrowers to notice lower rates, shop lenders, and close loans. Furthermore, given the lack of recent refinancing and home sale activity, lender capacity could become a bottleneck if applications surge.</p> <p><strong>Also, many borrowers never refinance.</strong> Some lack the credit score or home equity to qualify, some have balances too small to justify closing costs, and others simply do not act. As a result, investors continue to collect above-market coupons on the loans that remain.</p> <p>Falling rates can be very beneficial to MBS holders given today's backdrop.</p> <h2>How To Invest In MBS</h2> <p><strong>For institutional investors, the agency MBS market is one of the deepest and most liquid fixed income markets in the world.</strong> Owning individual MBS is ideal in theory. It allows investors to choose the coupon, vintage, and prepayment characteristics that best fit their views. However, in practice, it is challenging and impractical for smaller investors for the following reasons:</p> <ul><li>Pools factor down. Every month, a portion of principal is returned. A $100,000 position may be $60,000 within a few years, and small, \"odd-lot\" positions trade at meaningful discounts to larger pools.</li> <li>Monthly principal must be reinvested. Small, irregular cash flows are difficult to put back to work efficiently.</li> <li>Prepayment analysis requires data and models most individual investors do not have.</li> <li>Dealer access and pricing transparency for small trades are limited.</li> </ul><p>For these reasons, an ETF or mutual fund may be a more practical option for smaller investors. Funds handle reinvestment, maintain diversification across coupons and vintages, and benefit from professional management, institutional models, and lower trading costs.</p> <p><strong>Passive ETFs such as MBB offer broad index exposure at low cost; its expense ratio is 0.04%.</strong> Actively managed MBS funds, such as JMBS, can shift their holdings toward coupons and specified pools that managers believe offer better convexity profiles, albeit at higher fees.</p> <p>Investors should review a fund's coupon distribution, effective duration, and use of leverage or derivatives. Two funds with similar durations can behave differently.</p> <p>The graphic below compares the most popular passive MBS ETF, MBB, to the largest active ETF, JMBS.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-168_1.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-168_1.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6e705aa0-181e-4c42-8402-9dc9a2062343\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-168_1.jpg\" /></a></p> <p><em>Source: iShares, Janus Henderson fund pages (as of Oct 5, 2026), via Real Investment Advice</em></p> <h2>Summary- Investment Thesis</h2> <p><strong>A bullish thesis rests on two key points. First, interest rates stabilize and start to fall.</strong></p> <p>Second, even if rates rise, the duration shift is largely capped, as the graph below shows. Accordingly, assuming MBS-to-Treasury spreads do not change, the price change between an MBS and a similar-maturity Treasury will not be that indifferent.</p> <p>Three years ago, extension risk was the reason to avoid MBS. Today, it is one reason to own them. With most mortgages far below market rates, MBS duration has little room left to extend or refinance. Investors are left with an asset class that offers high yields, minimal credit risk, and stable duration.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T17:50:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 13:50</span>",
+    "link": "https://www.zerohedge.com/markets/think-rates-are-peaking-consider-mortgage-backed-securities",
+    "pubDate": "Thu, 15 Oct 2026 17:50:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "US Issues First Outbound Investment Penalty Over Chinese Robotics AI Deal",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">US Issues First Outbound Investment Penalty Over Chinese Robotics AI Deal</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://www.theepochtimes.com/china/us-issues-first-outbound-investment-penalty-over-chinese-robotics-ai-deal-6102312?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Arthur Zhang via The Epoch Times</a>,</em></p> <p><strong>The U.S. Treasury Department has fined Amidi LLC $200,000 for failing to report an investment in a Chinese tech startup</strong> - the first penalty under U.S. restrictions on investments in sensitive Chinese technologies.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281253%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281253%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"49570a95-6989-48bf-9c57-2a8cdb7eb059\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281253%29.jpg\" /></a> <figcaption><em>The Department of the Treasury in Washington on Oct. 3, 2024. Madalina Vasiliu/The Epoch Times</em></figcaption></figure><p>Amidi is the parent company of Plug and Play Tech Center, a California-based venture investment and startup accelerator organization. The Treasury imposed the penalty in July and disclosed it on Oct. 7.</p> <p>According to Treasury, a Chinese investment fund controlled by Amidi invested $92,478 on April 19, 2025, in Shanghai Qiongche Intelligent Technology, known as Noematrix, a Shanghai-based developer of AI technology that helps robots interact with and perform tasks in the physical world.</p> <p>The Treasury identified the transaction through regular compliance and market monitoring. <strong>The violation was a failure to report the investment, not a finding that the investment itself was prohibited.</strong></p> <h2>1st Penalty Under US Investment Restrictions</h2> <p>The Outbound Investment Security Program, which took effect on Jan. 2, 2025, prohibits certain U.S. investments in Chinese companies developing advanced artificial intelligence, semiconductors, and quantum technologies. Other transactions involving these sectors are permitted but require notification to the Treasury.</p> <p>The rules also cover certain investments made through foreign subsidiaries controlled by American companies.</p> <p>The restrictions are intended to prevent American capital and investment-related benefits from supporting the development of sensitive technologies that could threaten U.S. national security.</p> <p>Christopher Pilkerton, the Treasury's assistant secretary for investment security, said in the Oct. 7 announcement that the program addresses the development of sensitive technologies by countries of concern that could pose national security risks.</p> <h2>Plug and Play's China Investment Network</h2> <p>Amidi's investment in Noematrix followed several earlier financing rounds involving Plug and Play China, the China-based investment and startup development operation of the Silicon Valley network.</p> <p>Noematrix identified Plug and Play China as an investor in its September 2024 financing, several months before the U.S. restrictions took effect.</p> <p>In December 2024, Noematrix announced another financing round led by Sequoia China, a Chinese venture capital firm, and said Plug and Play China had increased its investment.</p> <p>On April 10, 2025, Noematrix announced another financing round, again naming Plug and Play China as a participating investor.</p> <p><strong>Nine days later, the Amidi-controlled Chinese fund made the investment identified in the Treasury's enforcement action.</strong> It remains unclear whether the two transactions were connected or whether the fund was the investment vehicle used by Plug and Play China.</p> <p>The Epoch Times contacted the Treasury, Amidi, Noematrix, and Plug and Play China to seek clarification on the Chinese fund, its relationship with the Silicon Valley investment network, and the failure to notify U.S. authorities. None responded by publication time.</p> <h2>Chinese University and State-Linked Investment</h2> <p><strong>Noematrix has since received financing from Chinese university-linked and state-owned investors.</strong></p> <p>In June 2026, the company announced another financing round involving Shanghai Jiao Tong University's AI Future Fund, a university-linked technology investment fund; Shanghai Chuangzhi Technology, a subsidiary of the Shanghai Chuangzhi Academy research institution; and Wuxi Data Group, a state-owned data industry company.</p> <p>Noematrix said it had worked with Shanghai Jiao Tong University and Shanghai Chuangzhi Academy on joint laboratories and research projects. Its co-founder Lu Cewu is a professor and vice dean of Shanghai Jiao Tong University's School of Artificial Intelligence.</p> <p>The company also said it had joined Wuxi Data Group and other partners in launching a citywide initiative to collect high-quality data from real-world activities to train robotic AI systems.</p> <p>The initiative targets data from 1,000 businesses and 1 million hours of real-world activity, according to Noematrix. The company said the partners had released the project's first phase results and planned to expand industrial datasets to support the use of AI-powered robots on production lines.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T17:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 13:20</span>",
+    "link": "https://www.zerohedge.com/ai/us-issues-first-outbound-investment-penalty-over-chinese-robotics-ai-deal",
+    "pubDate": "Thu, 15 Oct 2026 17:20:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
+    "desc": "Key PointsRevolution Medicines recently made a breakthrough in oncology.",
+    "link": "https://www.nasdaq.com/articles/these-2-stocks-have-run-circles-around-magnificent-seven-year-and-wall-street-says-there",
+    "pubDate": "Thu, 15 Oct 2026 19:34:01 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Tesla's Cybercab Robotaxi Fleet Jumped Eightfold in a Month to More Than 300 Vehicles in Austin, With Dallas Up Next. Is Elon Musk's Robotaxi Bet Finally Scaling?",
+    "desc": "Key PointsDallas expansion could unlock another major autonomous ride-hailing market.",
+    "link": "https://www.nasdaq.com/articles/teslas-cybercab-robotaxi-fleet-jumped-eightfold-month-more-300-vehicles-austin-dallas-next",
+    "pubDate": "Thu, 15 Oct 2026 19:25:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Treasuries Surge Despite Hotter-Than-Expected Producer Price Inflation Data",
+    "desc": "(RTTNews) - Treasuries have moved sharply higher during trading on Thursday, extending the upward move seen over the course of the previous session.",
+    "link": "https://www.nasdaq.com/articles/treasuries-surge-despite-hotter-expected-producer-price-inflation-data",
+    "pubDate": "Thu, 15 Oct 2026 19:24:28 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Meet the Dividend ETF With Big Stakes in These 3 Blue Chip Stocks",
+    "desc": "Key PointsThe Schwab U.S. Dividend Equity ETF ranks as one of the best dividend ETFs, with a trailing 12-month yield of 3.24%.",
+    "link": "https://www.nasdaq.com/articles/meet-dividend-etf-big-stakes-these-3-blue-chip-stocks",
+    "pubDate": "Thu, 15 Oct 2026 19:05:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "JB Hunt Transport Services Q3 26 Earnings Conference Call At 5:00 PM ET",
+    "desc": "(RTTNews) - JB Hunt Transport Services Inc. (JBHT) will host a conference call at 5:00 PM ET on October 15, 2026, to discuss Q3 26 earnings results.",
+    "link": "https://www.nasdaq.com/articles/jb-hunt-transport-services-q3-26-earnings-conference-call-5-00-pm-et",
+    "pubDate": "Thu, 15 Oct 2026 19:02:42 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Interactive Brokers Group Q3 26 Earnings Conference Call At 4:30 PM ET",
+    "desc": "(RTTNews) - Interactive Brokers Group Inc. (IBKR) will host a conference call at 4:30 PM ET on October 15, 2026, to discuss Q3 26 earnings results.",
+    "link": "https://www.nasdaq.com/articles/interactive-brokers-group-q3-26-earnings-conference-call-4-30-pm-et",
+    "pubDate": "Thu, 15 Oct 2026 19:02:42 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "RLJ Lodging Trust's Series A Preferred Shares Cross 8% Yield Mark",
+    "desc": "In trading on Thursday, shares of RLJ Lodging Trust's $1.95 Series A Cumulative Convertible Preferred Shares (Symbol: RLJ.PRA) were yielding above the 8% mark based on its quarterly dividend (annualized to $1.95), with shares changing hands as low as $24.36 on the day. This c",
+    "link": "https://www.nasdaq.com/articles/rlj-lodging-trusts-series-preferred-shares-cross-8-yield-mark",
+    "pubDate": "Thu, 15 Oct 2026 19:00:24 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Sunstone Hotel Investors' Series I Preferred Stock Shares Cross 7% Yield Mark",
+    "desc": "In trading on Thursday, shares of Sunstone Hotel Investors Inc's 5.70% Series I Cumulative Preferred Stock (Symbol: SHO.PRI) were yielding above the 7% mark based on its quarterly dividend (annualized to $1.425), with shares changing hands as low as $20.28 on the day. This co",
+    "link": "https://www.nasdaq.com/articles/sunstone-hotel-investors-series-i-preferred-stock-shares-cross-7-yield-mark",
+    "pubDate": "Thu, 15 Oct 2026 19:00:14 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "See Which Recent 13F Filers Hold COST But Auto Owners Insurance Exited",
+    "desc": "At Holdings Channel, we have reviewed the latest batch of the 49 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Costco Wholesale Corp (Symbol: COST) was held by 28 of these funds. When hedge fund managers appear to be thinking alike, we find it is",
+    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-cost-auto-owners-insurance-exited",
+    "pubDate": "Thu, 15 Oct 2026 18:50:12 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Thursday 10/15 Insider Buying Report: VMO, FINS",
+    "desc": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned cash to make a purchase, is that they expect to make money. Today we",
+    "link": "https://www.nasdaq.com/articles/thursday-10-15-insider-buying-report-vmo-fins",
+    "pubDate": "Thu, 15 Oct 2026 18:50:03 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Prediction: Here's What $1,000 Invested in Nu Holdings Today Could Be Worth by 2030",
+    "desc": "Key PointsExtrapolating consensus analyst estimates, Nu&rsquo;s earnings per share could total $1.94 in 2029.",
+    "link": "https://www.nasdaq.com/articles/prediction-heres-what-1000-invested-nu-holdings-today-could-be-worth-2030",
+    "pubDate": "Thu, 15 Oct 2026 18:50:00 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Alibaba vs. Coupang: Which E-Commerce Giant Is a Better Buy in 2026?",
+    "desc": "Key PointsAlibaba remains a dominant force in global e-commerce and cloud infrastructure with robust net margins.",
+    "link": "https://www.nasdaq.com/articles/alibaba-vs-coupang-which-e-commerce-giant-better-buy-2026",
+    "pubDate": "Thu, 15 Oct 2026 18:49:13 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Who&#8217;s there? A rare family of barn owls takes over a water tower in Manhattan’s Upper West Side",
+    "desc": "Residents mistook the owls’ nighttime screeches for cries of distress. Now crowds gather to catch a glimpse of the rare birds.",
+    "link": "https://fortune.com/2026/10/15/rare-barn-owls-manhattan-upper-west-side-water-tower/",
+    "pubDate": "Thu, 15 Oct 2026 19:20:17 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "fortune",
+    "title": "&#8216;It&#8217;s unacceptable&#8217;: California orders banks and credit unions to report their handling of insurance payouts to LA wildfire victims",
+    "desc": "Regulators have received over 160 complaints about delayed payouts and are warning lenders they could face fines if they don't move faster",
+    "link": "https://fortune.com/2026/10/15/california-palisades-wildfires-insurance-payouts-victims/",
+    "pubDate": "Thu, 15 Oct 2026 19:08:22 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
+    "desc": "The lawsuits come after Meta agreed to an $18 billion settlement over children's safety, extending states' scrutiny from social media to AI",
+    "link": "https://fortune.com/2026/10/15/eight-states-sue-openai-saying-chatgpt-hurt-kids-and-lied-to-adults/",
+    "pubDate": "Thu, 15 Oct 2026 19:07:11 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘No one was coming to save me’: How Reese Witherspoon built a $900 million company from a problem Hollywood wouldn’t fix",
+    "desc": "The actress built Hello Sunshine after Hollywood told her there were no female-led movies to make. Five years after a deal valued it at $900 million, she’s buying it back.",
+    "link": "https://fortune.com/article/reese-witherspoon-buys-back-hello-sunshine-how-she-built-a-900-million-company-from-a-problem-hollywood-wouldnt-fix/",
+    "pubDate": "Thu, 15 Oct 2026 16:25:22 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "fortune",
+    "title": "What Apple’s hand-embroidered product launch reveals about advertising in the age of AI slop",
+    "desc": "As AI-generated ads multiply, Apple’s handmade campaigns show how the people behind the work can become part of the pitch.",
+    "link": "https://fortune.com/2026/10/15/apples-hand-embroidered-product-launch/",
+    "pubDate": "Thu, 15 Oct 2026 18:53:11 +0000",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Catalio Capital seeks $500 million for AI healthcare startups - Bloomberg",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/catalio-capital-seeks-500-million-for-ai-healthcare-startups--bloomberg-93CH-4952496",
+    "pubDate": "2026-10-15 19:29:04",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "AIR Global sets first-ever dividend, $100M buyback amid business, cash strength",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/air-global-sets-firstever-dividend-100m-buyback-amid-business-cash-strength-4952482",
+    "pubDate": "2026-10-15 19:19:48",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nasdaq 100 clings to 200 SMA after dramatic rebound: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
+    "pubDate": "2026-10-15 19:19:21",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Tesla breaks below 200-SMA with double top confirmed: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tesla-rangebound-at-380-with-weak-trend-live-levels-93CH-4944787",
+    "pubDate": "2026-10-15 19:19:20",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Alphabet C consolidates between $337-$355: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
+    "pubDate": "2026-10-15 19:19:18",
+    "fetchedAt": "2026-10-15T20:01:32.855Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
     "desc": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
     "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
@@ -5902,501 +6398,5 @@
     "link": "https://finance.yahoo.com/m/3ac1542e-af17-32a4-9155-a5b5c78308de/the-s%26p-500%E2%80%99s-dividend-yield.html?.tsrc=rss",
     "pubDate": "Thu, 15 Oct 2026 09:00:00 +0000",
     "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "'Newspeak': Oxford University Tells Staff To Avoid Everyday English Phrases",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">'Newspeak': Oxford University Tells Staff To Avoid Everyday English Phrases</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://modernity.news/2026/10/13/newspeak-oxford-university-tells-staff-to-avoid-everyday-english-phrases/\">Authored by Steve Watson via Modernity.news</a>,</em></p> <p><strong>Oxford University has advised its staff to avoid common English idioms such as \"learn the ropes\" and \"find your feet,\" on the grounds that they may confuse international students or that they perpetuate negative stereotypes.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/newspeak.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/newspeak.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0f57112e-d731-4587-ab00-5cf5d3e59f97\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/newspeak.jpg\" /></a></p> <p>The guidance appears in the university's official style guide, which also recommends replacing gendered terms and softer language around socioeconomic status, prompting criticism from free speech groups that Oxford is prioritising sensitivity over cultural immersion.</p> <p>The style guide tells writers to favour \"plain English\" and cautions: \"<strong>Be mindful of idioms that may not be familiar to international readers or that may use stereotypes.</strong> Use common words, short sentences and familiar constructions.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Oxford University guide ditches traditional British phrases in favour of 'inclusive' language for foreign students <a href=\"https://t.co/K3S44IcKQe\">https://t.co/K3S44IcKQe</a></p> — GB News (@GBNEWS) <a href=\"https://x.com/GBNEWS/status/2109586757083869483?ref_src=twsrc%5Etfw\">October 12, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Specific alternatives are offered: \"learn the ropes\" becomes \"learn how to do that,\" \"find your feet\" becomes \"getting used to their new environment,\" and \"blindspots\" becomes \"gaps in knowledge.\"</p> <p><strong>Gendered words face similar treatment. \"Spokesman,\" \"chairwoman,\" and \"mankind\" are to be swapped for \"spokesperson,\" \"chair,\" and \"humankind.\"</strong></p> <p>Staff are also advised to use \"they/them\" rather than alternating \"he\" and \"she,\" to describe \"deprived\" students as \"lower income\" or as having experienced \"socioeconomic disadvantage,\" and to prefer \"gay\" over \"homosexual\" (except in legal or medical contexts) and \"older people\" over \"the elderly.\"</p> <p>Around a third of Oxford's students are international, including a fifth of undergraduates. The university has become increasingly dependent on higher fees from overseas students as domestic funding pressures grow.</p> <p>An Oxford spokesman said: \"Like many large organisations, including newspapers, <strong>Oxford University has a style guide to help staff write clearly and consistently.</strong> As a global university with staff and students from around the world, we write for a wide international audience. The guide provides practical advice for written University communications, from punctuation to choosing language that readers will readily understand. Its writing guidance is advisory and supports staff in exercising their own judgement about the language they use and the audience they are writing for.\"</p> <p>Lord Young of the Free Speech Union rejected the premise. \"Surely, one of the reasons international students come to Oxford is so that they can immerse themselves in our culture and master colloquial English,\" he said. \"What's next? Is Oxford going to insist all lectures have to be in Esperanto?\"</p> <p>The episode fits a wider pattern of language policing across British higher education and politics. <strong>Cambridge University has previously argued that free speech should be restricted in certain circumstances.</strong></p> <p><iframe frameborder=\"0\" height=\"540\" scrolling=\"no\" src=\"https://modernity.news/2026/10/02/cambridge-university-declares-free-speech-should-be-restricted/embed/\" style=\"display:block\" title=\"Cambridge University Declares Free Speech Should Be 'Restricted'\" width=\"600\"></iframe></p> <p>Other institutions have declared the term \"ethnic minority\" itself offensive.</p> <p><iframe frameborder=\"0\" height=\"540\" scrolling=\"no\" src=\"https://modernity.news/2026/10/04/universities-declare-the-term-ethnic-minority-is-offensive/embed/\" style=\"display:block\" title=\"Universities Declare The Term 'Ethnic Minority' Is Offensive\" width=\"600\"></iframe></p> <p><strong>UK students have been ordered to undertake white privilege training.</strong></p> <p><iframe frameborder=\"0\" height=\"540\" scrolling=\"no\" src=\"https://modernity.news/2026/09/17/students-in-uk-ordered-to-undertake-white-privilege-training/embed/\" style=\"display:block\" title=\"Students In UK Ordered To Undertake WHITE PRIVILEGE Training\" width=\"600\"></iframe></p> <p>The government has urged schools to report \"anti-Muslim hostility.\"</p> <p><iframe frameborder=\"0\" height=\"540\" scrolling=\"no\" src=\"https://modernity.news/2026/03/10/uk-govt-urges-schools-to-snitch-on-anti-muslim-hostility-in-orwellian-crackdown/embed/\" style=\"display:block\" title=\"UK Govt Urges Schools To SNITCH On 'Anti-Muslim Hostility' In Orwellian Crackdown\" width=\"600\"></iframe></p> <p><strong>The Green Party has called for the words \"mother\" and \"father\" to be erased in favour of more inclusive alternatives.</strong></p> <p><iframe frameborder=\"0\" height=\"540\" scrolling=\"no\" src=\"https://modernity.news/2026/10/01/far-left-green-party-wants-the-words-mother-and-father-erased/embed/\" style=\"display:block\" title=\"Far Left Green Party Wants The Words MOTHER And FATHER ERASED\" width=\"600\"></iframe></p> <p>These measures arrive as universities face financial strain and recruit more heavily from overseas. Critics argue the result is a slow dilution of the very cultural and linguistic distinctiveness that draws international students in the first place.</p> <p><strong>Learning everyday English, including its idioms, is part of mastering the language rather than an obstacle to be removed.</strong> Treating common British phrases as potentially confusing or stereotypical places the burden of adaptation on the host culture instead of on those who choose to study within it.</p> <p>The style guide is presented as advisory. In practice, such documents shape institutional expectations and signal which forms of expression are considered acceptable. Free speech advocates note that once everyday language is flagged as risky, the scope of self-censorship expands.</p> <p>Oxford's response emphasises clarity for a global audience. Lord Young's reply highlights the opposite priority: that <strong>international students benefit from encountering the language and culture as it is used.</strong></p> <p>British universities remain among the world's leading institutions. Their reputation rests on rigorous standards and open inquiry, not on rewriting ordinary English and instituting Orwellian Newspeak to minimise every possible misunderstanding.</p> <p>Treating common idioms as problems to be solved by avoidance rather than explanation reverses the traditional purpose of a world-class university. Students who arrive at Oxford should leave more fluent in the language and more familiar with the culture, not less exposed to either.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 05:00</span>",
-    "link": "https://www.zerohedge.com/political/newspeak-oxford-university-tells-staff-avoid-everyday-english-phrases",
-    "pubDate": "Thu, 15 Oct 2026 09:00:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "NGO Says \"Climate Change\" To Blame For Increase In Child Marriages",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">NGO Says \"Climate Change\" To Blame For Increase In Child Marriages</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The climate change industry (and yes, it is an industry) generates approximately $18 billion globally for NGOs, and a big part of that cash flow is the relatively new agenda of \"Climate Justice\". This is the melding of the global warming fraud and the social justice fraud into one very big and very lucrative mega-fraud. </p> <p>Climate Justice is simply another strategy for attacking western economies and free market enterprise, using the accusation that the west is \"creating environmental crisis\" which developing nations then suffer for. In other words, it is repeating the false claim that the wealth of the west is built on the suffering of the third world. If it weren't for the US, Europe and other developed nations, the third world would be rich and prosperous and peaceful and a multicultural Utopia would flourish. </p> <p>The end game of this narrative, of course, would be the eventual dismantling of western economies in the name redistributing the wealth, stopping global warming and \"saving the world.\" It's all a fantasy, but we'll get to that in a moment...</p> <p>One NGO with extensive ties to the climate agenda is called Plan International, an organization focused on children's rights, specifically the equality of girls and gender-based violence. Sure sounds like a righteous cause, but the veneer is deceiving. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Child-Marriage-09.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Child-Marriage-09.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c75766d7-9942-4974-b6ef-45d163230753\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Child-Marriage-09.jpg\" /></a></p> <p>According to <a href=\"https://www.leparisien.fr/international/elle-navait-que-12-ans-le-dereglement-climatique-nouvel-accelerateur-des-mariages-denfants-13-10-2026-ZXKF37KF75AZVHZTY74MLILRFE.php?at_variant=link\">a recent story</a> by French news outlet Le Parisien, Plan International has released their shocking annual State of the World’s Girls 2026 report, and they assert that climate change is contributing to a sharp increase <a href=\"https://plan-international.org/news/2026/10/04/climate-shocks-put-girls-at-risk-child-marriage-violence-teen-pregnancy/\">in child marriages</a> in third world countries. </p> <p>The report combines analysis of health and climate data across more than 50 countries over three decades with a survey of 5,000 girls and young women aged 15–24 in Bangladesh, Kenya, Peru, Senegal, and Zimbabwe, plus interviews and focus groups. At least 36% of respondents observed more child marriages or early unions in their communities after climate-related shocks; about 11% said they had personally experienced one. </p> <p>Girls as young as 10 years old can be married off in these culture, even when national laws forbid the practice. Poverty supposedly compels these marriages, because families need to reduce the number of mouths to feed. Also, the younger the bride, the more in \"Bride Price\" (payment) the family might receive in some cultures.</p> <p>The survey attempts to link \"climate change to destructive weather events, the weather events to a rise in poverty, and poverty to rising child marriages. It's quite a stretch, but it gets worse. The NGO also attempts to link climate change to sexual assault and increased violence against women. </p> <p>And of course, the \"Climate Justice\" position implies that the women in these countries are facing such violence and exploitation because of the actions of first world economies.</p> <p>In their <a href=\"https://plan-international.org/uploads/2021/12/cop26_policy_and_advocacy_brief_final.pdf\">COP policy briefs</a> (COP26, COP27, COP28 and others), Plan International states that “early industrialization, colonization, and wealth inequality means that developed countries contribute to global emissions significantly more than others. They call on countries with “the greatest historical and current responsibility” to raise emissions-reduction ambition and increase climate finance (more money for the NGOs). </p> <p>Plan International presents itself as a humanitarian org focused on protecting girls and women, but they have deep ties to the climate change industry through the UN and other NGOs. For example, they receive funding from the Rockefeller Foundation, one of the original globalist institutions behind the creation of the climate change narrative in the 1970s. </p> <p>As we have shown many times int eh past, there is zero concrete evidence supporting global warming theory. In fact, the data shows no relationship between human industry and changes in temperatures and weather. For starters, groups like Plan International use climate data from the past few decades. The vast majority of climate science uses temp records from the 1880s onward. None of them acknowledge climate data from longer timelines.</p> <p>The Earth's weather history is vast, and temperatures have been much hotter than they are today. Modern temps are some of the coolest in the past 400 million years. There was no human related carbon emissions back then; the temps fluctuated dramatically anyway.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Climate1_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Climate1_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"10d89a80-aac9-4387-a918-f11db87c9222\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Climate1_0.png\" /></a></p> <p>Furthermore, when matching the carbon content record to the temperature record over this time period, there is no match whatsoever. In other words, carbon emissions have nothing to do with rising or falling temperatures. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/temp-co2-570-million-years_1.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/temp-co2-570-million-years_1.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"823be3a8-3b68-4afc-9df7-1564833ae3bd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/temp-co2-570-million-years_1.jpg\" /></a></p> <p>By extension, there is no indication that current weather patterns are affected by human industry either. In Bangladesh, for example, flooding is the primary weather related disaster, and there is no evidence of a significant change in the frequency of flooding in the region from 50 to 100 years ago. The weather changes according to the long cycles of the Earth. The economic successes of the west have no bearing at all on the suffering of the third world. </p> <p>Maybe don't build your village in a desert or a flood plain. </p> <p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/K44DriPrLUk\" width=\"640\"></iframe> </p> <p>As for the child marriage problem, these cultures have been engaging in this behavior for thousands of years. If anything, the west has contributed to a steep decline in these kinds of barbaric practices. What was the scapegoat for third world nations prior to the fabrication of the climate change crisis? </p> <p>The lesson here is to beware of NGOs and the causes they claim to champion. They have a tendency to hide their true intentions behind otherwise noble pursuits. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 04:15</span>",
-    "link": "https://www.zerohedge.com/weather/ngo-says-climate-change-blame-increase-child-marriages",
-    "pubDate": "Thu, 15 Oct 2026 08:15:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "\"Russian Bots\", Burning Data-Centers, & Partitioning The Internet",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"Russian Bots\", Burning Data-Centers, & Partitioning The Internet</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://off-guardian.org/2026/10/13/russian-bots-burning-data-centres-partitioning-the-internet/\">Authored by Kit Knightly via OffGuardian</a>,</em></p> <p>The Ukrainian military used their surfeit of drones to destroy Yandex data centres in Russia, and as a result, \"hostile\" Russian bot activity dropped to almost zero.</p> <p><u><strong>That's the story.</strong></u></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/adobe-stock-burning-data-centre.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/adobe-stock-burning-data-centre.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"322d278c-80ca-437f-88d6-a149a2eb0535\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/adobe-stock-burning-data-centre.jpg\" /></a></p> <p><u><strong>There's <a href=\"https://x.com/ichbinilya/status/2109732026756563054\">no evidence it's true</a>, of course, but since when did that make any difference?</strong></u></p> <p>What were these alleged bots supposedly talking about?</p> <p><strong>Well, that depends who you are.</strong></p> <p>If you're a Covid-era pro-vaccine nut job, they were talking about <a href=\"https://x.com/DrNeilStone/status/2109768144269234680\">Fauci</a> and <a href=\"https://x.com/nickmmark/status/2109453816647287101\">ivermectin</a> and <a href=\"https://x.com/DrNeilStone/status/2109543974969205165\">vaccines harms</a>.</p> <p>If you're <a href=\"https://x.com/EYakoby/status/2109727236563624289\">a Zionist</a>, they were supporting about \"free Palestine\".</p> <p><strong>If you're a Democrat, they were spouting MAGA talking points.</strong></p> <p>If you're a leftist in general, they were promoting the <a href=\"https://x.com/JayinKyiv/status/2109339973061054472\">AfD in Germany</a>, <a href=\"https://x.com/leftsidehist/status/2109352398196240613\">Reform in the UK</a> or just the \"far right\".</p> <p><strong>It turns out the bots are everyone who disagrees with you and nobody who agrees with you.</strong></p> <p>Isn't that nice?</p> <p>No matter who you are, there's a source-less graph out there with a line going down which shows you were right about everything.</p> <p><strong>It's not like you can just <em>make up</em> a graph.</strong></p> <p>Zelensky summed the situation up <a href=\"https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid\">thus</a>:</p> <blockquote> <p>\"<strong>It suddenly became a little easier to breathe on many social platforms. There was less hate, less division and fewer provocations,</strong>\"</p> </blockquote> <p>We've been given taste of a Russia-less and/or bot-less and/or disinformation-less internet, isn't it lovely?</p> <p><u><strong>To be clear, again, there is no evidence at all this is true.</strong></u> They just say things.</p> <p>This comes hot on the heels of Andy Burnham just saying - sorry, <a href=\"https://www.itv.com/watch/news/andy-burnham-confirms-russia-interfered-in-brexit-referendum/5zvw540\">\"confirming\"</a> - that Russia tried to influence the Brexit referendum back in 2016 (a sure indication he plans to reverse that decision, but that's another story for another time).</p> <p>The point is we're all being influenced by big bad Vlad and his big bad bots.</p> <h2><strong>Maybe we should do something about it, right?</strong></h2> <p>You know what would help filter out hostile state-driven AI bot activity?</p> <p><strong>Digital ID.</strong> Just sayin'.</p> <p>Or, perhaps we should partition or the internet...</p> <p>Nobody is saying that - yet - but this is kind of story is laying the groundwork. Just wait.</p> <p><strong>As I wrote about AI and data centre fear last month:</strong></p> <blockquote> <p>None of this will really be about avoiding any apocalypse.</p> <p><strong>It will be about compartmentalisation.</strong> Cutting lines of communication.</p> <p>Running small business or personal websites in general will become more expensive as the \"data centre tax\" is added to hosting providers.</p> <p>Much like the \"sugar tax\" on fizzy drinks and snacks in the UK, this tax will notionally be paid by the hosting providers, but will be passed onto the customers via increased prices.</p> <p><strong>Major corporations will be able to easily afford these increases, but smaller independent sites will feel the pinch.</strong></p> <p>It will be cheaper to pay corporate resellers to cohost, but then you'll have to sign up to agreements about not publishing \"misinformation\" and, again, provide your proof of humanity.</p> <p><strong>If you run a website your data centre usage tax will be 0.04 per local visitor, but 0.10 per international visitor - since serving data further is more compute heavy.</strong></p> <p>You'll be able to get reductions in hosting costs if you use a \"local only\" server, accessible only to those resident in your home country/region/bloc etc.</p> <p><strong>Automatic translation, we'll be told, is very heavy on AI usage.</strong> So it will be increasingly cheaper to only publish in your native language too.</p> <p>It won't matter if any of this is true or not, they'll just say it, as they do.</p> <p><strong>On social media, the more followers you have the more data you're using, so after a certain point you will have to either pay to maintain your followers, or pay per post to make sure your followers can see it.</strong></p> <p>Of course these limitations won't apply to legacy outlets like the BBC, CNN or their ilk of course. They will be exempt, because they are part of the \"essential information distribution network\".</p> <p>And all the time, the fear of \"rogue AI\" will be there, to be picked up as convenient. A digital pandemic that, like Covid, can be started and stopped on a dime by the digital version of \"testing protocols\".</p> <p><strong>Kill switches and \"digital firebreaks\", allegedly installed to quarantine \"rogue\" AI agents, will enable swift isolation of any anti-establishment opinions or information that breaks through to an audience of any size.</strong></p> <p>An independent news YouTube channel getting a lot of views? Oh no, it's been reported to be AI and has been suspended pending investigation!</p> <p><strong>An alternate media website is getting a lot of views?</strong> Oh no, the server it's stored on has been compromised by AI and needs to be temporarily isolated!</p> <p>Again, obviously not one word of this needs to be true. They will just say it. Like they just say everything now.</p> <p><strong>And the real kicker is it won't matter if global internet traffic does decrease or data centre use really declines.</strong> They probably won't even check. The real numbers don't matter.</p> <p><em>- <a href=\"https://off-guardian.org/2026/09/23/rogue-ai-regulation-a-potential-worst-case-scenario/\">Rogue AI \"Regulation\" - A Potential Worst Case Scenario</a></em></p> </blockquote> <p><strong>\"Russian bots\" is perfect for this, mixing \"AI bad\" with \"Russia bad\" with \"disinformation bad\" in a neat little agenda cocktail.</strong></p> <p>Like <a href=\"https://marypoppins.fandom.com/wiki/Mary_Poppins%27_medicine_bottle\">Mary Poppins' medicine</a>, everyone gets the flavour they want.</p> <p><strong>It's exactly the kind of ridiculous story that could be used to justify this process down the line.</strong></p> <p><em>We publish a variety of perspectives. Nothing written here is to be construed as representing the views of ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 03:30</span>",
-    "link": "https://www.zerohedge.com/geopolitical/russian-bots-burning-data-centers-partitioning-internet",
-    "pubDate": "Thu, 15 Oct 2026 07:30:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Iran Hormuz Attack Spree Starts Choking Oil Flows (Again), UBS Warns",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iran Hormuz Attack Spree Starts Choking Oil Flows (Again), UBS Warns</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>A surge in Iranian drone attacks on commercial ships appears to be <strong>weighing on Middle Eastern energy exports through the Strait of Hormuz</strong>, with 24 attacks reported so far this month. The <a href=\"https://www.zerohedge.com/geopolitical/burning-container-ship-sinks-strait-hormuz-irgc-proclaims-5-or-6-vessels-targeted\">latest reports</a> indicate that two Emirati container ships were struck and sank in the narrow waterway within the past 24 hours.</p> <p>UBS energy expert Henri Patricot told clients on Wednseday morning that <strong>crude and petroleum-product flows exiting the Gulf of Oman dropped to 9.1 million barrels a day</strong> over the past couple of days. The weekly average slipped to 13.5 million, compared with an early-October peak of 17 million. </p> <p>Patricot provided more color on deteriorating shipping conditions in the Strait of Hormuz:</p> <p><strong><em>More attacks around Hormuz and in Saudi Arabia</em></strong></p> <p><em>Attacks on tankers in the Strait of Hormuz and in the Gulf of Oman continue to be reported at the highest intensity since the start of the conflict (Figure 24).</em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-11-44_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-11-44_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"93c5705c-f8a8-4340-b884-3be24bdf0db8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-11-44_0.png\" /></a></p> <p><em>Iran is reportedly using a new strategy to target ships, including using spotters in small boats. The attacks appear to be having a clearer negative impact on traffic via Hormuz in recent days. Separately, attacks have also continued in Saudi Arabia, with reports that Aramco's HQ which was targeted overnight.</em></p> <p><strong><em>Oil flows falling further; LNG holding up at much lower level</em></strong></p> <p><em>The latest data point to a more material drop in exports from the Middle East. UBS Evidence Lab data (> Access Dataset) indicate that <strong>crude and product flows out of the Gulf of Oman dropped to 9.1Mb/d in the past couple of days and have averaged 13.5Mb/d in the past week vs. a peak of 17Mb/d in early October (Figure 3). </strong></em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-12-19_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-12-19_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5b1d4290-8b1b-456a-bb87-7d327efb1b4d\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-12-19_0.png\" /></a></p> <p><em>Our estimate of combined crude and product exports through Hormuz and bypass routes is <strong>down to 9.5Mb/d over the past week, well below the recent high of 16Mb/d and September average of 14Mb/d </strong>(Figure 2).</em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-12-38_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-12-38_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8f481564-bbf8-4af0-8960-0507e38a25b0\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-12-38_0.png\" /></a></p> <p><em>Flows are still likely to be revised higher but there now appears to be a clear trend of declining flows since early October now. We are adding a new chart showing LNG flows out of the Gulf of Oman (Figure 4). </em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-00_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-00_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b3429f5e-cc7a-4096-af23-907902f80190\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-00_0.png\" /></a></p> <p><em>There has been an improvement in flows since mid-September and they are holding up for now, but only at ~25% of pre-conflict levels, vs. oil close close to 50% in the past week and 75% at recent peak.</em></p> <p><strong><em>Crude loadings rebound</em></strong></p> <p><em>On the positive side, Gulf crude loadings excluding Iran bounced back to >12Mb/d over the past couple of days. As loadings in previous days were revised higher too, October loadings are back up to 8.7Mb/d on average, in line the September average (Figure 12). </em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-26_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-26_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"db9570c0-19b1-4ac4-aa6e-d8042ef9e0d1\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-26_0.png\" /></a></p> <p><strong><em>There is still no Iranian crude loading (Figure 13). </em></strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-44_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-44_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d9315656-33d0-4838-846c-33a64dbaabb9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-13-44_0.png\" /></a></p> <p><em>Outside Hormuz, preliminary data show no loadings from Yanbu in the past couple of days, taking the average to 1.6Mb/d so far in October, below the September average of 2.7Mb/d (Figure 16). Including Fujairah, bypass crude loadings averaged 2.1Mb/d over the past couple of days and 3.3Mb/d in October, vs. 5.4Mb/d in September. Gulf product loadings have ticked up just above 1Mb/d, still well below normal levels of >3Mb/d (Figure 17).</em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-19-27.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-19-27.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"74958eb8-1353-429b-8f3f-e6ca71d59f4d\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-19-27.png\" /></a></p> <p>Commenting on market impacts, Dimitrios Laloudakis, a macro quantitative strategist at UBS, wrote earlier:</p> <p><em><strong>Brent Crude December 2028 Makes New Highs While front-end crude</strong> has been offered, longer-dated futures continue to reprice higher. The 21-day rolling correlation between front-month and 12th contract falls markedly (level last seen during peak uncertainty when front-month ripped higher). Markets now face the other side of the coin with front-contract remaining tepid, but oil expectations grinding higher for longer-dated futures.</em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ubs_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ubs_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"08becb8f-13a3-447e-ae2a-dfe8d2b161a9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ubs_0.png\" /></a></p> <p>Despite the Trump-Russia diesel deal, <strong>US industrial fuel prices continue to inch toward highs</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-14-43_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-14-43_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"696ffb69-7916-4bef-a159-1972b157b9d8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_14-14-43_0.png\" /></a></p> <p>Earlier today, the <strong>International Energy Agency <a href=\"https://www.zerohedge.com/energy/no-quick-pump-relief-iea-warns-diesel-squeeze-will-persist-2027\">warned</a> that the global diesel squeeze will likely persist well into the first half of 2027.</strong></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T06:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 02:45</span>",
-    "link": "https://www.zerohedge.com/energy/iran-hormuz-attack-spree-starts-choking-oil-flows-again-ubs-warns",
-    "pubDate": "Thu, 15 Oct 2026 06:45:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
-    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
-    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Vistra Stock Surged Following Its $4.2 Billion Federal Loan. With the Stock Down 23% Over the Past Year, Is It Time to Buy?",
-    "desc": "Key PointsThe Department of Energy announced a $4.2 billion loan to Vistra to add to its power capacity.",
-    "link": "https://www.nasdaq.com/articles/vistra-stock-surged-following-its-42-billion-federal-loan-stock-down-23-over-past-year-it",
-    "pubDate": "Thu, 15 Oct 2026 09:44:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
-    "desc": "Key PointsThe bank thinks that an improving U.S. economy and Bitcoin ETF inflows will boost the coin's price.",
-    "link": "https://www.nasdaq.com/articles/citigroup-raises-its-12-month-price-target-bitcoin-113000-these-are-3-catalysts-investors",
-    "pubDate": "Thu, 15 Oct 2026 09:35:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
-    "desc": "Key PointsBesides having a scarce supply and predictable inflation rate, Bitcoin has seen notable institutional involvement.",
-    "link": "https://www.nasdaq.com/articles/better-buy-right-now-bitcoin-vs-shiba-inu",
-    "pubDate": "Thu, 15 Oct 2026 09:30:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "History Suggests Micron Stock Will Crash and Take Decades to Recover. Is This Time Different?",
-    "desc": "Key PointsMicron has largely benefited from increased pricing for conventional DRAM and NAND.",
-    "link": "https://www.nasdaq.com/articles/history-suggests-micron-stock-will-crash-and-take-decades-recover-time-different",
-    "pubDate": "Thu, 15 Oct 2026 09:20:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "What Is Market Cap? The Definition Every Investor Needs Before Picking Their First Stock",
-    "desc": "Key PointsMarket cap changes constantly based on stock movements.",
-    "link": "https://www.nasdaq.com/articles/what-market-cap-definition-every-investor-needs-picking-their-first-stock",
-    "pubDate": "Thu, 15 Oct 2026 09:20:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Apple Could Dominate the Agentic AI Market With Siri. Just Not This Siri.",
-    "desc": "Key PointsMeta's Muse is far more capable than Apple's Siri.",
-    "link": "https://www.nasdaq.com/articles/apple-could-dominate-agentic-ai-market-siri-just-not-siri",
-    "pubDate": "Thu, 15 Oct 2026 09:05:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "This AI Chip Stock Has Been Billionaire Philippe Laffont's Largest Holding Throughout 2026. Here's What $10,000 Invested Today Could Be Worth by 2030.",
-    "desc": "Key PointsPhilippe Laffont sees more value in going up the semiconductor supply chain.",
-    "link": "https://www.nasdaq.com/articles/ai-chip-stock-has-been-billionaire-philippe-laffonts-largest-holding-throughout-2026-heres",
-    "pubDate": "Thu, 15 Oct 2026 08:50:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Shares Retreat On Tech Rout",
-    "desc": "(RTTNews) - Asian stocks retreated on Thursday, with AI and semiconductor stocks coming under heavy selling pressure on concerns about the sustainability of the artificial-intelligence trade.",
-    "link": "https://www.nasdaq.com/articles/asian-shares-retreat-tech-rout",
-    "pubDate": "Thu, 15 Oct 2026 08:43:29 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Microsoft Had Its Best Quarter in 28 Years. Is it Too Late to Buy the Stock?",
-    "desc": "Key PointsMicrosoft&rsquo;s shares have rebounded in recent months, partly thanks to a strong quarterly update.",
-    "link": "https://www.nasdaq.com/articles/microsoft-had-its-best-quarter-28-years-it-too-late-buy-stock",
-    "pubDate": "Thu, 15 Oct 2026 08:35:02 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Not Memory. Not Energy. This Is the Biggest Bottleneck in Artificial Intelligence, and These Are the Companies That Can Benefit.",
-    "desc": "Key PointsCompanies are expected to spend hundreds of billions on AI data centers every year for the foreseeable future.",
-    "link": "https://www.nasdaq.com/articles/not-memory-not-energy-biggest-bottleneck-artificial-intelligence-and-these-are-companies",
-    "pubDate": "Thu, 15 Oct 2026 08:34:00 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Social Security Is in Dire Straits, and President Donald Trump's Policies Are Making Things Worse",
-    "desc": "Key PointsAlthough Social Security is in no danger of going bankrupt, the continuity of its existing payout schedule, including annual cost-of-living adjustments (COLAs), is very much in question.",
-    "link": "https://www.nasdaq.com/articles/social-security-dire-straits-and-president-donald-trumps-policies-are-making-things-worse",
-    "pubDate": "Thu, 15 Oct 2026 08:26:01 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "fortune",
-    "title": "What is it like running a Fortune 500 business? HP’s regional CTO on adopting AI safely and motivating tech teams",
-    "desc": "Over the past few months, Fortune has spoken with senior HP leaders to understand how the company is evolving—from innovation and culture to customer engagement and the future of work.",
-    "link": "https://fortune.com/2026/10/15/what-is-it-like-running-a-fortune-500-business-hps-regional-cto-on-adopting-ai-safely-and-motivating-tech-teams/",
-    "pubDate": "Thu, 15 Oct 2026 09:17:21 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Why Workday’s CEO studied the Steve Jobs playbook for returning founders",
-    "desc": "Also: All the news and watercooler chat from Fortune.",
-    "link": "https://fortune.com/2026/10/15/why-workdays-ceo-studied-the-steve-jobs-playbook-for-returning-founders/",
-    "pubDate": "Thu, 15 Oct 2026 09:02:26 +0000",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Citi says ASML results show AI chip demand outlook extending to 2030",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/citi-says-asml-results-show-ai-chip-demand-outlook-extending-to-2030-93CH-4950970",
-    "pubDate": "2026-10-15 09:55:09",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Tech slide set to extend into second session amid worries over AI, elevated rates",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
-    "pubDate": "2026-10-15 09:45:37",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Southern Company stock climbing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-southern-company-stock-climbing-today-93CH-4950939",
-    "pubDate": "2026-10-15 09:44:15",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Leroy Seafood stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-leroy-seafood-stock-sliding-today-93CH-4950925",
-    "pubDate": "2026-10-15 09:41:26",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Mowi stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-mowi-stock-sliding-today-93CH-4950924",
-    "pubDate": "2026-10-15 09:41:10",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Can robust TSMC earnings help settle AI jitters?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/can-tsmc-earnings-help-settle-ai-jitters-4950915",
-    "pubDate": "2026-10-15 09:37:45",
-    "fetchedAt": "2026-10-15T10:01:36.198Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-    "desc": "A sell-off in global technology hardware stocks deepened Thursday.",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "pubDate": "Thu, 15 Oct 2026 08:18:14 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-    "desc": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
-    "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-    "pubDate": "Thu, 15 Oct 2026 07:46:30 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "bbc",
-    "title": "'I paid thousands to a company for jobs that never came'",
-    "desc": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 15 Oct 2026 05:02:37 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How the oil capital of the US welcomed a solar power boom",
-    "desc": "Texas is now the country's biggest producer of solar-farmed electricity.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 23 Sep 2026 23:12:22 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: Gecina Q3 2026 shows strong leasing, steady guidance",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-gecina-q3-2026-shows-strong-leasing-steady-guidance-93CH-4950827",
-    "pubDate": "2026-10-15 08:56:16",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "IMF projects slower Asian growth amid rising global yields",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/imf-projects-slower-asian-growth-amid-rising-global-yields-93CH-4950826",
-    "pubDate": "2026-10-15 08:55:51",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Baird upgrades Zions Bancorp stock rating on valuation, rate outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/baird-upgrades-zions-bancorp-stock-rating-on-valuation-rate-outlook-93CH-4950825",
-    "pubDate": "2026-10-15 08:54:49",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Russia builds major new drone attack base in six weeks, satellite images show",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/russia-builds-major-new-drone-attack-base-in-six-weeks-satellite-images-show-4950824",
-    "pubDate": "2026-10-15 08:54:38",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kinnevik Q3 2026 slides: NAV rises 1% as portfolio diverges",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/kinnevik-q3-2026-slides-nav-rises-1-as-portfolio-diverges-93CH-4950823",
-    "pubDate": "2026-10-15 08:51:07",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Equites 1H27 slides: UK exit complete, SA pipeline hits R2.4bn",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/equites-1h27-slides-uk-exit-complete-sa-pipeline-hits-r24bn-93CH-4950822",
-    "pubDate": "2026-10-15 08:50:50",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: VAT Group Q3 2026 sales jump 46% as stock falls 5%",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-vat-group-q3-2026-sales-jump-46-as-stock-falls-5-93CH-4950821",
-    "pubDate": "2026-10-15 08:49:03",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Roth/MKM resumes Digital Turbine stock coverage with buy rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/rothmkm-resumes-digital-turbine-stock-coverage-with-buy-rating-93CH-4950820",
-    "pubDate": "2026-10-15 08:49:00",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "investing",
-    "title": "Pope Leo had a good night in hospital as he recovers from lung cancer surgery",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/pope-leo-had-a-good-night-in-hospital-vatican-says-4950665",
-    "pubDate": "2026-10-15 08:48:57",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Why the AI trade is not set up for a rebound like July&#x2019;s, according to JPMorgan",
-    "desc": "Fewer shorts, buybacks ending, no inflows and too many longs imply no recovery is imminent, says a JPMorgan strategist.",
-    "link": "https://www.marketwatch.com/story/why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-according-to-jpmorgan-5ae511db?mod=mw_rss_topstories",
-    "pubDate": "Thu, 15 Oct 2026 08:53:00 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
-    "desc": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
-    "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
-    "pubDate": "Thu, 15 Oct 2026 08:42:00 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-    "desc": "<p>Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us\">Send us your questions on how the US economy is shaping the midterm elections</a></p></li></ul><p>With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republicans are increasingly disenchanted with Donald Trump’s economy, according to an exclusive Harris poll for the Guardian.</p><p>The majority of those surveyed were pessimistic about the economy, with three quarters of Americans saying they are concerned about a recession while 61% wrongly believe that the US is already experiencing one. By its typical definition, the US is not currently experiencing a recession.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-    "pubDate": "Thu, 15 Oct 2026 09:00:13 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Chancellor John Healey pledges to protect ‘resilience’ of UK economy after growth beats forecasts in August – business live",
-    "desc": "<p>Rolling coverage of the latest economic and financial news, as chip shares tumble, UK growth beats forecasts and John Healey attends the IMF meeting in Bangkok</p><p><strong><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates?page=with%3Ablock-6ad06bda8f087455c311c170#block-6ad06bda8f087455c311c170\">Today’s better-than-forecast UK growth report</a> is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok.</strong></p><p>But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November….</p><p>“While August’s unexpected uptick all but confirms that the OBR will raise its growth forecast for this year from 1.1% to 1.4%, the Chancellor still faces a major Budget headache, as elevated borrowing costs eat into fiscal headroom and increase pressure for tax rises.</p><p>“These unexpectedly upbeat figures will further embolden hawkish sentiment among policymakers by reinforcing the view that the economy is strong enough to withstand a rate rise, making a November hike look highly likely.”</p><p>“The latest GDP figures are encouraging, with the economy growing by 0.7% in the three months to August, its strongest growth rate since May. On its current trajectory, the UK is likely to record growth comfortably above 1% this year, which would probably be enough to make it the second-fastest-growing economy in the G7.</p><p>“The UK’s growth performance has been a bright spot amid a less impressive run of economic news following events in the Middle East. Business investment has been an important driver, particularly spending on ICT hardware, likely linked to the build-out of AI infrastructure. The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-    "pubDate": "Thu, 15 Oct 2026 08:59:32 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-    "desc": "<p>Chip makers and tech investors such as Samsung and SoftBank plunge as global investors fret over potential interest rate hikes</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Business news – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf\">Larry Elliott: the global economy is muddling through. But a storm is coming</a></p></li></ul><p>An accelerating sell-off of AI-linked shares has hit global markets, as <a href=\"https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september\">fears over rising inflation</a> and future interest rate hikes spooked traders already wary of the heavily indebted sector.</p><p>South Korea’s benchmark Kospi 200<strong> </strong>index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-    "pubDate": "Thu, 15 Oct 2026 08:39:54 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
-    "desc": "<p>In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom\">Will military spending help or hinder Poland’s growth story?</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy\">Poland’s push for EU energy resilience amid Russian aggression</a></p><p></p></li></ul><p>Above the rain-soaked streets of Warsaw, the observation deck of the Varso tower overlooks Joseph Stalin’s gift to Poland that has divided opinion for decades.</p><p>For some, the Soviet-era <a href=\"https://www.theguardian.com/cities/2015/may/08/warsaw-palace-of-culture-stalin-a-history-of-cities-in-50-buildings-day-32\">Palace of Culture and Science</a> is a drunk confectioner’s nightmare; standing as a relic of oppression that should have been demolished. For others, it is an icon on the skyline and a monumental warning from history.</p> <a href=\"https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
-    "pubDate": "Thu, 15 Oct 2026 05:56:12 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "ft",
-    "title": "Chipmaker TSMC profits surge amid relentless AI demand",
-    "desc": "Taiwanese manufacturer beats estimates in third quarter with earnings of $23.6bn",
-    "link": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1",
-    "pubDate": "Thu, 15 Oct 2026 08:11:55 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "ft",
-    "title": "Farmed salmon now being raised on chicken",
-    "desc": "Fears of consumer backlash pushed aside as producers respond to surge in fishmeal prices",
-    "link": "https://www.ft.com/content/8f1e2cc9-4e2a-48f0-9750-251585e345d3?syn-25a6b1a6=1",
-    "pubDate": "Thu, 15 Oct 2026 04:00:29 GMT",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "South Korea shares test 200-day moving average for first time in 17 months",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653261-south-korea-shares-test-200-day-moving-average-for-first-time-in-17-months?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:51:39 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Chip selloff intensifies as investors question sustainability of AI spending",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653258-chip-selloff-intensifies-as-investors-question-sustainability-of-ai-spending?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:51:22 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "TSMC open to Terafab collaboration but insists on controlling its own plants",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653254-tsmc-open-to-terafab-collaboration-but-insists-on-controlling-its-own-plants?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:39:39 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Gecina reports Q3 results",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653260-gecina-reports-q3-results?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:36:26 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tech sector breaks uptrend, raising risk of further S&P 500 losses",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653259-tech-sector-breaks-uptrend-raising-risk-of-further-sp-500-losses?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:35:35 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Nasdaq futures under pressure as tech sell-off deepens",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653257-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:24:25 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Taiwan president urges Micron, unions to resolve bonus dispute",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653251-taiwan-president-urges-micron-unions-to-resolve-bonus-dispute?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 04:21:57 -0400",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Stock Market Is Echoing a Warning From the Dot-Com Bubble, and History Says Investors Should Make This 1 Move",
-    "desc": "This warning involves a metric favored by investing giant Warren Buffett.",
-    "link": "https://www.fool.com/investing/2026/10/15/stock-market-echoing-warning-from-the-dot-com/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 08:30:00 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "US Stock Market Today: S&P 500 Futures Edge Up On Energy Driven Inflation Focus",
-    "desc": "The Morning Bull - US Market Morning Update Thursday, Oct, 15 2026 US equity markets are set for a cautious, slightly upbeat open, with futures pointing modestly higher. The single driver today is inflation, specifically energy driven pressure that keeps the Federal Reserve in focus for investors. Headline CPI is expected at 3.6% year on year for September, with a firm 0.6% monthly rise led by gasoline and broader energy costs. Core CPI is seen at 2.5% year on year, which reinforces the risk...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203137.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 08:12:03 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Warren Buffett and Broadcom’s CEO Issue a Similar Blunt Warning to Wall Street. Here’s What Investors Should Do Next, According to a Key Buffett Investing Principle.",
-    "desc": "Key PointsBuffett&rsquo;s investing experience and Broadcom CEO Hock Tan&rsquo;s knowledge of the AI industry mean they each may offer valuable insight into today&rsquo;s market environment.",
-    "link": "https://www.nasdaq.com/articles/warren-buffett-and-broadcoms-ceo-issue-similar-blunt-warning-wall-street-heres-what",
-    "pubDate": "Thu, 15 Oct 2026 08:18:02 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should Investors Buy Netflix Stock Before the Huge Investor Update?",
-    "desc": "Netflix (NASDAQ: NFLX) is the biggest position in my portfolio right now.",
-    "link": "https://www.nasdaq.com/articles/should-investors-buy-netflix-stock-huge-investor-update",
-    "pubDate": "Thu, 15 Oct 2026 08:05:00 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The 1 Thing I'd Want Elon Musk to Answer on Tesla's Oct. 21 Call",
-    "desc": "Key PointsTesla's adjusted earnings per share dropped 18% year over year in the second quarter, to $0.33.",
-    "link": "https://www.nasdaq.com/articles/1-thing-id-want-elon-musk-answer-teslas-oct-21-call",
-    "pubDate": "Thu, 15 Oct 2026 08:04:02 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Can Apple Overtake Nvidia as the World's Largest Company in 2027?",
-    "desc": "Key PointsNvidia's strength will be felt next year when it grows rapidly again.",
-    "link": "https://www.nasdaq.com/articles/can-apple-overtake-nvidia-worlds-largest-company-2027",
-    "pubDate": "Thu, 15 Oct 2026 07:50:00 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Bloom Energy Stock Is 31% Below Its Record. Here's Where I Think It Will Be in 2030.",
-    "desc": "Key PointsBloom Energy's shares closed at $239.34 on Oct. 14, around 31% below its June 22 record close.",
-    "link": "https://www.nasdaq.com/articles/bloom-energy-stock-31-below-its-record-heres-where-i-think-it-will-be-2030",
-    "pubDate": "Thu, 15 Oct 2026 07:31:01 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The Houthis&#8217; Saudi attacks are ‘unprecedented.’ Trump wants to &#8216;ignore&#8217; them until the midterms, but the chaos may force U.S. to respond",
-    "desc": "The Houthis are \"misbehaving very badly,\" but the U.S. is doing little in reply—for now.",
-    "link": "https://fortune.com/2026/10/15/houthi-saudi-attacks-unprecedented-us-response-ignore-midterms/",
-    "pubDate": "Thu, 15 Oct 2026 07:08:00 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Airbnb CEO Brian Chesky says he writes just one email a week, if that—because it &#8216;feels like work&#8217; and is ‘inferior’ to just texting his staff",
-    "desc": "Most bosses drown in their inbox. Airbnb's CEO Brian Chesky can barely remember the last email he wrote. “I don’t know if I write an email a week.”",
-    "link": "https://fortune.com/2026/10/15/airbnb-ceo-brian-chesky-writes-just-one-email-a-week-inferior-to-texting-staff-feels-like-work/",
-    "pubDate": "Thu, 15 Oct 2026 08:03:00 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
-  },
-  {
-    "source": "fortune",
-    "title": "‘American dream will continue to exist’: Warren Buffett’s successor is betting big on U.S. housing",
-    "desc": "Berkshire Hathaway CEO Greg Abel has made three big homebuilding moves since taking over from Buffett, even as he concedes there’s no “quick recovery” coming for the housing market.",
-    "link": "https://fortune.com/2026/10/15/berkshire-hathaway-greg-abel-lennar-taylor-morrison-housing-american-dream/",
-    "pubDate": "Thu, 15 Oct 2026 07:54:00 +0000",
-    "fetchedAt": "2026-10-15T09:01:32.821Z"
   }
 ]
