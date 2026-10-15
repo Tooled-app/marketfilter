@@ -15,63 +15,16 @@
     ]
   },
   {
-    "ticker": "AAPL",
-    "title": "Apple Inc.",
-    "cik": "0000320193",
+    "ticker": "MSFT",
+    "title": "MICROSOFT CORP",
+    "cik": "0000789019",
     "filings": [
       {
         "form": "4",
-        "filed": "2026-10-08",
-        "accession": "0001140361-26-039158",
+        "filed": "2026-10-14",
+        "accession": "0000789019-26-000226",
         "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-06",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-05",
-        "accession": "0001140361-26-038674",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-01",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-05",
-        "accession": "0001140361-26-038672",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-01",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-05",
-        "accession": "0001140361-26-038669",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-01",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-05",
-        "accession": "0001140361-26-038667",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-01",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "AMZN",
-    "title": "AMAZON COM INC",
-    "cik": "0001018724",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-10-05",
-        "accession": "0001936006-26-000026",
-        "primaryDoc": "xslF345X06/wk-form4_1791230893.xml",
-        "reportDate": "2026-10-01",
+        "reportDate": "2026-10-13",
         "items": ""
       }
     ]
@@ -83,19 +36,42 @@
     "filings": [
       {
         "form": "4",
-        "filed": "2026-10-07",
-        "accession": "0000950103-26-015324",
+        "filed": "2026-10-14",
+        "accession": "0000950103-26-015598",
         "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-10-05",
+        "reportDate": "2026-10-12",
         "items": ""
       },
       {
         "form": "144",
-        "filed": "2026-10-05",
-        "accession": "0001921094-26-001069",
+        "filed": "2026-10-13",
+        "accession": "0001921094-26-001084",
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
         "items": ""
+      }
+    ]
+  },
+  {
+    "ticker": "JPM",
+    "title": "JPMORGAN CHASE & CO",
+    "cik": "0000019617",
+    "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-13",
+        "accession": "0001628280-26-065616",
+        "primaryDoc": "jpm-20261013.htm",
+        "reportDate": "2026-10-13",
+        "items": "7.01,9.01"
+      },
+      {
+        "form": "8-K",
+        "filed": "2026-10-13",
+        "accession": "0001628280-26-065582",
+        "primaryDoc": "jpm-20261013.htm",
+        "reportDate": "2026-10-13",
+        "items": "2.02,9.01"
       }
     ]
   },
@@ -105,11 +81,19 @@
     "cik": "0000070858",
     "filings": [
       {
+        "form": "8-K",
+        "filed": "2026-10-14",
+        "accession": "0000070858-26-000481",
+        "primaryDoc": "bac-20261014.htm",
+        "reportDate": "2026-10-14",
+        "items": "2.02,7.01,9.01"
+      },
+      {
         "form": "4",
-        "filed": "2026-10-05",
-        "accession": "0000070858-26-000473",
+        "filed": "2026-10-13",
+        "accession": "0000070858-26-000478",
         "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-05",
+        "reportDate": "2026-10-12",
         "items": ""
       }
     ]
