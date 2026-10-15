@@ -1,6 +1,662 @@
 [
   {
     "source": "cnbc",
+    "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+    "desc": "A sell-off in global technology hardware stocks deepened Thursday.",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "pubDate": "Thu, 15 Oct 2026 16:19:09 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+    "desc": "Signs of distressed deepened in CoreWeave on Thursday.",
+    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+    "pubDate": "Thu, 15 Oct 2026 16:52:16 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "International Energy Agency to release more than 20 million barrels of diesel as soon as possible",
+    "desc": "The Trump administration pushed Europe to release diesel stocks as prices in the U.S. surged to record highs in September.",
+    "link": "https://www.cnbc.com/2026/10/15/iea-diesel-price-ukraine-iran-oil.html",
+    "pubDate": "Thu, 15 Oct 2026 16:47:03 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "JetBlue’s new domestic first class, BlueFirst, is now on sale",
+    "desc": "JetBlue announced that BlueFirst, its new domestic first class option, is available for booking on more than 30 routes. It launches December 8.",
+    "link": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html",
+    "pubDate": "Thu, 15 Oct 2026 16:13:33 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How backlash against data centres could shape the US midterm elections",
+    "desc": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+    "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 14 Oct 2026 23:02:57 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How much is the minimum wage?",
+    "desc": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+    "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 14 Oct 2026 23:01:11 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Why are more roofs not made of solar tiles?",
+    "desc": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+    "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 08 Oct 2026 23:09:56 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "desc": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+    "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 23:10:13 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The AI telling farmers when to harvest",
+    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The start-ups hoping to return battery making to the US",
+    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "X-planes: Are they needed in the new era of drones?",
+    "desc": "Where do America's X-plane projects fit in an era of cheap drones?",
+    "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 23:03:53 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Spain battles climate change on several fronts",
+    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "The virtual worlds where robots are trained",
+    "desc": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "My hometown shows that high streets have to change or die",
+    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "desc": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Fri, 25 Sep 2026 08:31:56 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Prologis tops Q3 2026 estimates as shares slip",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-prologis-tops-q3-2026-estimates-as-shares-slip-93CH-4952382",
+    "pubDate": "2026-10-15 16:57:14",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "Peru August economic activity rises 3.23% as construction and trade drive growth",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/peru-august-economic-activity-rises-323-as-construction-and-trade-drive-growth-4952381",
+    "pubDate": "2026-10-15 16:55:44",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/trump-donor-leading-caucasus-fund-has-major-armenia-holdings-russia-business-history-4951043",
+    "pubDate": "2026-10-15 16:54:54",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "AI rout slows as investors buy the dip on tech",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
+    "pubDate": "2026-10-15 16:54:41",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "Idex stock remains Mizuho’s top pick on AI chip growth outlook",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/idex-stock-remains-mizuhos-top-pick-on-ai-chip-growth-outlook-93CH-4952380",
+    "pubDate": "2026-10-15 16:52:48",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "Stellantis tests diesel-hybrid powertrain for commercial vans",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/stellantis-tests-dieselhybrid-powertrain-for-commercial-vans-93CH-4952379",
+    "pubDate": "2026-10-15 16:50:47",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "US issues fresh Iran-related sanctions, Treasury website shows",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/us-issues-fresh-iranrelated-sanctions-treasury-website-shows-4952378",
+    "pubDate": "2026-10-15 16:48:32",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "International Paper evaluates bids for EMEA packaging unit",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/international-paper-evaluates-bids-for-emea-packaging-unit-93CH-4952376",
+    "pubDate": "2026-10-15 16:46:50",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investing",
+    "title": "Pennsylvania secures $4 billion in investments, governor says",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/pennsylvania-secures-4-billion-in-investments-governor-says-4952374",
+    "pubDate": "2026-10-15 16:45:08",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+    "desc": "Reported details about Anthropic&#x2019;s financial progress are adding to concerns about the health of the AI ecosystem.",
+    "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 16:55:00 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Tesla may finally debut a flying car today, after testing fans&#x2019; patience for nearly a decade",
+    "desc": "Elon Musk is set to reintroduce the Roadster sports car, possibly equipped with SpaceX thrusters.",
+    "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 16:43:00 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "CoreWeave investors are feeling spooked, as the company&#x2019;s stock and bonds see fresh pressure",
+    "desc": "It&#x2019;s getting more expensive for investors to buy protection against a CoreWeave default.",
+    "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 16:20:00 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "guardian",
+    "title": "People in the US: what is your personal ‘recession indicator’?",
+    "desc": "<p>We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturn</p><p>Nearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian. By the typical definition of a recession – when a country’s economic growth is in the negative for two consecutive quarters – the US is not experiencing one. Still, Americans are facing <a href=\"https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september\">higher prices</a> and a <a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\">stagnant job market</a>, what for many feels like a downturn.</p><p>We want to hear from Americans: do you feel like the US is experiencing a recession? What is your so-called personal “recession indicator”, or a signal in your everyday life that points to an incoming economic slump. It could be seen in your job or at your local grocery store, something you notice at your children’s school or out in your community. Tell us about it below.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
+    "pubDate": "Thu, 15 Oct 2026 16:55:41 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "guardian",
+    "title": "John Healey poised to raise taxes on banks in budget",
+    "desc": "<p><strong>Exclusive:</strong> Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances</p><p>John Healey is poised to tax Britain’s banks in his 28 October budget to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands.</p><p>The chancellor is in Bangkok, where the International Monetary Fund has praised the UK’s progress towards balancing the books, urging him to “stay the course”.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+    "pubDate": "Thu, 15 Oct 2026 16:17:05 GMT",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Sony unveils high-end Walkman with gold-plated copper chassis",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653532-sony-unveils-high-end-walkman-with-gold-plated-copper-chassis?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:56:09 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "WhiteHorse Finance declares $0.17 special dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653539-whitehorse-finance-declares-017-special-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:55:58 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Pop star: Coca-Cola has outperformed all the Mag 7 stocks this year",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653529-pop-star-coca-cola-has-outperformed-all-the-mag-7-stocks-this-year?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:55:44 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Charles Schwab is developing its own tax-aware products, CEO says",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653494-charles-schwab-developing-its-own-tax-aware-products-ceo-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:52:51 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Gladstone Land declares $0.0467 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653538-gladstone-land-declares-0_0467-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:51:54 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Gladstone Investment declares $0.08 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653537-gladstone-investment-declares-0_08-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:49:27 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "BofA keeps Buy on CoreWeave after stock drop, sees higher revenue",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653524-bofa-keeps-buy-on-coreweave-after-stock-drop-sees-higher-revenue?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 12:46:58 -0400",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
+    "desc": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looking for alternative avenues for growth. Meme tokens &#8230; Continued The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
+    "pubDate": "Thu, 15 Oct 2026 14:13:19 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230; Continued The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/myro-price-prediction",
+    "pubDate": "Thu, 15 Oct 2026 14:13:18 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap (CAKE) has long &#8230; Continued The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
+    "pubDate": "Thu, 15 Oct 2026 14:13:17 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Equities Mostly Higher as Investors Parse Retail Sales, Wholesale Prices Data",
+    "desc": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-higher-investors-parse-163829358.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:38:29 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Dow Strengthens, Nasdaq Contains Losses; eBay Surges 5% (Live Coverage)",
+    "desc": "The Dow Jones index rises Thursday on surprise inflation data. Nvidia, Micron and AMD sell off on AI fears.",
+    "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-dow.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:35:41 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Berkshire Hathaway Outperformed the S&P 500 Over a 60-Year Period Under Warren Buffett. Here's the Stock That Could Help Continue the Streak Under Greg Abel.",
+    "desc": "Abel got the keys to the Omaha conglomerate after it lagged the overall market for a decade.",
+    "link": "https://www.fool.com/investing/2026/10/15/berkshire-hathaway-outperformed-buffett-abel-sp500/?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:35:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Trimas (TRS): Slow & Steady Growth Meets Rebound",
+    "desc": "Middle Coast Investing, an investment advisory firm, released its second-quarter 2026 investor letter. The letter can be downloaded here. Market breadth in Q3 2026 reviews shows dominance by a few sectors, with S&P 500 stocks averaging a 9.7% return and only 40.55% above their 200-day moving average. Key themes include AI, inflation, and the U.S.-Iran […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/trimas-trs-slow-steady-growth-162058402.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:20:58 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "FAF Trading at a Discount to Industry at 1.12X: Time to Buy or Hold?",
+    "desc": "First American's commercial title strength, data-center opportunities, AI adoption and Trust growth support its outlook despite residential market headwinds.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/faf-trading-discount-industry-1-154600094.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 15:46:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Bond Yields Keep Dropping Despite Hot Inflation",
+    "desc": "Treasuries are flying high, ignoring the negative impact from fresh economic data this morning.",
+    "link": "https://finance.yahoo.com/m/6d0c0dce-5285-3682-ab2f-dbe7e948ca3a/why-bond-yields-keep-dropping.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 15:39:18 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Here's Why You Should Hold VRSK Stock in Your Portfolio Now",
+    "desc": "Verisk's recurring subscription revenues, AI-driven innovations and insurance analytics growth support its prospects despite rising costs and market headwinds.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hold-vrsk-stock-153700063.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 15:37:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dutch Bros Stock Slides 36% YTD: Should Investors Buy, Sell or Hold?",
+    "desc": "Can BROS turn strong customer demand into lasting growth? Menu innovation, digital engagement and aggressive expansion offer opportunities despite rising operating costs.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-stock-slides-36-153100785.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 15:31:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Changed For Dell Stock, And What Did Not?",
+    "desc": "Dell Technologies (DELL) stock fell 11.3% on Wednesday, October 14, 2026, far more than the 1.1% decline for the S&P 500. The slide followed a downgrade earlier that day from Barclays, which lowered the shares to Equal Weight from Overweight amid concerns that enterprise AI adoption is lagging. While the analysts worry about timing, the computer maker has maintained a rapid clip. So how big is the part of Dell that has been doing the growing.",
+    "link": "https://www.trefis.com/articles/618848/what-changed-for-dell-stock-and-what-did-not/2026-10-15?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:27:02 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Has Target Stock Become A Different Bet?",
+    "desc": "Target (TGT) stock trades at 16.1 times earnings, representing a discount to the S&P 500 at 22.7. Yet evaluating that valuation requires a clear understanding of the retailer's shifting priorities. During the first-quarter call in May 2025, executives talked about navigating an ever-changing tariff landscape. By the latest call in August 2026, tariffs had turned from headwind to windfall, and management spent much of the call on traffic and technology. So how much of that new emphasis do the num",
+    "link": "https://www.trefis.com/articles/618876/has-target-stock-become-a-different-bet/2026-10-15?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:18:37 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst",
+    "desc": "Middle Coast Investing, an investment advisor firm, released its second-quarter 2026 investor letter. The letter can be downloaded here. Market breadth in Q3 2026 reviews shows dominance by a few sectors, with S&P 500 stocks averaging a 9.7% return and only 40.55% above their 200-day moving average. Key themes include AI, inflation, and the U.S.-Iran conflict, […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-owns-cf-industries-161128731.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:11:28 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Zoetis (ZTS) Hit by Guidance Cuts, Met with Market Shrug",
+    "desc": "Middle Coast Investing, an investment advisor firm, released its second-quarter 2026 investor letter. The letter can be downloaded here. Market breadth in Q3 2026 reviews shows dominance by a few sectors, with S&P 500 stocks averaging a 9.7% return and only 40.55% above their 200-day moving average. Key themes include AI, inflation, and the U.S.-Iran conflict, […]",
+    "link": "https://finance.yahoo.com/healthcare/articles/zoetis-zts-hit-guidance-cuts-160405467.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:04:05 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AI Stocks Bleed as Inflation Bites: Any Buying Opportunities?",
+    "desc": "AI stocks tumble as inflation fears rattle markets, but Dell and Nebius emerge as potential dip-buying opportunities amid surging AI demand and strong growth.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-bleed-inflation-bites-154200238.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 15:42:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Choosing an International ETF: The Case For the Developed Market Favorite vs. the Low-Cost Emerging Challenger",
+    "desc": "IEMG surged 25.3% over 12 months but carries steeper drawdown risk. VEA's lower costs and higher yield appeal to conservative international investors.",
+    "link": "https://www.fool.com/coverage/etfs/2026/10/15/choosing-an-international-etf-the-case-for-the-developed-market-favorite-vs-the-low-cost-emerging-challenger/?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:35:01 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Nvidia's CEO Just Came to the Market's Rescue",
+    "desc": "The AI stock selloff abated a bit after Nvidia CEO Jensen Huang told Bloomberg that CoreWeave doesn’t need a backstop from the chip maker.",
+    "link": "https://finance.yahoo.com/m/e570eec3-4bbb-3c33-a755-3dc109260e83/nvidia%27s-ceo-just-came-to-the.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 15:51:58 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Manpower (MAN) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/manpower-man-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 15 Oct 2026 16:28:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Thursday's ETF with Unusual Volume: EFIV",
+    "desc": "The State Street SPDR S&amp;P 500 ESG ETF is seeing unusually high volume in afternoon trading Thursday, with over 507,000 shares traded versus three month average volume of about 30,000. Shares of EFIV were up about 0.2% on the day. Components of that ETF with the highest vol",
+    "link": "https://www.nasdaq.com/articles/thursdays-etf-unusual-volume-efiv",
+    "pubDate": "Thu, 15 Oct 2026 16:25:19 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Thursday's ETF Movers: ITB, AIS",
+    "desc": "In trading on Thursday, the iShares U.S. Home Construction ETF is outperforming other ETFs, up about 3.7% on the day. Components of that ETF showing particular strength include shares of Dream Finders Homes, up about 13.2% and shares of Arhaus, up about 8.9% on the day. And un",
+    "link": "https://www.nasdaq.com/articles/thursdays-etf-movers-itb-ais",
+    "pubDate": "Thu, 15 Oct 2026 16:24:26 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Thursday Sector Laggards: Computers, Shipping Stocks",
+    "desc": "In trading on Thursday, computers shares were relative laggards, down on the day by about 2.5%. Helping drag down the group were shares of Quantum, off about 8.7% and shares of Dell Technologies down about 7.7% on the day. Also lagging the market Thursday are shipping shares,",
+    "link": "https://www.nasdaq.com/articles/thursday-sector-laggards-computers-shipping-stocks",
+    "pubDate": "Thu, 15 Oct 2026 16:23:16 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Thursday Sector Leaders: Auto Dealerships, Apparel Stores",
+    "desc": "In trading on Thursday, auto dealerships shares were relative leaders, up on the day by about 5.2%. Leading the group were shares of OneWater Marine, up about 9.9% and shares of Sonic Automotive up about 8.8% on the day. Also showing relative strength are apparel stores shares",
+    "link": "https://www.nasdaq.com/articles/thursday-sector-leaders-auto-dealerships-apparel-stores",
+    "pubDate": "Thu, 15 Oct 2026 16:23:11 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Daily Dividend Report: WAB,EQT,OKE,COST,LECO,WEC",
+    "desc": "Wabtec announced that its Board of Directors declared a regular quarterly common dividend of 31 cents per share, payable on December 1, 2026, to holders of record on November 17, 2026. EQT announced that its Board of Directors declared a quarterly cash dividend on its common st",
+    "link": "https://www.nasdaq.com/articles/daily-dividend-report-wabeqtokecostlecowec",
+    "pubDate": "Thu, 15 Oct 2026 16:23:08 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Chewy vs. MercadoLibre: Which E-Commerce Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsChewy is an online pet retailer whose Autoship subscription program made up 84.6% of net sales in the quarter ended Aug. 2, 2026.",
+    "link": "https://www.nasdaq.com/articles/chewy-vs-mercadolibre-which-e-commerce-stock-better-buy-2026-0",
+    "pubDate": "Thu, 15 Oct 2026 16:20:01 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why FMC Corporation Stock Just Crashed",
+    "desc": "Key PointsAnalysts were expecting FMC profits to decline nearly 90% in Q3.",
+    "link": "https://www.nasdaq.com/articles/why-fmc-corporation-stock-just-crashed",
+    "pubDate": "Thu, 15 Oct 2026 16:15:12 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Could Investing $5,000 in D-Wave Quantum Stock Today Make You a Millionaire?",
+    "desc": "Key PointsMany expect quantum computing to be the next big tech revolution.",
+    "link": "https://www.nasdaq.com/articles/could-investing-5000-d-wave-quantum-stock-today-make-you-millionaire",
+    "pubDate": "Thu, 15 Oct 2026 16:15:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "2 Top Dividend Stocks Yielding 4% or More to Buy Right Now for Passive Income",
+    "desc": "Key PointsDividend stocks are great options for total returns, and for downside protection in a portfolio.",
+    "link": "https://www.nasdaq.com/articles/2-top-dividend-stocks-yielding-4-or-more-buy-right-now-passive-income",
+    "pubDate": "Thu, 15 Oct 2026 16:13:00 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Marsh McLennan (MRSH) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/marsh-mclennan-mrsh-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 15 Oct 2026 16:12:47 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Ericsson (ERIC) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/ericsson-eric-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 15 Oct 2026 15:58:43 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "TSMC (TSM) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/tsmc-tsm-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 15 Oct 2026 15:58:42 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Fantastic News for Marvell Stock Investors",
+    "desc": "Key PointsMarvell recently gave bullish guidance at its investor day.",
+    "link": "https://www.nasdaq.com/articles/fantastic-news-marvell-stock-investors",
+    "pubDate": "Thu, 15 Oct 2026 15:58:02 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Better Artificial Intelligence Stock for 2026: Astera Labs vs. Marvell Technology",
+    "desc": "Key PointsAstera Labs provides essential connectivity hardware for the high-speed data demands of modern AI infrastructure.",
+    "link": "https://www.nasdaq.com/articles/better-artificial-intelligence-stock-2026-astera-labs-vs-marvell-technology",
+    "pubDate": "Thu, 15 Oct 2026 15:55:33 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "&#8216;No one was coming to save me&#8217;: How Reese Witherspoon built a $900 million company from a problem Hollywood wouldn&#8217;t fix",
+    "desc": "The actress built Hello Sunshine after Hollywood told her there were no female-led movies to make. Five years after a deal valued it at $900 million, she’s buying it back.",
+    "link": "https://fortune.com/article/reese-witherspoon-buys-back-hello-sunshine-how-she-built-a-900-million-company-from-a-problem-hollywood-wouldnt-fix/",
+    "pubDate": "Thu, 15 Oct 2026 16:25:22 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘They are in a casino’: Broadcom is making billions off the AI boom, but CEO Hock Tan said many AI investors have ‘no clue’ what they’re investing in",
+    "desc": "Tan warned that investors are betting on AI companies that might not end up profitable, and that companies are “wasting money” on AI experimentation.",
+    "link": "https://fortune.com/2026/10/15/broadcom-hock-tan-ai-investing-casino/",
+    "pubDate": "Thu, 15 Oct 2026 15:30:09 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Kalshi cofounder says having no VPs has been key to the company’s explosive growth",
+    "desc": "Luana Lopes Lara, the world’s youngest self-made female billionaire, shared her approach to corporate management.",
+    "link": "https://fortune.com/2026/10/14/kalshi-co-founder-says-no-vps-has-been-key-to-companys-explosive-growth/",
+    "pubDate": "Wed, 14 Oct 2026 15:28:03 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The Gen Z CEO of Lean In says the ‘broken rung’ is one of the most pervasive issues women face in their careers",
+    "desc": "Bridget Griswold, the 25-year-old CEO of women’s leadership non-profit Lean In, hopes young women stepping into top roles will become normalized in the future.",
+    "link": "https://fortune.com/2026/10/14/gen-z-ceo-lean-in-bridget-griswold-says-broken-rung-one-of-most-pervasive-issues-women-face-in-careers/",
+    "pubDate": "Wed, 14 Oct 2026 17:21:43 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Blackstone’s Wesley LePatner did it &#8216;all at once.&#8217; The foundation made in her honor wants 1,000 leaders to master work, civic life, and philanthropy",
+    "desc": "Her husband and a former Blackstone colleague say the late executive balanced career, community, and philanthropy, and they want to train others to do the same.",
+    "link": "https://fortune.com/2026/10/15/blackstone-wesley-lepatner-foundation-1000-leaders-to-master-work-civic-life-and-philanthropy/",
+    "pubDate": "Thu, 15 Oct 2026 15:59:45 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Hailey Bieber sold Rhode to e.l.f. Beauty after she and cofounder Lauren Ratner addressed their main fear in an acquisition",
+    "desc": "“It’s my baby, it’s our baby,” said Bieber, who conceived the makeup and skin care brand as a line of personal must-haves she always has in her routine.",
+    "link": "https://fortune.com/2026/10/14/hailey-bieber-sold-rhode-e-l-f-beauty-after-she-and-co-founder-lauren-ratner-addressed-their-main-fear-in-an-acquisition/",
+    "pubDate": "Wed, 14 Oct 2026 18:55:45 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Citi CEO Jane Fraser on the next phase of her turnaround: To be the best, Citi has ‘to beat the best’",
+    "desc": "Five years into Citi’s turnaround, the No. 1 Most Powerful Woman says the heavy lifting is done—and AI will shape what comes next.",
+    "link": "https://fortune.com/2026/10/14/citi-ceo-jane-fraser-on-the-next-phase-of-her-turnaround-to-be-the-best-citi-has-to-beat-the-best/",
+    "pubDate": "Wed, 14 Oct 2026 20:21:55 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Yum! Brands executive pushes back against AI hate: Taco Bell drive-thru bot has helped increase employee retention by making jobs easier",
+    "desc": "“I'm seeing all the data center noise and all the things that people worry about with AI, and there's that constant tension,” Yum! Brands Chief Legal Officer Erika Burkhardt said.",
+    "link": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+    "pubDate": "Wed, 14 Oct 2026 20:50:10 +0000",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "American Airlines names new network planning chief in fresh management shake-up",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/american-airlines-names-new-network-planning-chief-in-fresh-management-shakeup-4952372",
+    "pubDate": "2026-10-15 16:44:22",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Best dividend ETFs: low cost, broad diversification and yield compared",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/best-dividend-etfs-low-cost-broad-diversification-and-yield-compared-93CH-4952371",
+    "pubDate": "2026-10-15 16:43:57",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nasdaq reports network disruption, US equities data feeds impacted",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-4952331",
+    "pubDate": "2026-10-15 16:43:10",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Take-Two Interactive stock rallying 4% today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-taketwo-interactive-stock-rallying-4-today-93CH-4952368",
+    "pubDate": "2026-10-15 16:40:13",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "TSM vs ASML: valuation, earnings signals, and which offers better value",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tsm-vs-asml-valuation-earnings-signals-and-which-offers-better-value-93CH-4952367",
+    "pubDate": "2026-10-15 16:34:25",
+    "fetchedAt": "2026-10-15T17:01:33.260Z"
+  },
+  {
+    "source": "cnbc",
     "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
     "desc": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
     "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
@@ -5742,661 +6398,5 @@
     "link": "https://www.investing.com/news/economy-news/prolonged-war-renewed-disruptions-pose-biggest-risk-to-middle-east-region-imf-says-4950509",
     "pubDate": "2026-10-15 04:42:59",
     "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asian stocks sell off as AI trades crumble after hot US inflation data",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
-    "pubDate": "2026-10-15 04:42:46",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "investing",
-    "title": "Morning Bid: Market picks CoreWeave as AI rout deepens",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/morning-bid-market-picks-coreweave-as-ai-rout-deepens-4950508",
-    "pubDate": "2026-10-15 04:42:31",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "investing",
-    "title": "Ukraine to resume strikes on Russian refineries, Zelenksy tells FT",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/ukraine-to-resume-strikes-on-russian-refineries-zelenksy-tells-ft-4950507",
-    "pubDate": "2026-10-15 04:38:51",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "investing",
-    "title": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/dollar-retreats-from-18month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets-4950378",
-    "pubDate": "2026-10-15 04:36:18",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "investing",
-    "title": "KOSPI hits near 3-month low as 8% plunge triggers circuit breaker",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/kospi-hits-sixmonth-low-as-8-plunge-triggers-circuit-breaker-4950503",
-    "pubDate": "2026-10-15 04:33:57",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "investing",
-    "title": "Intapp CPO Thad Jampol sells $201,852 in company stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/intapp-cpo-thad-jampol-sells-201852-in-company-stock-93CH-4950502",
-    "pubDate": "2026-10-15 04:31:00",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Anthropic Just Became the First Company in History To Reach This Milestone. Here's What It Means for AI Stocks",
-    "desc": "Key PointsNo company in history has generated as much revenue as Anthropic so early in its history.",
-    "link": "https://www.nasdaq.com/articles/anthropic-just-became-first-company-history-reach-milestone-heres-what-it-means-ai-stocks",
-    "pubDate": "Thu, 15 Oct 2026 04:43:47 +0000",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Apple's Annual Revenue Quadrupled From $108 Billion to $416 Billion During Tim Cook's 15 Years as CEO, With iPhone Sales Alone Jumping From $47 Billion to Nearly $210 Billion. What That Growth Says About Betting on Apple's Next Chapter Under John Ternus.",
-    "desc": "Key PointsFormer CEO Tim Cook led Apple through remarkable growth over 15 years.",
-    "link": "https://www.nasdaq.com/articles/apples-annual-revenue-quadrupled-108-billion-416-billion-during-tim-cooks-15-years-ceo",
-    "pubDate": "Thu, 15 Oct 2026 04:20:00 +0000",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
-    "desc": "Key PointsMeta's third-quarter 2025 results included a one-time, non-cash tax charge of $15.9 billion.",
-    "link": "https://www.nasdaq.com/articles/meta-reports-oct-21-id-consider-buying-stock-it-does",
-    "pubDate": "Thu, 15 Oct 2026 04:07:02 +0000",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Nike Is Restructuring the Business",
-    "desc": "Sales are declining, and costs are rising.",
-    "link": "https://www.nasdaq.com/articles/nike-restructuring-business",
-    "pubDate": "Thu, 15 Oct 2026 04:03:45 +0000",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors",
-    "desc": "Competition from China is intensifying.",
-    "link": "https://www.nasdaq.com/articles/unfortunate-news-micron-stock-and-sandisk-stock-investors",
-    "pubDate": "Thu, 15 Oct 2026 04:00:19 +0000",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Is Zscaler an Undervalued Cybersecurity Stock to Buy Right Now in October?",
-    "desc": "Cyber criminals have increasing capabilities with the availability of agentic AI.",
-    "link": "https://www.nasdaq.com/articles/zscaler-undervalued-cybersecurity-stock-buy-right-now-october-0",
-    "pubDate": "Thu, 15 Oct 2026 03:59:31 +0000",
-    "fetchedAt": "2026-10-15T05:01:58.800Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-    "desc": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
-    "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-    "pubDate": "Thu, 15 Oct 2026 03:55:35 GMT",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-    "desc": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
-    "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
-    "pubDate": "Thu, 15 Oct 2026 03:48:58 GMT",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears",
-    "desc": "Investing.com -- Asian stocks tumbled on Thursday, led by South Korea’s KOSPI, as semiconductor losses deepened amid concerns over Chinese competition and hotter-than-expected U.S. inflation raised expectations for further Federal Reserve rate hikes.",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tumble-korea-kospi-032344474.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 03:23:44 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus",
-    "desc": "Red-hot inflation data, triggered by soaring energy prices, weighed heavily on markets on Wednesday.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-decline-amid-hot-inflation-data-ai-selloff-crwv-nbis-nvda-ibrx-stocks-in-focus/cZxWKOLRBqU?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 03:16:56 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
-    "desc": "Tech futures fall as Anthropic revenue jumps, but not enough? The stock market tested key levels on AI fears. Taiwan Semiconductor earnings loom.",
-    "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 03:10:01 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "SK Hynix Stock Plunges 11% in Seoul, Slips After Hours in New York as Hot CPI, Fed Hike Bets and AI Funding Worries Weigh",
-    "desc": "SK Hynix Inc. (NASDAQ:SKHY) shares tumbled more than 11% in Seoul on Thursday, deepening a global chip selloff tied to hotter U.S. inflation, Federal Reserve rate-hike bets and doubts over funding the artificial intelligence buildout. SK Hynix Leads Asia’s Chip Rout The chipmaker fell 11.42% at the time of writing to KRW 1,257,000 ($929.92), while Samsung Electronics fell 8.84% to KRW 211,500 ($156.47). South Korea’s KOSPI fell 7.81% to 5,539.34. In Japan, the Nikkei fell 225 fell 4.12% to 64,95",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-plunges-11-023938562.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 02:39:38 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Does China Have Enough Water For Its Thirsty AI Data Centers?",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Does China Have Enough Water For Its Thirsty AI Data Centers?</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/opinion/does-china-have-enough-water-for-its-thirsty-ai-data-centers-6100604?utm_source=partner&utm_campaign=ZeroHedge\">Authored by James Gorrie via The Epoch Times</a>,</em></p> <p>According to China's Ministry of Water Resources, China has nearly one-fifth of the world's population but only about 6 percent of global freshwater resources.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/aiwaster.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/aiwaster.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cbce0ae2-8bea-4242-9531-b9221b523b20\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/aiwaster.jpg\" /></a></p> <p>That presents planners in Beijing with a challenging problem: How to support 20 percent of humanity, more than 18 percent of global economic output, and an expanding digital economy, with a disproportionately small water resource?</p> <p><strong>Things become even more complicated because China's most economically developed regions are not necessarily where water is most abundant.</strong></p> <p>Now, Beijing wants to build substantially more artificial intelligence (AI) computing capacity. That raises another fundamental question: Can China expand its AI infrastructure without worsening its existing water crisis?</p> <h2>China Is Betting Big on AI Infrastructure</h2> <p>Over the next five years, China is preparing to expand its nationwide AI data center infrastructure by roughly 2 trillion yuan, or $295 billion. The plan would create interconnected computing hubs and rely heavily on domestic technology suppliers.</p> <p><strong><a href=\"https://www.rystadenergy.com/news/chinas-data-center-capacity-doubling-of-power\">Rystad Energy</a> estimates China's installed data-center capacity reached about 32 gigawatts at the end of 2025 and could rise above 60 gigawatts by 2030. Data-center electricity consumption could reach 289 terawatt-hours by 2030, more than twice 2025 levels. AI and high-performance computing are expected to drive much of that growth.</strong></p> <p>But electricity is only half the infrastructure equation. Since AI servers generate enormous amounts of heat, data centers must rely on cooling technologies that require substantial amounts of water.</p> <p><strong>What's more, China's existing data centers are already using a lot of it.</strong></p> <h2>China's Data Centers Already Have a Water Problem</h2> <p>A 2025 study published in Applied Energy provides perhaps the clearest warning.</p> <p>Researchers estimated that China's data centers <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0306261925012528\">consumed</a> approximately 15.7 billion cubic meters of water in 2022, equivalent to about 2.7 percent of China's total water consumption. Even more significant, the researchers found that 72 percent of China's computing capacity was located in regions experiencing severe water scarcity.</p> <p><strong>The Chinese regime has been trying to move computing capacity away from the crowded eastern regions toward western provinces where electricity, particularly renewable electricity, is more readily available.</strong></p> <p>The strategy makes sense from an energy perspective, but not so much from a water supply perspective. The same study found that China's \"Eastern Data and Western Computing\" strategy could increase water-footprint pressures in water-scarce western regions such as Gansu and Ningxia.</p> <p><strong>The imbalance between China's water supply and rising cooling needs is obvious. Beijing is solving one bottleneck while creating another.</strong></p> <h2>Moving Data West Doesn't Move the Water</h2> <p>This is the central problem with China's strategy. Western provinces have vast solar and wind resources and enormous areas available for data-center construction. But parts of the west are also among China's driest regions.</p> <p>That creates a fundamental trade-off because China cannot simply allocate more water to AI without hurting other key areas. Water used to cool an AI data center competes, directly or indirectly, with agricultural, industrial, municipal, and ecological needs.</p> <p><strong>Agriculture accounted for about 62 percent of China's total water use in 2025, compared with 16 percent for industry and 15.8 percent for domestic consumption. Total national water use reached approximately 594.45 billion cubic meters. Agriculture's dominance matters because food security is a strategic priority for Beijing.</strong></p> <p>On the flip side, China is improving efficiency. Water consumption per 10,000 yuan of GDP fell 4.5 percent in 2025, while water consumption per 10,000 yuan of industrial value-added declined 7.2 percent.</p> <p>Those gains are significant, but efficiency cannot eliminate scarcity.</p> <p><strong>If AI computing grows rapidly enough, a data center can become more water-efficient even as the overall sector consumes more water.</strong></p> <p>That's the danger.</p> <h2>China Is Trying to Make AI Greener</h2> <p>Beijing has set a goal to source 80 percent of its data-center electricity from green energy by 2030, up from 11 percent in 2023. But <a href=\"https://www.reuters.com/business/energy/chinas-push-green-power-use-ai-projects-faces-hurdles-experts-say-2026-06-22/\">analysts</a> say AI's highly variable computing loads make it difficult to integrate data centers smoothly with renewable power systems.</p> <p><strong>The regime is also encouraging higher efficiency in data centers by improving power and water usage effectiveness. That technology can make a major difference.</strong></p> <p>The Applied Energy study found that simultaneous improvements in power efficiency, water efficiency, and electricity-grid decarbonization could reduce China's national data-center water footprint by 51.5 percent to 58.3 percent by 2050, compared with a business-as-usual scenario.</p> <p>The bad news is that these are scenarios, not guarantees.</p> <h2>The AI Boom Could Outrun the Efficiency Gains</h2> <p><strong>China's data-center industry is expanding as AI demand grows. The same technological advances that make AI more useful also increase demand for computing power.</strong></p> <p>Rystad Energy expects Chinese data-center electricity consumption to grow at roughly 19 percent annually between 2025 and 2030. But those efficiency improvements may not offset the water consequences of rapidly increasing computational capacity.</p> <p><strong>The result could be a familiar economic pattern of more efficient machines on the one hand, but more of those machines on the other.</strong></p> <p>This is where China's water dilemma becomes more serious. It can reduce the amount of water required per unit of computing while still increasing total water consumption.</p> <h2>What Happens If Water Becomes the Bottleneck?</h2> <p><strong>If water becomes scarce around major AI hubs, China could face pressure to restrict where new data centers are built. That could increase infrastructure costs and force companies to move computing capacity toward regions with better water availability.</strong></p> <p>It could also increase competition among agriculture, cities, and manufacturing and technology companies. That matters because China's economy is already heavily dependent on water-intensive industries and food production.</p> <p><strong>China can build reservoirs, pipelines, water-transfer systems, recycling facilities, and increasingly efficient industrial infrastructure. It can force industries to meet state-directed efficiency targets. But it can't manufacture freshwater at the scale necessary to meet the underlying demands of AI, industry, agriculture, and public use.</strong></p> <p>Water is ultimately constrained by geography and climate and could become one of the least visible but most important constraints on China's AI expansion through the 2030s.</p> <p><em>Views expressed in this article are opinions of the author and do not necessarily reflect the views of The Epoch Times or ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T03:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 23:25</span>",
-    "link": "https://www.zerohedge.com/geopolitical/does-china-have-enough-water-its-thirsty-ai-data-centers",
-    "pubDate": "Thu, 15 Oct 2026 03:25:00 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "\"It's A Pity...\": Zelensky Feels 'Betrayed' By Trump & Elon Musk",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"It's A Pity...\": Zelensky Feels 'Betrayed' By Trump & Elon Musk</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Ukrainian President Volodymyr Zelensky says he feels betrayed by President Trump in the wake of the US deal to buy Russian fuel from Moscow, which was announced last week.</p> <p>Zelensky went on a newly aired episode of Piers Morgan's show, and he was asked point blank by the British show host<strong> if he had been \"betrayed\" by the Trump administration, to which Zelensky answered, \"Really, Yes</strong>.<strong>\" </strong>Russian media was quick to seize on the increasingly open schism between Trump and Zelensky...</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Zelensky tells Piers Morgan he feels 'BETRAYED' BY TRUMP: 'really YES, really, between us' <a href=\"https://t.co/InYEjF5LLa\">https://t.co/InYEjF5LLa</a></p> — RT (@RT_com) <a href=\"https://x.com/RT_com/status/2110407626806952029?ref_src=twsrc%5Etfw\">October 14, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440004396rv47c2jei@published\"><strong>\"It’s a pity that we are losing a strong partner,\"</strong> the Ukrainian leader told Morgan on Wednesday.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440006396rltsu1ntt@published\">\"This is our country, our body, our home, our children… That's why it’s painful when Trump chooses one side,\" Zelensky at one point also stated.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440007396rqtz3m6r8@published\">\"If you’re in the middle, you have to stay in the middle. Not on the wrong side,\" said Zelensky. <strong>\"This is not the right side of history.\" </strong>Here, Zelensky seemed to suggest Trump is actually more on the Kremlin side of things at this point.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440007396rqtz3m6r8@published\">The interview also came amid reports that the US is throttling intelligence-sharing with Kiev. The White House has thus far neither confirmed nor denied the allegations.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Zelensky on Trump: If you're in the middle, you have to stay in the middle, not on the wrong side. I think Trump's advisers are wrong. I don't know who is pushing him to the wrong side. This is not the right side of history. <a href=\"https://t.co/RyMNITUUFY\">https://t.co/RyMNITUUFY</a></p> — Clash Report (@clashreport) <a href=\"https://x.com/clashreport/status/2110407714396577845?ref_src=twsrc%5Etfw\">October 14, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440007396rqtz3m6r8@published\">But Zelensky has himself for the past two night of Russian airstrikes made a point to publicize that Western partners have not provided the typical early warning notices of inbound missiles that were available in prior such attacks.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440007396rqtz3m6r8@published\">There's been another apparently 'betrayal' (in Zelensky's assessment) by the White House of late: reports say that SpaceX has imposed a <a href=\"https://www.zerohedge.com/geopolitical/spacex-reportedly-caps-starlink-speed-kiev-defies-trumps-calls-halt-refinery-strikes\">movement-speed restriction</a> on certain Starlink terminals used in Ukraine.</p> <p data-article-gutter=\"true\" data-component-name=\"paragraph\" data-editable=\"text\" data-uri=\"cms.cnn.com/_components/paragraph/instances/cmv8fq7440007396rqtz3m6r8@published\">This has deeply impacted Ukraine's military, which is greatly reliant on Starlink for rapid battlefield communications and functions. Zelensky <strong>used the Piers Morgan appears to plead that it be 'switched on'</strong>.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Ukraine is not a partner of the United States. Ukraine is a toy they've grown tired of playing with. ---- Zelensky to Elon Musk: On Starlink, we are asking to switch it on. <a href=\"https://t.co/jW1zEg60qC\">https://t.co/jW1zEg60qC</a></p> — Marta Havryshko (@HavryshkoMarta) <a href=\"https://x.com/HavryshkoMarta/status/2110419474696548730?ref_src=twsrc%5Etfw\">October 14, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"People will die, of course, if attacks will continue and if Starlink will not work… it’s not helpful,\" he continued.</p> <p>The Ukrainian leader expressed home the limitation was merely a \"mistake,\" suggesting it could \"maybe a huge technical problem\" at SpaceX. </p> <p>Overall, Zelensky's message was that Ukraine is 'losing' American support and that he <strong>feels betrayed not only be Trump, but by Elon Musk too</strong>.</p> <p>Musk has directly chimed in on the controversy, clarifying <strong>\"Starshield systems are owned and controlled by the US government\"</strong> - and so <strong>ultimately it's the US government, not SpaceX</strong>, behind whatever cut happened that impacted Ukraine.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS. Starlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used for offensive military action, as doing so would be inappropriate for a commercial company.</p> — Elon Musk (@elonmusk) <a href=\"https://x.com/elonmusk/status/2110445577184133456?ref_src=twsrc%5Etfw\">October 14, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>* * *</p> <p>Full episode: <strong>President Zelensky 'BETRAYED' By Trump & Elon Musk</strong></p> <p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/2KrGqdxy_Ag?si=IqzeG_LdjGuAEgfH\" title=\"YouTube video player\" width=\"560\"></iframe></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T03:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 23:00</span>",
-    "link": "https://www.zerohedge.com/geopolitical/zelensky-feels-betrayed-trump-elon-musk",
-    "pubDate": "Thu, 15 Oct 2026 03:00:00 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "People Who Bought MAGA Hats!? Jack Smith's Arctic Frost Hoovered Up Data On At Least 639,000 Republican Voters, Donors",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">People Who Bought MAGA Hats!? Jack Smith's Arctic Frost Hoovered Up Data On At Least 639,000 Republican Voters, Donors</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><strong>Former special counsel Jack Smith's office and the Biden Justice Department obtained spreadsheets on \"over 639,000 individuals, at minimum\"</strong> - Republican donors, supporters and voters - according to a new memo from Senate Judiciary Chairman Chuck Grassley, R-Iowa, <a href=\"https://www.foxnews.com/politics/massive-trove-republican-voter-donor-info-breached-biden-doj-probe-senate-chairman\">first reported</a> by Fox News Digital on Wednesday. Grassley's account rests on whistleblower disclosures to his committee.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/smithgrassley_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/smithgrassley_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"07b4e2b6-5e76-4f66-b55c-db7af2121f93\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/smithgrassley_80.jpg\" /></a></p> <p>Of those, <strong>more than 148,000 rows are identified in the spreadsheets as donors, who generally gave small amounts</strong>. The data includes names, dates of birth, home addresses, emails, whether the person is a registered Republican, occupation and employer, credit card information, donor analysis data and donation amounts. Grassley said samples on the list included retirees, pool technicians, drivers and loggers.</p> <p>The <em><a href=\"https://dailycaller.com/2026/10/14/jack-smith-fbi-probe-personal-date-republicans-maga-hat/\">Daily Caller</a></em> reports that<strong> the trove also covers the shipping addresses of people who bought MAGA hats, and that it reaches back to 2005</strong>. The Fox account of the memo does not mention hat buyers, so that detail rests on the Daily Caller's reading.</p> <p>\"This update shows that Jack Smith and the Biden Justice Department collected incredibly invasive donor data - and voter data - beyond what could conceivably be necessary\" for the special counsel's mandate, Grassley said. He added that it \"corroborates that Smith and his partisan team aimed to map out the entire Republican Party apparatus,\" and again called on Senate Judiciary Democrats to join his oversight work.</p> <p>Smith told the committee on Sept. 29 that his team \"acquired financial information.\" <strong>Pressed by Grassley for a yes or no on whether his office obtained donor data, Smith answered \"Yes,\"</strong> according to Fox's account, and said he could not \"recite to you every subpoena we issued.\" He said the subpoenas served a criminal investigation and that he had \"a duty to collect facts.\" Smith's newly launched law firm did not immediately respond to Fox's request for comment, and no response from Smith or the Justice Department to the new memo had appeared in the coverage reviewed.</p> <p><strong>The memo follows an earlier Grassley release, also drawn from whistleblower records</strong>. On the day of the hearing, the committee's Republicans <a href=\"https://www.judiciary.senate.gov/press/rep/releases/breaking-jack-smiths-team-collected-checks-from-nearly-5000-americans-in-all-50-states\">said</a> Smith's team acquired at least 4,782 checks from donors to President Trump and Trump-aligned Republican entities, written between September 2019 and August 2023 in all 50 states, Washington, D.C., and Puerto Rico. The checks show home addresses, bank account and routing numbers and signatures, and were routed to former FBI Special Agent Walter Giardina, the release says. Grassley said some gave as little as $1, that 42 of the checks came from Iowans, and that \"the Justice Department and FBI will forever possess thousands of people's addresses.\"</p> <p>At the <a href=\"https://www.washingtonexaminer.com/news/senate/4747100/jack-smith-dodges-questions-spying-republicans/\">hearing</a>, Smith defended secretly obtaining Republican lawmakers' phone records. He could not say whether his subpoenas sought the lawmakers' physical locations, and could not recall key details about his demands for conservative fundraising information, the Washington Examiner reported.</p> <p><strong>The donor material fits a pattern Grassley has been releasing for a year.</strong> In October 2025 he made public <a href=\"https://www.grassley.senate.gov/news/news-releases/new-jack-smith-subpoenaed-records-for-over-400-republican-targets-as-part-of-arctic-frost\">197 subpoenas</a> sent to 34 individuals and 163 businesses, seeking records tied to at least 430 named Republican individuals and entities, including statistical data and analysis on donors and fundraising. \"This was clearly a fishing expedition,\" he said then. In July, Grassley said records showed Smith's team obtained and reviewed texts involving 44 current and former lawmakers, and House Judiciary Chairman Jim Jordan said Congress was <a href=\"https://www.foxnews.com/media/jim-jordan-house-weighing-criminal-referral-jack-smith-allegedly-lying-congress\">weighing a criminal referral</a> over Smith's testimony about those records.</p> <p>Smith is now fighting on several fronts. As we <a href=\"https://www.zerohedge.com/political/we-may-finally-be-rid-jack-smith\">reported</a> earlier this month, Sen. Marsha Blackburn, R-Tenn., sued him over the seizure of lawmakers' phone records, seeking $1 in damages, and Sen. Bill Hagerty, R-Tenn., filed a bar complaint <strong>recommending disbarment.</strong> </p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T02:35:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 22:35</span>",
-    "link": "https://www.zerohedge.com/political/people-who-bought-maga-hats-jack-smiths-arctic-frost-hoovered-data-least-639000",
-    "pubDate": "Thu, 15 Oct 2026 02:35:00 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "The Bond Market Just Reached a Dangerous Milestone. Here's What It Means for Stock Investors.",
-    "desc": "Key PointsLong-term U.S. Treasury bond yields recently reached their highest levels since 2002.",
-    "link": "https://www.nasdaq.com/articles/bond-market-just-reached-dangerous-milestone-heres-what-it-means-stock-investors",
-    "pubDate": "Thu, 15 Oct 2026 03:35:00 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Market Trims Early Losses In Mid-market",
-    "desc": "(RTTNews) - The Australian market is trimming its early losses in mid-market moves on Thursday, but extending the losses in the previous session, following the broadly negative cues from Wall Street overnight. The benchmark S&P/ASX 200 is falling well below the 8,750 level, with",
-    "link": "https://www.nasdaq.com/articles/australian-market-trims-early-losses-mid-market-0",
-    "pubDate": "Thu, 15 Oct 2026 03:34:55 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Asian Markets A Sea Of Red",
-    "desc": "(RTTNews) - Asian markets are a sea of red on Thursday, following the broadly negative cues from Wall Street overnight, after hotter-than-expected U.S. inflation data revived bets on interest rate hikes by the US Fed that prompted a sell-off in technology and semiconductor stocks",
-    "link": "https://www.nasdaq.com/articles/asian-markets-sea-red-1",
-    "pubDate": "Thu, 15 Oct 2026 03:29:45 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Indian Shares Seen Flat To Lower At Open",
-    "desc": "(RTTNews) - Indian shares may drift lower at open on Thursday, although information technology stocks may extend recent gains after a gauge of semiconductor stocks extended losses into a sixth day on concerns about the sustainability of the artificial-intelligence trade.",
-    "link": "https://www.nasdaq.com/articles/indian-shares-seen-flat-lower-open",
-    "pubDate": "Thu, 15 Oct 2026 02:36:35 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Warren Buffett Wrote \"Buy American. I Am.\" 18 Years Ago This Week. Should You Still Follow His Advice?",
-    "desc": "Key PointsBuffett wrote that he was shifting his personal account out of U.S. government bonds and into American stocks.",
-    "link": "https://www.nasdaq.com/articles/warren-buffett-wrote-buy-american-i-am-18-years-ago-week-should-you-still-follow-his",
-    "pubDate": "Thu, 15 Oct 2026 02:34:02 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Better Clean Energy ETF: VanEck's Nuclear-Focused NLR vs. the iShares ICLN Targeting Renewables",
-    "desc": "Key PointsThe VanEck Uranium and Nuclear ETF focuses on a concentrated 29-holding portfolio of nuclear energy companies.",
-    "link": "https://www.nasdaq.com/articles/better-clean-energy-etf-vanecks-nuclear-focused-nlr-vs-ishares-icln-targeting-renewables",
-    "pubDate": "Thu, 15 Oct 2026 01:43:38 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Here's Why I'm Buying Solana Right Now",
-    "desc": "Key PointsSolana will be used to enable Samsung Galaxy phones to send stablecoins.",
-    "link": "https://www.nasdaq.com/articles/heres-why-im-buying-solana-right-now",
-    "pubDate": "Thu, 15 Oct 2026 01:31:00 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Lawyer of arrested OpenAI engineer says allegations are &#8216;wholly out of character,&#8217; one-way ticket to Saudi Arabia with wife and child was pre-booked",
-    "desc": "The arrest was a \"surprise,\" said the attorney, and the suspect, Abdulrahman Alfozan, was \"proud\" to be an OpenAI employee.",
-    "link": "https://fortune.com/2026/10/14/lawyer-of-arrested-openai-engineer-says-allegations-are-wholly-out-of-character-charges-were-a-surprise/",
-    "pubDate": "Thu, 15 Oct 2026 02:54:39 +0000",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Netwealth stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454",
-    "pubDate": "2026-10-15 03:42:15",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "UBS considers leaving Switzerland over capital rule plans, WSJ reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
-    "pubDate": "2026-10-15 03:42:08",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
-    "pubDate": "2026-10-15 03:37:33",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports-4950432",
-    "pubDate": "2026-10-15 03:06:44",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is China National Building Material stock falling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-china-national-building-material-stock-falling-today-93CH-4950429",
-    "pubDate": "2026-10-15 03:00:29",
-    "fetchedAt": "2026-10-15T04:01:55.079Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Elon Musk takes a direct swipe at Broadcom CEO and AI investors",
-    "desc": "One comment from Broadcom’s CEO set off a debate about AI spending that Musk couldn’t resist weighing in on.",
-    "link": "https://www.thestreet.com/latest-news/elon-musk-swipe-broadcom-ceo-hock-tan-and-ai-investors?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 02:47:00 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "South Korea’s benchmark Kospi index sinks more than 7% as tech sell-off deepens",
-    "desc": "HONG KONG (AP) — South Korea’s benchmark Kospi index sank more than 7% on Thursday as a sell-off of technology shares deepened after U. stocks fell on hotter-than-expected inflation data.",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-benchmark-kospi-index-015023409.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:50:23 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "How Much Downside Is Left In Liquidia Stock?",
-    "desc": "Over the past month, shares of Liquidia (LQDA) have lost 59%, even as the S&P 500 gained 2.5%. Reuters reported that the stock dropped nearly 50% on September 30 after a federal judge ruled that Yutrepia, Liquidia's inhaled lung drug, infringes a United Therapeutics patent. Liquidia subsequently settled all pending litigation with United Therapeutics on October 13, stating that Yutrepia will remain available to patients with PAH without disruption. If the wider market sells off from here, how mu",
-    "link": "https://www.trefis.com/articles/618658/how-much-downside-is-left-in-liquidia-stock/2026-10-14?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:47:10 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "KOSPI Opens 7% Down After Hot US CPI and AI Doubts Grow",
-    "desc": "South Korea's KOSPI opened sharply lower and slid 7% after hot US inflation data and AI doubts, extending a six-day slide.",
-    "link": "https://beincrypto.com/kospi-opens-7-down-hot-cpi/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:30:22 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Asia Scrambles For Coal As Energy Crisis Sends Prices To Two-Year High Ahead Of Winter",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Asia Scrambles For Coal As Energy Crisis Sends Prices To Two-Year High Ahead Of Winter</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>As the Northern Hemisphere winter quickly approaches, Asian thermal coal prices have climbed to two-year highs and could be on the cusp of a major breakout as utilities stockpile the dirty fuel amid disruptions to natural gas and crude product markets caused by the war in Ukraine and the Strait of Hormuz disruption.</p> <p>Newcastle coal futures, an Asian benchmark, are up more than 40% on the year and could surge even higher if the $150-a-ton level is sustained.</p> <p>Prices on Tuesday closed at their highest levels since August 2024.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2d16b2c9.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2d16b2c9.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2dc8319f-88a4-4dbd-99e7-36bbabbf8ac1\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2d16b2c9.png\" /></a></p> <p>The combination of Ukraine decimating Russian refineries with drone attacks and the Strait of Hormuz disruptions to energy flows has sparked a global refining crisis that has encouraged utilities to switch from higher-priced natural gas and heating oil to cheaper alternative fuels such as coal.</p> <p>Morgan Stanley analysts led by Amy Gower wrote in a note last week that the global refining crisis has made \"<strong>the long-term outlook for thermal coal demand more resilient</strong>.\" They raised their long-term outlook for Newcastle export prices by 4% to $125 a ton.</p> <p>According to <a href=\"https://www.bloomberg.com/news/articles/2026-10-13/asia-s-coal-appetite-endures-as-winter-looms-and-supply-tightens\">Bloomberg</a>, China's coal output has fallen more than 3% in the first eight months of the year after a deadly mining accident earlier this year triggered safety inspections and prolonged shutdowns. </p> <p>Wood Mackenzie analyst Hangyu Li expects more Chinese mines to get the green light to restart, but any new production would come as a lag.</p> <p>\"We expect more mines to gradually win approval to restart after about four months of suspension, but a quick rebound on production in the near-term is unlikely,\" Li wrote in the note.</p> <p>Possible relief from a harsh winter could come from above-normal temperatures forecast across Asia because of a <a href=\"https://www.zerohedge.com/weather/jpmorgan-pinpoints-when-el-nino-could-start-wreaking-havoc-food-supply-chains\">record-breaking El Niño</a>, which would ease heating demand. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T02:10:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 22:10</span>",
-    "link": "https://www.zerohedge.com/commodities/asia-scrambles-coal-energy-crisis-sends-prices-two-year-high-ahead-winter",
-    "pubDate": "Thu, 15 Oct 2026 02:10:00 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Mohammed bin Salman Is More At Risk Internally Than From Houthi Attacks",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Mohammed bin Salman Is More At Risk Internally Than From Houthi Attacks</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://ronpaulinstitute.org/mohammed-bin-salman-is-more-at-risk-internally-than-from-ansarallah-attacks/?fbclid=IwY2xjawU8bIpleHRuA2FlbQIxMQBwZG9mAWJyaWQRMTFXQ25sWFZXRHNKNTBaUm9zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4Hc1t_O_IyncBIxNP9mAzGLp6DT8dYwhQnh8OZWM-49mmuPNQRvlpX4PyGc_aem_vqlCLyNIGM0uCbnSUx5B7A\"><em>Authored by Alastair Crooke</em></a></p> <p>As part of its “blockade-for-blockade,” “airport-for-airport” strategy, Ansarallah carried out a third attack on Riyadh International Airport on Saturday — 12 people (mostly civilians) were killed and more than 300 injured. This, in tandem with Iran’s escalating attacks on tankers, and <a href=\"https://www.ft.com/content/83b817d5-df71-41a6-bef5-3db55a3a89cf?syn-25a6b1a6=1\" rel=\"noopener\" target=\"_blank\">expanding</a> its maritime operations, immediately increases the pressures on President Trump to respond — at the precise moment when midterm elections loom.</p> <p>As the military conflict between Yemen and Saudi Arabia <a href=\"https://english.almayadeen.net/news/politics/saudi-raids-hit-yemen--sanaa-warns-of-strategic-retaliation\" rel=\"noopener\" target=\"_blank\">continues</a>, the latter has become increasingly dependent on attacks against Yemeni civilian targets — by Sept 2025, <a href=\"https://caat.org.uk/data/countries/saudi-arabia/the-war-on-yemens-civilians/\" rel=\"noopener\" target=\"_blank\">reports confirm</a> that “nearly 15,000 civilians have been killed by direct military action, most of them in air strikes by the Saudi-led Coalition.”<strong> Yet the Yemeni armed resistance, taking its cue from Iran’s experience, sees that Saudi is infinitely more vulnerable via its energy infrastructure sitting out in the open</strong>.</p> <p>If Yemen continues to strike at <a href=\"https://thecradle.co/articles/Yemeni-attacks-threaten-saudi-energy-tourism-foreign-investment\" rel=\"noopener\" target=\"_blank\">key Saudi economic and energy assets</a> with precision,<strong> the consequences for Riyadh will multiply</strong> — the battlefield will increasingly become that of Saudi infrastructure destruction and pain for the West versus Yemeni civilian casualties.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/mbsfile2.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/mbsfile2.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b0c9bd40-dc60-480a-bb36-7ad89d1c4356\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/mbsfile2.jpg\" /></a></p> <p>This scenario could lead to major capital destruction, a <a href=\"https://www.middleeasteye.net/opinion/how-gulf-states-are-rebuilding-sovereign-wealth-funds-amid-iran-war-fallout\" rel=\"noopener\" target=\"_blank\">sovereign debt crisis</a>, and Riyadh forced to abandon <a href=\"https://www.independent.co.uk/news/world/middle-east/saudi-arabia-neom-budget-b2991699.html\" rel=\"noopener\" target=\"_blank\">yet more</a> of its Vision 2030 projects on which MbS has staked the kingdom’s future.</p> <p>Saudi Arabia continues to behave as though the old formulas of sectarianism, anti-Iran propaganda and an anti-Shia narrative can once again be used to maintain their pro-Western positioning. But those tired mantra have lost their effectiveness — even among large parts of the region’s Sunnis.</p> <p>The situation today is fundamentally different. AnsarAllah <a href=\"https://unherd.com/2026/10/fear-and-loathing-in-the-house-of-saud/\" rel=\"noopener\" target=\"_blank\">does not</a> represent the Twelver Shia framework that Saudi propaganda could easily portray as an “Iranian project.” <a href=\"https://x.com/citrinowicz/status/2101288214266785811\" rel=\"noopener\" target=\"_blank\">AnsarAllah-governed Yemen</a> has its own ideological framework, theological traditions, political history, and system of governance. <strong>Neither AnsarAllah nor the broader pro-Sana’a camp can simply be reduced to one sect or social class</strong>.</p> <p>The AnsarAllah Yemeni landscape includes Hanafi Sunnis, Zaidis, Jaroodiya, Ismailis, and other Islamic schools, with even elements of Salafi groups existing within the broader Yemeni social structure.</p> <p>In short, unless MbS capitulates to AnsarAllah demands — which it seems he is incapable of so doing — the consequences could develop into a devastating macro-economic cascade occurring within the key pivot situated at the center of the Gulf economic model; a cascade, furthermore, which, as its momentum grows, and foreign capital flees the kingdom, will bring a systemic collapse to the entire western colonial enterprise in the Gulf.</p> <p>The more paradoxical element to this drama is that it is not from AnsarAllah’s attacks that MbS’ is most at risk — or from which his downfall might be precipitated. It will not come from the battlefield either. <strong>Regime change inside Saudi Arabia will come about as a result of his own hand — his compulsive quest to centralize control</strong>.</p> <p>Even Edward Luttwak, known for his links to the western security state, <a href=\"https://unherd.com/2026/10/fear-and-loathing-in-the-house-of-saud/\" rel=\"noopener\" target=\"_blank\">observes</a> that —</p> <blockquote> <p>…the reason for [the impotence] of Saudi Arabia, in the face of the Houthi offensive, is that, for the Kingdom’s ruling family,<strong> the most deadly danger has long been a military <em>coup d’état</em> </strong>— such as the one which ended Iraq’s monarchy and killed every single member of its Husseini ruling family on 14 July 1958.<br /><br /> Against that danger, the successive heads of the Saudi ruling family have implemented the most effective remedy possible: divide and rule, not against foreign enemies, but within their own armed forces.<strong> For that reason, the different combat elements of the armed forces are geographically separated in the country’s vast territory, and commanded by different princes in charge of various parts of the ministry of defence, all of which are subordinate to the minister himself, Prince Khalid (a younger brother of Mohammed bin Salman)</strong>.</p> </blockquote> <p>MbS’ fear is that one F15 pilot, outside of the privileged Royal family Stipendiary circle, might choose to attack one of the Kingdom’s princely palaces (instead of striking at an AnsarAllah target) as a prelude to an all-out military revolt. This is no fanciful threat — an old “Saudi hand” recalled recently hearing one young Saudi officer threatening to do exactly that.</p> <p>By cutting off traditional tribal patronage by which tribal leaders had expected to receive their share of the kingdom’s oil wealth; by seizing tribal lands earmarked for MbS “vanity projects”; and by actively working to reshape Saudi Arabia’s core legitimacy away from traditional tribal-religious alliances towards a nationalist, youth-driven identity centred around <a href=\"https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia\" rel=\"noopener\" target=\"_blank\">Vision 2030</a>, <strong>MbS has cut away the political leverage that traditional tribal elders historically held within the Royal Court</strong>.</p> <p>MBS has made many enemies through the transformation of the Kingdom not towards a nation-state, but rather toward being the property of a single family. He has concentrated immense political, economic, and security powers within his immediate branch of the family, acting as an absolute authority.</p> <p>As one commentator <a href=\"https://fountainbridge.substack.com/p/age-of-resurgence\" rel=\"noopener\" target=\"_blank\">writes</a> —</p> <blockquote> <p>For traditional tribal groups like the ‘Anizah, this means that policy decisions are made strictly from the top down, leaving little room for the traditional consensus-building or special autonomy that tribes historically enjoyed.</p> </blockquote> <p><strong>The erosion of the historic social contract has left a deep sense of economic anxiety and loss of prestige among traditional tribal structures — and among the Wahhabi religious establishment</strong>.</p> <p>The result is that —</p> <blockquote> <p>…a tribal <a href=\"https://fountainbridge.substack.com/p/age-of-resurgence?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true\" rel=\"noopener\" target=\"_blank\">realignment</a> is under way. In the north and central areas, the Shammar and Anizzah desert tribes have reportedly sealed the borders to Jordan and Iraq. <strong>In the south, mountain tribes with historical kinship ties to AnsarAllah are more likely to ignore the border with Yemen than defend the crown</strong>.</p> <p>And we’ll know, soon enough, whether there is any foundation to the [multiple] rumors that representatives of more than a dozen Saudi tribes have sat with IRGC representatives and floated a new political compact — a federal state with tribes receiving a share of oil and gas revenues.</p> </blockquote> <p>It wouldn’t be surprising if there are not other tribes and clans throughout the Region (Syria, Iraq …) who have a similar smoldering resentment to that of the Saudi tribes, festering secretly away, and similarly derived from their own experience of top-down colonial exploitation.</p> <p>Might the Saudi Kingdom experience a revolt against MbS? Such a possibility is not without precedent: When King Saud’s reckless governance threatened the monarchy’s survival in 1964, the family, senior princes, and the religious leadership stepped in to strip him of power and enforce his abdication.</p> <p>In the event of the collapse of MbS-led al-Saud family rule, this would not only topple the Gulf colonial project, but would then initiate a scramble for a fundamental geopolitical re-alignment of the region.</p> <p>The colonial “current shape” imposed upon West Asia for more than a century is at an inflection point. Everything is “up in the air.” How will President Trump react to AnsarAllah’s accelerated attacks on Saudi Arabia? Will he launch a wider war across the region by attacking Iran, Yemen or Iraq? Or will a major attack on north Yemen against Ansarallah, with Pakistani and Israeli participation, be authorised? Or might the Sistan-Baluchistan region of Iran erupt as a result of a Pakistani-CIA insertion of cross-border Balochi insurgents into Iran, potentially leading to Iranian exchanges of fire with Pakistan?</p> <p>We don’t know. But it is widely understood that the region’s current shape was drawn up for other, earlier purposes — Bahrain was Persian for two centuries before 1783; Kuwait was a district of Basra until Britain drew a line of separation in 1899; the United Arab Emirates were Trucial Oman (coastal sheikhdoms under British protection, until December 1971). Qatar was a Bahraini suzerainty, then Ottoman, then British, before it became a state in 1971. Lebanon and Syria were carved out of the Ottoman ruin by France in 1920. Jordan was proclaimed a “state” by a British High Commissioner in 1921.</p> <p>Luttwak <a href=\"https://unherd.com/2026/10/fear-and-loathing-in-the-house-of-saud/\" rel=\"noopener\" target=\"_blank\">forewarns</a> that — <strong>“Ultimately</strong>…<strong> the [al-Saud] inheritors must learn to share Saudi Arabia’s vast flow of oil revenues with everybody else, or else risk losing more than just their wealth.”</strong></p> <p>Iran has just launched large-scale military exercises amid indications of a possible imminent Israeli-American escalation to come very soon.</p> <p>Change seems inevitable.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T01:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 21:45</span>",
-    "link": "https://www.zerohedge.com/geopolitical/mohammed-bin-salman-more-risk-internally-houthi-attacks",
-    "pubDate": "Thu, 15 Oct 2026 01:45:00 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Trump Doubles Down On $5,000 Payments Tied To Midterm Results",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Doubles Down On $5,000 Payments Tied To Midterm Results</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>President Trump released a new video ad this week repeating his pledge of $5,000 for every adult citizen if Republicans keep the House and the Senate in the Nov. 4 midterms.</p> <p><em><strong>\"I'm going to give all adult citizens in the United States of America $5,000,\"</strong> Trump said in the video, posted to X.</em></p> <p><em>\"Democrat policies won't allow this to happen. In fact, the opposite.\"</em></p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">TRUMP POSTS A VIDEO SAYING HE'LL GIVE EVERY ADULT U.S. CITIZEN $5,000 IF REPUBLICANS WIN THE MIDTERMS <a href=\"https://t.co/tYYPnY4yew\">pic.twitter.com/tYYPnY4yew</a></p> — A y l a (@Callme_ayla00) <a href=\"https://x.com/Callme_ayla00/status/2110402752354689176?ref_src=twsrc%5Etfw\">October 14, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>If the GOP wins Congress, \"you will each have $5,000 in your pocket, and economic success for our country like we have never ever seen before,\" he said, adding that Democrats would raise taxes or even create \"an economic depression.\"</p> <p>He made the same promise at an Oct. 7 rally in San Antonio for Texas Attorney General Ken Paxton, <a href=\"https://local12.com/news/nation-world/you-can-count-on-it-trump-renews-5000-promise-payment-americans-midterm-elections\">Local12 reported</a>, without saying how it would be funded or whether Congress would have to approve it. <strong>At roughly 270 million adult citizens, $5,000 each would cost about $1.35 trillion</strong>, by <a href=\"https://www.zerohedge.com/political/johnson-says-5000-trump-payments-require-congress-act\">ZeroHedge's math</a> on the headcount.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281258%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281258%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c3234c2c-b639-40d0-b1c4-b3ec2a23fa6a\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image_80%281258%29.jpg\" /></a> <figcaption><em>President Donald Trump boards Air Force One at Joint Base Andrews, Md., on Oct. 2, 2026. Anna Moneymaker/Getty Images</em></figcaption></figure><p>As <a href=\"https://www.theepochtimes.com/us/trump-doubles-down-on-5000-payments-tied-to-midterm-results-6102583?utm_source=partner&utm_campaign=ZeroHedge\">the Epoch Times</a> notes further, the president first made reference to the payments last month during a speech in Dallas designed to boost Republican voter turnout during the midterms, although <strong>some members of his own party have publicly said they do not support the plan</strong>.</p> <p>In one example of GOP pushback, Rep. Chip Roy (R-Texas) wrote in a post on X about the dividend payment proposal: \"Some of us think dependency is evil [and] soul-sucking in all its forms.\"</p> <p>Among Democrats, many have said that the proposal would add to the U.S. national debt and increase inflation.</p> <p>In a post to X several weeks ago, Sen. Chris Coons (D-Del.) accused the president of trying \"to pay off voters\" in a bid that he said \"would explode the deficit, drive up the cost of home and auto loans, and send inflation skyrocketing.\"</p> <p><strong>The White House would likely need congressional approval to send out the payments, House Speaker Mike Johnson (R-La.) said</strong> in a Sept. 13 CNN <a href=\"https://www.theepochtimes.com/us/trumps-5000-payments-require-congress-to-act-johnson-says-6086885?utm_source=partner&utm_campaign=ZeroHedge\">interview</a>. But Trump said at about the same time, in a CBS interview, that he may not need lawmakers to act.</p> <p>Since last month's Dallas event, Trump has frequently made reference to the possible payments in speeches and on social media, including during a rally in Clarksville, Tennessee, over the past weekend.</p> <p>\"If Republicans win the House of Representatives and the Senate ... I am going to give all adult citizens in the United States of America $5,000,\" Trump said at the event. \"Only Republicans can do it.\"</p> <p><strong>Tariff revenue would pay for those payments, he said</strong> at the Oct. 9 Clarksville event. He also suggested that new factories, plants, and other investments would create revenue and enough economic growth to cover the costs.</p> <p>In a separate announcement, Trump also said his administration is sending health insurance-related rebate payments to certain people, including those who he said were overcharged via Affordable Care Act exchanges and to seniors enrolled in Medicare Part B.</p> <p>An email that was seen by The Epoch Times last week, sent by Trump, <a href=\"https://www.theepochtimes.com/us/trump-indicates-90-medicare-payments-to-20-million-being-sent-out-now-6102250?utm_source=partner&utm_campaign=ZeroHedge\">indicated</a> that $90 payments to Medicare recipients were going out. Some 20 million people would get the payments, the email states.</p> <p>Last month, Trump released a social media video <a href=\"https://www.theepochtimes.com/us/trump-announces-500-obamacare-rebate-checks-6085629?utm_source=partner&utm_campaign=ZeroHedge\">announcing</a> that $500 rebate payments would be sent to <a href=\"https://www.theepochtimes.com/us/trump-confirms-1-million-americans-will-get-500-rebate-checks-6098721?utm_source=partner&utm_campaign=ZeroHedge\">nearly 1 million</a> people who the administration stated were overcharged via Obamacare health care exchanges under the Biden administration.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T01:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 21:20</span>",
-    "link": "https://www.zerohedge.com/political/trump-doubles-down-5000-payments-tied-midterm-results",
-    "pubDate": "Thu, 15 Oct 2026 01:20:00 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Thai Shares Likely To Remain Rangebound",
-    "desc": "(RTTNews) - The Thai stock market has alternated between positive and negative finishes through the last four trading days since the end of the five-day winning streak in which it had gained almost 25 points or 1.6 percent. The Stock Exchange of Thailand now sits just above the 1",
-    "link": "https://www.nasdaq.com/articles/thai-shares-likely-remain-rangebound",
-    "pubDate": "Thu, 15 Oct 2026 02:03:12 +0000",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is the Australian Dollar sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-the-australian-dollar-sliding-today-93CH-4950418",
-    "pubDate": "2026-10-15 02:48:21",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Wisetech Global stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-wisetech-global-stock-rallying-today-93CH-4950417",
-    "pubDate": "2026-10-15 02:48:17",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Bank of Queensland stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-bank-of-queensland-stock-rallying-today-93CH-4950416",
-    "pubDate": "2026-10-15 02:48:12",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "WiseTech shares surge as ASIC drops action against founder White",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/wisetech-shares-surge-as-asic-drops-action-against-founder-white-4950406",
-    "pubDate": "2026-10-15 02:33:50",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/anthropic-tells-investors-q3-revenue-jumped-45-to-nearly-17-bln-ft-reports-4950405",
-    "pubDate": "2026-10-15 02:31:40",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusivesk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say-4950396",
-    "pubDate": "2026-10-15 02:06:41",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is SoftBank Group stock tumbling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4950395",
-    "pubDate": "2026-10-15 02:05:59",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is SK Hynix stock plunging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-plunging-today-93CH-4950394",
-    "pubDate": "2026-10-15 02:05:57",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Samsung Electronics stock plunging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-4950393",
-    "pubDate": "2026-10-15 02:05:55",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Hang Seng stalls below 24,285 resistance: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-    "pubDate": "2026-10-15 02:02:43",
-    "fetchedAt": "2026-10-15T03:01:50.600Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-    "desc": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
-    "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-    "pubDate": "Thu, 15 Oct 2026 01:56:53 GMT",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "bbc",
-    "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
-    "desc": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:56:32 GMT",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why Gen Z are planning for life without a state pension",
-    "desc": "Many younger people do not believe the state pension will exist when they are older",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "BOJ should not be overly cautious raising rates, board member Koeda says",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/boj-should-not-be-overly-cautious-raising-rates-board-member-koeda-says-4950377",
-    "pubDate": "2026-10-15 01:48:34",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
-    "pubDate": "2026-10-15 01:36:24",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Paysign CEO Mark Newcomer sells $766,895 of PAYS stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
-    "pubDate": "2026-10-15 01:31:03",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Oil prices fall as investors weigh supply outlook, Middle East tensions",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
-    "pubDate": "2026-10-15 01:30:30",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bond trading weakens for US banks as interest rate volatility affects investors",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884",
-    "pubDate": "2026-10-15 01:24:26",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Brazil’s Senate approves shorter workweek in win for Lula",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
-    "pubDate": "2026-10-15 01:18:36",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
-    "pubDate": "2026-10-15 01:18:21",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Fastly CTO Artur Bergman sells $1.08 million in company stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
-    "pubDate": "2026-10-15 01:16:10",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "investing",
-    "title": "Norway’s wealth fund set to overhaul ethical rules after US scrutiny",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
-    "pubDate": "2026-10-15 01:12:37",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Anthropic&#x2019;s slowing growth could be the AI trade&#x2019;s latest red flag",
-    "desc": "Anthropic&#x2019;s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors&#x2019; AI jitters",
-    "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
-    "pubDate": "Thu, 15 Oct 2026 01:07:00 GMT",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "ft",
-    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-    "desc": "Rapid growth is slower than some anticipated as fears about the AI trade rattle markets",
-    "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-    "pubDate": "Thu, 15 Oct 2026 00:59:36 GMT",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "ft",
-    "title": "Global tech sell-off deepens as Asian markets tumble",
-    "desc": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
-    "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-    "pubDate": "Thu, 15 Oct 2026 01:44:46 GMT",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The S&P 500 Has Risen 30.6% in the First 20 Months of Trump's Second Term, Just Ahead of the 28.5% Gain Over the Same Stretch of His First Term. Here's Why That Comparison Matters for Investors Heading Into the Midterms.",
-    "desc": "It hasn't always been easy, but the Vanguard S&P 500 ETF is pacing ahead of where it was during the first 20 months of President Trump's first term in office.",
-    "link": "https://www.fool.com/investing/2026/10/14/the-sp-500-has-risen-306-in-the-first-20-months-of/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:20:00 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "S&P 500 Enters Its Strongest Seasonal Window",
-    "desc": "The S&P 500 (SPX) seasonal window opens with 80% historical odds of year-end gains. See the data and the risks.",
-    "link": "https://beincrypto.com/sp-500-seasonal-window-year-end-gains/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:00:00 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Needs To Be True To Buy Cipher Digital Stock Now?",
-    "desc": "Shares of Cipher Digital (CIFR) fell 12.8% on October 13, 2026, on a day the S&P 500 finished flat. Investors were evaluating a plan to raise $850 million through convertible notes that could eventually become shares. Cipher is taking on this debt to fund data center construction. During the second quarter of 2026, the company still generated its revenue from mining bitcoin, yet it has already secured tenants for three campuses. So how much income have those leases locked in.",
-    "link": "https://www.trefis.com/articles/618664/what-needs-to-be-true-to-buy-cipher-digital-stock-now/2026-10-14?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:33:01 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Are Planet Labs Stock Bulls Not Worried About?",
-    "desc": "Shareholders of Planet Labs (PL) have faced a difficult six months: the stock lost 55% while the S&P 500 gained 12.6%. The company, however, just reported a record quarter featuring revenue of $116 million in fiscal Q2 2027. Optimistic investors might view those figures as reassuring, but executives attributed most of the beat to a specific type of contract. So what else comes with that kind of deal.",
-    "link": "https://www.trefis.com/articles/618668/what-are-planet-labs-stock-bulls-not-worried-about/2026-10-14?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:28:25 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Would It Take For Synopsys Stock To Move Higher?",
-    "desc": "Shares of Synopsys (SNPS) rose 30% over the past month, compared with a 2.5% gain for the S&P 500. This climb followed the company's Investor Day on September 30 alongside new deals with OpenAI and Amazon. The climb offers a sign that buyers may be betting on AI. One part of that bet involves Design IP, the business that licenses ready-made pieces of chips. That division shrank last fiscal year. So is Design IP growing again.",
-    "link": "https://www.trefis.com/articles/618670/what-would-it-take-for-synopsys-stock-to-move-higher/2026-10-14?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:23:47 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "FISV, NU, LPLA: Analyst Picks Top 3 Financial Stocks In ‘Forgettable Year’ For Sector",
-    "desc": "According to Morningstar’s Sean Dunlop, financial services have lagged in 2026 due to AI-disruption fears and rising interest rates.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/fisv-nu-lpla-analyst-picks-top-3-financial-stocks-in-forgettable-year-for-sector/cZxWWJvRBqt?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 01:22:15 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "How Low Can AST SpaceMobile Stock Go?",
-    "desc": "Shares of AST SpaceMobile (ASTS) fell 25% in the week to October 13. At the time, Market Watch reported that the stock was feeling the heat from SpaceX's wireless plans. Shareholders who stay are betting that AST's BlueBird satellites will reach orbit on schedule and deliver management's revenue plan. That bet extends into 2027. So how far did AST SpaceMobile fall when markets turned before, and how long did it take to come back.",
-    "link": "https://www.trefis.com/articles/618657/how-low-can-ast-spacemobile-stock-go/2026-10-14?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 00:55:39 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "No Quick Pump Relief: IEA Warns Diesel Squeeze Will Persist Into 2027",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">No Quick Pump Relief: IEA Warns Diesel Squeeze Will Persist Into 2027</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Goldman energy analyst Nikhil Bhandari warned last month that a deepening refining crisis could prolong diesel and gasoline pain at the pump well into 2027. Now, the <strong>International Energy Agency is reinforcing that warning</strong>, cautioning that diesel supplies could remain <strong>tight into the second half of next year</strong>.</p> <p>\"The <strong>gasoil market balance will remain tight well into 2027</strong> and is dependent on a recovery of product supply from the Middle East. Failing this, further demand reductions and the <strong>heavy economic costs these will entail may be needed to balance markets</strong>,\" the IEA wrote in its <em><a href=\"https://www.iea.org/reports/oil-market-report-october-2026?utm_source=chatgpt.com\">Oil Market Report</a> </em>for October.</p> <p>The report continued, \"Global gasoil markets tightened counter-seasonally in 3Q26, as prolonged disruptions to Middle Eastern and Russian exports forced stock draws. <strong>Combined with much heavier-than-normal inventory declines in 2Q26, this has deprived global gasoil markets of crucial stock cover ahead of the peak winter demand season</strong>.\"</p> <p>In response, governments are slashing fuel taxes, subsidizing consumers, and draining strategic reserves as diesel prices hit records across the world. Those measures can cushion the immediate shock, but the IEA forecasts that \"<strong>even with a rapid recovery expected in refinery throughputs into year-end, gasoil supply falls short of meeting demand in 4Q26, suggesting that the replenishment of lost inventories, outside of typical seasonal fluctuations, is unlikely before 2H27</strong>.\"</p> <p>The combination of <strong>Ukraine decimating Russian refineries</strong> with drone attacks and ongoing <strong>Strait of Hormuz disruptions</strong> has pushed the world into a refining crisis. If these pressures continue, they could keep the market from balancing in the first half of next year, sending prices even higher, and unleash a more brutal period of demand destruction. That means businesses and consumers cutting fuel use because prices are too high, with consequences for transport, agriculture, and industrial activity. <strong>Higher fuel prices could also feed into inflation</strong>, push government bond yields higher, and weigh on global equity markets.</p> <p>With US diesel prices at the pump topping $6.50 a gallon (data via AAA) last month, the industrial fuel squeeze pushed President Trump last week toward an unlikely source of relief: <strong>Russia</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2d443b09.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2d443b09.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4a5d011a-4cbb-4471-83c1-f22b0e86cf61\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2d443b09.png\" /></a></p> <p>In recent days, Trump said he struck a deal with Moscow to immediately supply 300,000 metric tons of diesel to the global market, <strong>seeking to ease shortages ahead of the US midterm elections</strong>.</p> <p>The Trump administration also pushed the Group of Seven wealthy democracies to release 100 million barrels of oil and fuel products in the coming weeks to cap prices ahead of the Northern Hemisphere winter.</p> <p>On Tuesday, Vice President JD Vance announced that the administration would use wartime authority to <strong>increase fuel production at a refinery in Texas</strong>: \"I am pleased to announce that the Trump administration, working with the refinery at Delek, has used the Defense Production Act and we're going to expand the refinery right here in Tyler, Texas.\"</p> <p>\"We want millions of gallons of commercial-grade and military-spec fuel to come out of this refinery, in addition to what it's already producing,\" Vance told the crowd.</p> <p>Circling back to Goldman analyst Bhandari's note on the <strong>diesel crisis, which could extend well into 2027, he gave clients three scenarios for where <em>global product inventories could head next.</em></strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_11-06-12.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_11-06-12.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"74ce604a-40df-4a74-a654-a8eed8d99c2a\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-09-22_11-06-12.png\" /></a></strong></p> <p><strong><em>Read the report </em></strong><a href=\"https://www.zerohedge.com/energy/goldman-warns-nightmare-refining-crisis-could-prolong-diesel-gas-price-pain-through-2027\"><strong><em>here</em></strong></a><strong><em>. Also read:</em></strong> Goldman commodity experts Yulia Zhestkova Grigsby and Daan Struyven recently warned that the diesel crisis is setting up <a href=\"https://www.zerohedge.com/energy/goldman-warns-diesel-crisis-setting-next-gasoline-squeeze-heres-how\">the next gasoline squeeze</a>.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T00:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 20:30</span>",
-    "link": "https://www.zerohedge.com/energy/no-quick-pump-relief-iea-warns-diesel-squeeze-will-persist-2027",
-    "pubDate": "Thu, 15 Oct 2026 00:30:00 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Trump Admin Looking To Strip Ilhan Omar's Citizenship, Then Deport Her; Passport Seized In Raid",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Admin Looking To Strip Ilhan Omar's Citizenship, Then Deport Her; Passport Seized In Raid</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>The Trump administration wants to <strong>strip Rep. Ilhan Omar (D-MN)</strong> <strong>of her US citizenship and then deport her</strong>, according to US officials and others familiar with the case who <a href=\"https://www.wsj.com/politics/policy/ilhan-omar-investigation-aims-to-build-case-for-stripping-her-citizenship-6adf1edc\">spoke</a> to the <em>Wall Street Journal</em>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/omar%20out.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/omar%20out.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a0344100-e07d-4157-bdaf-312397013d25\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/omar%20out.jpg\" /></a></p> <p>What's more, DHS agents who searched Omar's Washington home early Monday <strong>secured her passport,</strong> along with her <strong>cellphone, personal computers and notebooks while Omar and her husband stood around watching</strong>, the report continues. <strong>Over a dozen subpoenas have also gone out for testimony before a Minnesota grand jury,</strong> some of them to Omar's relatives, and the family's immigration paperwork is one of the things prosecutors are combing through.</p> <p>Investigators want to know whether Omar or her father listed her as <strong>17 rather than 18</strong> on her citizenship paperwork, according to the paper's sources. The one-year difference decides how she became a citizen: <strong>a child under 18 could pick up citizenship automatically through a parent's naturalization, while an 18-year-old would have needed to go through the process on her own</strong>. Omar became a citizen in 2000.</p> <p>Her father, Nur Omar Mohamed, brought the family to the US in 1995 from a Kenyan refugee camp. He drove a cab and worked for the Postal Service, and died in June 2020 at 67 of Covid-19 complications, according to Omar. The probe is looking at his conduct as well as hers.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ilhan-omar-dad_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ilhan-omar-dad_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9a8ac082-f9ae-4747-9748-e39a4875ccfd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ilhan-omar-dad_80.jpg\" /></a> <figcaption><em>Nur Omar Mohamed, the father of Congresswoman Ilhan Omar, died in June 2020 from complications related to COVID-19 according to Omar</em></figcaption></figure><p><strong>Homeland Security Investigations examined a similar tip under Biden and dropped it for lack of evidence of fraud</strong>, according to people familiar with that review.</p> <p>Omar told the <em>Journal</em> earlier this year that she never committed immigration fraud. \"President Trump would love to eliminate one of the most effective progressive voices in Congress. There is no basis for this,\" her office said in a statement Wednesday.</p> <p><strong>Trump, meanwhile, has called for Omar's deportation for years.</strong> On Monday evening, hours after the search, an Ohio crowd he was addressing broke into chants of \"deport\" after he turned to Omar and Somalis. \"They cheat on everything,\" Trump said, according to the paper.</p> <blockquote class=\"twitter-video\" data-media-max-width=\"560\" data-status=\"hidden\"> <a href=\"https://twitter.com/atrupar/status/2109792194525544949\">Watch video</a> </blockquote> <script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>The denaturalization route matters because of the calendar. As we <a href=\"https://www.zerohedge.com/markets/ilhan-omars-staff-scrambled-change-her-birth-year-after-fraud-allegations-emerged\">noted</a> on Tuesday, federal prosecutors have <a href=\"https://www.law.cornell.edu/uscode/text/18/3291\">ten years</a> to bring criminal charges for naturalization and passport fraud, which puts anything filed in 2000 out of reach. <strong>Civil denaturalization cases have no statute of limitations, and relatives who derived citizenship through a parent can lose it too</strong>, according to the Congressional Research Service. The Justice Department still has to sue in federal court and prove, by \"clear, unequivocal, and convincing\" <a href=\"https://www.everycrsreport.com/reports/LSB11437.html\">evidence</a>, that citizenship was obtained through a material lie.</p> <p><strong>The administration has filed more than 200 denaturalization suits this term</strong>, which officials tout as the most sweeping such effort in DOJ history. Before Trump's return, the government filed about 12 or fewer annually, according to Transactional Records Access Clearinghouse data cited by the paper. Most of the new cases are still undecided. Omar's, if it is filed, would be the highest-profile yet.</p> <p>As we <a href=\"https://www.zerohedge.com/political/feds-raid-ilhan-omars-dc-home-immigration-fraud-investigation-heats\">reported</a> Monday,<strong> HSI agents executed a court-authorized warrant at the house around 6 a.m.,</strong> and the Justice Department called it part of an ongoing criminal investigation without saying more. The <em>New York Times</em> reported that the warrant cites false statements, immigration-paperwork fraud and conspiracy, according to <a href=\"https://www.newsweek.com/ilhan-omar-faces-new-probe-after-raid-as-trump-admin-launches-investigation-12564806\">Newsweek</a>, and that the grand jury has <a href=\"https://www.foxnews.com/politics/rep-ilhan-omars-immigration-history-faces-new-scrutiny-federal-investigators-subpoena-relatives\">subpoenaed</a> Omar's sister, Sahra Noor. Vice President JD Vance said he had no advance notice of the search, and Trump said it was \"really up to the DOJ.\"</p> <p><strong>The age question has a paper trail</strong>. On Tuesday we flagged emails showing <strong>Omar's congressional staff asked Minnesota's Legislative Reference Library in May 2019 to change her listed birth year from 1981 to 1982, days after a viral video questioned her age</strong>. The library's legislator <a href=\"https://www.lrl.mn.gov/legdb/fulldetail?id=15470\">page</a> now gives her birth date as Oct. 4, 1982. Under the 1981 date, Omar was 18 for all of 2000; under 1982, she was 17 until that October. The emails don't say what documentation, if any, backed the change.</p> <p>Separately, Jeanine Pirro, the US attorney in Washington, said Tuesday on Fox News that her office is investigating Omar's financial disclosures, which put her husband Tim Mynett's two businesses at as much as $30 million for 2024 before an April amendment cut the couple's reported assets to $18,004-$95,000. Back in April we noted Omar's sudden discovery that she is <a href=\"https://www.zerohedge.com/political/ilhan-omar-hey-um-it-turns-out-im-not-actually-multimillionaire-after-all\">not</a> a multimillionaire after all. In September, the Office of Congressional Conduct recommended that the House Ethics Committee dismiss the allegations. <strong>Pirro waved that off: \"It doesn't matter what the House does,\"</strong> she <a href=\"https://legalinsurrection.com/2026/10/pirro-confirms-her-office-is-investigating-omars-financial-disclosures/\">said</a>.</p> <p>The immigration allegations have followed Omar since her 2016 run for the Minnesota House, often tied to her marriages. Last month, DHS Secretary Markwayne <a href=\"https://www.zerohedge.com/markets/somethings-going-happen-dhs-chief-says-lefty-ilhan-omar-married-her-brother-floats\">Mullin</a> said on a conservative podcast that the investigation was ongoing and claimed Omar \"married her brother\" to get him into the country - something Trump has frequently claimed as well.</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/fenix-tk21r-duty-flashlight?variant=52735916343594&utm_source=zerohedge&utm_medium=banner&utm_campaign=2026-10-house-fenix-tk21r-duty-flashlight&utm_content=fenix-tk21r-shed-light-take-notes\" data-image-href=\"https://store.zerohedge.com/products/fenix-tk21r-duty-flashlight?variant=52735916343594&utm_source=zerohedge&utm_medium=banner&utm_campaign=2026-10-house-fenix-tk21r-duty-flashlight&utm_content=fenix-tk21r-shed-light-take-notes\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/fenix-tk21r-duty-flashlight?variant=52735916343594&utm_source=zerohedge&utm_medium=banner&utm_campaign=2026-10-house-fenix-tk21r-duty-flashlight&utm_content=fenix-tk21r-shed-light-take-notes\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6bf91267-7b21-42a0-a043-39b5066cc1e0\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/fenix-tk21r-shed-light-take-notes-1000x520%281%29.png\" /></a></p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T00:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 20:05</span>",
-    "link": "https://www.zerohedge.com/political/trump-admin-looking-strip-ilhan-omars-citizenship-then-deport-her-passport-seized-raid",
-    "pubDate": "Thu, 15 Oct 2026 00:05:00 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Report Alleges Houthis Building Advanced Missiles With Help From China",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Report Alleges Houthis Building Advanced Missiles With Help From China</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>It should come as <strong>no surprise that Iran maintains powerful allies even while under threat of US bombs, and as Washington sanctions have sought its complete isolation</strong>. Most obvious among these remain Russia and China - nations which have not necessarily sought to 'hide' or conceal political and even military support to Tehran.</p> <p>The last several weeks have seen a new Iran conflict-related front opened up in the Middle East. Saudi Arabia and the Ansar Allah movement of Yemen (the Houthis) are now in a state of open war.</p> <p><strong>Houthi ballistic missiles are raining down on Saudi airports and Aramco facilities on a daily basis</strong>, resulting in a full-blown crisis for the kingdom, which is urging allies to come to its defense.</p> <p>A fresh report in <em>The Wall Street Journal </em>finds that <strong>Chinese parts are becoming a key element of some new Houthi missile systems</strong> - weapons which have been a surprise and shock to the kingdom and its Western allies, given the number of impacts on targets of late.</p> <p data=\"[object Object]\" data-type=\"paragraph\">\"Houthi militants are attempting to produce their own advanced medium-range ballistic missiles using Chinese-delivered parts, a new report shows, a technological advance that would raise the threat posed by the Iran-backed group,\" WSJ <a href=\"https://www.wsj.com/world/middle-east/houthi-missile-china-parts-5c2b2516?st=JTR3rf&reflink=article_copyURL_share\">writes</a>. </p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/houthismissiles.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/houthismissiles.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b74e476f-b824-4d27-97a6-6150340e5fb2\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/houthismissiles.jpg\" /></a> <figcaption><em>EPA Images</em></figcaption></figure><p data=\"[object Object]\" data-type=\"paragraph\">The report relies heavily on the findings of an international weapons and conflict <a href=\"https://www.wsj.com/world/middle-east/houthi-missile-china-parts-5c2b2516?st=JTR3rf&reflink=article_copyURL_share\">monitor</a>:</p> <blockquote> <p data=\"[object Object]\" data-type=\"paragraph\"><em><strong>The Houthis shipped in from a Chinese supplier a range of components needed to make a version of one of Iran’s most powerful weapons</strong>, the <a data-type=\"link\" href=\"https://www.wsj.com/world/middle-east/iran-kheibar-shekan-missile-5776a6e4?mod=article_inline\" target=\"_blank\">Kheibar Shekan Iranian precision-guided missile</a>, said the report by <strong>Conflict Armament Research</strong>, a group that works in conflict zones and reports on the use of weapons and their supply chains. The Houthi missile would have <strong>a range up to about 1,200 miles, putting all of Saudi Arabia and Israel within reach</strong>.</em></p> <p data=\"[object Object]\" data-type=\"paragraph\"><em>Iran used the Kheibar Shekan—a <a data-type=\"link\" href=\"https://www.wsj.com/world/middle-east/irans-workhorse-missile-is-becoming-more-dangerous-for-u-s-troops-341a77ee?mod=article_inline\" target=\"_blank\">cheap, mobile, precision weapon</a> first displayed in Tehran in 2022—against American bases <a data-type=\"link\" href=\"https://www.wsj.com/world/middle-east/iran-shows-its-ballistic-missiles-are-still-a-force-to-reckon-with-42b18204?mod=article_inline\" target=\"_blank\">with some success</a> during the war with the U.S. last spring, The Wall Street Journal has previously reported.</em></p> </blockquote> <p data=\"[object Object]\" data-type=\"paragraph\">One caveat here might be to point out that Chinese components in complex electrical or even weapons systems are diffuse across the world - so it remains a big open question how 'direct' or not the supply chain might be in this case.</p> <p data=\"[object Object]\" data-type=\"paragraph\">However, Conflict Armament Research has sought to answer this. \"The local ambition of the Houthis for manufacturing is beyond what was previously assumed,” said Fabian Hinz, a senior analyst at the organization.<strong> \"These types of parts are very specific, and producing them would have required design information related to the missile.\"</strong></p> <p data=\"[object Object]\" data-type=\"paragraph\">As for China's official stance on the ratcheting conflict, its foreign ministry on Monday condemned Houthi attacks on Saudi airports. \"<strong>China condemns the attacks that caused heavy casualties and expresses serious concern over the intensification of the conflict</strong>,\" foreign ministry spokeswoman Mao Ning <a href=\"https://www.channelnewsasia.com/asia/china-condemns-houthi-attacks-saudi-arabia-6452441\">said</a>.</p> <p data=\"[object Object]\" data-type=\"paragraph\">\"We call on relevant parties to avoid taking actions that escalate regional tensions, to resolve differences and disputes through dialogue and negotiation, and to achieve peace and stability in the region at an early date,\" Mao added. It would be an explosive and highly sensitive situation if Beijing were actually directly assisting a non-state actor like the Houthis in missile development. This is something China will likely vehemently deny.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-14T23:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/14/2026 - 19:15</span>",
-    "link": "https://www.zerohedge.com/geopolitical/report-alleges-houthis-building-advanced-help-china",
-    "pubDate": "Wed, 14 Oct 2026 23:15:00 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Lower Open Called For Indonesia Stock Market",
-    "desc": "(RTTNews) - The Indonesia stock market on Wednesday ended the two-day slide in which it had dropped almost 170 points or 2.9 percent. The Jakarta Composite Index now sits just above the 5,940-point plateau although it's likely to open in the red on Thursday.",
-    "link": "https://www.nasdaq.com/articles/lower-open-called-indonesia-stock-market-0",
-    "pubDate": "Thu, 15 Oct 2026 01:33:12 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Japanese Market Sharply Lower",
-    "desc": "(RTTNews) - The Japanese market is trading sharply lower on Thursday, extending the losses in the previous five sessions, following the broadly negative cues from Wall Street overnight. The Nikkei 225 is falling well below the 65,200 level, with weakness across most sectors led b",
-    "link": "https://www.nasdaq.com/articles/japanese-market-sharply-lower-4",
-    "pubDate": "Thu, 15 Oct 2026 01:21:49 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Hong Kong Stock Market Tipped To Open Under Pressure On Thursday",
-    "desc": "(RTTNews) - The Hong Kong stock market on Wednesday halted the three-day winning streak in which it had advanced almost 575 points or 2 percent. The Hang Seng now sits just above the 24,310-point plateau and it may see continued consolidation on Thursday.",
-    "link": "https://www.nasdaq.com/articles/hong-kong-stock-market-tipped-open-under-pressure-thursday",
-    "pubDate": "Thu, 15 Oct 2026 01:18:12 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "China Bourse May Extend Wednesday's Losses",
-    "desc": "(RTTNews) - The China stock market has alternated between positive and negative finishes through the last five trading days since the end of the two-day winning streak in which it had collected almost 20 points or 0.5 percent. The Shanghai Composite Index now sits just beneath th",
-    "link": "https://www.nasdaq.com/articles/china-bourse-may-extend-wednesdays-losses",
-    "pubDate": "Thu, 15 Oct 2026 01:03:12 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Market Notably Lower",
-    "desc": "(RTTNews) - The Australian market is trading notably lower on Thursday, extending the losses in the previous session, following the broadly negative cues from Wall Street overnight. The benchmark S&P/ASX 200 is falling well below the 8,700 level, with weakness in mining and techn",
-    "link": "https://www.nasdaq.com/articles/australian-market-notably-lower-5",
-    "pubDate": "Thu, 15 Oct 2026 00:59:31 +0000",
-    "fetchedAt": "2026-10-15T02:01:35.393Z"
   }
 ]
