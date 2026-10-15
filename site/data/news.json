@@ -1,5 +1,557 @@
 [
   {
+    "source": "bbc",
+    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "desc": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+    "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 15 Oct 2026 13:25:17 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Rainmakers: The drones used to seed clouds",
+    "desc": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+    "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 07:09:32 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Would you buy branded clothing from your favourite tech firm?",
+    "desc": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 23:18:47 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Exclusive-Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
+    "pubDate": "2026-10-15 21:48:19",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Qualys CEO Sumedh Thakar sells $609,147 in company stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/qualys-ceo-sumedh-thakar-sells-609147-in-company-stock-93CH-4952739",
+    "pubDate": "2026-10-15 21:46:07",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Bitcoin ticks up slightly above $82k as U.S. bond rally lifts risk sentiment",
+    "desc": "",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
+    "pubDate": "2026-10-15 21:43:22",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Fed’s Hammack warns inflation expectations deterioration could require Fed response",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/feds-hammack-warns-inflation-expectations-deterioration-could-require-fed-response-4952736",
+    "pubDate": "2026-10-15 21:42:21",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "AtlasClear Holdings at the ThinkEquity Conference: building a niche finance platform",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/atlasclear-holdings-at-the-thinkequity-conference-building-a-niche-finance-platform-93CH-4952735",
+    "pubDate": "2026-10-15 21:40:40",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Lakewood-Amedex at ThinkEquity Conference: betting on topical antimicrobials",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/lakewoodamedex-at-thinkequity-conference-betting-on-topical-antimicrobials-93CH-4952734",
+    "pubDate": "2026-10-15 21:39:45",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "William Blair initiates Cytokinetics stock coverage with outperform rating",
+    "desc": "",
+    "link": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-cytokinetics-stock-coverage-with-outperform-rating-93CH-4952733",
+    "pubDate": "2026-10-15 21:36:52",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "WF Holding closes $18 million registered direct offering",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/wf-holding-closes-18-million-registered-direct-offering-93CH-4952731",
+    "pubDate": "2026-10-15 21:36:29",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Transocean amends credit facility, retires $165M in notes",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/transocean-amends-credit-facility-retires-165m-in-notes-93CH-4952732",
+    "pubDate": "2026-10-15 21:36:29",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Cohen & Steers stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
+    "pubDate": "2026-10-15 21:33:45",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+    "desc": "Popular AI names are under pressure again this week &#x2014; but the pain could worsen after the Nov. 3 election.",
+    "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 21:56:00 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Don&#x2019;t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+    "desc": "Investors have a &#x2018;love-hate relationship&#x2019; with tech stocks now &#x2014; and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+    "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+    "pubDate": "Thu, 15 Oct 2026 21:21:00 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "ft",
+    "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
+    "desc": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
+    "link": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
+    "pubDate": "Thu, 15 Oct 2026 21:10:51 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "ft",
+    "title": "How will Big Oil spend its $32bn Iran war windfall?",
+    "desc": "Investors are keen to see how world’s largest crude companies plan to deploy extra cash generated by soaring energy prices",
+    "link": "https://www.ft.com/content/9d70cd3f-abd3-4e40-b644-156444cec446?syn-25a6b1a6=1",
+    "pubDate": "Thu, 15 Oct 2026 04:00:29 GMT",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Adams Diversified Equity Fund reports Q3 results",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653668-adams-diversified-equity-fund-reports-q3-results?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:59:22 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Commercial Metals targets an additional $100M TAG run rate by end of fiscal 2027, while accelerating buybacks",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653666-commercial-metals-targets-an-additional-100m-tag-run-rate-by-end-of-fiscal-2027-while?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:55:34 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Tech titans Nvidia and Apple donate $25M to White House ballroom project: report",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653663-tech-titans-nvidia-and-apple-donate-25m-to-white-house-ballroom-project-report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:51:59 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Gold and silver bounce as U.S. yields and the dollar drop",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653661-gold-and-silver-bounce-as-us-yields-and-dollar-drop?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:50:56 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Hims & Hers Health rises as HHS moves ahead with plan for compounding peptides",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653660-hims-and-hers-health-rises-hhs-moves-ahead-plan-compounding-peptides?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:38:14 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "SITE Centers plans NYSE delisting; shares surge in after-hours",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653664-site-centers-plans-nyse-delisting-shares-surge-in-after-hours?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:31:26 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "SITE Centers declares $3.00 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4653662-site-centers-declares-3_00-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 15 Oct 2026 17:14:34 -0400",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
+    "desc": "The S&P 500 and Nasdaq rose at a key level, led by consumer and software stocks like Disney and Salesforce. AI names came off lows.",
+    "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:48:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "BC-Select Stock Indices",
+    "desc": "NEW YORK (AP) — Prices as of 5:30:00 PM Thursday, October 15. Change High Low Dow Jones 15 Utilities 1066.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013358.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:30:13 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Indexes Rise as Technology Partially Recovers After Fed Tightening Bets Slump Amid Surging Producer Prices",
+    "desc": "(Updates with index/price moves, macroeconomic/CME data, and company news from the first paragraph.)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-technology-212459361.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:24:59 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Spotify (SPOT) Outpaced the Stock Market Today",
+    "desc": "Spotify (SPOT) closed at $533.37 in the latest trading session, marking a +1.8% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-spotify-spot-outpaced-stock-205005490.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:50:05 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "QuickLogic (QUIK) Stock Drops Despite Market Gains: Important Facts to Note",
+    "desc": "QuickLogic (QUIK) concluded the recent trading session at $9.34, signifying a -1.48% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/quicklogic-quik-stock-drops-despite-205005571.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:50:05 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "OneSpan (OSPN) Surpasses Market Returns: Some Facts Worth Knowing",
+    "desc": "OneSpan (OSPN) closed the most recent trading day at $17.87, moving +1.59% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/onespan-ospn-surpasses-market-returns-205005981.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:50:05 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why MasterCard (MA) Outpaced the Stock Market Today",
+    "desc": "MasterCard (MA) concluded the recent trading session at $616.32, signifying a +2.17% move from its prior day's close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-mastercard-ma-outpaced-stock-205004516.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:50:04 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Cloudflare (NET) Stock Slides as Market Rises: Facts to Know Before You Trade",
+    "desc": "In the most recent trading session, Cloudflare (NET) closed at $316.13, indicating a -2.53% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-stock-slides-market-205004043.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:50:04 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Lockheed Martin (LMT) Outperforms Broader Market: What You Need to Know",
+    "desc": "Lockheed Martin (LMT) closed at $532.64 in the latest trading session, marking a +1.99% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-outperforms-broader-205004804.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:50:04 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Adams Diversified Equity Fund Reports Nine Month Results",
+    "desc": "BALTIMORE, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Adams Diversified Equity Fund, Inc. (NYSE: ADX) today announced the Fund’s investment returns for the first nine months of 2026. The total return on the Fund’s net asset value for the first nine months of 2026 was 12.9%, with dividends and capital gains reinvested. This compared to 12.8% and 11.5% total return for the S&P 500 Index and the Morningstar U.S. Large Blend category, respectively. The total return on the Fund’s market price for the period w",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/adams-diversified-equity-fund-reports-215600900.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:56:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Adams Natural Resources Fund Reports Nine Month Results",
+    "desc": "BALTIMORE, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Adams Natural Resources Fund, Inc. (NYSE: PEO) today announced the Fund’s investment returns for the first nine months of 2026. The total return on the Fund’s net asset value for the first nine months of 2026 was 34.4%, with dividends and capital gains reinvested. The comparable figures for the S&P 500 Energy Sector and the S&P 500 Materials Sector were 40.3% and 8.8%, respectively. Our benchmark, which is comprised of the S&P 500 Energy Sector (80%)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/adams-natural-resources-fund-reports-215500122.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:55:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "TCGX Acquisition Corp. II Announces Pricing of $100,000,000 Initial Public Offering",
+    "desc": "PALO ALTO, Calif., October 15, 2026--TCGX Acquisition Corp. II (the \"Company\") announced today that it priced its initial public offering of 10,000,000 Class A ordinary shares at a price of $10.00 per share, for gross proceeds of $100,000,000. Unlike certain other special purpose acquisition company initial public offerings, investors in this offering will not receive warrants that would become exercisable following the completion of the Company’s initial business combination.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tcgx-acquisition-corp-ii-announces-211300867.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:13:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 15: Rocket Lab Pushes Neutron Launch to 2027, Stock Falls 7%",
+    "desc": "Shares fell 6.64% as the company delayed its next-generation rocket, shifting investor focus to manufacturing progress and flight cadence, today, Oct. 15, 2026.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/15/stock-market-today-oct-15-rocket-lab-pushes-neutron-launch-to-2027-stock-falls-7/?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:04:53 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Medtronic Stock A Buy Now That Sales Growth Has Picked Up?",
+    "desc": "Investors considering Medtronic (MDT) stock face an immediate concern: the shares returned 1.9% over the past year, trailing the 17.3% gain for the S&P 500. Yet Medtronic raised its outlook for the year in September, following higher fiscal first-quarter profit and sales. The company is also splitting off MiniMed Group, meaning the business you buy today is changing. So how much faster is Medtronic actually growing.",
+    "link": "https://www.trefis.com/articles/618844/is-medtronic-stock-a-buy-now-that-sales-growth-has-picked-up/2026-10-15?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:01:11 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Alliant Energy Corporation Declares Quarterly Common Stock Dividend",
+    "desc": "MADISON, Wis., October 15, 2026--The Alliant Energy Corporation (NASDAQ: LNT) Board of Directors today declared a quarterly cash dividend of $0.5350 per share payable on November 16, 2026, to shareowners of record as of the close of business on October 30, 2026.",
+    "link": "https://finance.yahoo.com/energy/articles/alliant-energy-corporation-declares-quarterly-210000780.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:00:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Apple the Ultimate Stock to Buy Right Now?",
+    "desc": "The iPhone maker's stock is gaining popularity specifically because the company isn't pouring money into AI.",
+    "link": "https://www.fool.com/investing/2026/10/15/is-apple-the-ultimate-stock-to-buy-right-now/?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:43:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 15: Iren Stock Recovers, but Still Slides on Concerns Over Neocloud Provider Viability",
+    "desc": "Today, Oct. 15, 2026, Gartner's forecast that 80% of neocloud operators could lose independence by 2030 rattled AI infrastructure investors.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/15/stock-market-today-oct-15-iren-stock-recovers-but-still-slides-on-concerns-over-neocloud-provider-viability/?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:23:36 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Alcoa Earnings Were a Relief, and the Stock Looks Cheap",
+    "desc": "Sales and earnings are up on higher commodity prices amid a broader commodity boom.",
+    "link": "https://finance.yahoo.com/m/431e6ee5-c020-3143-a775-7434e1b72d3f/alcoa-earnings-were-a-relief%2C.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:05:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "J.B. Hunt Stock Drops After Earnings Beat. Why It Wasn’t Really a Beat.",
+    "desc": "J.B. Hunt reported third-quarter earnings per share of $1.82 from sales of $3.7 billion. Wall Street was looking for earnings per share of $1.81 from sales of $3.6 billion.",
+    "link": "https://finance.yahoo.com/m/21534474-6c91-31f7-8596-6227f05a00de/j.b.-hunt-stock-drops-after.html?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 21:05:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Did The Market Read Vistra Stock Right?",
+    "desc": "Vistra (VST) stock fell 6.5% on Wednesday, October 14, 2026, compared with a 1.1% loss for the S&P 500. The company had not reported results since its August 7 earnings call. The move followed a week of sharp swings in both directions for the shares. So is a one-day fall of this size unusual for Vistra.",
+    "link": "https://www.trefis.com/articles/618850/did-the-market-read-vistra-stock-right/2026-10-15?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 20:52:31 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "NOAA Winter Outlook: Record El Niño Points To Wetter South, Warmer North",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">NOAA Winter Outlook: Record El Niño Points To Wetter South, Warmer North</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>El Niño is a warm patch of water in the equatorial Pacific</strong> that shows up every few years and confuses everyone as to what it's actually going to <em>do</em>. When the eastern Pacific runs hot, the jet stream drops south and drags the storm track with it. That is why a water temperature reading off South America decides whether California floods and the Gulf gets hammered.</p> <p>NOAA's <a href=\"https://www.noaa.gov/news-release/el-nino-looms-large-over-us-winter-outlook\">winter outlook</a>, released this morning, favors <strong>a wetter than average December through February across the southern U.S., from California to Florida, and along the Eastern Seaboard</strong>, with warmer than average temperatures across the North.</p> <p>It expects drought to improve or end in the Southwest, the southern Great Plains, the Southeast and parts of the East Coast, and to develop or worsen in parts of the northern Rockies, northeastern Oregon and eastern Washington. \"As we know from decades of observations, a very strong El Nino will likely bring a southward and eastward shift to the jet stream for the contiguous U.S., which tilts the odds toward stormier weather across the South,\" said National Weather Service director Ken Graham, who warned that <strong>\"too much precipitation on dry soil can fuel destructive flash floods and mudslides.\"</strong> Like every NOAA seasonal outlook, it gives the odds of a wetter or drier, warmer or colder season, and it doesn't project snowfall.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/PRECIP_Map_Winter_Outlook-2026-2027_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/PRECIP_Map_Winter_Outlook-2026-2027_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0ffc7f26-6b78-4419-8eda-48a96194f52c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/PRECIP_Map_Winter_Outlook-2026-2027_80.jpg\" /></a> <figcaption><em>Source: NOAA</em></figcaption></figure><p>The Climate Prediction Center's <a href=\"https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=3\">three-month outlook for January through March</a>, also issued today, carries the same pattern into spring: <strong>wetter than average from California and the Southwest across the Gulf Coast and up the East Coast</strong>, with the strongest odds in Southern California and along the Florida and Georgia coast, and warmer than average across the northern tier from the Pacific Northwest to New England. The Southeast stays near normal on temperature, and parts of Montana and Michigan lean dry.</p> <p>This year's reading is off the charts. NOAA's Climate Prediction Center said Oct 8 that El Niño is still strengthening, with <a href=\"https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_disc_oct2026/ensodisc.shtml\">better than 83% odds</a> of a strong to very strong event through early next year, and an <strong>83% chance that it tops every El Niño on record</strong> back to 1950 over October to December. On Sept 21 the daily surface temperature where El Niño forms ran more than 3°C above normal, <a href=\"https://www.sciencenews.org/article/record-breaking-el-nino-temperatures\">a daily record</a>, months before the expected peak.</p> <h2>What A Strong El Niño Does To An American Winter</h2> <p>For this winter, NOAA <a href=\"https://www.noaa.gov/news-release/el-nino-looms-large-over-us-winter-outlook\">favors</a> <strong>warmer than average temperatures for northern California, the Pacific Northwest, the Midwest, the Mississippi Valley and much of the East,</strong> near normal temperatures for parts of the Southeast including Florida, and drier than average conditions for parts of the northern Mountain West. That fits its <a href=\"https://www.climate.gov/news-features/blogs/enso/united-states-el-ni%C3%B1o-impacts-0\">review of a century of events</a>, which found the most reliable signal is a wet Gulf Coast: wetter than average from Texas to Florida in <strong>more than 80% of El Niño winters</strong>. California is the swing state; in the two strongest events on record, 1982-83 and 1997-98, it got much more rain than usual. The Ohio Valley trends dry, and the Pacific Northwest and northern Rockies often run mild. In NOAA's words, <strong>\"the stronger the episode, the more reliable the signal.\"</strong></p> <p>NOAA's <a href=\"https://www.ncei.noaa.gov/monitoring-content/billions/reports/19971201-19980228-severe-storm/tr9802.pdf\">post-mortem</a> of the 1997-98 winter counts four weeks of nearly continuous storms in California, <strong>35 counties declared federal disaster areas</strong> and more than <strong>$550 million</strong> in damage. Santa Barbara took 21.74 inches of rain in February alone. In Florida, a two-day tornado outbreak killed 42 people. Nationwide the winter claimed 56 lives, and a Northeast ice storm left power lines down for weeks.</p> <p>Forecasters are already split on where this one hits hardest. Meteorologist Ryan Hall is watching a corridor from Oklahoma and Arkansas through Tennessee, Kentucky, Virginia and the Carolinas: <a href=\"https://www.zerohedge.com/weather/winter-storm-battleground-millions-face-potentially-crippling-snowstorms-across-19-states\">\"somebody in this corridor is going to get a big snowstorm or a big ice storm this winter.\"</a> AccuWeather's Paul Pastelok expects floods to matter more: \"It may be more about rainfall this year.\"</p> <p>The National Weather Service is changing its own warnings for this winter. Starting this season, select blizzard and ice storm warnings will carry <strong>\"Particularly Dangerous Situation\"</strong> wording, reserved for high-confidence storms of historic severity that pose <a href=\"https://www.noaa.gov/news-release/el-nino-looms-large-over-us-winter-outlook\">\"imminent danger to life and unprecedented disruptions to emergency services.\"</a> NOAA updates the outlook again on Nov 19.</p> <h2>The Fall Was The Warm-Up</h2> <p>El Niño's wind shear held the Atlantic's first hurricane back <a href=\"https://weather.com/2026/10/08/storms/hurricane/hurricane-isaias-forecast-gulf-coast-louisiana-alabama-florida\">about four weeks past</a> the previous modern record. When one finally formed, it still did real damage. Hurricane Isaias came ashore near Destin, Florida, on the evening of Oct 9 with 105 mph winds and knocked out power to about <a href=\"https://www.zerohedge.com/weather/hurricane-isaias-slams-gulf-coast-knocks-out-power-830000-major-refineries-are-spared\">830,000 homes and businesses</a> across Florida, Alabama and Georgia. Before landfall, producers <a href=\"https://www.zerohedge.com/weather/small-disruption-now-has-outsized-price-consequences-jefferies-warns-hurricane-takes-aim-us\">shut in 63%</a> of Gulf crude output and 57% of its natural gas, and <strong>WTI rose as much as 5.6% in a day.</strong></p> <p>California didn't wait for the first storm. Gov. Gavin Newsom <a href=\"https://www.gov.ca.gov/2026/09/21/governor-newsom-proclaims-state-of-emergency-to-bolster-statewide-el-nino-preparedness-protect-california/\">declared a statewide emergency on Sept 21</a>, readying the National Guard for floods and staging sandbags, pumps and road-closure equipment.</p> <p>The grid is running tight going into winter. PJM Interconnection, which serves 67 million people from the Mid-Atlantic to Chicago, <a href=\"https://www.zerohedge.com/weather/nations-largest-power-grid-declares-emergency-hot-temps-collide-maintenance-shutdowns\">declared a low-level emergency this week</a> when an October heat spike hit with 60 gigawatts of generation down for maintenance, and spot power at its western hub touched <strong>$1,021 a megawatt-hour</strong>. A PJM spokesman said \"unpredictable weather patterns are providing fewer days to perform important maintenance.\"</p> <p>The food bill comes later. JPMorgan analysts expect El Niño's <a href=\"https://www.zerohedge.com/weather/jpmorgan-pinpoints-when-el-nino-could-start-wreaking-havoc-food-supply-chains\">biggest hit to farm output in the first quarter of 2027</a>, on top of diesel and fertilizer shortages, and the UN Food and Agriculture Organization's chief economist <a href=\"https://www.cnn.com/2026/10/02/climate/el-nino-coffee-chocolate-price-increase\">told CNN</a> global food prices were already climbing before El Niño arrived.</p> <p><strong>Recall, the numbers:</strong></p> <ul><li>NOAA's winter outlook, out Oct 15, favors a wetter South and East Coast and a warmer North, and the January to March outlook keeps the same tilt.</li> <li>NOAA gives 83% odds this El Niño tops every one on record for October through December.</li> <li>The Gulf Coast runs wet in more than 80% of El Niño winters.</li> <li>Isaias, the Atlantic's first and very late hurricane, still cut power to about 830,000 customers.</li> <li>The 1997-98 event put 35 California counties under federal disaster declarations.</li> </ul><p><em>Now for the disclosure...</em></p> <p><a href=\"https://store.zerohedge.com/collections/survival?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino&utm_content=disclosure\"><strong>We sell emergency gear</strong></a>, so this part is an ad. But whether you buy from us or not, floods, ice storms and long outages tend to end the same way: <strong>roads closed, shelves thin, power out and help slow.</strong> You should have two weeks of food, water, light and power that don't depend on the grid.</p> <p>Through Nov 15, any order with $149 or more in survival gear or emergency food gets a <strong>ZeroHedge waxed canvas hat free</strong>. Its waxed coating is water resistant. Support yourself & support the site, <a href=\"https://store.zerohedge.com/collections/survival?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino&utm_content=intro\"><strong>build your kit here</strong></a>. <strong>And if you don't buy ours, build one anyway.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZeroHedge-Emergency-Gear-500x200%281%29.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZeroHedge-Emergency-Gear-500x200%281%29.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c1ba6576-991f-44db-8049-262641dde5e7\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZeroHedge-Emergency-Gear-500x200%281%29.png\" /></a></p> <h2>Practical Takeaways: Two Weeks, Four Boxes</h2> <p>FEMA's <a href=\"https://www.ready.gov/kit\">baseline</a> is a gallon of water per person per day for several days, food that doesn't need a fridge, a flashlight, a first aid kit and a phone charger with a backup battery. Two weeks is where most people who have sat through a long outage end up.</p> <ul><li><strong>Food and water:</strong> the <a href=\"https://store.zerohedge.com/products/14-day-emergency-food-bucket?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino\">ReadyWise 14 Day Emergency Food Bucket</a> ($149.99, and the hat comes with it) holds 25,580 calories, about 14 days for one person at 1,800 a day, with a shelf life of up to 25 years. Just add water. The <a href=\"https://store.zerohedge.com/products/seychelle-water-filtration-bottle?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino\">Seychelle filter bottle</a> ($34.99) is rated for up to 100 gallons of fresh water. Seychelle says it isn't designed for salt, stagnant or murky water, so store jugs too.</li> <li><strong>Light:</strong> the <a href=\"https://store.zerohedge.com/products/fenix-cl26r-pro-high-performance-led-rechargeable-camping-lantern?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino\">Fenix CL26R PRO lantern</a> (from $67.95) puts out 650 lumens, runs up to 408 hours, and doubles as a power bank for a phone.</li> <li><strong>Power:</strong> the <a href=\"https://store.zerohedge.com/products/jackery-portable-power-station-explorer-1000?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino\">Jackery Explorer 1000 v2</a> ($559) stores 1,070 watt-hours and puts out 1,500 watts, enough to keep a fridge, a CPAP or a router going for hours, and it runs silent indoors where a gas generator can't.</li> <li><strong>The go bag and the med kit:</strong> flood country means evacuations. The <a href=\"https://store.zerohedge.com/products/64-piece-survival-backpack?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino\">64-Piece Survival Backpack</a> ($94.99) is packed with three days of food, a stove and a first aid kit; it is short on water, so pair it with the filter. The <a href=\"https://store.zerohedge.com/products/prepem-wild-essentials-pro-kit-wilderness-medical-kit?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino\">PrepEM Wild Essentials Pro</a> ($129.95), designed by board-certified emergency medicine physicians, adds a tourniquet and hemostatic gauze.</li> </ul><p>El Niño won't hit every house, and NOAA says so. But the odds this year are the highest on record, and California, the Gulf Coast and the grid are already bracing for it.</p> <p>Through Nov 15, $149 or more in survival gear or emergency food gets the waxed canvas hat free, and orders over $75 ship free in the US. <a href=\"https://store.zerohedge.com/collections/survival?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino&utm_content=close\"><strong>Build your kit here</strong></a>. Or build it from whatever you already have. The point is to have it.</p> <div style=\"box-sizing:border-box;display:block;width:100%;max-width:500px;margin:24px auto 24px 0;background-color:#171B1D;border-top:5px solid #F7E847;font-family:Arial,Helvetica,sans-serif;text-align:left;\"> <div style=\"display:block;box-sizing:border-box;padding:16px 20px 14px;\"> <div aria-label=\"ZeroHedge Store\" role=\"img\" style=\"display:block;box-sizing:border-box;width:100%;max-width:180px;height:24px;margin:0;padding:0;border:0;background-color:transparent;background-image:url(https://assets.zerohedge.com/s3fs-public/inline-images/zh%20store%20logo.png);background-repeat:no-repeat;background-position:left center;background-size:contain;\"> </div> </div> <div aria-label=\"The ZeroHedge waxed canvas hat, with rain beading on the brim\" role=\"img\" style=\"display:block;box-sizing:border-box;width:100%;height:220px;margin:0;padding:0;border:0;background-color:#3B4142;background-image:url(https://assets.zerohedge.com/s3fs-public/inline-images/hat%20pic.png);background-repeat:no-repeat;background-position:center center;background-size:cover;\"> </div> <div style=\"display:block;box-sizing:border-box;padding:18px 20px 20px;\"><a href=\"https://store.zerohedge.com/collections/survival?utm_source=zerohedge&utm_medium=article&utm_campaign=2026-10-el-nino&utm_content=card\" style=\"display:block;box-sizing:border-box;padding:0;text-decoration:none;color:#F7F5EE;\" target=\"_blank\"><span style=\"display:block;margin:0 0 8px;font-family:'Courier New',Courier,monospace;font-size:11px;line-height:14px;font-weight:bold;letter-spacing:2px;color:#F7E847;\">NOAA: EL NIÑO ADVISORY</span><span style=\"display:block;margin:0;font-family:'Arial Black',Arial,Helvetica,sans-serif;font-size:clamp(22px,7.2vw,30px);line-height:1.05;font-weight:900;letter-spacing:-1px;color:#F7F5EE;\">FREE WAXED CANVAS HAT<br /><span style=\"color:#F7E847;\">WITH $149 IN PREP.</span></span><span style=\"display:block;margin:10px 0 14px;font-size:13px;line-height:18px;color:#D3D6D0;\"><strong style=\"color:#F7F5EE;\">The ZeroHedge waxed canvas hat, free with $149 or more in survival gear or emergency food.</strong> Add the hat to your cart and it comes off at checkout. One per order, through Nov 15.</span><span style=\"display:inline-block;padding:12px 18px;background-color:#F7E847;color:#171B1D;font-family:'Arial Black',Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;font-weight:900;letter-spacing:.8px;\">SHOP SURVIVAL →</span><span style=\"display:block;margin:10px 0 0;font-size:11px;line-height:15px;color:#A8AEAA;\">Orders over $75 ship free in the US. Every order helps support ZeroHedge.</span></a></div> </div> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T21:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 17:00</span>",
+    "link": "https://www.zerohedge.com/weather/noaa-winter-outlook-record-el-nino-points-wetter-south-warmer-north",
+    "pubDate": "Thu, 15 Oct 2026 21:00:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "The Politics Of Denial: When Americans Stop Seeing The Warning Signs",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The Politics Of Denial: When Americans Stop Seeing The Warning Signs</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_politics_of_denial\">Authored by John & Nisha Whitehead via The Rutherford Institute</a>,</em></p> <blockquote> <p><em>\"You see them on the street. You watch them on TV. You might even vote for one this fall. You think they're people just like you. <a href=\"http://www.imdb.com/title/tt0096256/\">You're wrong.</a> Dead wrong.\" </em></p> <p><em>- <a href=\"http://www.imdb.com/title/tt0096256/\">They Live</a></em></p> </blockquote> <p>The spectacle of <a href=\"https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood\">public executions</a>. <a href=\"https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html\">Deadly military strikes</a> on foreign countries. Innocent <a href=\"https://www.npr.org/2026/10/05/nx-s1-5989414/new-report-details-airstrike-on-iranian-school\">civilian lives</a> lost to war. Aggressive <a href=\"https://www.pbs.org/newshour/show/shadow-surge-pushes-immigration-arrests-to-highs-as-trump-administration-shifts-tactics\">ICE raids</a>. Government officials accused of <a href=\"https://www.pbs.org/newshour/show/rep-omar-accuses-trump-of-political-intimidation-after-agents-search-her-home\">using their powers to intimidate</a> political opponents. Public office <a href=\"https://www.theguardian.com/us-news/2026/aug/13/trump-presidency-revenue-wealth\">increasingly entangled with private financial interests</a>. <strong>Government leaders who glorify violence, spew hatred, stir up racial prejudice, provoke civil unrest, and stoke discontent.</strong></p> <p><em>This</em> is what it looks like when a nation loses its way.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/denial_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/denial_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a9b75513-44c5-46d8-92b0-eea25a20860b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/denial_0.jpg\" /></a></p> <p><strong>When cruelty is mistaken for courage, vengeance for justice, and the taking of human life for a demonstration of strength.</strong></p> <p>When government officials <a href=\"https://www.nytimes.com/2025/03/29/magazine/trump-george-orwell-1984.html\">tell you not to believe your own eyes and ears</a> about the state of the world around you, when they insist that the truth is a lie and the lie is truth, you've stumbled into a dystopian reality in which, as John Lennon rightly concluded, the government is \"<a href=\"https://x.com/johnlennon/status/1856323388530151615\">being run by maniacs for maniacal ends</a>.\"</p> <p>When so-called Christians and self-professed defenders of morality insist that we must accept the lesser of two evils based on exaggerated fears of what might happen if their political opponents gain power, rather than confront the abuses unfolding before our eyes, remember this: <strong>the lesser of two evils is still evil.</strong></p> <p>This is not simply about Donald Trump.</p> <p><strong>The machinery of the American police state has been assembled over decades, under Republican and Democratic administrations alike.</strong> Presidents have expanded executive authority, waged undeclared wars, authorized drone killings, built surveillance networks, militarized domestic policing, and invoked national security to justify extraordinary powers.</p> <p>What makes the present moment so troubling is the extent to which the public is encouraged to accept increasingly aggressive exercises of government power as necessary demonstrations of strength and resolve.</p> <p><strong>The Constitution was never intended to protect only the innocent, the popular, the patriotic, or the politically acceptable.</strong> Its restraints on government power matter most when the government is dealing with people whom society has already condemned.</p> <p>Yet what happens when the public becomes so accustomed to government overreach, corruption and brutality that it no longer recognizes them as warning signs? What becomes of a constitutional republic when its leaders and citizens stop asking whether government actions are lawful, justified or necessary, and concern themselves only with whether those actions punish their enemies, advance their political interests or preserve their sense of security?</p> <p><strong>We are witnessing a political culture in which demanding due process for an accused criminal is treated as defending criminality, questioning a military strike is equated with sympathy for the enemy, and opposing government cruelty is portrayed as weakness.</strong></p> <p>The government doesn't have to abolish the Constitution outright when it can persuade the public that certain people should no longer be entitled to its protections.</p> <p><strong>That is how constitutional rights cease to be rights at all and become privileges granted or withdrawn at the government's discretion.</strong></p> <p>And that is how a population becomes conditioned to accept the unacceptable.</p> <p>We're living in two worlds.</p> <p><strong>There's the world we see - or are made to see - and then there's the one we sense and occasionally catch a glimpse of, which bears little resemblance to the propaganda-driven reality manufactured by those in power and amplified through an increasingly fragmented media landscape.</strong></p> <p>Indeed, what most Americans perceive as life in America - privileged, progressive and free - is a far cry from the reality of a nation where economic inequality persists, government power continues to expand, and freedom is increasingly subjected to the demands of surveillance, security and control.</p> <p>All is not as it seems.</p> <p><strong>Monsters with human faces walk among us.</strong></p> <p>Some of them wield extraordinary government power.</p> <p><strong>This is the premise of <a href=\"http://www.rollingstone.com/movies/features/how-they-live-took-on-the-republicans-and-won-20141027\">John Carpenter's film <em>They Live</em></a>, released in November 1988, which remains unnervingly, chillingly appropriate for our modern age.</strong></p> <p>Best known for his horror film <em>Halloween</em>, Carpenter's larger body of work is infused with a strong anti-authoritarian, anti-establishment, laconic bent that speaks to the filmmaker's concerns about the unraveling of our society, particularly our government.</p> <p><strong>Time and again, Carpenter portrays the government working against its own citizens, <a href=\"https://medium.com/@threegracespress/enter-the-rabbit-hole-a-d%C3%A9tournement-by-derek-swannson-475c23747668\">a populace out of touch with reality</a>, technology run amok, and a future more horrific than any horror film.</strong></p> <p>In <em>They Live</em>, two migrant workers discover that the world is being subliminally controlled and exploited by aliens working in partnership with an oligarchic elite.</p> <p><strong>All the while, the populace - blissfully unaware of the real agenda at work in their lives - has been lulled into complacency, indoctrinated into compliance, bombarded with media distractions, and hypnotized by hidden messages beamed out of television and various electronic devices, billboards and the like.</strong></p> <p>Sound familiar?</p> <p>It is only when homeless drifter John Nada, played by the <a href=\"http://www.rollingstone.com/sports/news/rowdy-roddy-piper-dead-at-61-20150731\">late Roddy Piper</a>, discovers a pair of special sunglasses that he sees what lies beneath the elite's fabricated reality: control and bondage.</p> <p><strong>When viewed through Nada's lenses, the wealthy and powerful who appear human are revealed as monsters exploiting the citizenry.</strong></p> <p>Likewise, seemingly mundane advertisements conceal <a href=\"http://www.rollingstone.com/movies/features/how-they-live-took-on-the-republicans-and-won-20141027\">subliminal, authoritarian messages</a>. Magazine racks scream \"CONSUME\" and \"OBEY.\" Money proclaims \"THIS IS YOUR GOD.\" Other hidden messages reinforce the same demands: CONFORM. SUBMIT. STAY ASLEEP. WATCH TV. DO NOT QUESTION AUTHORITY. NO INDEPENDENT THOUGHT.</p> <p>This indoctrination campaign engineered by the elite in <em>They Live</em> is painfully familiar to anyone who has studied the workings of an authoritarian state.</p> <p><strong>A citizenry that does not think for themselves, obeys without question, is submissive, does not challenge authority, does not think outside the box, and is content to sit back and be entertained is a citizenry that can be easily controlled.</strong></p> <p>In this way, the message of <em>They Live</em> provides an apt analogy for the distorted vision of life in the American police state - what philosopher Slavoj Žižek has <a href=\"http://boingboing.net/2015/08/03/roddy-piper-in-they-live-grea.html\">characterized</a> as the invisible structures of domination that sustain the appearance of freedom.</p> <p><strong>Tune out the government's attempts to distract, divert and befuddle us and tune into what's really going on in this country, and you'll run headlong into an uncomfortable truth: government corruption and power have expanded far beyond the restraints the Constitution was intended to impose.</strong></p> <p>And the corruption is not always hidden.</p> <p><strong>What happens when public office, private wealth and political influence become so intertwined that ordinary citizens can no longer distinguish whose interests their government is serving?</strong> What happens when those conflicts are repeatedly exposed, yet the public becomes too distracted, too divided or too politically invested to demand answers?</p> <p>This is where the warning of <em>They Live</em> becomes especially relevant.</p> <p><strong>The danger is not simply that powerful interests might conceal what they're doing. It's that they can operate in plain sight, confident that enough people will refuse to see - or refuse to care.</strong></p> <p>We have allowed the government's corruption, brutality, self-dealing and abuses go on for too long. While this has been true of both parties, it has become painfully evident under the Trump administration.</p> <p><strong>Desperate to hold onto power, the powers-that-be continue to advance a series of carefully contrived narratives, threats and emergencies to justify expanding their authority</strong>, encouraging the public to fear one another, distrust our own judgment, and accept increasingly invasive government powers as the price of safety.</p> <p>Fear is the great enabler of authoritarianism.</p> <p><strong>Fear of terrorists. Fear of criminals. Fear of immigrants. Fear of foreign enemies. Fear of domestic extremists. Fear of one another.</strong></p> <p>Every new threat becomes another justification for expanding government authority, weakening constitutional safeguards, and demanding greater obedience from a frightened public.</p> <p><strong>This is how government power expands in plain sight.</strong> The targets are portrayed as threats. The government's actions are defended as necessary. Those who question its methods are accused of defending criminals, undermining public safety or siding with the enemy.</p> <p>And with every exception made to constitutional restraints, the public becomes a little more accustomed to powers it once would have considered intolerable. Surveillance becomes security. Censorship becomes protection. Militarized policing becomes public safety. Indefinite detention becomes national defense.</p> <p><strong>And killing becomes justice.</strong></p> <p>For too long, Americans have been persuaded to barter their freedoms for promises of security, rationalizing government wrongdoing because they are told the alternatives would be worse.</p> <p><strong>But no matter how you rationalize it, the lesser of two evils is still evil.</strong></p> <p>The greatest danger is not merely that government officials may abuse their power.</p> <p><strong>It is that ordinary people may become so accustomed to those abuses that they lose the ability - or the willingness - to recognize them for what they are.</strong></p> <p>This brings us back to <em>They Live</em>, in which the danger posed is not simply the alien conspiracy but the population's willingness to remain asleep and controlled.</p> <p>Again, not so different from our own.</p> <p>As one of the characters points out, \"<strong>The poor and the underclass are growing. Racial justice and human rights are nonexistent.</strong> They have created a repressive society and we are their unwitting accomplices. Their intention to rule rests with the annihilation of consciousness. We have been lulled into a trance. They have made us indifferent to ourselves, to others. We are focused only on our own gain.\"</p> <p>We, too, are encouraged to focus on our own pleasures, prejudices and political victories, while remaining indifferent to the suffering of others. Our poor and underclasses are also growing. Injustice is growing. Inequality is growing. A concern for human rights is nearly nonexistent. We too have been lulled into a trance, indifferent to others.</p> <p><strong>The government doesn't have to convince everyone that its actions are lawful, just or humane. It merely has to persuade enough people that those being targeted deserve whatever happens to them.</strong></p> <p>Nor does corruption have to be concealed when it can be rationalized, dismissed, or excused as the unavoidable cost of keeping one's preferred political leaders in power.</p> <p>This is perhaps the most disturbing parallel to <em>They Live</em>: a population that has been shown what is happening, yet remains unwilling to confront the implications.</p> <p><strong>The warning signs are no longer buried beneath elaborate disguises. They are unfolding in courtrooms, detention facilities, government offices, financial disclosures and daily news reports.</strong></p> <p>And still, too many people choose to look away.</p> <p>We can convince ourselves that we are different from the victims of government abuse. That we are too law-abiding, too patriotic, too respectable, too insignificant to become targets ourselves.</p> <p>We can tell ourselves that the government means well, that extraordinary measures are necessary, and that those caught in the machinery of state power must have done something to deserve their fate. <strong>But every exception made to someone else's rights weakens the protections intended to safeguard our own.</strong></p> <p>That was the warning behind the Bill of Rights.</p> <p>The founders understood that government officials could not be trusted to restrain themselves simply because they professed good intentions. <strong>The Constitution was intended to bind government power, not magnify it.</strong></p> <p>So where does that leave us?</p> <p>The characters who populate Carpenter's films provide some insight.</p> <p><strong>Underneath their machismo, they still believe in the ideals of liberty and equal opportunity.</strong> Their beliefs place them in constant opposition with the law and the establishment, but they are nonetheless freedom fighters.</p> <p>When John Nada destroys the alien hypno-transmitter in <em>They Live</em>, he delivers a wake-up call for freedom. As Nada memorably declares, \"I have come here to chew bubblegum and kick ass. And I'm all out of bubblegum.\"</p> <p>In other words, it's time to get active and take a stand for what's really important.</p> <p><strong>Stop allowing yourselves to be easily distracted by political spectacles and manufactured fears.</strong> Stop treating constitutional rights as privileges reserved for people you agree with. Stop excusing government abuses merely because the victims are unpopular or the perpetrators share your political loyalties.</p> <p>As we make clear in <a href=\"https://www.amazon.com/Battlefield-America-War-American-People/dp/1590795229/\"><em>Battlefield America: The War on the American People</em></a> and its fictional counterpart <a href=\"https://www.amazon.com/Erik-Blair-Diaries-Battlefield-Dead/dp/1954968027/\"><em>The Erik Blair Diaries</em></a>, all the trappings of the American police state are now in plain sight.</p> <p><strong>The greatest danger is not that the monsters have become so adept at hiding among us. It is that we have become so conditioned to their presence, so accustomed to their abuses, and so willing to excuse their corruption that we no longer recognize them for what they are.</strong></p> <p>Wake up, America.</p> <p>If they live - the tyrants, the oppressors, the invaders, the overlords - it is only because \"we the people\" sleep.</p> <p><em>We publish a variety of perspectives. Nothing written here is to be construed as representing the views of ZeroHedge.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T20:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 16:40</span>",
+    "link": "https://www.zerohedge.com/political/politics-denial-when-americans-stop-seeing-warning-signs",
+    "pubDate": "Thu, 15 Oct 2026 20:40:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Yemen Prime Minister, Cabinet Survives Houthi Attack On Presidential Palace",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Yemen Prime Minister, Cabinet Survives Houthi Attack On Presidential Palace</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The Houthis are apparently trying to take the fight straight to the heart of the Saudi-backed government in Yemen.</p> <p>The Shia group allied to Iran<strong> targeted Aden's presidential palace with one or more ballistic missiles on Thursday, killing two security personnel in a strike that hit the complex</strong>.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/missilecompound.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/missilecompound.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3b56ac41-97bd-4d95-932c-625d8cc88a27\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/missilecompound.png\" /></a> <figcaption><em>Widely circulating image of smoke billowing from site of Saudi-backed government's presidential compound.</em></figcaption></figure><p>Top government leaders were unharmed in the attack on Maashiq Palace, but the deceased security personnel were part of Prime Minister Shaya Al-Zandani's security detail. Of total casualties...</p> <blockquote> <p><strong>Five people were killed, and 16 were injured </strong>in the Houthi attack that targeted the al-Maashiq Presidential Palace in Yemen’s Aden, according to the Yemeni health minister.</p> </blockquote> <p>\"Images posted on social media showed <strong>thick smoke billowing from the presidential palace</strong>, while residents reported hearing explosions around the city,\" regional sources <a href=\"https://www.arabnews.com/middle-east/houthi-missile-attack-on-aden-presidential-palace-kills-2-as-taiz-battles-intensify-3006578\">detail</a>. \"It was the second Houthi attack on Aden since Oct. 5, when the Yemeni government announced a nationwide military operation to regain areas under the militia's control.\"</p> <p>According to a statement cited in <a href=\"https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz\">Al Jazeera</a>:</p> <blockquote> <p><em>Chairman of the Yemeni Presidential Leadership Council Rashad al-Alimi says the suspected Houthi attack on the al-Maashiq presidential palace in Aden is <strong>“an extension” of attacks against airports and oil facilities in Yemen and Saudi Arabia</strong>.</em></p> <p><em>Al-Alimi said in a statement that he directed government forces to “take the necessary measures to protect state institutions, counter terrorist threats, and respond appropriately to sources of danger”.</em></p> </blockquote> <p>Aden airport has also been targeted in recent weeks, but most of the current fighting is centered in the Taiz region, the southwestern highland area of the country.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">⚡️BREAKING: Yemen’s civil war reaches a new level: Houthis strike presidential palace in Aden with missiles Yemen’s prime minister was unharmed. Two people accompanying him were killed.</p> — NEXTA (@nexta_tv) <a href=\"https://x.com/nexta_tv/status/2110756332462895378?ref_src=twsrc%5Etfw\">October 15, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The city of Taiz, which is Yemen's largest, is bracing for a potential Houthi <a href=\"https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz\">breakthrough</a>:</p> <blockquote> <p><em>Al Jazeera’s correspondent in Yemen, Hadeel al-Yamani, has reported that <strong>the tightening siege by the Houthis on the city of Taiz has led to transport being cut off</strong>, resulting in a severe shortage of fuel and worsening the <a href=\"https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government\">humanitarian crisis</a>.</em></p> <p><em>Al-Yamani reports that rubbish has accumulated, causing dire hygienic conditions due to the lack of access to landfills amid ongoing clashes between the Houthis and Yemeni government forces.</em></p> </blockquote> <p>Ballistic missile attacks also targeted Marib on Thursday. \"The terrorist Houthi militias, backed by the Iranian regime, are <strong>intensifying their targeting of residential neighborhoods in the city of Marib with a number of ballistic missiles</strong>,\" the Yemeni Information Ministry announced on X.</p> <p>As for the Saudi coalition, it said that its forces carried out 1,250 attacks in the past 24 hours against the Houthis. They are calling it the \"Dawn of Yemen\" campaign.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">A video released by Houthi rebels claims to be engaging with Saudi-led coalition forces in an area of Yemen deemed to be strategically useful due to its proximity to shipping lanes. The fighting shown is said to be in the southwest of Yemen, an area which could offer access to the Red Sea and its shipping. 🔗<a href=\"https://t.co/mLN5nCs9Ns\">https://t.co/mLN5nCs9Ns</a></p> — Sky News (@SkyNews) <a href=\"https://x.com/SkyNews/status/2110665007755080092?ref_src=twsrc%5Etfw\">October 15, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>But this hasn't stopped Houthi assaults on neighboring Saudi Arabia, which has brought parts of the country to a standstill, particularly operations at airports.</p> <p>The Saudi-led coalition has announced that a total of <strong>20 Houthi attacks on Riyadh's international airport have occurred in October, resulting in 17 fatalities</strong>. Hundreds have been injured.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T20:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 16:20</span>",
+    "link": "https://www.zerohedge.com/geopolitical/yemen-prime-minister-cabinet-survives-houthi-attack-presidential-palace",
+    "pubDate": "Thu, 15 Oct 2026 20:20:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "57 California Dams In Poor Or Unsatisfactory Condition, State Auditor Says",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">57 California Dams In Poor Or Unsatisfactory Condition, State Auditor Says</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/57-california-dams-in-poor-or-unsatisfactory-condition-state-auditor-says-6103625?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Naveen Athrappully via The Epoch Times</a>,</em></p> <p>A new report from the state auditor says 57 dams in California are in poor or unsatisfactory condition, posing a safety risk to hundreds of thousands of residents.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/damn.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/damn.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a9644388-536d-456b-90e3-34d25e7de598\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/damn.jpg\" /></a></p> <p>Out of those 57 dams, 40 have \"high or extremely high\" hazard classifications as of May, the Oct. 13 report said.</p> <p><strong>\"Failure of just one of these 40 high or extremely high hazard dams could pose harm to as many as hundreds of thousands of people and cause billions of dollars in property damage,\" the auditor warned, citing the Department of Water Resources' (DWR's) assessment of 1,222 Californian dams.</strong></p> <p>The most common factors for the poor conditions are old age, the inability to pay for repair costs, and the lack of comprehensive safety standards in effect when the dams were built, the report said.</p> <p><strong>While the DWR has enforcement authority over dams, it has \"only sent notices of violations to dam owners but has not taken further actions, thereby allowing serious deficiencies to persist,\" the auditor said.</strong></p> <p>The department stated that limited resources hindered efforts to repair dams before they failed.</p> <p>Of the 1,222 dams, the auditor found that owners of 60 dams with higher hazard classifications did not comply with California law requiring they submit emergency action plans aimed at protecting life and property in case of structure failure.</p> <p><strong>Local maintaining agencies (LMAs) were charged with maintenance of levees - structures that help contain or control water flow during floods.</strong></p> <p>In the report, the auditor wrote that LMAs were lacking when it came to levee maintenance, while the DWR was reluctant to intervene, posing heightened risks to communities.</p> <p><strong>California Gov. Gavin Newsom proclaimed an emergency last month to prepare the state for El Niño, when southern areas of the state face increased rainfall and flash flooding.</strong></p> <p>The largest impacts of El Niño typically affect the United States from October through May.</p> <p>In the emergency declaration, Newsom highlighted the risks posed to dams by El Niño conditions.</p> <p><strong>In the proclamation, Newsom ordered the DWR to contact dam owners and remind them of their responsibility to repair, maintain, and safely manage dams and other structures.</strong></p> <p>Meanwhile, the California state auditor's report included a response from the DWR regarding the draft version of the document.</p> <p><strong>The response criticized the audit report for portraying a \"fundamental lack of understanding\" of the complexities involved in flood management and dam safety.</strong></p> <p>The DWR said the audit misrepresents that poor maintenance and lack of action are the sole reasons for dams being in unsatisfactory condition.</p> <p>\"This further demonstrates the lack of technical understanding that the most critical deficiencies are found through DWR's reevaluation program; these are not visible in an inspection and most often occur because design loads (earthquakes and floods) are larger than originally expected,\" the department said.</p> <p><strong>\"Design standards, engineering methods, and science have changed over time. These dams were not necessarily built poorly.\"</strong></p> <p>The DWR's reevaluation program periodically reviews dams deemed to pose a threat to life against current dam safety standards.</p> <p><strong>The department said that the program is responsible for detecting more than two-thirds of dam deficiencies.</strong></p> <p>In a Sept. 30 statement, the DWR announced completing a $235 million rehabilitation of California's Oroville Dam, the tallest in the United States.</p> <p><strong>\"This investment in Oroville Dam's infrastructure ensures the reliable and safe operation of the State Water Project's largest flood protection and water supply facility,\" John Yarbrough, deputy director of the DWR's State Water Project, said in the statement.</strong></p> <p>Dam safety is a wider national issue as well.</p> <p><strong>According to a report from the American Society of Civil Engineers, almost 17,000 dams in the United States are considered potentially high hazard.</strong></p> <p>The report highlighted that the average age of dams in the United States is more than 60 years, with seven out of 10 estimated to be at least 50 years old in 2025.</p> <p><strong>\"Without a more significant commitment to dam safety through increased annual investment in inspection, monitoring, planning, and necessary dam repairs, the cost to bring the nation's dams into a state of good repair will continue to rise,\" the association said.</strong></p> <p>\"And downstream communities will face a greater risk of danger from potential dam failure.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T19:50:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 15:50</span>",
+    "link": "https://www.zerohedge.com/political/57-california-dams-poor-or-unsatisfactory-condition-state-auditor-says",
+    "pubDate": "Thu, 15 Oct 2026 19:50:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Iran War Has Cost Nearly $2,000 Per US Household: Moody's Top Economist",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iran War Has Cost Nearly $2,000 Per US Household: Moody's Top Economist</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>Moody's Analytics chief economist Mark Zandi estimated Oct. 12 that the Iran war has cost the average U.S. household nearly $2,000 since it began, or about $265 billion nationwide. He put roughly $1,100 per household on higher energy and transportation costs, $540 on higher interest rates and $360 on military spending, and said <strong>the energy tab is still rising by about $50 per household each week at current fuel prices</strong>.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100395-GettyImages-2274545970-1KO_80%281%29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100395-GettyImages-2274545970-1KO_80%281%29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"dffa6ab7-d50c-47b1-bf91-aed40c5fecee\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/id6100395-GettyImages-2274545970-1KO_80%281%29.jpg\" /></a> <figcaption><em>An MH-60R Sea Hawk helicopter, assigned to Helicopter Maritime Strike Squadron 50, takes off from the flight deck of the Arleigh Burke-class guided-missile destroyer USS Thomas Hudner on May 4, 2026. US NAVY/AFP via Getty Images</em></figcaption></figure><p>Zandi wrote on X: \"<strong>Consider that the war's costs taken together have absorbed about half the average American household's income gain over the past eight months.</strong> No wonder the war is so unpopular.\"</p> <p>White House Principal Deputy Press Secretary Anna Kelly answered in a statement: \"Mark Zandi is a Democrat donor who is frequently wrong - including predicting multiple recessions that never happened.\" She added: \"President Trump is rightfully ensuring that Iran, a country that for 47 years chanted 'Death to America,' can never have a nuclear weapon.\" U.S. and Israeli strikes on Iran began Feb. 28.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Consider that the war’s costs taken together have absorbed about half the average American household’s income gain over the past eight months. No wonder the war is so unpopular.</p> — Mark Zandi (@Markzandi) <a href=\"https://x.com/Markzandi/status/2109645858606334360?ref_src=twsrc%5Etfw\">October 12, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Zandi's number is a broad economic estimate, not a federal outlay. Brown University puts consumer costs at $133.3 billion, about $1,018 per household, and Defense Secretary Pete Hegseth has testified to about $37.5 billion in direct military costs, <a href=\"https://www.newsweek.com/iran-war-cost-american-families-nearly-2000-economist-12559271\">Newsweek reported</a>. ZH has <a href=\"https://www.zerohedge.com/political/100-billion-climbing-iran-war-price-tag-believed-far-higher-wh-estimates\">tracked</a> estimates running well above the White House's.</p> <p>As <a href=\"https://www.theepochtimes.com/world/zandi-estimates-iran-war-has-cost-nearly-2000-per-us-household-6103395?utm_source=partner&utm_campaign=ZeroHedge\">the Epoch Times</a> notes further, \"Higher energy prices are contributing most to the costs,\" Zandi said. \"A gallon of regular goes for $4.37, up from just under $3 before the war. Diesel is above $6, and jet fuel has nearly doubled. As winter approaches, the much higher price of home heating fuel is also adding to the costs.\"</p> <p>Zandi said the war's inflation contributed to the Fed's decision last month to raise rates and signal that more rate increases are coming.</p> <p>\"Long-term rates are also up a lot - fixed mortgage rates have climbed from below 6 percent before the war to 7.5 percent. By our reckoning, the higher rates have cost the economy about $540 per household,\" he said.</p> <p><strong>In September, the Congressional Budget Office estimated the war cost the U.S. military $38.1 billion through Aug. 1</strong>. With fighting expected to continue, the war was estimated to cost between $2 billion and $3 billion each month, depending on its intensity.</p> <p>On Oct. 5, the Congressional Research Service published a report listing some of the major equipment losses during the war.</p> <p><strong>The report listed 81 fixed-wing or rotary-wing aircraft</strong>, including drones that were lost or damaged during the conflict.</p> <p>The Congressional Budget Office estimated the cost of equipment losses as of Aug. 1 to be between $1.9 billion and $3.3 billion, depending on the Department of War's plans for replacement.</p> <p>Democrats have continually pointed to the cost of the war in their criticism of Trump.</p> <p>In September, 46 Democratic or left-leaning Independent Senators sent a letter to Department of War Secretary Pete Hegseth demanding more information on the costs of the war.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T19:35:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 15:35</span>",
+    "link": "https://www.zerohedge.com/political/iran-war-has-cost-nearly-2000-us-household-moodys-top-economist",
+    "pubDate": "Thu, 15 Oct 2026 19:35:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "JetBlue Launches BlueFirst Domestic First Class Across More Then 30 Routes",
+    "desc": "(RTTNews) - JetBlue Airways Corporation (JBLU) has opened bookings for BlueFirst, its new domestic first-class product, across more than 30 routes as the airline expands its higher-priced offerings in a push toward sustained profitability.",
+    "link": "https://www.nasdaq.com/articles/jetblue-launches-bluefirst-domestic-first-class-across-more-then-30-routes",
+    "pubDate": "Thu, 15 Oct 2026 21:51:33 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Arm vs. Credo Technology Group: Which Semiconductor Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsArm maintains a dominant position by licensing its energy-efficient compute architecture to nearly every smartphone maker and data center provider globally.",
+    "link": "https://www.nasdaq.com/articles/arm-vs-credo-technology-group-which-semiconductor-stock-better-buy-2026-0",
+    "pubDate": "Thu, 15 Oct 2026 21:30:19 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Boeing Fell Back Below $200 Ahead of a Strike Deadline. Here's Why I'd Buy the Fear After New Contracts Were Signed",
+    "desc": "Key PointsBoeing averted a labor strike with engineers.",
+    "link": "https://www.nasdaq.com/articles/boeing-fell-back-below-200-ahead-strike-deadline-heres-why-id-buy-fear-after-new-contracts",
+    "pubDate": "Thu, 15 Oct 2026 21:25:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Southwest Airlines Overhauls Rapid Rewards With New Tiers, Lounges And Starlink WiFi",
+    "desc": "(RTTNews) - Southwest Airlines (LUV) announced a major overhaul of its Rapid Rewards loyalty program, introducing Silver, Gold and Platinum membership tiers beginning January 1, 2027. Existing A-List status will become Silver, while A-List Preferred will transition to Gold.",
+    "link": "https://www.nasdaq.com/articles/southwest-airlines-overhauls-rapid-rewards-new-tiers-lounges-and-starlink-wifi",
+    "pubDate": "Thu, 15 Oct 2026 21:22:29 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "CTRI Trading Below Director's Recent Buy Price",
+    "desc": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on September 18, Centuri Holdings Inc's Director, Dustin Demaria, invested $100,204.00 into 5,200 shares of CTRI, for a cost per share of",
+    "link": "https://www.nasdaq.com/articles/ctri-trading-below-directors-recent-buy-price",
+    "pubDate": "Thu, 15 Oct 2026 21:18:49 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "GGM Crowded With Sellers",
+    "desc": "In trading on Thursday, shares of the GGM Macro Alignment ETF (Symbol: GGM) entered into oversold territory, changing hands as low as $29.93 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measur",
+    "link": "https://www.nasdaq.com/articles/ggm-crowded-sellers",
+    "pubDate": "Thu, 15 Oct 2026 21:18:00 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Relative Strength Alert For Dillards Capital Trust I",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/relative-strength-alert-dillards-capital-trust-i",
+    "pubDate": "Thu, 15 Oct 2026 21:17:57 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Shares of ASIA Now Oversold",
+    "desc": "In trading on Thursday, shares of the Matthews Pacific Tiger Active ETF (Symbol: ASIA) entered into oversold territory, changing hands as low as $37.76 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator use",
+    "link": "https://www.nasdaq.com/articles/shares-asia-now-oversold",
+    "pubDate": "Thu, 15 Oct 2026 21:17:53 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "GALX Enters Oversold Territory",
+    "desc": "In trading on Thursday, shares of the GALX ETF (Symbol: GALX) entered into oversold territory, changing hands as low as $20.73 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on",
+    "link": "https://www.nasdaq.com/articles/galx-enters-oversold-territory",
+    "pubDate": "Thu, 15 Oct 2026 21:17:44 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Altius Minerals Enters Oversold Territory (ATUSF)",
+    "desc": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
+    "link": "https://www.nasdaq.com/articles/altius-minerals-enters-oversold-territory-atusf",
+    "pubDate": "Thu, 15 Oct 2026 21:17:39 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "EFFE Crowded With Sellers",
+    "desc": "In trading on Thursday, shares of the Harbor Osmosis Emerging Markets Resource Efficient ETF (Symbol: EFFE) entered into oversold territory, changing hands as low as $25.80 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical a",
+    "link": "https://www.nasdaq.com/articles/effe-crowded-sellers",
+    "pubDate": "Thu, 15 Oct 2026 21:17:36 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Trimble Takes Over #432 Spot From Invesco",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Trimble Inc (Symbol: TRMB) has taken over the #432 spot from Invesco Ltd (Symbol: IVZ), according to The Online Investor. Market capitalization is an important data p",
+    "link": "https://www.nasdaq.com/articles/trimble-takes-over-432-spot-invesco",
+    "pubDate": "Thu, 15 Oct 2026 21:17:34 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Republic Services Now #249 Largest Company, Surpassing Flex",
+    "desc": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Republic Services Inc (Symbol: RSG) has taken over the #249 spot from Flex Ltd (Symbol: FLEX), according to The Online Investor. Market capitalization is an important",
+    "link": "https://www.nasdaq.com/articles/republic-services-now-249-largest-company-surpassing-flex",
+    "pubDate": "Thu, 15 Oct 2026 21:13:38 +0000",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Varonis stock rallying today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
+    "pubDate": "2026-10-15 21:33:31",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Alcoa stock climbing today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
+    "pubDate": "2026-10-15 21:33:17",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.31%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-131-4952719",
+    "pubDate": "2026-10-15 21:30:04",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Colombia stocks lower at close of trade; COLCAP down 0.07%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-007-4952714",
+    "pubDate": "2026-10-15 21:25:03",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/meta-releases-openweight-muse-spark-model-for-coding-agentic-tasks-4952713",
+    "pubDate": "2026-10-15 21:24:26",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.22%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-122-4952710",
+    "pubDate": "2026-10-15 21:20:03",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "SITE Centers stock surges on $3 special dividend",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/site-centers-stock-surges-on-3-special-dividend-4952700",
+    "pubDate": "2026-10-15 21:06:56",
+    "fetchedAt": "2026-10-15T22:01:32.757Z"
+  },
+  {
     "source": "cnbc",
     "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
     "desc": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
@@ -5846,557 +6398,5 @@
     "link": "https://seekingalpha.com/news/4653344-banco-bradesco-s-a-declares-0_0035-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
     "pubDate": "Thu, 15 Oct 2026 07:55:29 -0400",
     "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "PepsiCo warns India energy drink ban could dry up supplies in two months",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653331-pepsico-warns-india-energy-drink-ban-could-dry-up-supplies-in-two-months?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 07:55:04 -0400",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "GlobalFoundries in focus as Wedbush praises New York fab deal",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653336-globalfoundries-in-focus-as-wedbush-praises-new-york-fab-deal?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 07:53:53 -0400",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $10",
-    "desc": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#8230; Continued The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-under-10",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $20",
-    "desc": "The post Best Stocks Under $20 by Wayne Duggan appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $20 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Stocks under $20 offer investors and traders a lower-cost alternative to more expensive stocks. Despite the misperception that lower-priced stocks carry more risk, the risk profile of many stocks under $20 &#8230; Continued The post Best Stocks Under $20 by Wayne Duggan appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-under-20",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Solar Stocks",
-    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-solar-stocks",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Biotech Stocks Right Now",
-    "desc": "The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Biotech stocks are in the eye of the storm as the world recovers from the global pandemic. Government institutions and professional traders are banking on biotech stocks to continually develop a vaccine and boosters that can eradicate COVID-19.&#160; Tilt your stock portfolio toward biotech companies now and you could stand to make substantial profits in &#8230; Continued The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-biotech-stocks",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Tech Stocks Right Now",
-    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-tech-stocks",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Financial Stocks for the Week",
-    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Semiconductor Stocks",
-    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $5",
-    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-stocks-under-5",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Energy Stocks",
-    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-energy-stocks",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Oil Stocks Right Now",
-    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-oil-stocks",
-    "pubDate": "Thu, 15 Oct 2026 11:12:45 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stocks Mostly Down Pre-Bell as Investors Await Data on Wholesale Prices, Retail Sales",
-    "desc": "US equity markets were mostly pointing lower before the opening bell Thursday as traders await key d",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-112701766.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:27:01 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Yardeni sees further valuation declines as risk-off sentiment persists",
-    "desc": "Investing.com -- Risk-off sentiment that first emerged in mid-September is likely to persist and further compress stock valuations, Yardeni Research argues, even as the firm remains bullish on earnings and sees no recession through 2029.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/yardeni-sees-further-valuation-declines-112239864.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:22:39 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "History Says Berkshire Hathaway Stock Holds Up When the Market Falls: It Beat the S&P 500 in 11 of 13 Down Years",
-    "desc": "Berkshire Hathaway has proven it holds its own even when markets struggle.",
-    "link": "https://www.fool.com/investing/2026/10/15/history-says-berkshire-hathaway-stock-holds-up-whe/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:10:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "AI Fears Grip Markets as Tech Rotation Accelerates",
-    "desc": "As we enter the spooky season markets got an early fright as the tech stocks rotation accelerated alongside the fallout from a hot inflation reading.",
-    "link": "https://finance.yahoo.com/m/2a12e81c-8d97-3737-b173-dabf86031512/ai-fears-grip-markets-as-tech.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:02:20 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Global tech selloff deepens as enthusiasm for AI stocks wobbles",
-    "desc": "Global technology stocks sold off sharply Thursday, as a growing list of worries, including rising borrowing costs and tougher competition from China, caused traders to sour on AI investments.",
-    "link": "https://www.cnn.com/2026/10/15/business/tech-selloff-nasdaq-ai-intl?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 10:46:22 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "AI Bears March Down Wall Street Pre-Bell; Asia Down, Europe Off",
-    "desc": "Wall Street futures sank pre-bell Thursday as bearish sentiments again sent AI- and semiconductor-re",
-    "link": "https://finance.yahoo.com/markets/articles/ai-bears-march-down-wall-112605419.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:26:05 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "A Tesla-SpaceX Merger Could Be Weeks Away",
-    "desc": "Barclays analyst Dan Levy has been taking questions from clients about a potential megamerger.",
-    "link": "https://finance.yahoo.com/m/44a807ab-3d98-37c9-a98e-b228b2d56ddd/a-tesla-spacex-merger-could.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:03:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Value Stock to Target This Week and 2 That Underwhelm",
-    "desc": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they’re out of favor. The key risk, however, is that these stocks are usually cheap for a reason, and a low valuation can reflect underlying business challenges rather than a genuine bargain.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/1-value-stock-target-week-114427377.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 11:44:27 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Teens Want More Monster Energy As Celsius Loses Its Fizz",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Teens Want More Monster Energy As Celsius Loses Its Fizz </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Piper Sandler's latest Teen Survey of nearly 9,000 respondents offers an early read on energy drink preferences among younger consumers.</p> <p>Analyst Michael Lavery highlighted Monster's growing appeal, noting that the brand is gaining share and leading rivals in consumers' intentions to increase consumption.</p> <p>\"<strong>Teens report highest consumption increase intent for Monster</strong>,\" Lavery wrote in the note published earlier today.</p> <p>He continued:</p> <blockquote> <p><em>We asked teens whether they intend to drink more or less of their favorite energy drink brands in the next six months; </em><strong><em>20% plan to drink more while 49% plan to drink the same amount and 32% plan to drink less (though reduction intentions often do not actually occur).</em></strong></p> </blockquote> <blockquote> <p><em><strong>Teens plan to drink more Monster</strong> (23%), than Alani Nu (20%), Red Bull (18%), and Celsius (16%).</em></p> </blockquote> <p>The survey of roughly 8,935 teens <strong>showed Monster retaining second place</strong> among their preferred energy drink brands, behind Red Bull. Its share of mentions rose about .6 percentage points from a year earlier, reaching about 28%, broadly in line with its 27% share of measured US retail sales.</p> <p><strong>The results stand in sharp contrast with Celsius, which dropped from fourth to sixth and lost about 5.55 percentage points of preference share</strong>. Alani Nu remained third but also lost momentum among young consumers. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-25-01.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-25-01.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a105c746-b1ee-4bc0-b9a3-3b1aa8430702\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-25-01.png\" /></a></p> <p><strong>Monster consumption is heavily skewed toward males</strong>: about 75% of teens who selected it as their favorite energy drink were boys. Alani Nu's following was mostly female, highlighting how differently the brands compete for younger consumers.</p> <p>Other fun facts from the survey:</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-07-37.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-07-37.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d7b29f57-8e39-490e-940b-36e7f0e10a2b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-07-37.png\" /></a></p> <p>Energy drinks top soda and coffee for source of energy among young consumers.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-07-59.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-07-59.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1e455b00-b60a-4ad9-ac2f-50e0af8e96d8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-07-59.png\" /></a></p> <p>Maybe the youngsters need some Hooked on Phonics ...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-27-24.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-27-24.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c6f74435-9ec9-4c60-bc4c-f72849532efa\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-13_14-27-24.png\" /></a></p> <p><strong>Monster's growing advantage over Celsius is showing up in stock performance this year.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2978fd66.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2978fd66.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"de5658bc-4ab1-4eda-abf3-00d22f0e8d8b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2978fd66.png\" /></a></p> <p>Celsius is down 41% year-to-date, while Monster is up solidly at around 14.3%.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T10:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 06:55</span>",
-    "link": "https://www.zerohedge.com/markets/teens-want-more-monster-energy-celsius-loses-its-fizz",
-    "pubDate": "Thu, 15 Oct 2026 10:55:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Why Diesel Prices Are So Much Higher Than Gasoline",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Why Diesel Prices Are So Much Higher Than Gasoline</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://oilprice.com/Energy/Energy-General/Why-Diesel-Prices-Are-So-Much-Higher-Than-Gasoline.html\">Authored by Robert Rapier via OilPrice.com</a>,</em></p> <ul><li> <p>Diesel has generally cost more than gasoline since 2004 due to higher production costs, taxes, and global demand.</p> </li> <li> <p>Global refinery disruptions, export restrictions, and low inventories have widened the diesel price premium in 2026.</p> </li> <li> <p>Strong US crude production and refinery output cannot fully offset global diesel supply shortages.</p> </li> </ul><p><strong>There was a time when diesel fuel was usually cheaper than gasoline in the United States.</strong> That relationship began to change about 20 years ago, and since then diesel has generally traded at a premium. Today, that premium is not just persistent but unusually large, which raises an obvious question: how did we get from gasoline typically costing more than diesel to diesel costing substantially more than gasoline?</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/dieselll.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/dieselll.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a57e0af8-d003-46bb-bad3-cc1c7038b2ca\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/dieselll.jpg\" /></a></p> <p><strong>The answer has two parts. </strong></p> <p>The first is structural and goes back to the mid-2000s, when changes in fuel specifications, taxes, refining economics, and global demand fundamentally altered the relationship between gasoline and diesel prices.</p> <p>The second is more immediate. <strong>In 2026, refinery disruptions, geopolitical conflicts, low inventories, and reduced exports from major suppliers have pushed the global diesel market into an unusually tight position.</strong> Understanding the difference between those long-term and short-term forces explains both why diesel usually costs more and why the gap is so large right now.</p> <h2>Diesel Was Once The Cheaper Fuel</h2> <p>Before the mid-2000s, diesel was often cheaper than regular gasoline in the United States. There were exceptions, particularly during cold winters when heating-oil demand strengthened, but the longer-term pattern generally favored diesel. That began to change around 2004, and according to the <a href=\"https://www.eia.gov/tools/Faqs/faq.php?id=9&t=5\">Energy Information Administration</a>, on-highway diesel prices have been higher than regular gasoline prices almost continuously since September of that year.</p> <p>That shift is clearly visible in the historical data I examined in <a href=\"https://www.forbes.com/sites/rrapier/2023/11/28/why-diesel-usually-costs-more-than-gasoline/\">my 2023 article</a> on the subject. <strong>In the decade before 2005, gasoline generally traded at a small premium to diesel.</strong> After that, the relationship reversed, and diesel became the more expensive fuel in most years. The timing is important because it coincided with a major change in the way U.S. refiners had to produce highway diesel.</p> <h2>Ultra-Low-Sulfur Diesel Changed The Economics</h2> <p>Beginning in the mid-2000s, U.S. refiners had to dramatically reduce the sulfur content of highway diesel. That was an important environmental improvement because sulfur emissions contribute to air pollution and acid rain, but it also made diesel more expensive to produce. Refineries invested billions of dollars in new hydrotreating and sulfur-removal equipment, and those investments increased capital and operating costs and made compliant diesel more expensive to produce and distribute.</p> <p>My earlier article focused heavily on this transition because the timing lines up closely with the point at which diesel's historical discount disappeared. <strong><a href=\"https://www.eia.gov/energyexplained/diesel-fuel/prices-and-outlook.php\">EIA now describes</a> the persistent diesel premium as the result of several factors working together, including strong global demand for diesel and other distillates, the higher cost of producing low-sulfur diesel, and federal taxes that are six cents per gallon higher on diesel than on gasoline.</strong></p> <p>None of those factors explains every short-term price movement, but together they created a structural premium that had not existed to the same degree before 2004. Once diesel became more expensive to produce and more tightly linked to global distillate markets, the old relationship with gasoline never really returned.</p> <h2>Diesel Became A Global Commodity</h2> <p><strong>Another important change has been the globalization of the diesel market.</strong> Gasoline is also traded internationally, but diesel and other middle distillates occupy an especially important role in the global economy because they power trucking, agriculture, construction, mining, shipping, industrial equipment, and heating systems. <a href=\"https://www.eia.gov/tools/faqs/faq.php?id=9&t=4\">Strong demand</a> in Europe, China, India, and the United States has kept pressure on global distillate balances for years.</p> <p>That means U.S. diesel prices are increasingly influenced by events far beyond U.S. borders. Even when domestic production is strong, refiners can export diesel into higher-priced international markets, tying domestic prices more closely to global supply and demand. This is one reason it is misleading to look only at U.S. crude oil production and assume that abundant domestic oil should automatically translate into cheap diesel.</p> <p><strong>The United States can produce plenty of crude while still facing tight supplies of refined products.</strong> Crude oil has to be processed in the right refineries, into the right products, and then moved through the right transportation system. Those constraints matter just as much as the amount of oil coming out of the ground.</p> <h2>2022 Showed How Quickly The Premium Can Explode</h2> <p>The most dramatic recent example came in 2022, when Russia's invasion of Ukraine disrupted global energy markets. Diesel was hit particularly hard. Russia was a major supplier of crude oil, refined products, and feedstocks to Europe and other markets, so sanctions and trade restrictions forced a rapid reshuffling of global flows. Gasoline prices rose sharply as well, but diesel supplies tightened even more, pushing the diesel premium to record levels.</p> <p>In my earlier article, I noted that the gasoline-diesel spread reached a record in 2022. At the time, the disruption from Russia explained why a structural premium suddenly became an extreme one. The market eventually adjusted as trade routes shifted, refinery operations stabilized, and inventories recovered, but that normalization did not last.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_10-13-24.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_10-13-24.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"395adf28-875f-40a1-8f5f-69cee72f27d8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-14_10-13-24.jpg\" /></a></p> <h2>Why The Gap Is So Large Again In 2026</h2> <p>The current situation resembles 2022 in one important respect: global diesel supply has again been disrupted more severely than gasoline supply. <a href=\"https://www.eia.gov/todayinenergy/detail.php?id=68164\">EIA recently reported</a> that global distillate supplies are tight because of reduced refining activity in Russia, China, and the Middle East. <strong>At the same time, U.S. refiners have been running near maximum utilization, with domestic distillate production averaging about 5.1 million barrels per day through August, the highest level since 2019.</strong></p> <p>That point is worth emphasizing because it shows that the current problem is not simply a collapse in U.S. refinery output. American refiners are producing large volumes of diesel, but global demand for those barrels has increased at the same time that supplies elsewhere have fallen. As exports increased, U.S. inventories declined, and by mid-September distillate inventories were about 13% below the five-year seasonal average even though summer is normally a period when inventories build ahead of winter.</p> <p>Since then, the global situation has become even tighter. <a href=\"https://www.reuters.com/business/energy/putin-says-russia-wont-supply-diesel-global-markets-until-sanctions-are-lifted-2026-10-01/\">Russia has restricted</a> diesel exports as refinery infrastructure has been damaged, <a href=\"https://www.reuters.com/business/energy/view-chinese-refiners-suspend-october-fuel-exports-sources-say-2026-10-01/\">China has curtailed fuel exports</a> to protect domestic supplies, and Middle Eastern refining and shipping have been disrupted by the conflict involving Iran. Tanker costs and insurance rates have also risen, making it more expensive to move refined products around the world.</p> <p><strong>The result is a global scramble for middle distillates.</strong> Both gasoline and diesel are affected by higher crude prices, but diesel is being squeezed more severely because the product itself is in shorter supply relative to demand. That is why the diesel-gasoline spread has widened so dramatically.</p> <h2>The Price Gap Is Now Extraordinary</h2> <p><strong>As of October 5, the national average price of on-highway diesel was $6.199 per gallon, compared with $4.354 for regular gasoline - a spread of about $1.85 per gallon.</strong> Diesel reached a nominal record of $6.29 per gallon in September, according to EIA, and remained above $6 nationally in early October.</p> <p>That gap is not primarily the result of a sudden increase in diesel taxes or some new change in fuel specifications. Those structural factors help explain why diesel usually costs more than gasoline, but they do not explain why the premium is so large today. The current premium reflects a very tight global distillate market layered on top of the long-term changes that already made diesel the more expensive fuel.</p> <p>That distinction is important because it separates the underlying reason diesel normally carries a premium from the temporary forces that can cause that premium to explode.</p> <h2>Refining Margins Are A Consequence, Not A Cause</h2> <p><strong>Refining margins have risen sharply, and major refiners are benefiting from the tight market.</strong> But those high margins are a consequence of constrained diesel supply relative to demand rather than the original cause of the shortage.</p> <p>When refinery capacity is disrupted, exports are curtailed, and inventories fall, the value of the remaining barrels rises. Refiners that can continue producing diesel benefit from that scarcity, but the scarcity comes first. This distinction is important because high margins are sometimes cited as evidence that refiners decided to raise prices, when in reality the margin expansion is largely the market's response to a shortage of refined product.</p> <h2>Diesel Is A Different Market Than Gasoline</h2> <p><strong>The broader lesson is that gasoline and diesel may come from the same barrel of crude oil, but they are not interchangeable products.</strong> They serve different markets, have different seasonal demand patterns, require different processing, and face different global supply pressures. A refinery cannot simply turn every barrel of crude into whichever product happens to be most expensive that day because refinery configuration, crude quality, product specifications, and physical operating limits all constrain what can be produced.</p> <p>That is why abundant crude oil does not guarantee cheap diesel. The United States can produce record amounts of oil, run refineries near capacity, and still face expensive diesel if global product markets remain tight.</p> <p>Twenty years ago, gasoline was often the more expensive fuel. Then diesel moved to a structural premium, and today that premium has widened dramatically because the global market for diesel and other middle distillates is again under severe strain. Until those supply constraints ease, diesel is likely to remain much more expensive than gasoline.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T10:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 06:30</span>",
-    "link": "https://www.zerohedge.com/energy/why-diesel-prices-are-so-much-higher-gasoline",
-    "pubDate": "Thu, 15 Oct 2026 10:30:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "\"De-Risk As Fast As Possible\": EU Eyes Vietnam For Critical Materials To Cut Alarming China Dependence",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"De-Risk As Fast As Possible\": EU Eyes Vietnam For Critical Materials To Cut Alarming China Dependence</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Brussels appears increasingly aligned with the Trump administration's view</strong> that securing reliable, conflict-free supplies of critical materials is important for the incoming rearmament supercycle. Continued reliance on China exposes Western defense manufacturers to export restrictions that have already disrupted supply chains and could delay deliveries. </p> <p><a href=\"https://www.reuters.com/world/china/eu-seeks-closer-vietnam-ties-critical-minerals-china-hedge-documents-show-2026-10-14/\">Reuters</a> cites internal EU documents dated June 2026 that identified <strong>Vietnam as a potential source of critical materials outside China.</strong></p> <p>\"<strong>Considering Europe's need to rearm and de-risk as fast as possible</strong>, the EU cannot afford ignoring Vietnam as a potential supplier of critical raw materials considering its abundant reserves in <strong>rare earth and tungsten</strong> in particular,\" the document stated which was prepared by the EU delegation in Hanoi.</p> <p>The push comes as <strong>Chinese export restrictions collide with the West's rearmament supercycle next year</strong>, exposing alarming vulnerabilities in the supply chains needed to manufacture missiles, ammunition, armored vehicles, one-way attack drones, <a href=\"https://www.zerohedge.com/commodities/west-has-one-answer-chinas-tungsten-stranglehold-collides-historic-rearmament-cycle\">interceptors</a>, sensors, and other military equipment.</p> <p>The West is quickly learning that bigger and bigger defense budgets alone cannot solve the critical material shortage and there is high urgency in securing alternative supply chains.</p> <p><strong>Vietnam holds substantial deposits of tungsten</strong>, rare earths, and other critical minerals, but its exports to Europe have largely been limited to tungsten and antimony, both of which are used to manufacture weapons.</p> <p>The document noted that China's restrictions on critical material exports last year <strong>disrupted European supply chains</strong>, strengthening the case for exploring alternative sources.</p> <p>It called for <strong>stronger relations with Vietnam to \"add an alternative to China</strong>,\" especially after Beijing's export restrictions last year \"disrupted European supply chains.\"</p> <p>\"The European Commission is currently assessing the <strong>potential for concrete cooperation with Vietnam in the critical raw materials sector</strong>,\" a spokesperson for the EU executive arm told the outlet.</p> <p>Adrien Rabier, Bernstein's equity analyst covering European aerospace and defense, <a href=\"https://www.zerohedge.com/military/bernstein-puts-timeline-when-eu-rearmament-supercycle-order-goes-boom\">outlined</a> to clients last month that <strong>Europe's rearmament supercycle will begin next year and extend through the end of the decade. </strong></p> <p>Our reporting has pointed out that the next phase of the <a href=\"https://www.zerohedge.com/ai/ubs-identifies-next-leg-ai-trade\">critical materials trade</a> will <strong>favor miners already producing and delivering these materials to Western markets</strong>. </p> <p>This comes as <a href=\"https://www.zerohedge.com/commodities/resource-nationalism-hits-tungsten-us-locks-down-scrap-uk-funds-mine-zimbabwe-bans\">resource nationalism intensifies</a> across critical minerals, metals, energy, adding to uncertainty as the world heads into a potentially volatile winter.</p> <p>The VanEck Rare Earth and Strategic Metals ETF (REMX), which tracks global companies that produce, refine, and recycle critical minerals, peaked in May and lost nearly half its value by early fall.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2e208d51.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2e208d51.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"25937766-b1fd-4bd5-b1ec-56a4d27036d6\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_2e208d51.png\" /></a></p> <p>REMX's decline appears to be a <strong>retracement of the rally in 2025 and early 2026</strong> that followed China's export restrictions. <strong>Once the space bottoms</strong>, traders will likely <a href=\"https://www.zerohedge.com/markets/goldman-puts-almonty-center-western-tungsten-race\">focus on miners </a><span style=\"box-sizing: border-box; margin: 0px; padding: 0px;\"><a href=\"https://www.zerohedge.com/markets/goldman-puts-almonty-center-western-tungsten-race\" target=\"_blank\">that can</a></span> reliably deliver conflict-free materials to the West. These materials are critical not only to the rearmament cycle but also to AI data centers, reindustrialization, electrification, and the broader modern economy.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-15T09:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/15/2026 - 05:45</span>",
-    "link": "https://www.zerohedge.com/commodities/de-risk-fast-possible-eu-eyes-vietnam-critical-materials-cut-alarming-china-dependence",
-    "pubDate": "Thu, 15 Oct 2026 09:45:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Big Tech Will Spend $745 Billion on AI This Year. These Stocks Get Paid on Every Dollar.",
-    "desc": "Key PointsAmazon, Alphabet, Microsoft, and Meta are continuing to spend more every year to expand compute capacity.",
-    "link": "https://www.nasdaq.com/articles/big-tech-will-spend-745-billion-ai-year-these-stocks-get-paid-every-dollar",
-    "pubDate": "Thu, 15 Oct 2026 11:30:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "SpaceX Is on the Verge of Making Dubious History Yet Again, and Retail Investors May Pay the Price",
-    "desc": "Key PointsElon Musk&rsquo;s Space Exploration Technologies etched its name in Wall Street&rsquo;s record books with its June 12 initial public offering (IPO).",
-    "link": "https://www.nasdaq.com/articles/spacex-verge-making-dubious-history-yet-again-and-retail-investors-may-pay-price",
-    "pubDate": "Thu, 15 Oct 2026 11:26:01 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Kimberly-Clark Confirms FY26 Outlook",
-    "desc": "(RTTNews) - Kimberly-Clark Corp. (KMB), a consumer products company, said Thursday that its 2026 outlook remains unchanged from previous expectations.",
-    "link": "https://www.nasdaq.com/articles/kimberly-clark-confirms-fy26-outlook",
-    "pubDate": "Thu, 15 Oct 2026 11:23:48 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Broadcom vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsBroadcom maintains deep enterprise roots through custom silicon and strategic software acquisitions.",
-    "link": "https://www.nasdaq.com/articles/broadcom-vs-sk-hynix-which-technology-stock-better-buy-2026-0",
-    "pubDate": "Thu, 15 Oct 2026 11:20:02 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "First Horizon Corp. Turns To Loss In Q3",
-    "desc": "(RTTNews) - Thursday, First Horizon Corp. (FHN) announced its financial results for the third quarter, reporting a net loss of $94 million, or $0.20 per share, compared with a net income of $254 million, or $0.50 per share, last year.",
-    "link": "https://www.nasdaq.com/articles/first-horizon-corp-turns-loss-q3",
-    "pubDate": "Thu, 15 Oct 2026 11:17:57 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "As AI Makes Software Cheaper to Build, Data and Distribution Become the Moat",
-    "desc": "Key PointsPalantir's ontology, CrowdStrike's security telemetry, and ServiceNow's workflow footprint would all be genuinely hard for a competitor to replicate.",
-    "link": "https://www.nasdaq.com/articles/ai-makes-software-cheaper-build-data-and-distribution-become-moat",
-    "pubDate": "Thu, 15 Oct 2026 11:15:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Marsh & McLennan Companies Inc Q3 Profit Advances",
-    "desc": "(RTTNews) - Marsh & McLennan Companies Inc (MMC) released earnings for its third quarter that Increases, from the same period last year",
-    "link": "https://www.nasdaq.com/articles/marsh-mclennan-companies-inc-q3-profit-advances",
-    "pubDate": "Thu, 15 Oct 2026 11:07:06 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "SCHD vs. VYM: Which High-Yield ETF Should You Own?",
-    "desc": "Key PointsThe Schwab U.S. Dividend Equity ETF (SCHD) looks for elements of balance sheet strength, yield, and dividend growth in its stock selection process.",
-    "link": "https://www.nasdaq.com/articles/schd-vs-vym-which-high-yield-etf-should-you-own",
-    "pubDate": "Thu, 15 Oct 2026 11:05:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "PNC Financial Services Q3 Net Income Rises",
-    "desc": "(RTTNews) - The PNC Financial Services Group, Inc. (PNC) reported that its third quarter net income attributable to diluted common shareholders increased to $1.99 billion from $1.72 billion, prior year. Earnings per share increased to $4.97 from $4.35, a year ago. Adjusted net in",
-    "link": "https://www.nasdaq.com/articles/pnc-financial-services-q3-net-income-rises",
-    "pubDate": "Thu, 15 Oct 2026 10:54:42 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "US Bancorp Q3 Income Advances",
-    "desc": "(RTTNews) - US Bancorp (USB) announced a profit for its third quarter that Increased, from the same period last year",
-    "link": "https://www.nasdaq.com/articles/us-bancorp-q3-income-advances",
-    "pubDate": "Thu, 15 Oct 2026 10:54:25 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "BNY Earnings Up In Q3",
-    "desc": "(RTTNews) - The Bank of New York Mellon Corp. (BNY) reported on Thursday higher net income in the third quarter compared with the previous year.",
-    "link": "https://www.nasdaq.com/articles/bny-earnings-q3",
-    "pubDate": "Thu, 15 Oct 2026 10:53:28 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Venture Global Outlines Power Expansion Agreements, Pre-market Shares Up",
-    "desc": "(RTTNews) - Energy company Venture Global, Inc. (VG) announced on Thursday that it has signed new agreements with GE Vernova Inc. (GEV) and Baker Hughes Energy Services to support expansion of its existing grid-independent industrial power network.",
-    "link": "https://www.nasdaq.com/articles/venture-global-outlines-power-expansion-agreements-pre-market-shares",
-    "pubDate": "Thu, 15 Oct 2026 10:53:18 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Is PayPal Stock a Buy at Less Than 10 Times Next Year's Earnings Guidance?",
-    "desc": "Key PointsShares have underperformed since 2021, largely due to the rise and proliferation of alternative payment platforms.",
-    "link": "https://www.nasdaq.com/articles/paypal-stock-buy-less-10-times-next-years-earnings-guidance",
-    "pubDate": "Thu, 15 Oct 2026 10:50:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Commercial Metals Company Reports Rise In Q4 Bottom Line",
-    "desc": "(RTTNews) - Commercial Metals Company (CMC) reported earnings for its fourth quarter that Increases, from the same period last year",
-    "link": "https://www.nasdaq.com/articles/commercial-metals-company-reports-rise-q4-bottom-line",
-    "pubDate": "Thu, 15 Oct 2026 10:48:09 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Startup Abby Care raises $82 million to turn family members into paid caregivers",
-    "desc": "Transformation Capital and CVS Health Ventures join the novel bet on filling the caretaking gap.",
-    "link": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
-    "pubDate": "Thu, 15 Oct 2026 11:45:58 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Current price of oil as of October 15, 2026",
-    "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-    "link": "https://fortune.com/article/price-of-oil-10-15-2026/",
-    "pubDate": "Thu, 15 Oct 2026 11:30:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Pantera Capital-backed startup Fission raises $10 million to help investors cash out of tokenized funds faster",
-    "desc": "Founded by Point72 and Securitize veterans, Fission targets the buyers missing from Wall Street’s tokenization boom.",
-    "link": "https://fortune.com/2026/10/15/pantera-capital-backed-startup-fission-10-million-investors-tokenized-funds-liquidity/",
-    "pubDate": "Thu, 15 Oct 2026 11:00:00 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Global wave of selling as traders flee tech stocks—and futures are signaling the bloodbath will continue today",
-    "desc": "Everything you need to know before you reach the office this morning.",
-    "link": "https://fortune.com/2026/10/15/wall-street-us-economy-vulnerable-stocks/",
-    "pubDate": "Thu, 15 Oct 2026 10:23:11 +0000",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "AI credit jitters drive US tech default insurance to record highs",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-sharply-4950549",
-    "pubDate": "2026-10-15 11:49:21",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "CoreWeave shares, bonds slide further as AI debt fears mount",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount-4951350",
-    "pubDate": "2026-10-15 11:48:58",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is FMC stock collapsing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-fmc-stock-collapsing-today-93CH-4951432",
-    "pubDate": "2026-10-15 11:48:30",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Kimberly-Clark stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-kimberlyclark-stock-surging-today-93CH-4951430",
-    "pubDate": "2026-10-15 11:48:18",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is ManpowerGroup stock tumbling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-manpowergroup-stock-tumbling-today-93CH-4951428",
-    "pubDate": "2026-10-15 11:47:49",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Scisparc stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-scisparc-stock-surging-today-93CH-4951427",
-    "pubDate": "2026-10-15 11:46:43",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Key Bitcoin support levels and dip buying zones to watch as BTC falls to $81k",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/key-bitcoin-support-levels-and-dip-buying-zones-to-watch-as-btc-falls-to-81k-93CH-4951426",
-    "pubDate": "2026-10-15 11:45:29",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Premarket movers: Chip stocks slide as inflation fears hit AI trade",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/premarket-movers-chip-stocks-slide-as-inflation-fears-hit-ai-trade-4951419",
-    "pubDate": "2026-10-15 11:44:41",
-    "fetchedAt": "2026-10-15T12:01:32.413Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-    "desc": "The U.S. military has reportedly drawn up options for strikes on Iran that include the potential use of one of the biggest non-nuclear bombs in its arsenal.",
-    "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-    "pubDate": "Thu, 15 Oct 2026 10:44:57 GMT",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
-    "desc": "France is able to slash its huge budget deficit troubling investors across the globe, according to the head of the country's central bank.",
-    "link": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-    "pubDate": "Thu, 15 Oct 2026 10:05:53 GMT",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "EU leaders kick off summit with wrangles over high energy prices and spending",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
-    "pubDate": "2026-10-15 10:55:14",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Prince Harry and wife Meghan make first joint appearance since UK return",
-    "desc": "",
-    "link": "https://www.investing.com/news/world-news/prince-harry-and-wife-meghan-make-first-joint-appearance-since-uk-return-4951099",
-    "pubDate": "2026-10-15 10:54:59",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "China’s ByteDance sets up AI safety team, launches global hiring drive",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/chinas-bytedance-sets-up-ai-safety-team-launches-global-hiring-drive-4951164",
-    "pubDate": "2026-10-15 10:54:44",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Factbox-Tech leaders, Wall Street CEOs, governments split over ’AI doom’ fears",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/factboxtech-leaders-governments-split-over-ai-doom-fears-4949457",
-    "pubDate": "2026-10-15 10:54:28",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Walmart stock: Deutsche Bank gets bullish amid pricing tailwinds",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/walmart-stock-deutsche-bank-gets-bullish-amid-pricing-tailwinds-4951163",
-    "pubDate": "2026-10-15 10:53:47",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "BofA Securities resumes PayPal stock coverage with underperform rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bofa-securities-resumes-paypal-stock-coverage-with-underperform-rating-93CH-4951162",
-    "pubDate": "2026-10-15 10:52:57",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Garanti BBVA redeems EUR 20 million MTN debt instrument",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/garanti-bbva-redeems-eur-20-million-mtn-debt-instrument-93CH-4951161",
-    "pubDate": "2026-10-15 10:52:41",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kolibri Global Energy reports production update on Oklahoma wells",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/kolibri-global-energy-reports-production-update-on-oklahoma-wells-93CH-4951159",
-    "pubDate": "2026-10-15 10:52:39",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Penske Automotive raises quarterly dividend by 1.4%",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/penske-automotive-raises-quarterly-dividend-by-14-93CH-4951158",
-    "pubDate": "2026-10-15 10:52:36",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "investing",
-    "title": "Aegon completes share class exchange with largest shareholder",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/aegon-completes-share-class-exchange-with-largest-shareholder-93CH-4951157",
-    "pubDate": "2026-10-15 10:52:35",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "TSMC&#x2019;s CEO sees no sign of a slowdown as chip foundry reports record profit",
-    "desc": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
-    "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
-    "pubDate": "Thu, 15 Oct 2026 08:42:00 GMT",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Penske Automotive raises dividend to $1.46/share",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653306-penske-automotive-raises-dividend-to-146share?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:54:45 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "AstraZeneca inks AI drug discovery deal worth up to $1.5B with insitro",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653293-astrazeneca-inks-ai-drug-discovery-deal-with-insitro?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:53:57 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Beyond Meat adds energy drinks to its new product mix",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653298-beyond-meat-adds-energy-drinks-to-its-new-product-mix?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:50:14 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Commercial Metals Non-GAAP EPS of $2.09 beats by $0.13, revenue of $2.66B beats by $90M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653304-commercial-metals-non-gaap-eps-of-209-beats-by-013-revenue-of-266b-beats-by-90m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:50:05 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "U.S. Bancorp GAAP EPS of $1.34 beats by $0.02, revenue of $7.97B misses by $40M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653302-us-bancorp-gaap-eps-of-134-beats-by-002-revenue-of-797b-misses-by-40m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:48:12 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CoreWeave extends slide as bond yields, Gartner warning stoke funding worries",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653279-coreweave-extends-slide-as-bond-yields-gartner-warning-stoke-funding-worries?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:46:09 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "The Bank of New York Mellon Corporation NON CUM PFD SE K declares $0.3844 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4653301-the-bank-of-new-york-mellon-corporation-non-cum-pfd-se-k-declares-03844-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 15 Oct 2026 06:43:34 -0400",
-    "fetchedAt": "2026-10-15T11:01:34.480Z"
   }
 ]
