@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-16T13:01:55.252Z",
-  "fetched": 2,
-  "failed": 12,
-  "newItems": 9,
+  "lastRun": "2026-10-16T14:01:37.548Z",
+  "fetched": 4,
+  "failed": 10,
+  "newItems": 23,
   "total": 800,
   "sources": [
     {
@@ -28,16 +28,14 @@
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 0
     },
     {
       "id": "guardian",
       "name": "The Guardian",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 4
     },
     {
       "id": "ft",
@@ -85,7 +83,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 4
+      "added": 14
     },
     {
       "id": "fortune",
