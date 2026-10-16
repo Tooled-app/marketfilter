@@ -1,15 +1,15 @@
 {
-  "lastRun": "2026-10-16T21:01:45.134Z",
-  "fetched": 4,
-  "failed": 10,
-  "newItems": 34,
+  "lastRun": "2026-10-16T22:01:37.656Z",
+  "fetched": 2,
+  "failed": 12,
+  "newItems": 9,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 1
+      "added": 0
     },
     {
       "id": "bbc",
@@ -21,14 +21,16 @@
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 9
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 10,
-      "added": 9
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "guardian",
@@ -83,7 +85,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 15
+      "added": 9
     },
     {
       "id": "fortune",
