@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-17T09:11:23.376Z",
+  "lastRun": "2026-10-17T09:20:19.399Z",
   "fetched": 1,
   "failed": 13,
   "newItems": 0,
@@ -8,8 +8,9 @@
     {
       "id": "cnbc",
       "name": "CNBC",
-      "items": 30,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "bbc",
@@ -49,9 +50,8 @@
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 7,
+      "added": 0
     },
     {
       "id": "benzinga",
