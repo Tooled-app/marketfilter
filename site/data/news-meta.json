@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-17T09:03:21.819Z",
-  "fetched": 1,
-  "failed": 13,
-  "newItems": 0,
+  "lastRun": "2026-10-17T09:06:28.735Z",
+  "fetched": 3,
+  "failed": 11,
+  "newItems": 3,
   "total": 800,
   "sources": [
     {
@@ -57,23 +57,20 @@
     {
       "id": "benzinga",
       "name": "Benzinga",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 0
     },
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 20,
+      "added": 3
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 25,
+      "added": 0
     },
     {
       "id": "wsj",
@@ -85,8 +82,9 @@
     {
       "id": "nasdaq",
       "name": "Nasdaq",
-      "items": 15,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "fortune",
