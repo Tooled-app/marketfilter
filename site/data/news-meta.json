@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-17T04:03:53.203Z",
-  "fetched": 1,
-  "failed": 13,
-  "newItems": 0,
+  "lastRun": "2026-10-17T04:06:30.016Z",
+  "fetched": 2,
+  "failed": 12,
+  "newItems": 2,
   "total": 800,
   "sources": [
     {
@@ -84,9 +84,8 @@
     {
       "id": "nasdaq",
       "name": "Nasdaq",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 15,
+      "added": 2
     },
     {
       "id": "fortune",
