@@ -1,21 +1,22 @@
 {
-  "lastRun": "2026-10-17T14:20:38.156Z",
-  "fetched": 3,
-  "failed": 11,
-  "newItems": 1,
+  "lastRun": "2026-10-17T15:01:47.303Z",
+  "fetched": 2,
+  "failed": 12,
+  "newItems": 16,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
       "items": 30,
-      "added": 0
+      "added": 1
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 49,
-      "added": 1
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investing",
@@ -84,7 +85,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 0
+      "added": 15
     },
     {
       "id": "fortune",
