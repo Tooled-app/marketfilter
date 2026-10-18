@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-18T03:06:12.868Z",
+  "lastRun": "2026-10-18T04:03:04.230Z",
   "fetched": 14,
   "failed": 0,
-  "newItems": 3,
+  "newItems": 10,
   "total": 800,
   "sources": [
     {
@@ -15,13 +15,13 @@
       "id": "bbc",
       "name": "BBC Business",
       "items": 49,
-      "added": 3
+      "added": 2
     },
     {
       "id": "investing",
       "name": "Investing.com",
       "items": 10,
-      "added": 0
+      "added": 2
     },
     {
       "id": "marketwatch",
@@ -63,7 +63,7 @@
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 0
+      "added": 3
     },
     {
       "id": "wsj",
@@ -75,7 +75,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 0
+      "added": 3
     },
     {
       "id": "fortune",
