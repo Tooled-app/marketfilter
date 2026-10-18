@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-10-18T09:01:52.944Z",
-  "fetched": 3,
-  "failed": 11,
-  "newItems": 5,
+  "lastRun": "2026-10-18T10:02:00.350Z",
+  "fetched": 2,
+  "failed": 12,
+  "newItems": 0,
   "total": 800,
   "sources": [
     {
@@ -85,7 +85,7 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 5
+      "added": 0
     },
     {
       "id": "fortune",
@@ -97,8 +97,9 @@
     {
       "id": "investingeuro",
       "name": "Investing Europe",
-      "items": 10,
-      "added": 0
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     }
   ]
 }
