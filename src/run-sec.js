@@ -21,8 +21,22 @@ try {
   if (!st.trim()) { console.log('Nothing to commit — data unchanged.'); process.exit(0); }
   execSync(`git commit -m ${JSON.stringify(msg)}`, { cwd: ROOT, stdio: 'inherit' });
   execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
-  console.log('PUSHED OK — Vercel auto-deploy triggered.');
+  console.log('PUSHED OK - Vercel auto-deploy triggered.');
 } catch (e) {
+  // Nothing-to-commit races (staged tree identical to HEAD) are NOT failures:
+  // push an empty commit so Vercel still redeploys current data, exit 0.
+  if (/nothing to commit|no changes added/i.test(String(e.message))) {
+    console.log('Nothing to commit - pushing empty commit to trigger Vercel.');
+    try {
+      execSync('git commit --allow-empty -m "chore: SEC filings no-change refresh"', { cwd: ROOT, stdio: 'inherit' });
+      execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
+      console.log('PUSHED OK (empty) - Vercel auto-deploy triggered.');
+      process.exit(0);
+    } catch (e2) {
+      console.error('FAILED pushing empty commit:', e2.message);
+      process.exit(1);
+    }
+  }
   console.error('FAILED:', e.message);
   process.exit(1);
 }
