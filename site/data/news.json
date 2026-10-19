@@ -1,6 +1,566 @@
 [
   {
     "source": "cnbc",
+    "title": "OpenAI bugging suspect Alfozan ordered held without bail",
+    "desc": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "pubDate": "Mon, 19 Oct 2026 19:50:48 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+    "desc": "President Donald Trump said he would meet with Russian President Vladimir Putin and Chinese President Xi Jinping and criticized Ukraine's Volodymyr Zelenskyy.",
+    "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+    "pubDate": "Mon, 19 Oct 2026 19:58:17 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+    "desc": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+    "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+    "pubDate": "Mon, 19 Oct 2026 04:36:39 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+    "desc": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
+    "link": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
+    "pubDate": "Mon, 19 Oct 2026 03:00:33 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "bbc",
+    "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "desc": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
+    "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 14 Oct 2026 23:01:28 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "France imposes curfews in parts of Paris, other cities after weekend of riots",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
+    "pubDate": "2026-10-19 19:49:24",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
+    "pubDate": "2026-10-19 19:48:45",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "LiveRamp stock rises as FTC clears Publicis acquisition",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/liveramp-stock-rises-as-ftc-clears-publicis-acquisition-4958192",
+    "pubDate": "2026-10-19 19:48:07",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Oil prices pare losses after more Houthi attacks on Saudi energy infrastructure",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
+    "pubDate": "2026-10-19 19:48:02",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Array Digital Infrastructure stock hits 52-week low at 32.68 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/array-digital-infrastructure-stock-hits-52week-low-at-3268-usd-93CH-4958187",
+    "pubDate": "2026-10-19 19:43:07",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Exclusive-Trump approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/exclusivetrump-approval-falls-to-record-low-of-31-as-midterms-near-reutersipsos-poll-finds-4958185",
+    "pubDate": "2026-10-19 19:42:32",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/indonesia-faces-rare-msci-exclusion-that-could-cut-it-off-from-global-capital-4956189",
+    "pubDate": "2026-10-19 19:36:28",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Nscale in talks for $45 billion Anthropic AI deal as IPO looms",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181",
+    "pubDate": "2026-10-19 19:32:25",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Match Group stock hits 52-week high at 44.95 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/match-group-stock-hits-52week-high-at-4495-usd-93CH-4958184",
+    "pubDate": "2026-10-19 19:32:19",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investing",
+    "title": "Netflix earnings outlook: tone and guidance matter more than the beat",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/netflix-earnings-outlook-tone-and-guidance-matter-more-than-the-beat-93CH-4958182",
+    "pubDate": "2026-10-19 19:31:24",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "SpaceX earnings will be all about AI &#x2014; for better or for worse",
+    "desc": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
+    "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+    "pubDate": "Mon, 19 Oct 2026 19:47:00 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Why the Treasury&#x2019;s financing plans are sparking anxiety on Wall Street",
+    "desc": "Yields on 10-year and 30-year bonds were rising again Monday after falling sharply last week.",
+    "link": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+    "pubDate": "Mon, 19 Oct 2026 19:45:00 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
+    "desc": "Gifts of stock can help with public relations and offer financial advantages to wealthy individuals.",
+    "link": "https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories",
+    "pubDate": "Mon, 19 Oct 2026 19:30:00 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "CoreWeave&#x2019;s selloff is a lesson in &#x2018;Finance 101&#x2019; &#x2014; and Wall Street says the stock can recover",
+    "desc": "Analysts argue CoreWeave&#x2019;s underlying economics are far sturdier than nervous debt and equity investors realize.",
+    "link": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+    "pubDate": "Mon, 19 Oct 2026 19:17:00 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+    "desc": "<p>Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business</p><p>Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of Britain’s leading business groups has said.</p><p>Shevaun Haviland, the director general of the British Chambers of Commerce (BCC), said she welcomed the prime minister <a href=\"https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu\">reopening the Brexit battle lines</a> despite the uncertainty it could create, arguing that the UK’s current trading relationship with the EU was bad for business.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+    "pubDate": "Fri, 16 Oct 2026 05:00:51 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "guardian",
+    "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
+    "desc": "<p>Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all</p><p>The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little patience for dogma when in insufferable pain.</p><p>John Maynard Keynes, Weber clarifies in the canteen of the <em>Wissenschaftskolleg zu Berlin</em> (Berlin’s Institute for Advanced Study), was the first to draw this dental comparison – and she is running with it. As she sees it, the symptoms could not be more severe. “The status quo for the majority is entirely unbearable,” while extreme inequality and corporate concentration has reached levels “simply incompatible with democracy” worldwide. This is exacerbated by a climate crisis that “generates massive windfall profits” for big business as the “ecological foundations of our lives disintegrate”. All the while the far right is making hay.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+    "pubDate": "Fri, 16 Oct 2026 04:00:50 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Wall Street drops after jump in US producer inflation; John Healey says UK banks are part of ‘jewel in the crown’ – as it happened",
+    "desc": "<p>John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the “jewel” in the UK’s economic crown</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">John Healey vows to give ‘breathing space’ to consumers and businesses in first budget</a></p></li></ul><p><br></p><p><strong><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates?page=with%3Ablock-6ad06bda8f087455c311c170#block-6ad06bda8f087455c311c170\">Today’s better-than-forecast UK growth report</a> is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok.</strong></p><p>But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November….</p><p>“While August’s unexpected uptick all but confirms that the OBR will raise its growth forecast for this year from 1.1% to 1.4%, the Chancellor still faces a major Budget headache, as elevated borrowing costs eat into fiscal headroom and increase pressure for tax rises.</p><p>“These unexpectedly upbeat figures will further embolden hawkish sentiment among policymakers by reinforcing the view that the economy is strong enough to withstand a rate rise, making a November hike look highly likely.”</p><p>“The latest GDP figures are encouraging, with the economy growing by 0.7% in the three months to August, its strongest growth rate since May. On its current trajectory, the UK is likely to record growth comfortably above 1% this year, which would probably be enough to make it the second-fastest-growing economy in the G7.</p><p>“The UK’s growth performance has been a bright spot amid a less impressive run of economic news following events in the Middle East. Business investment has been an important driver, particularly spending on ICT hardware, likely linked to the build-out of AI infrastructure. The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+    "pubDate": "Thu, 15 Oct 2026 14:59:52 GMT",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Eos Energy slips following preliminary Q3 results; full-year revenue seen in lower half of guidance",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654366-eos-energy-slips-following-preliminary-q3-results-full-year-revenue-seen-in-lower-half-of?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:59:30 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Telesat lenders propose C$2.3B rescue deal - WSJ",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654368-telesat-lenders-propose-c-2_3b-rescue-deal-wsj?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:56:05 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Yield stabilization could extend equity rally into year-end - JPMorgan",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654363-yield-stabilization-could-extend-equity-rally-into-year-end-jpmorgan?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:50:51 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Nvidia runs fault-tolerant quantum sim on Europe's biggest supercomputer",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654354-nvidia-runs-fault-tolerant-quantum-sim-on-europes-biggest-supercomputer?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:50:39 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Microsoft faces higher bar for continued momentum, Morgan Stanley says",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654357-microsoft-faces-higher-bar-for-continued-momentum-morgan-stanley-says?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:50:30 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Subaru plans to introduce software-defined vehicles in the next few years",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654361-subaru-plans-to-introduce-software-defined-vehicles-in-the-next-few-years?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:49:09 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "CMS Energy declares $0.57 dividend",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654367-cms-energy-declares-0_57-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Mon, 19 Oct 2026 15:45:55 -0400",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Technology, Consumer Discretionary Lift US Equity Indexes While Treasury Yields Climb",
+    "desc": "(Updates with index/price moves from the first paragraph.) US equity indexes rose amid gains in c",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/technology-consumer-discretionary-lift-us-195156040.html?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 19:51:56 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Nasdaq Hits Resistance As Oil Jumps; CoreWeave Falls But Steel Plays Pop (Live Coverage)",
+    "desc": "The Dow Jones index is steady as techs jump on stock market today. Amazon and Nvidia climb while a biotech stock tests a buy point.",
+    "link": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 19:49:44 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Buying dip in tech market, Anthropic's \"Public Benefit\" fund, and Musk's SpaceX pledge",
+    "desc": "Market Hang's panel discusses all things AI, including how and when to buy a dip in the market, Anthropic's (ANTH.PVT) \"Public Benefit\" fund, and even the dating landscape. Plus, the panel's take on Elon Musk's pledge of SpaceX (SPCX) stock to American children. Today's Market Hang panel consists of The Wall Street Skinny Co-Founder Jen Saarbach,The Wall Street Skinny Co-Founder Kristen Kelly, Siebert Financial CIO Mark Malek, Epistrophy Capital Research Chief Market Strategist & The Drill Down Podcast Host Cory Johnson, and Yahoo Finance's Julie Hyman.",
+    "link": "https://finance.yahoo.com/video/buying-dip-in-tech-market-anthropics-public-benefit-fund-and-musks-spacex-pledge-174544378.html?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 17:45:44 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Softer Late Afternoon",
+    "desc": "Energy stocks were lower late Monday afternoon, with the NYSE Energy Sector Index decreasing 0.5% an",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195808265.html?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 19:58:08 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Unstoppable Dow Stocks to Buy Before October Ends",
+    "desc": "These Dow stocks are outperforming in 2026 and could hit more new highs in 2027.",
+    "link": "https://www.fool.com/investing/2026/10/19/3-dow-stocks-buy-before-october-end/?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 19:50:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "8 Stocks That Are Much Riskier Plays Than They Look",
+    "desc": "Some low beta stocks are more volatile on big down days for the market, including RTX, Charles Schwab, Union Pacific, Danaher, and Starbucks.",
+    "link": "https://finance.yahoo.com/m/e81a723a-d180-3e83-88ee-750c30a8252f/8-stocks-that-are-much.html?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 19:20:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’",
+    "desc": "Amazon shares are on the rise after a fresh show of support from Morgan Stanley.",
+    "link": "https://www.investopedia.com/market-update-amazon-leads-dow-gainers-as-morgan-stanley-names-stock-top-pick-amzn-12182338?.tsrc=rss",
+    "pubDate": "Mon, 19 Oct 2026 18:33:36 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Trump Admin, US Businesses 'Need To Be Wary' Of AI Espionage, Intelligence Chief Warns",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Admin, US Businesses 'Need To Be Wary' Of AI Espionage, Intelligence Chief Warns</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/trump-admin-businesses-need-to-be-wary-of-ai-espionage-intelligence-chief-warns-6104914?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Timothy Frudd via The Epoch Times</a>,</em></p> <p><strong>Director of National Intelligence Jay Clayton warned that both the Trump administration and American companies \"need to be wary\" of foreign espionage</strong> with the rise of artificial intelligence (AI), which the government now refers to as super intelligence.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T092756.253.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T092756.253.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9aacc4a6-4f83-489b-aa19-6816340e3543\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T092756.253.jpg\" /></a></p> <p>Clayton, who leads the Trump administration's Super Intelligence Force, told CNBC in a Friday interview that maintaining U.S. leadership in the AI race is critical in the face of potential foreign espionage. He noted that while AI platforms and capabilities can be used for \"very good purposes,\" they can also be used for \"nefarious purposes.\"</p> <p>The intelligence chief's comments came after President Donald Trump's Super Intelligence Force held its first meeting at the White House on Thursday. Clayton told CNBC that the meeting was \"very good\" and that it built on the <a href=\"https://www.theepochtimes.com/us/trump-industry-leaders-sign-voluntary-accord-on-ai-standards-6096331?utm_source=partner&utm_campaign=ZeroHedge\">voluntary accord</a> signed by Trump and multiple technology industry leaders at the White House on Sept. 29.</p> <p>Asked whether Americans should be concerned about foreign espionage with AI companies, Clayton said Friday that both <strong>commercial and state-sponsored espionage</strong> are a reality facing the United States.</p> <p>\"It's something that our private-sector companies need to be wary of, we as a government need to be wary of,\" he said.</p> <p>Clayton told CNBC that it was important for the United States to \"stay on the cutting edge\" of AI capabilities in order to address concerns regarding AI advances by U.S. adversaries.</p> <p>\"We're not the only ones developing it. There are vectors in this technology that are coming from some of our known adversaries and competitors,\" he said. \"<strong>The Chinese, the Russians, the Iranians, the North Koreans all have significant technical capability. We need to stay ahead of them.</strong>\"</p> <p>Many of the risks posed by AI are linked to cybersecurity and digital infrastructure, Clayton told CNBC. He described the U.S. digital infrastructure as critical infrastructure, covering everything from public utilities, such as water and electricity, to national defense.</p> <p><strong>While cybersecurity risks are not new, the rise of AI \"amplifies\" those risks, Clayton said.</strong> To address the risks, he said the United States is \"focused on hardening those systems\" and is committed to staying ahead of \"nefarious actors\" in the AI race.</p> <p>Clayton's warning regarding foreign espionage attempts linked to AI came after prosecutors and company officials said on Oct. 13 that Abdulrahman Alfozan, a Saudi national and software engineer working for OpenAI, was <a href=\"https://www.theepochtimes.com/us/saudi-national-working-for-openai-arrested-after-company-uncovers-secret-recording-device-6103415?utm_source=partner&utm_campaign=ZeroHedge\">arrested</a> on allegations that he concealed a sophisticated recording device in an OpenAI office.</p> <p><strong>According to a court complaint, the office Alfozan allegedly planted a recording device in was frequently used to hold meetings involving highly confidential information</strong>, including government engagements, commercial relationships, product plans, and strategic decisions.</p> <p>In a Tuesday press release, Clayton described the incident as a \"serious situation [that] underscores why winning the global super intelligence race is a national security prerogative.\"</p> <p>During Friday's interview on CNBC, Clayton added that the incident involving the Saudi software engineer at OpenAI \"shows the lengths that people will go to try and supplant our leadership in this, or at least stay close to us, in this emerging technology.\"</p> <p><strong>The intelligence chief's warning also followed a series of AI swarm breaches</strong>, which has led some industry leaders to suggest that the pace of AI development needs to be slowed down and the technology needs additional oversight.</p> <p>A report released last month by Anthropic found that the Iranian regime <a href=\"https://www.theepochtimes.com/us/iran-used-claude-ai-model-to-target-us-navy-warships-anthropic-report-6086268?utm_source=partner&utm_campaign=ZeroHedge\">used</a> the company's AI models to track and target U.S. Navy ships in the Middle East. The report also said that a Chinese-linked operation used Claude to track and attempt to recruit Uyghurs who joined the Syrian army to become spies.</p> <p>In addition, Anthropic's report found that individuals affiliated with the Chinese regime used Claude and supporting Chinese AI systems to surveil groups targeted by the regime. Those targeted by the China-linked individuals included members of the Tibetan Buddhist civil society, practitioners of Falun Gong, Catholic cardinals, Presbyterian Church leaders, the New York-based Shen Yun Performing Arts, and NTD, The Epoch Times' sister media outlet.</p> <p><strong>Trump <a href=\"https://www.theepochtimes.com/us/trump-announces-super-intelligence-force-to-coordinate-federal-ai-efforts-6099279?utm_source=partner&utm_campaign=ZeroHedge\">announced</a> the formation of the Super Intelligence Force earlier this month to oversee U.S. AI policies.</strong> Clayton told CNBC that the White House task force took a number of actions during its inaugural meeting on Thursday.</p> <p>Those actions included outlining a plan to implement the accords signed by technology leaders, tasking the President's Council of Advisors on Science and Technology with conducting a risk study, establishing committees covering different AI issues, and developing a system for the Department of Labor to regularly report on the impacts of AI on the U.S. workforce and economy.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T19:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 15:40</span>",
+    "link": "https://www.zerohedge.com/geopolitical/trump-admin-us-businesses-need-be-wary-ai-espionage-intelligence-chief-warns",
+    "pubDate": "Mon, 19 Oct 2026 19:40:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Geothermal Just Undercut Solar-Plus-Storage In Sunny Nevada",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Geothermal Just Undercut Solar-Plus-Storage In Sunny Nevada</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Geothermal has long been the <strong>clean, firm power source</strong> that was always a few breakthroughs away from being cheap enough to matter. Numbers buried in a Nevada utility filing suggest that day may have arrived.</p> <p>Joel Edwards, co-founder and CTO of geothermal developer Zanskar, put it bluntly earlier this month: \"to all the geothermal believers out there, <strong>the flippening has come</strong>.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">to all the geothermal believers out there, the flippening has come in NV Energy’s 2026 filing, 3 geothermal offers came in at $105–107/MWh, below the ~$114/MWh capacity-weighted average for 11 solar + bess offers in Nevada, of all the sunny places the 3 solar + bess projects NV Energy put forward in 2024 averaged ~$94/MWh, but this 2026 slate is pricier, e.g., Boulder Solar III’s levelized price jumped from ~$85/MWh to ~$125/MWh after permitting delays, land carrying costs, higher financing costs, and, of course, big, bad tariffs. could geothermal pull off a solar + wind circa 2010 move and scale faster to come down the cost curve? it now has a much longer tax-credit runway than new solar + wind projects (oh how the tables have turned), plus firm output and higher energy density (all true for nuclear too) and for the 24/7 solar crowd: the ~$114/MWh average covers solar paired mostly with 4-hour batteries, and we all know 12+ hours of storage would cost more and still wouldn’t cover multi-day gaps it might be time for more geothermal, people</p> — Joel Edwards (@joelhedwards) <a href=\"https://x.com/joelhedwards/status/2107670423647477849?ref_src=twsrc%5Etfw\">October 7, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>In NV Energy's 2026 <a href=\"https://www.nvenergy.com/publish/content/dam/nvenergy/brochures_arch/about-nvenergy/rates-regulatory/recent-regulatory-filings/2026-irp/NPC-SPPC-Volume-8.pdf\">resource plan</a>, three geothermal offers came in at <strong>$105 to $107 per megawatt-hour</strong>. That's below the roughly <strong>$114/MWh</strong> capacity-weighted average for the 11 solar+battery projects in the same filing.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HT_pgACbYAAjI1X.jpeg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HT_pgACbYAAjI1X.jpeg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9e7e5aa2-9b40-4b8e-a947-246868ae9703\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HT_pgACbYAAjI1X.jpeg\" /></a></p> <p>Using the filing's corrected prices, the three geothermal deals total 180 MW at a weighted $105.56/MWh, versus 4,370 MW of solar-plus-storage at $113.89/MWh.</p> <p><strong>Geothermal just barely comes in about 7% cheaper.</strong></p> <p>Part of the story is solar getting <strong>pricier</strong>. Edwards notes the three solar-plus-storage projects NV Energy put forward in 2024 averaged about $94/MWh.</p> <p>This time, Boulder Solar III's levelized price jumped from about $85/MWh to $125/MWh after \"permitting delays, land carrying costs, higher financing costs, and, of course, big, bad tariffs.\"</p> <p>The bigger point is what each megawatt-hour buys. A geothermal plant pulls heat from underground and runs day and night, whatever the weather. We <a href=\"https://www.zerohedge.com/energy/fervo-energy-locks-17-gw-geothermal-turbine-supply-deal-turboden\">said</a> the same thing back in April, that it's \"firm 24/7 power that intermittent renewables struggle to match.\"</p> <p>The solar average, meanwhile, \"covers solar paired mostly with 4-hour batteries,\" Edwards wrote, \"and we all know 12+ hours of storage would cost more and still wouldn't cover multi-day gaps.\"</p> <p>That's why data centers are <strong>signing up for geothermal</strong>. Google is backing up to 150 MW of new Ormat geothermal through NV Energy, and Amazon is <a href=\"https://www.datacenterdynamics.com/en/news/amazon-signs-first-geothermal-deal-with-nv-energy-to-support-data-center-operations-in-reno-nevada/\">backing</a> 100 MW from Zanskar. </p> <p>To be fair, geothermal beat the average, not every bid. Sleepy Orange came in at $89.80/MWh and White Pine Solar at $101.92. Two of the three geothermal deals (and two of the solar ones) are also \"sleeved\" contracts tied to specific big customers rather than open bids.</p> <h3>A longer runway</h3> <p>Edwards asks whether geothermal could \"pull off a solar + wind circa 2010 move and scale faster to come down the cost curve.\"</p> <p>Under last year's One Big Beautiful Bill, wind and solar projects that didn't begin construction by July 4 of this year must be in service by the end of 2027 to claim federal tax credits. But geothermal, like battery storage, <strong>keeps the full credit</strong> for projects that start construction through <strong>2033</strong>.</p> <p>The drilling learning curve is already compounding. In July, <a href=\"https://www.zerohedge.com/energy/geothermal-heats-fervo-drilling-rates-soar-143-while-quaise-raises-134m\">we noted</a> that Fervo's third-generation well design boosted drilling rates 143%, with its latest Cape Station well finished in 21 days. Last month, Big Oil <a href=\"https://www.zerohedge.com/energy/big-oil-backs-mazamas-135-million-bet-superhot-geothermal\">backed</a> Mazama's $135 million bet on superhot geothermal, whose second well hit 10,350 feet about 80% faster than its first. And as <a href=\"https://www.zerohedge.com/markets/geothermal-power-emerging-ai-energy-source-trump-administration\">we noted</a> in August, the Trump administration increasingly sees geothermal as an AI power source.</p> <p>DOE's \"<a href=\"https://www.energy.gov/articles/doe-launches-new-energy-earthshot-slash-cost-geothermal-power\">Enhanced Geothermal Shot</a>\" aims to bring next-generation geothermal down to <strong>$45/MWh by 2035</strong>, well under half of what Nevada was just offered.</p> <h3>Public geothermal is getting crushed</h3> <p>Ormat (ORA), one of the only pure-play publicly traded geothermal companies, is <strong>down 19% year to date</strong>. Fervo (FRVO), which priced its IPO at $27 in May and closed its first day at $36, finished Friday at just over $9, a record closing low and <strong>64% below its IPO price</strong>.</p> <p>Fervo warned in August of transmission curtailment at Cape Station, and on Oct. 6 short seller <a href=\"https://www.morpheus-research.com/fervo/\">Morpheus Research</a> alleged thermal decline, water loss and seismicity problems at its sites.</p> <p>All this came days after Cape Station's first 33 MW block began commercial operation a day ahead of schedule.</p> <p>Meanwhile, the market is still up over 10% this year, and the energy ETF XLE has soared 51% as the US-Iran war drags on.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T19:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 15:25</span>",
+    "link": "https://www.zerohedge.com/energy/geothermal-just-undercut-solar-plus-storage-sunny-nevada",
+    "pubDate": "Mon, 19 Oct 2026 19:25:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "AI CapEx And Earnings: What Happens When Growth Slows",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">AI CapEx And Earnings: What Happens When Growth Slows</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://realinvestmentadvice.com/resources/blog/ai-capex-and-earnings-what-happens-when-growth-slows/\">Authored by Lance Roberts via RealInvestmentAdvice.com</a>,</em></p> <p><strong><em>AI capex and earnings are now so tightly tied that spending doesn't have to fall to hurt profits. It only has to stop accelerating.</em></strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-41_3.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-41_3.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3abb9de8-9cfb-4ec8-a4b0-485dde297075\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-41_3.jpg\" /></a></p> <p><strong>Almost half of the S&P 500's earnings growth this year traces back to one activity: companies buying chips, servers, power gear, and concrete to build artificial intelligence.</strong> That's the estimate Goldman Sachs published on September 23. It's also the clearest statement yet of how tightly AI capex and earnings are now linked.<sup>1</sup> Most investors read it as a story about the spenders. I think they're looking at the wrong side of the ledger. Capex leaves one company's bank account and appears on another company's income statement, so the \"AI earnings boom\" depends less on how much is spent than on whether spending continues to grow.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/aicapex.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/aicapex.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"cb76031a-ff70-44a5-baad-fbb6fda83487\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/aicapex.jpg\" /></a></p> <h2>Every Dollar Of Capex Is Someone Else's Revenue</h2> <p>When a hyperscaler commits $10 billion to a data center, that money doesn't vanish into a building. It goes to chip designers and memory makers, to the firms making transformers and cooling systems, and to contractors, electricians, and the local utility. Every one of them books it as \"revenue.\" Then their suppliers book revenue from them.</p> <p>Jerome Levy worked this out early in the last century, and Michal Kalecki formalized it in the 1930s. For the economy as a whole, profits equal investment, minus household, government, and foreign saving, plus dividends.<sup>2</sup> I've written about the <a href=\"https://realinvestmentadvice.com/resources/blog/the-kalecki-profit-equation-and-the-coming-reversion/\"><strong><em>Kalecki profit equation and the coming reversion</em></strong></a> before, mostly around deficit spending. Investment sits on the same side of that equation.</p> <p>Here's where it gets interesting. The seller books the revenue immediately. The buyer capitalizes the purchase and expenses it through depreciation over five or six years. <strong>In the year the money is spent, the economy records the supplier's profit without recording the buyer's expense.</strong> Such is why a capex boom is the most earnings-friendly event in the short run, and why I called it a <em>\"golden window\"</em> when I wrote about <a href=\"https://realinvestmentadvice.com/resources/blog/ai-capex-depreciation-risk-is-the-catch-to-record-earnings/\"><strong><em>AI capex depreciation risk and record earnings</em></strong></a> in July.</p> <p>The cycle runs in three stages. Rising spending lifts supplier revenue, margins and hiring. Flat spending freezes supplier revenue while the buyers' depreciation keeps climbing, because every dollar that was \"free\" in year one starts showing up as an expense in years two through six, which is usually when the market has stopped paying attention. Falling spending turns it all into a drag. Only the first stage is fun.</p> <h2>How Big Is The AI Capex Boom Right Now?</h2> <p>Goldman puts hyperscaler capex at $800 billion in 2026, up 94% from 2025, heading to $1.2 trillion in 2027 and $1.4 trillion in 2028.<sup>1</sup> FactSet's July tally also lands near $800 billion for calendar 2026.<sup>3</sup></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-42_2.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-42_2.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"68235a3e-7cb1-44f1-90ab-e792894c31bd\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-42_2.jpg\" /></a></p> <p><em>Hyperscaler capital spending rises from about $412 billion in 2025 to an estimated $800 billion in 2026, $1.2 trillion in 2027, and $1.4 trillion in 2028. Year-over-year growth falls from 94% to 50% to 17% over the same stretch. <strong>Source: Goldman Sachs Research, Sept. 23, 2026. 2025 implied from 94% growth. Calculations: RIA Advisors</strong></em></p> <p>Notice in the chart above that the bars keep getting taller. <strong>Spending continues to set records while the growth rate that drives supplier profits collapses.</strong></p> <p>That's the relationship between AI capex and earnings in one picture.</p> <p>So far, the payoff has been enormous. FactSet now expects calendar 2026 S&P 500 earnings growth of 32.8%, with Information Technology at 65%.</p> <h2>Why AI Capex And Earnings Hinge On The Growth Rate</h2> <p>Goldman offers a rule of thumb that does most of the work. <strong>A $250 billion surprise in 2027 capex, in either direction, would move S&P 500 earnings growth by roughly 6 percentage points.</strong><sup>1</sup> Goldman's base case assumes capex rises 50% to $1.2 trillion and delivers about 11% earnings growth. I stretched that sensitivity to a few other outcomes.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-43_4.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-43_4.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"917eb801-a4a8-4124-8eaf-bc89363d66f7\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-43_4.jpg\" /></a></p> <p><em>Applying Goldman's sensitivity of about 6 points of EPS growth per $250 billion of capex, 2027 S&P 500 earnings growth would be roughly 1.4% if capex held flat at $800 billion, 5% at $950 billion, 11% at the $1.2 trillion base case, and 17% at $1.45 trillion. <strong>Source: Goldman Sachs Research. Sensitivity extended linearly. Calculations: RIA Advisors</strong></em></p> <p><strong>If 2027 spending merely matched this year's record, implied earnings growth would fall to about 1%.</strong> Read that again. The linear extension is my assumption, not Goldman's, and real outcomes won't be that tidy. The direction isn't in doubt.</p> <p><em>\"Spending is still rising, so where's the problem?\"</em> The problem is the size of each year's increase. <strong>Goldman's path adds roughly $390 billion in 2026 and $400 billion in 2027, then only $200 billion in 2028.</strong> The dollar increase drives supplier revenue growth, and that increase gets cut in HALF in 2028. Consensus already sees some of it, with FactSet's 2027 earnings growth estimate at 16%.<sup>4</sup></p> <p>The reversal also hits harder than the spending cut itself, and this is the part I keep turning over. Suppliers expand for the demand they see. A transformer maker whose orders double adds a shift, hires welders and signs its own equipment orders, which becomes revenue for its suppliers in turn, and so on down a chain that runs all the way to the steel mill and the trucking company. That second round is why the boom feels broader than the hyperscaler numbers alone suggest. It works in reverse too. <strong>When growth stalls, the suppliers are left holding capacity, payroll, and inventory built for orders that stopped growing, and operating leverage runs the other way.</strong></p> <blockquote> <p><em>\"The spending doesn't have to fall to hurt earnings. It only has to stop accelerating.\"</em></p> </blockquote> <h2>Where The AI Money Actually Lands</h2> <p>The flow-through is real, but the pipe is narrower than most assume. Much of the hardware is fabricated in Taiwan and Korea. A July Federal Reserve note found that import surges offset much of the gross investment in several quarters.<sup>5</sup> An August analysis on Econbrowser concluded the direct GDP effect was roughly a wash outside the second quarter.<sup>6</sup> Such leakage is part of why I argued that <strong><em><a href=\"https://realinvestmentadvice.com/resources/blog/capex-spending-on-ai-is-masking-economic-weakness/\">AI capex spending is masking economic weakness</a>.</em></strong> The industrials and utilities Goldman names are real \"winners,\" but the fattest margins sit with a handful of chip designers.</p> <p>Two pieces of the earnings number deserve a harder look. Semiconductor gross margins are running near 80%, roughly double their historical average. Goldman expects that boost to fade.<sup>1</sup> Bob Farrell's Rule #1 applies to margins as much as to prices: excesses revert to the mean. The second piece is stranger.</p> <blockquote> <p><em>\"Large technology companies recorded roughly $150 billion of unrealized investment gains in private companies in the second quarter of 2026, translating to 12% of S&P 500 EPS.\" - <strong>Ben Snider, Chief U.S. Equity Strategist, Goldman Sachs Research</strong></em></p> </blockquote> <p>Those are marks, not cash. Such is the circular part of this cycle: hyperscalers invest in AI labs, the labs buy compute from the hyperscalers with that money, and the stakes get marked up at each new funding round. A mark can reverse just as quickly, and 12% of index earnings now depends on those rounds going well.</p> <h2>What Could Reverse The AI Capex Cycle?</h2> <p>The bigger risk is funding, not demand. FactSet expects free cash flow to hit roughly zero or turn negative in fiscal 2026 for every hyperscaler except Alphabet and Microsoft. The group already carries about $700 billion of debt and $820 billion of lease commitments.<sup>3</sup> That money is being borrowed at rising rates. The Fed hiked on September 16 to a target range of 3.75% to 4.00%, its first increase since 2023. <strong>Chairman Kevin Warsh said <em>\"inflation is too high and has been for too long.\"</em><sup>7</sup></strong> The 10-year Treasury yield closed at 5.10% on October 15th, after touching 5.24% on October 9th.<sup>8</sup></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-44_3.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-44_3.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3255041b-fba2-4d98-8d27-00d703417e3b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-44_3.jpg\" /></a></p> <p><strong>Regulation is the <em>\"slow-burn\"</em> risk.</strong> Moratorium bills were filed in at least nine state legislatures this year. Maine's passed in April, then died on Governor Janet Mills' veto.⁹ A federal AI Data Center Moratorium Act (S.4214) sits in a Senate committee with no action.¹⁰ No statewide moratorium has become law yet. <strong>However, any bill that does pass can push a project out a year or more, and a year of delay is exactly the kind of drop in capex growth that the earnings math above can't absorb.</strong></p> <p>History has a template. From early 1996 to late 2000, U.S. communications equipment investment more than doubled, from about $62 billion a year to over $135 billion.<sup>11</sup> Within one year, it fell by nearly a third.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-45_3.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-45_3.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"10588960-b1ae-494a-a08f-37b0a1fadc21\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image-45_3.jpg\" /></a></p> <p><em>U.S. communications equipment investment rose from about $62 billion in early 1996 to more than $135 billion at the fourth-quarter 2000 peak, then fell to under $93 billion a year later, a drop of roughly 31%. <strong>Source: Federal Reserve Bank of Richmond, Economic Quarterly, Fall 2003</strong></em></p> <p>The fiber was real. Internet traffic eventually showed up. Shareholders of the companies that built it still got wiped out. Such is how capex cycles usually end, with the asset intact and the \"investment thesis\" in pieces.</p> <h2>Where The Bulls Are Right</h2> <p>The bulls have a strong case. The S&P 500 trades at 19x forward earnings, right on its 10-year average of 19.1x, because earnings have outrun prices.<sup>4</sup> Those spenders are among the most profitable companies in the world, and Goldman sees 11% earnings growth in both 2027 and 2028.<sup>1</sup></p> <p>I like the AI trade. Mostly. What keeps nagging me is that the <em>\"reasonable\"</em> 19 multiple sits on an <em>\"E\"</em> that includes the capex flow-through, record chip margins, and a mark-to-market gain on private stakes, none of which is likely to repeat at this pace. <strong>A normal P/E on an abnormal E isn't cheap; it only looks that way.</strong> Goldman itself notes that the cyclically adjusted P/E sits near record highs.<sup>1</sup></p> <h2>What AI Capex Means For Your Portfolio</h2> <p>I'm fairly confident 2027 holds up, since the dollar increase in spending is still about $400 billion. Past that, my confidence drops sharply. <strong>The practical move is to watch the rate of change in AI capex and earnings, which few investors track.</strong> Each earnings season, compare the increase in capex guidance with the prior year's increase, not the prior year's level. Watch hyperscaler free cash flow and credit spreads, because financing tends to crack before demand does. Watch chip margins for the first sign of reversion.</p> <p>Then check your own exposure. A \"passive\" S&P 500 index fund owns this cycle whether you meant to or not, because the spenders and the suppliers crowd the top of the index, which means the same few companies sit on both sides of the trade. Rebalancing to your targets after a run like this is risk management, not a market call. The trade-off: trim too early, and you give up return if Goldman is right. I'd rather pay that cost than the one the <strong><em><a href=\"https://realinvestmentadvice.com/resources/blog/the-ai-capex-bill-comes-due/\">AI capex bill</a></em></strong> could bring later. The open question remains <a href=\"https://realinvestmentadvice.com/resources/blog/does-ai-capex-spending-lead-to-positive-outcomes/\"><strong><em>whether AI capex spending leads to positive outcomes</em></strong></a> that beat its cost of capital.</p> <p>The link between AI capex and earnings carried roughly half of this year's profit growth, and that support fades once spending stops accelerating, even at a record level.</p> <p>The earnings bill doesn't arrive when the spending stops. It arrives when the spending stops growing.</p> <p><em>If your portfolio has quietly become a bet on the AI capex cycle, it's worth knowing how much of your return depends on spending that has to keep accelerating. That's the conversation we have with investors every day at RIA Advisors. <strong><a href=\"https://realinvestmentadvice.com/connect-now/\">Schedule a complimentary portfolio review</a></strong>, and let's pressure-test your exposure together.</em></p> <h3>Questions This Article Answers</h3> <p><strong>How does AI capex affect S&P 500 earnings?</strong> <em>One company's capex is its suppliers' revenue, while the buyer spreads the cost over years through depreciation. Goldman Sachs estimates that almost half of the 2026 S&P 500 earnings growth comes from AI investment.</em></p> <p><strong>Can AI capex hurt earnings without falling?</strong> <em>Yes. Supplier profits track the yearly increase in spending. Applying Goldman's sensitivity, flat 2027 capex at $800 billion implies roughly 1% S&P 500 earnings growth.</em></p> <p><strong>How much are hyperscalers spending on AI?</strong> <em>Goldman Sachs estimates hyperscaler capex of about $800 billion in 2026, up 94%, rising to $1.2 trillion in 2027 and $1.4 trillion in 2028. FactSet's estimate for 2026 is similar.</em></p> <p><strong>What could end the AI capex boom?</strong> <em>Higher interest rates, tighter financing as free cash flow shrinks, state limits on data centers, weak AI returns, and falling chip margins.</em></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T19:10:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 15:10</span>",
+    "link": "https://www.zerohedge.com/markets/ai-capex-and-earnings-what-happens-when-growth-slows",
+    "pubDate": "Mon, 19 Oct 2026 19:10:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Kylie Jenner Sparks Backlash Over $50 Million Bra At Victoria's Secret Fashion Show",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Kylie Jenner Sparks Backlash Over $50 Million Bra At Victoria's Secret Fashion Show</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Kylie Jenner is facing backlash from fans after making her Victoria's Secret Fashion Show debut in a staggering $50 million diamond-encrusted bra</strong> as furious viewers accused the lingerie giant of snubbing veteran supermodels in favor of the reality television star.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/victorias-secret-fashion-show-2026_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/victorias-secret-fashion-show-2026_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3e2941fc-5b47-4542-9eef-5d6e89c22d52\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/victorias-secret-fashion-show-2026_80.jpg\" /></a> <figcaption><em>Getty Images</em></figcaption></figure><p>The 29-year-old beauty mogul stunned audiences Sunday night when she appeared on the runway in Culver City, California, wearing the brand's legendary Fantasy Bra, marking its highly anticipated return after an eight-year absence.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Kylie Jenner makes her Victoria's Secret fashion show debut. 🪽<br /><br /> 📷 Getty Images <a href=\"https://t.co/4JKT5o54Lf\">pic.twitter.com/4JKT5o54Lf</a></p> — Rolling Stone (@RollingStone) <a href=\"https://x.com/RollingStone/status/2111991309539979311?ref_src=twsrc%5Etfw\">October 19, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Timothée Chalamet reacts to Kylie Jenner walking for the Victoria's Secret Fashion Show. <a href=\"https://t.co/9qT7wrEhjy\">pic.twitter.com/9qT7wrEhjy</a></p> — Timothée Nation (@timotheenation) <a href=\"https://x.com/timotheenation/status/2111977084100788572?ref_src=twsrc%5Etfw\">October 19, 2026</a></blockquote> <p>However, what was supposed to be a glamorous comeback quickly erupted into controversy.</p> <p>The extravagant creation, designed by luxury jeweler Jacob & Co., features 4,410 natural diamonds and a massive 75.54-carat yellow diamond centerpiece reportedly valued at $22 million. The dazzling garment required more than 1,000 hours of craftsmanship and weighings approximately four pounds.</p> <p><strong>Yet, critics were less concerned about the diamonds than the woman chosen to wear them.</strong></p> <p>\"Kylie Jenner got the fantasy bra... cancel this sh** right now,\" one X user <a href=\"https://ca.style.yahoo.com/kylie-jenners-victorias-secret-appearance-101506676.html\">said</a>.</p> <p>\"All that surgery to wear a skirt?\" another user <a href=\"https://ca.style.yahoo.com/kylie-jenners-victorias-secret-appearance-101506676.html\">asked</a>.</p> <p>\"This is UNACCEPTABLE,\" said another outraged fan, while another <a href=\"https://ca.style.yahoo.com/kylie-jenners-victorias-secret-appearance-101506676.html\">tweeted</a>, \"Out of literally anyone ever why the F**K did they put the fantasy bra on Kylie Jenner.\"</p> <p>The coveted Fantasy Bra has previously been worn by modeling legends including Tyra Banks, Heidi Klum, Gisele Bündchen and Adriana Lima.</p> <p><strong>Victoria's Secret defended its decision, pointing to Jenner's enormous cultural influence and global celebrity status.</strong></p> <p>\"Kylie really extends beyond fashion, beyond culture, beyond TV, beyond one singular thing,\" Victoria's Secret chief creative officer Adam Selman told <a href=\"https://www.vogue.com/article/kylie-jenner-fantasy-bra-2026-victorias-secret-10-18-2026\">Vogue</a>: \"That's the exact same thing that we do. Like, the show is so big, it's true entertainment, and I think that she is a great catalyst for that. She's really created her own culture, which - how many people can say that?\"</p> <p><script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><a data-image-external-href=\"https://store.zerohedge.com/products/congressional-trading-club-tee-members-only?utm_source=zerohedge&utm_medium=banner&utm_campaign=zh_store_20261012&utm_content=02-congressional-tee-nice-trades\" data-image-href=\"https://store.zerohedge.com/products/congressional-trading-club-tee-members-only?utm_source=zerohedge&utm_medium=banner&utm_campaign=zh_store_20261012&utm_content=02-congressional-tee-nice-trades\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/congressional-trading-club-tee-members-only?utm_source=zerohedge&utm_medium=banner&utm_campaign=zh_store_20261012&utm_content=02-congressional-tee-nice-trades\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f0a548d1-eb8c-4c2f-9957-3f836b371b92\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/02-congressional-tee-nice-trades-500x260%282%29.png\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T18:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 14:55</span>",
+    "link": "https://www.zerohedge.com/political/kylie-jenner-sparks-backlash-over-50-million-bra-victorias-secret-fashion-show",
+    "pubDate": "Mon, 19 Oct 2026 18:55:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "House Panel Warns Singham-Linked Nonprofits Of Possible Depositions Over Subpoenas",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">House Panel Warns Singham-Linked Nonprofits Of Possible Depositions Over Subpoenas</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/china/house-panel-warns-singham-linked-nonprofits-of-possible-depositions-over-subpoenas-6105607?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Arthur Zhang via The Epoch Times</a>,</em></p> <p>Three U.S. tax-exempt organizations linked to Shanghai-based businessman <a href=\"https://www.theepochtimes.com/us/house-committee-chairs-ask-treasury-irs-to-probe-tax-exempt-network-tied-to-shanghai-based-us-millionaire-6094219?utm_source=partner&utm_campaign=ZeroHedge\">Neville Roy Singham</a> have until Oct. 20 to comply with congressional subpoenas or face further action, including <strong>possible depositions of 21 officials and staff members</strong>, as lawmakers investigate alleged Chinese Communist Party (CCP) influence through American nonprofits.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/neal.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/neal.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"e61d3c17-5185-4627-9705-5516b7081eef\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/neal.jpg\" /></a></p> <p><em>House Committee on Ways and Means Chairman Rep. Jason Smith (R-Mo.) speaks during a hearing on Capitol Hill in Washington on Feb. 10, 2026. Madalina Kilroy/The Epoch Times</em></p> <p> </p> <p>House Ways and Means Committee Chairman Jason Smith (R-Mo.) issued the warning on Oct. 13 to The People's Forum, BreakThrough News, and Tricontinental: Institute for Social Research, accusing them of refusing to provide documents concerning their finances and connections to Singham.</p> <p>\"<strong>Either these organizations turn over the documents, or their leaders will answer the Committee's questions under oath</strong>,\" Smith said.</p> <p>The committee said potential deposition subpoenas would cover eight people at The People's Forum, seven at BreakThrough News, and six at Tricontinental.</p> <h2>Singham Funding Network Under Scrutiny</h2> <p><strong>Singham, an American technology entrepreneur living in Shanghai, has financed left-wing advocacy and media organizations through a network of nonprofit entities and charitable accounts.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/neville-roy-singham-minneapolis.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/neville-roy-singham-minneapolis.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4aaddcf8-80f8-477f-9d0b-7877bce35949\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/neville-roy-singham-minneapolis.jpg\" /></a></strong></p> <p>He has <a href=\"https://www.theepochtimes.com/china/marxist-network-under-scrutiny-as-lawmakers-probe-chinese-influence-5983824?utm_source=partner&utm_campaign=ZeroHedge\">participated</a> in at least one CCP propaganda forum in Shanghai. At a February congressional hearing, Smith also identified Singham's business connections to Chinese media ventures, including Shanghai Maku Cultural Communication, which has described its mission using a CCP slogan that promotes Beijing's preferred narratives internationally.</p> <p><strong>The committee alleges that Singham's financial network has helped advance CCP influence operations in the United States.</strong></p> <p>In July, the committee subpoenaed the three nonprofits after they declined earlier requests for financial documents.</p> <p>Its July correspondence cited previous reporting that more than $22 million flowed from Singham's donor-advised fund to The People's Forum and more than $16 million to Tricontinental between 2017 and 2022. The committee also cited approximately $1.1 million going to BreakThrough News between 2022 and 2023.</p> <p><strong>Rep. Darin LaHood (R-Ill.) <a href=\"https://www.theepochtimes.com/china/marxist-network-under-scrutiny-as-lawmakers-probe-chinese-influence-5983824?utm_source=partner&utm_campaign=ZeroHedge\">previously described</a> a funding structure in which money moved from Singham-associated businesses through privately held companies and donor-advised funds</strong> before reaching nonprofit recipients.</p> <p>\"By the time the money reaches the end user, the original donor's name has been stripped away three or four times,\" LaHood told The Epoch Times in February.</p> <p><strong>The committee is seeking records of these financial arrangements, communications with Singham or foreign entities concerning finances and organizational control,</strong> and information about foreign-linked donations and projects sponsored through other tax-exempt organizations.</p> <h2>Congress Examines Foreign Funding, Tax Laws</h2> <p>Smith said the investigation is intended to determine whether existing tax laws adequately prevent foreign interests from using U.S. nonprofits to conceal funding sources or exercise influence over American activities.</p> <p>In September, Smith and House Select Committee on China Chairman John Moolenaar (R-Mich.) also <a href=\"https://www.theepochtimes.com/us/house-committee-chairs-ask-treasury-irs-to-probe-tax-exempt-network-tied-to-shanghai-based-us-millionaire-6094219?utm_source=partner&utm_campaign=ZeroHedge\">asked</a> the Treasury Department and Internal Revenue Service to investigate the broader Singham-linked nonprofit network.</p> <p><strong>BreakThrough News, in an Oct. 9 statement, accused the committee of targeting its journalists for their political views and maintained that it receives no outside editorial direction.</strong> Its attorneys have raised First Amendment objections to the subpoena.</p> <p>The committee has rejected those objections, maintaining that its investigation concerns financial arrangements and organizational control rather than political speech.</p> <p><strong>BreakThrough News said journalists Rania Khalek, Zoe Alexandra, and Amanda Yee were among the staff members named in the latest congressional correspondence as potential deposition targets.</strong></p> <p>If the three organizations fail to meet the Oct. 20 deadline, Smith has warned that the committee will pursue more aggressive oversight measures, potentially compelling officials and staff members to testify under oath.</p> <p>The Epoch Times sought comment from the House Ways and Means Committee, The People's Forum, BreakThrough News, and Tricontinental, but none had responded by publication time.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T18:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 14:40</span>",
+    "link": "https://www.zerohedge.com/political/house-panel-warns-singham-linked-nonprofits-possible-depositions-over-subpoenas",
+    "pubDate": "Mon, 19 Oct 2026 18:40:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Uber Warns Proposed DC Rules Could Spark Driver Exodus And Fare Spike",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Uber Warns Proposed DC Rules Could Spark Driver Exodus And Fare Spike </span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>More regulation means higher prices for consumers</strong>, and Washington, DC's newly proposed rideshare regulations could soon do just that.</p> <p><a href=\"https://www.axios.com/local/washington-dc/2026/10/19/uber-rideshare-fares\">Axios</a> reports that Uber warns proposed DC regulations <strong>could push fares up another 10% in the first year</strong>. With rides already expensive, that increase would make the ride-hailing service even more unaffordable for lower-income users.</p> <p>Progressive Councilmember Brianne Nadeau said the new ride-hailing bill would bring \"international best practices\" to the metro area. These new regulations include <strong>more insurance coverage for drivers, reduced wait times for wheelchair-accessible vehicles, and a ban on surveillance-based fare discrimination</strong>.</p> <p>Uber told the outlet that the <strong>new requirements could make driving less attractive</strong> or make it harder to qualify as a driver in the metro area, potentially pushing fares higher.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-19_07-42-07.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-19_07-42-07.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6a3f7607-2e12-44d7-aa36-cb2c1aab304b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-19_07-42-07.png\" /></a></p> <p>In prepared testimony, Uber representative LaVita Gardner will argue that more regulation could force some drivers off the platform and that additional regulatory costs could flow directly to consumers.</p> <p>\"<strong>Based on data from states that have onerous onboarding restrictions, we expect that thousands of drivers would leave the platform</strong>,\" Gardner said in prepared testimony for Monday's hearing.</p> <p>Nadeau has said the proposed bill will modernize an \"over-complicated law\" written many years ago. Uber said it would be \"overly rigid,\" treating the industry like \"legacy taxicab fleets.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T18:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 14:25</span>",
+    "link": "https://www.zerohedge.com/political/uber-warns-proposed-dc-rules-could-spark-driver-exodus-and-fare-spike",
+    "pubDate": "Mon, 19 Oct 2026 18:25:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "France Slaps 8PM Curfews On Cities As Interior Minister Admits Police 'Lost Control'; Macron Flees To The Gulf",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">France Slaps 8PM Curfews On Cities As Interior Minister Admits Police 'Lost Control'; Macron Flees To The Gulf</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>France moved Monday to put riot-hit cities under curfew after Interior Minister Laurent Nuñez admitted that <strong>authorities had lost control of the streets in several major cities over the weekend. </strong>President Emmanuel Macron refused Nuñez's offer to resign and then left for a Gulf tour to <a href=\"https://www.france24.com/en/live-news/20261019-macron-opens-gulf-tour-after-violent-protests-in-france\">secure fuel supplies</a>.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/6ad4b9ebe50b02f612be4af8_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/6ad4b9ebe50b02f612be4af8_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0748ce38-94e3-449c-907b-b6e5cc236788\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/6ad4b9ebe50b02f612be4af8_80.jpg\" /></a> <figcaption><em>Protesters vandalize a retail store during a demonstration near Place de la République in Paris. Carl Court/Getty Images </em></figcaption></figure><p>Prime Minister Sébastien Lecornu told prefects to impose <a href=\"https://www.pbs.org/newshour/world/french-prime-minister-lecornu-calls-for-localized-curfews-in-cities-to-curb-rioting-and-looting\">\"very limited\" and \"localized\" curfews</a>. According to France 24's live coverage, Lecornu ruled out a full curfew for Paris. He said a state of emergency could be declared \"if necessary,\" but that curfews seemed better suited, adding: \"I am absolutely determined to restore order.\" Marseille's prefect banned protests and gatherings from noon to 8 p.m.</p> <p>By Monday evening, <a href=\"https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting\">Lecornu's office</a> had named the first towns, all in the northern Nord department. <strong>Lille, Douai, Wattignies and Denain will be under curfew from 8 p.m. to 6 a.m. on Monday and Tuesday nights</strong>, with each mayor's agreement, according to Franceinfo. Lille is where Nuñez said rioters <a href=\"https://www.nbcnews.com/world/europe/france-violence-riots-looting-paris-limoges-curfews-macron-protests-rcna604292\">broke into</a> city hall, and Wattignies is one of its suburbs. Lille's Socialist mayor, Arnaud Deslandes, had refused earlier in the day to sign a curfew order, arguing that a late-evening curfew wouldn't match the hours the trouble broke out. Denain was already under curfew: its mayor ordered a <a href=\"https://www.franceinfo.fr/societe/couvre-feu-du-17-octobre-2020/la-mairie-de-denain-dans-le-nord-instaure-un-couvre-feu-d-une-semaine-apres-les-violences-du-17-octobre_8243746.html\">weeklong curfew</a> from 9 p.m. starting Sunday, after what the town said were fires, mortar fireworks and paving stones thrown at police by hooded rioters on Saturday.</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"fr\" xml:lang=\"fr\" xml:lang=\"fr\">🚨 ALERTE - L’APPLE STORE de Lille a été PILLÉ.</p> — Frontières (@Frontieresmedia) <a href=\"https://twitter.com/Frontieresmedia/status/2111521537765380174?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Protesters looting an Apple store in France<br /><br /><a href=\"https://twitter.com/hashtag/Europe?src=hash&ref_src=twsrc%5Etfw\">#Europe</a> <a href=\"https://twitter.com/hashtag/Macron?src=hash&ref_src=twsrc%5Etfw\">#Macron</a><br /><a href=\"https://twitter.com/hashtag/France?src=hash&ref_src=twsrc%5Etfw\">#France</a> <a href=\"https://twitter.com/hashtag/Mexico?src=hash&ref_src=twsrc%5Etfw\">#Mexico</a> <a href=\"https://twitter.com/hashtag/Brazil?src=hash&ref_src=twsrc%5Etfw\">#Brazil</a><br /><a href=\"https://twitter.com/hashtag/Protests?src=hash&ref_src=twsrc%5Etfw\">#Protests</a> <a href=\"https://twitter.com/hashtag/Spain?src=hash&ref_src=twsrc%5Etfw\">#Spain</a> <a href=\"https://twitter.com/hashtag/Ukraine?src=hash&ref_src=twsrc%5Etfw\">#Ukraine</a><br /><a href=\"https://twitter.com/hashtag/ItalyProtests?src=hash&ref_src=twsrc%5Etfw\">#ItalyProtests</a> <a href=\"https://twitter.com/hashtag/Milan?src=hash&ref_src=twsrc%5Etfw\">#Milan</a> <a href=\"https://twitter.com/hashtag/Iran?src=hash&ref_src=twsrc%5Etfw\">#Iran</a><br /><a href=\"https://twitter.com/hashtag/Marseille?src=hash&ref_src=twsrc%5Etfw\">#Marseille</a> <a href=\"https://twitter.com/hashtag/Poland?src=hash&ref_src=twsrc%5Etfw\">#Poland</a> <a href=\"https://twitter.com/hashtag/Paris?src=hash&ref_src=twsrc%5Etfw\">#Paris</a> <a href=\"https://twitter.com/hashtag/FranceProtests?src=hash&ref_src=twsrc%5Etfw\">#FranceProtests</a> <a href=\"https://twitter.com/hashtag/France?src=hash&ref_src=twsrc%5Etfw\">#France</a> <a href=\"https://twitter.com/hashtag/Riot?src=hash&ref_src=twsrc%5Etfw\">#Riot</a> <a href=\"https://twitter.com/hashtag/Riots?src=hash&ref_src=twsrc%5Etfw\">#Riots</a> <a href=\"https://twitter.com/hashtag/Lyon?src=hash&ref_src=twsrc%5Etfw\">#Lyon</a> <a href=\"https://twitter.com/hashtag/ParisRiots?src=hash&ref_src=twsrc%5Etfw\">#ParisRiots</a> <a href=\"https://twitter.com/hashtag/Europe?src=hash&ref_src=twsrc%5Etfw\">#Europe</a> <a href=\"https://twitter.com/hashtag/Albania?src=hash&ref_src=twsrc%5Etfw\">#Albania</a> <a href=\"https://twitter.com/hashtag/Internationalleaks?src=hash&ref_src=twsrc%5Etfw\">#Internationalleaks</a> <a href=\"https://twitter.com/hashtag/India?src=hash&ref_src=twsrc%5Etfw\">#India</a> <a href=\"https://twitter.com/hashtag/Uk?src=hash&ref_src=twsrc%5Etfw\">#Uk</a></p> — International Leaks (@Internl_Leaks) <a href=\"https://twitter.com/Internl_Leaks/status/2112223101803270524?ref_src=twsrc%5Etfw\">October 19, 2026</a></blockquote> <p><strong>Nuñez offered his resignation Sunday. </strong>He told France Inter: \"I submitted my resignation because I am responsible for everything that is happening.\" The Élysée said Macron refused \"given the need for continued command of law enforcement in the current context.\" Macron has acknowledged failures in planning and intelligence-gathering, ordered full transparency about them, and asked for new policing tactics \"as quickly as possible.\" Nuñez blamed \"hordes of troublemakers and looters\" and \"far-left activists,\" and said hundreds of businesses had been looted: \"You can't look shopkeepers in the eye.\"</p> <p>The numbers keep climbing. Nuñez put the arrests at about 400 on Saturday evening, <a href=\"https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests\">Lecornu later said 1,200</a>, and <strong>the Interior Ministry now counts nearly 2,400 nationwide, with almost 1,000 police and gendarmes injured, seven seriously.</strong> Authorities estimated Monday that at least <a href=\"https://local12.com/news/nation-world/french-pm-prime-minister-minister-sebastien-lecornu-calls-for-curfews-after-riots-engulf-cities-and-damage-historic-city-hall-paris-rioting-looting-protests-cost-of-living-fuel-prices-school-conditions-arrests-injuries\">3,000 businesses</a> were damaged or looted. AFP's report on Macron's trip puts the weekend total above 2,500. Paris prosecutors say 855 people were arrested in the capital on Saturday and another 208 on Sunday. Lecornu said no one was killed, calling it \"a miracle.\"</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"fr\" xml:lang=\"fr\" xml:lang=\"fr\"><a href=\"https://twitter.com/hashtag/Pillages?src=hash&ref_src=twsrc%5Etfw\">#Pillages</a> à Lille, Lyon, Montpellier et Nice en marge de la mobilisation du 17 octobre : Apple Store pillé à Lille, commerces visés dans la Presqu'île lyonnaise, Foot Locker pillé à Montpellier, vitrine brisée à Nice.<br /><br /> Vous étiez sur place ? Contactez First Eye.</p> — Agence FirstEye (@firsteyeoff) <a href=\"https://twitter.com/firsteyeoff/status/2111516731860537645?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <p>In his Sunday address, Macron said \"nothing justifies\" what he called \"unbridled\" violence. He blamed \"agitators from ultra-left fringe groups, joined by numerous delinquents,\" said he felt \"anger and shame,\" and <a href=\"https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation\">announced neither a state of emergency nor a curfew</a>. Lecornu has since said a whole network could be mobilised to challenge the presidential election timetable. Jean-Luc Mélenchon's response was that the prime minister must name those involved and provide proof.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/1536x864_cmsv2_cf6a5b67-ef23-5ef7-9ff8-141b648cbc87-9957125_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/1536x864_cmsv2_cf6a5b67-ef23-5ef7-9ff8-141b648cbc87-9957125_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"42c3a66c-ae1d-409a-a526-633b2060a3ff\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/1536x864_cmsv2_cf6a5b67-ef23-5ef7-9ff8-141b648cbc87-9957125_80.jpg\" /></a></p> <p><strong>Macron's Gulf tour opened in Kuwait City on Monday, with the UAE, Bahrain and Qatar to follow by Wednesday.</strong> Executives from TotalEnergies and Engie are traveling with him to seek commitments on diesel and oil volumes, and the talks include moving pre-positioned kerosene and diesel from Oman to Réunion and Mayotte. Macron said the trip was needed to \"secure our supplies,\" noting that demonstrators had raised fuel prices. Constitutional expert Benjamin Morel told AFP the tour could look like business as usual but might also seem out of touch and suggest a power vacuum. <strong>Francis Perrin of the French Institute for International and Strategic Relations does not expect it to move fuel prices,</strong> since Gulf states find firm commitments difficult while the region remains disrupted by the US-Iran war and the closure of the Strait of Hormuz.</p> <p>The protests were called over the cost of living and conditions in schools, after weeks of student protests. The CGT union claimed 800,000 marchers on Saturday; Nuñez put the figure at about 550,000, including 110,000 in Paris. The violence has been severe: in Limoges the prefect said the town hall was \"largely lost\" to fire, and a 17-year-old protester reportedly lost a hand in Saint-Étienne, apparently to a police grenade. A prosecutor has asked the police watchdog IGPN to investigate; Nuñez said he could not confirm that. The Yellow Vest movement has called for another round of protests on Saturday, France 24 reported.</p> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🇫🇷🔥 Limoges city hall set on fire by rioters at the end of the Oct. 17 protest; the bell tower collapsed and the prefect says the building is \"largely lost\"<br /><br /> Rioters attacked Limoges' hôtel de ville late Saturday afternoon after the Oct. 17 cost-of-living march, breaking windows and setting fire to the ground floor; cars were also burned outside. Firefighters arrived shortly after 6 p.m., and the flames reached the roof around 7 p.m. and were still burning at 8:10 p.m. The 43-meter bell tower collapsed. Prefect Maurice Barate said the roof fell onto the lower floors except in the west wing and two-thirds of the facade had disappeared, calling the building \"largely lost,\" a \"heritage catastrophe\" and a \"deliberate act\" by rioters. The 19th-century building, opened in 1883 and inspired by Paris's city hall, is a listed monument. Interior Minister Laurent Nuñez confirmed the fire; Prime Minister Sébastien Lecornu said \"we will not be intimidated.\" Earlier in Limoges, fireworks mortars were fired at police near the A20 interchange, a police vehicle was burned and shops were looted. Reported by AFP, franceinfo, Europe 1 and Flash FM.<br /><br /> NOT CONFIRMED: Which artworks and decorations inside have been destroyed. Claims that works by Henri-Paul Motte, Jean-Joseph Weerts and Urbain Bourgeois are definitively lost have not been confirmed by officials, and no inventory has been published. I also found no figure on injuries or arrests in Limoges.<br /><br /> Saturday's national mobilization against the cost of living drew a very large turnout, with CNews reporting more than 550,000 demonstrators, while violence was concentrated in Paris, Lyon, Marseille and Limoges, including a brief break-in at Marseille's city hall.<br /><br /> The loss of a historic city hall turns a day of mostly peaceful marches into a symbolic national event and will dominate the political response. What to watch: the official damage and heritage assessment once the fire is out, arrests and charges for arson, the government's response including any new security measures, and whether the unions and student groups distance themselves from the violence.<br /><br /> Sources: AFP; franceinfo / France 3 Nouvelle-Aquitaine; Europe 1; CNews; Flash FM; Haute-Vienne prefecture; Interior Ministry.</p> — 🔥🗞The Informant (@theinformant_x) <a href=\"https://twitter.com/theinformant_x/status/2111560981696381043?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">A historic town hall in France's Limoges has been ravaged by fire after a day of violent protests across the country saw widespread arson, pillaging, and more than 1,200 arrests.<br /><br /> The clock tower of the 143-year-old Hôtel de Ville building collapsed on Saturday night after rioters set it ablaze.<br /><br /> Read our full dispatch below 👇</p> — The Telegraph (@Telegraph) <a href=\"https://twitter.com/Telegraph/status/2111728998497570827?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <p>Markets noticed. The French 10-year yield rose 12 basis points to 4.90% Monday, according to France 24. As we reported, <a href=\"https://www.zerohedge.com/markets/french-bonds-stocks-drop-far-left-migrant-riots-worsen-macron-fails-restore-order\">French bonds and stocks dropped</a> as the riots worsened, after we had described France entering a <a href=\"https://www.zerohedge.com/political/france-enters-point-no-return-riots-and-chaos-spread\">\"point of no return\"</a> on Sunday.</p> <p><strong>Macron has refused an interior minister's resignation before. </strong>In October 2018 he <a href=\"https://www.thelocal.fr/20181003/macron-forced-to-accept-accept-interior-ministers-resignation\">turned down Gérard Collomb's first offer</a>, citing confidence in him, and accepted a second one two days later.</p> <p><em>Cover photo: A protester throws a cobblestone during an anti-government demonstration in central Tirana on October 17, 2026 (Photo by Armend NIMANI / AFP)</em></p> <p><em>* * *</em></p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/France-Protests-39_1792268356_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/France-Protests-39_1792268356_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1777867e-5382-44ba-81c5-a41c6549d79c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/France-Protests-39_1792268356_80.jpg\" /></a> <figcaption><em>Emma Da Silva/Associated Press </em></figcaption></figure></article><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T18:10:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 14:10</span>",
+    "link": "https://www.zerohedge.com/geopolitical/france-slaps-8-pm-curfews-cities-interior-minister-admits-police-lost-control-macron",
+    "pubDate": "Mon, 19 Oct 2026 18:10:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Musk Pledges A SpaceX Share To \"Every Kid In America\" After Anthropic Unveils Murky Public Benefit Fund",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Musk Pledges A SpaceX Share To \"Every Kid In America\" After Anthropic Unveils Murky Public Benefit Fund</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><strong>Elon Musk said Monday that he will give one of his SpaceX shares to every child in the United States next year. </strong>\"Next year, I will give one of my SpaceX shares to every kid in America,\" he wrote in an Oct. 19 post on X, adding, \"This will be the first of many,\" <a href=\"https://www.theepochtimes.com/business/elon-musk-pledges-to-give-every-kid-in-america-1-spacex-share-6105850?utm_source=partner&utm_campaign=ZeroHedge\">the Epoch Times</a> reported.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Next year, I will give one of my SpaceX shares to every kid in America.<br /><br /> This will be the first of many.</p> — Elon Musk (@elonmusk) <a href=\"https://x.com/elonmusk/status/2112089556615123114?ref_src=twsrc%5Etfw\">October 19, 2026</a></blockquote> <p>Close to 73 million children under 18 lived in the US as of July 2025 <strong>- so a</strong><strong>t around $147 a share, that comes to close to $11 billion of stock</strong>, about 1.5 percent of the roughly 4.8 billion SpaceX shares Musk owns, or 6.4 billion counting options and unvested awards, by the outlet's count.</p> <p><strong>Musk did not say how the shares would be distributed or whether every child would be eligible</strong>. SpaceX, which went public in June, is valued at about $2 trillion, according to the Epoch Times. The Treasury automatically enrolled tens of millions of children in <a href=\"https://www.theepochtimes.com/us/70-million-american-children-now-enrolled-in-trump-accounts-white-house-6100733?utm_source=partner&utm_campaign=ZeroHedge\">Trump Accounts</a> earlier this month and now allows donors to put stock into them, though Musk did not say he would use the program.</p> <p>The pledge came a day after Anthropic <a href=\"https://www.anthropic.com/news/public-benefit-fund\">said</a> it would commit 5 percent of its shares, subject to stockholder approval, to a new Anthropic Public Benefit Fund, with 2 percent more at the board's discretion for each 50 percent rise in the company's value above a set baseline. Counting its co-founders' pledge to donate 80 percent of their equity and an employee donation match, <strong>Anthropic says roughly 20 percent of its shares are now committed to the public good.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">We're committing a portion of Anthropic's shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.<br /><br /> It will start off with 5% of our shares. For every 50% increase in the company's value over a set baseline, we can...</p> — Anthropic (@AnthropicAI) <a href=\"https://x.com/AnthropicAI/status/2111881963657412903?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <p>The fund, a wholly owned LLC, might make large donations to nonprofits or \"direct distributions to specific populations,\" with AI's effect on jobs one example. Anthropic has not said who will run it and plans to share its structure and governance \"in the coming months.\"</p> <p><strong>\"I recommend giving the shares directly to the public,\"</strong> Musk replied on X about two hours after Anthropic posted the plan on Sunday. Hours later he added, \"This is what I will be doing.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">I recommend giving the shares directly to the public</p> — Elon Musk (@elonmusk) <a href=\"https://x.com/elonmusk/status/2111914396490604547?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">This is what I will be doing</p> — Elon Musk (@elonmusk) <a href=\"https://x.com/elonmusk/status/2111980598084698114?ref_src=twsrc%5Etfw\">October 19, 2026</a></blockquote> <p>Musk is hardly a neutral critic.<strong> SpaceX absorbed his xAI startup in February and now competes directly with Anthropic,</strong> which confidentially filed for an IPO in June and has been <a href=\"https://www.zerohedge.com/ai/anthropic-opens-its-books-wall-street-openais-20-billion-gross-net-hole-hangs-over-ai-trade\">opening its books</a> to Wall Street ahead of a listing.</p> <p>In July, SpaceX President Gwynne Shotwell and her husband pledged one share each for more than 2 million children through the Trump Accounts savings program, focused on lower-income children aged 11 to 17. At the $160.42 close on the day the gift was announced, more than 2 million shares came to at least $320 million. </p> <p>President Trump told CNBC on July 3 that he expected Musk to contribute SpaceX stock to Trump Accounts as well, saying, \"I think that he will do that,\" <a href=\"https://jang.com.pk/en/68455-spacex-stock-jumps-after-donald-trump-floats-elon-musk-donation-idea-news\">according to Jang</a>. Neither Musk nor SpaceX had confirmed it at the time.</p> <p>In its first earnings report as a public company, on Aug. 4, SpaceX posted $7.8 billion in revenue, but <a href=\"https://fortune.com/2026/08/04/elon-musk-spacex-earnings-trillion-revenue-target-capex-stock-reaction/\">Fortune reported</a> capital spending of $18.4 billion, about $16 billion of it on AI computing, against the $13.2 billion analysts expected. The stock fell more than 5 percent.</p> <iframe aria-label=\"Line chart\" data-external=\"1\" frameborder=\"0\" height=\"411\" id=\"datawrapper-chart-aIgtr\" scrolling=\"no\" src=\"https://datawrapper.dwcdn.net/aIgtr/1/\" style=\"border: none;\" title=\"Shares of SpaceX Since June 12 Wall Street Debut\" width=\"600\"></iframe> <p><strong>The company reports second-quarter results after the close on Oct. 20. </strong>Market watchers project revenue of $12.74 billion to $12.89 billion, driven mainly by AI and Starlink, and earnings per share of $0.14 to $0.23, the Epoch Times said. SpaceX is also seeking to raise $40 billion to buy advanced Nvidia AI chips, which the Epoch Times said signals that Musk wants to turn it into an AI computing company.</p> <p>That spending has been a worry for credit markets. We <a href=\"https://www.zerohedge.com/markets/spacex-credit-risk-hits-new-high-ai-debt-binge-fears-spook-bondholders\">reported</a> earlier this month that SpaceX credit risk had hit a new high on fears about its AI debt.</p> </article><script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T17:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 13:40</span>",
+    "link": "https://www.zerohedge.com/markets/musk-pledges-spacex-share-every-kid-america-after-anthropic-unveils-murky-public-benefit",
+    "pubDate": "Mon, 19 Oct 2026 17:40:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Secret Service Deputy Director Quits Amid Questions Over Ties To Drone-Defense Maker Fortem",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Secret Service Deputy Director Quits Amid Questions Over Ties To Drone-Defense Maker Fortem</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://www.realclearpolitics.com/articles/2026/10/16/secret_service_deputy_director_resigns_amid_drone_controversy_154591.html\">Authored by Susan Crabtree via RealClearPolitics</a>,</em></p> <p><strong>Deputy Director Matt Quinn announced his resignation from the Secret Service in an internal agency email Friday amid questions about his conflicts of interest over the agency's counter-drone technology.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/729019_6_.jpeg_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/729019_6_.jpeg_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"76323cb9-d0d6-4552-9321-5240837f3ca3\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/729019_6_.jpeg_80.jpg\" /></a></p> <p>Quinn served 23 years as a Secret Service agent before retiring in 2021. <strong>He then went to work at drone-manufacturer Fortem Technologies, which sells the DroneHunter product</strong>, as a senior vice president for three years before returning to the agency last year to serve as deputy director. His last day will be Nov. 7.</p> <p>As RealClearPolitics first reported, Quinn was criticized by several current and former Secret Service agents for admitting during a mostly softball Sunday CBS News \"60 Minutes\" interview that the Secret Service was not prepared for an attack by a drone swarm.</p> <p>The piece featured a DroneHunter demonstration without mentioning several technical problems the platform has experienced. RealClearPolitics over the last 48 hours submitted detailed questions to the Secret Service about some of the statements made during the \"60 Minutes\" interview about the drone technology, its effectiveness, whether the DroneHunter's purchases were competitively bid, and the agency's track record in taking out drones.</p> <p><strong>The \"60 Minutes\" report did not mention Quinn's prior work for Fortem.</strong> The Secret Service did not respond to RCP's questions.</p> <p>Even before Quinn's announced departure, several Secret Service sources were questioning a report in a recent CBS \"60 Minutes\" segment that the agency used electronic jamming equipment to take down a drone at the Army-Navy game in Baltimore last December. The game was attended by the president and several members of Congress.</p> <p>The sources suggest that the Secret Service is not providing the proper context about the downed drone, while raising concerns that it was most likely a friendly-fire incident.</p> <p>CBS News correspondent Norah O'Donnell sat down with Secret Service Director Sean Curran and Quinn in a joint interview that aired Sunday night, Oct. 11. The three discussed this year's surge in threats to President Trump and his Cabinet and how the agency is trying to adapt to dangers posed by autonomous attack drones, not just lone gunmen.</p> <p>The 13-minute report features scenes of Curran and Quinn at the agency's Rowley Training Center demonstrating counter-drone systems. The segment featured drone-fighting technology, including the DroneHunter, a weapon that uses AI and radar to disable what O'Donnell referred to as \"enemy drones.\" When it's working properly, the DroneHunter captures targeted unmanned aerial vehicles in a net.</p> <p>At one point, Quinn, who concedes during the interview that the agency doesn't have the capability to stop a swarm of drones, narrates as a DroneHunter hexacopter captures an unmanned aerial vehicle in a training demonstration.</p> <p>\"Whoa,\" O'Donnell remarks while watching the capture starting to take place.</p> <p>\"What you see is the drone hanging from the drone hunter,\" Quinn explains. \"So, the bad guy drone is now captured. It's gonna take it to a predetermined safe area.\"</p> <p>Near the end of the segment, O'Donnell <a href=\"https://www.cbsnews.com/news/secret-service-confronts-rise-in-threats-to-protectees-60-minutes-transcript/\">states</a> without citing a source: \"<strong>60 Minutes has learned the Secret Service took down a drone using electronic jamming equipment at the Army-Navy game in Baltimore</strong> last December where the president and members of Congress were in attendance.\"</p> <p>It was just one line in the segment, and there was no explanation of whether the drone posed a genuine threat to Trump and everyone else gathered in the stadium for the annual military academy football rivalry. The report also didn't indicate whether the drone was associated with a foreign actor or was simply a hobbyist's drone that posed no threat at all.</p> <p>Active and retired Secret Service agents are now calling on agency leaders to explain more fully what happened. Their biggest question is whether it was a case of friendly fire. Instead of intercepting an alien drone that may or may not have posed a threat, <strong>a Secret Service officer or agent used a handheld drone-jamming gun to disable and take out one of its own surveillance drones</strong> monitoring the stadium, the sources tell RealClearPolitics.</p> <h2>Trigger-happy</h2> <p>A Secret Service source said the Specialized Rifle Unit, a tactical element within the Secret Service's Uniformed Division, got \"trigger happy\" and took out an agency surveillance drone without communicating with others to find out whether it was an agency asset.</p> <p>\"SRU was, to my knowledge, the drone hunter team, and [they] failed to deconflict,\" the source told RealClearPolitics. The SRU officers were celebrating until they realized it was a \"blue-on-blue\" incident, the source added.</p> <p>Two sources told RCP that the downed Secret Service drone fell either onto or just to the side of Interstate 395, where the agency recovered it. <strong>Several sources also said the DroneHunter failed to operate as planned on the day O'Donnell was scheduled to appear</strong> at the training center for the demonstration. Since Quinn returned to the Secret Service, several agents have questioned whether he should have recused himself from any decisions on DroneHunter purchases because of his ties to the manufacturer.</p> <p>The Secret Service didn't respond to a set of emailed questions RCP posed about the Army-Navy game drone downing.</p> <p>Such a friendly-fire incident would not be the first time this year that a federal law enforcement agency was involved in shooting down a U.S. government drone.</p> <p>The U.S. military accidentally shot down a U.S. Customs and Border Protection drone using a high-energy anti-drone laser system near Fort Hancock, Texas, in February. Reports on the incident said the CBP didn't coordinate the flight with the military task force assigned to the U.S.-Mexico border.</p> <p>Still, the agency's silence around the Army-Navy incident is once again stoking internal agency concern that Secret Service leaders have yet to fix all siloed communications between agency assets that are supposed to be working in tandem to protect President Trump.</p> <h2>Another case of siloed communications?</h2> <p>The friendly-fire accusations cite a disconnect between the Secret Service's drone surveillance operators and a team dedicated to disrupting drones that may pose a threat to Trump. The sources say they are raising concerns about the incident because they are deeply worried that the agency has yet to fix the communications confusion that contributed to the assassination attempt against Trump in Butler, Pennsylvania.</p> <p>The shooting wounded Trump, killed retired fireman Corey Comperatore, and seriously injured two other men, James Copenhaver and David Dutch.</p> <p>Congressional investigators found that on July 13, 2024, information about shooter Thomas Crooks moved through two largely separate channels - local police and the Secret Service - and also failed to spread within the Secret Service's own network.</p> <h2>'Nothing changes here'</h2> <p>A Biden administration Department of Homeland Security official moved quickly after former Secret Service Director Kimberly Cheatle's resignation in 2024 to reassure Rowe, the incoming acting director at the time, that operations would continue unchanged under his new leadership - even as the agency struggled to defend itself to Congress and the public over Trump's near-assassination.</p> <p>Newly released documents obtained by the Center to Advance Security in America, a conservative watchdog organization, through ongoing Freedom of Information Act litigation reveal new internal reactions to the Butler shooting. The files also provide new detail about the fallout after Cheatle's resignation as Secret Service director days later.</p> <p>Then-DHS Secretary Alejandro Mayorkas issued an agency-wide email at 1:08 p.m. on Tuesday, July 23, 2024, on his statement regarding Cheatle's resignation, under pressure from lawmakers after her testimony to Congress and Rowe's appointment.</p> <p>In the statement, Mayorkas commended Cheatle for what he cast as her \"tireless dedication,\" \"honor,\" and \"integrity\" over nearly three decades in the Secret Service.</p> <p>\"Over the past two years, she has led the Secret Service with skill, honor, integrity and tireless dedication,\" he said.</p> <p>Six minutes later, at 1:14 p.m., a DHS official forwarded that same statement - this time to Rowe alone - with a personal note attached: <strong>\"Nothing changes here, Ron, I have your back.\"</strong></p> <p>\"Thank you,\" Rowe replied.</p> <p>The identity of the person who forwarded the email to Rowe was redacted in the first version CASA received. CASA Director James Fitzpatrick says the DHS and the Secret Service withheld the name, citing personal privacy and a concern that disclosure could interfere with law enforcement proceedings.</p> <p>CASA appealed the redaction, and a judge agreed to overturn it, revealing that <strong>Patrick \"PJ\" Lechleitner, acting director of Immigration and Customs Enforcement from July 2023 to January 2025, sent the note to Rowe</strong>.</p> <p>CASA Director James Fitzpatrick interpreted Lechleitner's \"nothing changes\" remark as an endorsement of the status quo at both DHS and the Secret Service after a disgraceful breakdown in security.</p> <p>\"Through aggressive FOIA litigation, CASA uncovered documents from the Biden [DHS] showing that an official reassured Ron Rowe just hours after Cheatle resigned that 'nothing changes here' after one of the biggest security breakdowns in the history of the country in Butler, PA,\" he told RCP.</p> <p>Contacted by RealClearPolitics, Lechleitner said the comments he made to Rowe at the time were from one \"cop to another\" that \"nothing changes\" - \"everything is good between ICE and the Secret Service.\"</p> <p>\"Honestly, I had worked with Ron, and we were all career people before [our political appointments],\" he said.</p> <p>The message was simply one of support, Leichleitner explained.</p> <p>\"It was just [that the] relationship remains regardless of the leadership that moves around,\" he said.</p> <p>Lechleitner also said his career background before heading ICE was in DHS's Homeland Security Investigations department, which often works directly with the Secret Service to provide additional federal agents to assist with security at events. In fact, several HSI agents had augmented security for the Butler rally.</p> <p>Trump removed Lechleitner along with other key Biden immigration enforcement officials on his first day in office.</p> <h2>DEI and a lack of training 'had nothing to do with' Butler failures</h2> <p>A second document provided to CASA through the FOIA process provides details of the \"murder board\" prep sheet - mock question-and-answer exercise agencies use to prepare officials for hostile congressional questioning - used to ready Rowe for his July 30, 2024, appearance before a joint hearing of the Senate Judiciary and Homeland Security committees.</p> <p>Talking points in the document, as described by CASA, include assertions that a forthcoming investigation would show a \"thorough security plan\" had been in place, that \"DEI issues had nothing to do with\" the security breakdown, that there was \"not a lack of USSS training,\" and that there had merely been \"an unwanted outcome\" in Thomas Crooks' near-killing of Trump.</p> <p>The document also states the agency would \"take steps to ensure an unwanted outcome like this does not occur again.\"</p> <p>Six weeks later, in September 2024, a second near-miss attempt was made on Trump's life at his golf course in West Palm Beach, Florida. During that incident, a Secret Service agent shot and missed Ryan Routh, who was hiding in the shrubs near the sixth hole while pointing a rifle at Trump and his security team.</p> <p>Congressional <a href=\"https://kelly.house.gov/media/press-releases/final-report-task-force-concludes-its-investigation-releases-report-text\">investigations</a> and a <a href=\"https://www.judiciary.senate.gov/press/rep/releases/grassley-report-concludes-secret-service-failure-to-share-threat-information-allowed-for-preventable-tragedy-in-butler-identifies-path-forward-for-agency-improvements\">GAO report</a> have concluded that inadequate preparation and training contributed to the near-killing of Trump at the July 13, 2024, Butler rally.</p> <p><strong>Fitzpatrick argues the prep materials show Rowe working to shield the Biden administration's DEI mandates</strong> and the Secret Service's training problems from scrutiny rather than fully reckoning with the agency's failures.</p> <p>\"Not only that, but during Rowe's preparation for this July 30, 2024, testimony to a joint Senate committee, he attempts to mask the various downfalls of the Secret Service and goes out of his way to try to protect the Biden DEI initiatives that the agency was obsessed with at the time,\" Fitzpatrick said.</p> <p>CASA says the FOIA litigation is ongoing and that it expects additional records to surface as the redaction appeal proceeds.</p> <p>The Secret Service did not respond to a request for comment.</p> <h2>A dissenting voice from inside the agency</h2> <p><strong>Rowe's Senate testimony contradicts assertions by numerous former senior Secret Service agents</strong> and at least one current agent who has spoken out against the agency's DEI policies, which he asserts directly contributed to the Butler shooting.</p> <p>Rashid Ellis, a 13-year veteran of the agency who has served in an elite unit and on top protective assignments, last year sat down for an interview with the Independent Women's Forum, a Virginia-based conservative nonprofit.</p> <p>\"My initial thoughts when seeing the Butler assassination attempt was dread,\" Ellis says in a video. \"My stomach was in knots watching it because we had known for years that this was coming.\"</p> <p>Ellis went further in the interview, saying he believes internal DEI agendas at the agency had long taken precedence over its protective mission, and that this dynamic is directly connected to what happened in Butler.</p> <p>A graduate of The Citadel military college in South Carolina, Ellis has held a string of high-level assignments over his 13-year career, including a stint on the agency's Counter Assault Team, an elite tactical unit, and a posting on the Presidential Protective Detail. He has also taught counter-surveillance as an instructor at the Secret Service's training center.</p> <p>Ellis, who is African American, argued in his lawsuit that the agency's diversity-based hiring and promotion practices have damaged morale and fueled a wave of departures among senior agents.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T17:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 13:25</span>",
+    "link": "https://www.zerohedge.com/political/secret-service-deputy-director-quits-amid-questions-over-ties-drone-defense-maker-fortem",
+    "pubDate": "Mon, 19 Oct 2026 17:25:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Communism, Berlin Edition: Adler Bonds Crash To Record Low As Left Coalition Plans To Socialize 152,000 Apartments",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Communism, Berlin Edition: Adler Bonds Crash To Record Low As Left Coalition Plans To Socialize 152,000 Apartments</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Five years after Berliners voted to expropriate their landlords, the German capital finally has a government willing to do it.</p> <p>On Saturday, Die Linke, the Greens and the SPD presented the 30-page exploratory paper that will underpin their coalition agreement for the next Berlin Senate, and buried among the usual promises sits a plan to <b>socialize, under Article 15 of the German constitution, every apartment a private landlord owns in Berlin above the first 10,000</b>. The compensation for this act of municipal generosity: a hard cap of €16 billion which works out to about €105K per unit, or <b><i>58% of book value</i></b>... and even that cap is conditional on \"fiscal sustainability.\"</p> <p>The bond market did the rest: <a href=\"https://adlergroup.com/\">Adler Group</a>'s 10% notes due 2029 plunged 20 points on Monday to a record low around 59 cents on the euro (they dropped as 53 earlier in the session), as creditors scrambled to price in the possibility that <strong>43% of Adler's yielding Berlin portfolio is about to be bought by the state at a 42% to 48% discount to book.</strong></p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Adler%20Financing%2010pct%202029%20bond%20-%202026-10-19.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Adler%20Financing%2010pct%202029%20bond%20-%202026-10-19.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7720cb97-5dca-4cd1-aa3b-17486ec08d41\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Adler%20Financing%2010pct%202029%20bond%20-%202026-10-19.png\" /></a></figure><p>Regular readers will recall we flagged the direction of travel back in January, when we noted that the German capital had become a testing ground where <a href=\"https://www.zerohedge.com/markets/berlins-real-estate-market-socialism-rise\">socialism was on the rise in Berlin's real estate market</a>. And on election night, September 20, when the results first came in, we tweeted the punchline:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">MERZ'S CDU PARTY POSTS WORST RESULT EVER IN A GERMAN STATE VOTE AFD AHEAD OF SOCIAL DEMOCRATS IN NORTHEASTERN STATE VOTE ANTI-CAPITALIST LEFT PARTY LEADING IN BERLIN ELECTION</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2101703949631775167?ref_src=twsrc%5Etfw\">September 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Four weeks later, the anti-capitalist party is about to run the city and the plan is on paper. So let's look at who is on the list, what Berlin is offering, and why <b>the people most likely to stop this sit in Karlsruhe and in the Chancellery.</b></p> <h2>From \"Deutsche Wohnen Enteignen\" To \"Vonovia, Mostly\"</h2> <p>Some background first. In September 2021, <a href=\"https://www.reuters.com/world/europe/berliners-vote-expropriate-large-landlords-non-binding-referendum-2021-09-27/\">Berliners voted 59.1% in favor</a> of a non-binding referendum to <strong>expropriate landlords owning more than 3,000 apartments, about 240,000 units in total</strong>. The CDU-SPD Senate that followed sat on it, an expert commission concluded in 2023 that it was possible under Article 15 (an article which, for what it's worth, <b>has never been used in the 77-year history of the Federal Republic</b>), and that was that.</p> <p>Then on September 20, Die Linke, whose roots lie in the East German communist party, won 25.7% of the vote, its best result ever, displacing Merz's CDU from the mayor's office. Its lead candidate Elif Eralp, who <a href=\"https://www.reuters.com/world/far-left-leader-pushing-lead-berlin-says-city-has-voted-change-2026-09-21/\">told Reuters</a> that <strong>Zohran Mamdani's win in New York was \"a big example for us\", campaigned on expropriating more than 200,000 units</strong>. And in case anyone thought it was just rhetoric, the party's Berlin deputy chair Martha Kleedörfer helpfully <a href=\"https://brusselssignal.eu/2026/10/berlin-left-invites-investors-out-and-backs-expropriation-of-220000-flats/\">told investors</a> on Instagram that <strong>the Left would have no problem if they \"finally go home\".</strong></p> <p>The SPD, whose lead candidate Steffen Krach had categorically ruled out expropriations during the campaign, folded in the exploratory talks; the price of power, it turns out, was about 152,000 apartments.</p> <p>What the three parties agreed:</p> <ul><li><b>Threshold of 10,000 units per company</b> (vs. 3,000 in the referendum), with each landlord allowed to keep the first 10,000; apartments built after January 1, 2021, cooperatives and non-profits are exempt</li> <li><b>Compensation capped at €16 billion</b>, conditional on fiscal sustainability, meaning it can fall if financing conditions worsen</li> <li>A financing concept in 2027 which leaves open whether owners get cash or <b><i>100-year bonds</i></b>, a bill in the Berlin parliament by mid-2028, and transfers taking effect one year after promulgation, i.e. <b>mid-2029 at the earliest</b></li> </ul><p>Based on documented holdings, that means roughly 152,000 apartments (the Left's own spokesperson puts it at about 160,000 from five companies, adding the DVI Group): Vonovia 128K, Heimstaden 10K, Adler 7.4K and Covivio 7K. In other words, <b>this is overwhelmingly a Vonovia story</b>, as the 10,000 allowance shields almost all of the smaller landlords and leaves Germany's biggest landlord holding the bag on 93% of its Berlin stock.</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Berlin%20socialisation%20shopping%20list%20-%202026-10-19.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Berlin%20socialisation%20shopping%20list%20-%202026-10-19.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4e14a45d-8f3d-45d0-9a74-136e64b8c006\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Berlin%20socialisation%20shopping%20list%20-%202026-10-19.png\" /></a></figure><h2>Buy High, Expropriate Low</h2> <p>Now the fun part: the price. <strong>At €16 billion for ~152,000 units, Berlin is offering about €105K per apartment, roughly 58% of book value on a pro rata basis</strong>. That alone is a remarkable number, but it becomes even more remarkable when you recall that <b>Berlin has bought these very same apartments before</b>.</p> <p>Back in September 2021, nine days before the referendum, Vonovia and Deutsche Wohnen <a href=\"https://www.reuters.com/world/europe/berlin-buy-15000-flats-246-bln-euros-city-senator-2021-09-17/\">sold almost 15,000 apartments</a> to the city's municipal housing companies for €2.46 billion, or about €165K per unit. At the time, the expropriation campaigners slammed the deal as a \"backdoor\" purchase at \"speculative prices\". Five years, one property crash and one election later, the city wants the next batch for 36% less... and this time it won't be asking nicely.</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Berlin%20price%20per%20unit%20then%20vs%20now%20-%202026-10-19.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Berlin%20price%20per%20unit%20then%20vs%20now%20-%202026-10-19.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"71b95b4e-8bc8-4910-b6eb-cf8d705d4e2f\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20Berlin%20price%20per%20unit%20then%20vs%20now%20-%202026-10-19.png\" /></a></figure><p>Even at those prices, the math is probably not as easy as the Left thinks. Berlin's debt is already close to €70 billion, and the State Audit Office estimated in 2024 that paying market value could cost as much as €40 billion. Which is presumably why the €16 billion cap is \"conditional\" and why the 100-year bond idea is still floating around (an earlier Left draft talked about paying 40% to 60% of market value in century bonds). <b>Paying for apartments with paper that matures in 2129 is one way to keep the deficit looking fine for a while.</b> Or as Chancellor Merz put it after the election, <a href=\"https://www.iamexpat.de/housing/property-news/merz-ban-housing-expropriation-after-die-linke-win-berlin\">\"They'll never be able to pay for it all.\"</a></p> <p>He may well be right, but that is little comfort for anyone holding the paper in the meantime. It also makes this morning's sibling piece on <a href=\"https://www.zerohedge.com/political/germanys-rent-control-backfiring-new-study-107-cities-finds\">how Germany's rent control is backfiring</a> especially timely: <strong>Berlin has spent a decade \"fixing\" its housing shortage with price controls, and now proposes to fix the result of those price controls with... confiscation.</strong></p> <h2>Adler: The Weakest Link Gets Named (Twice)</h2> <p>Why did Adler's bonds crash while Vonovia's stock slid \"only\" about 2.6%? Because for Adler, this is an existential question for creditors. According to the <a href=\"https://x.com/SpecialSitsNews/status/2112145117133910116\">Special Situations Research Newsletter</a>, Adler's 7.4K exposed units represent roughly <b>43% of its yielding portfolio</b>. At the cap, Adler would receive €105K per unit on a flat split, or closer to €115K pro rata to book, i.e. €777 million to €860 million against €1.49 billion of book: <b><i>a 42% to 48% discount</i></b>, which implies a gross rental yield of about 7% at the cap.</p> <p>And it gets worse. Beyond Article 15, the exploratory paper goes out of its way to name Adler's Steglitzer Kreisel tower as its example of a \"speculative construction ruin\" (<i>Bauspekulations-Ruine</i>). The coalition says it will sanction inactivity on such sites, expects completion \"often only after insolvency proceedings\", and plans to use \"transfer of ownership\" to get there. <b>Being singled out by name in a governing coalition's founding document is rarely a good sign for a twice-restructured issuer</b>, which is maybe why the 2029s went from 78 to the high 50s in one session, after already sliding from par since mid-September.</p> <p>Heimstaden is next in line with more than 20K Berlin units, meaning roughly 10K are exposed, about 6% of the group total (and a bit more by value, since German units carry higher book values than the group average). Heimstaden is already in the news after Goldman flagged last month that Vonovia could be a potential winner of a €10 billion third-party mandate linked to <a href=\"https://marketdesk.ai/standalone/G7gjrhNflxc\">Alecta's reported separation from Heimstaden</a>.</p> <h2>Vonovia: \"Unconstitutional\"</h2> <p>As for Vonovia, which has the most to lose with roughly 128K exposed units, the response was swift. The company <a href=\"https://www.tagesspiegel.de/politik/dpa-regierungsbildung-in-berlin-vonovia-vergesellschaftung-in-geplanter-form-nicht-machbar-16175358.html\">told dpa</a> that the exploratory result \"changes nothing\" about its stance and that it is convinced socialization in the planned form is unconstitutional and would not survive the courts. The company also pointed out that the average rent in its Berlin portfolio is €8.26 per square meter (hardly the stuff of rapacious landlords) and that it has about 1,000 units under construction in the city; CEO Luka Mucic had already noted after the election that <i>socialization doesn't create any new housing</i>.</p> <p>The stock fell more than 2% on Monday morning to around €16.40, <b>near its lowest since 2023 and down more than 40% YTD</b>. Some on the sell side are taking it in stride: Baader's Christian Auzanneau, who still has a Buy and a €30.30 target on the stock (set before the coalition paper), argued that there is no broad political majority for expropriation and that federal law stands in the way. Which brings us to Goldman.</p> <p>In a note published this morning (<a href=\"https://www.zerohedge.com/signup/professional-membership-year\"><i>available to pro subs</i></a>), Goldman's European real estate team writes that the latest Berlin proposal \"<a href=\"https://marketdesk.ai/standalone/USR2m3i0cpf\">moves a step forward, but scope reduced</a>\":</p> <blockquote>Following the September Berlin election, where Germany's Die Linke (the Left) party took first place, the Left, Greens and SPD have now concluded exploratory talks and will each vote to enter formal coalition negotiations. <strong>They have reaffirmed plans to pursue the socialisation of large residential portfolios, </strong>but the latest proposal is narrower than both the original 2021 referendum proposal and earlier campaign proposals. It focuses on landlords with at least 10,000 units instead of 3,000 units, and landlords would be allowed to keep 10,000 units, <strong>in practice implying the coalition would target c. 160,000 units for nationalisation at a proposed maximum compensation of [€]16bn (i.e. €100k / unit).</strong></blockquote> <p>Goldman then points to the federal backstop: Merz's CDU/CSU-SPD government has called for an acceleration of a <b>federal law to veto the nationalisation of private housing companies through state-level socialisation laws</b>, with first drafts already prepared and coordinated between the Justice and Interior Ministries. Still, the bank's conclusion is hardly a ringing all-clear:</p> <blockquote><b>We continue to see Berlin housing policy uncertainty as an overhang for residential landlords with exposure to the city</b>, pending greater clarity on coalition formation and the resulting policy framework.</blockquote> <p>Translation: <i>nobody knows if this will survive the Constitutional Court or a federal veto, but nobody wants to own the stock while they find out.</i></p> <h2>The Fine Print Nobody Is Talking About</h2> <p>Even if Article 15 never gets used, the paper contains plenty that will apply to every landlord in the city, not just the four big ones:</p> <ul><li>A new <b>rent regulator</b> (<i>Mietenaufsicht</i>) starting in 2027, policing rents more than 20% above the local reference rent</li> <li>A <b>rent and housing register</b> from 2028</li> <li>A dedicated <b>rent-usury (<i>Mietwucher</i>) unit at the public prosecutor's office</b></li> </ul><p>Put differently, Berlin is about to make it a matter for the prosecutor if you charge too much rent, at the same time as it is about to pay 58% of book for the apartments of those who didn't. <b>Capital tends to notice this sort of thing.</b> Berlin also has company: earlier this month <a href=\"https://www.zerohedge.com/geopolitical/spains-government-revives-rent-cap-decrees-ahead-snap-election\">Spain's government revived its rent cap decrees</a> ahead of its snap election, the same election that added Madrid to <a href=\"https://www.zerohedge.com/markets/innocent-bystander-no-more-sanchez-gambles-snap-election-frances-debt-crisis-spills-spain\">Europe's \"Red October\" bond crisis</a>. Europe's answer to a housing shortage made worse by <a href=\"https://www.zerohedge.com/markets/europes-housing-crisis-immigration-crisis-berlin-data-confirms\">record immigration</a> appears to be, well, more controls.</p> <h2>Market Already Pricing In Communism</h2> <p>The timeline matters here: the Left votes on entering coalition talks at its party conference on October 31, formal talks start in November, the financing concept follows in 2027, the bill in mid-2028, and no apartment changes hands before mid-2029. Between now and then, there is a federal veto law in the works, a constitutional challenge from Vonovia that is all but certain, and a €16 billion check that Berlin, with nearly €70 billion in debt already and <a href=\"https://www.zerohedge.com/markets/almost-every-german-city-now-verge-bankruptcy\">German cities on the verge of bankruptcy</a>, probably can't write.</p> <p>So maybe the expropriation never happens. But that misses the point: <b>the damage is done the moment a German state government puts a 42% haircut on private property in writing</b>, and the market is already pricing it, from Adler's bonds to Vonovia's equity to whatever cost of capital the next investor in Berlin housing demands. As Goldman put it, the uncertainty is an \"overhang\", and overhangs in German real estate have a way of lasting years.</p> <p>The irony: today and tomorrow, Berlin is hosting the <i>Invest in Germany Summit</i>, where policymakers will explain to foreign capital why it should finance the country's AI, defense and infrastructure buildout. <b><i>The punchline writes itself.</i></b></p> <p><i>Much more in the full Goldman note \"<a href=\"https://marketdesk.ai/standalone/USR2m3i0cpf\">Germany Real Estate: Residential: Berlin socialisation proposals move a step forward, but scope reduced</a>\", available to <a href=\"https://www.zerohedge.com/signup/professional-membership-year\">pro subs</a>.</i></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-19T17:10:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 13:10</span>",
+    "link": "https://www.zerohedge.com/political/communism-berlin-edition-adler-bonds-crash-record-low-left-coalition-plans-socialize",
+    "pubDate": "Mon, 19 Oct 2026 17:10:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "PACCAR Unveils PACCAR Connect For Kenworth And Peterbilt Class 8 Trucks",
+    "desc": "(RTTNews) - On Monday, PACCAR Inc (PCAR) announced PACCAR Connect, a factory-integrated platform combining telematics, driver productivity tools and fleet applications for Kenworth and Peterbilt Class 8 trucks. The platform was unveiled at the ATA's 2026 Management Conference & E",
+    "link": "https://www.nasdaq.com/articles/paccar-unveils-paccar-connect-kenworth-and-peterbilt-class-8-trucks",
+    "pubDate": "Mon, 19 Oct 2026 19:29:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Amazon (AMZN) Stock Costs $250 a Share. Here's Why I'd Still Buy It.",
+    "desc": "Key PointsAmazon is a great candidate for a portfolio focused on long-term growth.",
+    "link": "https://www.nasdaq.com/articles/amazon-amzn-stock-costs-250-share-heres-why-id-still-buy-it",
+    "pubDate": "Mon, 19 Oct 2026 19:25:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Should You Buy the AI Dip? The Level I'm Waiting For Before Adding More",
+    "desc": "In this video, I will cover the recent pullback and recovery in AI and tech stocks, explain whether it makes sense, and outline what I am waiting for before buying more. Watch the short video to learn more, consider subscribing, and click the special offer link below.",
+    "link": "https://www.nasdaq.com/articles/should-you-buy-ai-dip-level-im-waiting-adding-more",
+    "pubDate": "Mon, 19 Oct 2026 19:20:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Palantir Stock Is Near a Record High. Should Investors Sell?",
+    "desc": "Key PointsPalantir's exceptional growth supports the bullish case.",
+    "link": "https://www.nasdaq.com/articles/palantir-stock-near-record-high-should-investors-sell",
+    "pubDate": "Mon, 19 Oct 2026 19:20:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Amazon Just Made Its AI Chips Easier to Use. Should Nvidia Investors Be Worried?",
+    "desc": "Key PointsAmazon says TorchNeuron will run existing PyTorch code on Trainium with minimal changes.",
+    "link": "https://www.nasdaq.com/articles/amazon-just-made-its-ai-chips-easier-use-should-nvidia-investors-be-worried",
+    "pubDate": "Mon, 19 Oct 2026 19:19:02 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Better Oil Stock: Chevron (CVX) vs. ExxonMobil (XOM)",
+    "desc": "Key PointsChevron is smaller, but it&rsquo;s growing faster and has less downstream exposure.",
+    "link": "https://www.nasdaq.com/articles/better-oil-stock-chevron-cvx-vs-exxonmobil-xom",
+    "pubDate": "Mon, 19 Oct 2026 19:15:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Dynex (DX) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/dynex-dx-q3-2026-earnings-call-transcript",
+    "pubDate": "Mon, 19 Oct 2026 19:13:06 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "This High-Yielding Dividend Stock Has Soared Past the \"Magnificent Seven\" in 2026",
+    "desc": "Key PointsEnthusiasm around the \"Magnificent Seven\" stocks appears to have cooled of late.",
+    "link": "https://www.nasdaq.com/articles/high-yielding-dividend-stock-has-soared-past-magnificent-seven-2026",
+    "pubDate": "Mon, 19 Oct 2026 19:10:02 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Here's What a $5,000 Investment in AMD Could Be Worth by 2032",
+    "desc": "Key PointsAMD's diversified catalysts should help the company sustain strong growth levels over the long run.",
+    "link": "https://www.nasdaq.com/articles/heres-what-5000-investment-amd-could-be-worth-2032",
+    "pubDate": "Mon, 19 Oct 2026 19:06:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Inflation Surge Weighs On Canadian Markets; Index Falls 0.7%",
+    "desc": "(RTTNews) - The Canadian market is down in negative territory Monday afternoon amid concerns about possible monetary tightening by the Canadian central bank after data showed an acceleration in the nation's consumer price inflation in the month of September.",
+    "link": "https://www.nasdaq.com/articles/inflation-surge-weighs-canadian-markets-index-falls-07",
+    "pubDate": "Mon, 19 Oct 2026 19:05:05 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Zions Bancorp Q3 26 Earnings Conference Call At 5:30 PM ET",
+    "desc": "(RTTNews) - Zions Bancorp (ZION) will host a conference call at 5:30 PM ET on October 19, 2026, to discuss Q3 26 earnings results.",
+    "link": "https://www.nasdaq.com/articles/zions-bancorp-q3-26-earnings-conference-call-5-30-pm-et",
+    "pubDate": "Mon, 19 Oct 2026 19:01:10 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What's Wrong With CoreWeave Stock?",
+    "desc": "Key PointsThe potential for interest rates to rise higher in the near term appears to be weighing on CoreWeave's stock.",
+    "link": "https://www.nasdaq.com/articles/whats-wrong-coreweave-stock",
+    "pubDate": "Mon, 19 Oct 2026 19:00:02 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Fifth Third Bancorp: 3 Key Takeaways for Long-Term Investors",
+    "desc": "Key PointsAdjusted pre-provision net revenue rose 8% sequentially in the third quarter.",
+    "link": "https://www.nasdaq.com/articles/fifth-third-bancorp-3-key-takeaways-long-term-investors",
+    "pubDate": "Mon, 19 Oct 2026 18:54:30 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Chevron Just Hit a Record High. Is the Stock Still a Buy?",
+    "desc": "Key PointsChevron stands to benefit from deals with Venezuela and Greece.",
+    "link": "https://www.nasdaq.com/articles/chevron-just-hit-record-high-stock-still-buy",
+    "pubDate": "Mon, 19 Oct 2026 18:50:00 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Better Retail Stock for 2026: GameStop vs. MercadoLibre",
+    "desc": "Key PointsGameStop has fortified its balance sheet while streamlining operations to focus on gaming and collectibles.",
+    "link": "https://www.nasdaq.com/articles/better-retail-stock-2026-gamestop-vs-mercadolibre",
+    "pubDate": "Mon, 19 Oct 2026 18:38:39 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Morgan Stanley’s favorite AI stock is 92% exposed to the $1.6 trillion build-out it’s bullish on",
+    "desc": "The bank calls Nvidia the best risk/reward in AI. Its own report lays out what happens to suppliers when a capital cycle turns.",
+    "link": "https://fortune.com/2026/10/19/nvidia-concentration-hyperscaler-1-6-trillion-92-percent-exposure/",
+    "pubDate": "Mon, 19 Oct 2026 18:30:01 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "fortune",
+    "title": "France is rioting over surging inflation, skyrocketing national debt and crumbling schools. America is its sleeping twin",
+    "desc": "Growth is the main thing keeping the U.S. from looking like France. Underneath it, the debt math and the classrooms look a lot alike.",
+    "link": "https://fortune.com/2026/10/19/why-is-france-rioting-inflation-schools-debt-trump-america/",
+    "pubDate": "Mon, 19 Oct 2026 19:31:30 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Gen Z is chasing the American Dream in South Carolina, Missouri, and Tennessee—as California loses thousands of young adults and billionaires",
+    "desc": "As billionaires like Larry Page and Peter Thiel leave California, Gen Z is following suit—they’re moving to more affordable South Carolina and Missouri.",
+    "link": "https://fortune.com/2026/10/19/gen-z-moving-american-dream-afforability-leave-california-for-the-south-but-ai-boom-still-attractive/",
+    "pubDate": "Mon, 19 Oct 2026 14:31:13 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Ukraine’s drones lose their Starlink link above 100 mph. Musk, Rubio and Trump all say it wasn’t them",
+    "desc": "Kyiv says a sudden SpaceX speed limit is knocking out interceptor drones it needs against Russia’s jet-powered Shaheds. Musk, the White House, and Trump all say it wasn’t them.",
+    "link": "https://fortune.com/2026/10/19/ukraine-starlink-starshield-drone-speed-limit-musk-trump/",
+    "pubDate": "Mon, 19 Oct 2026 18:50:48 +0000",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "GE Aerospace, RTX and NOC earnings preview ahead of Q3 results",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ge-aerospace-rtx-and-noc-earnings-preview-ahead-of-q3-results-93CH-4958180",
+    "pubDate": "2026-10-19 19:30:17",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. economic calendar preview: key releases for the week of Oct 19–23, 2026",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178",
+    "pubDate": "2026-10-19 19:29:25",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Navigating market volatility: what investors need to know now",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/navigating-market-volatility-what-investors-need-to-know-now-93CH-4958176",
+    "pubDate": "2026-10-19 19:19:12",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Tesla clings above 200 SMA as H&S breakdown looms: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/tesla-hammer-at-35475-battles-200sma-resistance-live-levels-93CH-4957922",
+    "pubDate": "2026-10-19 19:18:30",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Alphabet C hovers above $338 support with bear flag active: Live",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-c-trapped-below-resistance-at-341-live-levels-93CH-4957926",
+    "pubDate": "2026-10-19 19:18:26",
+    "fetchedAt": "2026-10-19T20:01:42.237Z"
+  },
+  {
+    "source": "cnbc",
     "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
     "desc": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
     "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
@@ -5838,565 +6398,5 @@
     "link": "https://fortune.com/2026/10/19/atlassian-amp-ai-agents-accountability/",
     "pubDate": "Mon, 19 Oct 2026 07:00:00 +0000",
     "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;Miami-Dade County is not Vice City&#8217;: GTA 6 is taking over Miami—and dividing the county",
-    "desc": "Rockstar has already paid nearly $1 million for a rooftop sign on the Miami Heat’s arena, with a blimp, wrapped supercars, and free museum admission rolling out ahead of the Nov. 19 launch. A county vote on Oct. 20 could decide how far the takeover goes.",
-    "link": "https://fortune.com/2026/10/19/gta-6-miami-vice-city-rockstar-marketing-miami-dade-pushback/",
-    "pubDate": "Mon, 19 Oct 2026 07:31:00 +0000",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Inside the 33-hour failed boardroom coup to overthrow WordPress founder Matt Mullenweg",
-    "desc": "Automattic CEO Matt Mullenweg presides over a company that has been at war with itself for months over an antitrust lawsuit.",
-    "link": "https://fortune.com/2026/10/19/inside-the-33-hour-failed-boardroom-coup-to-overthrow-wordpress-founder-matt-mullenweg/",
-    "pubDate": "Mon, 19 Oct 2026 07:15:00 +0000",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "fortune",
-    "title": "‘Circle back,’ ‘synergy,’ ‘boil the ocean’: The corporate phrases Gen Z doesn’t get, and what they say instead",
-    "desc": "From “circle back” to “bandwidth,” an updated Preply study finds young workers are trading corporate buzzwords for phrases that just say what they mean.",
-    "link": "https://fortune.com/2026/10/19/corporate-phrases-gen-z-doesnt-understand-what-they-say-instead/",
-    "pubDate": "Mon, 19 Oct 2026 07:03:00 +0000",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;I&#8217;ve never had a real job&#8217;: Shaq talks building his brand through ads, and says he hates &#8216;wealthy athletes&#8217; who show off. It &#8216;makes me sick&#8217;",
-    "desc": "The NBA legend explains how his endorsements built his brand and why he turned down Wheaties because he doesn't endorse what he doesn't believe in.",
-    "link": "https://fortune.com/2026/10/19/shaq-ads-personal-brand-wealth/",
-    "pubDate": "Mon, 19 Oct 2026 06:00:00 +0000",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "fortune",
-    "title": "South Korea bets on five regional airports to spread its tourism boom beyond Seoul",
-    "desc": "South Korea drew 18.9 million foreign visitors in 2025, yet only a third ventured outside Seoul.",
-    "link": "https://fortune.com/2026/10/19/south-korea-tourism-beyond-seoul/",
-    "pubDate": "Mon, 19 Oct 2026 05:40:13 +0000",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Novartis ends Fabhalta trial for lupus kidney disease",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/novartis-ends-fabhalta-trial-for-lupus-kidney-disease-4956543",
-    "pubDate": "2026-10-19 07:54:18",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Avolta shares hit six-week high as Citi initiates coverage with ’buy’ rating",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/avolta-shares-hit-sixweek-high-as-citi-initiates-coverage-with-buy-rating-4956542",
-    "pubDate": "2026-10-19 07:51:20",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Medicalgorithmics stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-medicalgorithmics-stock-surging-today-93CH-4956541",
-    "pubDate": "2026-10-19 07:51:17",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Kistos shares drop as Q3 output dips, net debt rises after Oman deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/kistos-shares-drop-as-q3-output-dips-net-debt-rises-after-oman-deal-93CH-4956538",
-    "pubDate": "2026-10-19 07:48:34",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Vonovia falls on report Berlin coalition eyes large landlord expropriation",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/vonovia-falls-on-report-berlin-coalition-eyes-large-landlord-expropriation-93CH-4956534",
-    "pubDate": "2026-10-19 07:44:23",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Medicalgorithmics shares rally on $67M takeover letter of intent",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/medicalgorithmics-shares-rally-on-67m-takeover-letter-of-intent-93CH-4956529",
-    "pubDate": "2026-10-19 07:37:08",
-    "fetchedAt": "2026-10-19T08:31:26.476Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
-    "desc": "Key PointsMicron's Taoyuan union in Taiwan voted to authorize a strike, with 1,994 members in favor and 14 against.",
-    "link": "https://www.nasdaq.com/articles/micron-union-taiwan-voted-99-authorize-strike-should-you-sell-stock",
-    "pubDate": "Mon, 19 Oct 2026 07:46:01 +0000",
-    "fetchedAt": "2026-10-19T08:14:37.015Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "South32 Q1 Copper, Zinc Equivalent Production Drop; Backs FY27 Production View; Shares Down",
-    "desc": "(RTTNews) - South32 Ltd. (SOUHY, S32.AX), an Australian mining and metals company, reported Monday lower copper and zinc equivalent production in the first quarter. Further, the firm maintained fiscal 2027 production guidance across all operations.",
-    "link": "https://www.nasdaq.com/articles/south32-q1-copper-zinc-equivalent-production-drop-backs-fy27-production-view-shares-down",
-    "pubDate": "Mon, 19 Oct 2026 06:41:25 +0000",
-    "fetchedAt": "2026-10-19T08:14:37.015Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
-    "desc": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "pubDate": "Mon, 19 Oct 2026 06:06:58 GMT",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
-    "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
-    "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What's New This Tax Season That Can Save You Money",
-    "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
-    "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Mowi ASA Q3 Operational EBIT Rises",
-    "desc": "(RTTNews) - Mowi ASA (MOWI.OL) reported third quarter operational EBIT for the Group of 275 million euros compared to 112 million euros, prior year. Operational EBIT in Consumer Products was 45 million euros. Operational EBITDA in Feed was 34 million euros, for the quarter.",
-    "link": "https://www.nasdaq.com/articles/mowi-asa-q3-operational-ebit-rises",
-    "pubDate": "Mon, 19 Oct 2026 06:22:26 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If I Were Starting Over in the Stock Market, I'd Put $1,000 in Each of These 4 ETFs",
-    "desc": "Key PointsIf you're starting over, create your foundation first before going for the home run swings.",
-    "link": "https://www.nasdaq.com/articles/if-i-were-starting-over-stock-market-id-put-1000-each-these-4-etfs",
-    "pubDate": "Mon, 19 Oct 2026 06:20:00 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Hyundai Rotem Q3 Operating Profit Declines",
-    "desc": "(RTTNews) - Hyundai Rotem (064350.KS) reported third-quarter net income attributable to shareholders of the parent company of 176.64 billion won, a 11% decrease compared with 198.49 billion won, last year. Operating income declined to 247.07 billion won in the quarter, down 11% f",
-    "link": "https://www.nasdaq.com/articles/hyundai-rotem-q3-operating-profit-declines",
-    "pubDate": "Mon, 19 Oct 2026 06:05:45 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Red Cat Proposes Steyr Motors Takeover At €39/shr",
-    "desc": "(RTTNews) - Red Cat Holdings, Inc. (RCAT), a provider of drone and robotic solutions for defense and national security, on Monday announced a proposed voluntary public offer to acquire all outstanding shares of Steyr Motors AG (4X0.DE) for 39 euros per share in cash.",
-    "link": "https://www.nasdaq.com/articles/red-cat-proposes-steyr-motors-takeover-eu39-shr",
-    "pubDate": "Mon, 19 Oct 2026 05:57:00 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Challenger Q1 Sales, AUM Climb; To Consider A$11.80/shr Offer From Daiichi Life Unit; Shares Jump",
-    "desc": "(RTTNews) - Challenger Ltd. (CFIGF.PK, CGF.AX), an Australian provider of retirement income and investment management solutions, reported Monday higher net sales and Assets Under Management for the first quarter.",
-    "link": "https://www.nasdaq.com/articles/challenger-q1-sales-aum-climb-consider-1180-shr-offer-daiichi-life-unit-shares-jump",
-    "pubDate": "Mon, 19 Oct 2026 05:54:53 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Shares Seen Lower As Violence Erupts At France Protests",
-    "desc": "(RTTNews) - European stocks are seen opening lower on Monday as mass protests in France spiraled into riots, compounding an already elevated fiscal risk premium.",
-    "link": "https://www.nasdaq.com/articles/european-shares-seen-lower-violence-erupts-france-protests",
-    "pubDate": "Mon, 19 Oct 2026 05:42:25 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "OpenWorld To Acquire Blocksight For Tokenization Programs Of Up To $1.13 Bln",
-    "desc": "(RTTNews) - OpenWorld, Inc. (OPNW), a technology-powered digital assets and blockchain innovation company, announced that it had signed a definitive merger agreement to acquire Blocksight Holdings Co.",
-    "link": "https://www.nasdaq.com/articles/openworld-acquire-blocksight-tokenization-programs-113-bln",
-    "pubDate": "Mon, 19 Oct 2026 05:34:56 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Sedum Group To Acquire Cleanaway",
-    "desc": "(RTTNews) - Cleanaway Waste Management (CWY.AX) has entered into a Scheme Implementation Deed with Sedum Group, an entity owned by funds managed, operated and/or advised by the EQT AB Group, under which the bidder has agreed to acquire 100% of the shares in Cleanaway by way of a",
-    "link": "https://www.nasdaq.com/articles/sedum-group-acquire-cleanaway",
-    "pubDate": "Mon, 19 Oct 2026 05:34:35 +0000",
-    "fetchedAt": "2026-10-19T07:01:43.324Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-    "desc": "The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields.",
-    "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
-    "pubDate": "Mon, 19 Oct 2026 05:29:51 GMT",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "bbc",
-    "title": "I find it quite demoralising in store - why I do all my shopping online",
-    "desc": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-    "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 15 Oct 2026 23:16:12 GMT",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Living with a stink? Technology might help",
-    "desc": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-    "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Charities 'busier than ever' with furniture poverty",
-    "desc": "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Mon, 19 Oct 2026 05:10:28 GMT",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "BoE probes Barclays’ handling of private credit risks, FT reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/boe-probes-barclays-handling-of-private-credit-risks-ft-reports-4956387",
-    "pubDate": "2026-10-19 05:50:20",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Dollar steady, euro weakens after French protests turn violent",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
-    "pubDate": "2026-10-19 05:48:41",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "’Panic’ selling hits Indonesian markets on MSCI expulsion threat",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/panic-selling-hits-indonesian-markets-on-msci-expulsion-threat-4956386",
-    "pubDate": "2026-10-19 05:48:25",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Axis Bank stock falling today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-axis-bank-stock-falling-today-93CH-4956380",
-    "pubDate": "2026-10-19 05:42:47",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Allegiance Resources adds metallurgy expert to advisory board",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/allegiance-resources-adds-metallurgy-expert-to-advisory-board-93CH-4956366",
-    "pubDate": "2026-10-19 05:36:35",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "YES BANK Q2FY27 slides: profit surges 65% amid AT1 bond uncertainty",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/yes-bank-q2fy27-slides-profit-surges-65-amid-at1-bond-uncertainty-93CH-4956362",
-    "pubDate": "2026-10-19 05:34:35",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Nidec shares hit decade low as report finds execs liable in accounting scandal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nidec-shares-hit-decade-low-as-report-finds-execs-liable-in-accounting-scandal-4956361",
-    "pubDate": "2026-10-19 05:33:31",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Saba Capital sells $180,936 in PIMCO Dynamic Income Strategy fund",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-180936-in-pimco-dynamic-income-strategy-fund-93CH-4956357",
-    "pubDate": "2026-10-19 05:31:19",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Saba Capital buys $4,940 in Gabelli Healthcare & WellnessRx trust",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/saba-capital-buys-4940-in-gabelli-healthcare--wellnessrx-trust-93CH-4956358",
-    "pubDate": "2026-10-19 05:31:19",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investing",
-    "title": "Bawag Q3 profit misses estimates as loan-loss costs jump",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/bawag-q3-profit-misses-estimates-as-loanloss-costs-jump-4956356",
-    "pubDate": "2026-10-19 05:30:21",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "ft",
-    "title": "Rising interest rates derail property recovery as buyers recut deals",
-    "desc": "‘Dire’ mood in sector as surging bond yields threaten deals agreed just a few months ago",
-    "link": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
-    "pubDate": "Mon, 19 Oct 2026 04:00:06 GMT",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "ft",
-    "title": "China’s economy picks up pace at 4.5% growth",
-    "desc": "Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say",
-    "link": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
-    "pubDate": "Mon, 19 Oct 2026 05:03:27 GMT",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Accenture considers selling China business for up to $1.5B - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654091-accenture-looks-to-sell-chinese-operations-for-up-to-15b---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 19 Oct 2026 01:41:07 -0400",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "U.S. pushes China on market access for Mastercard, Citigroup - report",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654093-us-pushes-china-on-market-access-for-mastercard-citigroup---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Mon, 19 Oct 2026 01:14:08 -0400",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Dow Futures Rise Despite 'Black Monday' Calls: Market Commentator Says Selloff Worries Are 'Overdone'",
-    "desc": "U.S. stock futures were higher late Sunday, signaling a bounce from Friday’s slide in the Nasdaq Composite, even as calls for a Black Monday crash were trending. The Fear Is ‘Overdone’ The Kobeissi Letter took the opposite approach to the calls for a Black Monday crash, posting on X a chart that tracks every time the term has trended since May 2025. Over that stretch, the S&P 500 has climbed from about 5,500 to around 7,650, and the market commentator called the selloff worries “overdone.” Well,",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-despite-black-044614736.html?.tsrc=rss",
-    "pubDate": "Mon, 19 Oct 2026 04:46:14 +0000",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Aktsiaselts Infortar own share acquisition transactions",
-    "desc": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 12 October – 16 October 2026 as follows: DateAggregated volume (pcs)Weighted average price per day (EUR)12.10.202624763,927113.10.202624463,981114.10.202624163,956815.10.202624063,996716.10.202624363,9580 Aktsiaselts Infortar is acquiring its own shares based on the stock exchange announcement published on 20 April 2026. The share buyback programme is managed by SEB Pank AS, which will buy back",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000640.html?.tsrc=rss",
-    "pubDate": "Mon, 19 Oct 2026 05:00:00 +0000",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Chinese Investors With Few Options Turn to Dividends",
-    "desc": "Companies with good payouts are now the hottest bet in China markets.",
-    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
-    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
-    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
-    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
-    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
-    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
-    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Heard on the Street's Stock-Picking Series",
-    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
-    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
-    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
-    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
-    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
-    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
-    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
-    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "wsj",
-    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
-    "desc": "The story of home affordability in the U.S. told from a single front porch.",
-    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
-    "desc": "Key PointsCoreWeave may face higher borrowing costs when it refinances; Gartner anticipates 80% of neoclouds will go under by 2030, and that's all good news for Iren.",
-    "link": "https://www.nasdaq.com/articles/if-i-could-only-own-1-artificial-intelligence-ai-stock-through-next-bubble-scare-it-would",
-    "pubDate": "Mon, 19 Oct 2026 05:20:00 +0000",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "fortune",
-    "title": "China&#8217;s economy grew 4.5% last quarter, yet its export boom risks being &#8216;a drag on world growth&#8217;",
-    "desc": "\"It is untenable and unsustainable\" for China to rely on foreign demand, Cornell's Eswar Prasad said.",
-    "link": "https://fortune.com/2026/10/19/china-gdp-growth-export-boom/",
-    "pubDate": "Mon, 19 Oct 2026 05:08:26 +0000",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The inventor of BRICS has a message for ‘lazy, colonial’ Europe—India and China are still not taken seriously enough on the world stage",
-    "desc": "Jim O’Neill’s Goldman Sachs Economics Paper No. 66 reshaped how business leaders looked at the world, but it may now be time for a significant upgrade",
-    "link": "https://fortune.com/2026/10/19/jim-oneill-economics-paper-no-66-brics-lazy-colonial-europe-india-china/",
-    "pubDate": "Mon, 19 Oct 2026 05:00:00 +0000",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.44%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-044-4956350",
-    "pubDate": "2026-10-19 05:30:04",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "UBS capital rules have Swiss stuck between a rock and a hard place",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/ubs-capital-rules-have-swiss-stuck-between-a-rock-and-a-hard-place-4956349",
-    "pubDate": "2026-10-19 05:24:25",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Indonesia stocks hit six-year low as MSCI warning deepens selloff",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-hit-sixyear-low-as-msci-warning-deepens-selloff-4956348",
-    "pubDate": "2026-10-19 05:23:02",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "SK Hynix bounces from extreme oversold-bear risk stays: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-    "pubDate": "2026-10-19 05:06:49",
-    "fetchedAt": "2026-10-19T06:01:34.985Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
-    "desc": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
-    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-    "pubDate": "Mon, 19 Oct 2026 04:46:26 GMT",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Gold rises as Warsh remarks temper Fed hike bets, futures top $4,200",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185",
-    "pubDate": "2026-10-19 04:52:57",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "These tech stocks held up during the early-Oct AI selloff",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/these-tech-stocks-held-up-during-the-earlyoct-ai-selloff-93CH-4956327",
-    "pubDate": "2026-10-19 04:46:46",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Morning Bid: Markets left to figure out sanctions",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/morning-bid-markets-left-to-figure-out-sanctions-4956314",
-    "pubDate": "2026-10-19 04:42:37",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asia stocks edge lower despite stronger China growth as AI jitters persist",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-lower-despite-stronger-china-growth-as-ai-jitters-persist-4956316",
-    "pubDate": "2026-10-19 04:39:22",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Hengtong Optic Electric stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-hengtong-optic-electric-stock-surging-today-93CH-4956315",
-    "pubDate": "2026-10-19 04:37:09",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Castellum general counsel buys $747 in company stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/castellum-general-counsel-buys-747-in-company-stock-93CH-4956312",
-    "pubDate": "2026-10-19 04:30:56",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Analysis-Global food inflation is expected to intensify as supply shocks pile up",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/analysisglobal-food-inflation-is-expected-to-intensify-as-supply-shocks-pile-up-4956295",
-    "pubDate": "2026-10-19 04:30:24",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Nidec stock sliding to a decade low today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-sliding-to-a-decade-low-today-93CH-4956305",
-    "pubDate": "2026-10-19 04:27:27",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
-  },
-  {
-    "source": "investing",
-    "title": "World faces nature reality check at UN biodiversity conference",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/world-faces-nature-reality-check-at-un-biodiversity-conference-4956303",
-    "pubDate": "2026-10-19 04:18:36",
-    "fetchedAt": "2026-10-19T05:01:40.207Z"
   }
 ]
