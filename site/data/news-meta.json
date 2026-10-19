@@ -1,15 +1,16 @@
 {
-  "lastRun": "2026-10-19T07:01:43.324Z",
-  "fetched": 3,
-  "failed": 11,
-  "newItems": 11,
+  "lastRun": "2026-10-19T08:01:52.472Z",
+  "fetched": 0,
+  "failed": 14,
+  "newItems": 0,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
-      "items": 30,
-      "added": 1
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "bbc",
@@ -77,14 +78,16 @@
     {
       "id": "wsj",
       "name": "WSJ Markets",
-      "items": 20,
-      "added": 2
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "nasdaq",
       "name": "Nasdaq",
-      "items": 15,
-      "added": 8
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "fortune",
