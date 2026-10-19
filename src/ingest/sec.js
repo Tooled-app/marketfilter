@@ -1,8 +1,9 @@
-// SEC EDGAR ingestion
+﻿// SEC EDGAR ingestion
 // Uses SEC's free public API. Requires a descriptive User-Agent (SEC policy).
 // Docs: https://www.sec.gov/edgar/sec-api-documentation
 
 import https from 'node:https';
+import dns from 'node:dns'; dns.setDefaultResultOrder('ipv4first'); // host DNS returns NAT64 IPv6 first; node stalls on it
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import fs from 'node:fs';
@@ -15,7 +16,7 @@ const FILINGS_FILE = path.join(DATA_DIR, 'filings.json');
 
 const USER_AGENT = 'MarketFilter research contact@example.com';
 
-// Watchlist — start with liquid, high-coverage names. Expand later.
+// Watchlist â€” start with liquid, high-coverage names. Expand later.
 const WATCHLIST = ['NVDA', 'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META', 'TSLA', 'JPM', 'BAC', 'XOM'];
 
 // Filing types that matter for story generation
@@ -124,7 +125,7 @@ export async function ingestSec({ days = 7, watchlist = WATCHLIST } = {}) {
 // CLI entry
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const days = parseInt(process.argv[2] || '7', 10);
-  console.log(`SEC EDGAR ingestion — last ${days} days, watchlist: ${WATCHLIST.join(', ')}`);
+  console.log(`SEC EDGAR ingestion â€” last ${days} days, watchlist: ${WATCHLIST.join(', ')}`);
   ingestSec({ days }).then((res) => {
     const total = res.reduce((n, r) => n + r.filings.length, 0);
     console.log(`\nDone. ${res.length} companies, ${total} interesting filings.`);

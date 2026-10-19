@@ -1,6 +1,7 @@
-// Market Filter news ingestion — fetches financial RSS feeds, dedupes, stores to JSON
+﻿// Market Filter news ingestion â€” fetches financial RSS feeds, dedupes, stores to JSON
 // Run hourly via cron. The Next.js site reads the output JSON.
 import { fileURLToPath } from 'node:url';
+import dns from 'node:dns'; dns.setDefaultResultOrder('ipv4first'); // host DNS returns NAT64 IPv6 first; node stalls on it
 import path from 'node:path';
 import fs from 'node:fs';
 

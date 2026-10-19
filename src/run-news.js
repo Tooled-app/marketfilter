@@ -1,6 +1,7 @@
-// Market Filter autonomous refresh: run news ingest, then publish (commit+push -> Vercel redeploy)
+﻿// Market Filter autonomous refresh: run news ingest, then publish (commit+push -> Vercel redeploy)
 // Cron entrypoint. Usage: node src/run-news.js
 import { ingestNews } from './ingest/news.js';
+import dns from 'node:dns'; dns.setDefaultResultOrder('ipv4first'); // host DNS returns NAT64 IPv6 first; node stalls on it
 import { execSync } from 'node:child_process';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -17,10 +18,10 @@ try {
   const msg = `chore: hourly news refresh (${new Date().toISOString()})`;
   execSync('git add site/data site/app site/public site/components src', { cwd: ROOT, stdio: 'inherit' });
   const st = execSync('git status --porcelain', { cwd: ROOT }).toString();
-  if (!st.trim()) { console.log('Nothing to commit — data unchanged.'); process.exit(0); }
+  if (!st.trim()) { console.log('Nothing to commit â€” data unchanged.'); process.exit(0); }
   execSync(`git commit -m ${JSON.stringify(msg)}`, { cwd: ROOT, stdio: 'inherit' });
   execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
-  console.log('PUSHED OK — Vercel auto-deploy triggered.');
+  console.log('PUSHED OK â€” Vercel auto-deploy triggered.');
 } catch (e) {
   console.error('FAILED:', e.message);
   process.exit(1);
