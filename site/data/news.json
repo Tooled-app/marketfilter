@@ -1,6 +1,606 @@
 [
   {
     "source": "cnbc",
+    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "desc": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "pubDate": "Tue, 20 Oct 2026 17:50:11 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+    "desc": "Elon Musk's planned SpaceX stock donation could come with strings attached if he uses Trump Accounts. New Treasury rules limit when children can sell shares.",
+    "link": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+    "pubDate": "Tue, 20 Oct 2026 17:29:38 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+    "desc": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
+    "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+    "pubDate": "Tue, 20 Oct 2026 01:53:34 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+    "desc": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
+    "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+    "pubDate": "Tue, 20 Oct 2026 02:44:35 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "bbc",
+    "title": "UK government to make Jackdaw gas field announcement",
+    "desc": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:33:42 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+    "desc": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Tue, 20 Oct 2026 12:36:43 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is BlackBerry stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-blackberry-stock-surging-today-93CH-4960827",
+    "pubDate": "2026-10-20 17:50:06",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "U.S. stocks rise as tech fluctuations offset by earnings moves, fall in oil prices",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+    "pubDate": "2026-10-20 17:49:32",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Meta’s global affairs officer Joel Kaplan to leave company after 15 years",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/metas-global-affairs-officer-joel-kaplan-to-leave-company-after-15-years-4960807",
+    "pubDate": "2026-10-20 17:48:57",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Eagle Capital CFO David Sims buys $108,632 in company stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/eagle-capital-cfo-david-sims-buys-108632-in-company-stock-93CH-4960824",
+    "pubDate": "2026-10-20 17:46:03",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Michelin Q3 2026 slides: organic growth returns despite volume headwinds",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/michelin-q3-2026-slides-organic-growth-returns-despite-volume-headwinds-93CH-4960823",
+    "pubDate": "2026-10-20 17:45:19",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Avepoint stock hits 52-week high of 15.45 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/avepoint-stock-hits-52week-high-of-1545-usd-93CH-4960821",
+    "pubDate": "2026-10-20 17:42:19",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Carrefour Q3 2026 slides: solid sales growth, guidance cut on France unrest",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/carrefour-q3-2026-slides-solid-sales-growth-guidance-cut-on-france-unrest-93CH-4960820",
+    "pubDate": "2026-10-20 17:41:35",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Calix adds features to multifamily broadband platform",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/calix-adds-features-to-multifamily-broadband-platform-93CH-4960819",
+    "pubDate": "2026-10-20 17:40:30",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investing",
+    "title": "Grand City Properties acquires 20% stake in LEG Immobilien",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/grand-city-properties-acquires-20-stake-in-leg-immobilien-93CH-4960817",
+    "pubDate": "2026-10-20 17:40:22",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Investors&#x2019; search for safety has made toothpaste stocks more expensive than tech",
+    "desc": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
+    "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+    "pubDate": "Tue, 20 Oct 2026 17:38:00 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+    "desc": "&#x201c;I never paid rent, although I put about $45,000 toward a new kitchen and a roof.&#x201d;",
+    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+    "pubDate": "Tue, 20 Oct 2026 17:15:00 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "&#x2018;I&#x2019;m naturally skeptical&#x2019;: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "desc": "&#x201c;They insist that the details will be provided after they have carried out a soft credit check.&#x201d;",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "pubDate": "Tue, 20 Oct 2026 16:25:00 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "guardian",
+    "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
+    "desc": "<p>Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt</p><p>For almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (EIDL) from the federal government in early 2021.</p><p>At the time, it provided a desperately needed lifeline. He was confident that once business returned to normal he could begin repaying the 30-year loan, which came with a low 3.75% interest rate and a 30-month deferment period. But when his business didn’t recover, the disaster loan turned out to be a disaster of its own.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
+    "pubDate": "Fri, 16 Oct 2026 13:00:11 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
+    "desc": "<p>The high cost of living has Americans angrier than ever. Guardian reporters answered your questions about the US economy ahead of November </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms\">Sign up for the Stakes newsletter for more midterms coverage</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us your questions on Trump’s immigration agenda ahead of the midterms</a></p></li></ul><p><strong><a href=\"https://profile.theguardian.com/user/id/116366586\">LucccA</a> asks:</strong> Why are labor unions in the US still not as well-organized compared to the rest of the world? I know there was a push against them in the past—does that still have an effect today? Also, why are there so many right-leaning unions in the US?</p><p><strong>Michael:</strong> A lot of reasons. The US has low union density compared to other wealthy nations, currently at 10.0%, and that has been on a precipitous decline for the past few decades for a variety of reasons that include anti-union and union busting campaigns, outdated labor laws where employers often retaliate for union organizing or delay bargaining for years, as we are seeing with Starbucks, where there is no union contract after nearly five years since the first store won its union election in December 2021.Right to work laws in the US also undermine labor unions and starve them of resources. To the extent that there are right leaning labor unions in the US, they typically are law enforcement unions that consistently endorse and back Republican candidates despite the Republican Party in the US opposing collective bargaining. Some unions like the Teamsters have been making efforts to get Republicans to support legislation and in turn receive endorsements from the union, and this has shown up this election cycle with the Teamsters endorsing Republicans like Congressman Max Miller or Kansas Senator Roger Marshall, who are both facing very competitive re-election battles.</p><p><strong>Heather:</strong> There’s a bunch of ideas floating around on cutting costs for groceries, healthcare and energy bills. A key thing Democrats are promising if they regain power in Congress is to wrestle back authority on trade and repeal Trump’s tariffs, which would lower what it costs compaines to import. A second is to advance a vote to stop the war in Iran, which could calm fuel prices. If Democrats retake the Senate, expect Elizabeth Warren to become chair of the powerful banking committe, and push forward some curbs on private equity investments. And Democrats have been coalescing around more government funding for childcare, a notable move to the <a href=\"https://www.theguardian.com/us-news/2026/jan/28/democrats-universal-childcare-campaigns\">left in recent years</a>. Hakeem Jeffries, who will be House Speaker if Democrats win there, is promising to reinstate ACA tax cuts and roll back Medicaid cuts, but the party is <a href=\"https://www.theguardian.com/us-news/2026/oct/04/medicare-for-all-democrats-midterms\">divided on Medicare For All</a>, with DSA candidates making promises on the campaign trail and more centrist Dems being pretty quiet.</p><p>Republicans running for Congress have been talking a lot about ways to lower gas prices, especially suspending the fuel tax, and shaving utility bills by making tech companies and other big users pay more. Some have promised to curb Trump’s tariffs, including <a href=\"https://www.theguardian.com/us-news/2026/oct/09/us-midterms-michigan-georgia-maine-senate-debate-key-takeaways\">Michigan’s Mike Rogers</a>, and others are proposing suspending data center building after <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans\">public backlash</a>.</p> <a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+    "pubDate": "Thu, 15 Oct 2026 17:56:50 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "ft",
+    "title": "Police rearrest two men over RAF Fairford incident",
+    "desc": "Pair held on suspicion of breaching National Security Act as officers link the event to Iran for the first time",
+    "link": "https://www.ft.com/content/33573324-6eb8-447c-934d-5a992872509a?syn-25a6b1a6=1",
+    "pubDate": "Tue, 20 Oct 2026 16:58:40 GMT",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Integra LifeSciences Holdings Corporation Q3 2026 Earnings Preview",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654818-integra-lifesciences-holdings-corporation-q3-2026-earnings-preview?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:54:02 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Ford recalls 102,159 F-Series trucks in US over gauge defect",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654806-ford-recalls-102159-f-series-trucks-in-us-over-gauge-defect?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:53:26 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Element Solutions Q3 2026 Earnings Preview",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654817-element-solutions-q3-2026-earnings-preview?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:50:54 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "RLI signals personal umbrella rate increases to return to double-digit levels during 2027",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654815-rli-signals-personal-umbrella-rate-increases-to-return-to-double-digit-levels-during-2027?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:45:24 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "CDC confirms third measles-related death for 2026",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654810-cdc-confirms-third-measles-related-death-2026?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:42:07 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "The NBA season opens today - here are the basketball shoes expected to star",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654790-the-nba-season-opens-today-here-are-the-basketball-shoes-expected-to-star?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:39:42 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "KeyCorp targets 3.25%+ NIM by 4Q 2027 while tightening 2026 NII growth to ~10%",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654807-keycorp-targets-3_25-percent-nim-by-4q-2027-while-tightening-2026-nii-growth-to-10-percent?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 13:36:26 -0400",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons ADT is Risky and 1 Stock to Buy Instead",
+    "desc": "Over the last six months, ADT’s shares have sunk to $6.76, producing a disappointing 7.1% loss - a stark contrast to the S&P 500’s 7.7% gain. This might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-adt-risky-1-174150256.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:41:50 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Equities Rise Intraday Following Upbeat Earnings Reports",
+    "desc": "(Updates with latest market prices and developments.) US benchmark equity indexes rose intraday s",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-following-upbeat-173413330.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:34:13 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 Reasons YUMC is Risky and 1 Stock to Buy Instead",
+    "desc": "Over the past six months, Yum China’s stock price fell to $44.87. Shareholders have lost 7.9% of their capital, which is disappointing considering the S&P 500 has climbed by 7.7%. This might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-yumc-risky-1-173350387.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:33:50 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Alnylam (ALNY): Can the RNAi Franchise Get it an Entry into the S&P 500 Index?",
+    "desc": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is a biotechnology company built on RNA interference, a technique that switches off the genes behind certain diseases. At about $31 billion, the stock features on our list of 9 New Contenders for the S&P 500 Index. It stands out as a rare large biotech that has turned sustainably profitable under standard […]",
+    "link": "https://finance.yahoo.com/healthcare/articles/alnylam-alny-rnai-franchise-entry-173301214.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:33:01 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "First Citizens (FCNCA): Is the SVB-Boosted Bank Still Undervalued for the S&P 500 Index?",
+    "desc": "First Citizens BancShares, Inc. (NASDAQ:FCNCA) is a large regional bank whose earnings were transformed when it acquired the failed Silicon Valley Bank. At about $24 billion, it is solidly and consistently profitable under standard accounting rules, which gives it a clean eligibility profile for inclusion in the illustrious S&P 500 index. The valuation is the […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-fcnca-svb-boosted-172438579.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:24:38 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "3 global ETFs edge SCHD on income, but there's a twist",
+    "desc": "The tax rule retirees overlook when chasing higher overseas yields.",
+    "link": "https://www.thestreet.com/investing/global-etfs-outyield-schd-ira-tax-trap?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:33:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Affirm Holdings (AFRM): Has BNPL’s Profitability Turn Earned It an Index Seat?",
+    "desc": "Affirm Holdings, Inc. (NASDAQ:AFRM) is the largest of the “buy now, pay later” lenders. The company lets shoppers split purchases into installments at online checkouts. At about $25.1 billion, its index case turns on a milestone it only recently reached. With profitability under standard accounting rules, which finally gives it a trailing price-to-earnings ratio, AFRM […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-afrm-bnpl-profitability-172730339.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:27:30 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "S&P 500 Could Hit 8,300 By May 2027, Says Morgan Stanley Investment Chief Predicting ‘Final Innings’ Of Stock Market Correction",
+    "desc": "In an interview with CNBC, Morgan Stanley’s chief investment officer said he expects market volatility to persist for another two to three weeks.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-could-hit-8-300-by-may-2027-says-morgan-stanley/cZxAR8bRBH3?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:24:23 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Carvana Stock's Drop A Chance To Buy?",
+    "desc": "Bulls may be betting on a less visible aspect of Carvana (CVNA): the physical sites where the company prepares used cars for sale. You probably think of Carvana as an online platform, but management says it could sell more cars if it had more ready. The stock fell 27% in six months, however, while the S&P 500 gained 8.8%. That is the gap: management says more cars ready would mean more sales, yet the share price has fallen. So, is the capacity Carvana has been adding turning into more cars sold.",
+    "link": "https://www.trefis.com/articles/619395/is-carvana-stocks-drop-a-chance-to-buy/2026-10-20?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:22:56 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Samsara (IOT): Does a Fourth Straight Profitable Quarter Ensures its Entry into the Index?",
+    "desc": "Samsara Inc. (NYSE:IOT) sells software and sensors that help businesses track their vehicles, equipment, and workers in real time. At about $25 billion, Samsara is part of our compilation of 9 New Contenders for the S&P 500 Index. The company strung together a fourth consecutive profitable quarter under standard accounting rules, making it eligible for […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-does-fourth-straight-172218175.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:22:18 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Ciena (CIEN): Is the AI-Optical Boom Enough to Carry It Into the S&P 500?",
+    "desc": "Ciena Corporation (NYSE:CIEN) makes the optical networking gear that carries data across the internet’s backbone and between data centers, the physical plumbing behind the AI boom. With a market cap of roughly $48.5 billion, it is one of the best-qualified names on our list of 9 New Contenders for the S&P 500 Index. Unlike most contenders […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-ai-optical-boom-171850253.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:18:50 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "General Mills (GIS): Buy, Sell, or Hold Post Q3 Earnings?",
+    "desc": "Over the last six months, General Mills’s shares have sunk to $32.64, producing a disappointing 7.5% loss - a stark contrast to the S&P 500’s 7.7% gain. This might have investors contemplating their next move.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-gis-buy-sell-171750522.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:17:50 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "How Bad Would Shrinking Store Sales Be For Lowe's Stock?",
+    "desc": "Lowe's Companies (LOW) lowered its outlook on August 19, 2026. The retailer now expects roughly flat comparable sales, its like-for-like measure of store sales, for fiscal 2026. In May it had forecast 1% growth. Flat is not shrinking, but management also said cautious homeowners are holding back on do-it-yourself projects. The stock has lost 17.8% over the past year while the S&P 500 returned 17.4%. How close are Lowe's store sales to shrinking already.",
+    "link": "https://www.trefis.com/articles/619417/how-bad-would-shrinking-store-sales-be-for-lowes-stock/2026-10-20?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:15:46 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "United Therapeutics (UTHR): Can the Profit-Machine Biotech Finally Crack the S&P 500?",
+    "desc": "United Therapeutics Corporation (NASDAQ:UTHR) develops treatments for pulmonary arterial hypertension, a rare and dangerous high blood pressure in the lungs, with its Tyvaso franchise at the core. At about $23.5 billion in market value, it is one of the steadiest earners in biotech, and that is the whole point for index purposes. Most drug developers […]",
+    "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-uthr-profit-machine-170910826.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:08:59 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Honeywell Stock A Real Bargain?",
+    "desc": "Honeywell International (HON) stock has lagged the index over the past year, trading at 8.1 times earnings against 22.7 for the median S&P 500 company. That is either a sound business on sale or a fair price for a company that just spun off its largest unit, Honeywell Aerospace, and now has to widen margins in the automation businesses it kept. So is Honeywell just as cheap on the cash it brings in.",
+    "link": "https://www.trefis.com/articles/619351/is-honeywell-stock-a-real-bargain/2026-10-20?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:06:23 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Astera Labs (ALAB): Is the AI-Connectivity Competitor Ready for the S&P 500?",
+    "desc": "Astera Labs, Inc. (NASDAQ:ALAB) makes the specialized chips and hardware that move data between processors, memory, and accelerators inside AI data centers. At roughly $50 billion in market value, the company is among our list of 9 New Contenders for the S&P 500 Index. It went public in March 2024 and has already turned profitable […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-alab-ai-connectivity-170023550.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:00:23 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
+    "desc": "Energy stocks were lower Tuesday afternoon, with the NYSE Energy Sector Index easing 0.1% and the St",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-174513052.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:45:13 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Okta (OKTA): Does the AI-Identity Turnaround Make It a Stronger S&P 500 Contestant?",
+    "desc": "Okta, Inc. (NASDAQ:OKTA) sells identity software, the tools that let employees and customers log in securely across a company’s many apps. At about $33.7 billion, the company has the size required of a candidate. Additionally, with recent profitability under standard accounting rules, it has a trailing price-to-earnings ratio that the committee can use. That trailing […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-does-ai-identity-172950073.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:29:50 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+    "desc": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
+    "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:03:26 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; These Healthcare Stocks Clear Entries (Live Coverage)",
+    "desc": "Stock Market Today: The Dow Jones index and other indexes gain Tuesday on U.S.-Iran peace hopes. Biotech and software stocks show strength.",
+    "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:00:45 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "SpaceX Earnings Preview: Equity Sees $125 Billion, Credit Sees 83 Cents",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">SpaceX Earnings Preview: Equity Sees $125 Billion, Credit Sees 83 Cents</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Today after the close, SpaceX (SPCX) reports its second quarter as a public company, a day ahead of Tesla and (as Deutsche Bank puts it) \"surprisingly early.\" The first one did not go well: the stock <a href=\"https://www.zerohedge.com/markets/spacex-slides-despite-big-revenue-beat-tame-capex\">slid despite a big revenue beat</a> and closed down 14% the next day, wiping out some $225 billion in market value.</p> <p>This time, the sellside is mostly looking past the quarter and straight at 2027. Nobody more so than Deutsche Bank's Edison Yu, who in his preview note \"<a href=\"https://marketdesk.ai/standalone/zFcIoVZ6USY\">Compute-driven state of mind</a>\" (<a href=\"https://www.zerohedge.com/signup/professional-membership-year\"><i>available to pro subs</i></a>) lifts his 2027 forecasts to <b>$125 billion in revenue and $84 billion in EBITDA, materially above consensus of $108 billion and $65 billion</b>. The catch, which Yu flags himself, is that those numbers are \"underpinned by > $200bn in capex.\"</p> <p>And that's where the other half of the SpaceX story comes in. While equity analysts debate how high 2027 can go, the company's 6.65% notes due 2056 just slumped to a <b>lifetime low of 83.3 cents on the dollar</b>, down from 98.83 at issue in June, and SpaceX's five-year CDS spreads <a href=\"https://www.zerohedge.com/markets/spacex-credit-risk-hits-new-high-ai-debt-binge-fears-spook-bondholders\">blew out to a record high</a> earlier this month.</p> <p>In other words, <i><b>the stock market is pricing the upside, and the bond market is pricing the bill</b></i>.</p> <h2>The Quarter: In Line, With \"Potential Upside In Profitability\"</h2> <p>Start with the near term. <a href=\"https://marketdesk.ai/standalone/zFcIoVZ6USY\">Deutsche expects </a>an in-line print, \"with potential upside in profitability.\" Yu models Q3 revenue of $12.6 billion (+127% YoY), a gross margin of around 59% and EBITDA of over $6.6 billion. The engine is AI, which \"is benefiting from a full-quarter contribution from cloud hosting, boosting revenue by almost 3x sequentially to ~$6bn.\" <b>AI solutions & infrastructure alone is expected to jump from $2.2 billion in Q2 to $6.0 billion</b>, which means the <em>AI segment would account for just over half of total revenue at the business formerly known as a rocket company.</em></p> <p>Elsewhere, consumer broadband subscribers should end the quarter at 13.5 million (vs. 12.0 million in Q2), while ARPU slides another $2 to $64, giving connectivity revenue of nearly $5 billion, up 60% YoY. The Space segment, the one in the company's name, is expected to shrink 22% YoY on twelve external Falcon 9 launches. As for the cash, Yu forecasts $19 billion in capex \"mainly directed at AI compute,\" taking capacity to 1.8GW, and leading to <b><i>free cash flow burn of $14 billion</i></b>, in one quarter.</p> <p>Here is the full breakdown vs. consensus:</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/DB%20Oct19%20SpaceX%20Figure%202%20-%203Q26E%20earnings%20preview.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/DB%20Oct19%20SpaceX%20Figure%202%20-%203Q26E%20earnings%20preview.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"87fada1e-89d8-41b6-b312-6dcdd591ba15\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/DB%20Oct19%20SpaceX%20Figure%202%20-%203Q26E%20earnings%20preview.png\" /></a></figure><p>Note that Deutsche is slightly <u>below</u> the Street on Q3 revenue ($12.63 billion vs. $12.89 billion) and broadband subs (13.5 million vs. 14.2 million), but slightly above on EBITDA margin (52.6% vs. 51.4%). Options are pricing a move of about 7.8% in either direction, which is <a href=\"https://www.tipranks.com/news/spacex-q3-earnings-preview-options-market-signals-7-8-move-as-analysts-forecast-12-9b-revenue\">a bit more than half of what the stock actually did</a> after Q2.</p> <h2>How High Can 2027 Go?</h2> <p>This is where Deutsche gets interesting. In Yu's view, \"the largest swing factor in respect to forecasts will be compute deployment.\" Management is targeting more than 2GW exiting 4Q26, which DB thinks is \"doable,\" and then 5-10GW exiting 2027. DB models toward the low end, at about 6GW, and lays out a line of sight into 5-7GW of power over the next couple of years: 1.9GW of Doosan turbines, 1.2GW from the Southaven plant's 41 turbines, 0.7-1.1GW from the APR acquisition, 900MW or more leased through the Stateline JV, plus the TVA grid supply and backup turbines at Colossus 1 and up to another gigawatt \"from other sources.\" (We assume SpaceX will need all of it to keep the <a href=\"https://www.zerohedge.com/markets/crowding-out-effect-immense-broadcom-oracle-join-spacex-ai-chip-debt-spv-stampede\">Nvidia chips it is borrowing to buy</a> switched on.)</p> <p>Put it together, and the bank's math says <b>the neocloud business alone can generate $70-90 billion of revenue in 2027</b>, \"depending on timing and pricing dynamics.\" For context, SpaceX's entire 2025 revenue was $18.7 billion. And the result is a 2027 forecast that is now 16% above consensus on revenue and 29% above on EBITDA:</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20SpaceX%202027%20DB%20vs%20consensus%20-%202026-10-19.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20SpaceX%202027%20DB%20vs%20consensus%20-%202026-10-19.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f056b3f6-b6cf-495f-aaf4-5cb4f5ddb5a8\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20SpaceX%202027%20DB%20vs%20consensus%20-%202026-10-19.png\" /></a></figure><p>Deutsche isn't even the most aggressive on compute. Goldman's Eric Sheridan, in his own <a href=\"https://marketdesk.ai/standalone/Yf8GOQxejTz\">SpaceX Q3'26 preview</a> earlier this month (<a href=\"https://www.zerohedge.com/signup/professional-membership-year\"><i>also available to pro subs</i></a>), forecasts SpaceX scaling to <b>~2.4GW of AI compute by year-end, ~7.0GW by the end of 2027 and ~10.6GW by the end of 2028</b>:</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/GS%20Exhibit%202%20-%20SPCX%20AI%20Compute%20Capacity%20Bridge_0.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/GS%20Exhibit%202%20-%20SPCX%20AI%20Compute%20Capacity%20Bridge_0.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9c5bbd6a-7a12-4eaf-b0f6-60a5c9ee2a79\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/GS%20Exhibit%202%20-%20SPCX%20AI%20Compute%20Capacity%20Bridge_0.png\" /></a></figure><p>Goldman models $85.5 billion in 2027 AI solutions & infrastructure revenue, of which $45.5 billion comes from hosting deals on just ~1GW of contracted capacity. As we noted when we <a href=\"https://www.zerohedge.com/markets/spot-four-times-hurdle-what-50-billion-gigawatt-neocloud-rents-say-about-ai-revenue-gap\">dug through Goldman's neocloud rate card</a>, most of those hosting deals are \"90-day cancellable on both sides.\" Which is probably worth keeping in mind when somebody extrapolates them to 2029.</p> <p>Speaking of extrapolating, Musk himself already <a href=\"https://x.com/zerohedge/status/2084753795850830171\">raised the bar on the Q2 call</a>:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Musk reiterates expectation of $100 billion ARR by the end of this year (10x the June ARR), and now sees SpaceX seeing $1 trillion in revenue by 2030, and \"non zero chance\" of getting there in 2029. Some context: the average analyst estimate (30 of 39 sellside analysts are Buy on SPCX) for 2029 revenue is $208 billion</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2084753795850830171?ref_src=twsrc%5Etfw\">August 4, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Evercore's Kutgun Maral, for one, expects an annual run rate of $104 billion by year-end and 2.3GW of compute (vs. the Street's 2.2GW), and raised his target to $270. Deutsche keeps its Buy and $235 target, vs. Friday's close of $146.03.</p> <h2>The $200 Billion Footnote</h2> <p>Here is the full set of DB's estimate changes. Look at the bottom line of each block:</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/DB%20Oct19%20SpaceX%20Figure%201%20-%20Estimate%20changes.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/DB%20Oct19%20SpaceX%20Figure%201%20-%20Estimate%20changes.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"40bd27ec-0f65-471c-9741-8b6369dcf900\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/DB%20Oct19%20SpaceX%20Figure%201%20-%20Estimate%20changes.png\" /></a></figure><p>Deutsche raised 2027 revenue by $10 billion, and <b>2027 capex by $22 billion, to $207 billion</b>, and 2028 capex by $40 billion to $230 billion. And while 2028 revenue barely moves ($200 billion vs. $198 billion), 2028 EPS actually dips, because, as Yu admits, \"there is concern by investors that pricing could normalize in 2028-29.\" The bank now assumes $/GW pricing \"<em>declines by 25% to about $30bn in 2028.\" </em>In other words, <i><b>the compute gets more expensive to build exactly when it gets cheaper to rent</b></i>.</p> <p>Line up DB's own EBITDA against DB's own capex, and the problem becomes obvious:</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20SpaceX%20EBITDA%20vs%20capex%20DB%20model%20-%202026-10-19.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20SpaceX%20EBITDA%20vs%20capex%20DB%20model%20-%202026-10-19.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2d2660c3-428d-4627-9411-bc28206ade26\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH%20-%20SpaceX%20EBITDA%20vs%20capex%20DB%20model%20-%202026-10-19.png\" /></a></figure><p>Napkin math: under Deutsche's <i>bullish</i> model, capex exceeds EBITDA by about $47 billion this year, <b>$124 billion in 2027</b> and $81 billion in 2028, or roughly <u><b>$250 billion across three years</b></u>. SpaceX <a href=\"https://x.com/zerohedge/status/2084736876443767161\">ended Q2 with $100 billion</a> in cash and marketable securities, and DB expects about $13.5 billion of that to have been burned in Q3 alone. Which means the 2027 gap by itself is bigger than the cash pile... and that gap has to be filled by someone.</p> <p>That someone, of course, is the bond market.</p> <h2>Meanwhile, In Credit...</h2> <p>Regular readers will recall that SpaceX <a href=\"https://www.zerohedge.com/news/2026-06-28/spacex-slams-head-first-bond-market\">slammed head first into the bond market</a> less than two weeks after its record $86 billion IPO, selling $25 billion of investment grade bonds which were, depending on who you asked, \"4x oversubscribed.\" Bondholders have been underwater pretty much since the break, and on Monday the 6.65% notes of 2056 hit a new all-time low of 83.345:</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BBG%20-%20SpaceX%206.65pct%202056%20notes%20record%20low%20-%202026-10-19.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BBG%20-%20SpaceX%206.65pct%202056%20notes%20record%20low%20-%202026-10-19.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bf3af92c-e4fa-499c-a205-2a01eeefeddc\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/BBG%20-%20SpaceX%206.65pct%202056%20notes%20record%20low%20-%202026-10-19.png\" /></a></figure><p>At that price, the 30-year paper of a BBB-rated company that is supposedly about to post $84 billion in EBITDA yields roughly 8.1%, which is the kind of number one usually associates with the junk bond market (as we put it <a href=\"https://x.com/zerohedge/status/2085088570222506156\">back in August</a>, \"SPCX bonds skeptical about the $1 trillion in revenue\"). The 5.875% notes due 2036 tell the same story: per Trace, their spread was 193bps earlier this month, vs. 140bps when they were sold in June.</p> <p>What changed? The <a href=\"https://www.zerohedge.com/markets/record-ipo-record-chip-collaterlized-loan-16-weeks-spacex-taps-apollo-40-billion-debt\">record chip-collateralized loan</a>. On Oct 6, the FT reported that SpaceX wants to raise another $40 billion, about $10 billion in bank loans and $30 billion of IG debt, in a deal led by Apollo, to pay for Nvidia chips. Add the $25 billion from June, and SpaceX will have borrowed (or tried to borrow) $65 billion since June, on top of the $38.4 billion in debt it reported as of June 30. <strong>The next day, five-year CDS jumped as much as 16.7bps to about 197.6bps</strong>, the highest since the swaps started actively trading in June (when they were around 110bps):</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BBG%20-%20SpaceX%205Y%20CDS%20record%20wide%20-%202026-10-08.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/BBG%20-%20SpaceX%205Y%20CDS%20record%20wide%20-%202026-10-08.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8454e27c-c591-4ead-90e9-f6fb18c5d551\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/BBG%20-%20SpaceX%205Y%20CDS%20record%20wide%20-%202026-10-08.png\" /></a></figure><p>Of course, we covered it at the time:</p> <div class=\"twitter-tweet twitter-tweet-rendered\" style=\"display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;\"><iframe allowfullscreen=\"true\" allowtransparency=\"true\" data-tweet-id=\"2107940154975330394\" frameborder=\"0\" id=\"twitter-widget-1\" scrolling=\"no\" src=\"https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=e30%3D&frame=false&hideCard=false&hideThread=false&id=2107940154975330394&lang=en&origin=file%3A%2F%2F%2FC%3A%2FUsers%2Fivand%2FDownloads%2FSpaceX%2520Earnings%2520Preview%2520-%2520ZH%2520draft%2520-%25202026-10-19_1.html&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px\" style=\"position: static; visibility: visible; width: 550px; height: 776px; display: block; flex-grow: 1;\" title=\"X Post\"></iframe></div> <p>Barclays' credit analysts, led by Andrew Keches, argued that an SPV structure might be good for SpaceX in the long run by reducing the amount of debt at the parent company, but warned that in the near term <b>the coming supply could put pressure on the company's existing bonds</b>.</p> <p>Well, they were right about the near term: less than two weeks later, the bonds are 1.4 points lower than where they were on Oct 7, and DB's revised capex forecast suggests $40 billion won't be the last ask. Or as Coherence Credit's Sal Naro <a href=\"https://www.bloomberg.com/news/articles/2026-10-07/spacex-credit-risk-gauge-hits-record-high-on-fundraising-reports\">told Bloomberg</a>, speaking of AI debt in general: \"<b>This is unprecedented debt supply with no real ending in sight.</b>\"</p> <p>None of this will surprise those who have been reading us <a href=\"https://www.zerohedge.com/markets/ai-now-debt-bubble-quietly-surpassing-all-banks-become-largest-sector-market\">since last October</a>, when we first warned that AI had quietly become a debt bubble too, and that the debt would sooner or later have to compete with everyone else (including Uncle Sam) for the same duration buyers. SpaceX, which Musk said in December had been cash-flow positive for years and didn't really need anyone's money, is now one of the biggest borrowers in that line.</p> <h2>What To Watch Today After The Close</h2> <p>Deutsche's own list of \"other areas of focus\" is a good checklist:</p> <ul><li><b>AI:</b> neocloud pricing and new contracts, the Cursor contribution, Grok Bot adoption, and the data center capex outlook (read: any hint that 2027 capex starts with a \"2\").</li> <li><b>Launch:</b> timing of the next few launches after Flight 14; Flight 15 looks set for mid-/late November, though DB doesn't expect a second-stage catch.</li> <li><b>Connectivity:</b> after the $8 billion Grain spectrum deal, \"additional color on management's next move(s) in the US (build vs. buy),\" which is something the wireless carriers will be listening to closely.</li> <li><b>Tesla merger:</b> DB sees the timing as \"mainly a function of valuation differentials and politics (may want to avoid a potential Democrat-led administration taking over post Trump).\"</li> </ul><p>To that we'd add one more: <strong>anything on financing</strong>. Specifically, whether the $40 billion Apollo deal is done, how much of it sits in an SPV, and how much more is coming. And, after <a href=\"https://www.zerohedge.com/markets/musk-pledges-spacex-share-every-kid-america-after-anthropic-unveils-murky-public-benefit\">today's pledge of a SpaceX share to \"every kid in America,\"</a> maybe also how many shares that is.</p> <h2>Who Blinks First?</h2> <p>Deutsche's long-term thesis (as well as everyone else's for that matter) is straightforward: \"the endgame is to build and possess the greatest amount of compute at the lowest cost on the ground and eventually in orbit,\" which should eventually let SpaceX \"deliver leading intelligence/inference capabilities which we think investors generally are still quite skeptical about.\" Yu also concedes that \"the stock has increasingly traded more in line with the AI cohort as opposed to Space.\" Morgan Stanley's Adam Jonas, who has become the bank's resident in house SpaceX cheerleader and <strong>now covers only this company</strong>, thinks SpaceX <a href=\"https://www.zerohedge.com/markets/spacex-looks-unusually-cheap-forward-morgan-stanley\">\"looks unusually cheap\" on the forward</a> (<em>duh)</em>, recently described the skepticism even more vividly: asked who owned the stock, out of 40 clients \"not a single hand went up.\" </p> <p><strong>So who is right: the equity analysts who see 2027 EBITDA nearly 30% above consensus, or the bondholders who are demanding 8% for 30 years? </strong>Probably both, in their own way.</p> <p>The upside case is real, but every dollar of DB's 2027 EBITDA comes with roughly two and a half dollars of capex attached, and that capex will be funded by the same creditors who just marked the 2056s to 83. If today's call brings a higher capex number and no clarity on financing, <b>we suspect the bond market will be the one setting the tone</b>, just as it did after Q2. Then again, Musk has never been shy about <a href=\"https://www.zerohedge.com/markets/spacex-earnings-preview-five-questions-matter-most\">telling bears that he \"tried to warn them,\"</a> and as of Friday's close the stock was still 8% above its $135 IPO price. The bonds, meanwhile, are almost 16% below theirs.</p> <p><i>Much more in the full Deutsche Bank \"<a href=\"https://marketdesk.ai/standalone/zFcIoVZ6USY\">Compute-driven state of mind</a>\" note and Goldman's \"<a href=\"https://marketdesk.ai/standalone/Yf8GOQxejTz\">SpaceX Q3'26 preview</a>,\" both available to <a href=\"https://www.zerohedge.com/signup/professional-membership-year\">pro subs</a>.</i></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T17:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 13:00</span>",
+    "link": "https://www.zerohedge.com/markets/equity-sees-125-billion-credit-sees-83-cents-spacex-earnings-preview",
+    "pubDate": "Tue, 20 Oct 2026 17:00:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "JPMorgan Takes JPM Coin To Ethereum For Institutional Clients: Report",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">JPMorgan Takes JPM Coin To Ethereum For Institutional Clients: Report</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients\">Authored by Ezra Reguerra via Cointelegraph</a>,</em></p> <p><em><strong>JPMorgan Chase, the world’s biggest bank by market capitalization, is expanding its JPM Coin deposit token to Ethereum.</strong></em></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-jp-morgan-chase-and-crypto-re_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-jp-morgan-chase-and-crypto-re_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0b1fba72-1103-4a79-8d72-e00b54ddb084\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/hi-jp-morgan-chase-and-crypto-re_0.jpg\" /></a></p> <p>In an announcement sent to Cointelegraph, JPMorgan said <strong>JPM Coin represents US dollar deposits held at the bank and lets eligible clients transfer funds within seconds, around the clock. </strong></p> <p>A spokesperson told Cointelegraph that JPM Coin has been technically deployed on the Ethereum mainnet.</p> <p>Emma Landriault, global head of Kinexys Labs, said <strong>crypto companies could use the token for blockchain payments, while financial institutions could use it to settle trades and post collateral.</strong></p> <p>Landriault said JPMorgan chose Ethereum for its liquidity and existing use among clients. While the tokens are issued on public networks, JPM Coin will remain restricted to approved institutional participants.</p> <p>The expansion <a href=\"https://cointelegraph.com/news/jpmorgan-launches-deposit-token-base-blockchain?trk=article-ssr-frontend-pulse_little-text-block\">follows JPMorgan’s November 2025 rollout</a> of JPM Coin on Base, an Ethereum layer-2 network built by cryptocurrency exchange Coinbase.</p> <p><strong>At the time, JPMorgan said it planned to support additional public blockchains.</strong> In January, JPMorgan <a href=\"https://www.prnewswire.com/news-releases/digital-asset-and-kinexys-by-jp-morgan-announce-intention-to-bring-usd-jpm-coin-jpmd-natively-to-the-canton-network-302654967.html\">announced</a> plans to bring JPM Coin to the Canton Network. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T16:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 12:45</span>",
+    "link": "https://www.zerohedge.com/crypto/jpmorgan-takes-jpm-coin-ethereum-institutional-clients-report",
+    "pubDate": "Tue, 20 Oct 2026 16:45:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Florida Issues Arrest Warrant For Former Cuban Leader Raul Castro",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Florida Issues Arrest Warrant For Former Cuban Leader Raul Castro</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/former-cuban-leader-raul-castro-wanted-for-murder-conspiracy-in-florida-6106205?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Troy Myers via The Epoch Times</a>,</em></p> <p>Florida is seeking to arrest former Cuban leader Raúl Castro over his alleged role in a conspiracy to shoot down and murder three U.S. citizens and one lawful resident aboard two civilian aircraft more than 30 years ago.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/castro.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/castro.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8688ec27-55be-4e69-a37c-da0a989ca7eb\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/castro.jpg\" /></a></p> <p><strong>The state arrest warrant was announced Monday by Florida Attorney General James Uthmeier,</strong> who accused Castro of having spies embedded in America to help carry out the shooting down of two unarmed planes operated by Brothers to the Rescue, a humanitarian organization that promotes Cubans' efforts against the country's long-standing communist regime.</p> <p>The former Cuban leader, now in his mid-90s, is charged with one count of conspiracy to commit first-degree murder and also faces a parallel, federal indictment by the Department of Justice, <a href=\"https://www.theepochtimes.com/us/us-charges-former-cuban-leader-raul-castro-over-1996-killing-of-americans-6031109?utm_source=partner&utm_campaign=ZeroHedge\">announced</a> May 20.</p> <p>\"Raúl Castro ordered the murder of four Floridians in cold blood, and Florida will never stop pursuing accountability for that communist conspiracy,\" Uthmeier said in a news release. \"The Castro regime's spies operated in our communities, fed intelligence to Havana, and helped put civilian pilots in the crosshairs of Cuban MiGs.\"</p> <p><strong>The four victims in the planes shot down on Feb. 24, 1996, were Carlos Costa, Pablo Morales, Mario de la Peña, and Armando Alejandre Jr.</strong></p> <p>According to the affidavit, Castro, who was the minister of Cuba's Revolutionary Armed Forces and first vice president at the time of the incident, was the final decider in authorizing the attack, giving senior military officials an order to \"shoot them down at sea when they show up, and those who have the authority are not to consult anyone.\"</p> <p>Cuban spies operating in South Florida's Miami-Dade and Monroe Counties infiltrated the Brothers to the Rescue organization and reported their flight plans back to Cuban leaders, the news release said.</p> <p>On the day of the attack, three unarmed Brothers to the Rescue aircraft departed the Opa-Locka Airport in Miami-Dade County. <strong>Once they crossed the 24th latitude line, while still outside the island-nation's territory, Cuban MiGs destroyed two of the civilian Cessnas with missiles, killing the four onboard.</strong></p> <p>\"For thirty years, their families and our Cuban American community have carried this profound loss and refused to let the pursuit of justice fade,\" Miami-Dade Sheriff Rosie Cordero-Stutz said in the news release. \"Today's action sends a clear message: the passage of time does not diminish the value of these lives or our responsibility to pursue accountability.\"</p> <p>The news release added that the aircraft were traveling away from Cuba and received no warning before the attack.</p> <p>Elements of the alleged criminal conspiracy, like the gathering of intel by stateside Cuban spies, occurred in Miami-Dade and Monroe Counties. <strong>Chief Judge Ariana Fajardo Orshan of the 11th Judicial Circuit, which encompasses Miami-Dade, signed the arrest warrant.</strong></p> <p>Florida's Office of Statewide Prosecution has assumed jurisdiction of the ongoing investigation, Uthmeier said, and additional charges against Castro are possible.</p> <p>\"Under President [Donald] Trump's administration, we're committed to pursuing every lawful, prosecutable avenue to bring accountability, including parallel federal and state prosecutions,\" U.S. Attorney Jason Quiñones said in the news release.</p> <p>Florida's arrest warrant against Castro joins the United States' <a href=\"https://www.theepochtimes.com/world/cuban-regime-faces-mounting-pressure-as-calls-for-change-grow-6037706?utm_source=partner&utm_campaign=ZeroHedge\">increasing</a> pressure campaign against Cuba's brutal communist rule, as Trump administration officials have long stated their intentions of wanting <strong>regime change</strong> on the island nation.</p> <p>On Aug. 6, the State Department <a href=\"https://www.theepochtimes.com/us/us-announces-new-sanctions-on-cuba-targeting-military-imports-6072148?utm_source=partner&utm_campaign=ZeroHedge\">announced</a> sanctions against Cuba's <a href=\"https://www.theepochtimes.com/world/state-department-issues-new-sanctions-against-cuban-military-group-6052064?utm_source=partner&utm_campaign=ZeroHedge\">military</a>.</p> <p><strong>More recently, Trump took the stage at the United Nations on Sept. 22 and called Cuba a failed state,</strong> adding that \"freedom will be coming\" to the island. The Cuban delegation <a href=\"https://www.theepochtimes.com/world/cuban-delegation-walks-out-of-trumps-un-speech-6093368?utm_source=partner&utm_campaign=ZeroHedge\">walked out</a>.</p> <p>A week after that speech, Trump <a href=\"https://www.theepochtimes.com/us/trump-expects-deal-with-cuba-says-he-doesnt-think-military-action-necessary-6095570?utm_source=partner&utm_campaign=ZeroHedge\">told</a> reporters at the White House that he believed the United States and Cuba could reach an agreement, and American military action would not be necessary.</p> <p>Prior to that comment, the president <a href=\"https://www.theepochtimes.com/us/trump-says-potential-cuba-operation-could-mirror-venezuela-raid-6050699?utm_source=partner&utm_campaign=ZeroHedge\">hinted</a> in June that <strong>a potential Cuba operation could mirror the Caracas, Venezuela, raid</strong> on Jan. 3 to apprehend then-Venezuelan leader Nicolás Maduro and his wife Cilia Flores, both of whom are in custody in New York and pleading not guilty to a number of charges.</p> <p>Cuban Americans <a href=\"https://www.theepochtimes.com/article/after-fall-of-maduro-cuban-americans-hope-their-homeland-is-next-5967268?utm_source=partner&utm_campaign=ZeroHedge\">told</a> The Epoch Times they were <a href=\"https://www.theepochtimes.com/us/cuba-next-thousands-rally-for-american-intervention-in-communist-cuba-5999384?utm_source=partner&utm_campaign=ZeroHedge\">hopeful</a> for U.S. military action against their home country following the overnight operation in Caracas.</p> <p>They also <a href=\"https://www.theepochtimes.com/us/cuban-americans-absolutely-delighted-after-raul-castro-indictment-6036927?utm_source=partner&utm_campaign=ZeroHedge\">reacted</a> with glee over the U.S. indictment against Castro in May.</p> <p><strong>Alina Fernández Revuelta, the daughter of Fidel Castro, welcomed the charges against her uncle.</strong></p> <p>\"The charges increase pressure on a regime untouchable for decades,\" she told The Epoch Times in a text message. \"Coming from a family directly connected to that history, you understand the weight of this moment in a different way.\"</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T16:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 12:15</span>",
+    "link": "https://www.zerohedge.com/geopolitical/florida-issues-arrest-warrant-former-cuban-leader-raul-castro",
+    "pubDate": "Tue, 20 Oct 2026 16:15:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Loop Downgrades Apple As iPhone Rebound Shipment Hopes Slide",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Loop Downgrades Apple As iPhone Rebound Shipment Hopes Slide</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Apple shares are down about 1% in premarket trading in New York on renewed concerns about iPhone demand.</p> <p>Loop Capital technology analyst Ananda Baruah downgraded Apple from<strong> \"Buy\" to \"Hold,\" </strong>citing <strong>slumping expectations that the company will recover lost iPhone shipments next year</strong> and warning that skyrocketing memory chip costs could further squeeze profit margins.</p> <p><strong>Baruah lowered his 12-month price target to $330</strong> from $370, nearly in line with Bloomberg-tracked analyst forecasts of around $334. The new target implies roughly 4% downside from the $343 share price cited in the note.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1ba20845.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1ba20845.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"0430e630-34f1-4090-820a-626693d6e108\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1ba20845.png\" /></a></p> <p>Baruah explained the reason for the rating downgrade:</p> <blockquote> <p><em><strong>We're downgrading AAPL</strong> to Hold from Buy and lowering our PT to $330 from $370 on new iPhone data from Loop Capital Supply Chain Analyst John Donovan (Latest AAPL ASP Tracker & Build Analysis – Reported Cuts Not True – Yet?) as our \"normalized\" EPS is reduced to $11.00 from $12.00 (and our new PT using an AAPL median P/E of 30x is $330.) </em></p> <p><em>The gist is that when AAPL previously reduced its Sep Q & Dec Q iPhone unit ships by 10% <strong>we believed they would be in a position to make up many (if not most) of these units through CY2027</strong> as the reductions were supply related (memory & processors) & not demand related. </em></p> <p><em><strong>This no longer appears to be the case</strong>. Further, while not the core aspect of our call today we acknowledge then potential for GM risk as <strong>memory costs continue to increase</strong>. </em></p> </blockquote> <p>The revised forecasts also reflect much <strong>lower expectations for iPhone selling prices</strong>. For next year, the analyst slashed his average selling price estimate to $1,096 from $1,235 and reduced projected iPhone revenue to about $285 billion from $315 billion.</p> <p>He expects total 2027 revenue to reach $539 billion, down from $569 billion, and earnings of $9.76 a share, compared with his previous $10.11 estimate.</p> <p>For the <strong>December quarter, Baruah forecasts 79 million iPhone shipments</strong>, below the consensus estimate of 85 million. He forecasts iPhone revenue of about $88.7 billion for the quarter, below Wall Street expectations of roughly $93 billion.</p> <p>Baruah's note, published on Monday, builds on soft iPhone demand cited by analysts at Jefferies and other desks. There was good <a href=\"https://www.zerohedge.com/technology/apples-iphone-duo-delivery-dates-slip-late-january-preorders-swamp-launch-inventory\">news last week on Duo demand</a>, as the flurry of preorders outstripped launch inventory, pushing some orders out until January 25. But premium handsets priced at $1,000-plus and $2,000-plus are still too expensive for mass adoption. Apple's Tim Cook learned that the hard way with the $3,000-plus, goofy-looking Vision Pro. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T16:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 12:00</span>",
+    "link": "https://www.zerohedge.com/markets/loop-downgrade-apple-iphone-rebound-shipment-hopes-slide",
+    "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Mutatis Mutandis Not Ceteris Paribus",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Mutatis Mutandis Not Ceteris Paribus</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>By Michael Every of Rabobank</em></p> <p><strong>2026 has seen economists and strategists forced to accept that geopolitics, rather than being the odd ‘exogenous shock’, is a <em>structural</em> backdrop disrupting models and markets</strong>. If an economic or market call depends on a geopolitical one, it logically requires an entirely different skillset. Of course, people adapt. Six years ago, economists and strategists busily tracked Covid infections while knowing nothing about virology or epidemiology until, <em>fortunately(!), the virus naturally mutated into something less, not more, dangerous</em>. Today, they Hormuz track tanker passages and/or Ukrainian strikes on Russian oil refineries. <strong><em>However, neither says what the geopolitical backdrop will mutate into.</em></strong></p> <p><strong>The Financial Times notes, ‘Iranian hardliners say the time for nuclear weapons has come’, and the US and Israel are reportedly weighing “inevitable” strikes</strong>. Secretary of War Hegseth just made an impromptu visit to Israel as PM Netanyahu, a week before elections, reiterated he’s “ready to strike,” and Syria fears an imminent Israeli-backed Druze offensive. As China’s premier slammed “blatant” US aggression against Iran and Russia again offered to process Iranian uranium, Foreign Minister Lavrov backed Iran, and Tehran said “friendly” nations might be allowed safe passage through Hormuz while adding 122 vessels to its 'non-conformity' list. Pakistan’s army chief visits Tehran today, Egypt’s parliament delayed a vote on military support for the Saudis by a week, Qatar announced an unspecified new defence partnership, and Macron is on a 3-day visit to the Gulf, starting in Kuwait (rumoured to face a possible Iranian ground incursion) before heading to the UAE, Bahrain, and Qatar: <em>as a French diplomat says France “has to assist Gulf states”, is it Qatar’s new defence partner?</em> Elsewhere, Turkey-Azerbaijan tensions are rising, Ethiopia threatened Eritrea, Trump says he recognises the breakaway republic of Somaliland as “a totally different country”, and 160 people are reported dead in escalating drone attacks across Sudan. <strong><em>So, what’s the output from modelling that all – war or peace?</em></strong></p> <p><strong>Trump has partially reinstated Starlink access for Ukraine yet slammed Zelenskyy, saying “somebody else” should negotiate </strong>– <strong>and he’s ready to meet Xi and Putin next month to thrash out a deal without Kyiv or Brussels</strong>. Rumors are this could involve Europe buying Russian gas again, with the US holding shares in a new NordStream pipeline. That isn’t “strategic autonomy.” Neither is the US warning Europe if it tries to set up a rival to Starlink by freezing the US out there will be “devastating” retaliation. NATO is meanwhile making new plans for how to fight Russia, Finland ordered 1 million landmines – but the UK cut £2bn from army front line spending. <strong><em>So, what’s the output from modelling that all – war or peace?</em></strong></p> <p><strong>Trump signaled uncertainty about meeting North. </strong>Korea’s Kim next month – <em>perhaps because of the internet rumour that he’s dead</em>, which would open tail risks of civil war in a hermit kingdom with nuclear weapons, if so. As Taiwan and the Philippines now build maritime cooperation in the face of Chinese pressure, the Chinese press talks about a new fleet of PLA-N drone carrier ships.</p> <p>The geoeconomic knock-on effects of this backdrop are clear: <strong>Saudi Arabia has postponed its 'Davos in the desert': what other spending, and dollar recycling will it and other GCC countries have to postpone if this chaos continues</strong>? Energy prices remain high, if volatile on ‘peace’ hopes, as oil tanker rates push Asian and European refiners into the red. By contrast, Venezuela is seeing oilfield hiring pick up as US FDI into it builds.</p> <p>In trade, the US sanctioned five Chinese entities over AI trade secret theft and ordered DeepSeek removed from federal systems as a national security risk. China has banned the export of some drones (used by rivals’ militaries, some note) on top of other recent tech export bans, which now includes tunnel-boring machines used in mining, e.g., for rare earths, and construction, targeting India in particular, who is using them in metros and national-security tunnels in the Himalayas next to China. Elsewhere, the US pitched itself as a trade partner to Central Asia to woo them from China and Russia, and New Zealand is talking to Brazil and Canada as its FTA with India begins. <strong><em>The market implications in these shifting trade flows can be significant: expect prices to soar for tunnel-boring projects, for example – and note the CME plans tungsten futures as the global demand for weapons rises. </em></strong></p> <p>Meanwhile, changing <em>politic</em>s can also change markets. Yesterday saw an ugly bond reaction to the ugly protests and looting in France (and Belgium and Italy, following earlier peaceful protests in Spain and Portugal) with 10-year French yields +13bps, Italian +8bps, and German +3bps. If this is an ‘exogenous shock’ then economists’ and strategists’ structural metrics still apply, but other skillsets are again needed to make that call - and <strong><em>some political scientists suggest French politics has mutated into something more dangerous.</em></strong></p> <p>While France will see localized curfews, more protests are planned: and organised groups domestic and foreign, and a major French political party, are fanning the flames. Were the RN’s Le Pen to win the presidency in six months, which was the original market concern, there is now fear that the far left may aim for insurrectionary politics; and the whispered risk is <em>Macronistes</em> in key institutions may even see such chaos as a route back to power.</p> <p>Even if we only focus on fiscal metrics, French 10-year borrowing costs are now half a rate hike higher than Friday. It’s also clear there’s no public appetite for austerity but a demand for<em> more</em> public spending on education and public housing, or the police and justice system, or both, when France might be about to get involved in a Middle East war and have to prop up a Ukraine whom the US has walked away from.</p> <p>Of course, France can’t be allowed to fail given its importance within the EU. Then again, can the RN be allowed to succeed? The <em>hypothetical</em> whispered realpolitik binary is between the ECB bailing France out if needed, at a cost to the Euro and the fury of Germany, and not doing so at a cost to EU economic, political, and market stability. But could the ECB <em>bail everybody else out</em> from French contagion and leave Paris to sort out its mess? Maybe… except France has the aircraft carrier and nuclear weapons the EU will rely on even more if the US is doing even less: so, even here, a geopolitical call likely needs to be made first. <strong><em>Whatever happens now, more volatility seems far more likely than a ‘reversion to mean’. </em> </strong></p> <p>Meanwhile, this isn’t just about France: Albania is seeing violent street protests; India has extended the detention of its angry youthful anti-government ‘Cockroach’ party leaders; the Wall Street Journal says the US ‘Congress Is Broken’ and early voting data show 19-29 voting has collapsed so far; UK politics is fragmenting and has seen one political murder this year; an Australian politician was just struck by a left-wing activist’s car, losing a leg. That, plus votes are being counted in Alberta’s referendum on a referendum on independence, which while unlikely to succeed will very likely keep the issue alive just as it is in Quebec. <strong><em>Again, whatever happens now, more volatility seems far more likely than a ‘reversion to mean’.</em> </strong></p> <p>So, <em>mutatis mutandis</em> --a rule can be applied to a new situation provided the necessary adjustments are made while keeping the fundamental point the same-- arguably applies over the more common “because markets” <em>ceteris paribus</em>, or all things remain equal.</p> <p>After all, <strong>one thing the looters in France were saying loudly was that all things are <em>not</em> equal in their eyes </strong>- and global power isn’t distributed that way either.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T15:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 11:45</span>",
+    "link": "https://www.zerohedge.com/markets/mutatis-mutandis-not-ceteris-paribus",
+    "pubDate": "Tue, 20 Oct 2026 15:45:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. X-Energy",
+    "desc": "Key PointsOklo and X-Energy both produce innovative next-gen reactors.",
+    "link": "https://www.nasdaq.com/articles/better-nuclear-energy-stock-buy-after-sell-oklo-vs-x-energy",
+    "pubDate": "Tue, 20 Oct 2026 17:50:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "European Markets Close Weak Despite Mid-Session Recovery",
+    "desc": "(RTTNews) - The major European markets closed on a weak note on Tuesday despite stocks staging a significant recovery past mid-afternoon.",
+    "link": "https://www.nasdaq.com/articles/european-markets-close-weak-despite-mid-session-recovery",
+    "pubDate": "Tue, 20 Oct 2026 17:48:46 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Halliburton (HAL) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/halliburton-hal-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:48:02 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Atlantic Union (AUB) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/atlantic-union-aub-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:48:02 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "See Which Recent 13F Filers Hold CSCO But Robinswood Financial, Climber Capital, Lazari Capital Management, Islay Capital Management and Advus Financial Partners Exited",
+    "desc": "At Holdings Channel, we have reviewed the latest batch of the 55 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Cisco Systems Inc (Symbol: CSCO) was held by 30 of these funds. When hedge fund managers appear to be thinking alike, we find it is a go",
+    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-csco-robinswood-financial-climber-capital-lazari-capital",
+    "pubDate": "Tue, 20 Oct 2026 17:46:53 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Equifax (EFX) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/equifax-efx-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:45:03 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "3M (MMM) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/3m-mmm-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:44:55 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Hasbro (HAS) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/hasbro-has-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:44:55 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "GM (GM) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/gm-gm-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:44:55 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "KeyCorp (KEY) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/keycorp-key-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:44:54 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Dime Commercial (DCOM) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/dime-commercial-dcom-q3-2026-earnings-call-transcript",
+    "pubDate": "Tue, 20 Oct 2026 17:43:21 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Tuesday 10/20 Insider Buying Report: BORR, EQBK",
+    "desc": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned cash to make a purchase, is that they expect to make money. Today we",
+    "link": "https://www.nasdaq.com/articles/tuesday-10-20-insider-buying-report-borr-eqbk",
+    "pubDate": "Tue, 20 Oct 2026 17:39:49 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "When Interest Rates Move, These 7 Income Stocks React Very Differently",
+    "desc": "Key PointsREITs, especially mortgage REITs, are very sensitive to changes in interest rates.",
+    "link": "https://www.nasdaq.com/articles/when-interest-rates-move-these-7-income-stocks-react-very-differently",
+    "pubDate": "Tue, 20 Oct 2026 17:39:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Klaviyo Stock Rallied Today",
+    "desc": "Key PointsKlaviyo gained ground after Salesforce announced it would acquire rival Braze.",
+    "link": "https://www.nasdaq.com/articles/why-klaviyo-stock-rallied-today",
+    "pubDate": "Tue, 20 Oct 2026 17:38:47 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Not Micron. Not Sandisk. This Storage Stock Is Riding the Same AI Infrastructure Wave.",
+    "desc": "Key PointsWestern Digital makes high-capacity hard disk drives that are used by cloud computing companies for storage.",
+    "link": "https://www.nasdaq.com/articles/not-micron-not-sandisk-storage-stock-riding-same-ai-infrastructure-wave",
+    "pubDate": "Tue, 20 Oct 2026 17:35:00 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Social Security benefits could be cut 22% in 2032—and one fix would mean a 40% payroll tax hike for millennials and Gen Z",
+    "desc": "Retirees are getting a 3.6% raise in 2027, but the program’s main trust fund is set to run dry in less than seven years.",
+    "link": "https://fortune.com/2026/10/20/social-security-benefit-cuts-2032-payroll-tax-increase/",
+    "pubDate": "Tue, 20 Oct 2026 16:59:14 +0000",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "ICE vs. Nasdaq: valuation edge goes to ICE, growth edge to NDAQ",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ice-vs-nasdaq-valuation-edge-goes-to-ice-growth-edge-to-ndaq-93CH-4960814",
+    "pubDate": "2026-10-20 17:39:30",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Meta tells Brazil court it treats Lula and Bolsonaro campaigns equally",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/meta-tells-brazil-court-it-treats-lula-and-bolsonaro-campaigns-equally-4960806",
+    "pubDate": "2026-10-20 17:36:20",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "CME vs CBOE: comparing growth, income, and valuation",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/cme-vs-cboe-comparing-growth-income-and-valuation-93CH-4960803",
+    "pubDate": "2026-10-20 17:35:23",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Meta tells Brazil court it ensures equal treatment of campaigns",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/meta-tells-brazil-court-it-ensures-equal-treatment-of-campaigns-93CH-4960798",
+    "pubDate": "2026-10-20 17:33:46",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Starboard’s Smith unveils stake in Solstice, presses for improvements",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/starboards-smith-unveils-stake-in-solstice-presses-for-improvements-4960628",
+    "pubDate": "2026-10-20 17:30:26",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Ananym Capital takes stake in CTS Eventim, calls it undervalued",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ananym-capital-takes-stake-in-cts-eventim-calls-it-undervalued-4960790",
+    "pubDate": "2026-10-20 17:27:40",
+    "fetchedAt": "2026-10-20T18:01:38.263Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
     "desc": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
     "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
@@ -5798,605 +6398,5 @@
     "link": "https://www.nasdaq.com/articles/abb-acquire-51-stake-mitsubishi-electric-joint-venture-jpy-824-bln",
     "pubDate": "Tue, 20 Oct 2026 05:34:17 +0000",
     "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Zions Bancorporation Q3 Earnings Improve",
-    "desc": "(RTTNews) - Zions Bancorporation, NA (ZION), a lender and financial service provider, reported a rise in earnings for the third quarter of fiscal 2026.",
-    "link": "https://www.nasdaq.com/articles/zions-bancorporation-q3-earnings-improve",
-    "pubDate": "Tue, 20 Oct 2026 05:33:18 +0000",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "European Shares Poised For Lower Open Amid Debt Concerns",
-    "desc": "(RTTNews) - European stocks look set to open lower on Tuesday as investors fret over rising debt levels in Europe and tightening financial conditions.",
-    "link": "https://www.nasdaq.com/articles/european-shares-poised-lower-open-amid-debt-concerns",
-    "pubDate": "Tue, 20 Oct 2026 05:27:29 +0000",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FirstService's Century Fire Protection Acquires A&A Fire Protection",
-    "desc": "(RTTNews) - FirstService Corporation (FSV.TO), a provider of property management and essential property services, said its subsidiary, Century Fire Protection, has acquired fire sprinkler services provider A&A Fire Protection.",
-    "link": "https://www.nasdaq.com/articles/firstservices-century-fire-protection-acquires-aa-fire-protection",
-    "pubDate": "Tue, 20 Oct 2026 05:19:54 +0000",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "BHP Q1 Copper Production Down, Iron Ore Rises; Confirms FY27 Production View; Stock Drops",
-    "desc": "(RTTNews) - Mining giant BHP Group Ltd. (BHP, BLT.L, BHP.AX, BHP.L) reported Tuesday lower first-quarter copper production, while iron ore production increased from last year. Further, the firm maintained fiscal 2027 production guidance.",
-    "link": "https://www.nasdaq.com/articles/bhp-q1-copper-production-down-iron-ore-rises-confirms-fy27-production-view-stock-drops",
-    "pubDate": "Tue, 20 Oct 2026 05:18:24 +0000",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Honeywell Aerospace Forecasts 9,950 New Business Jet Deliveries Over Next Decade",
-    "desc": "(RTTNews) - Honeywell Aerospace Inc. (HONA), a manufacturer of aircraft components, avionics, engines, and systems, Monday projected 9,950 new business jet deliveries over the next decade, up 4.4 percent from last year.",
-    "link": "https://www.nasdaq.com/articles/honeywell-aerospace-forecasts-9950-new-business-jet-deliveries-over-next-decade",
-    "pubDate": "Tue, 20 Oct 2026 05:16:17 +0000",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Singapore is tapping a Nobel-winning formula to help its singles get dates",
-    "desc": "FirstDate offers one potential match at a time, testing whether fewer choices can help singles build a connection.",
-    "link": "https://fortune.com/2026/10/01/singapore-firstdate-government-workers-dating/",
-    "pubDate": "Thu, 01 Oct 2026 19:17:19 +0000",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "AstraZeneca partners with Oracle on AI clinical research",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/astrazeneca-partners-with-oracle-on-ai-clinical-research-93CH-4958907",
-    "pubDate": "2026-10-20 06:33:03",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Oil majors face spending test from Iran war windfall cash",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/oil-majors-face-spending-test-from-iran-war-windfall-cash-4958834",
-    "pubDate": "2026-10-20 06:13:14",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.26%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-126-4958821",
-    "pubDate": "2026-10-20 06:00:05",
-    "fetchedAt": "2026-10-20T07:01:44.353Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "The world’s finance chiefs see new risks — and less China angst",
-    "desc": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-    "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-    "pubDate": "Tue, 20 Oct 2026 05:27:53 GMT",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-    "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-    "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 20 Oct 2026 01:31:09 GMT",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How is the US economy really doing under President Trump?",
-    "desc": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-    "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 20 Oct 2026 05:00:45 GMT",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Food aid charity under pressure from fuel costs",
-    "desc": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
-    "link": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 20 Oct 2026 05:15:16 GMT",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "McKesson EVP, CIO and CTO Francisco Fraga sells $797,128 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/mckesson-evp-cio-and-cto-francisco-fraga-sells-797128-in-stock-93CH-4958796",
-    "pubDate": "2026-10-20 05:47:49",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Incyte president Cagnoni sells $297,779 in common stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/incyte-president-cagnoni-sells-297779-in-common-stock-93CH-4958795",
-    "pubDate": "2026-10-20 05:46:09",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Hayward Holdings SVP Susan Canning sells $40,950 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/hayward-holdings-svp-susan-canning-sells-40950-in-stock-93CH-4958794",
-    "pubDate": "2026-10-20 05:45:58",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wyndham Hotels & Resorts CEO Ballotti sells $1.42 million in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/wyndham-hotels--resorts-ceo-ballotti-sells-142-million-in-stock-93CH-4958786",
-    "pubDate": "2026-10-20 05:31:19",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.33%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-033-4958781",
-    "pubDate": "2026-10-20 05:30:05",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Tele2 Q3 core profit misses forecasts, cuts capex outlook on record cash flow",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/tele2-q3-core-profit-misses-forecasts-cuts-capex-outlook-on-record-cash-flow-4958780",
-    "pubDate": "2026-10-20 05:27:26",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Volkswagen bet on Xpeng to save its China business. It’s not going to plan",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/volkswagen-bet-on-xpeng-to-save-its-china-business-its-not-going-to-plan-4958774",
-    "pubDate": "2026-10-20 05:24:22",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asian currencies firm as dollar retreats; yuan hits four-year high",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
-    "pubDate": "2026-10-20 05:14:34",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BlackRock&#x2019;s Fink sees AI shortages, not a bubble, as the bigger threat",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654454-blackrocks-fink-sees-ai-shortages-not-a-bubble-as-the-bigger-threat?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 01:01:57 -0400",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Compound Interest Will Create More Millionaires by 2030 Than Any Other Strategy",
-    "desc": "Key PointsCompounding gives you the ability to grow your net worth as you sleep, while earned income requires that you be active.",
-    "link": "https://www.nasdaq.com/articles/compound-interest-will-create-more-millionaires-2030-any-other-strategy",
-    "pubDate": "Tue, 20 Oct 2026 05:20:00 +0000",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Should You Buy Netflix Stock Before Its Earnings Report After Hours Today?",
-    "desc": "Key PointsNetflix has struggled this year due to weak engagement and disappointing original programming.",
-    "link": "https://www.nasdaq.com/articles/should-you-buy-netflix-stock-its-earnings-report-after-hours-today",
-    "pubDate": "Tue, 20 Oct 2026 04:50:01 +0000",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tradeweb Markets To Buy Trumid Holdings For $1.97 Bln",
-    "desc": "(RTTNews) - Tradeweb Markets Inc. (TW), an electronic trading platform, said that it has inked a deal to acquire Trumid Holdings, LLC, a financial technology company, for around $1.97 billion, subject to adjustments, which is comprised of $1.75 billion for the business and approx",
-    "link": "https://www.nasdaq.com/articles/tradeweb-markets-buy-trumid-holdings-197-bln",
-    "pubDate": "Tue, 20 Oct 2026 04:48:32 +0000",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "SK Hynix RSI hits 19.94 in steep downtrend: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-    "pubDate": "2026-10-20 05:04:29",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Nikkei 225 bearish in descending channel at 64,160: Live levels",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-    "pubDate": "2026-10-20 05:04:25",
-    "fetchedAt": "2026-10-20T06:01:38.818Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
-    "desc": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
-    "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
-    "pubDate": "Tue, 20 Oct 2026 04:48:52 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s",
-    "desc": "",
-    "link": "https://www.investing.com/news/economic-indicators/analysisas-japan-pursues-a-chipindustry-reboot-its-being-pressed-to-build-americas-4958769",
-    "pubDate": "2026-10-20 04:54:41",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Daiwa, Mizuho clear final hurdles to launch China securities units, Bloomberg says",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/daiwa-mizuho-clear-final-hurdles-to-launch-china-securities-units-bloomberg-says-4958768",
-    "pubDate": "2026-10-20 04:54:24",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Morning Bid: Korean canary in the AI coalmine",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/morning-bid-korean-canary-in-the-ai-coalmine-4958763",
-    "pubDate": "2026-10-20 04:48:24",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Exagen president and CEO John Aballi sells $269,790 in shares",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/exagen-president-and-ceo-john-aballi-sells-269790-in-shares-93CH-4958766",
-    "pubDate": "2026-10-20 04:45:58",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Sea’s CEO says financial services arm Monee could go public, WSJ reports",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/seas-ceo-says-financial-services-arm-monee-could-go-public-wsj-reports-4958762",
-    "pubDate": "2026-10-20 04:38:45",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "SmartStop director David Mueller sells $14,441 in SMA stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/smartstop-director-david-mueller-sells-14441-in-sma-stock-93CH-4958759",
-    "pubDate": "2026-10-20 04:31:03",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Arcutis Biotherapeutics director Welgus sells $127,325 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-director-welgus-sells-127325-in-stock-93CH-4958758",
-    "pubDate": "2026-10-20 04:31:00",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "How safe havens stack up as tech, energy and France fears grip markets",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/how-safe-havens-stack-up-as-tech-energy-and-france-fears-grip-markets-4958749",
-    "pubDate": "2026-10-20 04:18:26",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investing",
-    "title": "Software upgrades eat nearly a third of companies’ IT budgets, survey finds",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds-4958748",
-    "pubDate": "2026-10-20 04:12:43",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "AI debt worries spark surge in default insurance trading",
-    "desc": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
-    "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "Britain’s £100,000 tax trap",
-    "desc": "Many of the country’s most skilled workers are withholding their labour from the economy because of crushing marginal rates",
-    "link": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:12 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "Can Africa outgrow China?",
-    "desc": "IMF says continent’s GDP to expand faster than China for first time in decades as it beats worst expectations following Iran war",
-    "link": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "Why the UK government is living on borrowed time",
-    "desc": "The Labour Party’s plan for an expanded state sits uncomfortably with a precarious fiscal backdrop",
-    "link": "https://www.ft.com/content/dec723c9-54d5-407c-a275-f302344feeac?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "Iran war tilts balance of global oil power towards Americas",
-    "desc": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
-    "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "Louis Vuitton and Hermès among luxury retailers looted in French riots",
-    "desc": "Authorities are working to stop stolen goods being resold online through platforms such as Vinted, Amazon and eBay",
-    "link": "https://www.ft.com/content/afaa7a1d-ef43-40ca-a042-4da8de9ff476?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:30 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "ft",
-    "title": "Private jet charter costs from Saudi Arabia soar after Houthi attacks",
-    "desc": "Demand from wealthy travellers leaving kingdom pushes up prices more than 50%, brokers say",
-    "link": "https://www.ft.com/content/c0d1f4c1-20af-4a86-83e3-f26ce5b78aac?syn-25a6b1a6=1",
-    "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Activist investor Starboard builds stake in Solstice, urges focus on core business, FT reports",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654453-activist-investor-starboard-builds-stake-in-solstice-urges-focus-on-core-business-ft-reports?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 00:36:24 -0400",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654452-openai-races-to-lock-in-30b-at-14tvaluation-ahead-of-anthropic-ipo?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 00:15:20 -0400",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tuesday&#x2019;s Economic Calendar",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654169-tuesdays-economic-calendar?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 00:00:00 -0400",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "My Grandmother's \"Just-In-Case\" Cupboard Doesn't Look So Eccentric Anymore",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">My Grandmother's \"Just-In-Case\" Cupboard Doesn't Look So Eccentric Anymore</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://madgewaggy.blogspot.com/2026/10/first-signs-well-soon-be-eating.html\">Authored by Madge Waggy via A lot will happen in 2026!</a>,</em></p> <p>My grandmother kept a cupboard she called the just-in-case, and for most of my childhood I read it as a harmless eccentricity rather than what it was - a wound made edible. She had been a girl during the Depression, and somewhere in her twenties she had learned to keep tinned beans, sacks of flour, jars sealed with wax and paper, all of it rotated with the humourless discipline of a quartermaster provisioning for a war that had already ended but might, at any hour, resume. <strong>Nothing in that cupboard was ever eaten first.</strong> It sat at the back of the shelf like a private insurance policy against a world that had once taken everything from her family and could, she believed, do so again at a moment's notice.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T093107.904.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T093107.904.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"917471c6-bcad-4ef6-8f07-7140bac7dd44\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T093107.904.jpg\" /></a></p> <p>For years the cupboard looked like a relic. The country around it grew fat. Food in America became cheap in a way that no other civilisation in history had ever managed, cheap enough that a family could throw away a third of what it bought and call it a lifestyle, cheap enough that the word hunger retreated into the vocabulary of charity drives and faraway places. We built an entire national identity on the assumption that the shelves would always be full, that the price would always be bearable, that the great problem of food would remain a problem of excess rather than of want. To doubt that assumption in the middle of the nineties was to be faintly embarrassing, like a man who keeps a shotgun in a suburb.</p> <p>Then the erosion began, and it began so quietly that it registered less as a crisis than as a mood. A receipt that used to total forty dollars now totals sixty and buys less. A bag of chips feels lighter in the hand. A cut of beef that was once a weekly habit becomes a monthly occasion, and nobody announces the change because there is nothing to announce - the change simply happens, and the new state of things becomes the baseline against which the next change will be measured. <strong>This is the particular cruelty of slow decline: it is always, at any given moment, almost bearable, and so it is never quite urgent enough to resist.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T093202.731.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T093202.731.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d02ed487-11e3-4b88-abf4-724009bb9070\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-18T093202.731.jpg\" /></a></p> <p>What follows is an attempt to take the temperature of that decline, using what can be measured and admitting plainly where measurement fails. The argument is not that America is about to re-enter 1932, with soup kitchens on every corner and men in cloth caps hiding their faces in a breadline. The argument is subtler and, in some ways, more disturbing - that the country is sliding back toward the conditions that produced the Depression diet, that the slide is visible now to anyone who bothers to look at a scale, a price tag, or an empty shelf, and that the most likely future is not collapse but a long, grinding narrowing in which abundance survives as an appearance while it dies as a reality.</p> <h2>🩸 What the Register Confesses</h2> <p>Begin where every household begins, at the point of sale, because that is where the first symptoms surface and where the official figures are quietly outstripped by what people actually pay. The Bureau of Labor Statistics reported that grocery prices rose by roughly 2.9 percent over the twelve months to September 2026, with overall food inflation running near 2.5 percent, and a government forecast for the coming year of about three percent - numbers that arrive in the newspapers as reassurance. <strong>The reassurance is largely an artefact of averaging.</strong> A three-percent basket is composed of items that fell, items that held, and items that detonated, and the shopper does not buy an average; the shopper buys the specific things a household needs, and the things a household needs have a habit of being the things that detonated.</p> <p>Beef is the clearest case, and it deserves the attention it gets because it is the load-bearing protein of the working table. Ground beef, the cheapest way a family can put red meat on a plate, climbed roughly 18.9 percent year over year, averaging near $6.75 a pound, while a pound of steak approached $12.80 by May 2026 - prices that would have read as a butcher's fantasy a decade earlier. The Department of Agriculture expects beef and veal to rise another five to nine percent through the year, depending on which forecast you trust, and the reasons are structural rather than temporary, which is to say the reasons will not politely go away when the news cycle turns. Coffee, meanwhile, has risen about 55 percent since February 2024, a fact that lands harder when you remember that almost no coffee is grown domestically and the entire supply depends on weather and politics thousands of miles away. Lettuce added 39 percent over a comparable stretch, sirloin steak 21 percent, orange juice 15 percent, and the small consolations - sweets, biscuits, the cheap sugar that a household reaches for when everything savoury has become expensive - are forecast to climb close to seven percent in 2026 alone.</p> <ul><li>Ground beef: up roughly 18.9 percent year over year, averaging near $6.75 a pound.</li> <li>Coffee: up about 55 percent since February 2024, with a 50 percent tariff on Brazilian beans layered on top.</li> <li>Lettuce: up 39 percent; sirloin steak up 21 percent; orange juice up 15 percent.</li> <li>Sugar and confectionery: forecast to rise nearly 7 percent in 2026.</li> <li>Imported pasta: pushed upward by a tariff that has reached 107 percent.</li> <li>Cocoa: more than doubled since 2024 as West African harvests fail.</li> </ul><p>Underneath the headline items sits the tariff layer, which the shopper rarely sees and invariably pays. A levy on Brazilian coffee, a punitive rate on European pasta, duties scattered across imported cheese, olive oil, seafood and out-of-season produce - each one is small enough to be invisible on its own, and together they form a quiet surcharge on the entire act of eating. Add to this the slower pressures that no policy can reverse quickly: drought driving up the cost of feed, ranchers reducing herds because they cannot afford to keep them, and a rebuilding cycle measured in years rather than months. <strong>None of it is a cliff. All of it is a slope, and the slope tilts the same way every month.</strong></p> <table style=\"width:600px;\"><thead><tr><th>🖼️</th> <th>Item</th> <th>12-month change</th> <th>Note</th> </tr></thead><tbody><tr><td>🥩</td> <td>Ground beef</td> <td>≈ +18.9%</td> <td>averages near $6.75/lb</td> </tr><tr><td>☕</td> <td>Coffee</td> <td>≈ +55%</td> <td>since Feb 2024; plus 50% tariff</td> </tr><tr><td>🥬</td> <td>Lettuce</td> <td>≈ +39%</td> <td> </td> </tr><tr><td>🥩</td> <td>Sirloin steak</td> <td>≈ +21%</td> <td>near $12.80/lb</td> </tr><tr><td>🍊</td> <td>Orange juice</td> <td>≈ +15%</td> <td> </td> </tr><tr><td>🍫</td> <td>Cocoa</td> <td>> +100%</td> <td>since 2024</td> </tr><tr><td>🍬</td> <td>Sugar & sweets</td> <td>≈ +7%</td> <td>forecast, 2026</td> </tr><tr><td>🍝</td> <td>Imported pasta</td> <td>tariff 107%</td> <td>cost passed to shelf</td> </tr></tbody></table><p>Eggs deserve a paragraph of their own, because they are the one category that fell and because their fall is instructive. After the grotesque spike that briefly made a carton of eggs a luxury item and a national talking point, prices came down by roughly a quarter from the prior year by mid-2026, and the relief was real. It was also narrow. A family that saved two dollars on eggs did not bank the two dollars; it spent them on beef, which had risen by more than the eggs had fallen. The single visible victory in the grocery aisle was therefore not a victory at all but a transfer, and it flattered the whole basket into looking calmer than it was. This is the rhythm of the present: not a uniform grind but a series of lurches, one category collapsing while another detonates, letting a household breathe in one aisle while it bleeds in the next, and always leaving the shopper to guess which is which.</p> <h2>📉 The Vanishing Gram</h2> <p>A price rise announces itself on a tag. The other kind of rise hides inside the package, and it is arguably more insidious because it is unmeasured by any index that watches the sticker rather than the contents. A bag of crisps that weighed 300 grams now weighs 250 and costs the same. A carton of ice cream quietly sheds a scoop. A loaf of bread loses a slice, a bottle of oil loses an ounce, a block of chocolate shrinks along its edges while the wrapper stays the same size. <strong>Each of these is a price increase dressed as a continuity</strong>, and every one of them is invisible on a receipt, which is precisely why the practice has spread until it is nearly universal.</p> <p>The mechanism works because the human eye is calibrated to price, not to weight. We remember that a thing cost two dollars; we do not remember that it weighed 300 grams, because we never looked. The manufacturer exploits the gap between those two memories, and does so legally, and the consumer absorbs the loss without ever feeling robbed. Over a year, the accumulated effect of shrinkflation across a full grocery basket can add several percentage points to the true cost of eating - points that never appear in the inflation statistics, because the statistics measure the price of the item and not the amount of it. The number that the government reports is, in this narrow and important sense, a number about labels rather than about food.</p> <p>What makes the practice feel like a betrayal rather than a mere accounting trick is the way it implicates the household's competence. A careful shopper who compares prices, who notices that brand X is cheaper than brand Y, is still being quietly fleeced by brand X shrinking its box faster than brand Y shrinks its own. The tools of thrift that a Depression-era household wielded with precision - a sharp eye, a good memory, a mental ledger of what things ought to cost - are being systematically defeated by a category of increase that the eye cannot see and the memory cannot hold. <strong>To defend yourself you need a scale, and almost nobody owns a scale, and that asymmetry is the whole point.</strong></p> <h2>🕳️ When the Shelf Forgets</h2> <p>Prices tell you what food costs. Absence tells you something colder, which is what food actually is. Anyone who lived through the spring of 2020, when a run on toilet paper briefly made an entire civilisation look deranged, learned a lesson no statistician bothers to print: abundance is a habit rather than a guarantee, and it can be withdrawn from a shelf in a single weekend without any warning that a withdrawal is coming. That lesson was supposed to be forgotten once the crisis passed. Instead it has been quietly rehearsed ever since, in smaller and more local forms, as shortages arrive and depart and arrive again.</p> <p>Consider the recent litany, each entry trivial on its own and collectively telling. <strong>Baby formula vanished for months, exposing the fact that an entire category of infant nutrition depended on a handful of plants.</strong> Sriracha disappeared when a chilli harvest failed, and the internet mourned. Cream cheese, canned pet food, popcorn, mustard of all things - each absence carried its own tidy explanation, a shuttered factory here, a bad harvest there, a labour force thinned until the trucks still ran and the shelves still emptied. No single one of these was a crisis. Together they sketched the outline of a system that is less a machine than a nervous organism prone to flinching, and the flinching is becoming more frequent.</p> <p>A detail from the present deserves more attention than it received, because it marks a shift in where the fragility actually lives. For most of the post-war period, the weak point in the food supply was production - a bad harvest, a disease, a drought. Now the weak point has migrated to labour and logistics, to the warehouses that are half-staffed, the drivers who are aging out, the last mile that grows thinner every year. The consequence is a strange and unsettling paradox: a store can sit full at the distribution centre and bare at eye level, its backroom stocked while its shelves gape, because the people who would have moved the goods from the truck to the aisle are simply not there. The failure is human now rather than agricultural, and a human failure is harder to fix with a policy because it involves bodies rather than acres.</p> <h2>🐄 The Herd at the Edge</h2> <p>Follow the beef, because beef is the clearest single instrument for reading the whole apparatus, and what it registers is a supply that has been quietly contracting for years while demand has stayed stubborn. <strong>The American cattle herd sits at a 75-year low of roughly 86.2 million head</strong>, the residue of drought, expensive feed, and the perfectly rational decision by ranchers to sell animals rather than feed them at a loss. A herd, unlike a factory, cannot be switched back on. You cannot simply hire more cows. Rebuilding takes eighteen to thirty months at the very least, and most forecasts push any real relief past 2028, which means the price of a steak this evening is being decided in pastures right now by animals not yet born.</p> <p>The arithmetic of a shrinking herd is brutal in its simplicity, and it explains why beef has become the emblem of the whole squeeze. When feed costs rise, ranchers cull. When ranchers cull, supply rises briefly and prices dip, which tempts everyone to think the problem is over. Then the culling catches up, supply tightens, and prices climb past where they started, and the ranchers who want to rebuild must do so into a market where the cost of a breeding animal has itself risen. The cycle runs on a clock of years, and no government, however energetic, can compress that clock. Cattle are not software. You cannot ship a patch.</p> <p><strong>Set beside the historical record, the parallel stops being merely poetic and starts to feel like a warning.</strong> In 1930, New York City ran eighty-three breadlines and Philadelphia ran eighty; the mobster Al Capone, of all people, opened a soup kitchen in Chicago and fed thousands because the official machinery was overwhelmed. Peanut butter, at ten cents a pound, became the poor household's protein precisely because meat had priced itself beyond reach, and a generation learned to build meals around legumes and grains not from conviction but from arithmetic. One small fact from the breadline photographs of that era has stayed with me since I first read it: there are almost no women in them. Women, who held roughly a quarter of the workforce and were the first to be laid off, hid their hunger at home while the men queued in public, so that the visible face of the Depression was a man's face and the invisible suffering was a woman's. Something of that shape is already faintly visible now - the roast shrinking, legumes creeping onto plates, the restaurant demoted from routine to occasion - and it is arriving first in the households with the least room to absorb it.</p> <h2>📊 The Credibility Gap</h2> <p>An awkward fact hangs over all of this, and it is the gap between what the statistics say and what people feel. More than eighty percent of shoppers report that food prices have risen by more than the official figures suggest, and while it is tempting to dismiss that as ignorance or alarmism, the gap has a rational explanation that deserves a hearing. The statistician measures a fixed basket of goods and weights it according to the average household. The shopper buys the specific basket that their family actually eats, and that basket is not average. It skews toward the staples that have risen fastest, toward the cheap proteins that have detonated, toward the items that a stretched budget cannot substitute away from. The statistician is measuring the temperature of a lake; the swimmer is standing in the one spot that is boiling.</p> <p>There is a second and less flattering reason for the gap, which is that the official basket adjusts for substitution in a way that flatters the result. When beef becomes too expensive and a family switches to chicken, the statistician records that the family is buying chicken, and chicken is cheaper, so the index improves. The family, however, experiences the switch as a loss - they wanted beef and settled for chicken, and the settling is the whole point. The index measures what they now buy; it does not measure what they have given up. This is why an economy can post a modest inflation number while a population feels that it is eating worse, because it is, and the statistic has no field in which to record the disappointment.</p> <p>For anyone trying to read the future, the implication is that the official numbers should be treated as a floor rather than a ceiling, and the lived experience of the checkout as the truer signal. When a statistic and a sensation diverge this widely for this long, the statistic is usually the one lagging. The body knows the price of food before the spreadsheet does, and the body has been telling a darker story than the spreadsheet for several years now. <strong>It would be prudent to believe the body.</strong></p> <h2>🍲 The Anatomy of Want</h2> <p>Strip away the sepia romance that clings to the 1930s, and look honestly at what the Depression actually put on the plate. Money collapsed, unemployment reached a quarter of the workforce, and the diet narrowed to whatever could be stretched: beans and cornbread, potato soup, dandelion greens pulled from a yard, organ meats that the butcher had once thrown to the dogs, breads baked without egg or yeast because both had become luxuries. Malnutrition spread alongside the unemployment rolls, and for millions the only square meal of the week came from a soup kitchen or a relief station, eaten standing up and swallowed with a measure of shame. The era did not produce a cuisine of pleasure; it produced a discipline of scarcity, a body of practical knowledge for making the inedible edible and the edible last.</p> <p>The specific dishes of that period read today like a museum of ingenuity born of desperation. Hoover stew, a thin vegetable and macaroni concoction named after a president blamed for the hunger. Mock apple pie, built from Ritz crackers when apples were unaffordable, and convincing enough to fool a child. Milk toast, cream of wheat, chipped beef on toast - a dish the soldiers nicknamed SOS and the mothers served without apology. Cornmeal mush, fried in the pan the next morning when the mush had set. The empty pockets turned inside out became known as Hoover flags, a joke that carried the weight of a whole generation's humiliation. <strong>Every one of those dishes was a small negotiation between what a family wanted and what a family could afford, and the negotiations were won by the second party.</strong></p> <p>What is returning now is not the recipes but the discipline, and it is returning with a modern accent. The Depression had no freezer aisle, no vacuum sealer, no warehouse club, no discount app; it had a garden, a jar, and a stove that burned whatever was cheap. The modern household inherits the instinct without the toolkit, which is why the substitution shows up first in behaviour rather than in dishes - store brands replacing name brands, bulk buying when a staple is on sale, the meatless dinner that began as a cost decision and quietly settled into habit, the takeaway demoted from routine convenience to occasional treat. Beneath all of it runs the realisation that our great-grandparents reached slowly and we are reaching at speed: that a full shelf is a proposition rather than a fact, and that propositions can be withdrawn.</p> <h2>🫥 The Shame of the Line</h2> <p>Hunger has an economics and it has a psychology, and the psychology is the part that history books skip. During the Depression, accepting charity carried a stigma that the modern welfare state has largely dissolved; people hid their faces from photographers when they queued, because the breadline was a public confession of failure in a culture that had promised that hard work would always suffice. That shame shaped how a generation ate long after the money returned. Families developed elaborate codes to disguise substitution - the meat stretched with breadcrumbs so no one would notice, the guest served first and best, the mother eating least and claiming she was not hungry. <strong>The scarcity was real, but the performance of plenty was a kind of armour.</strong></p> <p>Something of that performative instinct has returned, though in subtler form. The modern version is less about hiding from a photographer and more about hiding from the group chat - the holiday meal assembled with care so the guests do not see the corners cut, the birthday cake that cost less than it looks, the dinner party where the host spends the week eating plainly so that the evening can look abundant. Scarcity, when it arrives in a wealthy country, does not announce itself with the drama of a breadline; it arrives as a quiet series of choices made at the margins, and the household works hard to keep the margins out of sight.</p> <p>There is a darker implication buried in this, which is that the full scale of the narrowing may be invisible precisely because people are skilled at disguising it. If everyone is performing plenty, no one can easily tell how many are actually struggling, and the problem stays underdiagnosed by the institutions that rely on visible distress to justify action. <strong>The Depression announced itself through breadlines because the shame was eventually too heavy to hide.</strong> The present squeeze announces itself through nothing at all - through a lower cut of meat, a cheaper coffee, a smaller bar - and a population trained to perform comfort may hide the strain from itself as efficiently as it hides it from the neighbours.</p> <h2>🥔 The Substitution Kitchen</h2> <p>Look at what people are actually cooking, rather than what the recipe sites promote, and the substitution is easy to trace. Meat is the first thing to be rationed by price, and so the kitchen turns toward the ingredients that once carried the Depression: dried beans and lentils, which are cheap, filling, and nutritionally excellent; root vegetables, which store well and forgive neglect; eggs, rice, oats and cornmeal; the cheap cuts that reward long cooking; the canned tomato that turns a handful of odds and ends into a sauce. None of this is deprivation in the strict sense. A pot of beans with a smoked bone and a heel of bread is a decent dinner by any standard, and a skilled cook can feed a family well on a budget that a careless one would blow on a single restaurant meal.</p> <p>The catch is time. <strong>Cheap food is almost always slow food</strong>, and the household that saves money on ingredients frequently pays for the saving in hours, which is a form of cost that the ledger of a busy family cannot easily absorb. Soaking beans overnight, simmering a cheap cut for three hours, baking bread from scratch - each of these trades the scarcest resource in a modern household, which is time, for the resource that has become tightest in the wallet. This is the cruel trade that the Depression household did not have to make, because its time was less monetised and its rhythms slower; the modern family must find the hours somewhere, usually by sacrificing rest.</p> <p>The generation now learning these skills is doing so without a teacher, which is its own kind of loss. Depression-era families inherited cooking knowledge along an unbroken chain from a mother or grandmother who had always cooked this way, and the chain carried not only recipes but technique, judgement, the small calibrations that no written recipe captures. Two generations of convenience eating broke that chain, and what is being rebuilt now is being rebuilt from videos and guesswork, imperfectly, by people whose parents never soaked a bean and whose grandparents were too distant to ask. The skills are returning; the continuity is not.</p> <h2>🌱 Ground Under the Fingernails</h2> <p>The first real defence against all of this is the oldest one, and it costs almost nothing but attention: a patch of ground, a windowsill, a few pots, planted with something that will feed you. A garden converts sunlight and patience into calories that no supermarket can reprice, and it does so at a return that no savings account currently matches. It need not be grand - a strip of beans along a fence, a few tomato plants, a pot of herbs by a kitchen window will outproduce the beginner's expectation and cost less than the same harvest would at the till by the following autumn. <strong>The point is not self-sufficiency, which is a fantasy, but resilience, which is achievable.</strong></p> <ul><li>Start small and stagger the planting, so that a single failure does not wipe out the season.</li> <li>Favour calorie-dense and fast-cycling crops - courgette, beans, leafy greens, potatoes - over decorative ones.</li> <li>Learn to save seed, which converts one purchase into an indefinite supply.</li> <li>Compost everything, turning kitchen waste into free soil and cutting the bin at the same time.</li> <li>Keep a rough ledger of what the garden spares you at the till, because the numbers are more motivating than the theory.</li> <li>Join a community plot if you have no yard; it solves the space problem and supplies the thing a solitary gardener most lacks, which is company.</li> </ul><p>High-yield crops reward effort with a disproportionate harvest, and the surplus, unlike money, does not lose value to inflation; a glut of courgettes in August is a glut of courgettes whenever the prices spike. The garden also delivers a benefit that is harder to quantify and easy to underestimate: it restores a sense of agency. When everything about the food system feels distant and uncontrollable - the weather in Brazil, the tariff in Brussels, the herd in Texas - the garden is small enough to be understood and immediate enough to be influenced, and that psychological return may be worth as much as the produce.</p> <h2>🫙 The Long Keeping</h2> <p>Preservation is the second defence and the more serious of the two, because a garden gluts and gluts rot, and the difference between a household that eats from its summer all winter and one that does not comes down to the willingness to spend a hot afternoon at a stove. <strong>Canning once felt like a grandmother's eccentricity, the sort of thing one admired and never attempted; it is now a quiet form of self-insurance against a shelf that may or may not hold what you need at a price you can bear.</strong> The methods differ sharply in difficulty, and the honest ranking below is worth more than any glossy guide, because pairing the wrong method with the wrong food is how a pantry turns poisonous.</p> <table style=\"width:600px;\"><thead><tr><th>🖼️</th> <th>Method</th> <th>Best For</th> <th>Difficulty</th> <th>Shelf Life</th> </tr></thead><tbody><tr><td>🫙</td> <td>Water-bath canning</td> <td>High-acid: fruit, tomatoes, pickles, sauces</td> <td>Moderate</td> <td>12-18 months</td> </tr><tr><td>❄️</td> <td>Freezing</td> <td>Most vegetables, fruit, meat, leftovers</td> <td>Easy</td> <td>3-12 months</td> </tr><tr><td>☀️</td> <td>Dehydrating</td> <td>Herbs, fruit leather, jerky, some vegetables</td> <td>Easy</td> <td>6-12 months</td> </tr><tr><td>🧫</td> <td>Fermenting</td> <td>Cabbage, cucumbers, carrots, hot sauce</td> <td>Moderate</td> <td>2-6 months</td> </tr><tr><td>🧂</td> <td>Salting & curing</td> <td>Meat, fish, preserved lemons</td> <td>Harder</td> <td>Months to years</td> </tr></tbody></table><p>Fermentation deserves a particular nod, because it is the oldest and cheapest of the methods and the one most likely to survive a power cut. A crock of sauerkraut bubbling on a counter needs no electricity, no freezer space, and no skill beyond patience and salt, and it improves as it sits. The pressure canner, by contrast, is the method that frightens beginners and the one that most rewards the courage to learn it, since it is the only safe way to preserve low-acid vegetables and meat at room temperature. A jar of preserved food is more than a memory of the past; it is a small refusal to let the price of things dictate every meal, and the refusal compounds with every shelf filled.</p> <h2>🕸️ The Short Chain</h2> <p>Beyond the fence and the jar lies the deeper question of where food actually comes from, and the honest answer for most households is a chain so long and so leveraged that its fragility is built in rather than accidental. Shortening that distance is the patient work of a lifetime: buying from farmers directly, joining a cooperative, subscribing to a community-supported agriculture share, treating the local grower less as a quaint alternative than as a load-bearing wall in the structure of a household's food security. <strong>The shorter the chain, the fewer the joints at which it can snap, and the more of the money stays in the place where the food is eaten.</strong></p> <p>Permaculture and urban farming push production back toward the city that consumes it, and seed networks keep genetic variety from collapsing into a handful of vulnerable commercial strains, which is a form of insurance that pays off only in the years when it suddenly matters. Cutting waste is the cheapest yield of all, since the food you bought and threw away was the most expensive food in the house, purchased and then discarded, paid for twice and eaten once. A household that halves its waste has, in effect, given itself a raise without earning a penny more, and that is a return no market can offer.</p> <h2>🌍 Distant Weather</h2> <p>No account of the present squeeze is complete without the global dimension, because the price of food in a Midwestern town is now set partly by rainfall in Brazil, drought in West Africa, and politics in capitals the shopper will never visit. Coffee is the clearest example: almost none of it is grown domestically, the supply depends on harvests in two countries that have both suffered badly, and a tariff on one of them has been layered on top of an already tight market. Cocoa is worse, with disease and drought in West Africa having more than doubled the price of the raw material in two years, which means the chocolate bar is a commodity long before it is a treat. <strong>The shopper experiences all of this as an inexplicable increase; the reality is a chain of cause that runs across an ocean and a hemisphere.</strong></p> <p>Climate is the slow variable that no policy can negotiate with, and it is reorganising the map of what grows where. Regions that were reliable are becoming erratic; the crop failures that used to happen once a decade are happening more often; and the buffer stocks that once absorbed a bad year have been drawn down across the world. The planet is, in effect, running a thinner pantry than it used to, and a thinner pantry turns every local shock into a global one. The household that plants a garden and fills a jar is, in a small way, insulating itself from weather it will never see.</p> <h2>⚰️ What Could Break</h2> <p><strong>It is worth asking, coldly, what the failure modes actually are, because the answer is more varied and more frightening than the single image of a breadline.</strong> The mild scenario is what is already happening: a long, uneven narrowing, punctuated by shortages that stay local and prices that rise faster than wages, producing a population that eats worse without ever quite being hungry. The middling scenario involves a genuine shock - a war that closes a grain corridor, a disease that guts a staple crop, an energy crisis that makes fertiliser unaffordable - and the narrowing accelerates from years into months. The severe scenario, the one that keeps the doomsayers in business, is a combination of shocks that overwhelms the buffer, and in that world the breadline stops being a metaphor and becomes a queue.</p> <p>What makes the severe scenario more plausible than it used to be is the thinness of the buffers. Just-in-time logistics, which made food cheap, also removed the slack that used to absorb a shock, and a system optimised for efficiency is by definition a system with little room for error. The warehouse that holds two days of stock instead of two weeks is a marvel of cost control until the trucks stop, and then it is two days from empty. A country that has spent forty years removing redundancy in the name of price has, without quite intending it, spent forty years removing the very thing that would protect it in a crisis.</p> <h2>🕯️ No Tidy Ending</h2> <p>Where this all ends cannot be known, and the honest position is to refuse the tidy arc that turns every worry into a lesson and every lesson into a moral. Prices may plateau; some already have, eggs have fallen, and a forecast of three percent for the year sounds almost gentle, until you remember that gentleness is measured against a 2020 baseline that groceries have already left twenty-five to thirty percent behind, and that the cattle herd will not recover before 2028 whatever any politician does this year. <strong>The shortages will stay small and local until, one week, they do not.</strong> The jars will hold until they are eaten. The herd will be rebuilt by ranchers watching a sky that has stopped being predictable, and the price of a pound of beef will be set by weather in places most shoppers will never name.</p> <p>What lingers is a question that admits no comfortable answer. Are we living through a temporary squeeze that will ease as the shocks recede, or the early, gentle slope of a longer descent that our grandparents already mapped and we merely forgot? And will the difference even be visible from inside a supermarket, where the shelves still look full enough, most weeks, to let us keep believing that plenty is the default and scarcity the interruption, when the truth may be the other way around? My grandmother's cupboard, which I once found charming and faintly ridiculous, now looks less like an eccentricity and more like a quiet piece of wisdom passed down from a woman who had already learned, at great cost, that the good times are not obliged to last.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T03:25:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 23:25</span>",
-    "link": "https://www.zerohedge.com/personal-finance/my-grandmothers-just-case-cupboard-doesnt-look-so-eccentric-anymore",
-    "pubDate": "Tue, 20 Oct 2026 03:25:00 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "DeepSeek Is Now Designing Huawei's AI Chips... Just As DHS Orders It Ripped Out Of Federal Systems",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">DeepSeek Is Now Designing Huawei's AI Chips... Just As DHS Orders It Ripped Out Of Federal Systems</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Two DeepSeek headlines landed within hours of each other on Monday, and read side by side they tell you pretty much everything about where the US-China AI race is heading: two separate stacks, built by two separate camps, with less and less overlap every month.</p> <p>Let's start in Hangzhou. According to <a href=\"https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia\">The Information</a>, <strong>DeepSeek has gone well beyond being a Huawei customer and is now effectively a co-designer of Huawei's next-gen silicon</strong>. Huawei engineers have reportedly been stationed at DeepSeek's offices for an extended period, folding the AI lab's requests and suggestions directly into chip design decisions. In return, Huawei plans to hand DeepSeek most of the supply of its Ascend 960DT training chip when it launches next year. And on the software side, both companies have been using the open-source programming language TileLang as an alternative to Nvidia's CUDA, with DeepSeek's models now largely handled by TileLang running on Huawei chips.</p> <p>None of this should come as a surprise. Back in September, when DeepSeek said it aimed to deploy over 160,000 Huawei AI chips, we wrote that <a href=\"https://www.zerohedge.com/political/deepseeks-160000-huawei-order-real-threat-nvidia-2027\">DeepSeek's 160,000 Huawei Order Is A Real Threat To Nvidia In 2027</a>. A few weeks later, on Sept 30, DeepSeek open-sourced an Ascend port of TileLang along with Ascend versions of its DeepGEMM and DeepEP libraries, explicitly crediting Huawei and touting a jointly optimized 128-chip Ascend 950 \"supernode.\" Meanwhile Huawei pulled the launch of the Ascend 960DT forward to the first quarter of 2027, three quarters ahead of schedule.</p> <p>What's new in Monday's report is the depth of the co-design. Nvidia spent two decades building its moat by tuning hardware and CUDA in lockstep with its biggest customers; China is now attempting the same trick with the lab and the chipmaker sitting, quite literally, in the same building. TileLang is still early and nobody serious thinks Ascend matches Blackwell (let alone Rubin) chip-for-chip, but the trajectory matters more than the snapshot. Which brings us back to a question we asked in August, and which nobody in Washington seems to have answered yet:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">With open model token prices rising, one can guess what is going on at Anthropic and ChatGPT. What happens when China floods the world with cheap Ascend chips to power the Chinese open models <a href=\"https://t.co/NGn3T78UOo\">https://t.co/NGn3T78UOo</a></p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2088002733152297202?ref_src=twsrc%5Etfw\">August 13, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><h2>Meanwhile, In Washington...</h2> <p>The US response arrived the same morning, and it was, well, a procurement notice. The Department of Homeland Security published an order <strong>directing federal civilian agencies to remove DeepSeek products, and any third-party services built on the Chinese model, from their IT systems,</strong> <strong>and banned agencies from acquiring them going forward.</strong></p> <p>A few details worth flagging:</p> <ul><li>The order (Exclusion and Removal Order #2026-01) was issued under the 2018 Federal Acquisition Supply Chain Security Act and was actually signed back on July 24; it only became public Monday via a Federal Register filing. So agencies have presumably been quietly scrubbing DeepSeek for three months already.</li> <li>It covers civilian executive branch agencies such as Treasury, State and Justice. The Pentagon and the intel community are carved out, mostly because the Pentagon already banned DeepSeek and High-Flyer AI via the FY2026 NDAA.</li> <li>DHS argues DeepSeek's models pose \"multiple threat vectors\" and that government use may result in the transfer of sensitive data to the PRC, pointing to China-based servers, PII collection at sign-up and possible user fingerprinting.</li> <li>The order doesn't lay out the underlying evidence and stops well short of an Entity List designation, so purely commercial use of DeepSeek is untouched... for now.</li> </ul><h2>Step One Toward Banning All Chinese Open-Source AI?</h2> <p>Probably not step one... more like step four or five, and the important part is hiding in the fine print. The order reaches beyond DeepSeek's own app to third-party products \"developed using DeepSeek implementations,\" which in plain English means any vendor tool built on a fine-tune or distillation of DeepSeek's open weights. And because federal acquisition rules bind prime contractors and subcontractors to these exclusion orders, the provenance of a model's weights has just become a procurement criterion for anyone selling software to Uncle Sam. That is a much bigger deal than banning a chatbot app nobody at the State Department was supposed to be using in the first place.</p> <p>Look at the sequence so far: NASA, the Navy and roughly 17 states blocked DeepSeek on government devices in early 2025; the FY2026 NDAA booted it from the Pentagon and its contractors; now civilian agencies. And the pipeline behind it is already full:</p> <ul><li>The Senate Armed Services Committee's version of the FY2027 defense bill would extend the Pentagon ban beyond DeepSeek to AI from ten other Chinese companies <i>and their derivative models</i>.</li> <li>In July, after Moonshot's Kimi K3 dropped (and sparked what we called <a href=\"https://www.zerohedge.com/ai/chinas-moonshot-eyes-ipo-after-sparking-another-deepseek-moment-us-ai-stocks\">another \"DeepSeek moment\" for US AI stocks</a>), Axios reported the administration was reviving plans for de facto bans on Chinese open models, with Kimi and Alibaba's Qwen in the crosshairs via procurement rules, Entity List threats and security advisories. Scott Bessent added a sanctions threat over distillation a day later.</li> <li>And in August, The Information reported the US was mulling a self-regulatory organization for AI companies, which we flagged at the time for what it likely was:</li> </ul><blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">There it is: just as @DavidSacks predicted, the push to ban open source AI begins, first with the arrival of SROs *US MULLS ORDER FOR SELF-REGULATORY ORG FOR AI COS: INFORMATION</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2093011315912589492?ref_src=twsrc%5Etfw\">August 27, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>If all of this feels familiar, it should: it's the TikTok playbook. TikTok was banned on federal devices in December 2022; the divest-or-ban law followed in April 2024. Government devices first, everyone else later.</p> <p>That said, an outright ban on Chinese open weights would be a much harder lift than TikTok. The weights are already sitting on Hugging Face and on millions of hard drives, a weights-level ban runs into obvious First Amendment problems, and a lot of US startups (and, <a href=\"https://www.zerohedge.com/markets/microsoft-answers-goldmans-trillion-dollar-question-considers-chinas-deepseek-ditch\">reportedly</a>, at least one very large software company in Redmond) have built on Chinese open models precisely because they are cheap and nearly as good. As we laid out in <a href=\"https://www.zerohedge.com/technology/answering-trillion-dollar-question-how-chinas-ai-models-compete-cost-effieiency\">Answering The \"Trillion Dollar Question\"</a> back in June, the cost gap is enormous. So the more likely path is the de facto one: procurement bans that widen to every Chinese lab, then to contractors, then \"advisories\" that let enterprise compliance departments do the rest. No law required.</p> <h2>Decoupling, Courtesy Of Both Sides</h2> <p>The irony is that Beijing may get there first. Just last week China's commerce ministry floated export controls that would, for the first time, cover AI model weights and source code above certain performance thresholds (models trained with more than 10<sup>26</sup> FLOPs, over 2 trillion parameters, or ranking in the global top 10), even if it promises a fast-track license for open-source releases. Chinese AI commentators immediately took it to mean the next Kimi, GLM and DeepSeek flagships may never be open-sourced at all. So the free lunch of frontier-grade Chinese open weights could end from both directions at once.</p> <p>And every step Washington takes to wall off DeepSeek pushes it deeper into Huawei's arms, which is exactly what Monday's Information report describes. The US is cutting DeepSeek out of its government while Beijing cuts DeepSeek off from Nvidia, and the result is two fully separate AI stacks: CUDA, Nvidia and closed US frontier models on one side; TileLang, Ascend and (maybe, for a while longer) open Chinese models on the other. Jensen Huang has been warning for years that export controls would hand Huawei the Chinese market on a silver platter. Turns out they also handed it a very motivated design partner.</p> <p><a data-image-external-href=\"https://store.zerohedge.com/products/jr-tugs-a-lot-double-loop-firehose-tug-toy?variant=52797494034730&utm_source=zerohedge&utm_medium=banner&utm_campaign=2026-10-house-jr-tugs-a-lot-double-loop-firehose-tug-toy&utm_content=expect-a-hostile-takeover\" data-image-href=\"https://store.zerohedge.com/products/jr-tugs-a-lot-double-loop-firehose-tug-toy?variant=52797494034730&utm_source=zerohedge&utm_medium=banner&utm_campaign=2026-10-house-jr-tugs-a-lot-double-loop-firehose-tug-toy&utm_content=expect-a-hostile-takeover\" data-link-option=\"2\" href=\"https://store.zerohedge.com/products/jr-tugs-a-lot-double-loop-firehose-tug-toy?variant=52797494034730&utm_source=zerohedge&utm_medium=banner&utm_campaign=2026-10-house-jr-tugs-a-lot-double-loop-firehose-tug-toy&utm_content=expect-a-hostile-takeover\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"19764a6b-39a0-4970-9309-8b07cde44f55\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/ZH_New_JR_Tugs_Hostile_Takeover_1000x520_1.png\" /></a></p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T03:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Mon, 10/19/2026 - 23:00</span>",
-    "link": "https://www.zerohedge.com/technology/deepseek-now-designing-huaweis-ai-chips-just-dhs-orders-it-ripped-out-federal-systems",
-    "pubDate": "Tue, 20 Oct 2026 03:00:00 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
-    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
-    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "If I Could Only Buy 1 Quantum Computing Stock With $1,000, It Would Be This One.",
-    "desc": "Key PointsThe company's trapped-ion technology separates it from that of the industry's larger players.",
-    "link": "https://www.nasdaq.com/articles/if-i-could-only-buy-1-quantum-computing-stock-1000-it-would-be-one",
-    "pubDate": "Tue, 20 Oct 2026 04:20:00 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Microsoft vs. Oracle: Which Tech Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsMicrosoft maintains a dominant position in the cloud market and through its strategic partnership with OpenAI.",
-    "link": "https://www.nasdaq.com/articles/microsoft-vs-oracle-which-tech-stock-better-buy-2026",
-    "pubDate": "Tue, 20 Oct 2026 04:10:02 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Chip Stocks Just Had Their Longest Losing Streak Since 2008. Should You Buy Nvidia Stock Now?",
-    "desc": "Key PointsThe PHLX Semiconductor Index dropped for eight straight sessions through Oct. 16, down around 16%.",
-    "link": "https://www.nasdaq.com/articles/chip-stocks-just-had-their-longest-losing-streak-2008-should-you-buy-nvidia-stock-now",
-    "pubDate": "Tue, 20 Oct 2026 03:43:02 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Australian Market Maintains Early Losses In Mid-market",
-    "desc": "(RTTNews) - The Australian stock market is maintaining its early losses in mid-market trading on Tuesday, reversing some of the gains in the previous two sessions, following the mixed cues from Wall Street overnight. The benchmark S&P/ASX 200 index is falling below the 8,800 leve",
-    "link": "https://www.nasdaq.com/articles/australian-market-maintains-early-losses-mid-market-4",
-    "pubDate": "Tue, 20 Oct 2026 03:25:24 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "fortune",
-    "title": "The case for CEOs who can laugh at themselves",
-    "desc": "Also: All the news and watercooler chat from Fortune.",
-    "link": "https://fortune.com/2026/10/16/mark-zuckerberg-guinness-ceos-laugh-at-themselves/",
-    "pubDate": "Fri, 16 Oct 2026 09:50:43 +0000",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda-4958747",
-    "pubDate": "2026-10-20 04:12:25",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Elice shares plunge 28% on debut as investor doubts over AI trade deepen",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/elice-shares-plunge-28-on-debut-as-investor-doubts-over-ai-trade-deepen-4958744",
-    "pubDate": "2026-10-20 04:02:00",
-    "fetchedAt": "2026-10-20T05:01:40.212Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-    "desc": "Bank Indonesia faces growing pressure to raise rates after MSCI’s threat to cut its market to standalone status triggered a rout in stocks, weakened the rupiah.",
-    "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
-    "pubDate": "Tue, 20 Oct 2026 03:59:35 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why are more roofs not made of solar tiles?",
-    "desc": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-    "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 08 Oct 2026 23:09:56 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "desc": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 23:10:13 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The AI telling farmers when to harvest",
-    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The start-ups hoping to return battery making to the US",
-    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "X-planes: Are they needed in the new era of drones?",
-    "desc": "Where do America's X-plane projects fit in an era of cheap drones?",
-    "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 24 Sep 2026 23:03:53 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Spain battles climate change on several fronts",
-    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The virtual worlds where robots are trained",
-    "desc": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "My hometown shows that high streets have to change or die",
-    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "desc": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 25 Sep 2026 08:31:56 GMT",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Brent crude holds near five-month high on Middle East tension",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
-    "pubDate": "2026-10-20 03:48:18",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Australia to sue social media firms over alleged age-ban breaches - Bloomberg",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/australia-to-sue-social-media-firms-over-alleged-ageban-breaches--bloomberg-4958736",
-    "pubDate": "2026-10-20 03:47:15",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-ai-jitters-hammer-korean-chipmakers-ahead-of-tech-earnings-4958731",
-    "pubDate": "2026-10-20 03:39:03",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Chinese official says economy resilient but recovery momentum remains weak",
-    "desc": "",
-    "link": "https://www.investing.com/news/economy-news/chinese-official-says-economy-resilient-but-recovery-momentum-remains-weak-4958730",
-    "pubDate": "2026-10-20 03:36:24",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "PagerDuty executive chair Jennifer Tejada sells $986,987 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/pagerduty-executive-chair-jennifer-tejada-sells-986987-in-stock-93CH-4958727",
-    "pubDate": "2026-10-20 03:31:18",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Saba Capital Management sells $334k of BlackRock ECAT stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-334k-of-blackrock-ecat-stock-93CH-4958726",
-    "pubDate": "2026-10-20 03:31:12",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Guardant Health director Tariq Musa sells $19,242 in stock",
-    "desc": "",
-    "link": "https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716",
-    "pubDate": "2026-10-20 03:01:11",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: Regis Resources posts strong cash flow in Q1 2026",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-strong-cash-flow-in-q1-2026-93CH-4958709",
-    "pubDate": "2026-10-20 02:53:56",
-    "fetchedAt": "2026-10-20T04:01:36.061Z"
   }
 ]
