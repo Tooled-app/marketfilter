@@ -1,5 +1,397 @@
 [
   {
+    "source": "cnbc",
+    "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+    "desc": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
+    "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+    "pubDate": "Wed, 21 Oct 2026 01:02:36 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+    "desc": "The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.",
+    "link": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+    "pubDate": "Wed, 21 Oct 2026 01:44:42 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+    "desc": "The key level traders are watching on the S&P 500 that could mean an even bigger decline is ahead.",
+    "link": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+    "pubDate": "Tue, 20 Oct 2026 12:52:29 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+    "desc": "Novo released new evidence that its experimental CagriSema injection can improve upon the weight loss with its blockbuster GLP-1 obesity injection, Wegovy.",
+    "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+    "pubDate": "Tue, 20 Oct 2026 16:11:02 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "desc": "The U.K.'s Royal Air Force will deploy jets to assist with defensive operations, but will not engage in offensive strikes.",
+    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "pubDate": "Tue, 20 Oct 2026 12:58:24 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "bbc",
+    "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "desc": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
+    "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 14 Oct 2026 23:01:28 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "France to deploy troops, admits to failures over weekend unrest",
+    "desc": "",
+    "link": "https://www.investing.com/news/world-news/france-calm-under-night-curfews-as-government-awaits-new-weekend-protests-4959172",
+    "pubDate": "2026-10-21 01:49:06",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "Australian AI data centre operator NextDC shares shed 44% on revenue delay",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468",
+    "pubDate": "2026-10-21 01:48:24",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/dollar-on-back-foot-as-us-yields-crude-prices-dip-aussie-buoyed-by-hawkish-rba-4961462",
+    "pubDate": "2026-10-21 01:42:34",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trustee Robert Young L sells $17.6m in Nuveen Municipal Credit Income Fund",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/trustee-robert-young-l-sells-176m-in-nuveen-municipal-credit-income-fund-93CH-4961469",
+    "pubDate": "2026-10-21 01:31:04",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "Gold falls near $4,110 as Iran peace hopes fade, Fed rate outlook clouds demand",
+    "desc": "",
+    "link": "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463",
+    "pubDate": "2026-10-21 01:28:30",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Kantra Copper posts record Q3 2026 output, cash flow",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kantra-copper-posts-record-q3-2026-output-cash-flow-93CH-4961461",
+    "pubDate": "2026-10-21 01:21:40",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "BRC Inc. founder Evan Hafer sells $87,768 in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/brc-inc-founder-evan-hafer-sells-87768-in-stock-93CH-4961458",
+    "pubDate": "2026-10-21 01:16:11",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "MeiraGTx CFO & COO Richard Giroux sells $557,200 in company shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/meiragtx-cfo--coo-richard-giroux-sells-557200-in-company-shares-93CH-4961457",
+    "pubDate": "2026-10-21 01:15:55",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investing",
+    "title": "Japan shifting to wage-driven inflation phase, finance minister says",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/japan-shifting-to-wagedriven-inflation-phase-finance-minister-says-4961445",
+    "pubDate": "2026-10-21 01:12:43",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "guardian",
+    "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+    "desc": "<p>Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business</p><p>Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of Britain’s leading business groups has said.</p><p>Shevaun Haviland, the director general of the British Chambers of Commerce (BCC), said she welcomed the prime minister <a href=\"https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu\">reopening the Brexit battle lines</a> despite the uncertainty it could create, arguing that the UK’s current trading relationship with the EU was bad for business.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+    "pubDate": "Fri, 16 Oct 2026 05:00:51 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "guardian",
+    "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
+    "desc": "<p>Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all</p><p>The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little patience for dogma when in insufferable pain.</p><p>John Maynard Keynes, Weber clarifies in the canteen of the <em>Wissenschaftskolleg zu Berlin</em> (Berlin’s Institute for Advanced Study), was the first to draw this dental comparison – and she is running with it. As she sees it, the symptoms could not be more severe. “The status quo for the majority is entirely unbearable,” while extreme inequality and corporate concentration has reached levels “simply incompatible with democracy” worldwide. This is exacerbated by a climate crisis that “generates massive windfall profits” for big business as the “ecological foundations of our lives disintegrate”. All the while the far right is making hay.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+    "pubDate": "Fri, 16 Oct 2026 04:00:50 GMT",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Intuitive narrows 2026 procedure growth outlook to 14%-15% amid I&A pricing actions targeting 3%-5% per-procedure reduction",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654979-intuitive-narrows-2026-procedure-growth-outlook-to-14-percentminus-15-percent-amid-i-and-a?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 21:26:51 -0400",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "East West raises 2026 NII growth outlook to 9%-10% while cutting net charge-off guide to 15-20 bps",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4654978-east-west-raises-2026-nii-growth-outlook-to-9-percentminus-10-percent-while-cutting-net?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Tue, 20 Oct 2026 21:18:11 -0400",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Review & Preview: The Broadening Continues",
+    "desc": "Tech stocks stabilized on Tuesday, but the rally continues thanks to 3M, Northrop Grumman and Hasbro.",
+    "link": "https://finance.yahoo.com/m/f0d25254-e1f8-36d8-b8e9-75da97d28da8/review-%26-preview%3A-the.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 23:55:00 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Which Dates Could Move Exxon Mobil Stock Most?",
+    "desc": "Exxon Mobil (XOM) stock returned 65.8% over the past year, against 17.4% for the S&P 500, with the company drawing help from its markets. On the July 31 call, management said the market benefit was real, and that higher-than-planned prices had sped up how quickly Exxon and its partners recovered their Guyana investment. Below are the events most likely to move Exxon Mobil stock over the next six months.",
+    "link": "https://www.trefis.com/articles/619375/which-dates-could-move-exxon-mobil-stock-most/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 01:37:41 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is The Market Underpricing Mastercard Stock?",
+    "desc": "Mastercard (MA) stock returned 19.7% in the six months to October 19, 2026, outpacing the 8.8% return for the S&P 500. Even after that run, the shares trade at 33.4 times earnings, which sits below their average of 34.8 across the last 12 fiscal quarter ends. Buyers may be betting that the market still underpays for Mastercard's earnings. So how much more could the shares be worth, and where would that gain come from.",
+    "link": "https://www.trefis.com/articles/619381/is-the-market-underpricing-mastercard-stock/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 01:31:47 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "The Dates That Matter Most For Verizon Stock",
+    "desc": "Verizon Communications (VZ) shares have lost 6.8%, dividends included, since September 18, 2026. The S&P 500 gained 0.6% over the same period. Shareholders are now waiting on a promise from July, when management raised its 2026 guidance and said the second half of the year would be stronger than the first. The dates most likely to move Verizon stock over the next six months are outlined below, starting with the company's third-quarter report.",
+    "link": "https://www.trefis.com/articles/619377/the-dates-that-matter-most-for-verizon-stock/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 01:22:13 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Needs To Be True To Buy QBTS Stock Now?",
+    "desc": "D-Wave Quantum (QBTS) stock has dropped 70.8% over the past year, while the S&P 500 returned 17.4%. Investors continue to pay 353 times sales for the stock, compared with 3.1 times for the index, suggesting they expect far larger sales ahead. For that to happen, D-Wave must ship two annealing quantum computer systems in the fourth quarter and keep moving cloud customers into production use. So how much of D-Wave's 2026 revenue is tied to two fourth-quarter shipments.",
+    "link": "https://www.trefis.com/articles/619358/what-needs-to-be-true-to-buy-qbts-stock-now/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 01:16:35 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Why Should You Think About Vertex Differently Now?",
+    "desc": "Vertex Pharmaceuticals (VRTX) stock trades at 28.9 times earnings, compared with 22.9 for the S&P 500, a price at which buyers appear to expect its growth to last. Before paying that price, you want to know what you own, and the company's priorities have changed. During its fiscal Q3 2024 call, management said it expected sustained revenue growth in cystic fibrosis (CF) over the short, medium and long term. The latest call still called CF a franchise with sustained growth, but it spent more time",
+    "link": "https://www.trefis.com/articles/619428/why-should-you-think-about-vertex-differently-now/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 00:56:12 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Are You Sure You Understand Cloudflare Stock's Risk?",
+    "desc": "Cloudflare (NET) stock returned 39.6% over the past year to October 19, 2026, compared with 17.4% for the S&P 500, and its sales grew 36% in fiscal Q2 2026. Numbers like those can make a stock look as if it has earned some calm. Yet the shares fell 15.2% in the week to October 19, 2026, while the S&P 500 lost 1.5%. So how far has Cloudflare stock fallen when the whole market turned, and how long did it take to climb back from the low.",
+    "link": "https://www.trefis.com/articles/619343/are-you-sure-you-understand-cloudflare-stocks-risk/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 01:04:21 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Is Casey's Stock Paying You Enough For The Swings?",
+    "desc": "Investors holding Casey's General Stores (CASY), one of the leading convenience store chains in the United States, alongside an S&P 500 index fund watched the company's shares rise 7.4% in the five sessions ending October 19, 2026, while the index fell 1.5%. A single stock moving with that kind of momentum alters the balance of a portfolio, so investors want to be paid for its swings. Have those swings left you better paid than the index.",
+    "link": "https://www.trefis.com/articles/619380/is-caseys-stock-paying-you-enough-for-the-swings/2026-10-20?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 00:49:15 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "\"Big Tent\" Backfires: Dem Rep Claims DSA Sent Her White Powder And Warned Of Impending \"Civil War\"",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"Big Tent\" Backfires: Dem Rep Claims DSA Sent Her White Powder And Warned Of Impending \"Civil War\"</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>U.S. Rep. Hillary Scholten (D-Grand Rapids) is getting a taste of what happens when her \"big tent\" party fails to curb far-left extremism within its own ranks and is consumed by Marxist revolutionaries from the Democratic Socialists of America.</p> <p>Here's what Scholten claims:</p> <blockquote> <p><em>Today, I received a threatening letter at my Grand Rapids, Michigan office that <strong>contained unidentified white powder</strong>. The letter, which claimed to be from the <strong>Democratic Socialists of America (DSA), made a direct and specific reference to an impending \"civil war\" beginning after the election</strong>. </em></p> <p><em>The letter sent to my office is similar to those received at other congressional offices across the country. The DSA has not yet addressed the attacks, either to condemn them or to take or deny responsibility. The Grand Rapids Police Department and the Federal Bureau of Investigation (FBI) responded immediately.</em></p> <p><em><strong>Threats and extremism are not signs of strength</strong>—they are signs of a weak mind and weak character. Political intimidation has no place in our democracy, and leaders must condemn it, not excuse it. I'll keep standing up to bullies on the right and the left.</em></p> </blockquote> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Today, I received a threatening letter at my Grand Rapids, Michigan office that contained unidentified white powder. The letter, which claimed to be from the Democratic Socialists of America (DSA), made a direct and specific reference to an impending “civil war” beginning after the election. The letter sent to my office is similar to those received at other congressional offices across the country. The DSA has not yet addressed the attacks, either to condemn them or to take or deny responsibility. The Grand Rapids Police Department and the Federal Bureau of Investigation (FBI) responded immediately. Threats and extremism are not signs of strength—they are signs of a weak mind and weak character. Political intimidation has no place in our democracy, and leaders must condemn it, not excuse it. I’ll keep standing up to bullies on the right and the left.</p> — Congresswoman Hillary Scholten (@RepScholten) <a href=\"https://x.com/RepScholten/status/2111230626921615634?ref_src=twsrc%5Etfw\">October 16, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>X users responded to Scholten's revelation. </p> <p>\"<strong>When you refuse to endorse a Memeber of the Muslim Brotherhood for senate, you will be the target for violence. Welcome to your party</strong>.\" </p> <blockquote class=\"twitter-tweet\" data-conversation=\"none\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">When you refuse to endorse a Memeber of the Muslim Brotherhood for senate, you will be the target for violence. Welcome to your party.</p> — Patty Girl X’d 🇺🇸☘️ (@PerspicaciousXY) <a href=\"https://x.com/PerspicaciousXY/status/2111469732025020888?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"<strong>The DSA are violent terrorists so this shouldn't come as a surprise. But this is the Democrat base at this point</strong>.\" </p> <blockquote class=\"twitter-tweet\" data-conversation=\"none\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">The DSA are violent terrorists so this shouldn’t come as a surprise. But this is the Democrat base at this point.</p> — captive dreamer (@captive_dreamer) <a href=\"https://x.com/captive_dreamer/status/2111282661075599490?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"<strong>The Democrat party of JFK is dead and has been taken over by Communists and Jihadists who seek to destroy our Republic. Continuing to identify with the Democrats means you are supportive of the party agenda. Time to decide where you stand</strong>.\" </p> <blockquote class=\"twitter-tweet\" data-conversation=\"none\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">The Democrat party of JFK is dead and has been taken over by Communists and Jihadists who seek to destroy our Republic. Continuing to identify with the Democrats means you are supportive of the party agenda.<br /> Time to decide where you stand.</p> — 🍊ONLY LEGAL VOTES COUNT🇺🇸 (@Elisa_freedom) <a href=\"https://x.com/Elisa_freedom/status/2111417427321856508?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>\"<strong>Your party created DSA. Your monster has started to turn on you</strong>.\" </p> <blockquote class=\"twitter-tweet\" data-conversation=\"none\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Your party created DSA. Your monster has started to turn on you</p> — Senator Beauregard Claghorn (@SenBeauClaghorn) <a href=\"https://x.com/SenBeauClaghorn/status/2111280545426514351?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The <a href=\"https://www.zerohedge.com/political/dem-big-tent-party-doomed\">Democratic Party's \"big tent\" messaging</a> in the latter parts of teh summer appears designed to prevent a civil war before the midterms. After the election, that truce could quickly unravel as establishment leaders try to reassert control over their party while DSA radicals push for more power. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T00:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 20:55</span>",
+    "link": "https://www.zerohedge.com/political/big-tent-backfires-dem-rep-claims-dsa-sent-her-white-powder-and-warned-impending-civil",
+    "pubDate": "Wed, 21 Oct 2026 00:55:00 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Controversial Map In Netanyahu Briefing Triggers Wave Of Speculation",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Controversial Map In Netanyahu Briefing Triggers Wave Of Speculation</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><a href=\"https://www.middleeasteye.net/news/netanyahu-map-shows-rsf-friendly-israel-and-uae-backing-separatist-movements\"><em>Via Middle East Eye</em></a></p> <p>Israeli Prime Minister Benjamin Netanyahu unveiled a map of the wider Middle East showing his country and the UAE aligned with a paramilitary in Sudan accused of committing genocide, and <strong>separatists in Libya, Yemen and Somaliland</strong>.</p> <p>The map, which carried the logo of Germany's Friedrich-Ebert-Stiftung Institute, will not surprise regional watchers, but it could prove awkward for some of Israel's regional partners and <strong>cement suspicions among Arab states</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/bibimapnew.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/bibimapnew.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5fa0c0e3-e34f-44c3-845f-95a0bb96f481\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/bibimapnew.jpg\" /></a></p> <p><strong>Israel and the UAE were shown as part of a \"Hexagon Alliance\"</strong>. The map showed Greece, Ethiopia and parts of India aligned with them. But it also showed a swath of southwestern Sudan as friendly to the UAE and Israel.</p> <p>The Rapid Support Forces (RSF) control southwestern Sudan. United Nations experts and dozens of media reports, including from Middle East Eye, have revealed extensive Emirati support for the Sudanese paramilitary, which is led by former Janjaweed leader Mohamed Hamdan Dagalo and has been widely accused of committing genocide in Darfur. <strong>The UAE has officially denied backing the RSF</strong>.</p> <p>The map was part of Netanyahu’s unveiling on Sunday of a new security doctrine that <strong>emphasizes preemptive strikes and the establishment of \"buffer zones\"</strong> on Israel’s borders.</p> <p>\"The War of Redemption necessitated an upgrade of fundamental principles within the traditional national security doctrine, among them: giving priority to prevention and offense over containment and defense, including launching preemptive strikes to thwart evolving threats; strengthening home front defense against new threats; cementing Israel's status as a regional power,\" Netanyahu’s office said in a <a href=\"https://www.gov.il/en/pages/event-security181026\" target=\"_blank\">statement</a> on Sunday.</p> <p>\"Opportunities have been created for forging new alliances in our region and beyond,\" the statement added.</p> <h2>'Sunni Diamond Alliance'</h2> <p>The map Netanyahu shared shows Israel <strong>aligned with secessionist groups while framing its oldest Arab treaty partners as countries not considered friendly to Israel</strong>. The map did not show Egypt and Jordan as aligned with Israel.</p> <p>Instead, it <strong>marked Egypt as part of a \"Sunni diamond alliance\" with Pakistan, Turkey, and Saudi Arabia</strong>; it showed Jordan, whose peace treaty with Israel dates back to 1994, as \"friendly\" to the alliance.</p> <p>Netanyahu's public presentation is likely to raise concerns among critics about Israel’s support for secessionist groups and the partition of fragile states. He showed a <strong>government in eastern Libya controlled by Khalifa Haftar to be aligned with Israel</strong>. </p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Netanyahu: I established the ground barrier between Israel and Africa along the Egyptian border. It was primarily a barrier against infiltration. Otherwise, there would already be another million Muslims here, and we would have been flooded like Europe. <a href=\"https://t.co/kpNrkiYjjG\">https://t.co/kpNrkiYjjG</a></p> — Clash Report (@clashreport) <a href=\"https://x.com/clashreport/status/2111850062649409668?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Yemen's Southern Transitional Council, a UAE-backed separatist movement that dissolved in January 2026 and re-emerged as the Transitional Council of South Arabia, was also shown on the map as being friendly towards Israel and the UAE</p> <p>Israel became the first country to <strong>recognize Somaliland earlier this year</strong>. Somaliland is a breakaway republic of Somalia where Israel and the UAE have been expanding their military presence, according to multiple media reports.</p> <p>Netanyahu’s map showed how Israel sees its security as part of a broader region extending well beyond the Arab world.</p> <p>He showed Greece and Ethiopia as \"friendly\" states. <strong>The latter is on the verge of a full-scale war with Eritrea, where Israel has long coveted a Red Sea military base</strong>, <a href=\"https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa\" target=\"_blank\">MEE has reported</a>.</p> <p>Netanyahu's map also reaffirmed the longstanding ties between Hezbollah, the Houthis and Iran as part of an <strong>\"Axis of Resistance\"</strong>. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T00:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 20:30</span>",
+    "link": "https://www.zerohedge.com/geopolitical/controversial-map-netanyahu-briefing-triggers-wave-speculation",
+    "pubDate": "Wed, 21 Oct 2026 00:30:00 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "The Billionaire Couple Quietly Spending Millions To \"Reinvent\" The Democrat Party",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">The Billionaire Couple Quietly Spending Millions To \"Reinvent\" The Democrat Party</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>A billionaire hedge fund couple is dumping millions into a high-stakes effort to push the Democratic Party away from its increasingly radical left flank and challenge its entrenched leadership.</p> <p><strong>Steve and Sue Mandel, wealthy Democrat donors from Greenwich, Connecticut, have committed at least $20 million</strong> to a network of political groups aimed at elevating more moderate candidates, according to a new report from <a href=\"https://www.wsj.com/politics/policy/the-greenwich-billionaire-couple-spending-big-to-reinvent-the-democratic-party-6ea2ba99\">The Wall Street Journal</a>.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/im-24377461_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/im-24377461_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"19067038-9fef-476f-978d-b6b40e0609f2\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/im-24377461_80.jpg\" /></a> <figcaption><em>Hedge-fund billionaires Sue and Steve Mandel. (via WSJ)</em></figcaption></figure><p>Their operation includes at least three organizations designed to confront the party's existing power structure and potentially reshape Democratic politics ahead of the 2028 presidential election. <strong>At the center is Majority Democrats, which is working to boost candidates who can appeal beyond the party's progressive base.</strong></p> <p>Another group, The Bench, focuses on identifying and backing rising political talent, while the Searchlight Institute is crafting more centrist policy ideas in hopes of making Democrats competitive again nationally.</p> <p>The couple is taking an unusually hands-on role, closely tracking campaigns and working with Seth London, a seasoned Democrat consulanted who served a stint in the Obama White House as Legislative Assistant and Associate Director. The billionaire couple's effort has already drawn additional funding from political and media power players, including former New York City Mayor Michael Bloomberg and James Murdoch, according to the <a href=\"https://www.wsj.com/politics/policy/the-greenwich-billionaire-couple-spending-big-to-reinvent-the-democratic-party-6ea2ba99\">Journal</a>.</p> <p>The effort underscores growing frustration among some deep-pocketed Democratic donors who argue the party has lost touch with ordinary voters and desperately needs an overhaul. <strong>Rather than demanding ideological purity, the Mandel-backed groups are prioritizing candidates with strong personal stories and proven ability to win elections.</strong></p> <p>However, as the <a href=\"https://www.wsj.com/politics/policy/the-greenwich-billionaire-couple-spending-big-to-reinvent-the-democratic-party-6ea2ba99\">Journal</a> points out, the Mandels' political investments have not always paid off:</p> <blockquote> <p><em>During this year's Senate race in Michigan, it threw its support behind Mallory McMorrow, a telegenic state senator and self-described \"pragmatist\" who had been a client of Smith's.</em></p> <p><em><strong>McMorrow dropped out less than a month before the primary, and Abdul El-Sayed, from the party's left, won.</strong> Democrats who didn't support El-Sayed traded blame. Proponents of The Bench criticized Washington groups for helping the other moderate candidate, Haley Stevens.</em></p> </blockquote> <p><em>A former Stevens adviser had the opposite takeaway: The Bench had made the race more costly and complicated.</em></p> <p>Addtionally, critics on the far left were quick to dismiss the effort.</p> <p>\"The Mandels' approach represents the same Democratic establishment with some new seasoning on top,\" said Usamah Andrabi, spokesman for the far-left Justice Democrats, told the <a href=\"https://www.wsj.com/politics/policy/the-greenwich-billionaire-couple-spending-big-to-reinvent-the-democratic-party-6ea2ba99\">Journal</a>. \"That's simply not what the party's voters are looking for right now.\"</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T00:05:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 20:05</span>",
+    "link": "https://www.zerohedge.com/political/billionaire-couple-quietly-spending-millions-reinvent-democrat-party",
+    "pubDate": "Wed, 21 Oct 2026 00:05:00 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Bolivia's Energy Crisis Deepens As Natural Gas Reserves Run Dry",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Bolivia's Energy Crisis Deepens As Natural Gas Reserves Run Dry</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><em><a href=\"https://oilprice.com/Energy/Energy-General/Bolivias-Energy-Crisis-Deepens-as-Natural-Gas-Reserves-Run-Dry.html\">Authored by Felicity Bradstock via OilPrice</a>,</em></p> <ul><li>Bolivia's dwindling natural gas reserves and declining exports have undermined its economy and intensified fuel shortages.</li> <li>Rising global energy prices and subsidy cuts have increased living costs and fueled widespread protests.</li> <li>A $1.9 billion IMF rescue package and energy-sector reforms aim to stabilize the economy, but long-term recovery requires diversification.</li> </ul><p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-15_clsu0hjgh5.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-15_clsu0hjgh5.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"76510bcb-0b53-438c-a8f9-e8bcbc0ff66e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-15_clsu0hjgh5.jpg\" /></a></strong></p> <p><strong>Years of underinvestment in Bolivia's gas industry have left the South American country facing a severe fuel shortage, as energy prices rise ever higher owing to the ongoing war in Iran</strong>. The energy shortages and economic crisis follow years of poor decision-making by the government.</p> <p>In 2006, then-president Evo Morales took control of Bolivia's fossil fuel industry, renegotiating contracts with international oil and gas companies and benefiting from the revenue. Much of the country's newfound wealth was invested in public spending programs, expensive fuel subsidies, and the maintenance of a fixed currency exchange rate pegged to the U.S. dollar. Fossil fuel revenues contributed heavily to Bolivia's economy for several years, supporting <a href=\"https://www.imf.org/en/news/articles/2018/12/06/pr18453-imf-executive-board-concludes-2018-article-iv-consultation-with-bolivia\">GDP expansion</a> and the development of social programs that helped <a href=\"https://www.npr.org/sections/goatsandsoda/2019/11/26/781199250/how-evo-morales-made-bolivia-a-better-place-before-he-was-forced-to-flee\">halve poverty rates</a>.</p> <p>For many years, Bolivian's were led to believe that they had more extensive gas supplies than they actually did. However, in recent years, Bolivia's fossil fuel sector has suffered as reserves have dwindled and no successful gas discoveries have occurred. As of April, Bolivia has an estimated 3.7 trillion cubic feet of proven reserves. <strong>The fall in gas production led exports to fall by almost 60 percent over the last decade.</strong> Bolivia continues to <a href=\"https://www.eia.gov/international/analysis/country/BOL\">rely heavily on natural gas</a>, which accounts for around 70 percent of its electricity mix.</p> <p><strong>Meanwhile, little progress has been made in developing the country's green energy sector,</strong> leaving it facing severe energy shortages. The fall in gas revenues has left the economy suffering terribly, as inflation soars and the price of imported goods becomes ever more unaffordable. Luis Fernando Romero, the former head of an association of economists in southern Bolivia, stated, \"We failed to take advantage of a historic opportunity that brought in immense revenue.\"</p> <p>This situation is not uncommon, with many other oil-rich states having had similar experiences. Several Middle Eastern states have long depended on oil and gas revenues for economic growth, and most have only recently announced plans to diversify their economies to reduce reliance on fossil fuels. Several countries across the MENA region announced new economic strategies following greater talk of a global green transition, which could leave them missing out on vital oil revenues if they don't take moves to diversify and invest in value-added sectors.</p> <p>The lack of investment in Bolivia's other domestic sectors has left it struggling to stay afloat as it runs out of fuel and is forced to pay high fuel import costs. President Rodrigo Paz <a href=\"https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats\">warned</a> that \"International prices are forcing us to make complex choices.\"</p> <p>In September, Bolivia's Congress approved a $1.9 billion loan from the International Monetary Fund (IMF), even though the terms of the deal require the government to impose strict austerity measures that could fuel social unrest. The loan received approval from the IMF's Executive Board on October 2, and <strong>the government will now be required to cut its fuel subsidies and significantly reduce public spending</strong>. It has already increased fuel prices and is expected to scrap further gasoline subsidies from the beginning of next year. The loan is expected to unlock up to $4 billion more in financing from the World Bank and other lenders.</p> <p>However, there are major concerns that the new financial plan will significantly increase the cost of living for households already struggling. Last December, the government reduced fuel subsidies, leaving little support for the most vulnerable Bolivians. This led to widespread protests as people <a href=\"https://www.nytimes.com/2026/05/19/world/americas/bolivia-protests-la-paz.html\">called for President Paz's resignation</a>. In February, there was further social unrest after the distribution of poor-quality gasoline ruined thousands of vehicles. Then, in June and July, several weeks of road blockades by protesters occurred.</p> <p>Meanwhile, to tackle the ongoing fuel shortages, Bolivia's government <a href=\"https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/091526-bolivia-peru-ecuador-move-to-alleviate-fuel-shortages\">announced plans</a> in September to triple the fund financing refined fuel purchases, following similar announcements by Peru and Ecuador. This is expected to help mitigate diesel shortages and rising prices. Both Peru and Ecuador have increased fuel subsidies in recent months and are focusing on increasing production at state oil refineries to alleviate the price pressure of expensive fuel imports.</p> <p>In July, Bolivia's Energy Minister Marcelo Blanco announced that the government had authorized the private sector to import and sell refined fuels to mitigate severe shortages. Then, in September, the government said that the state hydrocarbons firm <a href=\"https://larazon.bo/economia-y-empresa/2026/09/02/ypfb-dejara-de-comercializar-combustibles-y-dara-paso-a-los-privados/\">plans to focus on</a> exploration, extraction, and refining to continue developing Bolivia's gas resources. However, <strong>experts warn that Bolivia could become a net fossil gas importer <a href=\"https://larazon.bo/economia-y-empresa/2026/07/12/segun-fundacion-milenio-caida-de-reservas-de-gas-abre-escenario-de-importacion-en-2030/\">by around 2030</a></strong>.</p> <p>As Bolivia continues to battle fuel shortages and seeks to support economic recovery by borrowing from international organizations, the government must focus on diversifying the economy by developing other value-added sectors to sustain long-term growth. In addition, the government must also develop Bolivia's renewable energy sources to reduce dependence on expensive fuel imports and ensure the country's energy security.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T23:40:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 19:40</span>",
+    "link": "https://www.zerohedge.com/energy/bolivias-energy-crisis-deepens-natural-gas-reserves-run-dry",
+    "pubDate": "Tue, 20 Oct 2026 23:40:00 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Japanese Market Significantly Higher",
+    "desc": "(RTTNews) - The Japanese stock market is trading significantly higher on Wednesday, reversing some of the losses in the previous two sessions, following the mixed cues from Wall Street overnight. The Nikkei 225 is moving above the 64,700 level, with gains in exporters, financial",
+    "link": "https://www.nasdaq.com/articles/japanese-market-significantly-higher-4",
+    "pubDate": "Wed, 21 Oct 2026 01:34:32 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Indonesia Stock Market May Extend Tuesday's Gains",
+    "desc": "(RTTNews) - The Indonesia stock market on Tuesday ended the three-day losing streak in which it had crashed more than 950 points or 16.6 percent. The Jakarta Composite Index now sits just above the 5,275-point plateau and it has a positive lead again for Wednesday's trade.",
+    "link": "https://www.nasdaq.com/articles/indonesia-stock-market-may-extend-tuesdays-gains",
+    "pubDate": "Wed, 21 Oct 2026 01:33:20 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Hong Kong Stock Market Poised To Open To The Upside On Wednesday",
+    "desc": "(RTTNews) - The Hong Kong stock market headed south again on Tuesday, one session after ending the two-day slide in which it had dropped more than 280 points or 1.2 percent. The Hang Seng now sits just above the 23,860-point plateau although it may bounce higher again on Wednesda",
+    "link": "https://www.nasdaq.com/articles/hong-kong-stock-market-poised-open-upside-wednesday",
+    "pubDate": "Wed, 21 Oct 2026 01:18:20 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Australian Market Slightly Lower",
+    "desc": "(RTTNews) - Australian shares are trading slightly lower on Wednesday after opening in the green, extending the losses in the previous session, with the benchmark S&P/ASX 200 falling to near the 8,800 level, following the mixed cues from Wall Street overnight, with a mixed perfor",
+    "link": "https://www.nasdaq.com/articles/australian-market-slightly-lower",
+    "pubDate": "Wed, 21 Oct 2026 01:13:21 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Stride (LRN) Q1 2027 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/stride-lrn-q1-2027-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 01:13:11 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Neptune (NP) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/neptune-np-q3-2026-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 01:13:11 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Capital One (COF) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/capital-one-cof-q3-2026-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 01:13:11 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Win Streak May Continue For China Stock Market",
+    "desc": "(RTTNews) - The China stock market has finished higher in three straight sessions, gathering almost 30 points or 0.8 percent in that span. The Shanghai Composite Index now sits just above the 3,735-point plateau and it's expected to open to the upside again on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/win-streak-may-continue-china-stock-market",
+    "pubDate": "Wed, 21 Oct 2026 01:03:20 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "East West Bancorp (EWBC) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/east-west-bancorp-ewbc-q3-2026-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 00:58:29 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SpaceX (SPCX) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/spacex-spcx-q3-2026-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 00:58:29 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Hancock Whitney (HWC) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/hancock-whitney-hwc-q3-2026-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 00:58:29 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Netflix (NFLX) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/netflix-nflx-q3-2026-earnings-call-transcript",
+    "pubDate": "Wed, 21 Oct 2026 00:58:28 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Oracle Calls Force Majeure Already?",
+    "desc": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool contributors Tyler Crowe, Lou Whiteman, and Jon Quast discuss:",
+    "link": "https://www.nasdaq.com/articles/oracle-calls-force-majeure-already",
+    "pubDate": "Wed, 21 Oct 2026 00:51:34 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "AMC Entertainment vs. Roblox: Which Media Stock Is a Better Buy in 2026?",
+    "desc": "Key PointsAMC Entertainment is the global leader in theatrical exhibition, supported by strong ties to major movie studios.",
+    "link": "https://www.nasdaq.com/articles/amc-entertainment-vs-roblox-which-media-stock-better-buy-2026",
+    "pubDate": "Wed, 21 Oct 2026 00:49:01 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Higher Open Called For Taiwan Stock Market",
+    "desc": "(RTTNews) - The Taiwan stock market has finished lower in consecutive trading days, declining almost 820 points or 1.7 percent along the way. The Taiwan Stock Exchange now sits just above the 46,290-point plateau although it may find support on Wednesday.",
+    "link": "https://www.nasdaq.com/articles/higher-open-called-taiwan-stock-market-0",
+    "pubDate": "Wed, 21 Oct 2026 00:33:20 +0000",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "U.S. stock futures rise as SpaceX surges on upbeat earnings",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-spacex-surges-on-upbeat-earnings-4961479",
+    "pubDate": "2026-10-21 01:50:13",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Nikkei 225 plunges to 64,872.5 with breakdown risk at 63,600: Live",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+    "pubDate": "2026-10-21 01:07:15",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "SK Hynix bounces but bearish trend holds at KRW 1,381,000: Live",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+    "pubDate": "2026-10-21 01:05:52",
+    "fetchedAt": "2026-10-21T02:01:55.253Z"
+  },
+  {
     "source": "bbc",
     "title": "Home sellers cut asking prices on 3,000 properties a day",
     "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
@@ -6005,398 +6397,6 @@
     "desc": "",
     "link": "https://www.investing.com/news/earnings/mi-homes-earnings-up-next-as-mortgage-rate-surge-tests-margins-93CH-4960363",
     "pubDate": "2026-10-20 13:43:08",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "investing",
-    "title": "Eli Lilly stock hits all-time high at 1293.11 USD",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/eli-lilly-stock-hits-alltime-high-at-129311-usd-93CH-4960361",
-    "pubDate": "2026-10-20 13:43:04",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "investing",
-    "title": "Google Cloud services largely back up in UK",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/google-cloud-services-largely-back-up-in-uk-4960359",
-    "pubDate": "2026-10-20 13:42:37",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "investing",
-    "title": "Wall St opens lower as AI stocks decline, oil prices rise",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-ai-stocks-decline-oil-prices-rise-4960358",
-    "pubDate": "2026-10-20 13:42:25",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Money-saving tips to cope with higher prices &#x2014; from our readers",
-    "desc": "I asked people what they&#x2019;re doing to make life more affordable today. I&#x2019;ll definitely be trying some of these.",
-    "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-    "pubDate": "Tue, 20 Oct 2026 13:52:00 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium",
-    "desc": "Salesforce said on Tuesday that it is making a nearly $6 billion acquisition at a 58% premium, but Wall Street&#x2019;s response was frosty.",
-    "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-    "pubDate": "Tue, 20 Oct 2026 13:48:00 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "My unmarried partner of 17 years left me his $1.1 million home. His children are crying foul. Should I share my inheritance?",
-    "desc": "&#x201c;I never paid rent, although I put about $45,000 toward a new kitchen and a roof.&#x201d;",
-    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    "pubDate": "Tue, 20 Oct 2026 13:45:00 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
-    "desc": "In the U.S., investors can legally trade futures contracts tied to all sorts of commodities, from pork bellies to oil to the computing power needed to power artificial-intelligence models.",
-    "link": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
-    "pubDate": "Tue, 20 Oct 2026 13:24:00 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-    "desc": "&#x201c;Computer science isn&#x2019;t the ticket to the American dream like people thought it was.&#x201d;",
-    "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-    "pubDate": "Tue, 20 Oct 2026 13:18:00 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "My wife says we can&#x2019;t afford to retire. I vetoed her $8,000 trip to Italy. We&#x2019;re in our 60s and have $4 million. Do I keep working?",
-    "desc": "&#x201c;I worry about healthcare, long-term care, inflation, a long bear market and living to 95.&#x201d;",
-    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "pubDate": "Tue, 20 Oct 2026 13:15:00 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "guardian",
-    "title": "Google Cloud problems: regulators push for details about outage which caused widespread disruption – latest updates",
-    "desc": "<p>Google apologises after suffering a major Cloud outage in its London region today that caused problems at banks, Revolut, and court video cameras</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption\"><strong>Google cloud failure hits millions as UK courts and banks knocked offline</strong></a></p></li></ul><p><strong>The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%.</strong></p><p>Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter.</p><p>“This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.”</p><p>“The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target.</p><p>To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-    "pubDate": "Tue, 20 Oct 2026 13:49:12 GMT",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Beeline announces additional $3M annual cost savings plan",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654627-beeline-announces-additional-3m-annual-cost-savings-plan?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 10:02:37 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Pending home sales drop 7.3% in September, far weaker than expected",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654617-pending-home-sales-drop-73-in-september-far-weaker-than-expected?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 10:01:50 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Quadravest Preferred Split Share ETF declares CAD 0.0584 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654635-quadravest-preferred-split-share-etf-declares-cad-0_0584-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 10:01:39 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Western Midstream Partners declares $0.93 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654634-western-midstream-partners-declares-0_93-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 10:00:20 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Here are the major earnings after the close Tuesday",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654128-here-are-the-major-earnings-after-the-close-tuesday?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 10:00:00 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Permianville Royalty Trust declares $0.015 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654633-permianville-royalty-trust-declares-0_015-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 09:59:18 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Apple Hospitality declares $0.08 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4654632-apple-hospitality-declares-0_08-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Tue, 20 Oct 2026 09:55:36 -0400",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Chips Bounced, Builders Sank and Crude Sent Mixed Signals Heading Into Tuesday",
-    "desc": "Technology stocks led a partial recovery on Monday after last week's AI-driven selloff. The Nasdaq Composite rose about 1.1%, the S&P 500 gained about 0.4% and the Dow Jones Industrial Average slipped less than 0.1%, according to TheStreet. Underneath the index moves, Monday split cleanly by theme: memory chips and AI infrastructure bounced, homebuilders fell after a 14-year low in builder confidence, and the two main crude benchmarks moved in opposite directions. The headline names will dominat",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/chips-bounced-builders-sank-crude-135400732.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:54:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Warren Buffett's Berkshire Hathaway Compounded at More Than 19% a Year Over 6 Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
-    "desc": "Instead of focusing on Warren Buffett's stock-picking skills, try to follow his long-term mindset.",
-    "link": "https://www.fool.com/investing/2026/10/20/warren-buffett-berkshire-hathaway-compound-return/?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:09:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "5 Things to Know Before the Stock Market Opens on Tuesday",
-    "desc": "News of the day for Oct. 20, 2026",
-    "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-tuesday-october-20-2026-12183821?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:28:03 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock Market Today: Dow Rises As Oil Prices Surge; Netflix, SpaceX Mixed Ahead Of Earnings (Live Coverage)",
-    "desc": "The Dow Jones index wavers Tuesday as oil prices surge. Netflix and SpaceX trade mixed ahead of earnings late.",
-    "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:44:17 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Will Dogecoin Reach $1 in 2027? The Answer Might Shock You.",
-    "desc": "A new source of demand might be on the way for the cryptocurrency industry's original meme-token.",
-    "link": "https://www.fool.com/investing/2026/10/20/will-dogecoin-reach-1-in-2027-the-answer-shock-you/?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:37:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Healthcare ETFs to Buy as JNJ Slips 6% Despite Q3 Earnings Beat",
-    "desc": "Johnson & Johnson's Q3 earnings beat fails to prevent a 6% stock drop, but three healthcare ETFs offer diversified exposure to its growth potential.",
-    "link": "https://finance.yahoo.com/healthcare/articles/healthcare-etfs-buy-jnj-slips-124600612.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:46:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "2 ETFs to Watch for Outsized Volume in Semiconductor Trading",
-    "desc": "SOXS and SOXL see trading volumes surge to 1.53 and 1.48 times their averages, respectively, as semiconductor ETFs post sharply divergent daily moves.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/2-etfs-watch-outsized-volume-124500884.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:45:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Buy 5 Top-Ranked High-Flying Non-Tech, Non-AI Stocks for a Strong Q4",
-    "desc": "ROST, ROKU, IBKR, TGT and NUE are non-tech, non-AI stocks delivering over 25% returns, with strong earnings growth, improving estimates and business expansion.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-high-123600857.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:36:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as AI Stocks Retreat, Oil Prices Rise",
-    "desc": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.2% and the actively tr",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130913751.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:09:13 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Why GM’s Massive Share Buyback Isn’t Stopping a Post-Earnings Selloff",
-    "desc": "GM reported a third-quarter operating profit of $4.1 billion, in line with what Wall Street was looking for.",
-    "link": "https://finance.yahoo.com/m/97070479-3122-383f-a16a-367aba1b7fb9/why-gm%E2%80%99s-massive-share.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:53:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Big Concern Behind GE’s Earnings Beat Stock Tumble",
-    "desc": "The company reported third-quarter earnings per share of $2.25 from sales of $13.3 billion. Wall Street was looking for earnings per share of $2.01 on sales of $12.9 billion.",
-    "link": "https://finance.yahoo.com/m/579b3acb-7481-330e-bda5-a17c8ccd80f0/the-big-concern-behind-ge%E2%80%99s.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:50:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "3M Beat Estimates and Raised Guidance. Why an Amazon Deal Is Driving the Stock.",
-    "desc": "3M reports third-quarter earnings per share of $2.50 from sales of $6.6 billion. Wall Street was looking for earnings per share of $2.38 from sales of $6.6 billion.",
-    "link": "https://finance.yahoo.com/m/17a4793e-73d6-3dea-87b1-744b1a00939c/3m-beat-estimates-and-raised.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:37:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "General Motors Shares Plunge 6% Despite $20 Billion Buyback Announcement And Earnings Beat",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">General Motors Shares Plunge 6% Despite $20 Billion Buyback Announcement And Earnings Beat</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>General Motors shares are plunging more than 6% in premarket trading Tuesday, despite the automaker announcing a massive new $20 billion share repurchase program and reporting quarterly earnings that came in ahead of Wall Street expectations, <a href=\"https://financialpost.com/transportation/autos/gm-2026-outlook-20-billion-share-buyback\">according to Bloomberg News</a>. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%284%29_23.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%284%29_23.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5ba90293-5486-4b1f-9c33-29a1b4bd535a\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20%284%29_23.png\" /></a></p> <p>The selling comes as GM continues to grapple with a weakening U.S. auto market, where higher financing costs and pressure on household budgets have made it increasingly difficult to sell lower-priced vehicles. Demand for the company's more expensive trucks and SUVs has held up considerably better, allowing GM to preserve profitability even as overall sales volumes come under pressure.</p> <p>Bloomberg/Financial Post <a href=\"https://financialpost.com/transportation/autos/gm-2026-outlook-20-billion-share-buyback\">reports</a> that for the third quarter, GM generated approximately $50 billion in revenue and $4.1 billion in adjusted operating profit, narrowly beating analyst expectations. Adjusted earnings of $3.70 per share also exceeded the $3.56 consensus estimate. Perhaps more importantly, automotive free cash flow jumped 40% to $5.9 billion.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.51.59.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.51.59.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"351c500b-32ba-4755-9b25-d61b1970956b\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.51.59.jpg\" /></a></p> <p>That cash generation is helping fund an increasingly aggressive effort to return money to shareholders. GM's latest $20 billion repurchase authorization follows a $6 billion program announced earlier this year and approximately $29.5 billion in buybacks completed since 2023. The newest authorization is expected to be used over several years.</p> <p>Management also tightened its 2026 earnings forecast, now expecting adjusted operating profit between $14.5 billion and $15.5 billion, versus its previous projection of $14 billion to $16 billion. The midpoint of the guidance remains unchanged.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.52.07.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.52.07.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"62b0695a-232f-42cc-9e80-f7f71507427c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.52.07.jpg\" /></a></p> <p>Looking ahead, GM is putting additional emphasis on its bread-and-butter pickup business, with redesigned Chevrolet Silverado and GMC Sierra trucks expected later this year. The company also plans to increase output of higher-end models equipped with V-8 engines, betting that wealthier consumers will continue paying a premium for larger vehicles.</p> <p>The approach marks a notable change from GM's previous enthusiasm for electric vehicles and autonomous driving, both of which have resulted in expensive setbacks. CEO Mary Barra has increasingly redirected attention toward established profit centers, while pursuing more targeted opportunities in vehicle software, advanced driver assistance and even defense-related manufacturing.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.50.29.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.50.29.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"850e52c3-f735-4fb6-847c-2d6149cfa512\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-20%20at%2008.50.29.jpg\" /></a></p> <p>GM's overseas operations, meanwhile, continue to struggle. Quarterly profit from China fell 60% from a year earlier to just $32 million.</p> <p>The broader auto industry has undergone a significant reassessment over the past two years. After spending much of the early 2020s promising an accelerated transition to electric vehicles, several major manufacturers have scaled back EV investments, delayed launches and absorbed substantial losses as consumer adoption failed to match earlier expectations.</p> <p>At the same time, persistently expensive vehicles, elevated interest rates and increasingly stretched consumers have complicated the outlook for traditional auto sales. The result is an industry increasingly focused on protecting margins, generating cash and selling the vehicles customers are actually willing to buy, rather than pursuing the ambitious growth narratives that dominated the sector just a few years ago.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T13:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 09:30</span>",
-    "link": "https://www.zerohedge.com/markets/general-motors-shares-plunge-despite-20-billion-buyback-announcement-and-earnings-beat",
-    "pubDate": "Tue, 20 Oct 2026 13:30:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "UK Sends Typhoon Jets To Support Saudis Amid Houthi Attacks",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">UK Sends Typhoon Jets To Support Saudis Amid Houthi Attacks</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>The United Kingdom has on Tuesday announced yet more creeping escalation in the Yemen war. It is offering Saudi Arabia 'defensive' assistance by deploying its Typhoon fighter jets.</p> <p>The British Ministry of Defence<strong> claimed the warplanes and British pilots would operate only in a \"defensive role\"</strong> - though its yet to be seen what exactly this will mean.</p> <p>\"The UK will fly defensive counter air missions to support the <strong>protection of Saudi cities and critical national infrastructure against aerial attack</strong>, using RAF Typhoon fighter jets,\" the statement added.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/typhoonyemen.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/typhoonyemen.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8e65e4b5-b5c7-42df-bb90-601b4d88ca44\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/typhoonyemen.jpg\" /></a> <figcaption><em>via UK Royal Air Force</em></figcaption></figure><p>In this current situation the line between what gets deemed defensive vs. offensive is going to be thin, at a moment Saudi territory has been coming under almost daily attack from Houthi ballistic missiles and drones. <strong>Will UK warplanes move to take out launch systems if their locations are identified in Yemen?</strong></p> <p>The kingdom's major airports have been shuttered for the past week, with airspace effectively closed due to the missile threat, and Aramco energy sites have been pummeled.</p> <p>It is almost unprecedented to see the Saudi economy, which relies heavily on foreign investments for expansion, essentially get temporarily cut off from the outside world. The kingdom has been forced to<a href=\"https://www.zerohedge.com/geopolitical/growing-list-major-events-saudi-arabia-forced-cancel-postpone\"> cancel over a dozen major events</a> it was expected to host, including its annual 'Davos in the Desert' flagship investor conference, which was originally scheduled for next week.</p> <p>Concerning the kingdom's Future Investment Initiative, <em><a href=\"https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=e2fb&fbclid=IwY2xjawVDEThleHRuA2FlbQIxMQBwZG9mAWJyaWQRMVpsbkRRUUI0TjBrNlV2dUJzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNePhmLHTZyFqVSjTefcQZP_Qmbs3uuCcy42_URSHBbxCtElqObNS475dkE_aem_Af4eXZTVnsfRVELGpvhsVQ\">The Wall Street Journal</a></em> reported that \"Organizers decided Monday that <strong>if the conference goes ahead, its sessions will be held virtually rather than in person, the people said</strong>.\"</p> <p>The report added: \"The kingdom is expected to make a decision Tuesday or earlier whether to postpone the event, they said. <strong>Postponement is the most likely outcome</strong>, some of the people said.\"</p> <p>UK Defence Secretary Wes Streeting has said, \"The continuing attacks from the Houthis on our ally Saudi Arabia are <strong>absolutely despicable</strong>. The targeting of the airport in Riyadh in particular shows the lengths the Houthis are going to escalate the situation in the region.\"</p> <p>\"That's why today I have approved further UK military support.<strong> RAF Typhoons will fly defensive air missions to help protect Saudi airspace from drones and missiles</strong>. This builds on the UK equipment and personnel we already have in the country to defend against Houthi air attacks,”\"he added.</p> <p><strong>But how long until these warplanes become <em>offensive</em>? </strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Ansar Allah has closed the last road left open for forces and people to leave Taez. It is a question of when the city will fall. The UK will be engaged I supporting Saudi Arabia but that would bring it into an unnecessary war with no possibility to alter the outcome.</p> — Elijah J. Magnier 🇪🇺 (@ejmalrai) <a href=\"https://x.com/ejmalrai/status/2112523819248128439?ref_src=twsrc%5Etfw\">October 20, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Or rather, perhaps this just appears <strong>the public-facing narrative and might in reality mark a full-fledged British entry into the conflict</strong>. Already London had pledged an aerial refueling tanker to support Saudi coalition operations over Yemen.</p> <p>As for Washington, it says it is only providing an intelligence-sharing and advisory role. President Trump has not shown an appetite for getting deeper in, at a moment the Hormuz Strait crisis is still being navigated.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-20T13:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Tue, 10/20/2026 - 09:15</span>",
-    "link": "https://www.zerohedge.com/geopolitical/uk-sends-typhoon-jets-support-saudis-amid-houthi-attacks",
-    "pubDate": "Tue, 20 Oct 2026 13:15:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "White River Bancshares Co Q3 Profit Advances",
-    "desc": "(RTTNews) - White River Bancshares Co (WRIV) released a profit for its third quarter that Increased, from the same period last year",
-    "link": "https://www.nasdaq.com/articles/white-river-bancshares-co-q3-profit-advances",
-    "pubDate": "Tue, 20 Oct 2026 13:50:31 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Heartland Express Reports Net Income In Q3",
-    "desc": "(RTTNews) - Heartland Express, Inc. (HTLD) reported third quarter net income of $1.0 million, as compared to a net loss of $8.3 million in the third quarter of 2025. Basic earnings per share was $0.01, as compared to a basic loss per share of $0.11.",
-    "link": "https://www.nasdaq.com/articles/heartland-express-reports-net-income-q3",
-    "pubDate": "Tue, 20 Oct 2026 13:43:18 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Dario Amodei's AI Safety Warning Is Colliding With Anthropic's IPO Timeline",
-    "desc": "Key PointsAnthropic's AI safety concerns have already disrupted some advanced-model development activities.",
-    "link": "https://www.nasdaq.com/articles/dario-amodeis-ai-safety-warning-colliding-anthropics-ipo-timeline",
-    "pubDate": "Tue, 20 Oct 2026 13:40:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Labcorp To Buy Myriad Genetics' Prenatal Testing Business For $210 Mln",
-    "desc": "(RTTNews) - Laboratory services provider LabCorp Holdings Inc. (LH) announced on Tuesday that it has agreed to acquire the Prenatal Health testing business of molecular diagnostics company Myriad Genetics Inc. (MYGN) for $210 million in cash, plus the value of inventory at closin",
-    "link": "https://www.nasdaq.com/articles/labcorp-buy-myriad-genetics-prenatal-testing-business-210-mln",
-    "pubDate": "Tue, 20 Oct 2026 13:38:29 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Vanguard Funds Are Normally Great Investments, but I'd Avoid This One Right Now",
-    "desc": "Key PointsThe Vanguard Information Technology ETF has high exposure to the top stocks, many of which are overvalued.",
-    "link": "https://www.nasdaq.com/articles/vanguard-funds-are-normally-great-investments-id-avoid-one-right-now",
-    "pubDate": "Tue, 20 Oct 2026 13:37:02 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "AstraZeneca's Tezspire Shows Sustained Benefits In Phase 3 Esophagitis Trial",
-    "desc": "(RTTNews) - AstraZeneca (AZN) said Tuesday that full results from the Phase 3 CROSSING trial showed Tezspire improved disease remission and swallowing symptoms in adolescents and adults with eosinophilic esophagitis.",
-    "link": "https://www.nasdaq.com/articles/astrazenecas-tezspire-shows-sustained-benefits-phase-3-esophagitis-trial",
-    "pubDate": "Tue, 20 Oct 2026 13:36:45 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Affirm is Appreciated By Consumers and Merchants as it Facilitates Sales",
-    "desc": "The buy now, pay later company helps make transactions happen sooner rather than later.",
-    "link": "https://www.nasdaq.com/articles/affirm-appreciated-consumers-and-merchants-it-facilitates-sales",
-    "pubDate": "Tue, 20 Oct 2026 13:35:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Another Rate Hike Is Expected Before the End of 2026. Here's Why It Might Have a Much Bigger Impact on the Markets This Time",
-    "desc": "Key PointsAccording to CME FedWatch, there's a 90% probability of a rate hike at the Dec. 9 Fed meeting.",
-    "link": "https://www.nasdaq.com/articles/another-rate-hike-expected-end-2026-heres-why-it-might-have-much-bigger-impact-markets",
-    "pubDate": "Tue, 20 Oct 2026 13:31:01 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "These 2 Monthly Payers Have \"Repaid\" Us Nearly 20%",
-    "desc": "We love it when a stock \"pays us back\" in dividends. The faster, the better!",
-    "link": "https://www.nasdaq.com/articles/these-2-monthly-payers-have-repaid-us-nearly-20",
-    "pubDate": "Tue, 20 Oct 2026 13:30:02 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Qualcomm Reportedly To Cut Jobs Globally Following Performance Reviews",
-    "desc": "(RTTNews) - Semiconductor and wireless technology major Qualcomm Inc. (QCOM), plans to reduce its global workforce following annual employee performance reviews, with notifications expected to begin in November, Reuters reported on Tuesday, citing a memo to staff from CEO Cristia",
-    "link": "https://www.nasdaq.com/articles/qualcomm-reportedly-cut-jobs-globally-following-performance-reviews",
-    "pubDate": "Tue, 20 Oct 2026 13:25:45 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Viking Therapeutics Initiates Pivotal Phase 3 Trial: Here's Why Investors Have Reason for Optimism After a Disappointing Phase 2",
-    "desc": "Key PointsViking is launching phase 3 trials for oral VK2735 after mixed phase 2 results.",
-    "link": "https://www.nasdaq.com/articles/viking-therapeutics-initiates-pivotal-phase-3-trial-heres-why-investors-have-reason",
-    "pubDate": "Tue, 20 Oct 2026 13:22:00 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Broadcom, FedEx Extend Digital Infrastructure Software Partnership",
-    "desc": "(RTTNews) - Broadcom Inc. (AVGO) and FedEx Corp. (FDX) have extended their relationship through a consolidated agreement supporting the transportation and logistics company's digital infrastructure optimization and application modernization efforts, according to an announcement T",
-    "link": "https://www.nasdaq.com/articles/broadcom-fedex-extend-digital-infrastructure-software-partnership",
-    "pubDate": "Tue, 20 Oct 2026 13:20:44 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Fiserv To Offer VikingCloud Cyber Risk Defense",
-    "desc": "(RTTNews) - VikingCloud, a cybersecurity and compliance company, announced a multi-year agreement with Fiserv (FISV) to help businesses strengthen their cybersecurity defenses and simplify PCI compliance. Beginning in early 2027, Fiserv will offer VikingCloud Cyber Risk Defense,",
-    "link": "https://www.nasdaq.com/articles/fiserv-offer-vikingcloud-cyber-risk-defense",
-    "pubDate": "Tue, 20 Oct 2026 13:19:28 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Marco Rubio says &#8216;we’re about as close as you can be&#8217; to an India trade deal after talks in Mumbai",
-    "desc": "The U.S. imposed tariffs of up to 50% on most Indian goods in August 2025 after trade talks broke down",
-    "link": "https://fortune.com/2026/10/20/marco-rubio-india-trade-talks-tariffs-russia-oil/",
-    "pubDate": "Tue, 20 Oct 2026 13:36:46 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "fortune",
-    "title": "No, Alberta isn&#8217;t leaving Canada as voters overwhelmingly reject independence for oil-rich province",
-    "desc": "Mark Carney said “Albertans made a clear choice\" for \"unity, to build together, and to take care of each other. Above all, Albertans chose Canada.”",
-    "link": "https://fortune.com/2026/10/20/alberta-canada-independence-referendum-mark-carney/",
-    "pubDate": "Tue, 20 Oct 2026 13:33:48 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Kroger and Albertsons: the food fight every dealmaker should be watching",
-    "desc": "A review of what has been filed suggests that Kroger’s argument will be that it really, really, really tried to make the Albertsons deal work.",
-    "link": "https://fortune.com/2026/10/20/kroger-albertsons-delaware-chancery-court-why-it-matters/",
-    "pubDate": "Tue, 20 Oct 2026 13:26:29 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "fortune",
-    "title": "&#8216;A spark suddenly ignites&#8217;: Europe&#8217;s Gen Z takes to the streets as economies fail to deliver jobs, schools fail to deliver education",
-    "desc": "It's not just France. Riots and strikes are popping up in Spain, Italy, even Albania.",
-    "link": "https://fortune.com/2026/10/20/europe-france-spain-albania-protests-young-people/",
-    "pubDate": "Tue, 20 Oct 2026 13:19:08 +0000",
-    "fetchedAt": "2026-10-20T14:01:58.866Z"
-  },
-  {
-    "source": "fortune",
-    "title": "DeepSeek fires back at U.S.federal agency ban as &#8216;overstretching of the concept of national security&#8217;",
-    "desc": "The U.S. said DeepSeek’s models \"present multiple threat vectors\" like servers hosted in China and the potential for China to get sensitive data",
-    "link": "https://fortune.com/2026/10/20/china-deepseek-us-ban-ai-national-security/",
-    "pubDate": "Tue, 20 Oct 2026 13:16:36 +0000",
     "fetchedAt": "2026-10-20T14:01:58.866Z"
   }
 ]
