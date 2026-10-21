@@ -1,6 +1,582 @@
 [
   {
     "source": "cnbc",
+    "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+    "desc": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+    "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+    "pubDate": "Wed, 21 Oct 2026 21:12:29 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "desc": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "pubDate": "Wed, 21 Oct 2026 11:20:58 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "House committee says Webull messages point to China access to U.S. customer data",
+    "desc": "The House Select Committee on China earlier this month said online investing platform Webull is quietly \"tied in structural ways\" to China's government.",
+    "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
+    "pubDate": "Wed, 21 Oct 2026 11:05:18 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+    "desc": "France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more.",
+    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+    "pubDate": "Wed, 21 Oct 2026 10:40:01 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+    "desc": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 21 Oct 2026 10:20:15 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+    "desc": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+    "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Wed, 21 Oct 2026 10:16:17 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "bbc",
+    "title": "What are the new faces coming to UK bank notes?",
+    "desc": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
+    "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Mon, 19 Oct 2026 09:48:35 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "EverQuote stock rises on $50M share buyback program",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/everquote-stock-rises-on-50m-share-buyback-program-4964287",
+    "pubDate": "2026-10-21 21:54:46",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Meta Q3 2026 slides: revenue surges 26% as margins compress sharply",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/meta-q3-2026-slides-revenue-surges-26-as-margins-compress-sharply-93CH-4964286",
+    "pubDate": "2026-10-21 21:53:28",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Getty earnings beat by $0.05, revenue topped estimates",
+    "desc": "",
+    "link": "https://www.investing.com/news/earnings/getty-earnings-beat-by-005-revenue-topped-estimates-4964284",
+    "pubDate": "2026-10-21 21:52:41",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Las Vegas Sands Q3 2026 slides: EBITDA falls 17% amid premium weakness",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/las-vegas-sands-q3-2026-slides-ebitda-falls-17-amid-premium-weakness-93CH-4964282",
+    "pubDate": "2026-10-21 21:51:28",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: NVE Corp. sinks after Q2 2026 revenue decline",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nve-corp-sinks-after-q2-2026-revenue-decline-93CH-4964281",
+    "pubDate": "2026-10-21 21:51:08",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "EQT to acquire QIAGEN for €10.8 billion in cash deal",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/eqt-to-acquire-qiagen-for-108-billion-in-cash-deal-93CH-4964277",
+    "pubDate": "2026-10-21 21:48:47",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Southwest Airlines cuts profit forecast as fuel costs overshadow turnaround gains",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/southwest-airlines-cuts-2026-profit-forecast-as-fuel-costs-spike-4964000",
+    "pubDate": "2026-10-21 21:48:24",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Crown Castle misses Q3 2026 estimates as stock slips",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-crown-castle-misses-q3-2026-estimates-as-stock-slips-93CH-4964276",
+    "pubDate": "2026-10-21 21:47:46",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Earnings call transcript: Pathward beats Q4 2026 estimates, stock stays flat",
+    "desc": "",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-pathward-beats-q4-2026-estimates-stock-stays-flat-93CH-4964275",
+    "pubDate": "2026-10-21 21:47:02",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investing",
+    "title": "Bitcoin gains more than 2% to $84.8k as risk sentiment prevails",
+    "desc": "",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
+    "pubDate": "2026-10-21 21:46:19",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+    "desc": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
+    "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+    "pubDate": "Wed, 21 Oct 2026 21:44:00 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+    "desc": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
+    "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+    "pubDate": "Wed, 21 Oct 2026 21:14:00 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+    "desc": "&#x201c;I never paid rent, although I put about $45,000 toward a new kitchen and a roof.&#x201d;",
+    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+    "pubDate": "Wed, 21 Oct 2026 20:31:00 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I&#x2019;m crazy. Who&#x2019;s right?",
+    "desc": "&#x201c;I don&#x2019;t want to enter retirement owing six figures when we have the cash to clear it.&#x201d;",
+    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+    "pubDate": "Wed, 21 Oct 2026 20:15:00 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "guardian",
+    "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
+    "desc": "<p>Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt</p><p>For almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (EIDL) from the federal government in early 2021.</p><p>At the time, it provided a desperately needed lifeline. He was confident that once business returned to normal he could begin repaying the 30-year loan, which came with a low 3.75% interest rate and a 30-month deferment period. But when his business didn’t recover, the disaster loan turned out to be a disaster of its own.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans\">Continue reading...</a>",
+    "link": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
+    "pubDate": "Fri, 16 Oct 2026 13:00:11 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "ft",
+    "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
+    "desc": "Group to create new class of non-voting shares to allow stock sales without diluting the founder’s control",
+    "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+    "pubDate": "Wed, 21 Oct 2026 21:43:52 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "ft",
+    "title": "Republicans head into midterms with huge spending advantage",
+    "desc": "Filings show the party and its affiliated groups have amassed a big war chest but polling favours Democrats in many races",
+    "link": "https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c?syn-25a6b1a6=1",
+    "pubDate": "Wed, 21 Oct 2026 20:26:09 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "ft",
+    "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
+    "desc": "Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield",
+    "link": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
+    "pubDate": "Wed, 21 Oct 2026 20:58:21 GMT",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Essential Properties rises as Q3 rental revenue surpasses estimates; 2027 guidance introduced",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655644-essential-properties-rises-as-q3-rental-revenue-surpasses-estimates-2027-guidance-introduced?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:57:01 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Rollins stock falls as revenue misses estimates, pest control growth slows",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655646-rollins-stock-falls-as-revenue-misses-estimates-pest-control-growth-slows?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:53:16 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Russian gold reserves fall to lowest since 2019 after drawdown for 10 straight months",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655636-russian-gold-reserves-fall-to-lowest-since-2019-after-drawdown-for-10-straight-months?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:50:44 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "SpaceX climbs 8% after earnings beat, AI growth outlook",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655528-spacex-climbs-8-percent-after-earnings-beat-ai-growth-outlook?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:46:31 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Skydance jumps 11% on Malone&#x2019;s SpaceX deal talk",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655532-skydance-jumps-11-percent-on-malone-s-spacex-deal-talk?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:43:22 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Molina slips despite Q3 beats",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655643-molina-slips-despite-q3-beats?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:39:59 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Strategy rises for second straight session, climbing 8%",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4655523-strategy-rises-for-second-straight-session-climbing-8?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Wed, 21 Oct 2026 17:38:31 -0400",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Dow Jones Futures: Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+    "desc": "The Nasdaq moved above its 50-day line, led by SpaceX and SuperMicro. Tesla and Meta headlined big earnings late.",
+    "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:53:23 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "BC-Select Stock Indices",
+    "desc": "NEW YORK (AP) — Prices as of 5:30:00 PM Wednesday, October 21. Change High Low Dow Jones 15 Utilities 1081.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013529.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:30:13 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Think It's Too Risky to Invest in the Stock Market Right Now? History Says Waiting Is Even Riskier.",
+    "desc": "When is the right time to invest? As soon as possible.",
+    "link": "https://www.fool.com/investing/2026/10/21/think-its-too-risky-to-invest-in-the-stock-market/?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:20:00 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Canopy Growth Corporation (CGC) Stock Declines While Market Improves: Some Information for Investors",
+    "desc": "Canopy Growth Corporation (CGC) closed at $0.67 in the latest trading session, marking a -6.67% move from the prior day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/canopy-growth-corporation-cgc-stock-205002936.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:50:02 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sprouts Farmers (SFM) Outperforms Broader Market: What You Need to Know",
+    "desc": "Sprouts Farmers (SFM) closed the most recent trading day at $65.51, moving +1.22% from the previous trading session.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-sfm-outperforms-broader-205002333.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:50:02 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Merck (MRK) Laps the Stock Market: Here's Why",
+    "desc": "The latest trading day saw Merck (MRK) settling at $149.88, representing a +1.07% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/merck-mrk-laps-stock-market-204504277.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:45:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "CVS Health (CVS) Stock Sinks As Market Gains: What You Should Know",
+    "desc": "In the latest trading session, CVS Health (CVS) closed at $93.45, marking a -1.37% move from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-cvs-stock-sinks-204504004.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:45:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Modine (MOD) Rises Higher Than Market: Key Facts",
+    "desc": "Modine (MOD) reached $149.78 at the closing of the latest trading day, reflecting a +2.09% change compared to its last close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/modine-mod-rises-higher-market-204504580.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:45:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "AbbVie (ABBV) Stock Declines While Market Improves: Some Information for Investors",
+    "desc": "The latest trading day saw AbbVie (ABBV) settling at $284.8, representing a -1.48% change from its previous close.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-abbv-stock-declines-while-204504992.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:45:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Airbnb, Inc. (ABNB) Stock Slides as Market Rises: Facts to Know Before You Trade",
+    "desc": "In the closing of the recent trading day, Airbnb, Inc. (ABNB) stood at $173.69, denoting a -1.84% move from the preceding trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-inc-abnb-stock-slides-204504080.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:45:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat",
+    "desc": "On Oct. 21, 2026, the rocket and satellite broadband provider posted $14.6 billion in quarterly revenue with $4.4 billion net income, rewarding investors with a 7.79% session gain.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-space-exploration-technologies-surges-on-q3-earnings-beat/?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:40:01 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: US Equity Indexes Rise as Blockbuster SpaceX Results, Super Micro Computer's Fiscal Q1 Update Boosts AI Trade",
+    "desc": "(Updates with index/price moves and company news from the first paragraph.) US equity indexes ros",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-blockbuster-213900431.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:39:00 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 21: Super Micro Computer Raises Full-Year Revenue Guidance on Strong AI Demand",
+    "desc": "The server maker raised its outlook to between $18.5 billion and $19.5 billion and signaled margin expansion.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-super-micro-computer-raises-full-year-revenue-guidance-on-strong-ai-demand/?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:21:36 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Two Reasons To Rethink Applied Materials Stock Now",
+    "desc": "For questions about this article or underlying research, email help@trefis.com.",
+    "link": "https://www.trefis.com/articles/619639/two-reasons-to-rethink-applied-materials-stock-now/2026-10-21?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:58:32 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Can Make DraftKings Stock A Buy?",
+    "desc": "For questions about this article or underlying research, email help@trefis.com.",
+    "link": "https://www.trefis.com/articles/619675/what-can-make-draftkings-stock-a-buy/2026-10-21?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:50:10 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Cameco (CCJ) Laps the Stock Market: Here's Why",
+    "desc": "In the most recent trading session, Cameco (CCJ) closed at $82.02, indicating a +1.88% shift from the previous trading day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-laps-stock-market-205002677.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 20:50:02 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 21: Airline Shares Rise After United Issues Stronger Revenue Guidance",
+    "desc": "American Airlines climbed alongside sector peers on Oct. 21, 2026, as United's upbeat outlook reignited investor appetite for the group.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-airline-shares-rise-after-united-issues-stronger-revenue-guidance/?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:53:11 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 21: AT&T Beats Earnings on Strong Fiber Growth, Raises 2026 Profit Outlook",
+    "desc": "Today, Oct. 21, 2026, the telecom giant posted record internet additions and advanced connectivity gains, signaling momentum in its capital-intensive fiber strategy.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-at-and-t-beats-earnings-on-strong-fiber-growth-raises-2026-profit-outlook/?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:12:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Stock Market Today, Oct. 21: Netflix Cuts Ad Revenue Guidance, Stock Slides 5%",
+    "desc": "On Oct. 21, 2026, Netflix slashed ad guidance and Q4 revenue outlook, leaving investors questioning whether advertising can reaccelerate growth.",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-netflix-cuts-ad-revenue-guidance-stock-slides-5/?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 21:08:48 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Danaher Stock Bounced Higher Today",
+    "desc": "Key PointsIt beat analyst estimates for both revenue and profitability.",
+    "link": "https://www.nasdaq.com/articles/why-danaher-stock-bounced-higher-today",
+    "pubDate": "Wed, 21 Oct 2026 21:26:22 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "SpaceX Tesla Merger: Elon Musk Just Called it a Good Idea",
+    "desc": "Key PointsSpaceX and Tesla have formed independent committees to explore a possible merger.",
+    "link": "https://www.nasdaq.com/articles/spacex-tesla-merger-elon-musk-just-called-it-good-idea",
+    "pubDate": "Wed, 21 Oct 2026 21:23:01 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Cathay General Bancorp Profit Climbs In Q3",
+    "desc": "(RTTNews) - Cathay General Bancorp (CATY) announced earnings for its third quarter that Increased, from last year",
+    "link": "https://www.nasdaq.com/articles/cathay-general-bancorp-profit-climbs-q3",
+    "pubDate": "Wed, 21 Oct 2026 21:10:04 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Southwest Airlines Inc. Q3 Profit Climbs",
+    "desc": "(RTTNews) - Southwest Airlines Inc. (LUV) announced earnings for its third quarter that Increases, from last year",
+    "link": "https://www.nasdaq.com/articles/southwest-airlines-inc-q3-profit-climbs",
+    "pubDate": "Wed, 21 Oct 2026 21:06:07 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Did SpaceX Just Save CoreWeave, Nebius, and the Neocloud Sector?",
+    "desc": "Key PointsElon Musk said that prices for AI compute were rising.",
+    "link": "https://www.nasdaq.com/articles/did-spacex-just-save-coreweave-nebius-and-neocloud-sector",
+    "pubDate": "Wed, 21 Oct 2026 21:05:02 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Crown Castle Inc. Q3 Profit Declines",
+    "desc": "(RTTNews) - Crown Castle Inc. (CCI) released earnings for third quarter that Dropped, from last year",
+    "link": "https://www.nasdaq.com/articles/crown-castle-inc-q3-profit-declines",
+    "pubDate": "Wed, 21 Oct 2026 21:02:50 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Trane Technologies To Acquire Cancoil Thermal",
+    "desc": "(RTTNews) - Trane Technologies (TT) on Wednesday said it has agreed to buy Cancoil Thermal Corporation, a North American heat-transfer products manufacturer, to strengthen supply chain resiliency and expand its thermal management capabilities.",
+    "link": "https://www.nasdaq.com/articles/trane-technologies-acquire-cancoil-thermal",
+    "pubDate": "Wed, 21 Oct 2026 20:58:15 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "If I Had $1,000 to Invest Today, Here's Why I Wouldn't Buy IonQ Stock",
+    "desc": "Key PointsIonQ&rsquo;s expanding business now includes quantum computing, networking, security, sensing, and chip manufacturing.",
+    "link": "https://www.nasdaq.com/articles/if-i-had-1000-invest-today-heres-why-i-wouldnt-buy-ionq-stock",
+    "pubDate": "Wed, 21 Oct 2026 20:55:00 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Stewart Information Services Corp Q3 Income Drops",
+    "desc": "(RTTNews) - Stewart Information Services Corp (STC) announced a profit for third quarter that Drops, from the same period last year",
+    "link": "https://www.nasdaq.com/articles/stewart-information-services-corp-q3-income-drops",
+    "pubDate": "Wed, 21 Oct 2026 20:54:25 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Gas Prices Are Skyrocketing. Can Bitcoin Actually Hedge Against Inflation?",
+    "desc": "Key PointsRising gas prices are driving higher consumer prices.",
+    "link": "https://www.nasdaq.com/articles/gas-prices-are-skyrocketing-can-bitcoin-actually-hedge-against-inflation",
+    "pubDate": "Wed, 21 Oct 2026 20:51:00 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Graco Inc Q3 Profit Retreats",
+    "desc": "(RTTNews) - Graco Inc (GGG) announced earnings for third quarter that Drops, from the same period last year",
+    "link": "https://www.nasdaq.com/articles/graco-inc-q3-profit-retreats",
+    "pubDate": "Wed, 21 Oct 2026 20:50:39 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Billionaires fleeing California could turn a $30 billion tax windfall into a $39 billion loss, Stanford economists warn",
+    "desc": "Departures have already erased nearly 30% of Prop 40’s tax base, a new NBER paper estimates. The tax’s architects say the math assumes losses that won’t last.",
+    "link": "https://fortune.com/2026/10/21/california-billionaire-tax-prop-40-stanford-study-39-billion-loss/",
+    "pubDate": "Wed, 21 Oct 2026 20:42:26 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Republican Sen. Collins promotes her independence and &#8216;true blue-blooded Maine&#8217;-ness by partnering with ex-Dem. Joe Manchin and breaking from Trump",
+    "desc": "Manchin said to lose Collins would be “to lose the soul of the Senate.”",
+    "link": "https://fortune.com/2026/10/21/republican-senator-collins-maine-ex-dem-joe-manchin/",
+    "pubDate": "Wed, 21 Oct 2026 20:37:59 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Putin agrees &#8216;in principle&#8217; to resume talks with Washington and Kyiv to end war in Ukraine—but still isn&#8217;t &#8216;fully satisfied&#8217; with proposals",
+    "desc": "The talks will focus on “building a security system for Russia and Ukraine after the conflict ends,” Putin foreign affairs advisor Yuri Ushakov said.",
+    "link": "https://fortune.com/2026/10/21/putin-talks-washington-kyiv-ukraine-proposals/",
+    "pubDate": "Wed, 21 Oct 2026 20:30:40 +0000",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "South Africa cuts bond sales, launches buyback program",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/south-africa-cuts-bond-sales-launches-buyback-program-93CH-4964257",
+    "pubDate": "2026-10-21 21:37:28",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Walmart launches tools for AI agents to shop for customers",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/walmart-launches-tools-for-ai-agents-to-shop-for-customers-4964210",
+    "pubDate": "2026-10-21 21:30:23",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.43%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-143-4964235",
+    "pubDate": "2026-10-21 21:30:04",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/chineselinked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says-4964230",
+    "pubDate": "2026-10-21 21:25:06",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Colombia stocks higher at close of trade; COLCAP up 1.07%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-107-4964229",
+    "pubDate": "2026-10-21 21:25:03",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Texas Instruments stock slipping today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-slipping-today-93CH-4964227",
+    "pubDate": "2026-10-21 21:24:19",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.89%",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-089-4964211",
+    "pubDate": "2026-10-21 21:20:04",
+    "fetchedAt": "2026-10-21T22:01:41.232Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Tesla beats on earnings and sales even as auto revenue declines",
     "desc": "Tesla reported better-than-expected third-quarter results.",
     "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
@@ -5821,582 +6397,6 @@
     "desc": "",
     "link": "https://www.investing.com/news/earnings/ofg-bancorp-earnings-beat-by-010-revenue-fell-short-of-estimates-4962675",
     "pubDate": "2026-10-21 11:40:06",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "Abbott beats revenue estimates, shares slide amid planned nutrition unit spinoff",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/abbott-beats-revenue-estimates-shares-slide-amid-planned-nutrition-unit-spinoff-4962674",
-    "pubDate": "2026-10-21 11:39:53",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "Nvidia’s Huang highlights AI benefits in Berlin speech amid wider European tour",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/nvidias-huang-highlights-ai-benefits-in-berlin-speech-amid-wider-european-tour-4962673",
-    "pubDate": "2026-10-21 11:39:16",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "M/I Homes stock surges 14% despite third quarter earnings miss",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/mi-homes-stock-surges-14-despite-third-quarter-earnings-miss-93CH-4962672",
-    "pubDate": "2026-10-21 11:39:09",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "NextEra Energy earnings beat by $0.06, revenue fell short of estimates",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/nextera-energy-earnings-beat-by-006-revenue-fell-short-of-estimates-4962671",
-    "pubDate": "2026-10-21 11:38:14",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "Northland upgrades Transcat stock rating on valuation, support",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/northland-upgrades-transcat-stock-rating-on-valuation-support-93CH-4962660",
-    "pubDate": "2026-10-21 11:37:09",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: Aditya Birla Sun Life AMC Q2 2026 profit slips",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-aditya-birla-sun-life-amc-q2-2026-profit-slips-93CH-4962658",
-    "pubDate": "2026-10-21 11:37:07",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "H.C. Wainwright reiterates SpyGlass Pharma stock rating on trial data",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-spyglass-pharma-stock-rating-on-trial-data-93CH-4962659",
-    "pubDate": "2026-10-21 11:37:07",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investing",
-    "title": "Guggenheim reiterates Buy on Microsoft stock ahead of earnings",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-buy-on-microsoft-stock-ahead-of-earnings-93CH-4962656",
-    "pubDate": "2026-10-21 11:37:03",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Musk says he&#x2019;s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
-    "desc": "SpaceX and Super Micro Computer help revive Wall Street&#x2019;s flagging enthusiasm, with more key earnings on tap.",
-    "link": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
-    "pubDate": "Wed, 21 Oct 2026 11:39:00 GMT",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "ft",
-    "title": "Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker",
-    "desc": "EU must protect sector from foreign rivals, says parliament’s lead negotiator on telecoms reform",
-    "link": "https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1",
-    "pubDate": "Wed, 21 Oct 2026 10:45:04 GMT",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "ft",
-    "title": "Could Michigan elect America’s first Muslim senator?",
-    "desc": "Democrat Abdul El-Sayed could make history — or scupper his party’s hopes of taking control of the Senate in midterm elections",
-    "link": "https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1",
-    "pubDate": "Wed, 21 Oct 2026 04:00:13 GMT",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "ft",
-    "title": "The ‘adults in the room’ won’t save you",
-    "desc": "The hope that wise subordinates would curb the likes of Donald Trump was always a misunderstanding of politics",
-    "link": "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1",
-    "pubDate": "Wed, 21 Oct 2026 11:32:56 GMT",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "ft",
-    "title": "Iran’s foreign minister: The false assumptions about us are dangerous",
-    "desc": "A way forward can only materialise once the US administration genuinely accepts that it has no military options",
-    "link": "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa",
-    "pubDate": "Wed, 21 Oct 2026 10:22:06 GMT",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "ft",
-    "title": "Russia releases US citizen as Trump’s envoy visits",
-    "desc": "Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine",
-    "link": "https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1",
-    "pubDate": "Wed, 21 Oct 2026 11:05:34 GMT",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Helio seeks Nasdaq listing and plans to raise ~$8M",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655109-helio-seeks-nasdaq-listing-and-plans-to-raise-8m?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:58:41 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "CoreWeave in focus as it unveils robotics and EV workloads, zero trust AI framework",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655089-coreweave-in-focus-as-it-unveils-robotics-and-ev-workloads-zero-trust-ai-framework?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:57:40 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "American Airlines, Alaska Air lead list of undervalued industrial stocks",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655108-american-airlines-alaska-air-lead-list-of-undervalued-industrial-stocks?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:55:04 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Dell expands AI Factory with Nvidia across deskside and data center",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655099-dell-expands-ai-factory-with-nvidia-across-deskside-and-data-center?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:50:23 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Bank regulator to effect GENIUS Act from January 18 next year",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655085-bank-regulator-to-effect-genius-act-from-january-18-next-year?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:49:12 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Abbott to separate its nutrition unit as a public company",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655104-abbott-stock-slips-plans-separate-nutrition-unit?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:48:54 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Winnebago rises on better-than-feared earnings results",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655103-winnebago-rises-on-better-than-feared-earnings-results?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Wed, 21 Oct 2026 07:48:14 -0400",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Tech Stocks Right Now",
-    "desc": "The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best tech stocks today with Webull or Robinhood. The technology sector is made up of companies that operate in the semiconductor, artificial intelligence (AI), software, computer hardware, and other industries related to information technology. This sector includes some of the world’s most well-known and largest companies, such as Microsoft, Google, Amazon, and &#8230; Continued The post Best Tech Stocks Right Now by Shanthi Rexaline appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-tech-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $5",
-    "desc": "The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $5 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Searching for quality stocks under $5 is a lot like bargain hunting. Low prices allow you to buy these stocks in large quantities without stretching your wallet. The payoffs can be &#8230; Continued The post Best Stocks Under $5 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-stocks-under-5",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Biotech Stocks Right Now",
-    "desc": "The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Biotech stocks are in the eye of the storm as the world recovers from the global pandemic. Government institutions and professional traders are banking on biotech stocks to continually develop a vaccine and boosters that can eradicate COVID-19.&#160; Tilt your stock portfolio toward biotech companies now and you could stand to make substantial profits in &#8230; Continued The post Best Biotech Stocks Right Now by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-biotech-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Gold Stocks Right Now",
-    "desc": "The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. If you plan to diversify your portfolio in light of recent events, investing in gold stocks could be a good choice. Gold stocks not only track the movements of gold prices that tend to rise in uncertain times, but they also generally gain value in a rising stock market.&#160; Gold stocks could serve as a &#8230; Continued The post Best Gold Stocks Right Now by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-gold-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Semiconductor Stocks",
-    "desc": "The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this. Invest in the best semiconductor stocks with Interactive Brokers today. Information technology is at the forefront of digital transformation. Computers, smartphones and smart TVs have become household items for millions of people around the world, and companies that design and develop semiconductors are the key catalysts driving that change. You can cash in on these &#8230; Continued The post Best Semiconductor Stocks by Chetan Shekar appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-semiconductor-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Top Financial Stocks for the Week",
-    "desc": "The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The financial sector is made up of companies that operate in the various offerings within the finance industry–encompassing everything from insurance and money management to payments and digital banking technology. This sector includes some of the world’s most well-known and largest companies, such as Square, Morgan Stanley, American Express, and Bank of America.&#160; Stocks in &#8230; Continued The post Top Financial Stocks for the Week by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/top-financial-stocks-for-the-week",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Stocks Under $20",
-    "desc": "The post Best Stocks Under $20 by Wayne Duggan appeared first on Benzinga . Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $20 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Stocks under $20 offer investors and traders a lower-cost alternative to more expensive stocks. Despite the misperception that lower-priced stocks carry more risk, the risk profile of many stocks under $20 &#8230; Continued The post Best Stocks Under $20 by Wayne Duggan appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/stocks-under-20",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Energy Stocks",
-    "desc": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector includes &#8230; Continued The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-energy-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Solar Stocks",
-    "desc": "The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Renewable energy has become a major theme for forward-looking investors and several different niches within the energy sector are looking to enhance it. Water, wind and solar power are the biggest potential sources, all with their various pros and cons. But solar power is front and center in the renewable energy market thanks to the &#8230; Continued The post Best Solar Stocks by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-solar-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "benzinga",
-    "title": "Best Oil Stocks Right Now",
-    "desc": "The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this. Oil has made headlines during this coronavirus crisis, although not for reasons investors want to see. In addition to issues caused by international events, especially those that impede the safe transport of natural resources. Even in a perfect work, this sector can be quite volatile as supply and demand are constantly shifting. That&#8217;s why it&#8217;s &#8230; Continued The post Best Oil Stocks Right Now by Dan Schmidt appeared first on Benzinga . Visit Benzinga to get more great content like this.",
-    "link": "https://www.benzinga.com/money/best-oil-stocks",
-    "pubDate": "Wed, 21 Oct 2026 11:12:42 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stock market today: S&P 500, Nasdaq futures rise as earnings roll in, SpaceX stock surges",
-    "desc": "Investors assessed a batch of earnings on Wednesday as SpaceX shares surged.",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "The Fed didn't lose control of inflation; they never had it",
-    "desc": "The Bahnsen Group Chief Investment Officer David Bahnsen and Roundhill Investments Chief Investment Strategist Drew Pettit discuss the exact reasons why the central bank may have never actually possessed control over inflation in the first place.",
-    "link": "https://finance.yahoo.com/video/fed-didnt-lose-control-inflation-110000679.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "10 S&P 500 Stocks Seeing The Biggest Estimate Hikes Ahead Of Earnings",
-    "desc": "The S&P 500 stocks getting the heftiest EPS upgrades have something in common.",
-    "link": "https://finance.yahoo.com/m/be2350b1-4088-3d38-9714-6aefbda0d087/10-s%26p-500-stocks-seeing-the.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:39:47 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Stocks Rise Pre-Bell as Traders Await Meta, Tesla Earnings",
-    "desc": "The main US stock measures were moving higher in Wednesday's premarket activity as traders await the",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-111252077.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:12:52 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Outside Big Tech, Tuesday's Earnings Winners Jumped as Much as 11%",
-    "desc": "Stock Preachers News Commentary - Tuesday's session showed how quickly market leadership can change hands. The Dow Jones Industrial Average climbed 529.85 points, or 1.02%, to 52,495.88, and the small-cap Russell 2000 rose 1.65%, while the Nasdaq Composite slipped 0.02% to 26,424.82 and the S&P 500 added 0.28% to 7,712.57. Some of the day's sharpest moves came from third-quarter reports at companies well outside the megacap technology names: a credit data company, a toy and game maker, an indust",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/outside-big-tech-tuesdays-earnings-110800452.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:08:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "What Should You Do With Your Investments if the Stock Market Crashes? This 1 Move Is Key.",
-    "desc": "Instead of timing the market, use the time-tested strategy of buy-and-hold investing for the long term.",
-    "link": "https://www.fool.com/investing/2026/10/21/do-with-your-investments-if-stock-market-crashes/?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 10:50:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "If Alphabet Does This on Oct. 28, the Stock Could Skyrocket",
-    "desc": "Google Cloud will be the focus for many investors.",
-    "link": "https://www.fool.com/investing/2026/10/21/if-alphabet-does-this-on-oct-28-the-stock-could-sk/?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:13:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Prediction: Apple Will Soar After Oct. 28",
-    "desc": "Investors love Apple for its focus on innovation.",
-    "link": "https://www.fool.com/investing/2026/10/21/prediction-apple-will-soar-after-oct-28/?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:30:02 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Anthropic Lost More Money Than All Other Major Companies Combined",
-    "desc": "Investors are getting a taste of just how much AI companies can lose. And it's an obscene amount.",
-    "link": "https://finance.yahoo.com/m/6e835289-d3a4-38be-b3bc-1206328edd87/anthropic-lost-more-money.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:24:57 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Premarket movers: Super Micro, SCHMID Group and SpaceX surge",
-    "desc": "Investing.com - U.S. stock futures were mixed to slightly higher on Wednesday as investors weighed a heavy slate of corporate earnings alongside ongoing developments in the artificial intelligence trade and geopolitical uncertainty in the Middle East. Here are some of the biggest premarket U.S. stock movers today: By 06:07 ET (10:07 GMT), Dow futures had ticked down 66 points, or 0.1%, S&P 500 futures had gained 6 points, or 0.1%, and Nasdaq 100 futures had risen 87 points, or 0.3%, signaling a",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-super-micro-schmid-112107443.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:21:07 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "SpaceX Earnings Reignite AI Optimism on Wall Street Pre-Bell; Asia Mixed, Europe Up",
-    "desc": "Wall Street futures pointed moderately higher pre-bell Wednesday after the SpaceX (SPCX) rocket and",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-earnings-reignite-ai-optimism-111528037.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 11:15:28 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "French Bond Yields Explode To 24-Year High As Unrest And Fiscal Crisis Collide",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">French Bond Yields Explode To 24-Year High As Unrest And Fiscal Crisis Collide</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>France's accelerating death spiral</strong>, amid <a href=\"https://www.zerohedge.com/political/france-slaps-curfews-riot-plagued-cities-report-links-unrest-communists\">social unrest by far-left groups</a>, political gridlock, and deteriorating public finances as the <strong>welfare state teeters on the brink of implosion</strong>, comes just six months before a presidential election that has only given polling tailwinds to right-wing candidate Marine Le Pen.</p> <p>A Financial Times opinion piece earlier today asked, <em>\"<strong>Is France spinning out of control?</strong>\"</em></p> <p>It's not even a question, <strong>but a stated reality</strong>, that Macron and his globalist buddies are ending the presidential term under a number of crises that seem to be <strong>hitting all at once.</strong> </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HVBOj2xW8AAXqAW_0.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/HVBOj2xW8AAXqAW_0.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"21dd4280-3c3a-4ce2-95e3-f7abdb1df553\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/HVBOj2xW8AAXqAW_0.jpg\" /></a></p> <p>On Monday, Interior Minister Laurent Nuñez <strong>acknowledged that police lost control</strong> in some metro areas during the weekend's far-left uprisings, in which rioters looted mom-and-pop and luxury stores, burned down buildings and clashed with police. President Emmanuel Macron rejected his offer to resign.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">🇫🇷 Rioters, deeply concerned about France’s education system, continue looting shops across the country <a href=\"https://t.co/jYMfTteudS\">https://t.co/jYMfTteudS</a></p> — Visegrád 24 (@visegrad24) <a href=\"https://x.com/visegrad24/status/2112150206582284460?ref_src=twsrc%5Etfw\">October 19, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><strong>Social unrest is only one part of the crisis</strong>. The other is fiscal, as French 10-year government bond yields jumped to 5% earlier this morning, the highest level since 2002.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204d7041.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204d7041.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"43aded6c-de0c-4099-9206-b72a7c2f6222\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204d7041.png\" /></a></p> <p>The bond market sees social unrest, an <strong>approaching credit-rating review later this week</strong>, and a deficit crisis as severe problems that may have paralyzed the Macron government.</p> <p>By the end of the week, <strong>Moody's is scheduled to review France's Aa3 rating</strong>, with a negative outlook already in place as the government struggles to pass its 2027 budget.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204dd4e7.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204dd4e7.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"07d6d5dc-3924-4ef9-a1b1-5da12f993e81\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204dd4e7.png\" /></a></p> <p>The 10-year yield spread between French and German government bonds has also risen to levels not seen since the Eurozone debt crisis. <strong>That spread neared 160 basis points earlier this morning</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204b5b9a.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204b5b9a.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f1f4d933-8056-41eb-9478-d68fb3445411\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_204b5b9a.png\" /></a></p> <p>If the current unrest and fiscal troubles persist, alongside mounting questions about how to fund the welfare state in a high-rate environment, this <strong>could easily scare more investors away</strong>. That seems to be the outcome at the moment without necessary fiscal reforms. </p> <p>Deutsche Bank senior economist Yacine Rouimi wrote in a note that <strong>France ranks as the most vulnerable economy among 18 euro-area countries because of sovereign debt crisis risks</strong>.</p> <p>Rouimi's gauge of EU countries at risk of economic turmoil covers public finances, external balances, private debt, banking resilience and the labor market.</p> <p>Ireland, Greece and Portugal have seen some of the biggest improvements since 2010. But <strong>France, Belgium and Finland have fallen in the wrong direction</strong>, only suggesting how <strong>France could become the epicenter if a Eurozone crisis 2.0 were to emerge. </strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-21_06-57-07.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-21_06-57-07.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"3f5a3aab-0b64-4b79-b961-5eab66de0554\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-21_06-57-07.png\" /></a></p> <p>Separately, Citigroup strategist Jamie Searle warned that <strong>\"OAT-Bunds broke yesterday\" and that the country-specific risk premium was in \"uncharted territory.\"</strong></p> <p>Searle said last weekend's social unrest has further <strong>complicated France's budget negotiations</strong>.</p> <p>Foreign investors in French government debt appear to be exiting...</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-21_06-57-36.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-21_06-57-36.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1cf49925-736d-4f31-8ef4-19024a56294e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/2026-10-21_06-57-36.png\" /></a></p> <p>\"<strong>Decades of uncontrolled public spending</strong> (France has not had a balanced budget since 1974) and years of 'whatever it takes' after the pandemic have pushed the public deficit to 5.4 percent of GDP this year. <strong>The national debt has reached 119 percent</strong>, its highest level since 1946, and keeps ballooning,\" Le Monde editorial director and FT columnist Sylvie Kauffmann wrote in the opinion piece.</p> <p>What should become more noticeable by <strong>now is that the unrest was likely spurred by far-left groups (as per Fox News' report) over the inevitable</strong> fate of the bloated welfare system. As Le Pen's shadow budget showed just weeks ago, France will have to make sizeable cuts and reduce government handouts to avoid a sovereign debt crisis that <strong>could unleash Eurozone crisis 2.0</strong>. In other words, a period of austerity would likely be needed, and this will certainly enrage the left even more.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T11:20:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/21/2026 - 07:20</span>",
-    "link": "https://www.zerohedge.com/political/french-bond-yields-explode-24-year-high-unrest-and-fiscal-crisis-collide",
-    "pubDate": "Wed, 21 Oct 2026 11:20:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Wall Street Set For Largest Bonuses In Industry History This Year",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Wall Street Set For Largest Bonuses In Industry History This Year</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>New York's financial industry is enjoying an extraordinary earnings boom, <em><strong>with profits potentially topping $90 billion this year and setting the stage for the biggest round of Wall Street bonuses on record</strong></em>, according to <a href=\"https://www.bloomberg.com/news/articles/2026-10-06/wall-street-eyes-record-bonuses-as-profit-heads-past-90-billion?srnd=homepage-americas\">Bloomberg</a>.</p> <p>According to a new analysis from State Comptroller Thomas DiNapoli, securities firms generated more money during the opening six months of 2026 than in any comparable period previously recorded. If that performance continues, the industry could blow past its $65.1 billion earnings record from 2025.</p> <p>Much of the surge has come from<strong> a revival in investment banking and exceptionally lucrative trading conditions.</strong> Revenue associated with underwriting jumped 68% in the first half, while advisory and account-management businesses posted a 16.4% increase. Goldman Sachs has been among the major beneficiaries, recently reporting $7.42 billion in quarterly stock-trading revenue, its third straight quarterly record in that business.</p> <p>Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2026-10-06/wall-street-eyes-record-bonuses-as-profit-heads-past-90-billion?srnd=homepage-americas\">writes</a> that the financial sector's success is <strong>providing a substantial boost to New York's employment figures and government finances.</strong> After reaching 207,400 workers last year, the industry is projected to expand its workforce by approximately 5,300 employees in 2026.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-08%20at%2008.24.11.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-08%20at%2008.24.11.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"4814299d-a5ed-47f5-8e34-a7c98a6c40e9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Screenshot%202026-10-08%20at%2008.24.11.jpg\" /></a></p> <p><strong>The state's dependence on Wall Street has also become increasingly pronounced. </strong>Securities-related business and individual income taxes delivered at least $26.3 billion to Albany during the 2025–2026 fiscal year, nearly 29% more than the prior year.</p> <p>For employees, the implications are <strong>particularly lucrative</strong>. Provided markets remain relatively stable, DiNapoli believes the industry's enormous earnings could translate into unprecedented year-end compensation and bonus distributions in early 2027.</p> <p>But the report also highlights a potential vulnerability beneath the financial windfall. Rising prices, international instability and technological changes associated with AI could eventually undermine the industry's performance.</p> <p>And because New York now collects so much of its revenue from financial-sector activity, <strong>a sharp reversal on Wall Street would have consequences extending well beyond bankers and traders. </strong>A significant decline in profitability could quickly translate into weaker tax collections, pressure on public budgets and broader economic difficulties throughout the region.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T10:55:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/21/2026 - 06:55</span>",
-    "link": "https://www.zerohedge.com/markets/unprecedented-90-billion-earnings-boom-may-result-largest-wall-street-bonuses-history",
-    "pubDate": "Wed, 21 Oct 2026 10:55:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "Franklin Templeton Warns: No One Is Ready For A Eurozone Debt Crisis 2.0",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Franklin Templeton Warns: No One Is Ready For A Eurozone Debt Crisis 2.0</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>New curfews in major French cities have helped contain the weeks of social unrest <a href=\"https://www.zerohedge.com/political/france-slaps-curfews-riot-plagued-cities-report-links-unrest-communists\">marked by far-left radicals and migrants</a> burning buildings, looting mom-and-pop and luxury stores, and clashing with police. President Emmanuel Macron's failing government <strong>still faces another emerging issue</strong>: an alarming debt burden and a welfare state on the brink of collapse, addicted to decades of large deficits.</p> <p>Franklin Templeton's chief investment officer for fixed income, Sonal Desai, warned<b> that deteriorating finances could ignite another euro-area debt crisis</b>, potentially harder to contain than the turmoil surrounding Greece.</p> <p>\"<b>France has more than 10 times the debt that Greece had,</b>\" Desai said in a webinar earlier today. \"<b>A simple bailout is not on the cards</b>.\"</p> <p>\"<b>I don't think anyone is really ready for a euro-zone debt crisis version 2.0</b>,\" Desai added. \"<b>This one could be significantly worse if it were to come to pass</b>.\"</p> <p>She said investors shouldn't underestimate the potential for \"<b>significant volatility</b>\" in EU government bond markets. She added that Franklin Templeton's bond portfolios are positioned toward shorter-duration assets in Italy and France but have longer-duration investments in Spanish and German debt.</p> <p>Earlier today, <b>French borrowing costs climbed</b> as investors demanded a larger premium to hold the nation's debt. This suggests mounting concerns over its debt load.</p> <p>The extra yield investors demand to hold <b>French 10-year bonds over German debt widened to 154 basis points</b>, the highest since early October. </p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1ce0ef5e.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1ce0ef5e.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"fa9b4761-1c08-49b1-97d1-2fd91e296ecf\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Snag_1ce0ef5e.png\" /></a></p> <p>\"<b>Bond markets now have much more choice over who they allocate to</b>,\" said Karen Ward, chief market strategist for EMEA at JPMorgan Asset Management. \"<b>What we're seeing in France is just the bond market having this all-powerful role of having other options</b>.\"</p> <p>Bloomberg pointed out <b>the possibility of European Central Bank intervention</b>. ECB Governing Council member Olli Rehn said that all euro-area countries, including France, <b>must bring deficits under control to ensure debt sustainability</b>.</p> <p>Jens Nordvig, president and co-founder of Vanda, warned earlier on Bloomberg TV that <b>French spreads could widen even more</b>.</p> <p>\"That cohesion, that political cooperation that is necessary for the bailout infrastructure to really work, is under pressure,\" Nordvig said.</p> <p><b>In what could signal what's to come</b>, US Treasury Secretary Scott Bessent said today that he doesn't anticipate a spillover from the French bond market.</p> <p>\"<strong>I don't anticipate a spillover from what's happening in France</strong>,\" Bessent said on conservative platform 2Way. \"The French have a tough hand, but President Macron's economic team, whom I know very well, are really first-rate.\"</p> <p><b>Next for France is to pare down the deficit</b>, including reductions in welfare spending, or, in other words, fewer government handouts. And perhaps that's the <strong>real reason</strong> why the far-left and migrants who have been hooked on free government money are really rioting, not schoolchildren whom corporate media narratives describe as angry about small classrooms.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">France roits Blacks burning the Paris <a href=\"https://t.co/FHkoeiPB5E\">https://t.co/FHkoeiPB5E</a></p> — mr villa (@marvelstanguy) <a href=\"https://x.com/marvelstanguy/status/2111768586738176371?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p> All of this has <strong>generated tailwinds in polling for common-sense, right-wing presidential candidate Marine Le Pen</strong>, as the Macron globalists see their <strong>progressive experiment embarrassingly implode</strong> for the world to see, offering yet another reminder that welfare states and unfettered mass migration are a deadly, nation-killing, toxic mix. </p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T09:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/21/2026 - 05:45</span>",
-    "link": "https://www.zerohedge.com/markets/franklin-templeton-warns-no-one-ready-eurozone-debt-crisis-20",
-    "pubDate": "Wed, 21 Oct 2026 09:45:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "BBC Game Rewards Kids For Supporting Open Borders",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">BBC Game Rewards Kids For Supporting Open Borders</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://modernity.news/2026/10/19/bbc-game-rewards-kids-for-supporting-open-borders/\">Authored by Steve Watson via Modernity.news</a>,</em></p> <p><strong>The BBC’s education platform, used by nearly 1.7 million schoolchildren every week, is gamifying open borders. In a Roblox-hosted game called <em>Increasing Immigration</em> aimed at pupils aged 11 to 14, choosing to deport migrants living in the UK without proper visas loses points on the economy and public health.</strong></p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/bbcgame.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/bbcgame.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ba19e012-739c-411e-97f2-b03bcf915d1c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/bbcgame.jpg\" /></a></p> <p>Players are warned: “This can be potentially dangerous for them [the immigrants]. Don’t expect this to be unchallenged!”</p> <p><strong>Grant them an amnesty instead and the message is clear.</strong> “This will make them very happy.” Economy and public health scores rise.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">BBC Bitesize is ‘indoctrinating’ and ‘brainwashing’ children. On @GBNEWS Here is what I’ve found ? <a href=\"https://t.co/qVezrC4kcf\">https://t.co/qVezrC4kcf</a></p> — Alex Armstrong (@Alexarmstrong) <a href=\"https://x.com/Alexarmstrong/status/2111923105249579195?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>A separate scenario tells geography pupils that allowing people to pass through the border easily “could really help grow our economy.” Selecting open borders yields three economy points and two public health points. Rejecting it as “too radical” scores nothing.</p> <p><strong>Instructions open with the claim: “We don’t have enough people of working age to keep our society running smoothly. We should try to attract migrant workers and incorporate them into our economy.”</strong></p> <p>Materials elsewhere state that concerns migrants will take jobs from locals “likely arises from prejudice.” The site lists twice as many benefits of migration as disadvantages.</p> <p>Housing set aside for migrants scores positively. Almost every option aligned with border control produces negative results.</p> <p><strong>BBC Bitesize is promoted by almost every UK state school and reaches half of children aged four to 16.</strong></p> <p><strong>Nick Timothy MP called it what it is.</strong></p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">This is indoctrination. Why are the BBC promoting open borders in a game for children? Deport illegal migrants and you lose points, but let them stay and a lawyer says it will make them “very happy.” I don’t care about making illegal migrants happy. They should be deported. And the BBC must take this game down.</p> — Nick Timothy MP (@NJ_Timothy) <a href=\"https://x.com/NJ_Timothy/status/2111828769937764512?ref_src=twsrc%5Etfw\">October 18, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Shadow Education Secretary Laura Trott demanded the game be removed. “The BBC has crossed a line. They have a duty to remain impartial, and yet they are using learning tools as a vehicle to push a Left-wing political agenda onto young children. Advocating open borders encourages illegal small boat crossings. These are the type of toxic resources dressed up as education which should be nowhere near the classroom.”</p> <p>Former Education Secretary Gavin Williamson was more direct: “The mask has slipped and the BBC has yet again betrayed its rampant Left-wing political agenda. The state broadcaster brainwashing children using a homework game is like something from a North Korean re-education camp.”</p> <p><strong>Alex Burghart, Shadow Cabinet Office Secretary, said the BBC was set up “to inform, educate and entertain – not misinform, re-educate and brainwash.”</strong></p> <p>Former BBC Television controller Danny Cohen called for an investigation: “The BBC needs to explain why its educational website is pushing extreme Left-wing ideologies to schoolchildren… There is such a lack of balance… it cannot be seriously defended as coincidental.”</p> <p>He added that “parents ought to be deeply concerned that the BBC is encouraging children to conform to extreme ideas such as open borders. It is yet another unacceptable failure of the BBC’s requirement to ensure impartiality.”</p> <p><strong>A BBC spokesman said the service works with educational consultants to align with curricula, does not accept the characterisation, regularly reviews content, and will review these examples.</strong> Director-general Matt Brittin has spoken of tools to monitor bias while the corporation faces charter renewal and declining licence-fee take-up.</p> <p>This is not an isolated homework tool. It sits inside a broader pattern of materials that treat border control and concern about rapid demographic change as the problem to be solved rather than a legitimate policy choice.</p> <p><strong>Schools have distributed worksheets that place critics of mass migration alongside Nazis.</strong></p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/10/08/school-indoctrinates-pupils-to-treat-critics-of-mass-migration-as-nazis/embed/\" style=\"display:block\" title=\"School INDOCTRINATES Pupils To Treat Critics Of Mass Migration As NAZIS\" width=\"600\"></iframe></p> <p>Government-funded games under the Prevent programme have warned children that researching immigration statistics, questioning job impacts, or protesting changes in Britain can place them on a pathway toward extremism referrals.</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/01/10/uk-government-video-game-warns-kids-theyre-terrorists-for-questioning-mass-migration/embed/\" style=\"display:block\" title=\"UK Government Video Game Warns Kids They May Be TERRORISTS For Questioning Mass Migration\" width=\"600\"></iframe></p> <p><strong>Classroom books have told primary pupils there is plenty of room for small-boat arrivals.</strong></p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/04/30/uk-schools-pushing-books-on-kids-telling-them-theres-plenty-of-room-for-small-boat-migrants/embed/\" style=\"display:block\" title=\"UK Schools Pushing Books On Kids Telling Them ‘There’s Plenty Of Room’ For Small Boat Migrants\" width=\"600\"></iframe></p> <p>The Green Party has proposed teaching materials that frame opposition to high migration levels in the same category as extremism.</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/03/19/you-wont-believe-what-the-uk-green-party-wants-to-teach-children/embed/\" style=\"display:block\" title=\"You Won’t Believe What The UK Green Party Wants To Teach Children…\" width=\"600\"></iframe></p> <p>BBC children’s output has given activist groups direct access to shape storylines, and its flagship soap has carried pro-migrant messaging produced with campaign input.</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/06/19/bbc-flagship-soap-being-used-to-push-pro-migrant-propaganda-by-activist-infiltrators/embed/\" style=\"display:block\" title=\"BBC Flagship Soap Being Used To Push Pro-Migrant Propaganda By Activist Infiltrators\" width=\"600\"></iframe></p> <p><strong>The same institution that docks points for deportation in a children’s game has previously handed external campaigners the ability to influence what young viewers see.</strong></p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/06/16/bbc-hands-soros-linked-pro-migrant-campaigners-direct-access-to-shape-childrens-show/embed/\" style=\"display:block\" title=\"BBC Hands SOROS-Linked Pro-Migrant Campaigners Direct Access To Shape Children’s Show\" width=\"600\"></iframe></p> <p>Welsh geography materials on Bitesize have asked whether technology can help deliver “a truly borderless world.”</p> <p><strong>Net Zero content encourages pupils to petition local government and change personal behaviour.</strong> Progressive icons and movements are presented positively while dissenting views on migration are labelled prejudice.</p> <p><strong>Parents and taxpayers are not required to accept that a licence-fee-funded service used for homework is the appropriate vehicle for teaching that controlling the border is the radical option.</strong> The pattern across schools, government programmes, and BBC output is consistent: materials that normalise high migration and treat opposition as prejudice or extremism. The game simply makes the scoring visible.</p> <p>The BBC says it will review the examples. Review is not the same as removal. Until the content is taken down or rewritten to present border control and amnesty as competing policy choices with equal weight and no predetermined point scores, the charge of one-sided instruction stands.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-21T09:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Wed, 10/21/2026 - 05:00</span>",
-    "link": "https://www.zerohedge.com/political/bbc-game-rewards-kids-supporting-open-borders",
-    "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
-    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
-    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "FTSE 100 Mixed As UK Inflation Hits One-Year High At 3.5%",
-    "desc": "(RTTNews) - U.K. stocks turned in a mixed performance on Wednesday as investors digested crucial economic data and looked ahead to a slew of corporate earnings announcements.",
-    "link": "https://www.nasdaq.com/articles/ftse-100-mixed-uk-inflation-hits-one-year-high-35",
-    "pubDate": "Wed, 21 Oct 2026 11:34:07 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Rare Earths vs. Copper: Should You Buy MP Materials or Freeport-McMoRan?",
-    "desc": "Key PointsRare-earth elements are crucial for magnets used in many modern technologies, while copper is a key metal in the power grid.",
-    "link": "https://www.nasdaq.com/articles/rare-earths-vs-copper-should-you-buy-mp-materials-or-freeport-mcmoran",
-    "pubDate": "Wed, 21 Oct 2026 11:34:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Westinghouse Air Brake Technologies Q3 26 Earnings Conference Call At 8:30 AM ET",
-    "desc": "(RTTNews) - Westinghouse Air Brake Technologies Corporation (WAB) will host a conference call at 8:30 AM ET on Oct. 21, 2026, to discuss Q3 26 earnings results.",
-    "link": "https://www.nasdaq.com/articles/westinghouse-air-brake-technologies-q3-26-earnings-conference-call-8-30-am-et",
-    "pubDate": "Wed, 21 Oct 2026 11:30:33 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Chubb Q3 26 Earnings Conference Call At 8:30 AM ET",
-    "desc": "(RTTNews) - Chubb Limited (CB) will host a conference call at 8:30 AM ET on October 21, 2026, to discuss Q3 26 earnings results.",
-    "link": "https://www.nasdaq.com/articles/chubb-q3-26-earnings-conference-call-8-30-am-et",
-    "pubDate": "Wed, 21 Oct 2026 11:30:32 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "CME Group Q3 26 Earnings Conference Call At 8:30 AM ET",
-    "desc": "(RTTNews) - CME Group, Inc. (CME) will host a conference call at 8:30 AM ET on October 21, 2026, to discuss Q3 26 earnings results.",
-    "link": "https://www.nasdaq.com/articles/cme-group-q3-26-earnings-conference-call-8-30-am-et",
-    "pubDate": "Wed, 21 Oct 2026 11:30:31 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Elevance Health Q3 26 Earnings Conference Call At 8:30 AM ET",
-    "desc": "(RTTNews) - Elevance Health Inc. (ELV) will host a conference call at 8:30 AM ET on October 21, 2026, to discuss Q3 26 earnings results.",
-    "link": "https://www.nasdaq.com/articles/elevance-health-q3-26-earnings-conference-call-8-30-am-et",
-    "pubDate": "Wed, 21 Oct 2026 11:30:18 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Washington Trust: 3 Key Takeaways for Long-Term Investors",
-    "desc": "Key PointsNet income reached $19.4 million, up $3.4 million from last quarter.",
-    "link": "https://www.nasdaq.com/articles/washington-trust-3-key-takeaways-long-term-investors",
-    "pubDate": "Wed, 21 Oct 2026 11:30:02 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Moody's Reaffirms FY26 Outlook - Update",
-    "desc": "(RTTNews) - While reporting financial results for the third quarter on Wednesday, Moody's Corp. (MCO) reaffirmed its earnings, adjusted earnings and revenue growth guidance range for the full-year 2026.",
-    "link": "https://www.nasdaq.com/articles/moodys-reaffirms-fy26-outlook-update",
-    "pubDate": "Wed, 21 Oct 2026 11:28:28 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Prediction: SpaceX Is About to Fleece Retail Investors, With Up to $180 Billion in Insider Sales Set to Hit the Tape",
-    "desc": "Key PointsElon Musk&rsquo;s artificial intelligence and space infrastructure goliath rewrote the stock market&rsquo;s record books on June 12.",
-    "link": "https://www.nasdaq.com/articles/prediction-spacex-about-fleece-retail-investors-180-billion-insider-sales-set-hit-tape",
-    "pubDate": "Wed, 21 Oct 2026 11:26:01 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Stifel Financial Corp. Q3 Profit Climbs",
-    "desc": "(RTTNews) - Stifel Financial Corp. (SF) released earnings for its third quarter that Increases, from last year",
-    "link": "https://www.nasdaq.com/articles/stifel-financial-corp-q3-profit-climbs",
-    "pubDate": "Wed, 21 Oct 2026 11:23:28 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Airbnb vs. Booking: Which Stock Is a Better Buy in 2026?",
-    "desc": "Key PointsAirbnb maintains its market dominance through a unique marketplace of over 9 million active listings across 220 countries.",
-    "link": "https://www.nasdaq.com/articles/airbnb-vs-booking-which-stock-better-buy-2026",
-    "pubDate": "Wed, 21 Oct 2026 11:23:02 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Northern Trust Earnings Up In Q3",
-    "desc": "(RTTNews) - Northern Trust Corp. (NTRS), a financial services company, on Wednesday reported higher net income in the third quarter compared with the previous year.",
-    "link": "https://www.nasdaq.com/articles/northern-trust-earnings-q3",
-    "pubDate": "Wed, 21 Oct 2026 11:22:30 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "NVIDIA To Expand Global Manufacturing Capacity To Meet AI Demand",
-    "desc": "(RTTNews) - NVIDIA Corp. (NVDA), an AI technology firm, on Wednesday announced that it is working with six supply chain partners to expand global manufacturing capacity to meet rising demand for AI infrastructure.",
-    "link": "https://www.nasdaq.com/articles/nvidia-expand-global-manufacturing-capacity-meet-ai-demand",
-    "pubDate": "Wed, 21 Oct 2026 11:21:33 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Target Unveils Holiday Gift Lineup, Introduces AI-powered Shopping Tools",
-    "desc": "(RTTNews) - U.S. retailer Target Corp. (TGT) announced on Wednesday that it would offer more than 8,000 new holiday gift items, more than half of them exclusive to the company, and will introduce new artificial intelligence-powered shopping features for customers.",
-    "link": "https://www.nasdaq.com/articles/target-unveils-holiday-gift-lineup-introduces-ai-powered-shopping-tools",
-    "pubDate": "Wed, 21 Oct 2026 11:18:35 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Trump&#8217;s remarkable mess on electric vehicles: How he made them more expensive and harder to find just as he went to war on Iran",
-    "desc": "Before the war, prices for used electric vehicles were still drifting down in the wake of the expired used EV federal tax credit. Then a run on EVs began.",
-    "link": "https://fortune.com/2026/10/21/trump-electric-vehicles-iran-war-tax-credit/",
-    "pubDate": "Wed, 21 Oct 2026 11:27:28 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Is Anthropic the IPO market’s last hope for 2026? The clock is ticking",
-    "desc": "More bad news in the IPO market this week, but Anthropic could just maybe turn the tide.",
-    "link": "https://fortune.com/2026/10/21/is-anthropic-ipo-markets-last-hope-2026/",
-    "pubDate": "Wed, 21 Oct 2026 11:23:56 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Beyond the UAE: Space42’s $1.7 billion bid to conquer new markets",
-    "desc": "With government clients still accounting for the bulk of its revenue, Space42 is betting on direct-to-device satellite connectivity, AI-driven geospatial intelligence and strategic acquisitions to broaden its commercial appeal and unlock new markets.",
-    "link": "https://fortune.com/2026/10/21/beyond-the-uae-space42s-1-7-billion-bid-to-go-global/",
-    "pubDate": "Wed, 21 Oct 2026 09:46:31 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Anthropic’s S-1 leaks (again)—here’s a look at the massive losses on the income statement",
-    "desc": "Everything you need to know before you reach the office this morning.",
-    "link": "https://fortune.com/2026/10/21/anthropic-s-1-leak-income-statement-ipo/",
-    "pubDate": "Wed, 21 Oct 2026 10:40:50 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
-    "desc": "The startup’s valuation has nearly doubled in two months as AI coding tools flood companies with more code than their testing systems can handle.",
-    "link": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
-    "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Ken Griffin says Trump&#8217;s plan for America First was always doomed to fail: &#8216;Most people don&#8217;t want to live that dream&#8217;",
-    "desc": "\"To be blunt, like, I hate to say it, but I've been right.\"",
-    "link": "https://fortune.com/2026/10/21/ken-griffin-trump-american-dream-factories-jobs-manufacturing/",
-    "pubDate": "Wed, 21 Oct 2026 10:59:17 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Tech futures rise in premarket trading as SpaceX stock rockets overnight—and Wells Fargo’s ‘buy’ signal is triggered",
-    "desc": "Nasdaq futures were up 0.43% after SpaceX reported Q3 earnings that solidly beat analysts’ expectations",
-    "link": "https://fortune.com/2026/10/21/tech-futures-rise-premarket-trading-spacex-stock-rockets-overnight-wells-fargos-buy-signal-triggered/",
-    "pubDate": "Wed, 21 Oct 2026 10:35:44 +0000",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Philip Morris tops quarterly estimates on nicotine pouch and tobacco prices",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/philip-morris-beats-thirdquarter-estimates-on-smokefree-product-demand-4962569",
-    "pubDate": "2026-10-21 11:36:22",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Amkor Technology stock surging today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-amkor-technology-stock-surging-today-93CH-4962636",
-    "pubDate": "2026-10-21 11:36:01",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Amkor Technology stock jumps on Nvidia advanced packaging expansion",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/amkor-technology-stock-jumps-on-nvidia-advanced-packaging-expansion-4962593",
-    "pubDate": "2026-10-21 11:28:38",
-    "fetchedAt": "2026-10-21T12:01:34.148Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Vertiv shares fall for 11th day, marking longest losing streak",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/vertiv-shares-fall-for-11th-day-marking-longest-losing-streak-93CH-4962591",
-    "pubDate": "2026-10-21 11:28:05",
     "fetchedAt": "2026-10-21T12:01:34.148Z"
   }
 ]
