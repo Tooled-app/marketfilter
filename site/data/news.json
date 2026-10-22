@@ -1,6 +1,486 @@
 [
   {
     "source": "cnbc",
+    "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative",
+    "desc": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+    "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "pubDate": "Thu, 22 Oct 2026 18:38:31 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+    "desc": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+    "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+    "pubDate": "Thu, 22 Oct 2026 18:51:01 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+    "desc": "",
+    "link": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+    "pubDate": "Thu, 22 Oct 2026 19:00:48 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+    "desc": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+    "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+    "pubDate": "Thu, 22 Oct 2026 18:52:53 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "AI debt and French bonds face a stress test — why it may not be over",
+    "desc": "Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.",
+    "link": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
+    "pubDate": "Thu, 22 Oct 2026 18:13:37 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "cnbc",
+    "title": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+    "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+    "pubDate": "Thu, 22 Oct 2026 18:23:05 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+    "desc": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 22 Oct 2026 18:26:56 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "bbc",
+    "title": "Children in care to get £10 a week savings",
+    "desc": "Eligible people in the care system will be able to access the savings once they turn 18.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&amp;at_campaign=rss",
+    "pubDate": "Thu, 22 Oct 2026 06:57:45 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "CDW stock hits 52-week high at 161.1 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/cdw-stock-hits-52week-high-at-1611-usd-93CH-4967204",
+    "pubDate": "2026-10-22 18:52:12",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
+    "pubDate": "2026-10-22 18:51:43",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Yen jumps as oil, AI and France worries rattle markets",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus-4964546",
+    "pubDate": "2026-10-22 18:48:44",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Independence Gold increases private placement to $6.25 million",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/independence-gold-increases-private-placement-to-625-million-93CH-4967201",
+    "pubDate": "2026-10-22 18:48:37",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
+    "pubDate": "2026-10-22 18:48:24",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Roper Technologies stock surging today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
+    "pubDate": "2026-10-22 18:47:53",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is GE Vernova stock tumbling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
+    "pubDate": "2026-10-22 18:41:26",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "UZE stock hits 52-week low at 15.21 USD",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
+    "pubDate": "2026-10-22 18:39:44",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Northrim receives shareholder approval for PBCO acquisition",
+    "desc": "",
+    "link": "https://www.investing.com/news/company-news/northrim-receives-shareholder-approval-for-pbco-acquisition-93CH-4967190",
+    "pubDate": "2026-10-22 18:38:58",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investing",
+    "title": "Why is Parker-Hannifin stock tumbling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-parkerhannifin-stock-tumbling-today-93CH-4967189",
+    "pubDate": "2026-10-22 18:38:53",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "marketwatch",
+    "title": "Moderna&#x2019;s stock tumbles after reported leak of data for cancer vaccine",
+    "desc": "Moderna and Merck are expected to share the Phase 3 data for their experimental cancer vaccine this weekend at a medical conference.",
+    "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+    "pubDate": "Thu, 22 Oct 2026 18:35:00 GMT",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Evergy, CenterPoint, Talen Energy started with Buy ratings at TD Cowen",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656135-evergy-centerpoint-talen-energy-started-with-buy-ratings-at-td-cowen?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:55:34 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Juniata Valley Financial raises dividend by 1.1% to $0.2225/share",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656144-juniata-valley-financial-raises-dividend-by-11-to-02225share?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:51:03 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "JetBlue hits record low as Wall Street braces for fuel-driven pressure on Q3 results",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656139-jetblue-hits-record-low-as-wall-street-braces-for-fuel-driven-pressure-on-q3-results?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:46:23 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Trump asks Musk to restore Starlink speeds in Ukraine amid Pentagon concerns: WSJ",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656134-trump-asks-musk-to-restore-starlink-speeds-in-ukraine-amid-pentagon-concerns-wsj?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:39:00 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Blackstone anticipates a significant Q4 step-up in net realizations while targeting return to double-digit base management fee growth in 2027",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656138-blackstone-anticipates-a-significant-q4-step-up-in-net-realizations-while-targeting-return-to?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:38:52 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "First American outlines plan to run majority of direct revenue through Endpoint by end of 2027 amid &#x201C;lower for longer&#x201D; residential environment",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656137-first-american-outlines-plan-to-run-majority-of-direct-revenue-through-endpoint-by-end-of?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:38:50 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Kaiser Aluminum signals 2026 free cash flow to exceed $200M while maintaining ~45% EBITDA growth outlook",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656136-kaiser-aluminum-signals-2026-free-cash-flow-to-exceed-200m-while-maintaining-45-percent?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Thu, 22 Oct 2026 14:38:42 -0400",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Update: Equities Slide Intraday as AI Spending Concerns Drive Tech Sell-Off",
+    "desc": "(Updates with latest market prices and developments.) US benchmark equity indexes declined as ren",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-slide-intraday-ai-spending-181625216.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 18:16:25 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Does The Market Want From Lowe's Stock?",
+    "desc": "For questions about this article or underlying research, email help@trefis.com.",
+    "link": "https://www.trefis.com/articles/619944/what-does-the-market-want-from-lowes-stock/2026-10-22?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 18:19:21 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "What Okta (OKTA)'s AI Identity Push Means For Shareholders",
+    "desc": "Okta recently gained attention after a trading session where it outpaced the S&P 500, with investors focused on its upcoming earnings release and current projections for higher earnings and revenue compared with the prior year. The business is also drawing interest for its work in securing AI agent identities as enterprises roll out autonomous software, which is contributing to growing institutional attention and a stronger perception of Okta’s long term role in identity security. In the...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-ai-identity-push-181423652.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 18:14:23 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "yahoo",
+    "title": "Sector Update: Energy Stocks Decline Thursday Afternoon",
+    "desc": "Energy stocks were lower Thursday afternoon, with the NYSE Energy Sector Index falling 1% and the St",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-thursday-175318835.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 17:53:18 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Sell The Bailout: Skydance Tumbles As Musk's $1 Billion Check Reminds Everyone Paramount Needs One",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Sell The Bailout: Skydance Tumbles As Musk's $1 Billion Check Reminds Everyone Paramount Needs One</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>It took about ten minutes.</p> <p>Just after noon on Thursday, <a href=\"https://www.bloomberg.com/news/articles/2026-10-22/musk-has-invested-1-billion-in-skydance-semafor-reports\">Semafor reported</a> that Elon Musk has invested roughly <b>$1 billion in Skydance (SKYD)</b>, the newly renamed Paramount-Warner Bros. Discovery combo run by David Ellison. The stock did what stocks are supposed to do on a billionaire endorsement and spiked to $8.46, <b>up 7.5% on the day</b>. Then traders actually thought about it, and by 12:10pm the shares had been <b>halted for volatility</b> after tumbling, before printing a low of $7.53 once trading resumed, <b>11% below the post-headline spike</b>.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">*SKYDANCE HALTED FOR VOLATILITY AFTER SHARES TURN NEGATIVE (narrator: \"not up\")</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2113302587546218522?ref_src=twsrc%5Etfw\">October 22, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/SKYD%20move.png\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/SKYD%20move.png\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8cc08ca0-ac5c-4ff2-9913-2ab0a1d5e28e\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/SKYD%20move.png\" /></a></p> <p>Our own read of the headline was about as succinct as it gets:</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Market: \"wait, Paramount needs a bailout?\"</p> — zerohedge (@zerohedge) <a href=\"https://x.com/zerohedge/status/2113302762888855735?ref_src=twsrc%5Etfw\">October 22, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Which, well, is probably the right question. Because while equity investors had been hoping for a white knight, credit investors have spent the past three weeks pricing Skydance like a company that would very soon need one.</p> <h2>The CDS Market Already Knew</h2> <p>Regular readers know we have been all over the Skydance capital structure since the deal financing hit the tape. On October 1, we documented how <a href=\"https://www.zerohedge.com/markets/cycles-txu-paramounts-record-bond-offering-sinks-ink-dry\">Paramount's record $52 billion bond offering sank before the ink was dry</a>, with the 8-year second-lien notes trading around 95 within a day of pricing at par, and 5Y CDS jumping to 432bp, the highest since April 2009. Five days later, as the Warner deal closed, Fitch sent the old Paramount unsecured paper to the back of the line behind ~$57 billion of new secured debt, and the legacy 6.875% 2036s <a href=\"https://zerohedge.com/markets/skyfall-fitch-downgrade-sends-legacy-paramount-bonds-record-low-merger-closes\">plunged to a record low of 77 cents</a>.</p> <p>It was all downhill from there: Paramount CDS <a href=\"https://x.com/zerohedge/status/2107871348596830585\">soared to Global Financial Crisis levels</a> on October 7, <a href=\"https://x.com/zerohedge/status/2110479216865091761\">took out the Lehman highs</a> on October 14 and, on Tuesday night, <b>we <a href=\"https://x.com/zerohedge/status/2112744023152525407\">put out this chart</a> showing 5Y CDS at a new all-time record of 601bp</b>, comfortably above anything on record.</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/SKYD.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/SKYD.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bd60b45d-1f7e-475e-81d5-3e8fc64972c4\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/SKYD.jpg\" /></a></figure><p>Put differently, <i><b>the credit market has been screaming for weeks that Skydance has too much debt and not enough equity</b></i>. So when the solution to that problem turned out to be a $1 billion check, it maybe shouldn't come as a surprise that equity holders reached the same conclusion as the CDS desks: if the company is raising emergency-sized equity from friends of the family, there must be an emergency.</p> <h2>Malone Promised $10 Billion. Musk Sent One</h2> <p>The other problem is that the market had been primed for a much bigger number. Just one day earlier, billionaire media mogul John Malone told the Paley International Council Summit that a Musk investment was coming, and that it would be big:</p> <blockquote>\"Who helped Elon finance Twitter when he bought it? Larry Ellison. How did Larry Ellison come up with some of the money to put into the creation of Skydance? Tesla stock. <b>And I would not doubt for a minute that before very long you're gonna see an announcement.</b>\"</blockquote> <p>Malone was right about the announcement, but he pegged the check at <b>$8 billion to $10 billion</b>. Musk delivered about one-tenth of that. Against Skydance's roughly <b>$87 billion of total debt</b>, the Musk money comes to a little over 1%, or about the same weight as a rounding error in the company's synergy targets.</p> <figure><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/drop%20in%20bucket.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/drop%20in%20bucket.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"89d80a4c-2436-4c9c-b0ea-6bd89d4845b1\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/drop%20in%20bucket.jpg\" /></a></figure><p>Some napkin math: the fixed-rate notes sold in the deal financing alone carry about $3.3 billion a year in coupons, and the ~$9.5 billion of term loans at SOFR+275 add maybe another $650 million. Call it $4 billion a year in interest on the acquisition debt, which means <b><i>Musk's $1 billion covers roughly one quarter's worth of interest</i></b>. Generous, sure. Transformational, not quite.</p> <p>Per Semafor, the Musk money came in around the same time as fresh equity from Skydance's other investors, including board member Laurene Powell Jobs, though neither the size of those checks nor the price paid has been disclosed (and if the price had been flattering, we suspect someone would have mentioned it). Skydance declined to comment and Musk's camp didn't respond.</p> <h2>Who Needs The Money, Anyway?</h2> <p>None of this should be news to anyone who has followed the saga. When Semafor first reported back in September that <a href=\"https://www.zerohedge.com/political/panic-cnn-paramount-seeks-elon-musk-equity-investment\">Paramount was weighing tapping Musk for an equity check</a> (Sep 24), the stated rationale was to \"reduce Larry Ellison's financial burden\" after the Oracle founder personally guaranteed <b>more than $40 billion</b> of the equity financing. Fitch, for its part, made it clear in its rating action timed to the close that hitting the company's 3x net leverage target by the end of 2029 would likely require issuing equity or selling assets on top of the promised $6 billion in cost cuts.</p> <p>So here is the equity. A very small amount of it.</p> <p>Meanwhile, the stock has been a one-way trip since the merger closed. Skydance ended October 6 at $9.53 and is now trading around $7.80, a drop of about 18% (some of that is the October 14 warrant distribution, which knocked 16% off the price as shares started trading ex-warrant, so the damage is less dramatic than it looks, but only a bit). That said, the real story is in credit, where the equity drawdown is a sideshow next to bonds at record lows and CDS above Lehman.</p> <p>And there is one more wrinkle that we flagged when CDS first took out the 2008 highs: how much of this is effectively cross-collateralized with Larry Ellison and, by extension, Oracle (ORCL), whose own CDS was <a href=\"https://x.com/zerohedge/status/2107940154975330394\">hitting record highs at the same time</a>? With the Ellison family on the hook for a big chunk of Skydance's equity and Oracle's balance sheet already stretched by the AI capex binge, a little outside help is probably welcome. A little is what it got.</p> <h2>Friends With Benefits</h2> <p>Of course, there is more to the Musk check than finance. The world's richest man, who already owns X, now has a stake in the parent of CNN and CBS, and the Ellisons, via Oracle, are part owners of TikTok's US operations. Semafor's original September scoop was enough to cause <a href=\"https://www.zerohedge.com/political/panic-cnn-paramount-seeks-elon-musk-equity-investment\">panic at CNN</a>; today's confirmation will probably do the same, even though David Ellison has insisted the newsrooms will stay editorially independent. Given how many times CNN has warned its viewers about Elon Musk, there is a certain poetry in Musk now being one of its shareholders.</p> <p>Markets, however, trade the debt stack, and the debt stack says <b>Skydance needs a lot more than $1 billion</b>. If anything, today's tape suggests that each new \"vote of confidence\" <strong>will be read as a sign of how much more is needed</strong>, which is why we suspect this check is the first of several, and that the next one will have to be far closer to Malone's number than Musk's.</p> <p>Until then, the CDS market will keep its own counsel. It hasn't been wrong yet.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T18:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 14:15</span>",
+    "link": "https://www.zerohedge.com/markets/sell-bailout-skydance-tumbles-musks-1-billion-check-reminds-everyone-paramount-needs-one",
+    "pubDate": "Thu, 22 Oct 2026 18:15:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Iran Deploys Artillery, Troops To Kurdish Border Areas Amid Renewed War Fears",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Iran Deploys Artillery, Troops To Kurdish Border Areas Amid Renewed War Fears</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><section id=\"section-0\"><p>Kurdish and Middle East regional news sources are saying<strong> Iran's military is building up artillery and personnel in the country's northwest Kurdish regions bordering Iraq amid an intensifying crackdown on Kurdish opposition groups</strong>, and as Israel and the US threaten new attacks.</p> <p>In particular, the <a href=\"https://iranwire.com/en/news/158958-heavy-clashes-reported-between-pjak-and-irgc-in-shaho-mountains/\">Kurdistan Free Life Party (PJAK)</a> is being targeted, amid reports of recent clashes with security forces in the Shaho Mountains and other areas along the border with Iraqi Kurdistan.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kurdsfile.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kurdsfile.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"e01d3e06-257f-4298-96b2-7afb071165b6\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/kurdsfile.jpg\" /></a> <figcaption><em>Getty Images</em></figcaption></figure><p>The Kurdish population of Iran is a <strong>very sizeable minority of the country</strong>, commonly estimated at 10-15 million people primarily living in the northwestern and western areas of the country. Millions of Kurds also live on the Iraqi side of the border </p> <p>There's been an intensified target on Kurdish dissident groups given that in the opening months of Trump's Operation Epic Fury, US and Israeli officials <strong>openly talked about arming Kurdish groups along the Iran-Iraq border area</strong>.</p> <p>Some reports said this external covert weaponization and funding campaign in order to put pressure on Tehran was already in full swing, but a slew of Kurdish political leaders in Iraq vehemently denied the reports.</p> <p><em>Rudaw</em> news <a href=\"https://rudaw.net/english/categories/iran/1079839\">reports</a> from Irbil, \"Iran has deployed artillery and heavy weaponry to Kurdish areas in the west of the country amid growing fears of a wider conflict with Israel and the United States, as the Islamic Revolutionary Guard Corps (IRGC) intensifies operations against armed opposition groups along the country's western and southeastern frontiers.\"</p> <p>According to more from the Kurdish media <a href=\"https://rudaw.net/english/categories/iran/1079839\">report</a>:</p> <blockquote> <p><em>The Kurdistan Human Rights Network (KHRN) reported late Wednesday that IRGC forces and military convoys carrying heavy and semi-heavy weapons had been deployed from other provinces to several cities in Iran's Kurdish region, including Sanandaj, Kamyaran, Sarvabad, Marivan and Baneh.<br /><br /> An informed source in Kamyaran told the rights network that \"<strong>hundreds of IRGC special forces, believed to be members of the entity's Saberin Unit, have been dispatched over the past few weeks in military convoys to areas surrounding villages on the slopes of Mount Shaho in Kamyaran County</strong>.<strong>\"</strong></em></p> </blockquote> <p>There have been prior reports of sporadic drone activity and artillery fire in the areas of Shaho and Marivan.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kurdishmap.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/kurdishmap.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"2c0429d8-d2c1-441e-94dd-f253b1791660\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/kurdishmap.jpg\" /></a> <figcaption><em>via Voice of America</em></figcaption></figure></section><p>These flare-ups have long predated the current US-Iran war, but the heightened state of alert and growing temperature of the region could bring an intensification to Tehran's anti-Kurdish opposition crackdown.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T18:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 14:00</span>",
+    "link": "https://www.zerohedge.com/geopolitical/iran-deploys-heavy-weaponry-troops-kurdish-border-areas-amid-renewed-war-fears",
+    "pubDate": "Thu, 22 Oct 2026 18:00:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Virginia Governor Seeks 6-Year Rate-Freeze If Dominion-NextEra Merger Is Approved",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Virginia Governor Seeks 6-Year Rate-Freeze If Dominion-NextEra Merger Is Approved</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em>By Charles Paullin of <a href=\"https://www.utilitydive.com/news/virginia-governor-seeks-6-year-rate-freeze-if-dominion-nextera-merger-is-ap/833478/\">UtilityDive</a></em></p> <p>Virginia Gov. Abigail Spanberger, D, has <strong>proposed a six-year rate freeze</strong> as part of a suite of conditions she says state regulators should impose if they approve <a href=\"https://www.utilitydive.com/news/nextera-dominion-merger-would-create-worlds-largest-regulated-electric-ut/820457/\">a proposed merger</a> between Dominion Energy and NextEra Energy that could create the largest regulated electric utility in the world.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/spanberger.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/spanberger.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"c1475f8d-e24a-49a0-9ed0-cb8bc1ca9965\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/spanberger.jpg\" /></a></p> <p>Spanberger’s stance comes amid review of the $67 billion merger that has prompted intense pushback from other state <a href=\"https://www.utilitydive.com/news/virginia-lt-gov-announces-opposition-to-dominion-nextera-merger/832369/\">officials</a> and local <a href=\"https://www.utilitydive.com/news/local-hearing-dominion-nextera-merger-rates-data-centers/832739/\">communities</a>.</p> <p>“Any proposed merger involving Virginia’s primary state-regulated utility must benefit families, small businesses, and Virginia’s workforce — not just the shareholders of these multi-billion-dollar corporations,” Spanberger said in a statement Monday.</p> <p>“That’s why I am calling for a six-year freeze to Virginians’ base residential electricity rates, a tripling of monthly bill credits for ratepayers, and additional commitments to lower energy costs and meet our long-term clean and homegrown energy goals if the State Corporation Commission is to approve this merger,” she added. </p> <p>Expert witness testimony filed by Spanberger’s office with the State Corporation Commission <strong>outlined a plan to increase monthly bill credits to $29 a month for four years, as well as increasing the debt share of Dominion’s capital structure from 48% to 60% to lower its rate of return.</strong></p> <p>The witness, Richard McCann, an environmental consultant with M.Cubed, also called for requiring a “probability of dispatch” cost allocation method, improving disconnection policies and several other energy efficiency and clean energy commitments. </p> <p>“Mandatory, Comprehensive Enforceability provisions must be imposed to hold the Joint Petitioners fully accountable for any violation of commitments, including the labor and workforce commitments,” wrote McCann. “Unless these additional commitments are substantially addressed or alternative solutions are identified, the Commission should reject the joint petition.”</p> <p>The filings coincide with filings from Virginia’s <a href=\"https://www.scc.virginia.gov/docketsearch/DOCS/8f7y01!.PDF\">attorney general</a> and SCC <a href=\"https://www.scc.virginia.gov/docketsearch/DOCS/8f7301!.PDF\">staff</a> opposing the deal unless terms they propose are also agreed to. </p> <p>Dominion and NextEra proposed the merger in May, saying it would facilitate a more cost-effective buildout of Virginia’s electric grid to serve rising demand from large-load data centers. </p> <p>The utilities initially proposed customer bill credits amounting to $10 a month for two years. But as pushback mounted, including from Lt. Gov. Ghazala Hashmi, the utilities increased the proposed timeline to four years. The utilities also made assurances for more clean energy, in line with the state’s decarbonization law, the Virginia Clean Economy Act. </p> <p><strong>“As expected in a proceeding of this size and significance, today’s testimony reflects a wide range of viewpoints and interests,” </strong>Dominion and NextEra said in a joint statement following the governor’s announcement. “We are reviewing the filings and will address the issues raised through the Commission’s established process.”</p> <p>Spanberger plans to hold a call with the media Tuesday afternoon to discuss her proposal.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T17:45:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 13:45</span>",
+    "link": "https://www.zerohedge.com/markets/virginia-governor-seeks-6-year-tate-freeze-if-dominion-nextera-merger-approved",
+    "pubDate": "Thu, 22 Oct 2026 17:45:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "Trump Calls On Data Center Developers To Pay Communities A Dividend",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Trump Calls On Data Center Developers To Pay Communities A Dividend</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://www.theepochtimes.com/us/trump-calls-on-data-center-developers-to-pay-communities-a-dividend-6106957?utm_source=partner&utm_campaign=ZeroHedge\">Authored by Chris Summers via The Epoch Times</a>,</em></p> <p>President Donald Trump has suggested that companies building data centers in the United States <strong>should offer local communities a dividend to make them more popular</strong>.</p> <p>“<strong>If companies want to make their Data Centers popular, pay the community,</strong> and/or individuals within the community, a ‘dividend,’” Trump said in a Truth Social post on Wednesday.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-22T085723.432.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-22T085723.432.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"7c04fd23-58fe-4ca3-a4c5-da16875ea0a9\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/image%20-%202026-10-22T085723.432.jpg\" /></a></p> <p>New data centers, which are required to fuel the growth of artificial intelligence (AI), <strong>have become politically controversial in some areas because of the amount of electricity and water they consume</strong>.</p> <p>Local resistance blocked or delayed at least 75 data center projects, worth $130 billion, in the first quarter of 2026, according to Data Center Watch.</p> <p>The Trump administration has supported AI, and the president <a href=\"https://www.theepochtimes.com/world/trump-rejects-global-controls-over-ai-renames-it-super-intelligence-6093444\">said</a> last month that <strong>U.S. government documents would start referring to it as “super intelligence.”</strong></p> <p>On Oct. 4, Trump announced the creation of the Super Intelligence Force to coordinate federal efforts to maintain the United States’ lead over China in AI technology.</p> <p>“As the President of the United States, <strong>I have been watching Data Centers very closely, and have come to a very strong conclusion</strong>,” Trump wrote on Wednesday.</p> <p>“New and large, in some cases gigantic, Data Centers are mandated by me to make their own electricity, and give or sell any excess back to the local community, or grid, and therefore there is [an] electric price increase. In fact, there could be a substantial decrease.”</p> <h2>‘Get Them Built’: Trump</h2> <p><strong>“MAKE DEALS, and get them built!!! GREAT FOR THE U.S.A,”</strong> Trump also wrote.</p> <p>In February, during his State of the Union address, Trump <a href=\"https://www.theepochtimes.com/us/trump-to-announce-data-center-electricity-deal-with-big-tech-during-state-of-the-union-5990113\">said</a> his administration had secured agreements with tech companies to pay a greater share of the costs electric utilities—and their residential customers—incur when data centers and other high-tech “large load” users boost demand and strain supply.</p> <p>Trump introduced what he called “a rate payer protection pledge” in which tech companies, or “hyperscalers,” <strong>agree to pay more for the electricity they use to power data centers</strong> and vow to “pay their own way” so their high demand for electricity doesn’t affect utility customers’ bills.</p> <p>The president said he supports “co-location” of new energy sources and data centers to accelerate AI infrastructure buildout through initiatives that fast-track permits, reduce regulatory hurdles, and make federal land available for these projects.</p> <p>Meta has agreed to build a data center on the site of a planned 400-megawatt natural gas plant in New Albany, Ohio, and Google has partnered with Intersect Power to build co-located data centers in so-called energy parks alongside solar and storage generation in a nationwide $20 billion venture.</p> <p>But how data center development affects residential consumer rates is hotly debated and <strong>will likely be an issue in the 2026 midterm elections, including in dozens of House races</strong>.</p> <p>Evidence <a href=\"https://www.theepochtimes.com/article/in-race-for-ai-dominance-china-fans-disinformation-in-america-6070008\">shows</a> that the Chinese regime is seeking to use the issue of data centers to sow division.</p> <p>Cleo Paskal, a senior fellow at the Foundation for Defense of Democracies, previously told The Epoch Times that while energy availability and water depletion were real issues, <strong>the Chinese Communist Party (CCP) was trying to exploit them to block data centers</strong>.</p> <p>“But it’s also a real issue that the Chinese Communist Party is perfectly happy to exacerbate to create even more division with the goal not of leading to any solution, but of paralyzing the United States,” she said.</p> <p><strong>OpenAI has accused CCP influence operators of jumping on the data center bandwagon.</strong></p> <p>“The targeting of OpenAI and US data center buildouts is significant not because the operation appears to have shifted public opinion, but because it shows [People’s Republic of China]-origin influence operators testing narratives against AI infrastructure—a foundation of US technological leadership, economic growth and the broader democratic AI ecosystem,” the company said in a report published in June.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T17:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 13:15</span>",
+    "link": "https://www.zerohedge.com/political/trump-calls-data-center-developers-pay-communities-dividend",
+    "pubDate": "Thu, 22 Oct 2026 17:15:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "zerohedge",
+    "title": "\"Gotten Too Old Not To Be Greedy\": Virginia State Sen. Arrested, Accused Of Masterminding $4.5 Million Criminal Drug Enterprise",
+    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">\"Gotten Too Old Not To Be Greedy\": Virginia State Sen. Arrested, Accused Of Masterminding $4.5 Million Criminal Drug Enterprise</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p>Virginia's Democratic Senate President Pro Tempore L. Louise Lucas, 82, has been indicted by a federal grand jury and taken into federal custody on charges of <strong>racketeering conspiracy, conspiracy to distribute marijuana, money laundering, honest-services fraud/bribery, and maintaining a drug-involved premises.</strong> Six co-defendants, including her daughters and grandson, were also charged. FBI Director Kash Patel put the alleged scheme at roughly<strong> $4.5 million</strong>.</p> <p><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/TVP-L-NW-NEW-HR-DELS-0219-KW-31_6eb4c1_jpg.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/TVP-L-NW-NEW-HR-DELS-0219-KW-31_6eb4c1_jpg.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"441ccafe-d8ef-4fa4-a12d-249810180784\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/TVP-L-NW-NEW-HR-DELS-0219-KW-31_6eb4c1_jpg.jpg\" /></a></p> <p>The 45-page indictment unsealed Thursday in the Eastern District of Virginia alleges that Lucas led a multi-year \"Lucas Enterprise\" that, since at least 2019, acquired and distributed at least 100 kilograms of illegal marijuana, laundered the proceeds through various business entities, and used her official power to protect the operation while shaping cannabis legislation for personal gain. Lucas self-surrendered Thursday morning and faces an initial appearance before a federal magistrate judge. All defendants are reported to be in custody.</p> <h2>Who She Is and How the Probe Unfolded</h2> <p>Lucas has represented Portsmouth since 1991 and has served as Senate President Pro Tempore and Chair of the Finance and Appropriations Committee - the most powerful budget post in the chamber. She is a longtime, outspoken advocate for marijuana legalization who sponsored key bills and co-owns The Cannabis Outlet, a Portsmouth shop that sells hemp and cannabis products. She is a close ally of Governor Abigail Spanberger and played a central role in Democrats' 2026 redistricting effort that sought to add Democratic-leaning congressional seats before it was blocked by the Virginia Supreme Court.</p> <iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/IrnxPgTUyq8?si=9_SoU2OFktuEShb1&start=37\" title=\"YouTube video player\" width=\"560\"></iframe> <p>The case became public on May 6, 2026, when the FBI executed court-authorized search warrants at Lucas's Portsmouth district office (which also houses her disabilities-services business, Lucas Lodge LLC) and at The Cannabis Outlet next door. Agents recovered marijuana and firearms from both locations. At the time, Lucas publicly described the raids as political intimidation. Federal sources told Fox News the searches were part of a major corruption probe. <strong>The underlying investigation itself predates the current administration and was opened under President Biden.</strong> Wiretaps were active for months; at least one Democratic congressman and a local reporter later received notices that their communications with Lucas had been intercepted.</p> <p>Via Wavy.com:</p> <blockquote> <p>The response was described as “court-authorized law enforcement activity,” according to FBI Public Affairs Specialist Cassandra Temple. She could not offer additional information.</p> <p>A spokesperson for the FBI later elaborated in the following statement to WAVY: “The FBI is executing a court-authorized federal search warrant in Portsmouth, VA. There is no threat to public safety. This is an ongoing investigation, and no further information is publicly available at this time.”</p> </blockquote> <iframe allow=\"autoplay; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"281\" scrolling=\"no\" src=\"https://redir1.wavy.com/nxs-video/vid-anvato-11768208/embed/?autoplay=0&injected_via=embed&post_id=3114270&aspect_ratio=landscape\" title=\"WAVY — FBI raids State Sen. Lucas' Offices\" width=\"500\"></iframe> <h2>The Allegations</h2> <p>Prosecutors say Lucas directed the purchase and sale of large quantities of illegal marijuana under the cover of her licensed medical-cannabis business and used her legislative position to \"insulate the enterprise from criminal scrutiny and influenc[e] legislation to financially benefit themselves.\"</p> <p>A central allegation involves an August 2022 payment of $750,000 by Lucas for a 100% stake in a shell holding company created so a co-conspirator could obtain a Virginia recreational marijuana license. She allegedly failed to disclose this interest on required Statements of Economic Interests. She is also accused of receiving a bribery payment from the co-conspirator and of meeting with him at her Capitol office to discuss partial repayment while lobbying other legislators on the license.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Image-1_jpg.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/Image-1_jpg.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"51ab8cf4-1719-47e2-87d2-28acc2db560c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/Image-1_jpg.jpg\" /></a> <figcaption><em>Via wavy.com</em></figcaption></figure><p>Intercepted calls are explicit. In February 2026 Lucas told an unindicted co-conspirator this was their \"last chance at generational wealth\" and added, <strong>\"I've gotten too old to not be greedy.\"</strong> In another call she reportedly said she needed the recreational market to open because \"when I did it, it was obviously illegal.\" She had earlier told a co-conspirator she wanted a recreational license specifically \"to create generational wealth for her and her family\" and that \"this is my last chance.\"</p> <p>The Cannabis Outlet itself received violation notices from the Virginia Department of Agriculture and Consumer Services in 2023 and 2024 for selling non-compliant products.</p> <iframe allow=\"fullscreen\" allowfullscreen=\"\" frameborder=\"0\" height=\"800\" loading=\"lazy\" scrolling=\"yes\" src=\"https://embed.documentcloud.org/documents/28828964-louise-lucas-federal-indictment/?embed=1&onlyshoworg=1\" title=\"Louise Lucas — Federal Indictment\" width=\"500\"></iframe> <p>Co-defendants include daughters Lisa Lucas-Burke and Theresa Lucas-Lamb, grandson Ryan Eichelberger, former business partner Carlton Upton Jr., Prince Albert William Hudson III, and Tameka Johnson.</p> <h2>Statements and Timing</h2> <p><strong>Attorney General Todd Blanche said the charges \"reveal the behavior of a public servant who will put her own financial interests before the people she was elected to serve.</strong>\" Patel stated that Lucas \"allegedly abused her position of public trust as a 30-year Virginia State Senator to put her own financial interests ahead of the people she represents - orchestrating a five-year scheme worth an estimated $4.5 million.\"</p> <p>In a statement, Lucas said: \"<strong>Today, the FBI, the Department of Justice, and the full weight of the federal government have been wielded against an 82-year-old great-grandmother.</strong> I grew up under Jim Crow. I've seen what happens when people in power try to silence those who stand up to them. I spent my life fighting back, and I'm not stopping now.\"</p> <p>Virginia recently cleared the path for regulated recreational retail sales beginning July 1, 2027. Lucas is not up for reelection until 2027. The charging decision comes roughly two weeks before midterm elections - an unusual window for overt action against a sitting political figure, though the investigation itself is not new.</p> </article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T17:00:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 13:00</span>",
+    "link": "https://www.zerohedge.com/political/virginia-state-sen-louise-lucas-arrested-accused-masterminding-45-million-criminal-drug",
+    "pubDate": "Thu, 22 Oct 2026 17:00:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Ardagh Metal Packaging (AMBP) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/ardagh-metal-packaging-ambp-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:28:15 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Popular (BPOP) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/popular-bpop-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:28:15 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
+    "desc": "Key PointsAI agents rely on central processing units (CPUs) as they handle real-world problems.",
+    "link": "https://www.nasdaq.com/articles/what-does-ai-agent-need-cpu-why-nvidia-wants-business-dominated-amd-and-intel",
+    "pubDate": "Thu, 22 Oct 2026 18:25:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Quest Diagnostics: 3 Key Takeaways for Long-Term Investors",
+    "desc": "Key PointsQuest Diagnostics expects consumer health revenue growth to exceed 30% in 2026.",
+    "link": "https://www.nasdaq.com/articles/quest-diagnostics-3-key-takeaways-long-term-investors",
+    "pubDate": "Thu, 22 Oct 2026 18:24:28 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "You Can't Sign Up for Spousal Social Security Unless You Tick These 4 Boxes",
+    "desc": "Key PointsYou must be at least 62 and married to a worker who qualifies for a retirement benefit.",
+    "link": "https://www.nasdaq.com/articles/you-cant-sign-spousal-social-security-unless-you-tick-these-4-boxes",
+    "pubDate": "Thu, 22 Oct 2026 18:20:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Why Isn't IBM's Stock Bouncing Back After Strong Earnings Results?",
+    "desc": "Key PointsIBM&rsquo;s revenue growth accelerated to 5%, and it raised its free cash flow outlook, yet shares slipped the next day.",
+    "link": "https://www.nasdaq.com/articles/why-isnt-ibms-stock-bouncing-back-after-strong-earnings-results",
+    "pubDate": "Thu, 22 Oct 2026 18:17:06 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Dover (DOV) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/dover-dov-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:25 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Tractor Supply (TSCO) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/tractor-supply-tsco-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:25 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Blackstone (BX) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/blackstone-bx-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:25 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Valley National (VLY) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/valley-national-vly-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:24 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Comcast (CMCSA) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/comcast-cmcsa-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:24 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Roper (ROP) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/roper-rop-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:24 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Pool (POOL) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/pool-pool-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:24 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "First BanCorp (FBP) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/first-bancorp-fbp-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:24 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Nasdaq (NDAQ) Q3 2026 Earnings Call Transcript",
+    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+    "link": "https://www.nasdaq.com/articles/nasdaq-ndaq-q3-2026-earnings-call-transcript",
+    "pubDate": "Thu, 22 Oct 2026 18:15:24 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Databricks sets sights on Abu Dhabi as Middle East growth takes off",
+    "desc": "In this week’s Fortune Gulf Brief.",
+    "link": "https://fortune.com/2026/10/21/databricks-sets-sights-abu-dhabi-middle-east-growth-takes-off/",
+    "pubDate": "Wed, 21 Oct 2026 09:42:28 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "The PHP bug marks a dangerous new era for the internet. OpenAI&#8217;s poised to cash in",
+    "desc": "OpenAI helped lead the disclosure of a critical issue that could take down 70% of the web. It's also selling tools it says will help prevent this—and similar issues—from happening.",
+    "link": "https://fortune.com/2026/10/22/hugging-face-goes-from-a-scrappy-startup-named-after-an-emoji-to-13-billion-nvidia-acquisition-2/",
+    "pubDate": "Thu, 22 Oct 2026 18:37:08 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Mark Zuckerberg says over 10 million people used Meta&#8217;s Muse—and demand was so high, he had to get Stripe to raise credit limits",
+    "desc": "With Muse helping people shop, Meta also envisions a new revenue source beyond its ad business: taking a cut of transactions.",
+    "link": "https://fortune.com/2026/10/22/mark-zuckerberg-meta-muse-stripe-credit-limit-shopping/",
+    "pubDate": "Thu, 22 Oct 2026 18:32:19 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘I’m a millionaire and I proudly rent’: Mrs. Dow Jones says the American Dream needs a rethink",
+    "desc": "Haley Sacks says homeownership shouldn’t define financial success as younger Americans rethink the milestones they inherited.",
+    "link": "https://fortune.com/2026/10/22/mrs-dow-jones-milionaire-rent-home-ownership/",
+    "pubDate": "Thu, 22 Oct 2026 18:24:37 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "AI could displace one in 11 workers, Goldman says, but the layoffs are likely waiting for a recession",
+    "desc": "Goldman’s Joseph Briggs finds companies have historically saved automation layoffs for downturns and he's updating his projection of the AI jobs impact.",
+    "link": "https://fortune.com/2026/10/22/goldman-sachs-forecast-how-many-jobs-lost-to-ai-9-percent/",
+    "pubDate": "Thu, 22 Oct 2026 18:20:53 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Venture giant Andreessen Horowitz drops ‘crypto’ from name of blockchain fund, rebrands as ‘a16z Frontier’",
+    "desc": "The rebrand follows similar moves by Paradigm and Haun Ventures as crypto investors look beyond digital assets.",
+    "link": "https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/",
+    "pubDate": "Thu, 22 Oct 2026 18:01:00 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Chick-fil-A hit $23.9 billion in sales while closed every Sunday. Its CEO explains why that won’t change, even if it costs the chain billions",
+    "desc": "Andrew Cathy told NBC’s Today the 80-year-old policy is “just too important” to reconsider, even as the family-owned chain outsells nearly every rival while open just six days a week.",
+    "link": "https://fortune.com/2026/10/22/chick-fil-a-ceo-andrew-cathy-sunday-closures-lost-sales/",
+    "pubDate": "Thu, 22 Oct 2026 17:48:10 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "fortune",
+    "title": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S.",
+    "desc": "Central bank holdings at the New York Fed declined 40 tonnes in August, Goldman added, while holdings at the Bank of England rose 46 tonnes.",
+    "link": "https://fortune.com/2026/10/22/central-bank-stockpiling-gold-china-geopolitics-storage-reserves/",
+    "pubDate": "Thu, 22 Oct 2026 10:54:17 +0000",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Jefferies names top fashion stocks ahead of earnings season",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
+    "pubDate": "2026-10-22 18:53:18",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Why is Howmet Aerospace stock tumbling today?",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-tumbling-today-93CH-4967185",
+    "pubDate": "2026-10-22 18:35:39",
+    "fetchedAt": "2026-10-22T19:01:44.435Z"
+  },
+  {
+    "source": "cnbc",
     "title": "Elon Musk invests about $1 billion in Skydance",
     "desc": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
     "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
@@ -5918,485 +6398,5 @@
     "link": "https://www.investing.com/news/company-news/bloomsbury-h1-202627-slides-profit-dips-30-as-firm-eyes-record-year-93CH-4965038",
     "pubDate": "2026-10-22 08:48:44",
     "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investing",
-    "title": "LSEG to buy Octus in $3.5 billion mega data analytics deal",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/lseg-to-buy-octus-in-35-billion-mega-data-analytics-deal-4965037",
-    "pubDate": "2026-10-22 08:48:43",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is QuantumScape stock rallying today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-quantumscape-stock-rallying-today-93CH-4965036",
-    "pubDate": "2026-10-22 08:48:33",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investing",
-    "title": "LSEG’s two decades of major deals, partnerships and strategic pivots",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/lsegs-two-decades-of-major-deals-partnerships-and-strategic-pivots-4965035",
-    "pubDate": "2026-10-22 08:48:22",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: Mycronic lifts outlook after strong Q3 growth",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mycronic-lifts-outlook-after-strong-q3-growth-93CH-4965034",
-    "pubDate": "2026-10-22 08:47:17",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investing",
-    "title": "European gas at 2022 peaks as Houthi Strikes trigger U.S. evacuation order",
-    "desc": "",
-    "link": "https://www.investing.com/news/commodities-news/european-gas-at-2022-peaks-as-houthi-strikes-trigger-us-evacuation-order-4964751",
-    "pubDate": "2026-10-22 08:45:59",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "Why a global bank is slashing thousands of jobs &#x2014; and what the Fed says about AI replacing workers",
-    "desc": "Barclays on Thursday said it&#x2019;s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
-    "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
-    "pubDate": "Thu, 22 Oct 2026 08:47:00 GMT",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "guardian",
-    "title": "French borrowing costs overtake US amid budget turmoil",
-    "desc": "<p>France’s bond market hit by another bout of selling as country recovers from weekend protests</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates\">Business live – latest updates</a></p></li></ul><p>French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.</p><p>France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years.</p> <a href=\"https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-    "pubDate": "Thu, 22 Oct 2026 08:40:36 GMT",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "United Rentals declares $1.97 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655732-united-rentals-declares-1_97-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:59:57 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Black Stone Minerals declares $0.30 dividend",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655731-black-stone-minerals-declares-0_30-dividend?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:57:38 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Healthcare Triangle announces 1-for-20 reverse split to regain compliance",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655727-healthcare-triangle-announces-1-for-20-reverse-split-to-regain-compliance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:57:11 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Nestl&#xE9; Q3 organic growth picks up to 4%, maintains 2026 guidance",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655726-nestle-q3-organic-growth-picks-up-to-4-maintains-2026-guidance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:48:00 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BE Semiconductor Q3 EPS jumps over 300% as orders climb",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655725-be-semiconductor-q3-eps-jumps-over-300-as-orders-climb?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:37:07 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Tesla-SpaceX merger proposal sparks stock dip despite ARK&#x2019;s long-term growth forecast",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655715-tesla-spacex-merger-proposal-sparks-stock-dip-despite-arks-long-term-growth-forecast?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:29:57 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Enea outlines SEK 20M share buyback plan as Q3 net sales fall 4.8%",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655724-enea-outlines-sek-20m-share-buyback-plan-as-q3-net-sales-fall-4_8-percent?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 04:27:27 -0400",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Wall Street's Biggest Bubble (No, Not AI) Appears Ready to Burst",
-    "desc": "Outsized risk-taking by investors might be the biggest red flag for a historically pricey stock market.",
-    "link": "https://www.fool.com/investing/2026/10/22/wall-street-biggest-bubble-no-not-ai-appears-ready-to-burst/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 08:26:02 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
-    "desc": "Amazon is tapping into long-term AI trends with AWS and its custom processors.",
-    "link": "https://www.fool.com/investing/2026/10/22/analyst-amazon-stock-upside-bull-case-buy/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 08:47:00 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Meta’s revenue beat; Tesla’s lower annual sales goal - what’s moving markets",
-    "desc": "Investing.com - Futures linked to the main U.S. stock indices slip, as traders pore through earnings from Facebook-owner Meta Platforms and Elon Musk-led electric car giant Tesla. Meta shares advance in extended-hours trading after the tech behemoth unveils better-than-expected quarterly revenue and robust current-quarter guidance. Shares of Tesla fall on a lower annual sales target, while some insiders reportedly express concerns over regulatory scrutiny of a possible merger between Tesla and M",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/meta-revenue-beat-tesla-lower-082837580.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 08:28:37 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "yahoo",
-    "title": "Asia stocks slide as AI doubts deepen, Korean chips fall",
-    "desc": "Investing.com -- Asian stocks fell on Thursday as mixed earnings from major U.S. technology companies failed to reassure investors about the returns on massive artificial intelligence investments, renewing pressure on semiconductor shares and Chinese equities.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slide-ai-jitters-042543916.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 04:25:43 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "French Counterterror Police Arrest 'Ultra-Left' Activist Over Limoges City Hall Fire",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">French Counterterror Police Arrest 'Ultra-Left' Activist Over Limoges City Hall Fire</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><article><p><strong>French police on Tuesday arrested a 34-year-old man suspected of taking part in the October 17 arson of Limoges city hall,</strong> three days after the riots that gutted the 1883 building. The elite RAID unit's Bordeaux branch took him at 6:15 a.m. in a <a href=\"https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/limoges/incendie-de-l-hotel-de-ville-de-limoges-un-suspect-arrete-5319498\">small, isolated house</a> at Val d'Issoire, in the Haute-Vienne department, according to the Limoges prosecutor's office. The prosecutor called him a \"person suspected in the fire.\" He is presumed innocent and has not been charged.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/f8c18f5_ftp-1-ncrr4oghja7i-2026-10-18t151139z-767209195-rc2n5oa5qoqf-rtrmadp-3-france-protest_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/f8c18f5_ftp-1-ncrr4oghja7i-2026-10-18t151139z-767209195-rc2n5oa5qoqf-rtrmadp-3-france-protest_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"6d5d33a8-a4ee-46bd-b56d-7afd3ce4945c\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/f8c18f5_ftp-1-ncrr4oghja7i-2026-10-18t151139z-767209195-rc2n5oa5qoqf-rtrmadp-3-france-protest_80.jpg\" /></a> <figcaption><em>The burnt city hall of the central city of Limoges, France, on October 18, 2026. CLOTAIRE ACHI / REUTERS</em></figcaption></figure><p>A source close to the case told Franceinfo <strong>he is an \"ultra-left activist\" already on the <a href=\"https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/un-individu-soupconne-d-etre-implique-dans-l-incendie-de-l-hotel-de-ville-de-limoges-le-17-octobre-a-ete-interpelle-en-haute-vienne_8245177.html\">\"fiché S\"</a> security watchlist.</strong> Some outlets first reported his age as 40; Franceinfo corrected it to 34. The prosecutor said investigators identified him through \"painstaking\" cross-checking of images and videos. ICI, the public radio network, reports that he is from the neighboring Creuse department and is suspected of <a href=\"https://www.ici.fr/emissions/l-info-d-ici-ici-creuse/incendie-de-l-hotel-de-ville-de-limoges-que-sait-on-du-suspect-arrete-1364503\">earlier sabotage</a> of TGV overhead lines and construction sites. His record was clean until an appeal court convicted him of violence against a police officer at an October 2024 protest in Guéret, a ruling he has taken to the Court of Cassation, so it is not final.</p> <p>The Justice Ministry says he was not alone. Spokesman Sacha Straub-Kahn told ICI that \"we are certain, from the images, that this person did not act alone,\" calling it a \"manifestly concerted action\" and putting the crowd in front of city hall at 500 to 700 people with \"fairly substantial pyrotechnic means.\" <strong>No accomplice has been named or arrested.</strong> The only source for the ultra-left label is an unnamed one, and neither the prosecutor nor the ministry has said what role the suspect is accused of playing.</p> <p>Custody, which began Tuesday, can run to 96 hours because the case falls under the special regime for organized crime. The investigation is <a href=\"https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/un-individu-soupconne-d-etre-implique-dans-l-incendie-de-l-hotel-de-ville-de-limoges-le-17-octobre-a-ete-interpelle-en-haute-vienne_8245177.html\">run jointly</a> by Haute-Vienne police and the national counterterrorism sub-directorate (SDAT). The national anti-terrorist prosecutor's office has not taken the case, but is following it. Justice Minister Gérald Darmanin said Monday that anti-terror prosecutors would soon decide whether to treat the fire as a <a href=\"https://www.thelocal.fr/20261020/france-arrests-man-and-calls-in-anti-terror-police-over-town-hall-fire\">suspected terror attack</a>.</p> <p>The fire itself began around 6 p.m. Saturday, when masked protesters entered the town hall and <a href=\"https://fr.euronews.com/2026/10/18/lhotel-de-ville-de-limoges-un-edifice-qui-datait-du-19e-siecle-est-parti-en-fumee\">set it alight</a>, according to the prefecture. Prefect Maurice Barate said the fire was set deliberately. Overnight the roof and belfry collapsed, and only the modern rear section was saved. Nineteen people were taken into custody that day, and four police officers were seriously hurt. Prosecutors opened an inquiry into destruction of property by dangerous means by an organized group.</p> <p><strong>Mayor Guillaume Guérin says the state left his police to face the mob.</strong> Guérin, of the center-right Republicans, told Sud Radio that national police ran out of <a href=\"https://www.sudradio.fr/societe/limoges-la-police-a-manque-de-moyens-et-a-recule-face-aux-casseurs-selon-le-maire\">crowd-dispersal grenades</a> at about 3:30 p.m. and fell back, and that he saw about 700 infiltrators among a march of roughly 5,000 (a figure the outlet did not verify). He told Public Sénat that 400 rioters faced only 30 municipal police officers, and that the state is <a href=\"https://www.publicsenat.fr/actualites/societe/letat-est-responsable-en-partie-de-ce-quil-sest-passe-samedi-a-limoges-declare-le-maire-de-la-ville\">\"in part responsible\"</a> for what happened. He has asked for a special rebuilding plan like the one for Notre-Dame, full state funding of what insurance does not cover, and has said he may resign if he does not get it.</p> <p>Reacting to the arrest, Guérin said he expects the courts to be \"up to the task\" and wants the suspect jailed, while noting the presumption of innocence, because \"he destroyed the house of all Limousins.\" He has secured a <a href=\"https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/j-attends-de-la-justice-qu-elle-soit-au-rendez-vous-reagit-le-maire-de-limoges-apres-l-interpellation-d-un-suspect-dans-l-incendie-de-la-mairie_8245864.html\">riot-police company</a> for next Saturday, saying he needs national police and CRS officers \"to maintain order.\" Prime Minister Sébastien Lecornu is due to visit Limoges on Friday.</p> <figure role=\"group\" class=\"caption caption-img\"><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/822579_80.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/822579_80.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"97b8cfaa-bf47-44ab-91ca-353097bc48f3\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/822579_80.jpg\" /></a> <figcaption><em>Democrats retreat from house races they hoped to flip</em></figcaption></figure></article></div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T08:15:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 04:15</span>",
-    "link": "https://www.zerohedge.com/geopolitical/french-counterterror-police-arrest-ultra-left-activist-over-limoges-city-hall-fire",
-    "pubDate": "Thu, 22 Oct 2026 08:15:00 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "zerohedge",
-    "title": "UK Landlords Offered More Than Double Council Rents To House Channel Migrants",
-    "desc": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">UK Landlords Offered More Than Double Council Rents To House Channel Migrants</span> <div property=\"schema:text\" class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><em><a href=\"https://modernity.news/2026/10/21/theyre-doing-it-on-purpose/\">Authored by Steve Watson via Modernity.news</a>,</em></p> <p><strong>British landlords are being offered thousands more each month to house small-boat arrivals than local councils pay to shelter vulnerable British families, a Daily Mail investigation has revealed.</strong></p> <p><strong><a data-image-external-href=\"\" data-image-href=\"https://assets.zerohedge.com/s3fs-public/inline-images/rent_1.jpg\" data-link-option=\"0\" href=\"https://assets.zerohedge.com/s3fs-public/inline-images/rent_1.jpg\"><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"095212cb-86b5-4d2b-adb3-81c2ad0f8ddb\" src=\"https://assets.zerohedge.com/s3fs-public/inline-images/rent_1.jpg\" /></a></strong></p> <p>The deals come from Clearsprings Ready Homes, one of three Home Office contractors operating under multi-billion-pound taxpayer-funded contracts.</p> <p><strong>In one south London case, a landlord was offered £4,500 a month for a three-bedroom flat he currently rents to Southwark Council for £1,790.</strong> That is an extra £32,520 a year, plus bills, council tax and maintenance covered for three years.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">‘Are you a Labour MP? …because you’re a very sensible one!’ Michelle Dewberry agrees with Labour MP Graham Stringer that landlords shouldn’t be offered higher rents to provide accommodation for asylum seekers. <a href=\"https://t.co/nQ6KbsZY0u\">https://t.co/nQ6KbsZY0u</a></p> — GB News (@GBNEWS) <a href=\"https://x.com/GBNEWS/status/2112973422779064419?ref_src=twsrc%5Etfw\">October 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Landlords offered bumper rents to evict tenants and house small boat migrants as Labour accused of ‘outrageous racket’ in broken Britain <a href=\"https://t.co/YoOKKB5dQW\">https://t.co/YoOKKB5dQW</a></p> — Daily Mail (@DailyMail) <a href=\"https://x.com/DailyMail/status/2112830662126256506?ref_src=twsrc%5Etfw\">October 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>The anonymous landlord told the Mail: \"I already rent to Southwark Council, and they are able to offer significantly more than the local authority, which to me is bizarre. The council has a ceiling on what they are allowed to pay landlords like myself.\"</p> <p>He continued, \"For a three-bed flat I get £1,790 from the local authority to house families, while I would rent it to Clearsprings for £4,500 per month. <strong>I didn't go with them because it would have meant terminating my contract with Southwark Council and putting families at serious risk of homelessness.</strong> I am not prepared to do that. But many landlords just see it as an opportunity to earn more, and just go with them.\"</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Here’s the kicker: The company, which has a taxpayer-funded contract worth around £7billion, is understood to be targeting landlords who currently provide accommodation to councils, students and vulnerable people, including those fleeing domestic abuse.</p> — Patrick Christys (@PatrickChristys) <a href=\"https://x.com/PatrickChristys/status/2112844505288413414?ref_src=twsrc%5Etfw\">October 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Clearsprings is understood to be targeting properties already used for council tenants, students and vulnerable people, including those fleeing domestic abuse.</p> <p>The firm, run by Graham King (estimated fortune £726 million), houses around 30,000 asylum seekers and reported £62.6 million profit on £1.4 billion turnover in the year to January 2025.</p> <p><strong>It is one of three contractors (alongside Serco and Mears) with contracts originally awarded under the Conservatives and running until 2029.</strong></p> <p>The National Audit Office has previously put expected Home Office spending on the main asylum contracts at £1.67 billion for 2024-25.</p> <p><strong>Shadow Home Secretary Chris Philp called it \"a day of shame for Labour\"</strong> and said: \"It is insane that illegal immigrants who have broken our laws, and some of whom go on to commit appalling crimes against women and girls, are being prioritised above law-abiding citizens who work hard and pay their taxes.\"</p> <p>\"Over 85,000 illegal immigrants have crossed the Channel under this Labour Government yet only seven per cent of arrivals are removed. This has led to a huge increase in HMOs and flats being used to house them - with over 93,000 people now in asylum accommodation,\" Philp further urged.</p> <p>A Home Office spokesman claimed that the department pays a capped contractual rate and that \"any amount above that is covered by the contractor and not taxpayers.\"</p> <p><strong>Officials pointed to hotel closures and claimed savings of more than £1 billion on asylum support since the election, along with 80,000 removals.</strong></p> <p>Meanwhile, Border Security Commander Duncan Capps has warned that nearly 3,800 migrants are currently waiting in camps between Calais and Dunkirk - almost double the usual number of around 2,000.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\" xml:lang=\"en\" xml:lang=\"en\">Nearly 4,000 migrants waiting to cross to Britain – double the normal amount -warns border security commander <a href=\"https://t.co/oJx5Fs3I5x\">https://t.co/oJx5Fs3I5x</a></p> — Daily Mail (@DailyMail) <a href=\"https://x.com/DailyMail/status/2112881429415674163?ref_src=twsrc%5Etfw\">October 21, 2026</a></blockquote> <script async=\"\" src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script><p>Capps told MPs: \"I think the French estimate at the moment is that there is almost 3,800 people between those two camps. Previously it was broadly about 2,000 between them.\" He added that larger boats and higher occupancy mean <strong>\"it is only a matter of time till we have a mass casualty event in the Channel.\"</strong></p> <p>Crossings so far this year are down on last year's total, but the backlog in northern France shows demand remains high. Migrants typically make multiple attempts; French intercepts do not lead to detention, so the same people can try again.</p> <p>Since Labour took office in July 2024, more than 83,000 people have crossed in small boats - more than the roughly 83,000 personnel in the British Army.</p> <p><strong>Total small-boat arrivals since records began in 2018 now exceed the combined strength of the Army, Navy and RAF.</strong> Former Royal Navy officer Chris Parry has described the intake under Labour as the equivalent of \"six-and-a-half divisions of fighting-age men.\"</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/09/26/boat-migrants-who-have-entered-the-country-now-outnumber-british-soldiers/embed/\" style=\"display:block\" title=\"Boat Migrants Who Have Entered The Country Now OUTNUMBER British Soldiers\" width=\"600\"></iframe></p> <p>Arrivals have at times averaged one every minute during peak periods. The system processing them has been described by a Home Office decision-maker who assessed thousands of claims as fundamentally broken.</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/08/30/one-every-minute-these-numbers-are-unsustainable/embed/\" style=\"display:block\" title=\"ONE EVERY MINUTE: These Numbers Are UNSUSTAINABLE...\" width=\"600\"></iframe></p> <p>Speaking to The Times, the official known as J said: \"At best 1 per cent of asylum seekers are genuine. There's almost no aspect of the asylum system that isn't either a massive fraud or just really dysfunctional. Nothing works as it should.\"</p> <p>Common patterns include package claims from the same nationalities using near-identical stories, staged photographs, and networks charging thousands of pounds to coach applicants to claim they are gay or face political persecution. <strong>BBC undercover work has documented advisers offering fabricated evidence for sexuality-based claims.</strong></p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/09/08/proof-britains-asylum-system-is-a-massive-scam/embed/\" style=\"display:block\" title=\"Proof: Britain's Asylum System Is A Massive SCAM\" width=\"600\"></iframe></p> <p>The housing pressure is not new. Earlier this year the government signalled that every area of the country should expect to take a share of arrivals as hotels are closed and people are dispersed into residential property.</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/08/12/watch-uk-pm-wants-every-area-in-britain-to-house-migrants/embed/\" style=\"display:block\" title=\"Watch: UK PM Wants EVERY Area In Britain To House Migrants\" width=\"600\"></iframe></p> <p>Projections have suggested migrants could account for 40 per cent of new UK homes by 2030 under current trajectories.</p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/03/14/migrants-set-to-swallow-40-of-new-uk-homes-by-2030/embed/\" style=\"display:block\" title=\"Migrants Set To Swallow 40% Of New UK Homes By 2030\" width=\"600\"></iframe></p> <p><strong>Local residents have repeatedly protested when HMOs or former military sites are converted for this purpose.</strong></p> <p><iframe frameborder=\"0\" height=\"550\" scrolling=\"no\" src=\"https://modernity.news/2026/10/06/weve-never-seen-anything-like-this/embed/\" style=\"display:block\" title=\"We've NEVER Seen Anything Like This...\" width=\"600\"></iframe><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/9Fv-1kiOcUI\" title=\"YouTube video player\" width=\"560\"></iframe></p> <p>The current Clearsprings offers simply accelerate the same displacement dynamic with higher guaranteed rents funded through the contractor model.</p> <p><strong>The pattern is consistent: record crossings, low removal rates, an asylum system described by its own officials as riddled with fraud, and now private contractors using the resulting demand to outbid councils for ordinary housing.</strong></p> <p>British families on the housing list, students, and people fleeing domestic abuse are being asked to compete against a taxpayer-backed premium for people who arrived illegally.</p> <p><strong>The contracts were set under previous governments; the volume and the political choice to keep the system running at this scale sit with the current one.</strong></p> <p>Without a sustained reduction in arrivals and a higher removal rate, the housing pressure and the cost will surely spiral out of control.</p> </div> <span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://cms.zerohedge.com/users/tyler-durden\" lang=\"\" about=\"https://cms.zerohedge.com/users/tyler-durden\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">Tyler Durden</a></span> <span property=\"schema:dateCreated\" content=\"2026-10-22T07:30:00+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">Thu, 10/22/2026 - 03:30</span>",
-    "link": "https://www.zerohedge.com/political/uk-landlords-offered-more-double-council-rents-house-channel-migrants",
-    "pubDate": "Thu, 22 Oct 2026 07:30:00 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Chinese Investors With Few Options Turn to Dividends",
-    "desc": "Companies with good payouts are now the hottest bet in China markets.",
-    "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
-    "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
-    "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
-    "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
-    "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
-    "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
-    "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
-    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Heard on the Street's Stock-Picking Series",
-    "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
-    "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
-    "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
-    "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
-    "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
-    "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
-    "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
-    "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
-    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "wsj",
-    "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
-    "desc": "The story of home affordability in the U.S. told from a single front porch.",
-    "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
-    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Is Micron a Millionaire-Maker Stock After Its 2026 Run?",
-    "desc": "Key PointsMicron Technology has seen demand for its memory solutions explode higher in the AI boom.",
-    "link": "https://www.nasdaq.com/articles/micron-millionaire-maker-stock-after-its-2026-run",
-    "pubDate": "Thu, 22 Oct 2026 08:22:00 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That’s Strikingly Clear.",
-    "desc": "Key PointsAlphabet has seen revenue soar amid the AI boom, but the company has spent heavily to support growth.",
-    "link": "https://www.nasdaq.com/articles/will-alphabet-stock-soar-after-oct-28-history-offers-answer-thats-strikingly-clear",
-    "pubDate": "Thu, 22 Oct 2026 08:15:02 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "RELX PLC 9-month Underlying Revenue Rises; Confirms FY26 Outlook",
-    "desc": "(RTTNews) - RELX Plc (RELX, RLXXF.PK, REL.L), a provider of information-based analytics and decision tools, reported Thursday underlying revenue growth of 7 percent for the first nine months of 2026. Further, the firm reaffirmed fiscal 2026 outlook.",
-    "link": "https://www.nasdaq.com/articles/relx-plc-9-month-underlying-revenue-rises-confirms-fy26-outlook",
-    "pubDate": "Thu, 22 Oct 2026 08:06:40 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Tesla (TSLA) Q3 2026 Earnings Call Transcript",
-    "desc": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-    "link": "https://www.nasdaq.com/articles/tesla-tsla-q3-2026-earnings-call-transcript",
-    "pubDate": "Thu, 22 Oct 2026 07:58:46 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Netflix Stock Is on Track for Its Worst Year Since 2022. Is It Finally a Buy?",
-    "desc": "Key PointsNetflix's third-quarter revenue grew 12% year over year to $12.9 billion.",
-    "link": "https://www.nasdaq.com/articles/netflix-stock-track-its-worst-year-2022-it-finally-buy",
-    "pubDate": "Thu, 22 Oct 2026 07:58:02 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "InterContinental Hotels Q3 RevPAR Rises, Sees FY26 In Line With Market View; Stock Drops",
-    "desc": "(RTTNews) - InterContinental Hotels Group PLC (IHG, IHG.L) on Thursday announced higher global revenue per available room for the third quarter of fiscal 2026, supported by strong performance in the Americas and Europe, the Middle East, Asia and Africa or EMEAA.",
-    "link": "https://www.nasdaq.com/articles/intercontinental-hotels-q3-revpar-rises-sees-fy26-line-market-view-stock-drops",
-    "pubDate": "Thu, 22 Oct 2026 07:45:14 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "Workday Prices $2.5 Bln Senior Notes Offering At Rates Of 5.700% To 6.500%",
-    "desc": "(RTTNews) - Workday, Inc. (WDAY), an enterprise cloud software company, on Wednesday announced that it has priced a $2.5 billion public offering of senior notes.",
-    "link": "https://www.nasdaq.com/articles/workday-prices-25-bln-senior-notes-offering-rates-5700-6500",
-    "pubDate": "Thu, 22 Oct 2026 07:33:22 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "nasdaq",
-    "title": "LSEG Agrees To Acquire Octus For $3.535 Bln",
-    "desc": "(RTTNews) - London Stock Exchange Group plc (LSEG.L), the provider of financial market infrastructure, Thursday announced that it has agreed to acquire Octus, a provider of credit intelligence, data and workflows for $3.535 billion in cash.",
-    "link": "https://www.nasdaq.com/articles/lseg-agrees-acquire-octus-3535-bln",
-    "pubDate": "Thu, 22 Oct 2026 07:29:28 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Bono on U2 ticket prices: Floor spots start around $160 on the new tour, and the band has ‘no problem’ letting rich fans pay $1,500",
-    "desc": "The U2 frontman says the band has “very little” control over what tickets cost. His comments come as presales open for its 2027 world tour, where VIP packages top $1,500.",
-    "link": "https://fortune.com/2026/10/22/bono-u2-ticket-prices-rich-people-pay-too-much/",
-    "pubDate": "Thu, 22 Oct 2026 08:12:00 +0000",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "DFS Furniture shares fall after Jefferies downgrade",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/dfs-furniture-shares-fall-after-jefferies-downgrade-93CH-4965026",
-    "pubDate": "2026-10-22 08:44:45",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Canal+ shares fall on plan to hike prices amid French VAT rise",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/canal-shares-fall-on-plan-to-hike-prices-amid-french-vat-rise-93CH-4965025",
-    "pubDate": "2026-10-22 08:44:35",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Meta dips despite earnings beat; capex outlook narrowed amid AI spending surge",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/meta-beats-q3-estimates-approves-new-nonvoting-share-class-as-ai-spending-surges-4963949",
-    "pubDate": "2026-10-22 08:42:38",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is CSX stock climbing today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-csx-stock-climbing-today-93CH-4965005",
-    "pubDate": "2026-10-22 08:37:02",
-    "fetchedAt": "2026-10-22T09:01:36.254Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Barclays to slash 5,000 jobs in AI efficiency push",
-    "desc": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
-    "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-    "pubDate": "Thu, 22 Oct 2026 07:41:09 GMT",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-    "desc": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "pubDate": "Wed, 21 Oct 2026 16:08:50 GMT",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-    "desc": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
-    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-    "pubDate": "Wed, 21 Oct 2026 21:41:23 GMT",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-    "desc": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
-    "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-    "pubDate": "Wed, 21 Oct 2026 16:35:48 GMT",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Is an 'AI war' complicating your job search?",
-    "desc": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 22 Oct 2026 05:01:31 GMT",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "bbc",
-    "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "desc": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-    "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 14 Oct 2026 23:01:28 GMT",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Vimian Q3 2026 slides: 15% revenue growth, strong cash generation",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/vimian-q3-2026-slides-15-revenue-growth-strong-cash-generation-93CH-4964918",
-    "pubDate": "2026-10-22 07:53:12",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "IHG reports forecast-beating Q3 revenue per available room; shares slip",
-    "desc": "",
-    "link": "https://www.investing.com/news/earnings/ihg-reports-forecastbeating-q3-revenue-per-available-room-shares-slip-4964840",
-    "pubDate": "2026-10-22 07:53:06",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Earnings call transcript: SRF posts strong Q2 2027 growth as stock rises 1.5%",
-    "desc": "",
-    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-srf-posts-strong-q2-2027-growth-as-stock-rises-15-93CH-4964917",
-    "pubDate": "2026-10-22 07:52:53",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Verkkokauppa.com Q3 2026 slides: profitability rises in tough market",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/verkkokauppacom-q3-2026-slides-profitability-rises-in-tough-market-93CH-4964916",
-    "pubDate": "2026-10-22 07:52:25",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "French yields breach 5% amid Paris budget paralysis and nationwide unrest",
-    "desc": "",
-    "link": "https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673",
-    "pubDate": "2026-10-22 07:52:08",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Pandox Q3 2026 slides: strong leases growth, own ops under pressure",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/pandox-q3-2026-slides-strong-leases-growth-own-ops-under-pressure-93CH-4964915",
-    "pubDate": "2026-10-22 07:51:50",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Why is Thule stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-thule-stock-sliding-today-93CH-4964914",
-    "pubDate": "2026-10-22 07:51:39",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Nelly Group Q3 2026 slides: revenue up 10%, margins compress",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/nelly-group-q3-2026-slides-revenue-up-10-margins-compress-93CH-4964913",
-    "pubDate": "2026-10-22 07:51:18",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Kerry Q3 2026 slides: volume growth accelerates to 4.1%, margins expand",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/kerry-q3-2026-slides-volume-growth-accelerates-to-41-margins-expand-93CH-4964912",
-    "pubDate": "2026-10-22 07:50:53",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "investing",
-    "title": "Citizens upgrades Omega Healthcare stock on valuation, management",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/citizens-upgrades-omega-healthcare-stock-on-valuation-management-93CH-4964911",
-    "pubDate": "2026-10-22 07:50:47",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "BYD, Chery expand EU foothold as car registrations climb for eighth straight month",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655682-byd-chery-expand-eu-foothold-as-car-registrations-climb-for-eighth-straight-month?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 03:26:24 -0400",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Ategrity outlines Q4 combined ratio below 87% while targeting premium growth 15-20 percentage points above the E&S market",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655712-ategrity-outlines-q4-combined-ratio-below-87-percent-while-targeting-premium-growth-15minus?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 03:15:09 -0400",
-    "fetchedAt": "2026-10-22T08:01:38.815Z"
   }
 ]
