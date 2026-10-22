@@ -27,14 +27,6 @@
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
         "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-15",
-        "accession": "0001140361-26-039785",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-13",
-        "items": ""
       }
     ]
   },
@@ -44,26 +36,11 @@
     "cik": "0000789019",
     "filings": [
       {
-        "form": "4",
-        "filed": "2026-10-15",
-        "accession": "0000789019-26-000228",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-15",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Alphabet Inc.",
-    "cik": "0001652044",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-10-15",
-        "accession": "0001193125-26-423187",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-10-13",
+        "form": "DEF 14A",
+        "filed": "2026-10-21",
+        "accession": "0001193125-26-427849",
+        "primaryDoc": "d61756ddef14a.htm",
+        "reportDate": "2026-12-08",
         "items": ""
       }
     ]
@@ -73,6 +50,22 @@
     "title": "Meta Platforms, Inc.",
     "cik": "0001326801",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-10-21",
+        "accession": "0000950103-26-015980",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-10-19",
+        "items": ""
+      },
+      {
+        "form": "8-K",
+        "filed": "2026-10-21",
+        "accession": "0001628280-26-066700",
+        "primaryDoc": "meta-20261019.htm",
+        "reportDate": "2026-10-19",
+        "items": "1.01,2.02,8.01,9.01"
+      },
       {
         "form": "144",
         "filed": "2026-10-19",
@@ -88,6 +81,14 @@
     "title": "Tesla, Inc.",
     "cik": "0001318605",
     "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-21",
+        "accession": "0001628280-26-066738",
+        "primaryDoc": "tsla-20261021.htm",
+        "reportDate": "2026-10-21",
+        "items": "2.02,9.01"
+      },
       {
         "form": "DEF 14A",
         "filed": "2026-10-19",
@@ -110,14 +111,6 @@
         "primaryDoc": "d351999d8k.htm",
         "reportDate": "2026-10-20",
         "items": "8.01,9.01"
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-15",
-        "accession": "0001225208-26-008428",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-10-14",
-        "items": ""
       }
     ]
   },
@@ -126,6 +119,14 @@
     "title": "BANK OF AMERICA CORP /DE/",
     "cik": "0000070858",
     "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-21",
+        "accession": "0000070858-26-000494",
+        "primaryDoc": "bac-20261021.htm",
+        "reportDate": "2026-10-21",
+        "items": "5.02,9.01"
+      },
       {
         "form": "4",
         "filed": "2026-10-19",
@@ -140,14 +141,6 @@
         "accession": "0000070858-26-000486",
         "primaryDoc": "xslF345X06/primary_doc.xml",
         "reportDate": "2026-10-14",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-15",
-        "accession": "0000070858-26-000485",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-13",
         "items": ""
       }
     ]
