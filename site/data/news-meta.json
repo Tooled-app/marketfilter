@@ -1,96 +1,96 @@
 {
-  "lastRun": "2026-10-22T23:06:30.844Z",
+  "lastRun": "2026-10-22T23:12:23.988Z",
   "fetched": 11,
   "failed": 3,
-  "newItems": 60,
+  "newItems": 7,
   "total": 800,
   "sources": [
     {
       "id": "cnbc",
       "name": "CNBC",
-      "items": 30,
-      "added": 1
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "bbc",
       "name": "BBC Business",
-      "items": 57,
-      "added": 3
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "investing",
       "name": "Investing.com",
-      "items": 10,
-      "added": 10
+      "items": 0,
+      "added": 0,
+      "error": "fetch failed"
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 4
     },
     {
       "id": "guardian",
       "name": "The Guardian",
       "items": 20,
-      "added": 2
+      "added": 1
     },
     {
       "id": "ft",
       "name": "Financial Times",
       "items": 10,
-      "added": 2
+      "added": 0
     },
     {
       "id": "seekingalpha",
       "name": "Seeking Alpha",
       "items": 7,
-      "added": 7
+      "added": 1
     },
     {
       "id": "benzinga",
       "name": "Benzinga",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 0
     },
     {
       "id": "yahoo",
       "name": "Yahoo Finance",
       "items": 20,
-      "added": 13
+      "added": 0
     },
     {
       "id": "zerohedge",
       "name": "ZeroHedge",
       "items": 25,
-      "added": 1
+      "added": 0
     },
     {
       "id": "wsj",
       "name": "WSJ Markets",
       "items": 20,
-      "added": 2
+      "added": 0
     },
     {
       "id": "nasdaq",
       "name": "Nasdaq",
       "items": 15,
-      "added": 12
+      "added": 0
     },
     {
       "id": "fortune",
       "name": "Fortune",
-      "items": 0,
-      "added": 0,
-      "error": "fetch failed"
+      "items": 10,
+      "added": 1
     },
     {
       "id": "investingeuro",
       "name": "Investing Europe",
       "items": 10,
-      "added": 7
+      "added": 0
     }
   ]
 }
