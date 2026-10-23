@@ -6,6 +6,14 @@
     "filings": [
       {
         "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0001140361-26-040540",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
+        "form": "4",
         "filed": "2026-10-19",
         "accession": "0001140361-26-040127",
         "primaryDoc": "xslF345X06/form4.xml",
@@ -18,14 +26,6 @@
         "accession": "0001140361-26-040126",
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-10-15",
-        "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-10-16",
-        "accession": "0001950047-26-010286",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
         "items": ""
       }
     ]
@@ -50,6 +50,14 @@
     "title": "Meta Platforms, Inc.",
     "cik": "0001326801",
     "filings": [
+      {
+        "form": "10-Q",
+        "filed": "2026-10-22",
+        "accession": "0001628280-26-066773",
+        "primaryDoc": "meta-20260930.htm",
+        "reportDate": "2026-09-30",
+        "items": ""
+      },
       {
         "form": "4",
         "filed": "2026-10-21",
@@ -81,6 +89,14 @@
     "title": "Tesla, Inc.",
     "cik": "0001318605",
     "filings": [
+      {
+        "form": "10-Q",
+        "filed": "2026-10-22",
+        "accession": "0001628280-26-066775",
+        "primaryDoc": "tsla-20260930.htm",
+        "reportDate": "2026-09-30",
+        "items": ""
+      },
       {
         "form": "8-K",
         "filed": "2026-10-21",
@@ -120,6 +136,54 @@
     "cik": "0000070858",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0000070858-26-000500",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0000070858-26-000499",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0000070858-26-000498",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0000070858-26-000497",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0000070858-26-000496",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-10-22",
+        "accession": "0000070858-26-000495",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-10-20",
+        "items": ""
+      },
+      {
         "form": "8-K",
         "filed": "2026-10-21",
         "accession": "0000070858-26-000494",
@@ -134,29 +198,6 @@
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-10-15",
         "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-16",
-        "accession": "0000070858-26-000486",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-14",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "XOM",
-    "title": "ExxonMobil Holdings Corp",
-    "cik": "0002115436",
-    "filings": [
-      {
-        "form": "8-K",
-        "filed": "2026-10-16",
-        "accession": "0002115436-26-000013",
-        "primaryDoc": "xom-20261016.htm",
-        "reportDate": "2026-10-16",
-        "items": "7.01"
       }
     ]
   }
