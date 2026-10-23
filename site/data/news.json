@@ -1,6 +1,366 @@
 [
   {
     "source": "cnbc",
+    "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
+    "desc": "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
+    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+    "pubDate": "Fri, 23 Oct 2026 04:05:35 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
+    "desc": "",
+    "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
+    "pubDate": "2026-10-23 04:50:16",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "DM individual aggregator sells $2.23M in Dutch Bros stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/dm-individual-aggregator-sells-223m-in-dutch-bros-stock-93CH-4968021",
+    "pubDate": "2026-10-23 04:46:01",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Dutch Bros executive chairman Travis Boersma sells $6.4m in stock",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/dutch-bros-executive-chairman-travis-boersma-sells-64m-in-stock-93CH-4968020",
+    "pubDate": "2026-10-23 04:45:59",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump touts $270 mln Bombardier investment after threatening U.S. sales ban",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
+    "pubDate": "2026-10-23 04:36:51",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Morning Bid: Wake up! The long bond’s up two points!",
+    "desc": "",
+    "link": "https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
+    "pubDate": "2026-10-23 04:36:20",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
+    "pubDate": "2026-10-23 04:35:36",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "+59%, +42%, +22%: Our AI just called these healthcare winners",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/59-42-22-our-ai-just-called-these-healthcare-winners-4968012",
+    "pubDate": "2026-10-23 04:32:17",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "U.S. plans curbs on Chinese tech investment- these sectors are vulnerable",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-plans-curbs-on-chinese-tech-investment-these-sectors-are-vulnerable-93CH-4968011",
+    "pubDate": "2026-10-23 04:31:30",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Rainmaker Worldwide owner Kelly White sells $17,070 in RAKR shares",
+    "desc": "",
+    "link": "https://www.investing.com/news/insider-trading-news/rainmaker-worldwide-owner-kelly-white-sells-17070-in-rakr-shares-93CH-4968010",
+    "pubDate": "2026-10-23 04:31:23",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investing",
+    "title": "Trump says Bombardier to invest $270 million in the US",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-says-bombardier-to-invest-270-million-in-the-us-4968002",
+    "pubDate": "2026-10-23 04:18:18",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "Global tech sell-off sparks flight to safety",
+    "desc": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower",
+    "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:42:02 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "Calpers retreats from Big Tech as AI rally falters",
+    "desc": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
+    "link": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "Caught between the US and China",
+    "desc": "Economies like Mexico are being forced to choose sides on trade",
+    "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "AI oversight needs a different model to banking",
+    "desc": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+    "link": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+    "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "Beware Bessent’s tilt towards short-term debt",
+    "desc": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows",
+    "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:00:28 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "US is prepared for long stand-off with Iran, says Trump envoy",
+    "desc": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme",
+    "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:00:37 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans",
+    "desc": "Vonovia vulnerable to compulsory purchase of 120,000 flats under proposals from winners of state election",
+    "link": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:00:28 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "ft",
+    "title": "How a transatlantic mega-merger fell apart over a leadership tug of war",
+    "desc": "Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business",
+    "link": "https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1",
+    "pubDate": "Fri, 23 Oct 2026 04:00:28 GMT",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Five Point expects about $20M 2026 net income while deferring land sales into 2027",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656426-five-point-expects-about-20m-2026-net-income-while-deferring-land-sales-into-2027?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:58:20 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Hilltop misses Q3 estimates",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656425-hilltop-misses-q3-estimates?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:52:03 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Boston Beer projects 2026 non-GAAP EPS of $9 to $10.50 while narrowing volume outlook to down mid-single digits",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656423-boston-beer-projects-2026-non-gaap-eps-of-9-to-10_50-while-narrowing-volume-outlook-to-down?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:48:19 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Newmont targets Red Chris commercial production in 2033 while lifting full-year 2026 gold AISC outlook to about $1,520/oz",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656424-newmont-targets-red-chris-commercial-production-in-2033-while-lifting-full-year-2026-gold?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:48:19 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Japan inflation reaches highest level since December 2025",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656422-japan-inflation-reaches-highest-level-since-december-2025?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:44:58 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "Asian markets mixed as tech sell-off on Wall Street weighs on sentiment",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656418-asian-markets-mixed-as-tech-sell-off-on-wall-street-weighs-on-sentiment?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:37:07 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "seekingalpha",
+    "title": "CalPERS cuts Mag 7 tech holdings, shifts focus to private equity: FT",
+    "desc": "",
+    "link": "https://seekingalpha.com/news/4656420-calpers-cuts-mag-7-tech-holdings-shifts-focus-to-private-equity-ft?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
+    "pubDate": "Fri, 23 Oct 2026 00:36:29 -0400",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a &#8230; Continued The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/algorand-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:25 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Hedera Hashgraph &#8230; Continued The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:24 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8230; Continued The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:23 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a &#8230; Continued The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:22 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a &#8230; Continued The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:21 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
+    "desc": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a &#8230; Continued The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/polkadot-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:19 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "benzinga",
+    "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+    "desc": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been &#8230; Continued The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga . Visit Benzinga to get more great content like this.",
+    "link": "https://www.benzinga.com/money/filecoin-price-prediction",
+    "pubDate": "Thu, 22 Oct 2026 14:13:19 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "wsj",
+    "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+    "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+    "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Allegion: 3 Key Takeaways for Long-Term Investors",
+    "desc": "Key PointsAllegion raised its 2026 reported revenue growth outlook to 9.5% to 10.5%.",
+    "link": "https://www.nasdaq.com/articles/allegion-3-key-takeaways-long-term-investors",
+    "pubDate": "Fri, 23 Oct 2026 04:24:36 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "IonQ vs. Rigetti Computing: Which Quantum Computing Stock Is the Better Buy?",
+    "desc": "Key PointsIonQ and Rigetti use different technologies in their quantum computers.",
+    "link": "https://www.nasdaq.com/articles/ionq-vs-rigetti-computing-which-quantum-computing-stock-better-buy",
+    "pubDate": "Fri, 23 Oct 2026 04:20:00 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Medpace: 3 Key Takeaways for Long-Term Investors",
+    "desc": "Key PointsNet new business awards reached $873 million in the third quarter.",
+    "link": "https://www.nasdaq.com/articles/medpace-3-key-takeaways-long-term-investors",
+    "pubDate": "Fri, 23 Oct 2026 04:11:54 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Boston Beer: 3 Key Takeaways for Long-Term Investors",
+    "desc": "Key PointsThird-quarter gross margin rose to 51.7%.",
+    "link": "https://www.nasdaq.com/articles/boston-beer-3-key-takeaways-long-term-investors",
+    "pubDate": "Fri, 23 Oct 2026 04:04:07 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Glacier Bancorp Inc. Bottom Line Advances In Q3",
+    "desc": "(RTTNews) - Glacier Bancorp Inc. (GBCI) reported a profit for its third quarter that Increases, from last year",
+    "link": "https://www.nasdaq.com/articles/glacier-bancorp-inc-bottom-line-advances-q3",
+    "pubDate": "Fri, 23 Oct 2026 03:52:25 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
+    "desc": "Key PointsTesla's third-quarter revenue was flat year over year at $28.0 billion.",
+    "link": "https://www.nasdaq.com/articles/ive-covered-tesla-over-decade-heres-whether-its-stock-buy-more-21-below-its-record",
+    "pubDate": "Fri, 23 Oct 2026 03:34:02 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "nasdaq",
+    "title": "Australian Market Trims Early Losses In Mid-market",
+    "desc": "(RTTNews) - The Australian stock market is trimming its early losses in mid-market moves on Friday, but extending the losses in the previous session, following the mixed cues from Wall Street overnight. The benchmark S&P/ASX 200 is falling well below the 8,800 level, with weaknes",
+    "link": "https://www.nasdaq.com/articles/australian-market-trims-early-losses-mid-market-7",
+    "pubDate": "Fri, 23 Oct 2026 03:26:29 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "fortune",
+    "title": "‘They are trying to intimidate us’: Indonesia’s Prabowo remains defiant in the face of an MSCI double downgrade",
+    "desc": "MSCI's proposal to reclassify Indonesia as a \"standalone\" market triggered a stock rout and a presidential outburst.",
+    "link": "https://fortune.com/2026/10/22/they-are-trying-to-intimidate-us-indonesias-prabowo-remains-defiant-in-the-face-of-an-msci-double-downgrade/",
+    "pubDate": "Fri, 23 Oct 2026 03:45:47 +0000",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Trump says Musk restored Ukraine’s Starlink access, declines to say if they spoke",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
+    "pubDate": "2026-10-23 04:12:59",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "Gift Nifty 50 stuck in $22,700-$22,900 range: Live levels",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-faces-bull-trap-risk-at-23036-vwap-live-levels-93CH-4956292",
+    "pubDate": "2026-10-23 04:02:26",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "investingeuro",
+    "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+    "desc": "",
+    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
+    "pubDate": "2026-10-23 04:00:20",
+    "fetchedAt": "2026-10-23T05:01:37.564Z"
+  },
+  {
+    "source": "cnbc",
     "title": "SK Hynix shares pare losses in choppy trade as chipmaker halts Solidigm IPO review",
     "desc": "SK Hynix shares pare losses in choppy trade following halted review of Solidigm IPO plans in the U.S.",
     "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
@@ -6038,365 +6398,5 @@
     "link": "https://fortune.com/2026/10/22/icc-eu-human-rights-award-trump-sanctions/",
     "pubDate": "Thu, 22 Oct 2026 15:10:43 +0000",
     "fetchedAt": "2026-10-22T16:01:42.476Z"
-  },
-  {
-    "source": "fortune",
-    "title": "Gen Z expects to inherit $124 trillion—but retired boomers are ‘spending their kids’ inheritance’ to go on vacation instead. It&#8217;s called Ski-ing",
-    "desc": "Retired boomers are Ski-ing—\"spending the kids’ inheritance.\" It will be a huge shock to millennial and Gen Z who expect a $124 trillion wealth transfer.",
-    "link": "https://fortune.com/2026/10/22/gen-z-millennials-inherit-124-trillion-retired-boomers-spending-kids-inheritance-vacation-skiing-great-wealth-transfer/",
-    "pubDate": "Thu, 22 Oct 2026 07:01:00 +0000",
-    "fetchedAt": "2026-10-22T16:01:42.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Poland stocks lower at close of trade; WIG30 down 1.49%",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-149-4966924",
-    "pubDate": "2026-10-22 15:35:03",
-    "fetchedAt": "2026-10-22T16:01:42.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Newmont stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-newmont-stock-sliding-today-93CH-4966922",
-    "pubDate": "2026-10-22 15:32:15",
-    "fetchedAt": "2026-10-22T16:01:42.476Z"
-  },
-  {
-    "source": "investingeuro",
-    "title": "Why is Barrick Mining stock sliding today?",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-barrick-mining-stock-sliding-today-93CH-4966921",
-    "pubDate": "2026-10-22 15:32:10",
-    "fetchedAt": "2026-10-22T16:01:42.476Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
-    "desc": "Blackstone COO Jon Gray says CoreWeave's underlying business is strong despite concerns over its mounting debt.",
-    "link": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
-    "pubDate": "Thu, 22 Oct 2026 14:11:14 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "cnbc",
-    "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-    "desc": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
-    "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-    "pubDate": "Thu, 22 Oct 2026 14:49:10 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Websites taken down worldwide as critical cyber-security update issued",
-    "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-    "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 21 Oct 2026 19:54:57 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The grads ditching the UK for a fresh start abroad",
-    "desc": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-    "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 21 Oct 2026 23:12:06 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-    "desc": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 21 Oct 2026 22:54:58 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-    "desc": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
-    "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 21 Oct 2026 17:04:13 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Google resolves cloud outage affecting UK banks and websites",
-    "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-    "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 20 Oct 2026 18:03:19 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-    "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-    "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 20 Oct 2026 10:06:34 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Why are more roofs not made of solar tiles?",
-    "desc": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-    "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 08 Oct 2026 23:09:56 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "desc": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 07 Oct 2026 23:10:13 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The AI telling farmers when to harvest",
-    "desc": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The start-ups hoping to return battery making to the US",
-    "desc": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 29 Sep 2026 23:06:50 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "X-planes: Are they needed in the new era of drones?",
-    "desc": "Where do America's X-plane projects fit in an era of cheap drones?",
-    "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 24 Sep 2026 23:03:53 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Spain battles climate change on several fronts",
-    "desc": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The virtual worlds where robots are trained",
-    "desc": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "My hometown shows that high streets have to change or die",
-    "desc": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "desc": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Fri, 25 Sep 2026 08:31:56 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "bbc",
-    "title": "The Briefing Room",
-    "desc": "After mass protests and violence, what will persuade the French to accept economic reform?",
-    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&amp;at_campaign=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:19:00 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "Agnico, Barrick, and Newmont fall following broad Freedom Broker downgrades",
-    "desc": "",
-    "link": "https://www.investing.com/news/stock-market-news/agnico-barrick-and-newmont-fall-following-broad-freedom-broker-downgrades-4966824",
-    "pubDate": "2026-10-22 14:53:49",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "Eastnine Q3 2026 slides: Bridge acquisition lifts Warsaw to 47% of portfolio",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/eastnine-q3-2026-slides-bridge-acquisition-lifts-warsaw-to-47-of-portfolio-93CH-4966823",
-    "pubDate": "2026-10-22 14:53:27",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMO cuts Crown Castle stock price target on softer leasing outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bmo-cuts-crown-castle-stock-price-target-on-softer-leasing-outlook-93CH-4966821",
-    "pubDate": "2026-10-22 14:52:50",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "Winnebago stock rises as StoneX lowers price target on industry outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/winnebago-stock-rises-as-stonex-lowers-price-target-on-industry-outlook-93CH-4966822",
-    "pubDate": "2026-10-22 14:52:50",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMO raises IBM stock price target to $265 on software outlook",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bmo-raises-ibm-stock-price-target-to-265-on-software-outlook-93CH-4966820",
-    "pubDate": "2026-10-22 14:52:48",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMO cuts Alaska Air stock price target on fuel, leverage headwinds",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bmo-cuts-alaska-air-stock-price-target-on-fuel-leverage-headwinds-93CH-4966819",
-    "pubDate": "2026-10-22 14:52:46",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMO raises SAP stock price target to $265 on cloud growth beat",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bmo-raises-sap-stock-price-target-to-265-on-cloud-growth-beat-93CH-4966817",
-    "pubDate": "2026-10-22 14:52:44",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "StoneX reiterates Hold on Nike stock after CFO meeting",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/stonex-reiterates-hold-on-nike-stock-after-cfo-meeting-93CH-4966818",
-    "pubDate": "2026-10-22 14:52:44",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "BMO cuts United Airlines stock price target on macro uncertainty",
-    "desc": "",
-    "link": "https://www.investing.com/news/analyst-ratings/bmo-cuts-united-airlines-stock-price-target-on-macro-uncertainty-93CH-4966816",
-    "pubDate": "2026-10-22 14:52:43",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "investing",
-    "title": "Centene Corp stock hits 52-week high at $71.74",
-    "desc": "",
-    "link": "https://www.investing.com/news/company-news/centene-corp-stock-hits-52week-high-at-7174-93CH-4966815",
-    "pubDate": "2026-10-22 14:51:06",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-    "desc": "&#x201c;I never paid rent, although I put about $45,000 toward a new kitchen and a roof.&#x201d;",
-    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    "pubDate": "Thu, 22 Oct 2026 15:00:00 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I&#x2019;m crazy. Who&#x2019;s right?",
-    "desc": "&#x201c;I don&#x2019;t want to enter retirement owing six figures when we have the cash to clear it.&#x201d;",
-    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-    "pubDate": "Thu, 22 Oct 2026 14:30:00 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "marketwatch",
-    "title": "I&#x2019;m 58 and hate annuities. How can I get dependable income in retirement?",
-    "desc": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
-    "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-    "pubDate": "Thu, 22 Oct 2026 14:00:00 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "guardian",
-    "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-    "desc": "<p>Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/oct/22/tell-us-small-business-have-you-been-affected-by-the-php-code-flaw\">Tell us: have you been affected by the PHP code flaw?</a></p></li></ul><p>The <strong>Office for National Statistics</strong> has also published <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2026\">a report on the gender pay gap</a>. It says:</p><p>The gender pay gap for full-time employees has continued to decline in the UK. It was 6.8% in April 2026, down from 7.2% in April 2025. This compares with 9.4% a decade ago and 16.4% 25 years ago.</p><p>Secondly, I asked <strong>Healey</strong> whether he sees the banks as making excessive profits, which would be the coherent justification for him to increase the surcharge on bank profits – as he is expected to do in the Budget next week.</p><p>He said: “You know the banks are the engine of investment in this country. The banks are doing well at the moment and that is good to see.</p> <a href=\"https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates\">Continue reading...</a>",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-    "pubDate": "Thu, 22 Oct 2026 14:35:47 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "ft",
-    "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
-    "desc": "Social media group’s market value tumbles by more than $100bn after it forecasts ‘hundreds of billions of dollars’ in spending",
-    "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-    "pubDate": "Thu, 22 Oct 2026 14:16:30 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "ft",
-    "title": "A report card on Trump’s second term",
-    "desc": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard.",
-    "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
-    "pubDate": "Thu, 22 Oct 2026 04:00:03 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "ft",
-    "title": "‘Know Your Agent’ will be the new rule of the AI age",
-    "desc": "As autonomous software does more, we need to focus on how to control its behaviour and establish accountability",
-    "link": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
-    "pubDate": "Thu, 22 Oct 2026 14:38:28 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "ft",
-    "title": "Macron warns some protests will be banned",
-    "desc": "French president says labour unions will be allowed to organise marches on Saturday, but not other activists",
-    "link": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1",
-    "pubDate": "Thu, 22 Oct 2026 12:36:33 GMT",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "SpaceX AI launches partner network with names like Nvidia, Databricks, Bain",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655984-spacex-ai-launches-partner-network-with-names-like-nvidia-databricks-bain?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 10:58:57 -0400",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "TrustCo outlines $27.8M-$28.2M quarterly expense range as it anticipates positive momentum into 2027",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655989-trustco-outlines-27_8m-28_2m-quarterly-expense-range-as-it-anticipates-positive-momentum-into?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 10:58:39 -0400",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Allegion raises 2026 adjusted EPS outlook to $9.05-$9.10 as Americas non-residential momentum continues",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655988-allegion-raises-2026-adjusted-eps-outlook-to-9_05-9_10-as-americas-non-residential-momentum?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 10:58:35 -0400",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Economy to lose momentum without fiscal stimulus after midterms &#x2013; Pantheon Macroeconomics",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655987-economy-to-lose-momentum-without-fiscal-stimulus-after-midterms-pantheon-macroeconomics?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 10:56:51 -0400",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
-  },
-  {
-    "source": "seekingalpha",
-    "title": "Wedbush assumes coverage of five housing-related stocks after recent underperformance",
-    "desc": "",
-    "link": "https://seekingalpha.com/news/4655977-wedbush-assumes-coverage-of-five-housing-related-stocks-after-recent-underperformance?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news",
-    "pubDate": "Thu, 22 Oct 2026 10:42:12 -0400",
-    "fetchedAt": "2026-10-22T15:01:43.236Z"
   }
 ]
