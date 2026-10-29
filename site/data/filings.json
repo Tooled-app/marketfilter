@@ -1,16 +1,32 @@
 [
   {
-    "ticker": "AAPL",
-    "title": "Apple Inc.",
-    "cik": "0000320193",
+    "ticker": "MSFT",
+    "title": "MICROSOFT CORP",
+    "cik": "0000789019",
     "filings": [
       {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0001140361-26-040540",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-20",
+        "form": "8-K",
+        "filed": "2026-10-28",
+        "accession": "0001193125-26-436149",
+        "primaryDoc": "msft-20261028.htm",
+        "reportDate": "2026-10-28",
+        "items": "8.01,9.01"
+      },
+      {
+        "form": "10-Q",
+        "filed": "2026-10-28",
+        "accession": "0001193125-26-436133",
+        "primaryDoc": "msft-20260930.htm",
+        "reportDate": "2026-09-30",
         "items": ""
+      },
+      {
+        "form": "8-K",
+        "filed": "2026-10-28",
+        "accession": "0001193125-26-436122",
+        "primaryDoc": "msft-20261028.htm",
+        "reportDate": "2026-10-28",
+        "items": "2.02,9.01"
       }
     ]
   },
@@ -19,6 +35,14 @@
     "title": "Alphabet Inc.",
     "cik": "0001652044",
     "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-28",
+        "accession": "0001652044-26-000080",
+        "primaryDoc": "goog-20261028.htm",
+        "reportDate": "2026-10-28",
+        "items": "2.02,9.01"
+      },
       {
         "form": "4",
         "filed": "2026-10-27",
@@ -75,6 +99,22 @@
     "cik": "0001326801",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-10-28",
+        "accession": "0000950103-26-016314",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-10-26",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-10-28",
+        "accession": "0000950103-26-016313",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-10-26",
+        "items": ""
+      },
+      {
         "form": "144",
         "filed": "2026-10-26",
         "accession": "0001921094-26-001117",
@@ -88,29 +128,6 @@
         "accession": "0001921094-26-001116",
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
-        "items": ""
-      },
-      {
-        "form": "10-Q",
-        "filed": "2026-10-22",
-        "accession": "0001628280-26-066773",
-        "primaryDoc": "meta-20260930.htm",
-        "reportDate": "2026-09-30",
-        "items": ""
-      }
-    ]
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Tesla, Inc.",
-    "cik": "0001318605",
-    "filings": [
-      {
-        "form": "10-Q",
-        "filed": "2026-10-22",
-        "accession": "0001628280-26-066775",
-        "primaryDoc": "tsla-20260930.htm",
-        "reportDate": "2026-09-30",
         "items": ""
       }
     ]
@@ -166,54 +183,6 @@
         "accession": "0000070858-26-000503",
         "primaryDoc": "xslF345X06/form3.xml",
         "reportDate": "2026-10-21",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0000070858-26-000500",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-20",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0000070858-26-000499",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-20",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0000070858-26-000498",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-20",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0000070858-26-000497",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-20",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0000070858-26-000496",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-20",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-22",
-        "accession": "0000070858-26-000495",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-20",
         "items": ""
       }
     ]
