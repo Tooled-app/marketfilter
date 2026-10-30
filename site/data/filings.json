@@ -1,5 +1,20 @@
 [
   {
+    "ticker": "AAPL",
+    "title": "Apple Inc.",
+    "cik": "0000320193",
+    "filings": [
+      {
+        "form": "4",
+        "filed": "2026-10-29",
+        "accession": "0001140361-26-041201",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-10-27",
+        "items": ""
+      }
+    ]
+  },
+  {
     "ticker": "MSFT",
     "title": "MICROSOFT CORP",
     "cik": "0000789019",
@@ -35,6 +50,22 @@
     "title": "Alphabet Inc.",
     "cik": "0001652044",
     "filings": [
+      {
+        "form": "144",
+        "filed": "2026-10-29",
+        "accession": "0001921094-26-001121",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
+      {
+        "form": "10-Q",
+        "filed": "2026-10-29",
+        "accession": "0001652044-26-000084",
+        "primaryDoc": "goog-20260930.htm",
+        "reportDate": "2026-09-30",
+        "items": ""
+      },
       {
         "form": "8-K",
         "filed": "2026-10-28",
@@ -94,10 +125,33 @@
     ]
   },
   {
+    "ticker": "AMZN",
+    "title": "AMAZON COM INC",
+    "cik": "0001018724",
+    "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-29",
+        "accession": "0001018724-26-000038",
+        "primaryDoc": "amzn-20261029.htm",
+        "reportDate": "2026-10-29",
+        "items": "2.02,9.01"
+      }
+    ]
+  },
+  {
     "ticker": "META",
     "title": "Meta Platforms, Inc.",
     "cik": "0001326801",
     "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-29",
+        "accession": "0001193125-26-438017",
+        "primaryDoc": "d183592d8k.htm",
+        "reportDate": "2026-10-26",
+        "items": "1.01,3.03,5.03,9.01"
+      },
       {
         "form": "4",
         "filed": "2026-10-28",
@@ -139,50 +193,10 @@
     "filings": [
       {
         "form": "4",
-        "filed": "2026-10-23",
-        "accession": "0000070858-26-000508",
+        "filed": "2026-10-29",
+        "accession": "0000070858-26-000543",
         "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-21",
-        "items": ""
-      },
-      {
-        "form": "8-K",
-        "filed": "2026-10-23",
-        "accession": "0001193125-26-430566",
-        "primaryDoc": "d176604d8k.htm",
-        "reportDate": "2026-10-23",
-        "items": "3.03,5.03,8.01,9.01"
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-23",
-        "accession": "0000070858-26-000506",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-21",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-10-23",
-        "accession": "0000070858-26-000505",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-10-21",
-        "items": ""
-      },
-      {
-        "form": "3",
-        "filed": "2026-10-23",
-        "accession": "0000070858-26-000504",
-        "primaryDoc": "xslF345X06/form3.xml",
-        "reportDate": "2026-10-21",
-        "items": ""
-      },
-      {
-        "form": "3",
-        "filed": "2026-10-23",
-        "accession": "0000070858-26-000503",
-        "primaryDoc": "xslF345X06/form3.xml",
-        "reportDate": "2026-10-21",
+        "reportDate": "2026-10-27",
         "items": ""
       }
     ]
