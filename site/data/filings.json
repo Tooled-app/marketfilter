@@ -51,6 +51,14 @@
     "cik": "0001652044",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-10-30",
+        "accession": "0001193125-26-442116",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-10-29",
+        "items": ""
+      },
+      {
         "form": "144",
         "filed": "2026-10-29",
         "accession": "0001921094-26-001121",
@@ -130,6 +138,14 @@
     "cik": "0001018724",
     "filings": [
       {
+        "form": "10-Q",
+        "filed": "2026-10-30",
+        "accession": "0001018724-26-000040",
+        "primaryDoc": "amzn-20260930.htm",
+        "reportDate": "2026-09-30",
+        "items": ""
+      },
+      {
         "form": "8-K",
         "filed": "2026-10-29",
         "accession": "0001018724-26-000038",
@@ -192,12 +208,35 @@
     "cik": "0000070858",
     "filings": [
       {
+        "form": "10-Q",
+        "filed": "2026-10-30",
+        "accession": "0000070858-26-000548",
+        "primaryDoc": "bac-20260930.htm",
+        "reportDate": "2026-09-30",
+        "items": ""
+      },
+      {
         "form": "4",
         "filed": "2026-10-29",
         "accession": "0000070858-26-000543",
         "primaryDoc": "xslF345X06/primary_doc.xml",
         "reportDate": "2026-10-27",
         "items": ""
+      }
+    ]
+  },
+  {
+    "ticker": "XOM",
+    "title": "ExxonMobil Holdings Corp",
+    "cik": "0002115436",
+    "filings": [
+      {
+        "form": "8-K",
+        "filed": "2026-10-30",
+        "accession": "0002115436-26-000018",
+        "primaryDoc": "xom-20261030.htm",
+        "reportDate": "2026-10-30",
+        "items": "2.02,7.01"
       }
     ]
   }
