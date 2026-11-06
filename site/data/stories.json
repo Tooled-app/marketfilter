@@ -1,5 +1,65 @@
 [
   {
+    "id": "ai-capex-selloff-thursday-november-2026",
+    "headline": "The Selloff Was Never About Demand: What Thursday Actually Priced In",
+    "kicker": "Original Investigation",
+    "published": "2026-11-06",
+    "tickers": [
+      "NVDA",
+      "CRWV",
+      "MSFT",
+      "AMZN",
+      "ORCL",
+      "MU"
+    ],
+    "signal": "regulatory",
+    "novelty": 7,
+    "impact": 9,
+    "confidence": 8,
+    "finding": "Thursday's $2tn one-day rout is being reported as an AI bubble deflating. The trading does not support that. Demand signals held up through the week - ASML, TSMC and Schneider all reported strong AI demand and were sold anyway. What repriced was the financing stack: neocloud credit default swaps now above 1,100bp, levered data-centre bonds yielding mid-teens, and a flagship AI IPO marked down from ~$2tn to ~$1.5tn. Simultaneously the midterm results put a statewide data-centre permitting moratorium on the table in Texas. The market is pricing a capacity-constraint trade, not an AI demand collapse - which is why Nvidia fell 9% on the same afternoon Microsoft and Amazon were being bid.",
+    "body": [
+      "The Nasdaq Composite fell more than 5% on Thursday 5 November 2026, closing in correction territory alongside the Russell 2000. The Dow lost more than 1,800 points (over 3%) and the S&P 500 fell more than 4% - its worst single session since 4 April 2025. All eleven S&P sectors closed negative. Information technology fell 7.30%, its worst day since 16 March 2020, and the Technology Select Sector SPDR (XLK) fell 8.04% on more than 33 million shares, three times its 30-day average.",
+      "The concentration of the damage is the story. The 'Magnificent Seven' lost more than $1tn of aggregate market capitalisation in a single session, with Nvidia alone accounting for more than $440bn - a fall of over 9% that turned the stock negative on the year (-2.6% YTD). Breadth was extreme: on the NYSE, decliners outnumbered advancers 2,344 to 416.",
+      "But the same midterm result that triggered the rout produced a split. Microsoft and Amazon each rose more than 6% while CoreWeave fell around 10% and Micron and Nvidia fell 7% and 3.17% respectively. JPMorgan's James Sullivan attributed the bifurcation to borrowing costs: spreads have widened sharply for neocloud companies, leaving their marginal cost of capital far above that of hyperscalers with diversified revenue and internally generated cash.",
+      "The credit market had already voted. Shares of Nvidia-backed CoreWeave, Nebius and Iren fell at least 30% during October as tightening credit conditions raised questions about how AI infrastructure would be financed. CoreWeave's five-year credit default swap spread has pushed past 1,100 basis points. Bonds of the most highly levered AI infrastructure names now yield in the mid-teens, and high-yield issuers tied to data centres trade at spreads of roughly 600bp to 1,600bp - a small corner of the market, but precisely the corner that finances the marginal data centre.",
+      "On the policy side, Democratic victories in key gubernatorial races raised the prospect of tighter scrutiny for data centre projects. In Texas, governor-elect Gina Hinojosa has proposed a statewide moratorium on new data centre permits, with projects already under construction reportedly exempt. Nomura's post-election note observed that much of the capacity expected online in 2027 is already under construction, but projects planned for 2028 face greater permitting and regulatory exposure - meaning tighter rules could become a material headwind to AI investment from 2028 rather than immediately."
+    ],
+    "analysis": "Three things happened at once and only one of them was about AI. First, positioning: equities had gone 53 trading sessions without a 1% daily fall in the S&P 500 before mid-October, and the Philadelphia Semiconductor Index then fell for eight consecutive sessions - its longest losing streak since 2008. That is a crowded trade clearing, not a thesis breaking. Second, funding: free cash flow is turning negative across the hyperscaler group as capex guidance rises again for next year, which pushes even the largest spenders onto capital markets at exactly the moment those markets tightened. Third, policy: the midterms converted an abstract regulatory risk into a named governor with a named moratorium. The self-reinforcing loop is the thing to watch - harder funding means fewer data centres, fewer data centres mean less capacity to sell, slower earnings mean less appetite to fund the next capex round. Nvidia's 9% fall alongside Microsoft's 6% gain on the same news is not a contradiction; it is the market distinguishing between companies that own existing capacity and companies that must borrow to build more.",
+    "implications": [
+      "For investors: the differentiator is now balance sheet, not exposure. Hyperscalers with internally generated cash and capacity already in the ground are structurally advantaged over debt-funded neoclouds facing mid-teens yields and 1,100bp+ CDS spreads.",
+      "For the AI trade: watch earnings guidance, not sentiment. The circuit breaker is a hyperscaler capping capex or showing free cash flow recovering - neither appeared in the latest earnings season.",
+      "For 2028 capacity: permitting is the binding constraint to monitor. 2027 build is largely already under construction; 2028 projects are where moratoriums and gubernatorial policy actually bite.",
+      "For valuations: the reported markdown of a flagship AI IPO from roughly $2tn to roughly $1.5tn matters twice - less capital flowing into infrastructure, and a lower comparable for every AI name marked against it."
+    ],
+    "sources": [
+      {
+        "label": "CNBC — 'Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday\\'s tech stock plunge' (5 Nov 2026)",
+        "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html"
+      },
+      {
+        "label": "CNBC — 'AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025' (5 Nov 2026)",
+        "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+      },
+      {
+        "label": "CNBC — 'How the midterms could fuel the K-shaped AI trade' (5 Nov 2026)",
+        "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html"
+      },
+      {
+        "label": "Barclays Private Bank — 'AI sell-off: strong demand vs. funding needs', Julien Lafargue (2 Nov 2026)",
+        "url": "https://privatebank.barclays.com/insights/ai-sell-off-11-2026/"
+      },
+      {
+        "label": "AP — 'A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%' (5 Nov 2026)",
+        "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+      },
+      {
+        "label": "Reuters — 'Nasdaq set to confirm correction as AI spending worries mount' (5 Nov 2026)",
+        "url": "https://www.reuters.com/5f374b32b07b/markets/us/nasdaq-set-correction-investors-reassess-ai-spending-boom-2026-11-05/"
+      }
+    ],
+    "disclaimer": "Not investment advice. For informational purposes only. Original analysis is labelled; all facts are cited to the underlying reporting."
+  },
+  {
     "id": "nvda-hugging-face-open-source-paradox",
     "headline": "The Open-Source Paradox: What Nvidia's $11.9B Hugging Face Deal Really Buys",
     "kicker": "Original Investigation",
