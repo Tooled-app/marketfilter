@@ -1,8 +1,11 @@
-import fs from "fs";
-import path from "path";
-
-// Path to the market filter data directory (deployed with the site on Vercel)
-const DATA_DIR = path.join(process.cwd(), "data");
+// Static data loading: JSON is imported at build time so the site needs no
+// runtime filesystem access and can be fully static-exported.
+// ticker-stats.json and public/search-index.json are produced by scripts/prebuild.mjs.
+import newsJson from "../data/news.json";
+import newsMetaJson from "../data/news-meta.json";
+import filingsJson from "../data/filings.json";
+import storiesJson from "../data/stories.json";
+import tickerStatsJson from "../data/ticker-stats.json";
 
 export interface NewsItem {
   source: string;
@@ -61,16 +64,8 @@ export interface Story {
   disclaimer: string;
 }
 
-function readJson<T>(file: string): T | null {
-  try {
-    return JSON.parse(fs.readFileSync(file, "utf8")) as T;
-  } catch {
-    return null;
-  }
-}
-
 export function getNews(): NewsItem[] {
-  return readJson<NewsItem[]>(path.join(DATA_DIR, "news.json")) ?? [];
+  return (newsJson as NewsItem[]) ?? [];
 }
 
 /**
@@ -122,20 +117,20 @@ export function dayLabel(pubDate: string): string {
 }
 
 export function getNewsMeta(): NewsMeta | null {
-  return readJson<NewsMeta>(path.join(DATA_DIR, "news-meta.json"));
+  return (newsMetaJson as NewsMeta) ?? null;
 }
 
 export function getFilings(): CompanyFilings[] {
-  return readJson<CompanyFilings[]>(path.join(DATA_DIR, "filings.json")) ?? [];
+  return (filingsJson as CompanyFilings[]) ?? [];
 }
 
 export function getStories(): Story[] {
-  return readJson<Story[]>(path.join(DATA_DIR, "stories.json")) ?? [];
+  return (storiesJson as Story[]) ?? [];
 }
 
 export function getTickerCount(): number {
-  const map = readJson<Record<string, unknown>>(path.join(DATA_DIR, "sec-tickers.json"));
-  return map ? Object.keys(map).length : 0;
+  const s = tickerStatsJson as { count?: number } | undefined;
+  return s?.count ?? 0;
 }
 
 // Format an ISO date (yyyy-mm-dd) as a human-friendly British date, e.g. "2026-09-11" -> "11 September 2026"

@@ -1,8 +1,11 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 import { getStories, formatFilingDate } from "@/lib/data";
 
-export const dynamic = "force-dynamic";
+// Static export: enumerate every investigation at build time.
+export function generateStaticParams() {
+  return (getStories() ?? []).map((s) => ({ id: s.id }));
+}
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;
@@ -24,7 +27,7 @@ export default async function StoryPage({ params }: { params: Promise<{ id: stri
       <div className="max-w-3xl mx-auto px-6 py-20">
         <h1 className="text-2xl font-bold">Story not found.</h1>
         <Link href="/stories" className="text-[var(--blue)] underline mt-4 inline-block">
-          ← Back to investigations
+          â† Back to investigations
         </Link>
       </div>
     );
@@ -33,11 +36,11 @@ export default async function StoryPage({ params }: { params: Promise<{ id: stri
   return (
     <div className="max-w-3xl mx-auto px-6 py-10">
       <Link href="/stories" className="text-[12px] text-[var(--dim)] hover:text-[var(--green)]">
-        ← All investigations
+        â† All investigations
       </Link>
 
       <div className="kicker text-[var(--green)] text-[12px] tracking-[2px] uppercase mt-6">
-        {story.kicker} · {formatFilingDate(story.published)}
+        {story.kicker} Â· {formatFilingDate(story.published)}
       </div>
       <h1 className="text-[clamp(24px,4vw,36px)] leading-[1.15] font-bold mt-3">
         {story.headline}
@@ -74,7 +77,7 @@ export default async function StoryPage({ params }: { params: Promise<{ id: stri
         <ul className="mt-3 space-y-2">
           {story.implications.map((imp, i) => (
             <li key={i} className="text-[14px] leading-relaxed text-[var(--ink)] flex gap-3">
-              <span className="text-[var(--green)]">▸</span>
+              <span className="text-[var(--green)]">â–¸</span>
               <span>{imp}</span>
             </li>
           ))}

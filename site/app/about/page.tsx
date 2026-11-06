@@ -1,10 +1,9 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "What Market Filter is — a market intelligence feed that mines SEC, LSE and Nasdaq filings for original stories.",
+  description: "What Market Filter is â€” a market intelligence feed that mines SEC, LSE and Nasdaq filings for original stories.",
   alternates: { canonical: "/about" },
 };
 
@@ -27,7 +26,7 @@ export default function AboutPage() {
         </p>
         <p>
           Every story is sourced and verifiable. Market Filter is not investment
-          advice — it&apos;s the facts, presented clearly.
+          advice â€” it&apos;s the facts, presented clearly.
         </p>
       </div>
     </div>

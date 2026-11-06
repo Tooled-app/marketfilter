@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { redirect } from "next/navigation";
 import { getNews, getNewsMeta, getFilings, getTickerCount, getStories, SOURCE_NAMES, formatFilingDate, formatNewsDate } from "@/lib/data";
 
 export const metadata: Metadata = {
@@ -50,19 +49,7 @@ function formatPubDate(iso: string): string {
   });
 }
 
-export const dynamic = "force-dynamic";
-
-interface HomeProps {
-  searchParams: Promise<{ q?: string }>;
-}
-
-export default async function Home({ searchParams }: HomeProps) {
-  const { q } = await searchParams;
-  // Support the JSON-LD SearchAction target (/?q=...) by forwarding to the search page.
-  if (q && q.trim()) {
-    redirect(`/search?q=${encodeURIComponent(q.trim())}`);
-  }
-
+export default async function Home() {
   const news = getNews() ?? [];
   const meta = getNewsMeta();
   const filings = getFilings() ?? [];
@@ -89,7 +76,7 @@ export default async function Home({ searchParams }: HomeProps) {
             description: "Market intelligence feed mining SEC, LSE and Nasdaq filings for original stories.",
             potentialAction: {
               "@type": "SearchAction",
-              target: "https://marketfilter.biz/?q={search_term_string}",
+              target: "https://marketfilter.biz/search?q={search_term_string}",
               "query-input": "required name=search_term_string",
             },
           }),

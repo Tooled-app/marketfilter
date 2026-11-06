@@ -1,6 +1,5 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Method",
@@ -21,7 +20,7 @@ export default function MethodPage() {
         <p>
           Every news headline and summary on Market Filter is attributed to its
           original source. Each item shows the publisher name and links directly
-          to the original article. We never reproduce full articles — only
+          to the original article. We never reproduce full articles â€” only
           headlines and brief summaries for informational purposes.
         </p>
 

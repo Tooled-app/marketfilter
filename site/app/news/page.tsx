@@ -1,8 +1,7 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 import { getLiveNews, getNewsMeta, getNews, SOURCE_NAMES, formatNewsDate } from "@/lib/data";
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Market News",
@@ -36,11 +35,11 @@ export default function NewsPage() {
         </h1>
         <p className="text-[var(--dim)] max-w-[620px] mt-3">
           Aggregated from {meta?.fetched ?? 0} financial sources. If major news breaks,
-          it lands here within the hour. This is the latest {news.length} items — the full{" "}
+          it lands here within the hour. This is the latest {news.length} items â€” the full{" "}
           <Link href="/news/archive" className="text-[var(--blue)] underline">archive</Link> is grouped by day.
         </p>
         <div className="mt-4 flex gap-6 text-[12px] text-[var(--faint)]">
-          <span>Last refresh <b className="text-[var(--ink)]">{meta?.lastRun ? timeAgo(meta.lastRun) : "—"}</b></span>
+          <span>Last refresh <b className="text-[var(--ink)]">{meta?.lastRun ? timeAgo(meta.lastRun) : "â€”"}</b></span>
           <span>Showing <b className="text-[var(--ink)]">{news.length}</b></span>
           <span>All-time <b className="text-[var(--ink)]">{total}</b></span>
         </div>
@@ -56,7 +55,7 @@ export default function NewsPage() {
             <div className="src">
               {SOURCE_NAMES[n.source] ?? n.source}
               <div className="text-[var(--faint)] mt-1">
-                {n.pubDate ? timeAgo(n.pubDate) + " · " + formatNewsDate(n.pubDate) : ""}
+                {n.pubDate ? timeAgo(n.pubDate) + " Â· " + formatNewsDate(n.pubDate) : ""}
               </div>
             </div>
             <div>
@@ -74,7 +73,7 @@ export default function NewsPage() {
         ))}
         {news.length === 0 && (
           <div className="story">
-            <div className="title">No news yet — run the ingestion engine.</div>
+            <div className="title">No news yet â€” run the ingestion engine.</div>
           </div>
         )}
       </section>

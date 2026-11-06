@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "prebuild": "node scripts/prebuild.mjs",
+    "dev": "npm run prebuild && next dev",
+    "build": "npm run prebuild && next build",
+    "start": "node scripts/serve-export.mjs",
     "lint": "eslint"
   },
   "dependencies": {

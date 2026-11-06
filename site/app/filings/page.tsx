@@ -1,11 +1,10 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import { getFilings, formatFilingDate } from "@/lib/data";
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "SEC Filings",
-  description: "Recent SEC filings from the watchlist — 8-K, 10-Q, 10-K, Form 4 insider trades and more.",
+  description: "Recent SEC filings from the watchlist â€” 8-K, 10-Q, 10-K, Form 4 insider trades and more.",
   alternates: { canonical: "/filings" },
 };
 
@@ -50,12 +49,12 @@ export default function FilingsPage() {
               <div>
                 <div className="title">
                   <span className={`tag ${FORM_TAG[f.form] ?? "reg"}`}>{f.form}</span>
-                  {c.ticker} — {c.title}
+                  {c.ticker} â€” {c.title}
                 </div>
                 <div className="src">
-                  SEC {f.form} · filed {formatFilingDate(f.filed)}
-                  {f.items ? ` · items ${f.items}` : ""}
-                  {f.reportDate ? ` · report ${formatFilingDate(f.reportDate)}` : ""}
+                  SEC {f.form} Â· filed {formatFilingDate(f.filed)}
+                  {f.items ? ` Â· items ${f.items}` : ""}
+                  {f.reportDate ? ` Â· report ${formatFilingDate(f.reportDate)}` : ""}
                 </div>
               </div>
               <div className="score">CIK<b>{c.cik.slice(-4)}</b></div>
@@ -64,7 +63,7 @@ export default function FilingsPage() {
         )}
         {filings.length === 0 && (
           <div className="story">
-            <div className="title">No filings cached — run the SEC ingestion engine.</div>
+            <div className="title">No filings cached â€” run the SEC ingestion engine.</div>
           </div>
         )}
       </section>

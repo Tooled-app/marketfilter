@@ -1,12 +1,11 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import { getStories, formatFilingDate } from "@/lib/data";
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Original Investigations",
   description:
-    "Market Filter original investigations — stories mined from SEC filings and primary sources that the mainstream missed. Factual, sourced, no plagiarism.",
+    "Market Filter original investigations â€” stories mined from SEC filings and primary sources that the mainstream missed. Factual, sourced, no plagiarism.",
   alternates: { canonical: "/stories" },
 };
 
@@ -34,8 +33,8 @@ export default function StoriesPage() {
           The story behind the filing.
         </h1>
         <p className="text-[var(--dim)] max-w-[620px] mt-3">
-          Market Filter mines primary sources — SEC filings, regulatory dockets, company
-          announcements — and surfaces the angles the mainstream missed. Every claim is
+          Market Filter mines primary sources â€” SEC filings, regulatory dockets, company
+          announcements â€” and surfaces the angles the mainstream missed. Every claim is
           cited. Original analysis is clearly labeled.
         </p>
         <div className="mt-4 flex gap-6 text-[12px] text-[var(--faint)]">
@@ -59,7 +58,7 @@ export default function StoriesPage() {
                 {s.headline}
               </div>
               <div className="src">
-                {s.tickers.join(", ")} · novelty {s.novelty}/10 · impact {s.impact}/10 · confidence {s.confidence}/10
+                {s.tickers.join(", ")} Â· novelty {s.novelty}/10 Â· impact {s.impact}/10 Â· confidence {s.confidence}/10
               </div>
               <p className="desc text-[var(--dim)] text-[13px] mt-3 leading-relaxed">{s.finding}</p>
             </div>

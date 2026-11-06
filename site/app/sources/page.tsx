@@ -1,12 +1,11 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import { getNewsMeta, SOURCE_NAMES } from "@/lib/data";
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Sources",
   description:
-    "The sources Market Filter aggregates news from — financial outlets and primary documents.",
+    "The sources Market Filter aggregates news from â€” financial outlets and primary documents.",
   alternates: { canonical: "/sources" },
 };
 
@@ -30,11 +29,11 @@ export default function SourcesPage() {
           </li>
         ))}
         <li className="border-b border-[var(--line)] pb-2">
-          U.S. SEC EDGAR — primary filings (8-K, 10-Q, 10-K, Form 4)
+          U.S. SEC EDGAR â€” primary filings (8-K, 10-Q, 10-K, Form 4)
         </li>
       </ul>
       <p className="text-[11px] text-[var(--faint)] mt-6">
-        Last refresh: {meta?.lastRun ? new Date(meta.lastRun).toLocaleString("en-GB") : "—"} · {meta?.fetched ?? 0} sources online.
+        Last refresh: {meta?.lastRun ? new Date(meta.lastRun).toLocaleString("en-GB") : "â€”"} Â· {meta?.fetched ?? 0} sources online.
       </p>
     </div>
   );

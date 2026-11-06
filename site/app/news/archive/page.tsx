@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 import {
   getNewsSorted,
@@ -9,9 +9,8 @@ import {
   dayLabel,
 } from "@/lib/data";
 
-export const dynamic = "force-dynamic";
 export const metadata: Metadata = {
-  title: "News Archive — Market Filter",
+  title: "News Archive â€” Market Filter",
   description: "Full archive of market news, grouped by day.",
   alternates: { canonical: "/news/archive" },
 };
@@ -67,7 +66,7 @@ export default function NewsArchivePage() {
                 <div className="src">
                   {SOURCE_NAMES[n.source] ?? n.source}
                   <div className="text-[var(--faint)] mt-1">
-                    {n.pubDate ? timeAgo(n.pubDate) + " · " + formatNewsDate(n.pubDate) : ""}
+                    {n.pubDate ? timeAgo(n.pubDate) + " Â· " + formatNewsDate(n.pubDate) : ""}
                   </div>
                 </div>
                 <div>
@@ -88,7 +87,7 @@ export default function NewsArchivePage() {
       ))}
 
       {all.length === 0 && (
-        <div className="py-12 text-[var(--dim)]">No archived news yet — run the ingestion engine.</div>
+        <div className="py-12 text-[var(--dim)]">No archived news yet â€” run the ingestion engine.</div>
       )}
 
       <p className="text-[11px] text-[var(--faint)] mt-8 pb-8">
