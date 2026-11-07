@@ -1,5 +1,20 @@
 [
   {
+    "ticker": "NVDA",
+    "title": "NVIDIA CORP",
+    "cik": "0001045810",
+    "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-06",
+        "accession": "0001197647-26-000013",
+        "primaryDoc": "xslF345X06/wk-form4_1793999520.xml",
+        "reportDate": "2026-11-04",
+        "items": ""
+      }
+    ]
+  },
+  {
     "ticker": "AAPL",
     "title": "Apple Inc.",
     "cik": "0000320193",
@@ -104,6 +119,14 @@
     "title": "Meta Platforms, Inc.",
     "cik": "0001326801",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-06",
+        "accession": "0000950103-26-017123",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-04",
+        "items": ""
+      },
       {
         "form": "8-K",
         "filed": "2026-11-05",
