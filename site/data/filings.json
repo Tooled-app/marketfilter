@@ -20,19 +20,19 @@
     "cik": "0000320193",
     "filings": [
       {
+        "form": "8-K",
+        "filed": "2026-11-09",
+        "accession": "0001140361-26-042798",
+        "primaryDoc": "ef20085077_8k.htm",
+        "reportDate": "2026-11-05",
+        "items": "8.01,9.01"
+      },
+      {
         "form": "4",
         "filed": "2026-11-05",
         "accession": "0001140361-26-042149",
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-11-03",
-        "items": ""
-      },
-      {
-        "form": "10-K",
-        "filed": "2026-11-03",
-        "accession": "0000320193-26-000026",
-        "primaryDoc": "aapl-20260926.htm",
-        "reportDate": "2026-09-26",
         "items": ""
       }
     ]
@@ -42,6 +42,14 @@
     "title": "MICROSOFT CORP",
     "cik": "0000789019",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-09",
+        "accession": "0000789019-26-000230",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-06",
+        "items": ""
+      },
       {
         "form": "144",
         "filed": "2026-11-05",
@@ -112,6 +120,14 @@
     "cik": "0001326801",
     "filings": [
       {
+        "form": "144",
+        "filed": "2026-11-09",
+        "accession": "0001921094-26-001151",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
+      {
         "form": "4",
         "filed": "2026-11-06",
         "accession": "0000950103-26-017123",
@@ -146,55 +162,32 @@
     ]
   },
   {
-    "ticker": "JPM",
-    "title": "JPMORGAN CHASE & CO",
-    "cik": "0000019617",
-    "filings": [
-      {
-        "form": "10-Q",
-        "filed": "2026-11-03",
-        "accession": "0001628280-26-069523",
-        "primaryDoc": "jpm-20260930.htm",
-        "reportDate": "2026-09-30",
-        "items": ""
-      }
-    ]
-  },
-  {
     "ticker": "BAC",
     "title": "BANK OF AMERICA CORP /DE/",
     "cik": "0000070858",
     "filings": [
       {
         "form": "4",
+        "filed": "2026-11-09",
+        "accession": "0000070858-26-000572",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-11-05",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-09",
+        "accession": "0000070858-26-000571",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-11-05",
+        "items": ""
+      },
+      {
+        "form": "4",
         "filed": "2026-11-05",
         "accession": "0000070858-26-000563",
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-11-03",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-03",
-        "accession": "0000070858-26-000556",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-30",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-03",
-        "accession": "0000070858-26-000555",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-30",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-03",
-        "accession": "0000070858-26-000554",
-        "primaryDoc": "xslF345X06/primary_doc.xml",
-        "reportDate": "2026-10-30",
         "items": ""
       }
     ]
