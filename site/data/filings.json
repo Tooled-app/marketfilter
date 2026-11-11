@@ -44,6 +44,14 @@
     "filings": [
       {
         "form": "4",
+        "filed": "2026-11-10",
+        "accession": "0000789019-26-000232",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-09",
+        "items": ""
+      },
+      {
+        "form": "4",
         "filed": "2026-11-09",
         "accession": "0000789019-26-000230",
         "primaryDoc": "xslF345X06/form4.xml",
@@ -65,14 +73,6 @@
         "primaryDoc": "d177209d8k.htm",
         "reportDate": "2026-11-04",
         "items": "5.02"
-      },
-      {
-        "form": "8-K",
-        "filed": "2026-11-04",
-        "accession": "0001193125-26-447173",
-        "primaryDoc": "d178557d8k.htm",
-        "reportDate": "2026-10-29",
-        "items": "8.01,9.01"
       }
     ]
   },
@@ -88,29 +88,6 @@
         "primaryDoc": "d174184d8k.htm",
         "reportDate": "2026-11-05",
         "items": "8.01,9.01"
-      }
-    ]
-  },
-  {
-    "ticker": "AMZN",
-    "title": "AMAZON COM INC",
-    "cik": "0001018724",
-    "filings": [
-      {
-        "form": "4",
-        "filed": "2026-11-04",
-        "accession": "0001936006-26-000028",
-        "primaryDoc": "xslF345X06/wk-form4_1793831214.xml",
-        "reportDate": "2026-11-02",
-        "items": ""
-      },
-      {
-        "form": "144",
-        "filed": "2026-11-04",
-        "accession": "0001000275-26-000119",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
-        "items": ""
       }
     ]
   },
@@ -142,22 +119,6 @@
         "primaryDoc": "d166273d8k.htm",
         "reportDate": "2026-11-03",
         "items": "8.01,9.01"
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-04",
-        "accession": "0000950103-26-016962",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-11-02",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-04",
-        "accession": "0001160077-26-000013",
-        "primaryDoc": "xslF345X06/form4-11042026_091132.xml",
-        "reportDate": "2026-11-02",
-        "items": ""
       }
     ]
   },
