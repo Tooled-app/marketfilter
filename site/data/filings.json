@@ -5,12 +5,12 @@
     "cik": "0001045810",
     "filings": [
       {
-        "form": "4",
-        "filed": "2026-11-06",
-        "accession": "0001197647-26-000013",
-        "primaryDoc": "xslF345X06/wk-form4_1793999520.xml",
-        "reportDate": "2026-11-04",
-        "items": ""
+        "form": "8-K",
+        "filed": "2026-11-12",
+        "accession": "0001045810-26-000082",
+        "primaryDoc": "nvda-20261111.htm",
+        "reportDate": "2026-11-11",
+        "items": "5.02,9.01"
       }
     ]
   },
@@ -19,6 +19,14 @@
     "title": "Apple Inc.",
     "cik": "0000320193",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-12",
+        "accession": "0001140361-26-043484",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-10",
+        "items": ""
+      },
       {
         "form": "8-K",
         "filed": "2026-11-09",
@@ -34,6 +42,14 @@
     "title": "MICROSOFT CORP",
     "cik": "0000789019",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-12",
+        "accession": "0000789019-26-000234",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-10",
+        "items": ""
+      },
       {
         "form": "4",
         "filed": "2026-11-10",
@@ -53,24 +69,94 @@
     ]
   },
   {
+    "ticker": "GOOGL",
+    "title": "Alphabet Inc.",
+    "cik": "0001652044",
+    "filings": [
+      {
+        "form": "144",
+        "filed": "2026-11-12",
+        "accession": "0001968582-26-001139",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
+      {
+        "form": "144",
+        "filed": "2026-11-12",
+        "accession": "0001968582-26-001138",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
+      {
+        "form": "144",
+        "filed": "2026-11-12",
+        "accession": "0001968582-26-001137",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
+      {
+        "form": "144",
+        "filed": "2026-11-12",
+        "accession": "0001969223-26-001174",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      }
+    ]
+  },
+  {
+    "ticker": "AMZN",
+    "title": "AMAZON COM INC",
+    "cik": "0001018724",
+    "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-12",
+        "accession": "0001018724-26-000042",
+        "primaryDoc": "xslF345X06/wk-form4_1794526071.xml",
+        "reportDate": "2026-11-11",
+        "items": ""
+      }
+    ]
+  },
+  {
     "ticker": "META",
     "title": "Meta Platforms, Inc.",
     "cik": "0001326801",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-12",
+        "accession": "0000950103-26-017401",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-09",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-12",
+        "accession": "0000950103-26-017398",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-09",
+        "items": ""
+      },
+      {
+        "form": "8-K",
+        "filed": "2026-11-12",
+        "accession": "0001193125-26-458525",
+        "primaryDoc": "d177728d8k.htm",
+        "reportDate": "2026-11-12",
+        "items": "8.01,9.01"
+      },
       {
         "form": "144",
         "filed": "2026-11-09",
         "accession": "0001921094-26-001151",
         "primaryDoc": "xsl144X01/primary_doc.xml",
         "reportDate": "",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-06",
-        "accession": "0000950103-26-017123",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-11-04",
         "items": ""
       }
     ]
