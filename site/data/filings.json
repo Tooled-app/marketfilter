@@ -1,9 +1,40 @@
 [
   {
+    "ticker": "NVDA",
+    "title": "NVIDIA CORP",
+    "cik": "0001045810",
+    "filings": [
+      {
+        "form": "144",
+        "filed": "2026-11-19",
+        "accession": "0001921094-26-001223",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
+        "items": ""
+      },
+      {
+        "form": "8-K",
+        "filed": "2026-11-17",
+        "accession": "0001045810-26-000088",
+        "primaryDoc": "nvda-20261117.htm",
+        "reportDate": "2026-11-17",
+        "items": "2.02,9.01"
+      }
+    ]
+  },
+  {
     "ticker": "AAPL",
     "title": "Apple Inc.",
     "cik": "0000320193",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-19",
+        "accession": "0001140361-26-044952",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-17",
+        "items": ""
+      },
       {
         "form": "4",
         "filed": "2026-11-18",
@@ -146,6 +177,30 @@
     "filings": [
       {
         "form": "4",
+        "filed": "2026-11-19",
+        "accession": "0000950103-26-017904",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-17",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-19",
+        "accession": "0000950103-26-017902",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-17",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-19",
+        "accession": "0000950103-26-017900",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-17",
+        "items": ""
+      },
+      {
+        "form": "4",
         "filed": "2026-11-17",
         "accession": "0000950103-26-017707",
         "primaryDoc": "xslF345X06/ownership.xml",
@@ -286,14 +341,6 @@
         "primaryDoc": "jpm-20261117.htm",
         "reportDate": "2026-11-17",
         "items": "5.02"
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-13",
-        "accession": "0001225208-26-008974",
-        "primaryDoc": "xslF345X06/doc4.xml",
-        "reportDate": "2026-11-12",
-        "items": ""
       }
     ]
   },
@@ -308,14 +355,6 @@
         "accession": "0000070858-26-000593",
         "primaryDoc": "xslF345X06/form4.xml",
         "reportDate": "2026-11-15",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-13",
-        "accession": "0000070858-26-000584",
-        "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-11-12",
         "items": ""
       }
     ]
