@@ -58,6 +58,7 @@ export default function StoriesPage() {
                 {s.headline}
               </div>
               <div className="src">
+                {s.byline ? `${s.byline} · ` : ""}
                 {s.tickers.join(", ")} Â· novelty {s.novelty}/10 Â· impact {s.impact}/10 Â· confidence {s.confidence}/10
               </div>
               <p className="desc text-[var(--dim)] text-[13px] mt-3 leading-relaxed">{s.finding}</p>

@@ -47,6 +47,7 @@ export default async function StoryPage({ params }: { params: Promise<{ id: stri
       </h1>
       <div className="mt-3 flex gap-4 text-[12px] text-[var(--faint)]">
         <span>Tickers: <b className="text-[var(--ink)]">{story.tickers.join(", ")}</b></span>
+        {story.byline ? <span>By <b className="text-[var(--ink)]">{story.byline}</b></span> : null}
         <span>Novelty <b className="text-[var(--ink)]">{story.novelty}/10</b></span>
         <span>Impact <b className="text-[var(--ink)]">{story.impact}/10</b></span>
         <span>Confidence <b className="text-[var(--ink)]">{story.confidence}/10</b></span>

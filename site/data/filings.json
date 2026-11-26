@@ -19,14 +19,6 @@
         "primaryDoc": "nvda-20261122.htm",
         "reportDate": "2026-11-22",
         "items": "5.02,9.01"
-      },
-      {
-        "form": "144",
-        "filed": "2026-11-19",
-        "accession": "0001921094-26-001223",
-        "primaryDoc": "xsl144X01/primary_doc.xml",
-        "reportDate": "",
-        "items": ""
       }
     ]
   },
@@ -37,10 +29,18 @@
     "filings": [
       {
         "form": "4",
-        "filed": "2026-11-19",
-        "accession": "0001140361-26-044952",
+        "filed": "2026-11-25",
+        "accession": "0001140361-26-045775",
         "primaryDoc": "xslF345X06/form4.xml",
-        "reportDate": "2026-11-17",
+        "reportDate": "2026-11-24",
+        "items": ""
+      },
+      {
+        "form": "144",
+        "filed": "2026-11-25",
+        "accession": "0001950047-26-011519",
+        "primaryDoc": "xsl144X01/primary_doc.xml",
+        "reportDate": "",
         "items": ""
       }
     ]
@@ -193,6 +193,14 @@
     "cik": "0001326801",
     "filings": [
       {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0000950103-26-018246",
+        "primaryDoc": "xslF345X06/ownership.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
         "form": "144",
         "filed": "2026-11-23",
         "accession": "0001921094-26-001245",
@@ -207,30 +215,6 @@
         "primaryDoc": "meta-20261118.htm",
         "reportDate": "2026-11-18",
         "items": "8.01"
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-19",
-        "accession": "0000950103-26-017904",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-11-17",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-19",
-        "accession": "0000950103-26-017902",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-11-17",
-        "items": ""
-      },
-      {
-        "form": "4",
-        "filed": "2026-11-19",
-        "accession": "0000950103-26-017900",
-        "primaryDoc": "xslF345X06/ownership.xml",
-        "reportDate": "2026-11-17",
-        "items": ""
       }
     ]
   },
@@ -239,6 +223,14 @@
     "title": "BANK OF AMERICA CORP /DE/",
     "cik": "0000070858",
     "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0000070858-26-000609",
+        "primaryDoc": "xslF345X06/primary_doc.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
       {
         "form": "8-K",
         "filed": "2026-11-20",
@@ -285,6 +277,101 @@
         "accession": "0000070858-26-000600",
         "primaryDoc": "xslF345X06/primary_doc.xml",
         "reportDate": "2026-11-18",
+        "items": ""
+      }
+    ]
+  },
+  {
+    "ticker": "XOM",
+    "title": "ExxonMobil Holdings Corp",
+    "cik": "0002115436",
+    "filings": [
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000044",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000042",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000040",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000038",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-24",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000036",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000034",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000032",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000030",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-23",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000028",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-24",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000026",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-24",
+        "items": ""
+      },
+      {
+        "form": "4",
+        "filed": "2026-11-25",
+        "accession": "0002115436-26-000024",
+        "primaryDoc": "xslF345X06/form4.xml",
+        "reportDate": "2026-11-24",
         "items": ""
       }
     ]
